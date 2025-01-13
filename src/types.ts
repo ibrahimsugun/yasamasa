@@ -8,12 +8,7 @@ export interface Message {
 
 export interface ChatResponse {
   id: string;
-  type: 'abort' | 'textResponse';
   textResponse: string;
   sentiment?: string;
-  sources?: {
-    title: string;
-    chunk: string;
-  }[];
   error?: string;
 }

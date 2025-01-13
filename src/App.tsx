@@ -34,23 +34,6 @@ function App() {
     setIsLoading(true);
 
     try {
-      // İlk olarak duygu analizi isteği
-      const sentimentResponse = await fetch(`${API_CONFIG.baseUrl}/workspace/${API_CONFIG.workspace}/chat`, {
-        method: 'POST',
-        headers: {
-          'Content-Type': 'application/json',
-          'Authorization': `Bearer ${API_CONFIG.apiKey}`
-        },
-        body: JSON.stringify({
-          message: input,
-          mode: 'sentiment',
-          sessionId: 'sentiment-session'
-        })
-      });
-
-      const sentimentData: ChatResponse = await sentimentResponse.json();
-      
-      // Ardından normal sohbet isteği
       const chatResponse = await fetch(`${API_CONFIG.baseUrl}/workspace/${API_CONFIG.workspace}/chat`, {
         method: 'POST',
         headers: {
@@ -59,10 +42,13 @@ function App() {
         },
         body: JSON.stringify({
           message: input,
-          mode: 'chat',
           sessionId: 'default-session'
         })
       });
+
+      if (!chatResponse.ok) {
+        throw new Error(`API yanıt hatası: ${chatResponse.status}`);
+      }
 
       const chatData: ChatResponse = await chatResponse.json();
 
@@ -70,14 +56,8 @@ function App() {
         throw new Error(chatData.error);
       }
 
-      setMessages(prev => prev.map(msg => 
-        msg.id === userMessage.id 
-          ? { ...msg, sentiment: sentimentData.sentiment }
-          : msg
-      ));
-
       const botMessage: Message = {
-        id: chatData.id,
+        id: chatData.id || Date.now().toString(),
         type: 'bot',
         text: chatData.textResponse,
         timestamp: new Date(),
@@ -86,6 +66,7 @@ function App() {
 
       setMessages(prev => [...prev, botMessage]);
     } catch (error) {
+      console.error('API Hatası:', error);
       const errorMessage: Message = {
         id: Date.now().toString(),
         type: 'bot',
@@ -120,7 +101,6 @@ function App() {
               <div className="flex flex-col items-center justify-center h-64 text-gray-500 space-y-4">
                 <MessageCircle className="w-12 h-12 text-blue-500" />
                 <p className="text-lg">Merhaba! Size nasıl yardımcı olabilirim?</p>
-                <p className="text-sm text-gray-400">Duygu analizi özelliği ile mesajlarınızı analiz edebilirim.</p>
               </div>
             ) : (
               <div className="space-y-4">
