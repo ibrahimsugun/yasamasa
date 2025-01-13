@@ -1,0 +1,11 @@
+# Env dosyaları
+.env
+.env.local
+.env.*.local
+
+# Diğer
+node_modules
+dist
+dist-ssr
+*.local
+.DS_Store
