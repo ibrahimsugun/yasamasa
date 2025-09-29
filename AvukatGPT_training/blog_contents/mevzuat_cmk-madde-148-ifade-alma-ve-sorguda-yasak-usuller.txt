@@ -1,0 +1,653 @@
+İfade Alma ve Sorguda Yasak Usuller
+
+CMK Madde 148
+
+CMK Madde 148 Gerekçesi
+
+CMK 148 (İfade Alma ve Sorguda Yasak Usuller) Emsal Yargıtay Kararları
+
+(1) Şüphelinin ve sanığın beyanı özgür iradesine dayanmalıdır. Bunu engelleyici nitelikte kötü davranma, işkence, ilâç verme, yorma, aldatma, cebir veya tehditte bulunma, bazı araçları kullanma gibi bedensel veya ruhsal müdahaleler yapılamaz.
+
+(2) Kanuna aykırı bir yarar vaat edilemez.
+
+(3) Yasak usullerle elde edilen ifadeler rıza ile verilmiş olsa da delil olarak değerlendirilemez.
+
+(4) Müdafi hazır bulunmaksızın kollukça alınan ifade, hâkim veya mahkeme huzurunda şüpheli veya sanık tarafından doğrulanmadıkça hükme esas alınamaz.
+
+(5) Şüphelinin aynı olayla ilgili olarak yeniden ifadesinin alınması ihtiyacı ortaya çıktığında, bu işlem ancak Cumhuriyet savcısı tarafından yapılabilir.
+
+5271 sayılı CMK (Ceza Muhakemesi Kanunu) Tam Metin
+
+Makale:İfade Verme/Alma ve Sorgu
+
+Madde, ifade almada veya sorguda başvurulmaması gereken ve bazen kanunlara göre suç oluşturacak olan yasak usulleri göstermektedir. 
+İfadesi alınan veya sorguya çekilen kişinin belli bir şekilde suçlanan bir kişi olması nedeniyle, şüpheli veya sanık statüsünde olduğu konusunda kuşku yoktur.
+
+Madde, şüpheli veya sanığın beyanının hür iradesine dayanması gerektiği ilkesini koymaktadır. Böyle olunca, özgür iradeyi engelleyici nitelikte hiçbir davranışa başvurulamaz. Birinci fıkranın ikinci tümcesinde yer alan ve özgür iradeyi engelleyici nitelikteki eylemler aslında örnek olarak gösterilmektedir: Kötü davranma, işkence, ilâç verme, yorma, aldatma, bedensel cebir ve şiddet gibi bazı araçlar uygulanamaz. Bu hâllerin ortak nitelikleri ruhsal veya bedensel müdahale olarak, iradeyi bozmalarıdır. Ayrıca ikinci fıkra, iradeyi bozacak nitelikte kanuna aykırı yarar vaat edilemeyeceğini de hükme bağlamıştır.
+
+Maddenin son fıkrası, birinci fıkrada yer alan yasakların, usul bakımından sonucunu belirtmektedir. Böylece elde edilmiş ifadeler delil olarak değerlendirilemeyecektir yani nazara alınmayacaktır. Madde bu hususa o derecede önem vermektedir ki, ifadelerin, ilgilinin rızası olsa bile geçerli sayılması usul yönünden yasaklanmıştır.
+
+Yargıtay 7. Ceza Dairesi         2021/13261 E.  ,  2021/9190 K.
+
+Sanığın hazırlık aşamasında müdafi hazır olmaksızın alınan savunmasının kovuşturma aşamasında doğrulanmaması nedeni ile CMK’nun 148/4. maddesi uyarınca yüklenen suçun işlendiğine ilişkin mahkeme huzurunda sanık ikrarının varlığından söz edilemeyeceğinin de anlaşılması karşısında; yapılan arama hukuka aykırı olup, ele geçen delillerin yasak delil niteliğinde olduğu, Anayasa’nın 38/2, 5271 sayılı CMK’nun 206/2-a, 217/2, 230/1 maddelerine göre hukuka aykırı surette elde edilen deliller ile müdafi hazır bulunmadan kollukça alınan sanık beyanına dayanılarak sanığın mahkumiyetine karar verilemeyeceği sabit ise de; soruşturma aşamasında beyanı tespit edilen … ‘ un 19.04.2014 tarihli beyanında, sanık tarafından kullanılan yeri sanığa kiraladıklarını, komşusu … almış olduğu interneti kullanması için sanığa verdiğini, yasa dışı iddia oyunu oynattığını öğrenince itiraz ettiğini ve interneti iptal ettiğini beyan ettiğinin anlaşılması karşısında, … ve … tanık sıfatı ile beyanları tespit edildikten sonra sanığın hukuki durumunun tayin ve takdir edilmesi gerekirken, eksik kovuşturma ile yetinilerek hüküm kurulması, bozma nedenidir .
+
+Ceza Genel Kurulu - Karar: 2018/211
+
+5271 sayılı CMK’nın “İfade alma ve sorguda yasak usuller” başlıklı 148. maddesinin
+dördüncü fıkrası;
+
+“Müdafi hazır bulunmaksızın kollukça alınan ifade, hâkim veya mahkeme huzurunda şüpheli veya sanık
+tarafından doğrulanmadıkça hükme esas alınamaz.” şeklinde düzenlenmiştir.
+
+Ceza Genel Kurulunun 18.06.2013 gün 59-302 ve 16.05.2006 gün 137-142 sayılı kararlarında da
+belirtildiği üzere, ceza muhakemesi hukukunda vicdani delil sistemi benimsenmiştir. Bu sistemle
+ifade edilmek istenen, hem delil serbestliği, hem de delillerin değerlendirilmesi serbestliğidir. Ceza
+muhakemesinde somut gerçek arandığından, hâkimi bu gerçeğe götürebilecek her şey delil olabilir.
+Ancak, hükme dayanak alınan delillerin gerçekçi, akılcı, olayı temsil edici, kanıtlayıcı ve hukuka uygun
+bulunmaları gerekir. Bu belirlemeler ceza muhakemesinde şekli duruma değil, somut gerçeğe itibar
+edileceğini ortaya koymaktadır. Aksinin kabulü hak ve adalet duygularını yaralayacaktır.
+Bu bağlamda, şüpheli veya sanığın kolluk ifadesi de bir delildir. Ancak müdafii hazır olmaksızın alınan
+ifade şüpheli veya sanık tarafından doğrulanmadıkça hükme esas alınamaz. Şüpheli veya sanık, hâkim
+veya mahkeme huzurunda, müdafisiz alınan kolluk ifadesini doğruladığı takdirde, hükme esas alınabilir.
+Şüpheli veya sanığın, müdafii olmadan alınan kolluk ifadesini Cumhuriyet savcılığında doğrulaması,
+hükme esas alınması için yeterli olmamaktadır.
+
+Bu açıklamalar ışığında ön soruna ilişkin olarak yapılan değerlendirmede;
+
+5271 sayılı CMK’nın 45. maddesi uyarınca tanıklıktan çekinme hakkı bulunan ve soruşturma
+aşamasında kolluk tarafından beyanı alınıp istinabe yoluyla yapılan duruşmada tanıklıktan çekinme
+hakkını kullanan sanık Y.’nın ablası ve inceleme dışı sanık Sakine’nin gelini olan tanık E.K.’nin önceki
+beyanları ile olayın hemen ardından polis memurlarınca müdafii bulundurulmaksızın yapılan ön mülakat
+sonucu beyanlarının yazıya aktarılması suretiyle düzenlenen ve sonradan inceleme dışı sanık S. tarafından
+doğrulanmayan 30.04.2013 tarihli tutanağın, 5271 sayılı CMK’nın 148/4, 210 ve 217. maddeleri uyarınca
+hükme esas alınmasının mümkün olmadığı kabul edilmelidir.
+
+Yargıtay 12. Ceza Dairesi         2022/5641 E.  ,  2022/6294 K.
+
+Olay yeri görgü tespit tutanağına göre, sanıkların olay yerinde yakalanmadıkları, olay yerinden kaçan şahısların sanıklar olduğuna dair sanık …’ın sonradan değişiklik gösteren beyanı dışında delil elde edilemediği, kazı aletleri üzerinde parmak izi incelemesi yapılmadığı, her ne kadar sanıklar kollukta müdafisiz alınan beyanlarında kazı yaptıklarını kabul etmiş iseler de mahkemedeki savunmalarında izinsiz kazı yapmadıklarını belirterek atılı suçlamayı kabul etmedikleri, CMK’nın 148/4. maddesindeki müdafii hazır bulunmaksızın kollukça alınan ifadenin hakim veya mahkeme huzurunda şüpheli ve ya sanık tarafından doğrulanmadıkça hükme esas alınamaz hükmü gözetildiğinde sanıkların müdafisiz alınan kolluk beyanlarının hükme esas alınamaz.
+
+…….
+
+Yargıtay 4CD Esas : 2020/15785 Karar : 2022/15253
+
+CMK’nın 148/4. maddesinde yer alan “Müdafi hazır bulunmaksızın kollukça alınan ifade, hâkim veya mahkeme huzurunda şüpheli veya sanık tarafından doğrulanmadıkça hükme esas alınamaz” ve aynı Yasa’nın 213. maddesinde yer alan “Aralarında çelişki bulunması halinde; sanığın, hâkim veya mahkeme huzurunda yaptığı açıklamalar ile Cumhuriyet Savcısı tarafından alınan veya müdafiinin hazır bulunduğu kolluk ifadesine ilişkin tutanaklar duruşmada okunabilir.” şeklindeki yasal düzenlemeler karşısında, sanığın müdafisiz alınan kolluk ifadesi hükme esas alınarak yazılı şekilde hüküm kurulması, bomza nedenidir.
+
+……
+
+Yargıtay 8CD Esas : 2021/17002 Karar : 2022/9259
+
+CMK’nın 148/4. madde uyarınca müdafi hazır bulunmaksızın kollukça alınan ifade sanık tarafından doğrulanmadıkça hükme esas alınamayacağı, sanık her ne kadar kolluk ifadesinde suça konu silahın kendisine ait olduğunu ifade etmiş ise de kovuşturma aşamasında, arama yapılan eve uyuşturucu satın almak için gittiğini ve silahın ev sahibine ait olduğunu savunması karşısında; sair deliller dikkate alınarak sanığın hukuki durumunun tayin ve takdiri gerekirken doğrulanmayan kolluk ifadesi hükme esas alınarak CMK’nın 148/4. maddesine aykırı davranılması bozma nedenidir.
+
+Yargıtay 10. Ceza Dairesi         2023/6153 E.  ,  2024/704 K.
+
+Hakkında kullanmak için uyuşturucu madde bulundurma suçundan ayrı soruşturma yürütülen tanık Üzeyir’in üzerinden sentetik kannabinoid ele geçirildiği olayda 5271 sayılı Kanun’un 148 inci maddesinin
+dördüncü fıkrasında yer alan “Müdafi hazır bulunmaksızın kollukça alınan ifade, hâkim veya mahkeme huzurunda şüpheli veya sanık tarafından doğrulanmadıkça hükme esas alınamaz” düzenlemesinin sadece ifade sırasında zorunlu müdafi bulunması gereken suçlar bakımından değil şüpheli sıfatıyla kollukta alınan ve hâkim veya mahkeme huzurunda doğrulanmayan tüm beyanlara ilişkin olması, dosya içeriği ve uyapta yapılan sorgulamada yapılan arama işlemine ilişkin herhangi bir evrakın dosyaya yansımadığı göz önünde bulundurulduğunda, arama işleminin usulsüz olduğu, bu çerçevede elde edilen delillerin hukuka aykırı delil olduğu, dolayısıyla söz konusu delil göz ardı edildiğinde, sair deliller bakımından, tanık Üzeyir’in beyanlarının sanığın mahkumiyetine yetecek derecede somut ve net olmadığı, Yargıtay içtihatlarında da vurgulandığı üzere, sanık hakkında mahkûmiyet hükmü verilebilmesi için mevcut delillerin her türlü şüpheden uzak olması ve somut ve net olması gerekeceği, oysa tanığın beyanında somut ve net beyanlarda bulunmadığı, hatırlamadığını beyan ettiği, genel geçer ifadeler kullandığı, bu haliyle sanığın üzerine atılı suçu işlediğini gösterir mahkûmiyetine yeter nitelikte somut delil elde edilemediği, mevcut delil durumu ile mahkûmiyet hükmü kurulmasının hukuki olmayacağı, sanığın üzerine atılı uyuşturucu veya uyarıcı madde ticareti yapma veya sağlama suçunu işlediğinden bahisle 5237 sayılı Kanun’un 188 inci maddesinin üçüncü ve dördüncü fıkraları gereğince cezalandırılması istemiyle kamu davası açılmış ise de, sanığın üzerine atılı suçu işlediğine dair kuşku sınırlarını aşan, kesin, inandırıcı ve hukuka uygun delil elde edilemediğinden, müsnet suçu işlediği sabit olmadığı gerekçesiyle sanığın beraatine karar verildiği anlaşılmıştır. Yerel mahkekeme kararı usule ve yasaya uygundur.
+
+YARGITAY 2. CEZA DAİRESİ
+Esas : 2015/17979 Karar : 2018/5722Tarih : 7.05.2018
+
+CMK 148. Madde
+
+İfade Alma ve Sorguda Yasak Usuller
+
+1- Sanığın, 17.10.2014 tarihinde müdafiisiz olarak alınan kolluk ifadesinde atılı suçlamayı kabul etmekle birlikte, kovuşturma aşamasındaki savunmasında atılı suçlamayı kabul etmediğinin ve 5271 sayılı CMK’nın 148/4. maddesine göre sanık tarafından hakim veya mahkeme huzurunda doğrulanmadıkça hükme esas alınamayacak olan bu kolluk ifadesinin doğru olup olmadığının da sanığa sorulmadığının anlaşılması karşısında, mukayeseye elverişli fotoğrafları temin edildikten sonra, olay yeri görüntülerindeki eylemi gerçekleştiren şahsın sanık … olup olmadığının tespiti için bilirkişi incelemesi yaptırılması, soruşturma aşamasında tanık olarak kollukta ifadesi alınan … ile dosya içesindeki 17.09.2014 tarihli fotoğraf teşhis tutanağında olay günü eylemi gerçekleştiren şahıs ile yüz yüze gelip muhatap oldukları ve suç tarihinde suça konu aracın çalındığı işyerinde çalıştıkları belirtilen…ve ….’a mümkünse canlı olarak değilse fotoğraf üzerinden teşhis ettirilmesi, ayrıca 31.10.2014 tarihli olay görüntü inceleme ve tespit tutanağını düzenleyen kolluk görevlilerinin tutanak tanığı olarak dinlenip bu tanıklara görüntülerdeki şahsın sanık … olarak ne şekilde tespit edildiği sorularak tüm bu hususlar yerine getirildikten sonra sanığın kolluk ifadesinde ismini ve telefon numarasını verdiği…. isimli şahsın araştırılarak bulunduğu takdirde sanığın savunması doğrultusunda ifadesinin de alınarak delillerin birlikte değerlendirilmesi sonucu sanığın hukuki durumunun takdir ve tayininin gerektiği gözetilmeden eksik araştırma ve inceleme ile yazılı şekilde hüküm kurulması,
+
+2- Yargılamanın yapıldığı esas mahkemesince sorgusu yapılmamış olan sanığın alt sınırı beş yıl ve daha fazla hapis cezasını gerektiren atılı suç için istinabe suretiyle sorgusu yapılamayacağı gözetilmeden 5271 sayılı CMK’nın 196/2. maddesine aykırı şekilde istinabe suretiyle yapılan sorgusu esas alınmak suretiyle hükümlülük kararı verilerek savunma hakkının kısıtlanması,
+
+Bozmayı gerektirmiş, sanığın temyiz itirazları bu itibarla yerinde görülmüş olduğundan hükmün bu sebeplerden dolayı istem gibi BOZULMASINA, 07/05/2018 gününde oybirliğiyle karar verildi.
+
+YARGITAY 16. CEZA DAİRESİ 
+Esas : 2017/2783 Karar : 2018/218Tarih : 6.02.2018
+
+CMK 148. Madde
+
+İfade Alma ve Sorguda Yasak Usuller
+
+Hüküm: İstinaf başvurusunun, tehlikeli maddeleri izinsiz olarak bulundurma veya el değiştirme suçundan kurulan hükmün düzeltilerek, silahlı terör örgütüne üye olma suçundan kurulan hükmün esastan reddine
+
+Bölge Adliye Mahkemesince verilen hüküm temyiz edilmekle;
+
+Temyiz edenin sıfatı, başvurunun süresi, kararın niteliği ve temyiz sebebine göre silahlı terör örgütüne üye olma suçundan duruşmalı, tehlikeli maddeleri izinsiz olarak bulundurma veya el değiştirme suçundan duruşmasız olarak yapılan inceleme sonunda gereği düşünüldü;
+
+Temyiz talebinin reddi nedenleri bulunmadığından tehlikeli maddeleri izinsiz olarak bulundurma veya el değiştirme ve silahlı terör örgütüne üye olma suçları yönünden işin esasına geçildi;
+
+Hükmolunan cezanın süresine göre şartları bulunmadığından sanık müdafiinin tehlikeli maddelerin izinsiz olarak bulundurulması veya el değiştirmesi suçundan duruşmalı inceleme isteminin CMK’nın 299. maddesi uyarınca REDDİNE,
+
+Vicdani kanının oluştuğu duruşma sürecini yansıtan tutanaklar, belgeler ve gerekçe içeriğine göre yapılan incelemede;
+
+Sanığın kollukta müdafii bulunmaksızın alman ifadesinin, duruşmada kabul edilmedikçe CMK 148/4 maddesi kapsamında hükme esas alınamayacağından bu beyanın delil olarak kabul edilmediği, ayrıca sanığın üzerinde bulunan ve dış bakıştan kolaylıkla görülebilen patlayıcı maddelerin bulunduğu pakete arama sonucu el koyma işleminin, 2559 sayılı Yasanın 4/A ve CMK’nın 90/2-4 maddeleri gereğince kanuna
+
+uygun olduğundan, arama sonucu elde edilen delillerin hukuka aykırı olarak elde edildiğine dair savunmanın yerinde görülmediği, belirlenerek yapılan incelemede;
+
+Yargılama sürecindeki usuli işlemlerin kanuna uygun olarak yapıldığı, hükme esas alman tüm delillerin yukarıda açıklandığı üzere hukuka uygun olarak elde edildiğinin belirlendiği aşamalarda ileri sürülen iddia ve savunmaların temyiz denetimini sağlayacak biçimde eksiksiz olarak sergilendiği, özleri değiştirmeksizin tartışıldığı, vicdani kanının kesin, tutarlı ve çelişmeyen verilere dayandırıldığı, eylemlerin doğru olarak nitelendirildiği ve kanunda öngörülen suç tipine uyduğu, yaptırımların kanuni bağlamda şahsileştirilmek suretiyle uygulandığı anlaşılmakla; sanık müdafiinin duruşmada ve temyiz dilekçesinde ileri sürdüğü nedenler yerinde görülmediğinden silahlı terör örgütüne üye olma suçundan duruşmalı, tehlikeli maddeleri izinsiz olarak bulundurma veya el değiştirme suçundan duruşmasız olarak yapılan incelemede CMK’nın 302/1. maddesi gereğince temyiz davasının esastan reddiyle hükmün ONANMASINA, 06.02.2018 tarihinde oybirliğiyle karar verildi.
+
+TEFHİM ŞERHİ:
+
+06.02.2018 tarihinde verilen iş bu karar, Yargıtay Cumhuriyet savcısı …‘nun huzurunda, duruşmada sanık …‘ın savunmasını yapmış bulunan Av. …‘in yokluğunda, 21.02.2018 tarihinde usulen ve açık olarak tefhim olundu.
+
+YARGITAY 19. CEZA DAİRESİ
+Esas : 2016/982 Karar : 2017/6010Tarih : 21.06.2017
+
+CMK 148. Madde
+
+İfade Alma ve Sorguda Yasak Usuller
+
+Yerel Mahkemece verilen hükümler temyiz edilmekle; başvurunun süresi, kararın niteliği ve suç tarihine göre dosya incelendi, gereği görüşülüp düşünüldü:
+
+Temyiz isteğinin reddi nedenleri bulunmadığından işin esasına geçildi.
+
+Vicdani kanının oluştuğu duruşma sürecini yansıtan tutanaklar, belgeler ve gerekçe içeriğine göre yapılan incelemede,
+
+A-Sanık … hakkında verilen mahkumiyet kararı yönünden;
+
+Sanığın suç tarihinde diğer sanık …‘e ait olan Ada Sahaf isimli iş yerinde bulunduğu sırada kolluk kuvvetlerince arama yapılması sonucunda bandrolsüz ve sahte bandrollü kitapların ele geçtiği olayla ilgili olarak, kovuşturma aşamasında 11/10/2012 tarihinde alınan savunmasında; iş yerine çay içmeye gittiğini, kitaplarla ilgisi olmadığını beyan etmesi, diğer sanık …‘in soruşturma ve kovuşturma aşamalarında kitapların kendisine ait olduğunu, …‘nun bu kitaplarla ilgisi olmadığını beyan etmesi karşısında; 5271 sayılı CMK’nın 148/4 maddesinde; “Müdafi hazır bulunmaksızın kollukça alınan ifade, hakim veya mahkeme huzurunda şüpheli veya sanık tarafından doğrulanmadıkça hükme esas alınamaz.” şeklindeki düzenleme uyarınca müdafii hazır bulunmadan kollukça alınan sanığın beyanı dışında başkaca mahkumiyetine yeterli delil bulunmayan sanık hakkında beraat kararı verilmesi gerekirken, mahkumiyetine hükmolunması,
+
+B-Sanık … hakkında verilen mahkumiyet kararı yönünden; başkaca temyiz nedenleri yerinde görülmemiştir.
+
+Ancak;
+
+1-5237 Sayılı TCK’nın 44. maddesinde “işlediği bir fiil ile birden fazla farklı suçun oluşmasına sebebiyet veren kişi, bunlardan en ağır cezayı gerektiren suçtan cezalandırılır” hükmüne yer verilmesi, bir fiilden kastedilenin sanıkların hareket veya hareketlerinin bir sonucu elde etmeye (bir suçu işlemeye) yönelik olması, bu nedenle de fiilde birden fazla hareketin bulunabilmesi karşısında; 134 adet sahte bandrollü, 1233 adet bandrolsüz, 12 adet de başka bir esere ait bandrol yapıştırılmış kitapları sattıkları tespit edilen sanıkların eyleminin TCK’nın 44. maddesi aracılığıyla 5846 sayılı Kanun’un 81/9. maddesine uyduğu gözetilmeden, aynı Kanun’un 71/1, 81/13 ve 81/9. maddelerinden ayrı ayrı cezaya hükmolunması,
+
+2-Kasıtlı suçtan hapis cezasına mahkumiyetin kanuni sonucu olarak sanık hakkında 5237 sayılı TCK’nın 53. maddesi uyarınca hak yoksunluklarına hükmedilmiş ise de, 24/11/2015 tarih ve 29542 sayılı Resmi Gazete’de yayımlanan Anayasa Mahkemesinin 08/10/2015 tarih ve 2014/140 E., 2015/85 K. sayılı kararı ile anılan maddenin bazı hükümlerinin iptal edilmiş olması nedeniyle yeniden değerlendirme yapılması zorunluluğu,
+
+3-TCK’nın 53 maddesinin 1.fıkrasının uygulanması sırasında, sanığın sadece kendi altsoyu üzerindeki velayet, vesayet ve kayyımlık yetkileri açısından sınırlama getirilmesi yerine, altsoy dışındakileri de kapsayacak biçimde koşullu salıverilme tarihine kadar TCK’nın 53/1-c maddesindeki haklardan yoksun bırakılmasına karar verilerek aynı maddenin (3) numaralı fıkrasına aykırılık oluşturulması,
+
+Kanuna aykırı ve sanık … ile sanık … müdafiinin temyiz nedenleri bu itibarla yerinde görüldüğünden, hükmün 5320 sayılı Kanun’un 8/1. maddesi gereğince uygulanması gereken 1412 sayılı CMUK’nın 321. maddesi uyarınca, tebliğnameye aykırı olarak BOZULMASINA, yeniden yapılacak yargılamada CMUK’nın 326/son maddesinin gözetilmesine, yargılamanın bozma öncesi aşamadan başlayarak sürdürülüp sonuçlandırılmak üzere dosyanın mahkemesine gönderilmesine, 21/06/2017 tarihinde oybirliği ile karar verildi.
+
+YARGITAY 17. CEZA DAİRESİ
+Esas : 2016/9955 Karar : 2017/7767Tarih : 15.06.2017
+
+CMK 148. Madde
+
+İfade Alma ve Sorguda Yasak Usuller
+
+Yerel mahkemece verilen hüküm temyiz edilmekle, başvurunun süresi ve kararın niteliği ile suç tarihine göre dosya görüşüldü:
+
+Mühür bozma suçunun; oluşabilmesi için kanunun veya yetkili makamların emri uyarınca konulmuş bir mührün kaldırılması ya da konuluş amacına aykırı hareket edilmesi gerektiği, ihaleye dayalı olarak elektrik dağıtımı yapan ve kamu görevlisi statüsü bulunmayan özel şirket görevlilerince yapılacak mühürlemelerin ihlali durumunda, anılan suçun oluşmayacağı cihetle, somut olayda, özelleştirme uygulamaları neticesinde elektrik dağıtım ve satışının ….’ye 30.09.2013 tarihinde devredilmesi ve sanığın da mühür bozma eylemini 15.04.2014 tarihinde gerçekleştirmiş olması karşısında, mühür bozma suçunun yasal unsurlarının oluşmadığı ayrıca soruşturma aşamasında 10.03.2014 tarihli mühürleme tutanağının aslının ya da onaylı bir suretinin katılan kurumdan istenmesine rağmen katılan kurum tarafından saatin mühürlendiğine ilişkin tutanağa ulaşılamadığını bildirdikleri, katılan kurumun dosya kapsamına 10.03.2014 tarihli mühürleme tutanağının aslını yada onaylı bir suretini sunamadıkları gözetilerek, karşılıksız yararlanma suçu açısından sanık hakkında dosya içerisindeki aleyhe tek delil olan sanığın 10.11.2015 tarihinde kollukta alınan ikrar içerir ifadesi olduğu, söz konusu savunmada müfaii bulunmadığı, 5271 sayılı CMK’nın 148/4 maddesine göre müdafi hazır bulunmaksızın kollukça alınan ifade, hâkim veya mahkeme huzurunda şüpheli veya sanık tarafından doğrulanmadıkça hükme esas alınamayacağı karşısında, tebliğnamede ki bozma isteyen görüşe iştirak edilmemiş,
+
+Dosya ve duruşma tutanakları içeriğine, kararların dayandığı gerekçeye ve takdire göre, katılan … elektrik Dağıtım A.Ş. vekilinin temyiz nedeni yerinde görülmemiş olduğundan reddiyle usul ve kanuna uygun ve takdire dayalı bulunan hükümlerin tebliğnameye aykırı olarak ONANMASINA, 15.06.2017 tarihinde oybirliği ile karar verildi.
+
+YARGITAY 7. CEZA DAİRESİ
+Esas : 2016/18650 Karar : 2017/4880Tarih : 5.06.2017
+
+CMK 148. Madde
+
+İfade Alma ve Sorguda Yasak Usuller
+
+Yerel mahkemece verilen hüküm temyiz edilmekle; başvurunun nitelik, ceza türü, süresi ve suç tarihine göre dosya okunduktan sonra Türk Milleti adına gereği görüşülüp düşünüldü;
+
+Sanığın dava konusu eşyayı gümrük işlemlerine tabi tutmadan yurda getirdiği gerekçesiyle kamu davası açılmış olup, tüm dosya içeriğine göre sanığın belirlenen gümrük kapısından yolcu olarak yurda giriş yaptığı, 5271 sayılı CMK.nun 148/4. maddesi uyarınca müdafii hazır bulunmaksızın kolluk tarafından alınan ifade hakim veya mahkeme huzurunda doğrulanmadıkça hükme esas alınamayacağı gözetildiğinde, sanığın kollukta müdafii hazır olmadan verdiği ifadesini mahkeme huzurunda doğrulamadığı ve ele geçen eşyayı kişisel kullanımı için aldığını savunması karşısında; sanıktan ele geçen ve yolcu beraberi statüsünde getirilen eşyanın ticari mahiyette bulunmadığı, ithalinin yasak olmadığı ve hüküm tarihinde yürürlükte bulunan Gümrük Kanunu’nun 235. maddesi gereğince Gümrük İdarelerince gümrük vergisinin alınmasını gerektirir yaptırıma tabi bulunduğu gözetilerek sanığın beraati yerine mahkumiyetine; dava konusu eşya yönünden ise, 11.04.2013 tarih ve 28615 sayılı Resmi Gazete’de yayımlanarak yürürlüğe giren 6455 sayılı Yasanın 12. maddesi ile değişik 4458 sayılı Yasanın 235. maddesi uyarınca işlem yapılmak üzere Gümrük İdaresi’ne gönderilmesine karar verilmesi gerekirken yazılı şekilde hüküm tesisi,
+
+Yasaya aykırı, sanığın ve katılan … İdaresi vekilinin temyiz itirazları bu itibarla yerinde görüldüğünden, hükmün 5320 sayılı Yasanın 8/1. maddesi gereğince yürürlükte bulunan 1412 sayılı CMUK.nun 321. maddesi uyarınca BOZULMASINA, 05.06.2017 gününde oybirliğiyle karar verildi.
+
+YARGITAY 20. CEZA DAİRESİ
+Esas : 2015/10884 Karar : 2017/3530Tarih : 31.05.2017
+
+CMK 148. Madde
+
+İfade Alma ve Sorguda Yasak Usuller
+
+GEREĞİ GÖRÜŞÜLÜP DÜŞÜNÜLDÜ :
+
+1 - Sanık … hakkında uyuşturucu madde ticareti yapma suçundan kurulan hükmün incelenmesi:
+
+TCK’nın 53. maddesinin uygulanması ile ilgili olarak Anayasa Mahkemesi’nin 08.10.2015 tarih ve E.2014/140; K.2015/85 sayılı kararının infaz aşamasında gözetilmesi mümkün görülmüştür.
+
+Yargılama sürecindeki işlemlerin kanuna uygun olarak yapıldığı, aşamalarda ileri sürülen iddia ve savunmaların toplanan tüm delillerle birlikte gerekçeli kararda gösterilip tartışıldığı, eylemin sanık tarafından gerçekleştirildiğinin saptandığı, vicdanî kanının dosya içindeki belge ve bilgilerle uyumlu olarak kesin verilere dayandırıldığı, eyleme uyan suç tipi ile aşağıda belirtilen dışında yaptırımların doğru biçimde belirlendiği anlaşıldığından yerinde görülmeyen temyiz itirazlarının reddiyle hükmün ONANMASINA,
+
+2 - Sanık … hakkında uyuşturucu madde ticareti yapma suçundan kurulan hükmün incelenmesi:
+
+Yargılama sürecindeki işlemlerin kanuna uygun olarak yapıldığı, aşamalarda ileri sürülen iddia ve savunmaların toplanan tüm delillerle birlikte gerekçeli kararda gösterilip tartışıldığı, eylemin sanık tarafından gerçekleştirildiğinin saptandığı, vicdanî kanının dosya içindeki belge ve bilgilerle uyumlu olarak kesin verilere dayandırıldığı, eyleme uyan suç tipi ile aşağıda belirtilen dışında yaptırımların doğru biçimde belirlendiği anlaşıldığından yerinde görülmeyen temyiz itirazlarının reddine, ancak;
+
+Sanık … müdafiinin sanık hakkında ‘lehe olan kanun ve mevzuat hükümlerinin uygulanmasına’ ilişkin beyanlarına rağmen suç tarihinde 18 yaşını doldurmamış ve daha önce hapis cezasına mahkûm edilmemiş olan sanığa verilen hapis cezasının 5237 sayılı TCK’nın 51/1. maddesinde belirtilen erteleme hükümlerinin uygulanıp uygulanmayacağının tartışılmaması,
+
+Kanuna aykırı, Cumhuriyet savcısının temyiz itirazları bu nedenle yerinde olduğundan, hükmün CMUK’nın 321. maddesi gereğince BOZULMASINA,
+
+3 - Sanık … hakkında uyuşturucu madde ticareti yapma suçundan kurulan hükmün incelenmesi:
+
+Yargılama sürecindeki işlemlerin kanuna uygun olarak yapıldığı, delillerin gerekçeli kararda gösterilip tartışıldığı, vicdanî kanının dosya içindeki belge ve bilgilerle uyumlu olarak kesin verilere dayandırıldığı, eylemin sanık tarafından gerçekleştirildiğinin saptandığı, eyleme uyan suç tipi ile aşağıda belirtilen dışında yaptırımların doğru biçimde belirlendiği anlaşıldığından yerinde görülmeyen temyiz itirazlarının reddine, ancak;
+
+a) Sanık …’in diğer sanıkların yakalanmasını ve suçlarının ortaya çıkmasını sağladığı anlaşıldığından yardımın niteliğine göre hakkında TCK 192/3 madde gereğince daha fazla oranda indirim yapılması gerekirken ¼ oranında indirim yapılması,
+
+b) Anayasa Mahkemesi’nin 08.10.2015 tarih ve E.2014/140; K.2015/85 sayılı kararının 24.11.2015 tarih ve 29542 sayılı Resmi Gazete’de yayımlanarak yürürlüğe girmiş olması nedeniyle TCK’nın 53. maddesiyle ilgili olarak yeniden değerlendirme yapılmasında zorunluluk bulunması,
+
+Kanuna aykırı, Cumhuriyet savcısı ve sanık …’in temyiz itirazları bu nedenle yerinde olduğundan, hükmün CMUK’nın 321. maddesi gereğince BOZULMASINA, üye …’nin değişik gerekçesiyle, 31/05/2017 tarihinde oybirliğiyle karar verildi.
+
+KISMİ KARŞI DÜŞÜNCE
+
+Sanık … … hakkında, uyuşturucu madde ticareti yapma suçundan kurulan hükmün, sanık tarafından temyizi üzerine sayın çoğunluğun bozmaya ilişkin diğer gerekçelerine katılmakla birlikte, ayrıca aşağıda belirtilen nedenle de bozulması gerekirdi. Şöyle ki;
+
+Dosya kapsamına göre, sanık …’ün uyuşturucu madde ticareti yapma suçundan 5237 sayılı TCK’nın 188/3. 192/3, 62, 52, 53/1 - 2 - 3, 63, 54. maddeleri uyarınca cezalandırılmasına karar verilen olayda; 18/10/2010 tarihinde polis güven timlerinin esnafla yaptıkları sözlü görüşmelerde 18 - 25 yaş arası birkaç erkek şahsın esrar kullandıkları ve sattıklarını düşündüklerini beyan etmeleri üzerine polis memuru … ….’ın sanık …’ün yanına giderek “çay var mı?” demesi üzerine sanığın “Bende çay yok, kurabiye var İsterseniz.” diye yanıt verdiği, polis memurunun “Bana uyar, 100 liralık ayarla, mal üstünde mi, çok bekler miyim?” diye sorması üzerine sanığın, “Mal üzerimde, parayı verirseniz ben de malı veririm” yanıtı sonucu polis memuru Kamuran’ın önceden seri numarası alınmış 100,00 TL verdiği ve sanığın da suça konu 12 gram ağırlığındaki esrar maddesini vermesi üzerine de tutanak düzenlenip sanık hakkında işlem yapıldığı anlaşılmaktadır. Tutanağa göre sanığın üzerinde başkaca suç unsuru da bulunmamaktadır. Sanık sorgusunun yapıldığı Sulh Ceza Mahkemesi ile kovuşturma aşamasındaki tüm savunmalarında uyuşturucu satmadığını ancak kullandığını söylemiştir. Sanık ile pazarlık yapıp önceden seri numarası alınmış parayı verip suça konu uyuşturucu maddeyi satın alan polis memuru Kamuran Bal’ın gizli soruşturmacı olarak atandığına ilişkin dosyada bir karar da bulunmamaktadır.
+
+Türk Ceza Kanun’unun 1. maddesine göre Ceza Kanun’unun amacı “Kişi hak ve özgürlüklerini, kamu düzen ve güvenliğini, hukuk devletini, kamu sağlığını ve çevreyi, toplum barışını korumak, suç işlenmesini önlemektir.” Ancak suç işlenmesinin önleneceğinden bahisle, başkalarına suç işletilmesi bu amaçla bağdaşmamaktadır. Kızgınlık, kırgınlık, öfke veya elem nedeniyle yahut ikramiye almak veya şüphelinin mallarına el koymak veya satın almak, eşi ile evlenmek, ünlü olmak, adını basında duyurmak, küçük hatalarının görülmemesi amacıyla kolluk kuvvetlerine yardım etmek gibi herhangi bir amaçla, bir kimseye yönelik kışkırtıcı faaliyetlerde bulunulup ona suç işlettirilmesi, suç işlemeye yönlendirilmesi halinde yüklenen suçun oluşup oluşmayacağı ve suça kışkırtılan failin sorumluluğu olaysal olarak belirlenmelidir.
+
+Mevcut olan bir soruşturmada, suçun ortaya çıkarılmasını sağlamak için görevlilerin faaliyette bulunmaları mümkündür. Ancak Devletin görevi suç işlenmesini önlemek olup, organları vasıtasıyla kişilere suç işletmesi veya suç işleme eğilimini kuvvetlendirmesi, teşvik etmesi düşünülemez. Hukuk Devleti bireylerin hak ve özgürlüklerini korur. Devlet organlarının birtakım nedenlerle kişilere suç işletmesi ve sonra da failleri cezalandırması, cezalandırma hakkının kötüye kullanılmasıdır. Kamu görevlileri, görevlerini yerine getirirken Uluslararası Sözleşmeler, Anayasa ve yasalarla bağlı olup kabul edilen ilkelere aykırı davranamazlar. Bir kimseyi suça kışkırtma hukuka aykırıdır. Devlet organları, bireyleri kışkırtarak suç işlemelerini sağlayıp sonra yakalayıp cezalandırılmalarını isteyemezler. Böyle bir uygulama yani bireyin hileli davranışlarla aldatılarak suç işlemesinin sağlanması devlete olan güveni zayıflatacağı gibi temel hakları da ihlal edecektir.
+
+Suç işleme düşüncesi bulunmayan bir kişinin heyecanlandırılarak, tahrik edilerek, duygularından yararlanılarak kışkırtılıp suçüstü yakalatmak veya cezalandırılmasını sağlamak amacıyla bir suç işlemeye yöneltilmesi, suç işlemesine yardım edilmesi, suç işlemesi için olanak tanınması halinde ona verilecek ceza adil olmayacaktır. Zira fail tarafından, hiçbir etki olmadan özgür iradesiyle işlenmesine başlanmış bir fiil olmayıp kışkırtma olmadığı takdirde belki de bu suçun işlenmesi söz konusu olmayacaktır. Manevi duyguların ön plana çıkarılarak aldatılıp suç işletilmesi, özgür iradesinin etki altına alınması halinde suç kastı olaysal olarak değerlendirilmeli delillerin elde ediliş biçimi üzerinde durulmalı, hukuka aykırı olup olmadığı tartışılmalıdır. Türkiye Cumhuriyeti Anayasa’sının 38, CMK’nın 148. maddeleri uyarınca yasak olarak elde edilen delillere dayanılarak hüküm kurulamaz, CMK’nın 206. maddesine göre de, Kanuna aykırı şekilde elde edilen deliller reddolunmalı, 217. madde gereğince hukuka uygun şekilde elde edilen delillere dayanılarak karar verilmelidir. Ayrıca CMK’nın 230/1 - b maddesinde, hükme esas alınmayan hukuka aykırı yöntemlerle elde edilen delillerin mahkûmiyet kararının gerekçesinde gösterilmesi gerektiği hükme bağlanmıştır. Hukuka aykırı olarak elde edilen delillere dayanılarak mahkûmiyet hükmü kurulamayacağından kolluk görevlilerinin, suçun ortaya çıkarılmasına yönelik faaliyetleri sırasında Anayasa ve AİHS’inde kabul edilen ilkelere uygun davranmaları, bireylerin haklarım ihlal etmemeleri zorunludur.
+
+Nitekim, AİHM’nin Teixeira de Castro/Portekiz, 09 Haziran 1998 kararında, iki sivil polis memurunun; uyuşturucu satıcılığı yaptığından şüphelenilen bir kişiyle görüşüp onun, başkasından temin ettiği uyuşturucuyu polis memuruna teslim ederken yakalandığı olayda, polis memurlarının başvurucunun suç işleme kapasitesini esasen pasif bir şekilde soruşturmakla kalmadıklarını, aksine suçun işlenmesini kışkırtacak şekilde kişiyi etkilediklerini, hareketlerinin görev tanımını aştığını, memurların müdahale olmaksızın suçun işleneceğini gösteren hiçbir şey bulunmadığını, bu nedenle AİHS’nin 6/1. maddesinin ihlal edildiğini kabul etmiştir.
+
+Yine, 21.03.2002 tarihli Calabro/İtalya ve Almanya davasında, bir suçun polis tarafından kışkırtılması halinde adil yargılanmaktan söz edilebilmesi için polisin kışkırtması olmasaydı bile suçun işleneceğine dair kesin kanıtların bulunması gerektiği belirtilmiştir.
+
+Vlachos/Yunan ıslan, 18 eylül 2008 - Teieira de Castro ve Vanyan/Rusya, 15 aralık 2005 tarihli kararlarında AİHM’nce, sınırları belirlendiği ve güvence altına alındığında gizli ajan ile müdahaleye tolerans gösterilebilse bile polis provokasyonun ardından toplanan delillerin kullanılmasına kamu yararının haklı kılmayacağı, böyle bir uygulamanın esasen adil yargılama hakkından yoksun bırakır nitelikte olduğu sonucuna varılmıştır.
+
+AİHM’nin, Ramanauskas/Litvanya kararında, belirlenen ajanların, güvenlik güçleri mensuplan veya onların isteğiyle müdahil olan kişiler yalnızca pasif bir şekilde suç teşkil eden eylemi incelemekle sınırlı kalmayıp bir sonuca ulaşmak için yani kanıt toplanarak veya kanıt sürmek için başka türlü işlemeyeceği bir suça azmettirecek nitelikte bir kişi üzerinde etkili olursa polisin provakasyonu mevcuttur,
+
+Avrupa İnsan Hakları Mahkemesi 2. Daire 15.12.2009 tarihli Burak Hun/Türkiye davasında; “Ajanın, başvuranın suç teşkil eden (uyuşturucu madde edinme ve satma suçu) eylemini sadece pasif bir şekilde incelememiş, başvuranı telefonla arayarak ve kullanımı ve satışı yasa ile yasaklanan madde temin etmesini talep ederek başvuranı suça azmettirmiştir. Başka bir deyişle, başvuran suç işleme potansiyeline sahip olmuş olsa bite dosya unsurlarına göre, somut hiçbir unsur, ajan X’in müdahalesinden önce, başvuranın suç teşkil eden bir eylem hazırlığında olduğunu ortaya koymamıştır. Bu bağlamda AİHS, özellikle başvuranın adli sicilinin temiz olmasını ve organik bir örgütün söz konusu olmamasını dikkate almaktadır. Mevcut davada söz konusu az miktardaki uyuşturucu başvuranın evinde bulunmamıştır. Başvuran, ajan X’in talebi üzerine uyuşturucuyu üçüncü bir kişiden temin etmiştir, AİHM, mevcut davada, başvuranın mahkûmiyet özellikle, ihtilaflı polis operasyonu aracılığıyla toplanan kanıtlara dayandığı değerlendirmesinde bulunmaktadır. Nitekim dosya unsurlarına ve Hükümet’in görüşüne göre, söz konusu kanıtlar, başka nisbi unsurlarla teyit edilmemiştir Polis soruşturmasının zorluklarını ve önemine dikkat eden AİHM, yukarıda söylenenler gözönüne alındığında, ajan X’in işlediği başvuranın işlediği suçu İşlemeye azmettirici etkisi olduğu ve hiçbir şeyin, X’in müdahalesi olmadan, söz konusu suçun işlenebileceğini göstermediği kanaatindedir. Söz konusu müdahaleyi ve ihtilaflı ceza davasında kullanılmasını göz önüne alan AİHM, başvuranın davasının, AHİS’nin 6. maddesinin gerektirdiği hakkaniyete uygun niteliğini kaybettiği sonucuna ulaşmıştır.”
+
+Failin, atılı suçu işlediğine dair yoğunlaşmış kuşku bulunması, bîr soruşturmaya başlanmış olması halinde, bu kuşkuların giderilmesi için adli makamların bilgisi dahilinde gizli soruşturmacı, muhbir, gizli görevli kullanılması mümkündür. Görevlinin müdahalesi adil yargılama hakkını ihlal edici nitelikle olduğu takdirde, sanığın suçu işlediğini gösteren diğer delillerin mahkûmiyete yeterli olup olmadığı, suçun nasıl işlendiği, suç eşyasının nerede ve nasıl bulunduğu, değerlendirilip sonucuna göre karar verilmelidir.
+
+Sanık …’ün sivil polis memuru dışında başka bir kişiye uyuşturucu sattığına ilişkin dosyada delil bulunmamaktadır.
+
+Yukarıda anlatılanlar birlikte değerlendirildiğinde somut olayda, kendisini uyuşturucu alıcısı olarak tanıtan sivil polis memurunun kışkırtması olmasaydı bile uyuşturucu ticareti yapacağına ya da yaptığına ilişkin mahkumiyetini gerektirir nitelikte kesin, şüpheden uzak ve yeterli delil elde edilemediği, ceza hukukunun şüpheden sanık yararlanır genel ilkesi de göz önüne alındığında, yakalanan uyuşturucu miktarı ve savunmasına göre sanığın eyleminin 5237 sayılı TCK’nın 191. madde ve fıkrasındaki suçu oluşturduğu ve bu madde uyarınca karar verilmesi gerektiği gözetilmeden, yazılı şekilde karar verilmesi gerekçesiyle de kurulan hükmün bozulmasına karar verilmemesi yönündeki sayın çoğunluğun kararına katılmıyorum. 31.05.2017
+
+YARGITAY 18. CEZA DAİRESİ
+Esas : 2015/35285 Karar : 2017/6905Tarih : 31.05.2017
+
+CMK 148. Madde
+
+İfade Alma ve Sorguda Yasak Usuller
+
+Yerel Mahkemece verilen hüküm temyiz edilmekle, başvurunun süresi ve kararın niteliği ile suç tarihine göre dosya görüşüldü:
+
+Temyiz isteğinin reddi nedenleri bulunmadığından işin esasına geçildi.
+
+Vicdani kanının oluştuğu duruşma sürecini yansıtan tutanaklar, belgeler ve gerekçe içeriğine göre yapılan incelemede;
+
+1- CMK’nın 148/4 maddesinde yer alan “Müdafi hazır bulunmaksızın kollukça alınan ifade, hâkim veya mahkeme huzurunda şüpheli veya sanık tarafından doğrulanmadıkça hükme esas alınamaz” ve aynı yasanın 213. maddesinde yer alan “Aralarında çelişki bulunması halinde; sanığın, hâkim veya mahkeme huzurunda yaptığı açıklamalar ile Cumhuriyet savcısı tarafından alınan veya müdafiinin hazır bulunduğu kolluk ifadesine ilişkin tutanaklar duruşmada okunabilir.” şeklindeki yasal düzenlemelere göre; sanığın önceki ifadesinin duruşmada okunmasının ilk koşulunun iki ifade arasında çelişki bulunması, ikinci koşulun ise sanığın önceki ifadesinin; hakim, mahkeme ya da Cumhuriyet Savcısı tarafından alınması veya kollukta alındığı taktirde ise ifadeye müdafiinin katılmış olmasıdır.
+
+Somut olayda her ne kadar sanığın kolluk ifadesinde, müştekiye hakaret ettiğini kabul etmesine rağmen bu ifadenin müdafii huzurunda alınmadığı, sanığın talimat mahkemesindeki duruşmada bu ifadesini doğrulamadığı, bu nedenle sanığın kolluk ifadesinin duruşmada okunamayacağı, hükme esas alınamayacağının gözetilmemesi,
+
+2- Sanık hakkında TCK. 125/1 maddesi gereğince cezalandırılması için dava açılmasına rağmen hakaret suçundan hüküm kurulurken, TCK. 125/2 delaletiyle 125/1 uygulama maddesi olarak gösterilmesi,
+
+3- TCK’nın 53/1-b maddesinde yer alan hak yoksunluğunun uygulanmasına ilişkin hükmün Anayasa Mahkemesinin 08.10.2015 tarih ve 2014/140 esas, 2015/85 sayılı kararıyla iptal edilmesi nedeniyle uygulanma olanağı ortadan kalkması,
+
+Bozmayı gerektirmiş, sanık …‘nun temyiz itirazları bu itibarla yerinde görülmüş olduğundan, tebliğnameye uygun olarak, HÜKMÜN BOZULMASINA, yargılamanın bozma öncesi aşamadan başlayarak sürdürülüp sonuçlandırılmak üzere dosyanın esas/hüküm mahkemesine gönderilmesine, 31/05/2017 tarihinde oy birliği ile karar verildi.
+
+YARGITAY 17. CEZA DAİRESİ 
+Esas : 2016/9989 Karar : 2017/6471Tarih : 25.05.2017
+
+CMK 148. Madde
+
+İfade Alma ve Sorguda Yasak Usuller
+
+Yerel mahkemece verilen hüküm temyiz edilmekle, başvurunun süresi ve kararın niteliği ile suç tarihine göre dosya görüşüldü:
+
+A-Sanık hakkında mala zarar verme suçundan kurulan hükmün temyiz incelemesinde,
+
+Mala zarar verme suçundan tayin edilen 2.400,00 TL adli para cezasına ilişkin hükmün, 5237 sayılı TCK’nın 50/5. maddesinde öngörülen düzenlemeye ve hükmolunan cezanın türü ile miktarına göre, 1412 sayılı CMUK’nun 5219 ve 6217 sayılı Yasalar ile değişik 305/1. maddesi gereğince kesin olması nedeniyle temyizi olanaklı bulunmadığından 5320 sayılı Yasa’nın 8/1. maddesi aracılığı ile 1412 sayılı CMUK’nın 317. maddesi gereğince sanık …‘in temyiz talebinin tebliğnameye uygun olarak REDDİNE,
+
+B-Sanık hakkında işyeri dokunulmazlığının ihlali ve hırsızlık suçlarından kurulan hükümlerin temyiz incelemesine gelince;
+
+Sanık hakkında dosya içerisindeki aleyhe tek delilin sanığın 08.08.2006 tarihinde kollukta alınan ikrar içerir ifadesi olduğu, söz konusu savunmada müdafii bulunmadığı, 5271 sayılı CMK’nın 148/4. maddesine göre, müdafii hazır bulunmaksızın kollukça alınan ifade, hâkim veya mahkeme huzurunda şüpheli veya sanık tarafından doğrulanmadıkça hükme esas alınamayacağı, bu itibarla şüpheden sanık yararlanır ilkesi gereğince sanığın beraatine karar verilmesi gerekirken yazılı şekilde hüküm kurulması;
+
+Bozmayı gerektirmiş, sanık …‘in temyiz nedeni bu bakımdan yerinde görülmüş olduğundan hükümlerin açıklanan nedenle teliğnameye aykırı olarak BOZULMASINA, 25.05.2017 tarihinde oybirliğiyle karar verildi.
+
+YARGITAY 12. CEZA DAİRESİ 
+Esas : 2015/13095 Karar : 2017/3313Tarih : 19.04.2017
+
+CMK 148. Madde
+
+İfade Alma ve Sorguda Yasak Usuller
+
+Hüküm: TCK’nın 136/1, 43/2. maddesi yollamasıyla aynı Kanun’un 43/1, 53/1-2-3, 63. maddeleri gereğince mahkumiyet
+
+Verileri hukuka aykırı olarak verme veya ele geçirme suçundan sanığın mahkumiyetine ilişkin hüküm, sanık müdafii tarafından temyiz edilmekle, dosya incelenerek gereği düşünüldü:
+
+Sanığın, facebook sosyal paylaşım sitesinde kurduğu “Erzurum Bayan Eskort Tanıtım” adlı grupta, geçimlerini fuhuş yaparak temin ettiklerini bildiği mağdurlara ait cep telefonu numaralarını, onların bilgisi ve rızası dışında yayımlamak suretiyle zincirleme şekilde verileri hukuka aykırı olarak verme veya ele geçirme suçunu işlediğinin kabul edildiği olayda,
+
+Hükmün gerekçesinde sanığın kolluk tarafından müdafii hazır bulunmaksızın alınan ve mahkeme huzurunda doğrulanmayan ikrarı içerir ifadesine de dayanılarak CMK’nın 148/4. maddesi ihlal edilmiş ise de, yerel mahkemece dosyada mevcut olan diğer deliller de açıklanıp tartışılarak sanığa yüklenen suçun sübut bulduğu sonucuna varılması ve sanığın kolluk tarafından alınan ifadesi dışındaki mevcut delil durumuna göre de yüklenen suçun sanık tarafından işlendiğinin anlaşılması karşısında bu husus bozma sebebi sayılmamıştır.
+
+TCK’nın 136/1. maddesinde bir yıldan dört yıla kadar hapis cezası öngörülmüş iken, anılan maddede, suç tarihinden sonra ve karar tarihinden önce 06.03.2014 tarihli Resmi Gazete’de yayımlanarak yürürlüğe giren 6526 sayılı Terörle Mücadele Kanunu ve Ceza Muhakemesi Kanunu ile Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun’un 4. maddesi ile yapılan değişiklikle ceza miktarının iki yıldan dört yıla kadar hapis cezası olarak belirlenlenmiş olması karşısında, TCK’nın 7/2. maddesi gereğince, suçun işlendiği zamandaki kanun ile sonradan yürürlüğe giren kanunun ilgili tüm hükümlerinin somut olaya ayrı ayrı uygulanması ve her iki kanuna göre hükmedilecek sonuç cezalar belirlendikten sonra sanığın lehine olan kanunun tespiti ile lehe kanunun bir bütün halinde uygulanması ve bu durumun kararın gerekçesine yansıtılması suretiyle hüküm kurulması gerektiği gözetilmemiş ise de, temel cezanın 1 yıl hapis cezası olarak belirlenmesi nedeniyle yerel mahkemece suç tarihindeki lehe düzenleme uyarınca uygulama yapıldığı ve 6526 sayılı Kanun’un 4. maddesi ile yapılan değişikliğin sanık aleyhine sonuç doğuracağı açıkça anlaşıldığından, bu husus bozma nedeni olarak kabul edilmemiştir.
+
+Temel ceza belirlenirken, TCK’nın 61/1. madde ve fıkrasında yer alan ölçütler nazara alınarak, dosyaya yansıyan bilgi ve kanıtlar birlikte ve isabetle değerlendirilip, denetime olanak verecek ve somut gerekçeler de gösterilmek suretiyle, aynı Kanun’un 3/1. madde ve fıkrası uyarınca işlenen fiilin ağırlığıyla orantılı olacak şekilde maddede öngörülen alt ve üst sınırlar arasında hakkaniyete uygun bir cezaya hükmolunması gerekirken, temel cezanın asgari hadden tayin edilmesi, temyiz edenin sıfatına göre, bozma nedeni olarak kabul edilmemiştir.
+
+Anayasa Mahkemesinin, TCK’nın 53. maddesindeki hak yoksunluklarına ilişkin 24.11.2015 günlü Resmi Gazete’de yayımlanan 08.10.2015 tarihli, 2014/140 esas, 2015/85 karar sayılı iptal kararının infaz aşamasında gözetilebileceği değerlendirilmiştir.
+
+Yapılan yargılamaya, toplanıp karar yerinde gösterilen delillere, mahkemenin kovuşturma sonuçlarına uygun olarak oluşan kanaat ve takdirine, incelenen dosya kapsamına göre, sanık müdafiinin sübuta, takdiri indirim maddesinin uygulanmamasına, hükmün açıklanmasının geri bırakılmamasına ilişkin temyiz itirazlarının reddiyle, eleştiri dışında, sair yönleri usul ve kanuna uygun bulunan hükmün isteme uygun olarak ONANMASINA, 19.04.2017 tarihinde oybirliğiyle karar verildi.
+
+YARGITAY CEZA GENEL KURULU 
+Esas : 2014/5-624 Karar : 2016/266Tarih : 24.05.2016
+
+CMK 148. Madde
+
+İfade Alma ve Sorguda Yasak Usuller
+
+Rüşvet verme suçuna teşebbüsten sanık …`ün beraatine ilişkin Beyoğlu Çocuk Ağır Ceza Mahkemesince verilen 23.12.2010 gün ve 72-161 sayılı hükmün Cumhuriyet savcısı tarafından temyiz edilmesi üzerine dosyayı inceleyen Yargıtay 5. Ceza Dairesince 02.10.2013 gün ve 9632-9561 sayı ile;
+
+“09.09.2007 tarihli olay yakalama zaptetme tutanağının içeriği, tutanak tanıkları… …ve …y`ın aşamalarda değişmeyen beyanları ve tüm dosya içeriğinden üzerinde aynı mahkemenin 2008/30 Esasına kayıtlı dosyadaki suça konu madde ele geçirilen sanığın, hakkında yasal işlem yapılmaması karşılığında polis memurlarına para teklif ettiği sabit olduğundan, yakalanan maddenin TCK uygulamasında uyuşturucu veya uyarıcı madde olması durumunda, sanığın rüşvet vermeye teşebbüs suçundan mahkumiyetine karar verilmesi gerektiği gözetilmeden oluşa ve dosya kapsamına uygun düşmeyen gerekçelerle yazılı şekilde beraat kararı verilmesi” isabetsizliğinden bozulmasına karar verilmiş,
+
+Yerel mahkeme ise 04.07.2014 gün ve 310-213 sayı ile;
+
+“A) SSÇ sanık …‘ün, olay günü gece saat 01.30 sıralarında Tarlabaşı Bulvarı üzerinde polis memurlarınca görülüp şüphe üzerine durdurulmak istendiğinde kaçtığı, kovalama neticesinde yakalandığı, üzerinde, uyuşturucudan uyarıcı özelliğe sahip etken madde içerdiği ekspertiz raporuyla belirlenen ve bireysel kullanım ihtiyacını aşan 79 adet hap ile 195 YTL, 5 ABD Doları ve 20 Avro paranın ele geçirildiği, bu uyuşturucunun ve paraların zapt edildiği, SSÇ’nin gözaltına alındığı hususları, Beyoğlu Çocuk Ağır Ceza Mahkemesi’nin yukarıda sözü edilen, Yargıtay 10. Ceza Dairesi’nin 04.10.2013 Tarih ve 2012/18834 Esas, 2013/8623 Karar sayılı ilamıyla onanıp kesinleşmiş, (kapatılan) Beyoğlu Çocuk Ağır Ceza Mahkemesi’nin 30.09.2010 Tarih ve 2008/49 Esas, 2010/118 Karar sayılı, SSÇ …‘ün TCK`nın 188/3, 31/2, 62/2-1, 50, 51, 54. maddeleri uyarınca cezalandırılmasına ve uyuşturucu maddelerin müsaderesine ilişkin karar dosyası içeriğinde yer alan ekspertiz raporu ve diğer tüm deliller ile sabit ve tartışmasızdır.
+
+Olay yakalama zapt etme tutanağında ayrıca, SSÇ’ye sorulduğunda üzerinde elde edilen paraları, uyuşturucu hapların satışından elde ettiğini beyan ettiği, kendisini bırakmaları karşılığında bu paraları görevlilere vereceğini söylediği` hususu da yazılı bulunmaktadır.
+
+5271 sayılı CMK`nun 148/3. maddesi, yasal usullerle elde edilen ifadelerin rıza ile verilmiş olsa dahi delil olarak değerlendirilemeyeceğini; 148/4. maddesi, müdafi hazır bulunmadan kollukça alınan ifadenin, hakim veya mahkeme huzurunda şüpheli/sanık tarafından doğrulanmadıkça hükme esas alınamayacağını öngörmektedir.
+
+CMK`nun 230/1-b maddesi, dosya içerisinde bulunan ve hukuka aykırı yöntemlerle elde edilen delillerin ayrıca ve açıkca gösterilmesini amirdir.
+
+CMK`nun 289/1-i maddesi, hükmün hukuka aykırı yöntemlerle elde edilen delile dayanmasını, hukuka kesin aykırılık hallerinden kabul etmiştir.
+
+5395 Sayılı Çocuk Koruma Kanununun 15/1. maddesi gereği, suça sürüklenen çocuk hakkındaki soruşturmanın, soruşturma bürosunda görevli Cumhuriyet savcısı tarafından bizzat yapılması zorunludur.
+
+Bu nedenlerle öncelikle, yaşı küçük olan SSÇ`nin, bir suç soruşturmasına uğrayacak şekilde gözaltına alınması sonrasında, yasal usûllere uymadan, müdafi olmaksızın olay mahallinde polislerce sorgulanması ve bu sorgu neticesinde alındığı bildirilen ikrarlı ya da ikrarsız beyanlarının tutanağa geçirilmesi, yasanın gereklerine aykırı olup açıkça hukuka aykırı delil niteliğinde olduğundan, varlığı ve gerçekliği bir karara dayanak alınamaz.
+
+B) SSÇ’nin yakalanması sonrasında, üzerinde elde edilen paraları almaları karşılığında kendisini serbest bırakmalarını` söyleyerek rüşvet teklif etmek suçunu işlediği iddiasının dayanağını oluşturan yakalama tutanağını düzenleyen polis memurlarından sadece… yukarıda aktarılan şekilde, tutanak içeriğine benzer yönde aleyhe beyanda bulunmuş ise de, bu tanığın kendisine doğrudan rüşvet teklif edildiğini bildirdiği polis memuru Hayrettin Kalaçay ile diğer polis memuru Ömer Arslankurt mahkeme ifadelerinde, bu olayın herhangi bir aşamasına ilişkin somut bir hatırlamaları olmadığını bildirerek, afaki olarak tutanağın doğru olduğu şeklinde beyanda bulunmuşlardır.
+
+Rüşvet teklif etme eyleminin bizzat sadece kendisine teklif edildiği ileri sürülen polis memuru Hayrettin Kalaçay`ın, mahkeme ifadesinde, rüşvet verme olayının herhangi bir aşamasına ilişkin en ufak bir hatırlamasının olmaması, diğer açıklanan çelişki ve yetersizlikler karşısında, görevli polis memurları tarafından birlikte düzenlenen rüşvet verme iddiasına ilişkin de tespit bildiren tutanak içeriğinin yeterli ve inandırıcı kanıt olma özelliğini zayıflatmaktadır.
+
+C) Diğer yandan Olay yakalama ve zapt etme tutanağı ile tutanak düzenleyicisi polis memurları beyanlarından anlaşıldığı üzere, SSÇ şüphe üzerine kovalanıp yakalandığında üzerinde, uyuşturucu haplarla birlikte aynı zamanda söz konusu paralar da elde edilip polis memurlarınca zapt olunup görev gereği uhdelerine/zimmetlerine alınmıştır.
+
+Dolayısıyla, tutanakta iddia edildiği şekilde SSÇ’nin teklifte bulunduğu aşama itibariyle de, SSÇ`nin elinde polis memurlarına rüşvet olarak verebileceği bir para, değer bulunmamaktadır.
+
+Esasen, yakalama zapt etme tutanağı içeriğine ve tutanak düzenleyicisi polis memurları beyanlarına göre, SSÇ’nin üzerinde ele geçen ve polislerce zapt olunup görev gereği zimmetlerine alınan parayı, şahsi zimmetlerine geçirerek tutanak düzenlememeleri karşılığında, o parayı kendilerine almalarına ses çıkarmayacağı vaadinde bulunduğu; diğer bir ifadeyle SSÇ`nin, polis memurlarına zapt edip görev gereği zimmetlerine aldıkları parayı şahsi zimmetlerine geçirmeleri karşılığında, hakkında suç soruşturması başlatacak tutanak tutmayarak görevlerini kötüye kullanmalarını, teklif ve teşvik ettiği ileri sürülmüştür.
+
+Bu oluşa göre de, SSÇ`nin eyleminin, bizzat kendi zilliyet ve tasarrufunda olan bir parayı rüşvet olarak teklif etmek şeklinde nitelendirilmesine de olanak bulunmamaktadır.
+
+Açıklanan kanıt durumu, tespit ve değerlendirmeler ışığında, Yargıtay bozma ilamında sözü edildiği üzere, tutanak düzenleyicisi polis memurlarının tutanağa yansıttıkları tespitleriyle, mahkemede bildirdikleri beyanlarının aşamalarda ve kendi içinde değişmediği, tutarlı olduğu hususu sabit değildir.
+
+Bu tespit ve gerekçeler ışığında, SSÇ’nin, üzerine atılı olan görevli polis memurlarına, hakkında ceza soruşturması yapmamalarını temin amacıyla para teklif etmek suretiyle rüşvet vermeye teşebbüs suçunu işlediğinin; hukuka uygun yöntemlerle elde edilmiş delillere ve yasal soruşturma gereklerine dayalı olarak kanıtlandığı sabit olmayıp, bu haliyle SSÇ’nin üzerine atılı bu suçu işlediği yönünde, her türlü kuşkudan uzak biçimde vicdani kanaat oluşmasına yeter, kesin, tutarlı ve hukuka uygun kanıt bulunmadığı ve elde edilmediği sonuç ve kanaatine varıldığından, önceki hükümde direnilmek suretiyle, adı geçen SSÇ’nin CMK`nun 223/2-e maddesi uyarınca atılı suçu işlediğinin sabit olmaması nedeniyle beraatine karar verilmiştir” gerekçesiyle ilk hükmünde direnmiştir.
+
+Bu hükmün de Cumhuriyet savcısı tarafından temyiz edilmesi üzerine Yargıtay Cumhuriyet Başsavcılığının 05.10.2014 gün ve 330713 sayılı “bozma” istekli tebliğnamesi ile Yargıtay Birinci Başkanlığına gönderilen dosya, Ceza Genel Kurulunca değerlendirilmiş ve açıklanan gerekçelerle karara bağlanmıştır.
+
+TÜRK MİLLETİ ADINA
+
+CEZA GENEL KURULU KARARI
+
+Özel Daire ile yerel mahkeme arasında oluşan ve Ceza Genel Kurulunca çözümlenmesi gereken uyuşmazlık; sanığa atılı rüşvet verme suçuna teşebbüsün unsurlarının oluşup oluşmadığının belirlenmesine ilişkindir.
+
+İncelenen dosya kapsamından;
+
+09.09.2007 tarihli olay yakalama zapt etme ve Cumhuriyet savcısıyla görüşme tutanağında; saat 01.30 sıralarında Tarlabaşı Bulvarı ve arka sokaklarında uyuşturucu satıcılarına yönelik yapılan kontroller sırasında bir erkek şahsın ekip aracını gördükten sonra kaçmaya başladığı, ekip aracından inilerek kısa bir kovalama sonucunda yakalandığı, neden kaçtığı sorulmasına rağmen cevap vermediği, elleriyle eşofmanın cebini tuttuğunu gören görevlilerce cebinde ne olduğunun sorulması üzerine şahsın cebinden küçük bir kâğıda sarılı çeşitli renklerde toplam 79 adet ekstazi uyuşturucu madde olduğu tahmin edilen hapları çıkardığı, bahse konu hapların zapt edildiği, şahsın yapılan üst aramasında üzerinden çıkan 195 Lira, 5 Dolar ve 20 Avronun kime ait olduğu sorulduğunda hapların satışından elde ettiği paralar olduğunu, kendisini bırakması karşılığında bu paraları görevlilere vereceğini söylemesi üzerine seri numaraları ayrı ayrı yazılan paraların görevli memura rüşvet vermekten dolayı geçici olarak zapt edildiği bilgilerinin yer aldığı,
+
+Suç tarihinde 14 yaşında olan sanık … hakkında Elazığ Ruh Sağlığı ve Hastalıkları Hastanesince düzenlenen raporda; sanığın suç tarihinde işlediği iddia edilen rüşvet verme suçunun hukuki anlam ve sonuçlarını algılama ve davranışlarını yönlendirme yeteneğinin yeterince gelişmiş olduğunun belirtildiği,
+
+Sanığın üzerinde ele geçirilen uyuşturucu haplarla ilgili olarak uyuşturucu ticareti suçundan TCK’nun 188/3. maddesi uyarınca açılan kamu davasının yapılan yargılaması sonucunda sanığın mahkumiyetine, üzerinden çıkan toplam 195 Lira, 5 Dolar ve 20 Avronun ise uyuşturucu ticaretinden elde edildiği sabit olmadığından sahibine iadesine karar verildiği,
+
+Anlaşılmaktadır.
+
+Tutanak tanığı İsmail Turgay E… mahkemede; çocuğun yakalanmasından ve üzerinden uyuşturucu ihtiva eden hapların ve bir kısım paraların elde edilmesinden hemen sonrasında çocuğu büroya götürmeden olay yerinde Hayrettin K… adlı kıdemli polis memuru arkadaşına “üzerimden çıkan bu paraları alın beni serbest bırakın, hakkımda işlem yapmayın” dediğini, ancak Hayrettin’in tutanağı yaptığını ve paralara da el koyduğunu, sonra büroya geldiklerini ve bu iki olayı içeren olay yakalama tutanağını düzenlediklerini beyan etmiş,
+
+Tutanak tanığı Hayrettin K…; tutanağın içeriğinin doğru olduğunu, altındaki imzanın kendisine ait olduğunu, olayın üzerinden uzun zaman geçmesi nedeniyle hatırlamadığını ifade etmiş,
+
+Tutanak tanığı Ömer A…; olayı anımsamadığını, benzer olaylarla çok karşılaştık- larını, tutanakta yazılanların doğru olduğunu söylemiş,
+
+Sanık aşamalarda; olay sırasında üzerinde uyuşturucu hap bulunmadığından polis memurlarına rüşvet teklif etmesinin söz konusu olmadığını, üzerinde bulunan toplam 195 Lira, 5 Dolar ve 20 Avronun şahsi parası olduğunu, uyuşturucu satışından elde edilmediğini, polislerin üzerinde bulunan paraya da hemen el koyduğunu, polis memurlarına suçsuz olduğu için “beni bırakın gideyim” dediğini, ancak polis memurlarının bu sözünü kendilerine rüşvet teklifi olarak yorumladıklarını, kesinlikle polis memurlarına kendisini bırakmaları için rüşvet teklif etmediğini savunmuştur.
+
+Rüşvet suçu, bir tarafta rüşvet veren ile diğer tarafta ise rüşvet alan kamu görevlisinin yer aldığı bir karşılaşma suçu, dolayısıyla da çok failli bir suçtur. 5237 sayılı TCK’nun 252. maddesinde; “bir kamu görevlisinin, görevinin gereklerine aykırı olarak bir işi yapması veya yapmaması için kişiyle vardığı anlaşma çerçevesinde bir yarar sağlamasıdır” şeklinde tanımlanmak suretiyle yalnızca “nitelikli rüşvet suçu” ceza yaptırımına bağlanmış iken, 05.07.2012 günlü Resmi Gazetede yayımlanarak yürürlüğe giren 6352 sayılı Kanunun 87. maddesi ile 5237 sayılı TCK`nun 252. maddesinde yapılan değişiklikle öncekinden farklı olarak “basit rüşveti” de kapsayacak şekilde düzenlenmiştir.
+
+Yapılan değişiklikle 5237 sayılı TCK`nun 252. maddesinin birinci fıkrasında; “Görevinin ifasıyla ilgili bir işi yapması veya yapmaması için, doğrudan veya aracılar vasıtasıyla, bir kamu görevlisine veya göstereceği bir başka kişiye menfaat sağlayan kişi dört yıldan oniki yıla kadar hapis cezası ile cezalandırılır” şeklinde “rüşvet veren” bakımından,
+
+İkinci fıkrasında ise; “Görevinin ifasıyla ilgili bir işi yapması veya yapmaması için, doğrudan veya aracılar vasıtasıyla, kendisine veya göstereceği bir başka kişiye menfaat sağlayan kamu görevlisi de birinci fıkrada belirtilen ceza ile cezalandırılır” biçiminde ifade edilmek suretiyle de “rüşvet alan kamu görevlisi” açısından “rüşvet suçu” tanımlanmıştır. Bu suretle de, sağlanan menfaatin “kamu görevlisinin görevinin gereklerine aykırı” bir işin yapılması amacına yönelik olması şartı kaldırılarak, görevinin gereklerine uygun davranması için kişilerden kendisine veya bir başkasına çıkar sağlamak fiili TCK`nun 257/3. maddesindeki görevi kötüye kullanmak suçu kapsamından çıkartılarak rüşvet suçuna dönüştürülmüştür.
+
+Diğer taraftan rüşvet suçunun, menfaatin kamu görevlisi tarafından temin edildiği anda tamamlandığı ilke olarak kabul edilmekle birlikte, izlenen suç siyaseti gereği olarak, rüşvet suçunun kamu görevlisi ile iş sahibi arasında görevinin ifasıyla ilgili bir işin yerine getirilmesi veya getirilmemesi amacına yönelik menfaat teminini öngören bir anlaşmanın yapılması durumunda dahi rüşvet suçu tamamlanmış gibi cezaya hükmedileceği maddenin üçüncü fıkrasında hüküm altına alınmıştır. Bunun için de; rüşvet teklif veya önerisinin kişi ya da kamu görevlisinden gelmesinin önemi bulunmamakla birlikte, bu istek ve önerinin, diğer bir anlatımla rüşvet anlaşmasının özgür iradeye dayalı olmasında zorunluluk bulunmaktadır.
+
+Rüşvet verme veya alma niyetinde olmayan kişi veya kamu görevlisinin, atlatmak veya yakalatmak ya da suç delillerini ortaya çıkartmak amacıyla kabul etmiş gibi gösterdiği biçimsel rızanın (görünüşteki rıza-dış rıza) özgür iradeye dayalı olmaması nedeniyle, rüşvet anlaşmasının varlığından söz edilemeyeceği cihetle, böyle bir durumda rüşvet alırken veya rüşvet verirken yakalanan failin eyleminin rüşvet suçuna teşebbüs olarak kabulü gerekmektedir. Ceza Genel Kurulu ve Özel Dairece sürdürülen istikrarlı uygulamalar da bu yöndedir.
+
+Rüşvet suçu, öğretide de açıkça vurgulandığı üzere iki taraflı bir suçtur. Bir karşılaşma suçu olduğu için, zorunlu olarak suçun işlenişine katılanlar, aynı amacın gerçekleşmesini hedeflemekte, fakat farklı yönlerden hareket etmektedirler. Bu suç ile yasaklanan eylemler, rüşvet alan kamu görevlisi bakımından rüşvet alma, rüşveti veren fail bakımından ise, rüşvet vermedir. Bu nedenle de yararı sağlayan veya bu yolda anlaşmaya varan (vaadde bulunan) kişi ile kamu görevlisi arasında, serbest iradeye dayalı bir “rüşvet anlaşması” bulunmaktadır. (Mehmet Emin Artuk –Ahmet Gökcen –A. Caner Yenidünya, Ceza Hukuku Özel Hükümler, 7. Bası, s. 699 vd.;Durmuş Tezcan – Mustafa Ruhan Erdem –Murat Önok, Teorik ve Pratik Ceza Özel Hukuku, 6. Bası. s. 810 vd.; İzzet Özgenç, İrtikap ve Rüşvet Suçları, 1. Bası, s. 78 vd.)
+
+Rüşvet verme suçunda kişi kamu görevlisine rüşvet teklifinde bulunması sonrasında kamu görevlisi tarafından bu teklif kabul edilerek anlaşmaya varılmışsa suçun tamamlandığı ancak kamu görevlisi tarafından yapılan teklifin reddedilmesi halinde ise rüşvet verme suçunun teşebbüs aşamasında kaldığı anlaşılmaktadır.
+
+Bu açıklamalar ışığında uyuşmazlık konusu değerlendirildiğinde;
+
+Uyuşturucu satıcılarına yönelik yapılan kontroller sırasında polisleri görerek kaçan sanığın hukuka uygun olarak yakalanması sonrasında polislerin cebinde ne olduğunu sorması üzerine cebinde bulunan 79 adet ekstazi hapı çıkarıp polislere verdiği, yapılan kaba üst araması sonucunda üzerinden çıkan paraların ne parası olduğunun sorulması üzerine ise uyuşturucudan elde ettiğini ve kendisini bırakmaları karşılığında vereceğini söylediği olay tutanağı ve tanık beyanlarıyla sabit olan olayda, sanığın hakkında uyuşturucu madde ticaretinden işlem yapan kamu görevlisine görevini gereğinin yapmaması halinde, üzerinden çıkan, henüz polisler tarafından zapt edilmeyen ve uyuşturucu madde ticareti suçundan yapılan yargılama sonucunda da uyuşturucu ticaretinden elde edilmediği anlaşılan parayı vereceğini teklif etmesi ve görevli polis memurunca bu teklifin kabul edilmeyerek olay hakkında tutanak düzenlenmesi karşısında, rüşvet verme suçuna teşebbüs eyleminin unsurları itibariyle gerçekleştiğinin kabulü gerekmektedir.
+
+Bu itibarla yerel mahkeme direnme hükmünün bozulmasına karar verilmelidir.
+
+Çoğunluk görüşüne katılmayan bir genel kurul üyesi; yerel mahkeme hükmünün onanması gerektiği görüşüyle karşı oy kullanmıştır.
+
+SONUÇ:
+
+Açıklanan nedenlerle;
+
+1- İstanbul 2. Çocuk Ağır Ceza Mahkemesinin 04.07.2014 gün ve 310-213 sayılı direnme hükmünün sanığın mahkumiyete karar verilmesi gerekirken beraatine karar verilmesi isabetsizliğinden BOZULMASINA,
+
+2- Dosyanın, mahalline gönderilmek üzere Yargıtay Cumhuriyet Başsavcılığına TEVDİİNE, yapılan müzakerede oyçokluğuyla karar verildi.
+
+YARGITAY 20. CEZA DAİRESİ
+Esas: 2015/15937 Karar: 2016/1471Tarih: 14.03.2016
+
+CMK 148. Madde
+
+İfade Alma ve Sorguda Yasak Usuller
+
+KARAR : A-)Yargıtay Ceza Genel Kurulu’nun 2014/166-514 Sayılı kararlarında da belirtildiği üzere; adli arama kararı alınmasını gerektiren olayda arama kararı alınmadan arama yapılması hukuka aykırıdır. Böyle bir arama sonucu bulunan ve suçun maddi konusunu oluşturan deliller ya da suçun maddi konusu “hukuka aykırı yöntemlerle elde edilmiş” olacağından, ikrar bulunsa bile Anayasa’nın 38. maddesinin 6. fıkras 6. fıkrası ile CMK’nın 206. maddesinin 2. fıkras 2. fıkrasının (a) bendi, 217. maddesinin 2. fıkras 2. fıkrası, 230. maddesinin 1. fıkras 1. fıkrasının (b) bendi uyarınca hükme esas alınamaz.
+
+Kolluk kuvvetleri tarafından şüphelenilerek durdurulan sanığın kendi rızası ile net 3.7 gram esrarı teslim etmesi sonrasında adli arama kararı alınmadan yapılan üst aramalarında 9 adet naylon poşette net 56 gram, cüzdanda ise plaka halinde net 2 gram esrar maddesi bulunduğu, CMK’nın 116, 117, 119. maddelerine uygun şekilde “adli arama kararı” ve “yazılı adli arama emri” alınmadan rıza ile teslim edilen madde dışında, hukuka aykırı arama sonucu ele geçirilen uyuşturucu maddelerin, “suçun maddi konusu” ve “suçun delili” olamayacağı, herhangi bir karar bulunmaksızın ortam dinlemesi yöntemiyle elde edilen telefon görüşmelerinin hükme esas alınamayacağı ve soruşturma aşamasında dinlenen kendisinde uyuşturucu madde ele geçmeyen…‘nın 5271 Sayılı CMK’nın 148/4. maddesi hükmüne göre müdafii hazır bulunmaksızın kollukça alınan ve daha sonradan döndüğü ifadesinin uyuşturucu madde temin etme suçunun subutuna yeterli olmadığı anlaşılmakla sanığın rızası ile teslim ettiği net 3.7 gram ağırlığındaki 1 paket esrarı, satma veya başkasına verme gibi kullanma dışında bir amaç için bulundurduğuna dair başkaca delil elde edilemediği anlaşılmakla, bu haliyle sanığın eyleminin kullanmak için uyuşturucu madde bulundurma suçunu oluşturduğu gözetilmeden, sanık hakkında uyuşturucu madde ticareti yapma suçundan hüküm kurulması,
+
+B-) Kabule göre;
+
+1-)Hükümden sonra 24.11.2015 tarih ve 29542 Sayılı Resmi Gazete’de yayımlanarak yürürlüğe giren Anayasa Mahkemesi’nin 08.10.2015 tarihli 2014/140 esas ve 2015/85 karar sayılı kararı ile, 5237 Sayılı TCK’nın 53. maddesinin bazı hükümlerinin iptal edilmesi nedeniyle, bu maddenin uygulanması açısından, sanığın durumunun yeniden belirlenmesinde zorunluluk bulunması,
+
+2-)Suça konu uyuşturucu maddenin TCK’nın 54/4. maddesi yerine TCK’nın 54 /1. maddesi uyarınca müsaderesine karar verilmesi,
+
+3-)…Müdürlüğü’nce alınan tanık numunenin de müsaderesine karar verilmesi gerektiğinin gözetilmemesi,
+
+SONUÇ : Kanuna aykırı, sanık ve müdafiinin temyiz itirazları bu sebeple yerinde olduğundan, hükmün BOZULMASINA, bozma nedenine göre sanığın SALIVERİLMESİNE, başka suçtan hükümlü veya tutuklu olmadığı takdirde serbest bırakılmasının sağlanması için ilgili Cumhuriyet Başsavcılığı’na yazı yazılmasına, 14.03.2016 tarihinde üye …‘nun kaşı oyu ve oy çokluğuyla karar verildi.
+
+KARŞI OY :
+
+Kolluk görevlileri tarafından durumundan şüphelenilerek durdurulan sanığın kendi rızası ile üzerinde bulunan 3.7 gr. esrar teslim ettiği ve devamında üzerinde bulunan montunun üst yoklamasında 9 adet naylon poşette net 56 gram daha esrar maddesi ele geçirildiği, karakola getirilen sanığın üzerinde yeniden arama yapıldığı ve yapılan aramada cüzdan içinde plaka halinde net 2 gram daha esrar ele geçirildiği,
+
+Kolluk görevlileri tarafından sanığın karakola getirilmeden önce üzerinde yapılan aramanın 2559 Sayılı Polis Vazife ve Salahiyet Kanun’un 4/A maddesi kapsamında kaldığı ve hukuka uygun olduğu ancak daha sonra karakolda yapılan aramanın adli arama kararı alınmadan yapılmasının hukuka uygun olmadığı hukuka uygun olarak yapılan aramada ve sanığın kendi rızasıyla verdiği uyuşturucu maddelerin ele geçiriliş biçimleri ile sanığın karakolda tanık …ile yapmış olduğu telefon konuşması birlikte değerlendirildiğinde, sanığın eyleminin uyuşturucu madde ticareti yapma suçunu oluşturduğu düşüncesiyle çoğunluğun görüşüne katılmıyorum.
+
+YARGITAY 20. CEZA DAİRESİ
+Esas: 2015/1595 Karar: 2016/681Tarih: 11.02.2016
+
+CMK 148. Madde
+
+İfade Alma ve Sorguda Yasak Usuller
+
+KARAR : 1-)Sanık F A hakkında “uyuşturucu madde ticareti yapma” suçundan kurulan mahkûmiyet hükmüne yönelik temyiz incelemesinde:
+
+Sanık F A’in 5271 Sayılı CMK’nın 148/4. maddesi hükmüne göre müdafii hazır bulunmaksızın kollukça alınan ve sonradan sanık tarafından doğrulanmayan ifadesinin hükme esas alınamayacağı, sanığın üzerinde yapılan aramada ele geçirilen 22,16 gram ağırlığındaki 4 paket esrarı, satma veya başkasına verme gibi kullanma dışında bir amaç için bulundurduğuna dair başkaca delil elde edilemediği anlaşılmakla, bu haliyle sanığın eyleminin kullanmak için uyuşturucu madde bulundurma suçunu oluşturduğu gözetilmeden, sanık hakkında uyuşturucu madde ticareti yapma suçundan hüküm kurulması,
+
+Kanuna aykırı, sanık müdafiinin temyiz itirazları bu sebeple yerinde görülmüş olduğundan, hükmün BOZULMASINA,
+
+2-)Sanıklar E. K. ve G. K. hakkında “kullanmak için uyuşturucu madde bulundurma” suçundan kurulan mahkûmiyet hükümlerine yönelik temyiz incelemesinde:
+
+Sanıklar hakkında kullanmak için uyuşturucu veya uyarıcı madde bulundurma suçundan dolayı başka dava olup olmadığı, varsa sanıkların bu suçu diğer davaya konu olan suç sebebiyle verilen tedavi ve/veya denetimli serbestlik tedbirinin infazı sırasında işleyip işlemedikleri belirlendikten sonra;
+
+a-) Sanıklar hakkında aynı suçtan açılmış başka dava yoksa veya sanıklar bu suçu daha önce işledikları suçtan dolayı verilen tedavi ve/veya denetimli serbestlik tedbirinin infazı sırasında işlemiş değillerse, bu suç sebebiyle tedavi ve/veya denetimli serbestlik tedbiri uygulanmamış olan sanıklar hakkında, hükümden sonra 28.06.2014 tarihli Resmi Gazete’de yayımlanarak yürürlüğe giren 6545 Sayılı Kanun’un 68. maddesiyle değiştirilen TCK’nın 191. maddesi ve aynı Kanun’un 85. maddesiyle 5320 Sayılı Kanun’a eklenen geçici 7. maddenin 2. fıkras 2. fıkrası uyarınca, 191. madde hükümleri çerçevesinde “hükmün açıklanmasının geri bırakılmasına”,
+
+b-)Sanıklar bu suçu, daha önce işledikları suçtan dolayı yapılan kovuşturma aşamasında hükmolunan tedavi ve/veya denetimli serbestlik tedbirinin infazı sırasında işlemişler ise, 6545 Sayılı Kanun’un 68. maddesiyle değiştirilen TCK’nın 191. maddesinin 5. fıkras 5. fıkrasında öngörülen “Erteleme süresi zarfında kişinin kullanmak için tekrar uyuşturucu veya uyarıcı madde satın alması, kabul etmesi veya bulundurması ya da uyuşturucu veya uyarıcı madde kullanması, dördüncü fıkra uyarınca ihlâl nedeni sayılır ve ayrı bir soruşturma ve kovuşturma konusu yapılmaz” hükmü uyarınca, ikinci suçtan açılan bu davanın kovuşturma şartının ortadan kalkması nedeniyle, CMK’nın 223. maddesinin 8. fıkras 8. fıkrası uyarınca “davanın düşmesine”
+
+Karar verilmesinde zorunluluk bulunması,
+
+SONUÇ : Bozmayı gerektirmiş, sanıklar E. K. ve G. K. müdafilerinin temyiz itirazları bu sebeple yerinde görülmüş olduğundan, diğer yönleri incelenmeksizin hükümlerin BOZULMASINA, 11.02.2016 tarihinde oybirliği ile karar verildi.
+
+YARGITAY 22. CEZA DAİRESİ
+Esas: 2015/9230 Karar: 2016/1266Tarih: 02.02.2016
+
+CMK 148. Madde
+
+İfade Alma ve Sorguda Yasak Usuller
+
+Yerel Mahkemece verilen hükümler temyiz edilmekle, kararların nitelik, cezaların türü, süresi ve suç tarihine göre dosya görüşüldü:
+
+I- Suça sürüklenen çocuklar hakkında mala zarar verme suçundan kurulan mahkûmiyet hükümlerinin incelenmesinde:
+
+1412 sayılı 305/1. maddesinin (1) numaralı bendinin iptal edildiği. Anayasa Mahkemesi’nin 23.07.2009 gün, 2006/65-2009/114 sayılı Kararının yürürlüğe girdiği 07.10.2010 ile konunun tekrar düzenlendiği 6217 sayılı Kanun’un yürürlüğe girdiği 14.04.2011 tarihleri arasında tüm hükümlerin temyizi mümkün olduğu ve karar tarihinin de 07.04.2011 olduğu dikkate alındığında, mala zarar verme suçundan kurulan hükümlerin kesin nitelikte olmadığı anlaşıldığından; mala zarar verme suçu açısından tebliğnamedeki temyiz isteğinin reddine dair düşünceye iştirak edilmeyerek suça sürüklenen çocuklar hakkında mala zarar verme suçundan kurulan mahkûmiyet hükümleri de incelenmiştir.
+
+Suç tarihi itibariyle 15-18 yaş grubunda bulunan suça sürüklenen çocuklar Selçuk ve Hakan’ın eylemlerine uyan 5237 sayılı TCK’nın 151/1,, 31/3. maddelerinde tanımlanan mala zarar verme suçu için öngörülen cezanın üst sınırına göre, aynı Kanun’un 66/1-e, 66/2,, 67/4. maddelerinde öngörülen 7 yıl 12 aylık zamanaşımının, suçun işlendiği 29.10.2005 gününden inceleme tarihine kadar geçmiş bulunması, Bozmayı gerektirmiş, suça sürüklenen çocuk Hakan müdafii ile suça sürüklenen çocuk Selçuk’un temyiz itirazları bu bakımdan yerinde görülmüş olduğundan, diğer yönleri incelenmeyen hükümlerin açıklanan nedenle (BOZULMASINA), bozma nedeni yeniden yargılama yapılmasını gerektirmediğinden, 5320 sayılı Kanun’un 8. maddesi uyarınca halen yürürlükte bulunan, 1412 sayılı CMUK’nın 322. maddesinin verdiği yetkiye dayanılarak, suça sürüklenen çocuklar hakkında açılan kamu davalarının isteme aykırı olarak DÜŞÜRÜLMESİNE,
+
+II- Suça sürüklenen çocuklar hakkında hırsızlık ve işyeri dokunulmazlığını ihlal suçundan kurulan mahkûmiyet hükümlerinin incelenmesinde:
+
+1- Katılana ait iş yerinin kepenk kilitlerinin kesilerek içeriden hırsızlık yapıldığı olaydan sonra, yaş büyüklüğü nedeniyle hakkında ayrı açılan davada mahkûmiyet hükmü onanarak kesinleşen Mehmet’in, 14.11.2006 tarihinde başka bir hırsızlık olayında yakalandığı ve müdafii huzurunda alınan kolluk ifadesi ile sorgusunda, dava konusu bu hırsızlık eylemini de suça sürüklenen çocuklar Hakan, Selçuk ve aynı davada yargılandıkları Cihan ile birlikte işlediklerini kabul ettiği, Mehmet ve Cihan’ın kendi yargılandıkları davada kovuşturma aşamasında alınan ifadelerinde ise suçlamayı kabul etmedikleri, suça sürüklenen çocuk Hakan’ın ise 26.11.2006 tarihinde yakalanmasının ardından düzenlenen mülakat ve tespit tutanağına göre, kolluk görevlilerine itirafta bulunacağını söylemesi üzerine müdafii hazır bulundurulmadan yer gösterme işlemi yapıldığı ve suça sürüklenen çocuğun katılana ait işyerinin de bulunduğu İkitelli semtindeki birden fazla adreste bulunan dükkanları göstererek bu işyerlerinde önceki tarihlerde diğer kişilerle beraber hırsızlık yaptıklarını kabul ettiği, ancak soruşturma aşamasında müdafiili olarak alınan savunmalarında dava konusu yerden hırsızlık yapmadığını söylediği, özellikle de sorguda alınan ifadesinde, katılana ait işyeri dışındaki diğer yerlerden Mehmet’in zorlaması sonucu gözcülük yapmak suretiyle hırsızlık eylemlerine katıldığını söyleyerek temyize konu olan bu hırsızlık eylemini kabul etmediği, CMK’nın 148/4. maddesinde yer alan “Müdafii hazır bulunmaksızın kollukça alınan ifade, hâkim veya mahkeme huzurunda şüpheli veya sanık tarafından doğrulanmadıkça hükme esas alınamaz” ve aynı Yasanın 213. maddesinde yer alan “Aralarında çelişki bulunması halinde; sanığın, hâkim veya mahkeme huzurunda yaptığı açıklamalar ile Cumhuriyet savcısı tarafından alınan veya müdafiinin hazır bulunduğu kolluk ifadesine ilişkin tutanaklar duruşmada okunabilir.” şeklindeki yasal düzenlemelere göre; somut olayda suça sürüklenen çocuk Hakan’ın katıldığı yer gösterme işleminde birden fazla işyerine girerek hırsızlık yaptığını kabul etmesine rağmen bu işlemde müdafiinin hazır bulundurulmadığı, duruşmada bu ifadenin doğrulanmadığı bu nedenle suça sürüklenen çocuğun katıldığı yer gösterme işlemine dair tutanağın duruşmada okunamayacağı ve hükme esas alınamayacağı, sorgudaki ifadesinde de katılana ait işyerinden hırsızlık yapmadığına yönelik savunması gözetilmek suretiyle yapılan incelemede; hakkında ayrı açılan davada verilen mahkûmiyet hükmü kesinleşen Mehmet’in ifadesi dışında, suça sürüklenen çocuk Hakan’ın atılı suçları işlediğine dair her türlü şüpheden uzak, somut, kesin ve inandırıcı delillerin nelerden ibaret olduğu gösterilmeden, yetersiz gerekçeyle yazılı şekilde cezalandırılmasına karar verilmesi,
+
+2-	Kabule göre de; İşyeri dokunulmazlığını ihlal suçunun birden fazla kişi tarafından birlikte gerçekleştirildiğinin kabul edilmesi karşısında; suça sürüklenen çocuk Hakan hakkında TCK’nın 119/1-c maddesinin uygulanması gerektiğinin gözetilmemesi,
+
+3-	Aynı yargı çevresindeki Ümraniye E Tipi Kapalı Ceza İnfaz Kurumu’nda başka suçtan hükümlü olarak bulunan ve “duruşmada hazır bulunmaktan bağışık tutulması” hususunda karar verilmemiş olan suça sürüklenen çocuk Selçuk’un hükmün açıklandığı 07.04.2011 tarihli son oturumda hazır bulundurulmadan hükümlülüğüne karar verilmesi suretiyle 5271 sayılı CMK’nın 196. maddesine aykırı davranılarak savunma hakkının kısıtlanması, Bozmayı gerektirmiş, suça sürüklenen çocuk Hakan müdafii ile suça sürüklenen çocuk Selçuk’un temyiz itirazları bu nedenlerle yerinde görülmüş olduğundan, suça sürüklenen çocuk Selçuk yönünden diğer yönleri incelenmeyen, suça sürüklenen çocuk Hakan yönünden de esastan incelenen hükümlerin isteme aykırı olarak (BOZULMASINA), 5320 sayılı Yasanın 8/1. maddesi yollamasıyla 1412 sayılı CMUK’nın 326/son maddesi gereğince ceza süresi bakımından suça sürüklenen çocuk Hakan’ın kazanılmış hakkının saklı tutulmasına, 02.02.2016 tarihinde oybirliğiyle karar verildi.
+
+YARGITAY 22. CEZA DAİRESİ
+Esas: 2015/13881 Karar: 2015/7297Tarih: 17.11.2015
+
+CMK 148. Madde
+
+İfade Alma ve Sorguda Yasak Usuller
+
+Yerel Mahkemece verilen hüküm temyiz edilmekle, kararın nitelik, ceza türü, süresi ve suç tarihine göre dosya görüşüldü:
+
+KARAR : 1- ) Sanığın suç tarihinden yaklaşık on gün sonra başka bir suçtan dolayı yakalandığı ve 29.11.2004 tarihli tutanak içeriğine göre sanığın müştekinin işyerini göstererek diğer sanık … ile birlikte atılı suçu işlediklerini belirtmesi, ancak mahkeme huzurundaki savunmalarında geri aldığı ve kabullenmediği kolluktaki müdafii huzurunda alınmayan 29.11.2004 tarihli tespit tutanağındaki soyut anlatımı dışında, hukuka uygun, her türlü şüpheden uzak, kesin, yeterli ve inandırıcı kanıt bulunmadığı ve 5271 sayılı CMK’nun 148/4. maddesi uyarınca müdafii hazır bulunmadan kollukça yazılan yer gösterme tutanağının hakim ve mahkeme huzurunda şüpheli veya sanık tarafından doğrulanmadıkça hükme esas alınamayacağı gözetilmeden ve sanığın atılı suçu işlediğine dair sonradan kabul etmediği kolluktaki yer gösterme tutanağı dışında diğer delillerin nelerden ibaret olduğu karar yerinde açıklanıp gösterilmeden, yetersiz gerekçeyle yazılı biçimde hüküm kurulması,
+
+Kabule göre ise,
+
+2- )a- )5237 sayılı TCK’nın 7/2 ve 5252 sayılı Yasa’nın 9/3. maddeleri uyarınca sanık yararına olan hükmün önceki ve sonraki kanunların ilgili bütün hükümlerinin olaya uygulanarak ortaya çıkacak sonuçların birbiriyle karşılaştırılması suretiyle bulunacağı gözetilip, anılan Yasa’nın 141, 142. maddelerinde tanımlanan hırsızlık suçu ile 765 sayılı TCK’nın 493/1. maddesinde yer alan suçun ögelerinin farklı olduğu; belirlenemeyen bir zaman diliminde muhkem olduğu belirlenen işyerinin pencere demirlerini sert bir aletle zorlayıp camını da kırarak müştekinin işyerine girip atılı suçu birden fazla kişiyle birlikte işleyen sanığın eyleminin, 5237 sayılı TCK’nın 142/1-b maddesine uyan hırsızlık suçunun yanı sıra, aynı Yasa’nın 116/1,, 119/1-c ve müştekinin şikayetçi olması nedeniyle 151/1. maddelerine uyan konut dokunulmazlığını bozma ve mala zarar verme suçlarını da oluşturduğu ve mala zarar verme suçu yönünden uzlaşma hükümlerinin uygulanma olanağı değerlendirilip sonucuna göre, 765 sayılı TCK’nın 493/1, 522 ( değere ilişkin hükümler ) maddeleri ile 5237 sayılı TCK’nın 142/1-b,, 116/1,, 119/1-c,151/1. maddeleri uyarınca denetime olanak verecek şekilde ayrı ayrı uygulamalar yapılıp, her iki Yasa’ya göre cezalar belirlenip, sonuç cezaların birbirleriyle karşılaştırılması suretiyle lehe olan Yasanın belirlenmesi gerektiğinin gözetilmemesi,
+
+b- )Sanık hakkında hırsızlık suçundan kurulan hükümde temel ceza belirlenirken, 5237 sayılı TCK’nın 142/1-b maddesi uyarınca alt sınırdan ceza verildiği belirtilmesine karşın, teşdit hükümleri uygulanarak temel cezanın 3 yıl olarak belirlenmesi suretiyle hükümde çelişkiye yol açılması,
+
+SONUÇ : Bozmayı gerektirmiş, sanık . müdafiinin temyiz itirazları bu itibarla yerinde görülmüş olduğundan hükmün bu sebeplerden dolayı BOZULMASINA, ancak 5320 sayılı Kanunun 8/1. maddesi yollamasıyla 1412 sayılı 326 /son maddesi gereğince ceza miktarı bakımından kazanılmış hakkının saklı tutulmasına, 17.11.2015 tarihinde oybirliğiyle karar verildi.
+
+YARGITAY 7. CEZA DAİRESİ
+Esas: 2015/4477 Karar: 2015/15939Tarih: 27.05.2015
+
+CMK 148. Madde
+
+İfade Alma ve Sorguda Yasak Usuller
+
+Yerel mahkemece verilen hüküm temyiz edilmekle; başvurunun nitelik, ceza türü, süresi ve suç tarihine göre dosya okunduktan sonra Türk Milleti adına gereği görüşülüp düşünüldü;
+
+Karar: Sanığın yokluğunda verilen karar 7201 sayılı Tebligat Kanunu’nun 21. maddesi gereğince tebliğ edilmiş ise de, anılan Kanun’un 21 ve 23. maddeleri ile Tebligat Tüzüğünün 28. maddesinde belirtilen esaslara uyulmadığı, tebligatta muhatabın adreste bulunmama sebebinin gösterilmediğinin anlaşılması karşısında, yapılan tebligatın geçerli sayılamayacağı cihetle, ilk temyiz isteğinin öğrenme tarihi itibarı ile süresinde olduğu kabul edilerek ve temyiz isteminin reddine dair mahkemenin 02.12.2014 günlü ek kararı kaldırılarak yapılan incelemede;
+
+Dosya içinde bulunan yakalama tutanağında, kolluk tarafından ihbar üzerine olay yerine gidildiğinde parkta bulunan sırt çantası kontrol edildiğinde 9 ayrı marka toplam 95 paket sigaranın yakalandığı ve çevrede yapılan araştırmada sigara satan kişinin sanık olduğunun tespit edildiğinin belirtildiği ancak sanığın aşamalarda değişmeyen savunmalarında, sigaraların kendisine ait olmadığını geçici olarak tezgaha baktığını kaçak sigara satmadığını beyan ederek suçlamayı kabul etmemesi karşısında; maddi gerçeğin kuşkuya yer bırakmayacak bir biçimde ortaya çıkarılması için tutanakta imzalan bulunan mümzilerin duruşmada tanık olarak dinlenilerek, olayla ilgili bilgi ve görgüleri sorulup, sırt çantasının içindeki sigaraların ne şekilde görüldüğü hususu da sorularak, sonucuna göre gerektiğinde sanığın savunmasında ismini verdiği S. hakkında suç duyurusunda bulunulup, dava açılması halinde her iki dava dosyası birleştirilerek, sanığın hukuki durumunun tespit ve tayini gerekirken eksik soruşturmaya dayalı olarak yazılı şekilde hüküm tesisi,
+
+Kabule göre;
+
+Yargıtay Ceza Genel Kurulu’nun 2013/10-483 esas 2013/599 karar ve 10.12.2013 tarihli kararında belirtildiği üzere” … ifade alma ve sorgunun 5271 sayılı CMK’nın 148. maddesinde sayılan şekillerde yapılması, tanıklıktan çekinme hakkı olan kişiye bu hakkının hatırlatılmaması delil elde etme yasaklarına örnek olarak gösterilebilir.” Bu şekilde belirtilen yasak delil niteliğinde olan kanıtların hükme esas alınamayacağı da ifade edilmiştir, duruşmada tanık olarak dinlenilen S.’e 48 ve 49 maddelerinde belirtilen nedenlerle tanıklıktan çekinme hakkı bulunduğunun hatırlatılmaması ve yine adı geçen tanığın 50. maddesi hükmüne aykırı olarak yeminli olarak dinlenilmesi,
+
+Sanıktan 95 paket bandrolsüz ve kaçak sigara ele geçirildiği olayda; 5237 sayılı TCK’nın 61. maddesi uyarınca alt ve üst sınırlar arasında temel ceza belirlenirken suçun işleniş biçimi, suçun işlenmesinde kullanılan araçlar, suçun işlendiği zaman ve yer, suçun konusunun önem ve değeri, meydana gelen zarar veya tehlikenin ağırlığı ve failin kast veya taksire dayalı kusurunun ağırlığı unsurları dikkate alınması gerekmekte olup, dosya kapsamına göre sanığın benzer olaylarla karşılaştırıldığında vehamet arz etmeyen fiilinin, eylem ile ceza arasındaki dengeyi bozacak şekilde teşdidi gerektirmediği halde, hakkaniyet ölçüleri ile bağdaşmayacak biçimde hapis ve adli para cezasının alt sınırından uzaklaşılarak sanık hakkında fazla cezaya tayini,
+
+Atılı suçun niteliğine göre suçtan zarar görmediği halde davaya katılmasına karar verilen Gümrük İdaresi lehine vekalet ücretine hükmedilmesi,
+
+Sonuç: Yasaya aykırı, sanığın temyiz itirazları bu itibarla yerinde görüldüğünden, 5320 sayılı Yasa’nın 8. maddesi gereğince yürürlükte bulunan 1412 sayılı CMUK’nın 321. maddesi uyarınca BOZULMASINA, 27.05.2015 günü oybirliği ile, karar verildi.
+
+YARGITAY 10. CEZA DAİRESİ
+Esas: 2011/5871 Karar: 2014/3980Tarih: 20.05.2014
+
+CMK 148. Madde
+
+İfade Alma ve Sorguda Yasak Usuller
+
+KARAR : 12.7.2008 olan suç tarihinin gerekçeli karar başlığında 13.7.2008 olarak yazılması, Mahkemesince düzeltilebilir nitelikte yazım hatası olarak kabul edilmiştir.
+
+Kullanmak için uyuşturucu madde bulundurma suçundan soruşturma evrakı tefrik edilen sanık F. U.’un, üzerinin aranması sonucu cebinden suça konu net 75 gr esrarın çıktığı, olay tutanağına göre söz konusu uyuşturucu maddeyi kimden aldığı sorulduğunda ismini bilmediği ancak görse tanıyabileceği bir erkek şahıstan aldığını söylemesi üzerine kolluk görevlilerine sanığı gösterdiği, sanık F.’in kollukta müdafii olmaksızın alınan beyanında bu ifadelerini tekrarladığı anlaşılmış ise de yargılama aşamasında verdiği beyanı ile kollukta alınan ifadelerini reddettiği, CMK’nın 148. maddesinin 4. fıkras 4. fıkrası gereğince müdafii hazır bulunmaksızın kollukça alınan ifade, hakim veya mahkeme huzurunda şüpheli veya sanık tarafından doğrulanmadıkça hükme esas alınamayacağı, ayrıca sanığın üzerinde yapılan aramada suç unsuruna rastlanılmadığı ve sanığın F. U.’i tanımadığına ve kimseye uyuşturucu madde satmadığına dair savunmasının aksine, atılı suçu işlediğine dair mahkûmiyetine yeterli ve kesin delil bulunmadığı gözetilmeden beraat yerine mahkûmiyet hükmü kurulması,
+
+SONUÇ : Yasaya aykırı, sanık müdafiinin temyiz itirazları bu sebeple yerinde olduğundan, hükmün BOZULMASINA, 20.05.2014 tarihinde oybirliği ile karar verildi.
+
+YARGITAY 16. CEZA DAİRESİ
+Esas : 2017/2222 Karar : 2018/219Tarih : 6.02.2018
+
+CMK 148. Madde
+
+İfade Alma ve Sorguda Yasak Usuller
+
+Bölge Adliye Mahkemesince verilen hüküm temyiz edilmekle;
+
+Temyiz edenin sıfatı, başvurunun süresi, kararın niteliği ve temyiz sebebine göre duruşmalı olarak yapılan inceleme sonunda gereği düşünüldü;
+
+Temyiz talebinin reddi nedenleri bulunmadığından işin esasına geçildi;
+
+Vicdani kanının oluştuğu duruşma sürecini yansıtan tutanaklar, belgeler ve gerekçe içeriğine göre yapılan incelemede;
+
+Kendileri hakkında yürütülen soruşturmalarda bu dosyada yargılanan sanık hakkında beyanda bulunan ve fotoğraftan teşhis işlemi yapan şüpheliler … ve …‘nın kollukta müdafii bulunmaksızın alınan ifadelerinin duruşmada kabul edilmedikçe CMK 148/4 maddesi kapsamında hükme esas alınamayacağı değerlendirilerek;
+
+Kabul ve uygulamaya göre;
+
+Fotoğraftan teşhis işlemi yapan şüpheliler …, … ve …‘ın ifadeleri Cumhuriyet savcısı huzurunda olması ve soruşturma dosyalarında ifadelerini tekrar etmeleri karşısında;
+
+Oluş ve dosya kapsamına göre; sanığın PKK/KCK terör örgütü ile terör örgütünün Cizre ilçesindeki faaliyet gösteren yapılanmaları içerisinde örgüt üyesi olarak faaliyetlerde bulunduğu, Yafes Mahallesinin içerisinde silahlı olarak nöbet tuttuğu, kaleşnikof ve bixi marka silah taşıdığı, kimlik kontrolü yaptığı, silahlı olarak çatışmalara girdiği, el yapımı patlayıcı olarak bilinen patlayıcıları hazırladığı,
+
+çocuklara ve örgüt mensubu olan kişilere silah, bomba (EYP) ve mayın eğitimi verdiği, teşhis tanıklarından çocuk …’yi ilçe merkezine döşenen mayını patlatmak için TCK 37/2 maddesi kapsamında dolaylı fail olarak kullandığının tespit edilmesi karşısında; silahlı terör örgütünün amaçlarına ulaşmak için gerçekleştirilen faaliyetler kapsamında Cizre ilçe merkezinde oluşturulan ve bir kısmının içine el yapımı patlayıcılar yerleştirilen hendek ve barikatlarda görev alan, buralarda güvenlik güçlerinin geçişini engellemek amacıyla silahlı nöbet tutan, kolluğa ve kolluğa ait araçlara düzenlenen silahlı saldırı eylemlerinde yer alan sanığın eylemlerinin bir bütün halinde, Devletin bağımsızlığını ve egemenliğini zayıflatmaya veya birliğini bozmaya veya Devletin egemenliği altında bulunan topraklardan bir kısmını Devlet idaresinden ayırmaya yönelik vehamet arz eden fiil olarak değerlendirilmesi gerektiği gözetilmeyerek suç vasfında hataya düşülmek suretiyle yazılı şekilde hüküm kurulması,
+
+Kanuna aykırı olup, sanık müdafii ve Bölge Adliye Mahkemesi Cumhuriyet savcısının temyiz itirazları bu itibarla yerinde görülmüş olduğundan hükmün bu sebepten BOZULMASINA, CMK’nın 283 ve 307/4. maddesi uyarınca sanığın ceza miktarı yönünden kazanılmış hakkının saklı tutulmasına, sanığın tutuklulukta geçirdiği süre, atılı suç için kanun maddesinde öngörülen ceza miktarı gözetilerek tutukluluk halinin devamına, 06.02.2018 tarihinde oybirliğiyle karar verildi.
+
+TEFHİM ŞERHİ:
+
+06.02.2018 tarihinde verilen iş bu karar, Yargıtay Cumhuriyet savcısı …‘nun huzurunda, duruşmada sanık …‘ın savunmasını yapmış bulunan Av. …‘in yokluğunda, 21.02.2018 tarihinde usulen ve açık olarak tefhim olundu.
+
+YARGITAY 2. CEZA DAİRESİ
+Esas : 2014/31263 Karar : 2017/3132Tarih : 20.03.2017
+
+CMK 148. Madde
+
+İfade Alma ve Sorguda Yasak Usuller
+
+Dosya incelenerek gereği düşünüldü;
+
+1- Sanıkların müşteki …‘e karşı işlediği hırsızlık suçundan kurulan hükümlerin incelenmesinde;
+
+5237 sayılı TCK’nın 53. maddesinin bazı bölümlerinin iptaline ilişkin Anayasa Mahkemesi’nin 24/11/2015 tarihinde yürürlüğe giren 08/10/2015 gün ve 2014/140 esas, 2015/85 karar sayılı iptal kararı da nazara alınarak bu maddede öngörülen hak yoksunluklarının uygulanmasının infaz aşamasında gözetilmesi mümkün görülmüştür.
+
+Yapılan duruşmaya, toplanan delillere, gerekçeye, hakimin kanaat ve takdirine göre temyiz itirazları yerinde olmadığından reddiyle hükümlerin istem gibi ONANMASINA,
+
+2- Sanıkların müştekiler … ve …‘a karşı işledikleri hırsızlık suçundan kurulan hükümlerin incelenmesinde;
+
+a- 5271 sayılı CMK’nın 148/4. maddesinde müdafi hazır bulunmaksızın kollukça alınan ifadenin, hakim veya mahkeme huzurunda şüpheli veya sanık tarafından doğrulanmadıkça hükme esas alınamayacağı düzenlenmiştir. Somut olayda, sanık …‘ın soruşturma aşamasındaki 25/02/2012 tarihli ifadesini kovuşturma aşamasında inkar ettiği gözetildiğinde, sanıkların araç kiralayıp suçun işlendiği ilçeye geldikleri, ancak müştekiler … ve …‘a karşı yüklenen suçları işlemedikleri şeklindeki savunmalarının aksini gösterir, aynı tarihte müşteki …‘e karşı konusu aynı olan hırsızlık suçunu işlemelerinden başka mahkumiyetlerine yeterli her türlü şüpheden uzak, kesin, yeterli ve inandırıcı delillerin neler olduğu tartışılıp denetime olanak sağlayacak şekilde karar yerinde gösterilmeden yeterli olmayan gerekçeyle yazılı şekilde mahkumiyetlerine karar verilmesi,
+
+b- Kabule göre de;
+
+1- Müşteki Hanifi KACIR’ın sokak üzerine park ettiği otobüsten, kilitsiz mazot depo kapağı açılmak suretiyle mazot çalınması şeklindeki eylemin 5237 sayılı TCK’nın 142/1-e maddesinde tanımlanan suçu oluşturduğu gözetilmeden aynı Kanun maddesinin (b) fıkrasıyla hüküm kurulması,
+
+2- Müştekiler … ve …‘ın ifadelerinden hırsızlık suçunun kesin olarak geceleyin işlendiği sonucu çıkarılamadığı, olay tarihinde gece vaktinin saat 05.39’da sona erdiği, sanık …‘ın sonradan inkar ettiği soruşturma aşamasındaki 25/02/2012 tarihli ifadesinde, ilk olarak müşteki …‘e karşı hırsızlık suçunu işlediklerini, müşteki …‘ün ifadesinde olayın kendisine saat 05.30’da haber verildiğini, tanık …‘ın saat 05.40 sıralarında olayı gördüğünü söylediği halde, dosya içeriğe uygun yeterli bir delil gösterilmeden sanıkların, müştekiler … ve …‘a yönelik hırsızlık eylemlerini, müşteki …‘e yönelik hırsızlık eyleminden önce gerçekleştirdikleri, dolayısıyla müştekiler … ve …‘a yönelik hırsızlık suçunun geceleyin işlendiği kabul edilerek yazılı şekilde hüküm kurulması,
+
+Bozmayı gerektirmiş, sanıkların temyiz itirazları bu itibarla yerinde görülmüş olduğundan bu sebeplerden dolayı hükmün isteme aykırı olarak BOZULMASINA, 20/03/2017 gününde oybirliğiyle karar verildi.
+
+YARGITAY 19. CEZA DAİRESİ 
+Esas : 2015/8224 Karar : 2016/16Tarih : 11.01.2016
+
+CMK 148. Madde
+
+İfade Alma ve Sorguda Yasak Usuller
+
+Yerel Mahkemece verilen hükümler temyiz edilmekle; başvurunun süresi, kararın niteliği ve suç tarihine göre dosya incelendi, gereği görüşülüp düşünüldü:
+
+Temyiz isteğinin reddi nedenleri bulunmadığından işin esasına geçildi.
+
+Vicdani kanının oluştuğu duruşma sürecini yansıtan tutanaklar, belgeler ve gerekçe içeriğine göre yapılan incelemede, başkaca temyiz nedenleri yerinde görülmemiştir.
+
+Ancak;
+
+1- Sanık hakkında, 25/08/2011 tarihinde 13:30 ve 12:45 sıralarında tutlan tutanaklar nedeni ile sanık hakkında 29/09/2011 ve 30/09/2011 tarihli tarihli iddianameler ile kamu davalarının açılması ve anılan her iki eylemde de, sanığın aynı mahalde birbirine çok yakın bulunan iki ayrı işyerinde katılan firmaların hak sahibi olduğu tescilli markaların iltibas edilerek kullanıldığı taklit ürünlerin ele geçmesi karşısında, sanığın tek eylemden sorumlu tutulup marka hakkına tecavüz suçu nedeniyle bir kez cezalandırılması ve birden çok hak sahibi şikayetçiye karşı aynı fiili işlediği gözetildiğinde, hakkında 5237 sayılı TCK’nın 43. maddesinin ikinci fıkrası gereğince zincirleme suç hükümlerinin uygulanması gerekirken, her iki eylemden ayrı ayrı ceza tayin edilmesi,
+
+2-Gerekçeli karar başlığında, suç tarihlerinin 25.08.2011 tarihi olmasına rağmen 24.08.2011 olarak hatalı yazılması,
+
+Kanuna aykırı ve sanığın temyiz nedenleri bu itibarla yerinde görüldüğünden, hükümlerin 5320 sayılı Kanun’un 8/1. maddesi gereğince yürürlükte bulunan 1412 sayılı CMUK’nın 321. maddesi uyarınca tebliğnameye uygun olarak BOZULMASINA, 1412 sayılı CMUK’nın 326/son maddesine göre sanığın ceza miktarı itibariyle kazanılmış hakkının saklı tutulmasına, yargılamanın bozma öncesi aşamadan başlayarak sürdürülüp sonuçlandırılmak üzere dosyanın mahkemesine gönderilmesine, 11/01/2015 tarihinde oyçokluğuyla karar verildi.
+
+Muhalefet Şerhi
+
+Daire çoğunluğu ile aramızdaki görüş farklılığı,
+
+1- Konut ve işyeri gibi kapalı yerlerde arama yapılırken, ihtiyar heyetinden veya komşulardan iki kişinin bulundurulmaması nedeniyle arama işleminin hukuka aykırı olup olmadığına,
+
+2- Suç eşyasının hukuka aykırı yöntemle elde edilmiş delil olmasından dolayı hükme esas alınamaması karşısında; sanıkların ikrar niteliğinde kabul edilebilecek beyanları olsa bile maddi delillerle desteklenmeyen ikrarına itibar edilip edilemeyeceğine ve mahkumiyete yeterli başkaca delil olup olmadığına,
+
+3- Bu hususların CMK’nun 230/1-b maddesi hükmü gereğince yerel mahkemece gerekçeli kararda tartışılması gerekip gerekmediğine ilişkindir.
+
+1- Ceza usul hukukunda, re’sen araştırma ilkesi ve vicdani delil sistemi geçerli olup, amaç maddi gerçeğe ulaşmaktır. Maddi gerçek, hukuka uygun elde edilen her türlü delille ispatlanabilir. Anayasa’ya göre, kanuna aykırı olarak elde edilen bulgular delil olarak kullanılamaz (m.38/6). CMK uyarınca, yüklenen suç, ancak hukuka uygun şekilde elde edilmiş olan delillerle ispat edilebilir (m. 217/2). Delil, kanuna aykırı olarak elde edilmişse, reddolunur (m.206/2-a). Hükmün hukuka aykırı yöntemlerle elde edilen delile dayanması, hukuka kesin aykırılık sebebidir (m. 289).
+
+5271 sayılı CMK’nda “arama ve elkoyma” işlemine dair usul ve esaslar (m. 116-134) düzenlenmiştir. Anılan Kanun’un 119. maddesinin 4. fıkrasında Cumhuriyet savcısı hazır olmaksızın konut, işyeri veya diğer kapalı yerlerde arama yapabilmek için o yer ihtiyar heyetinden veya komşulardan iki kişinin bulundurulacağı şarta bağlanmıştır.
+
+Yargıtay Ceza Genel Kurulu da, 25.11.2014 tarih ve 2014/166-514 sayılı Kararında hukuka aykırı olarak yapıldığı kabul edilen aramada elde edilen maddi delil dışındaki diğer delillerin (somut olayda ikrarın) mahkumiyet için yeterli olup olmadığı konusu tartışılırken şu sonuca varmıştır: “Hukuka uygun olmayan arama işlemi sonucunda ele geçen delillerin hükme esas alınamayacağının belirlendiği olayda; … arama işleminin hukuka aykırı yapılması nedeniyle ele geçirilen ruhsatsız tabancanın hukuka aykırı yöntemle elde edilmiş olmasından dolayı hükme esas alınmayacağı… başkaca maddi delillerle desteklenmeyen ikrara dayanılarak mahkumiyet hükmü kurulması usul ve kanuna aykırıdır.”
+
+Daire çoğunluğu, CGK’nun arama esnasında iki arama tanığının bulundurulmamasının sonuca etkili olmayan nisbi aykırılık olduğuna ilişkin Kararlarına dayanmakta ise de Anayasa Mahkemesinin, 19.11.2014 tarih ve 2013/6183 Başvuru Numaralı Kararında, ihtiyar heyetinden veya komşulardan iki kişi bulundurulmadan yapılan arama sonucunda elde edilen hukuka aykırı delillerin hükme esas alınarak adil yargılanma hakkının ihlal edildiğine karar vermesi üzerine CGK, Anayasa Mahkemesinin anılan kararı karşısında, bu kabullerinden vazgeçtiğini açıkça belirtmiştir: “Her ne kadar daha önceki kararlarda, sırf arama sırasındaki şekle ilişkin bu koşulun ihlal edilmesine dayanılarak aramanın hukuka aykırı sayılamayacağı ve ele geçen delillerin de ‘hukuka aykırı biçimde elde edilmiş delil’ olarak nitelenemeyeceği sonucuna ulaşılmış ise de, Anayasa Mahkemesi, konutta arama tanıkları hazır bulundurulmadan yapılan arama ile Anayasa’nın 36. maddesinde güvence altına alınan adil yargılanma hakkının ihlal edildiğine karar verdiğinden, CMK’nun 119/4. maddesinin amir hükmüne aykırı olarak kapalı alanlarda yapılan aramalarda o yer ihtiyar heyetinden veya komşulardan iki kişi hazır bulundurulmadan icra edilmişse aramanın hukuka aykırı olduğunun ve arama sonucu elde edilen suça konu eşyanın hukuka aykırı yöntemle elde edilmiş delil niteliğinde bulunduğunun kabulü gerekir.” (CGK, 28.04.2015, 2013/464 E., 2015/132 K.). Avrupa İnsan Hakları Mahkemesi de …./Türkiye davasında (17811/04, 24.05.2011), arama esnasında hazır bulunması gereken görevli veya bulunması gerekenler yer almadan konutta yapılan aramanın, AİHS’nin 8. maddesinde düzenlenen özel hayatın ve aile hayatına saygı hakkını ihlal ettiğine karar vermiştir (www……gov.tr/ara/karar/….pdf).
+
+Somut olayda mahkemece, CMK hükümleri uyarınca arama yapılmasına karar verilmesi üzerine, belirtilen yerlerde kolluk tarafından yapılan arama sonucunda suça konu eşya bulunup el konulmuş ise de, arama işlemi CMK’nun 119/4. maddesi hükmüne aykırı olarak ihtiyar heyetinden veya komşulardan kimse bulundurulmadan gerçekleştirildiği için, el konulan ve mahkumiyete esas alınan eşya hukuka aykırı yöntemle elde edilen delil niteliğindedir. Dosyadaki hukuka aykırı yöntemlerle elde edilen delillerin değerlendirme dışı tutulması halinde, sanığın cezalandırılmasına imkan yoktur. Bilirkişi raporu aramada ele geçen ürünün değerlendirilmesine yönelik bir araçtır.
+
+Adli ve Önleme Aramaları Yönetmeliğinin “Karar alınmadan yapılacak arama” başlıklı 8. maddesinde, bir arama emri ya da kararı aranmadan arama yapılabilecek hallerden “ilgilinin rızası” ibaresi Danıştay 10. Dairesinin 13.03.2007 tarih, 2005/6392 E., 2007/948 K. sayılı Kararı ile; “Anayasanın “Temel Haklar ve Ödevleri” kısmında yer verilen “özel hayatın gizliliği ve konut dokunulmazlığı hakkı” dokunulmaz, devredilmez, vazgeçilmez kişiliğe bağlı temel haklardandır. Anayasanın 20. ve 21. maddelerinde bu hakkın hangi hallerde ve nasıl sınırlanabileceği belirtilirken, anılan hakların “vazgeçilmez” niteliği nedeniyle sınırlama usulleri içinde ilgilinin rızası”na yer verilmemiştir. … Anayasanın sıkı bir şekilde korumakla yetinmeyip, sınırlama ölçütlerini de sıkı kurallara bağladığı temel haklardan olan “özel hayatın gizliliği” ve “konut dokunulmazlığı” hakkından tümüyle vazgeçilmesi anlamına gelen “rıza” müessesesinin bu hakların ihlalini kolaylaştıracağı ve Anayasa ile getirilen korumayı işlevsiz kılabileceği açıktır. Bu durumda, dava konusu yönetmeliğin 8. maddesinin (f) bendindeki “ilgilinin rızası” ibaresinde hukuka uyarlık bulunmadığı” gerekçesiyle İPTAL edilmiştir. Pozitif hukukumuzda, ilgilinin rızası ile arama yapılabileceğine veya hukuka aykırı aramanın ilgilinin muvafakatı ile geçerlilik kazanacağına ilişkin bir düzenleme bulunmamaktadır.
+
+2- CMK’nun “İfade alma ve sorguda yasak usuller” başlıklı 148. maddesine göre “şüphelinin ve sanığın beyanı özgür iradesine dayanmalıdır. Bunu engelleyici nitelikte kötü davranma, işkence, ilaç verme, yorma, aldatma, cebir veya tehditte bulunma, bazı araçları kullanma gibi bedensel veya ruhsal müdahaleler yapılamaz. …Yasak usullerle elde edilen ifadeler rıza ile verilmiş olsa da delil olarak değerlendirilemez.” Maddede yasak sorgu yöntemleri sayılırken, bir kaç yöntem sayıldıktan sonra “gibi” ifadesiyle, sayılan ruhsal ve bedensel müdahalelerin tahdidi (sınırlı) değil, tadadi olarak (örnek olarak) sayıldığı açıktır.
+
+Arama işlemi Kanun’un öngördüğü usullere uygun olarak gerçekleştirilmemişse, bu yolla elde edilen delil hukuka aykırı olduğu gibi suçun maddi unsuru olan ancak hukuka aykırı olarak elde edilen bu deliller sanığın önüne konulup, buna karşı diyecekleri sorularak alınan savunmanın dış müdahaleler olmaksızın, özgür iradeye dayanılarak yapıldığı söylenemez. Nasıl ki sanığın talep etmesine veya yasal zorunluluk bulunmasına rağmen müdafii atanmadan ya da yasal hakları hatırlatılmadan alınan savunması hukuka aykırı olup, bu şekilde alınan savunmada suçun ikrar edilip edilmediğine bakılmaz ya da yasak yöntemlerle (CMK m. 148) alınan savunmada belirtilen adreste hukuka uygun bir arama yapılsa bile elde edilen deliller hukuka aykırı olacağından, ikrar olarak kabul edilen bu itiraflar mahkumiyete esas alınamaz. Aynı şekilde hukuka aykırı biçimde elde edilip, “delil” olma özelliği bulunmamasına rağmen, suçun sübutuna en büyük delil olarak sanığa gösterilerek alınan savunmadaki “ikrar” özgür iradeye dayalı olmayacağından, değer atfedilmemelidir.
+
+Usulsüz olarak gerçekleştirilen arama işlemi sonucunda elde edilen suçun konusu ve maddi unsuru olan eşya ele geçmeden yapılacak savunma ile suçun konusu eşyanın ele geçirilmesinden sonra yapılacak savunma aynı olacak mıydı? Cumhuriyet savcısı veya Hakim, hukuka aykırı olarak elde edildiğini belirterek, suça konu eşya ele geçmemiş gibi sanıktan savunma yapmasını isteselerdi sanık aynı şekilde suçunu ikrar edecek miydi? Suçun maddi unsuru ortada yokken ikrarda bulunulsa bile bu ikrar soyut kalacağından, mahkumiyete yeterli delil olarak kabul edilemez. CMK’nun amir hükümleri karşısında, hukuka “mutlak aykırılık”, “nisbi aykırılık” ayırımının yapılması mümkün değildir. Hukuk kurallarına aykırılık kavramı bir bütündür. Hukukun uygulanmasında hukuka uygun olmayan bir şeyin üzerine meşru bir şey bina edilemez. Sistemimiz, delile değil hukuka üstünlük tanımaktadır. Bu durumda sanıklar suçu ikrar etse de da maddi delillerle desteklenmiş sayılmayacağından ikrar soyut kalacak ve mahkumiyete esas alınamayacaktır.
+
+3- Anayasa’nın 141. maddesine göre “mahkemelerin her türlü kararları gerekçeli olarak yazılır.” CMK’nun 34/1 ve 230. maddelerinin amir hükümlerine göre; “Hakim ve mahkemelerin her türlü kararı, karşı oy dahil, gerekçeli olarak yazılır. Gerekçenin yazımında 230 uncu Madde göz önünde bulundurulur.” “Mahkumiyet hükmünün gerekçesinde, iddia ve savunmada ileri sürülen görüşler, delillerin tartışılması ve değerlendirilmesi, hükme esas alınan ve reddedilen delillerin belirtilmesi; bu kapsamda dosya içerisinde bulunan ve hukuka aykırı yöntemlerle elde edilen delillerin ayrıca ve açıkça gösterilmesi gerekir.”
+
+Bu amir hükümlere göre; mahkumiyet hükmünün gerekçesinde, … dosya içerisinde bulunan ve hukuka aykırı yöntemlerle elde edilen delillerin ayrıca ve açıkça gösterilmesi gerekir” iken, gerekçeli kararda bu hususlara hiç değinilmemiştir. Kararın bu yönüyle gerekçesiz olması başlı başına hukuka kesin aykırılıktır (CMUK m. 308/7, CMK m. 289/1-g). Bu durum adil yargılanma hakkını ihlal edici nitelikte olduğundan, hükmün bozulmasını gerektirir.
+
+Açıklanan pozitif hukuk normları, AİHM, Anayasa Mahkemesi ve CGK Kararları karşısında; “hukuka aykırı biçimde” elde edilen deliller hükme esas alınamaz. Bu husus, Avrupa İnsan Haklari Sözleşmesi’nin 6. maddesinde yer alan ve Anayasamıza da eklenen (m. 36) adil yargılanma hakkının ve özel hayatın gizliliğinin gereğidir.
+
+Açıklanan gerekçelerle, hukuka uygun biçimde elde edilmiş, mahkumiyete yeterli başkaca delil bulunmaması ve bu hususların yerel mahkemece tartışılıp değerlendirilmemesi nedeniyle yerel mahkeme kararının öncelikle bu gerekçeyle bozulması gerektiğini, uygulamaya yönelik hususlara ise ancak kabule göre işaret edilebileceğini düşündüğümden, sayın çoğunluğun kararına katılamıyorum.
+
+UYARI

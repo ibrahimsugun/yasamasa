@@ -1,0 +1,48 @@
+Hakemin Kendi Yetkisi Hakkında Karar Vermesi
+
+HMK Madde 422
+
+HMK Madde 422 Gerekçesi
+
+HMK 422 (Hakemin Kendi Yetkisi Hakkında Karar Vermesi)  Emsal Yargıtay Kararları
+
+(1) Hakem veya hakem kurulu, tahkim sözleşmesinin mevcut veya geçerli olup olmadığına ilişkin itirazlar da dâhil olmak üzere, kendi yetkisi hakkında karar verebilir. Bu karar verilirken, bir sözleşmede yer alan tahkim şartı, sözleşmenin diğer hükümlerinden bağımsız olarak değerlendirilir. Hakem veya hakem kurulunun asıl sözleşmenin hükümsüzlüğüne karar vermesi, tahkim sözleşmesinin kendiliğinden hükümsüzlüğü sonucunu doğurmaz.
+
+(2) Hakem veya hakem kurulunun yetkisizliğine ilişkin itiraz, en geç cevap dilekçesinde yapılır. Tarafların hakemleri bizzat seçmiş veya hakem seçimine katılmış olmaları, hakem veya hakem kurulunun yetkisine itiraz etme haklarını ortadan kaldırmaz.
+
+(3) Hakem veya hakem kurulunun yetkisini aştığına ilişkin itiraz derhâl ileri sürülmelidir.
+
+(4) Hakem veya hakem kurulu, yukarıda belirtilen her iki hâlde de gecikmenin haklı sebebe dayandığı sonucuna varırsa, süresinde ileri sürülmeyen itirazı kabul edebilir.
+
+(5) Hakem veya hakem kurulu, yetkisizlik itirazını, ön sorun şeklinde inceler ve karara bağlar; yetkili olduğuna karar verirse, tahkim yargılamasını sürdürür ve davayı karara bağlar.
+
+Hakemin kendi yetkisi konusunda karar vermesi ve tahkim şartının esas sözleşmeden ayrı sayılması; yani tahkim şartının bağımsızlığı, tahkim kurumunun başarıya ulaşması için kabul edilmiş ilkelerdir. Amaç tahkim şartının geçersizliğini ileri sürerek tahkimi bertaraf etmenin önüne geçmektir. Bu durum, maddenin birinci fıkrasında düzenlenmiştir.
+
+İkinci fıkra ile, tahkime sürat kazandırmak ve usul ekonomisi bakımından tahkimin ilerleyen aşamalarında yetki itirazı ile karşılaşılması önlenilmek istenilmiştir.
+
+Üçüncü fıkrada, tahkimi geciktirmek için yapılacak yetki aşımı itirazlarının önüne geçilmek istenilmiştir.
+
+Gecikmedeki haklı sebeplerin göz önüne alınıp hak kaybının engellenmesi bakımından, şartları mevcut ise sonradan ileri sürülen itirazların kabul edilebileceği dördüncü fıkrada düzenlenmiştir.
+
+Beşinci fıkrada, usul ekonomisi ilkesi gereği yetki sorununun öncelikle incelenmesi esası kabul edilmiştir.
+
+YARGITAY 11. HUKUK DAİRESİ
+Esas : 2015/4467 Karar : 2015/11347Tarih : 2.11.2015
+
+HMK 422. Madde
+
+Hakemin Kendi Yetkisi Hakkında Karar Vermesi
+
+Davacı vekili; müvekkili ile davalı arasında sekiz adet ortaklar kurulu kararından ve 0614 sayılı protokolden kaynaklı uyuşmazlıkların çözümüne ilişkin 4.7.2012 tarihli anlaşmanın imzalandığını, söz konusu anlaşmada taraflar arasındaki ihtilafın çözümünde uygulanacak yolların, ne miktarda cezai şart ödeneceğinin belirlendiğini, bu anlaşmanın 2. maddesinin (b) bendinde taraflar arasında yaşanacak ihtilafların karşılıklı müzakere ile çözülememesi halinde tahkim yoluyla çözüleceğinin kararlaştırıldığını, aynı maddenin (h) bendinde ise “buradaki hiçbir husus taraflardan birinin söz konusu işlemin telafisi mümkün olmayan zararlardan kaçınmak, satış imkanının yok etmemek için geçici bir kısıtlayıcı mahkeme emri, ihtiyati tedbir veya diğer geçici benzer tedbir alınmasını ya da yukarıdaki maddeler ile ilgili dava açılmasını yasaklamayacaktır” denilmek suretiyle tahkim yetkisine alternatif bir yol olarak mahkemelerin yetkisinin saklı tutulduğunu, taraflar arasında düzenlenen anlaşmada uygulanacak hüküm bakımından HUMK hükümlerine atıf yapıldığını, tahkim sözleşmesinde hem mahkemenin hem de tahkimin yetkili kılınması durumunda tahkim şartının geçersiz olduğunu, sözleşmede uygulanacak kanun yönünde atıf yapılan HUMK’nın 519. maddesi uyarınca uyuşmazlığın çözümünde tahkim şartının uygulanıp uygulanmayacağına ilişkin ihtilafların mahkemece seri seri yargılama usulü hükümlerince çözümleneceğinin düzenlendiğini ileri sürerek HUMK’nın 519. maddesi uyarınca taraflar arasında imzalanın 4.7.2012 tarihli anlaşmanın 2. maddesinde yer alan tahkim şartının hükümsüzlüğünün tespitine karar verilmesini talep ve dava etmiştir.
+
+Davalı vekili; tahkim sözleşmesinin HMK’nın yürürlüğe girdiği tarihten sonra yapıldığını, sözleşmede HUMK’na yapılan atıfların dil alışkanlığı nedeniyle maddi hataya dayalı olarak gerçekleştiğini, kaldı ki anlaşma tarihi itibariyle HMK’nın yürürlükte olması nedeniyle uyuşmazlıklarda bu kanun hükümlerinin uygulanacağını, sözleşmedeki tahkim şartının geçerli olduğunu, geçersizliğin ve tahkimin yetkisizliğinin ileri sürülmesi durumunda HMK’nın 422. maddesi uyarınca bu hususta hakem heyetince karar verileceğini, davacı tarafından davaya mesnet gösterilen HUMK’nun 519. maddesine HMK’da yer verilmediğini, davacının daha öncesinde uyuşmazlıklar nedeniyle müvekkiline gönderdiği ihtarnameler ile tahkim yoluna giderek müvekkilinden anlaşma uyarınca hakem belirlemesini talep ettiğini, bu doğrultuda Tahkim Kurulunun oluşturulduğunu, davacının kötü niyetle yargılama sürecini uzatmak için bu davayı açtığını, sözleşmenin 2/h bendinde yer alan düzenle ile HMK’nın 414. maddesine atıf yapıldığını savunarak davanın reddini istemiştir.
+
+Mahkemece, iddia, savunma ve dosya kapsamına göre; taraflar arasında yapılan 4.7.2012 tarihli anlaşmanın 2. maddesinde ihtilafların çözümü için tahkim usulünün öngörüldüğü, HMK’nın 422. maddesi uyarınca tahkim sözleşmesinin geçersizliğine dair itirazları değerlendirme yetkisinin tahkim kuruluna ait olduğu, mahkemenin bu konuda görevli bulunmadığı gerekçesiyle davanın usulden reddine karar verilmiştir.
+
+Kararı, davacı vekili temyiz etmiştir.
+
+Dava dosyası içerisindeki bilgi ve belgelere, mahkeme kararının gerekçesinde dayanılan delillerin tartışılıp, değerlendirilmesinde usul ve yasaya aykırı bir yön bulunmamasına göre, davacı vekilinin tüm temyiz itirazları yerinde değildir.
+
+SONUÇ: Yukarıda açıklanan nedenlerden dolayı, davacı vekilinin bütün temyiz itirazlarının reddiyle usul ve kanuna uygun bulunan hükmün ONANMASINA, aşağıda yazılı bakiye 2,50 TL temyiz ilam harcının temyiz edenden alınmasına, 02/11/2015 tarihinde oybirliğiyle karar verildi.
+
+UYARI

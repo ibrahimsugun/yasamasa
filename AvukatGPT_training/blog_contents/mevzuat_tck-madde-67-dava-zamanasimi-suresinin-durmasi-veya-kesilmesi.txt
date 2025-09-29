@@ -1,0 +1,329 @@
+Dava Zamanaşımı Süresinin Durması veya Kesilmesi
+
+TCK Madde 67
+
+TCK Madde 67 Gerekçesi
+
+TCK 67 (Dava Zamanaşımı Süresinin Durması veya Kesilmesi) Emsal Yargıtay Kararları
+
+(1) Soruşturma ve kovuşturma yapılmasının, izin veya karar alınması veya diğer bir mercide çözülmesi gereken bir meselenin sonucuna bağlı bulunduğu hallerde; izin veya kararın alınmasına veya meselenin çözümüne veya kanun gereğince hakkında kaçak olduğu hususunda karar verilmiş olan suç faili hakkında bu karar kaldırılıncaya kadar dava zamanaşımı durur.
+
+(2) Bir suçla ilgili olarak;
+
+a) Şüpheli veya sanıklardan birinin savcı huzurunda ifadesinin alınması veya sorguya çekilmesi,
+
+b) Şüpheli veya sanıklardan biri hakkında tutuklama kararının verilmesi,
+
+c) Suçla ilgili olarak iddianame düzenlenmesi,
+
+d) Sanıklardan bir kısmı hakkında da olsa, mahkûmiyet kararı verilmesi, Halinde, dava zamanaşımı kesilir.
+
+(3) Dava zamanaşımı kesildiğinde, zamanaşımı süresi yeniden işlemeye başlar. Dava zamanaşımını kesen birden fazla nedenin bulunması halinde, zamanaşımı süresi son kesme nedeninin gerçekleştiği tarihten itibaren yeniden işlemeye başlar.
+
+(4) Kesilme halinde, zamanaşımı süresi ilgili suça ilişkin olarak Kanunda belirlenen sürenin en fazla yarısına kadar uzar.
+
+5237 sayılı Türk Ceza Kanunu (TCK) Tam Metin
+
+Makale :Dava ve Ceza Zamanaşımı Şartları
+
+Tasarının ilgili madde metni içerik olarak muhafaza edilmiştir. Ancak, “kamu davasının açılması” ibaresi yerine, “soruşturma, kovuşturma yapılması, kamu davasının açılması” ifadesi benimsenmiş ve bu suretle uygulamada çıkan aksaklıkların giderilmesi amaçlanmıştır.
+
+Ceza Genel Kurulu         2018/587 E.  ,  2021/61 K.
+
+01.06.2005 tarihinde yürürlüğe giren 5237 sayılı TCK’da ise dava zamanaşımını kesen nedenler 67. maddede düzenlenmiştir. “Dava zamanaşımı süresinin durması veya kesilmesi” başlıklı 67. maddesinin ikinci fıkrası;
+
+“Bir suçla ilgili olarak;
+
+a) Şüpheli veya sanıklardan birinin savcı huzurunda ifadesinin alınması veya sorguya çekilmesi,
+
+b) Şüpheli veya sanıklardan biri hakkında tutuklama kararının verilmesi,
+
+c) Suçla ilgili olarak iddianame düzenlenmesi,
+
+d) Sanıklardan bir kısmı hakkında da olsa, mahkûmiyet kararı verilmesi,
+
+Halinde, dava zamanaşımı kesilir” şeklinde düzenlenmiştir. Mülga 765 sayılı TCK’nın 106. maddesinde yer alan düzenleme ise 5237 sayılı TCK’da yer almamıştır.
+
+Dava zamanaşımını kesen nedenlerin aynı suça katılanları ne şekilde etkileyeceği konusunda iki sistem mevcuttur. Bunlardan birincisi, Almanya, Avusturya, İsviçre ve Arjantin Ceza Kanunlarında da kabul edilen yargılanan sanığı esas alan ve diğer sanıkları soyutlayan öznel sistem (kesilmenin şahsiliği) olarak nitelendirilen sistemdir. Nesnel sistem olarak adlandırılan ve fiili esas alan ikinci sistem ise İtalya, Brezilya ve Fransa Ceza Kanunlarında kabul edilen ve sadece sanığı değil, katılma dereceleri ne olursa olsun olaya katılan tüm sanıkları hatta haklarında kovuşturmaya başlanmamış olanları dahi nazara almaktadır.
+
+Dava zamanaşımını kesen nedenler TCK’nın 67. maddesinin ikinci fıkrasında, bir suçla ilgili olarak; şüpheli veya sanıklardan birinin Cumhuriyet savcısı huzurunda ifadesinin alınması veya sorguya çekilmesi, şüpheli veya sanıklardan biri hakkında tutuklama kararının verilmesi, suçla ilgili olarak iddianame düzenlenmesi ve sanıklardan bir kısmı hakkında da olsa, mahkûmiyet kararı verilmesi olarak belirtilmiştir. Dava zamanaşımının kesilme nedenleri sayılırken madde metninde kullanılan “şüpheli veya sanıklardan birinin”, “şüpheli veya sanıklardan biri hakkında”, “sanıklardan bir kısmı hakkında da olsa” ibarelerinden dolayı 5237 sayılı TCK’da “dava zamanaşımının sirayeti” ilkesinin benimsendiği ve öznel kriter dışlanarak nesnel kriter esas alındığı için suç tarihinden itibaren dava zamanaşımının fail bazında değil de fiile bağlı olarak ortak hesaplanması gerektiği anlaşılmaktadır. Bu nedenle iştirak hâlinde bir suç işlendiği takdirde şeriklerden biri hakkında dava zamanaşımını kesen işlemler yapılmış ise haklarında madde metninde sayılan işlemler yapılmış veya yapılmamış olan şerikler hakkında da dava zamanaşımı süresi kesilmiş olacaktır.
+
+Yargıtay Ceza Genel Kurulunun 20.03.2012 tarihli ve 241-114 sayılı kararı ile 31.01.2012 tarihli ve 243-7 sayılı kararında, 5237 sayılı TCK’da dava zamanaşımının sirayeti konusunda fiile bağlılığı esas alan nesnel ölçütün kabul edildiği, iştirak hâlinde suç işleyen sanıklardan bir kısmı hakkında verilen mahkûmiyet kararının tüm sanıklar için dava zamanaşımını keseceği vurgulanmıştır.
+
+Nitekim öğretide de TCK’nın 67. maddesinin ikinci fıkrasındaki düzenleme ile ilgili olarak; bir şüpheli veya sanık hakkındaki ifade alma veya sorgunun diğer sanık veya şüpheliler bakımından da zamanaşımını keseceği (Mehmet Emin Artuk - Ahmet Gökcen, Ceza Hukuku Genel Hükümler, 11. bası, Ankara, 2017, s.984-986.), yeni TCK’nın sisteminde, dava zamanaşımı süresinin kesilmesinde nesnel ölçütün esas alındığı, başka bir deyişle, kesme sebebinin varlığı hâlinde, dava zamanaşımının suçla ilgili olarak kesildiğini kabul etmek ve fakat bunu ilgili suç ortağına özgü kesilme olarak mütalaa etmemek gerektiği (İzzet Özgenç, Türk Ceza Hukuku Genel Hükümler, 11. bası, Ankara 2015, s. 887-890.), eğer bir suçta birden fazla kişi çeşitli sebeplerle şüpheli veya sanık durumunda iseler Kanun’un ifadesine göre bunlardan birinin ifadesinin alınması veya sorgulanmasının sanıkların tamamı bakımından zamanaşımını keseceği (Mahmut Koca-İlhan Üzülmez, Türk Ceza Hukuku Genel Hükümler, 10. bası, Ankara 2017, s.718-721.), zamanaşımının kesilmesinin suçu işlediği iddia olunan kişiye ya da kişilere ilişkin olmayıp aksine suç konusu fiile ilişkin olduğu, zamanaşımını kesen sebeplerin bir suç sebebiyle ortaya çıktığı, bahse konu suçu oluşturan fiilin objektif olarak şerikler arasındaki bağı ifade ettiği, bu bağın suça iştirak eden kişilerden kaynaklanmayıp aksine ortak katkıda bulunulan fiilin çerçevesinde hüküm ifade ettiği, dolayısıyla objektif bu bağ kapsamında meydana gelen ve dava zamanaşımını kesen nedenlerin, kişilerden bağımsız olarak hukuki sonuç doğuracağı ve fiil nedeniyle birleşen tüm şerikler hakkında da geçerli olacağı (Veli Özer Özbek/Koray Doğan/Pınar Bacaksız/İlker Tepe, Türk Ceza Hukuku Genel Hükümler, 8. bası, Ankara 2017, s. 728.), suç iştirak hâlinde işlenmişse, bir sanık hakkında dava zamanaşımını kesen nedenin tüm sanıkları etkileyeceği, böylece, şüpheli veya sanıklardan birinin, ifadesinin alınması veya sorguya çekilmesi, hakkında tutuklama kararı verilmesi, onunla ilgili iddianamenin düzenlenmesi, mahkûmiyet kararı verilmesi hâlinde, haklarında soruşturma yapılmış veya yapılmamış tüm suç ortakları ile ilgili dava zamanaşımının kesileceği (Kayıhan İçel, Ceza Hukuku Genel Hükümler, 4. bası, İstanbul 2017, s. 790-794.), iştirak hâlinde işlenen suçlarda ortaklardan biri için dava zamanaşımının kesilmesinin diğer ortakları da etkileyeceği, yani onlar için de dava zamanaşımı süresinin kesileceği (Berrin Akbulut, Ceza Hukuku Genel Hükümler, 4. bası, Ankara 2017, s. 917.), düzenlemenin lafzına ve ruhuna göre ortaklardan birinin ifadesinin alınması, tutuklama kararı verilmesi, mahkûmiyet hükmü kurulması durumunda o ortakla, o suçu iştirâk hâlinde işleyen şüpheliler veya sanıklar hakkında da zamanaşımı süresinin kesileceği, kanun koyucunun, sirayet ihtimalini düşünmese bu ibareleri kanuna koymayacağı (Osman Yaşar - Hasan Tahsin Gökcan - Mustafa Artuç, Türk Ceza Kanunu, 1. bası, Ankara, 2010, 2. cilt, s.2270-2271.) şeklinde görüşlere yer verilmiştir.
+
+Bu açıklamalar ışığında uyuşmazlık konusu değerlendirildiğinde;
+
+5237 sayılı TCK’da dava zamanaşımının sirayeti konusunda fiile bağlılığı esas alan nesnel ölçütün kabul edildiği, zamanaşımının kesilmesinin suçu işlediği iddia olunan kişiye ya da kişilere ilişkin olmayıp aksine suç konusu fiile ilişkin olduğu, bahse konu suçu oluşturan fiilin objektif olarak şerikler arasındaki bağı ifade ettiği, bu bağın suça iştirak eden kişilerden kaynaklanmayıp aksine ortak katkıda bulunulan fiilin çerçevesinde hüküm ifade ettiği, dolayısıyla objektif bu bağ kapsamında meydana gelen ve dava zamanaşımını kesen nedenlerin, kişilerden bağımsız olarak hukuki sonuç doğuracağı ve fiil nedeniyle birleşen tüm şerikler hakkında da geçerli olacağı anlaşıldığından iştirak hâlinde işlenen suçlarda, ortaklardan birisinin savunmasının alınmasının dava zamanaşımının kesilmesi yönünden diğer ortakları da etkileyeceğinin kabul edilmesinde zorunluluk bulunmaktadır. Yargıtay Ceza Genel Kurulunun 14.05.2019 tarihli ve 147-428 sayılı kararında da benzer gerekçelerle aynı sonuca ulaşılmıştır.
+
+Sanık … ve inceleme dışı sanıklar …, …, …, …, … ve…’ın atılı mülga 2499 sayılı Kanun’un 47/I-A-2. maddesi ile 6362 sayılı Kanun’un 107/1. maddesinde tanımlanan piyasa dolandırıcılığı (işleme dayalı manipülasyon) suçunun gerektirdiği cezanın türü ve üst sınırına göre davanın 5237 sayılı TCK’nın 66/1-e ve 67. maddelerinde öngörülen 8 yıllık olağan, 12 yıllık olağanüstü zamanaşımı süresine tabi bulunduğu, sanık …’ın savunmasının 03.11.2008, inceleme dışı sanıklardan son olarak…‘ın 12.06.2009 tarihinde savunmasının alındığı hususları dikkate alındığında sanık … hakkında verilen mahkûmiyet kararına kadar tüm sanıklar açısından zamanaşımı sürelerini son kesen sebebin 12.06.2009 tarihindeki…’ın savunması olduğu, 12.06.2009 tarihinden sonra sanık … hakkında verilen 07.02.2017 tarihli mahkûmiyet hükmüne kadar 8 yıllık olağan dava zamanaşımının gerçekleşmediği kabul edilmelidir.
+
+Ceza Genel Kurulu         2019/315 E.  ,  2020/471 K.
+
+Katılanın Sincan Cumhuriyet Başsavcılığına 11.06.2010 tarihinde müracaat ederek sanık hakkında şikâyetçi olduğu,
+
+Sincan Cumhuriyet Başsavcılığınca 11.08.2010 tarih ve 4660 sayı ile; Adalet Bakanlığı Ceza İşleri Genel Müdürlüğünden sanık hakkında soruşturma izni verilmesinin talep edildiği, Bakanlıkça 12.10.2010 tarih ve 29510 sayı ile soruşturma izninin verildiği, kovuşturma izninin verilmesinin ise 01.11.2010 tarihli ve 19021 sayılı fezleke ile talep edildiği, 26.12.2010 tarih ve 35993 sayı ile de kovuşturma izninin verildiği,
+
+Ankara Cumhuriyet Başsavcılığının 10.01.2011 tarihli ve 1258-49 sayılı iddianamesi ile; sanığın alacaklı vekili sıfatıyla takip ettiği Sincan 4. İcra Müdürlüğünün 2006/214 ve 2006/1215 sayılı dosyalarını 13.11.2007 tarihinden sonra işlemsiz bırakmak suretiyle dosyaların işlemden kaldırılmasına sebebiyet verdiği iddiasıyla TCK’nın 257/2 ve 53. maddeleri uyarınca cezalandırılmasına ve hak yoksunluğuna karar verilmesi istemiyle kamu davası açıldığı,
+
+Ankara 2. Ağır Ceza Mahkemesince 24.02.2011 tarih ve 10-46 sayı ile; sanık hakkında TCK’nın 257/2 ve 53. maddeleri uyarınca cezalandırılmasına ve güvenlik tedbirine hükmedilmesine karar verilmek üzere son soruşturmanın açılmasına karar verildiği,
+
+Sanığın sorgusunun 07.07.2011 tarihinde yapıldığı,
+
+Yerel Mahkemece sanığın atılı suçtan beraatine karar verildiği,
+
+Anlaşılmaktadır.
+
+5237 sayılı TCK’nın 67. maddesinin birinci fıkrasında dava zamanaşımını durduran nedenler, izin veya karar alınması, bekletici sorun yahut kanun gereğince kaçak olduğu hususunda karar verilenler olarak sayılmıştır.
+
+Bu düzenlemeye göre, suçun işlenmesi ile başlayandava zamanaşımı süresi, izin veya karar alınması için yetkili merciye başvurulduğu ya da bir bekletici sorunun ortaya çıktığı günde yahut kanun gereğince kaçak olduğu hususunda karar verildiğinde duracak, izin veya kararın alındığı tarihte ya da bekletici sorun çözümlendiğinde yahut kaçak olduğuna karar verilenler hakkında bu kararın kaldırıldığı tarihte kaldığı yerden işlemeye devam edecektir. Bu nedenle, durma süresinden önce geçmiş olan süre, durma süresinden sonra işleyen zamanaşımı süresine eklenecektir.
+
+1136 sayılı Avukatlık Kanunu’nun 58. ve 59. maddeleri uyarınca avukat hakkında soruşturma ve kovuşturma izninin istenmesi dava zamanaşımını durduran nedenlerden “izin” hâli ile ilgilidir. Bir avukatın işlediği görev suçu nedeniyle Cumhuriyet savcısının Adalet Bakanlığından soruşturma izni almak için başvurmasıyla dava zamanaşımı duracak, Bakanlıkça soruşturma izni verilmesiyle süre kaldığı yerden işlemeye başlayacaktır. Yine Cumhuriyet savcısının Adalet Bakanlığından kovuşturma izni almak için başvuruda bulunmasıyla dava zamanaşımı duracak, Bakanlıkça kovuşturma izni verilmesiyle süre kaldığı yerden işlemeye başlayacaktır.
+
+5237 sayılı TCK’nın 66. maddesinde; kanunda aksine bir hüküm bulunmadıkça kamu davasının maddede yazılı sürelerin geçmesiyle düşeceği düzenlenmiş, maddenin birinci fıkrasının (e) bendinde de beş yıldan fazla olmamak üzere hapis ya da adli para cezasını gerektiren suçlarda bu sürenin sekiz yıl olacağı hüküm altına alınmıştır.
+Aynı Kanun’un 67. maddesinin 3 ve 4. fıkraları uyarınca kesen bir nedenin varlığı hâlinde zamanaşımı, kesilme gününden itibaren yeniden işlemeye başlayacak ve ilgili suça ilişkin olarak kanunda belirlenen sürenin en fazla yarısına kadar uzayacaktır.
+
+Yargıtay Ceza Genel Kurulunun süreklilik gösteren birçok kararında açıkça vurgulandığı üzere, yargılama yapılmasına engel olup davayı düşüren hâllerden biri olan dava zamanaşımının yargılama sırasında gerçekleşmesi hâlinde, yerel mahkeme ya da Yargıtay, resen zamanaşımı kuralını uygulayarak kamu davasının düşmesine karar verecektir.
+Bu açıklamalar ışığında ön sorun konusu değerlendirildiğinde;
+
+Sanığa atılı ihmali davranışla görevi kötüye kullanma suçunun yaptırımı TCK’nın 257/2. maddesinde 3 aydan 1 yıla kadar hapis cezası olarak öngörülmüş olup, aynı Kanun’un 66/1-e maddesi gereğince bu suça ilişkin asli dava zamanaşımı sekiz yıldır.
+
+Daha ağır cezayı gerektiren başka bir suçu oluşturma ihtimali bulunmayan ve suç tarihinin 11.06.2010 olduğu eylemle ilgili olarak, sanık hakkında dava zamanaşımını kesen en son işlem 07.07.2011 tarihli sanığın sorgusu olup sekiz yıllık dava zamanaşımı süresi, Ceza Genel Kurulunun inceleme tarihinden önce 07.07.2019 tarihinde dolmuş bulunmaktadır.
+Bu itibarla, Yerel Mahkemenin direnme kararına konu hükmünün, gerçekleşen dava zamanaşımı nedeni ile bozulmasına, ancak yeniden yargılamayı gerektirmeyen bu konuda, 1412 sayılı CMUK’un, 5320 sayılı Kanun’un 8. maddesi uyarınca karar tarihi itibarıyla uygulanması gereken 322. maddesine göre karar verilmesi mümkün bulunduğundan, 5237 sayılı TCK’nın 66/1-e ve 5271 sayılı CMK’nın 223/8. maddeleri uyarınca sanık hakkındaki kamu davasının dava zamanaşımı nedeniyle düşmesine karar verilmelidir.
+
+Ceza Genel Kurulu         2023/300 E.  ,  2024/8 K.
+
+5237 sayılı TCK’da ise dava zamanaşımını kesen nedenler “Dava zamanaşımı süresinin durması veya kesilmesi” başlıklı 67. maddesinin ikinci fıkrasında;
+
+“Bir suçla ilgili olarak;
+
+a) Şüpheli veya sanıklardan birinin savcı huzurunda ifadesinin alınması veya sorguya çekilmesi,
+
+b) Şüpheli veya sanıklardan biri hakkında tutuklama kararının verilmesi,
+
+c) Suçla ilgili olarak iddianame düzenlenmesi,
+
+d) Sanıklardan bir kısmı hakkında da olsa, mahkûmiyet kararı verilmesi, hâlinde, dava zamanaşımı kesilir.” şeklinde düzenlenmiş olup dava zamanaşımını kesen nedenler, bir suçla ilgili olarak; şüpheli veya sanıklardan birinin Cumhuriyet savcısı huzurunda ifadesinin alınması veya sorguya çekilmesi, şüpheli veya sanıklardan biri hakkında tutuklama kararının verilmesi, suçla ilgili olarak iddianame düzenlenmesi ve sanıklardan bir kısmı hakkında da olsa, mahkûmiyet kararı verilmesi olarak belirtilmiştir.
+
+Anılan Kanun maddesinde özenle seçilen anlatım biçimi ile 765 sayılı TCK’nın 106. maddesine benzer bir düzenlemeye 5237 sayılı TCK’da yer verilmemesi ve dava zamanaşımının kesilme nedenleri sayılırken kullanılan “şüpheli veya sanıklardan birinin”, “şüpheli veya sanıklardan biri hakkında”, “sanıklardan bir kısmı hakkında da olsa” ibareleri birlikte değerlendirildiğinde, böyle bir düzenlemenin kanun koyucunun bilinçli bir tercihi olduğu ve bir suçla ilgili olarak düzenlenen ilk iddianamenin dava zamanaşımı süresini keseceği, aynı suç ile ilgili düzenlenen ek iddianame veya birleşen iddianamelerin ise tekrar eden işlem niteliğinde olduğu sonucuna ulaşılmaktadır.
+
+Her ne kadar Yargıtay Cumhuriyet Başsavcılığınca iştirak hâlinde işlenen bir suç nedeniyle zamanaşımını kesen bir işlemin diğer sanıkları da etkileyeceğinden bahisle sanık … hakkında düzenlenen 14.10.2020 tarihli iddianamenin her iki sanık hakkında da dava zamanaşımını kestiği ve sanık … hakkında verilen 25.11.2021 tarihli mahkûmiyet hükmüne kadar zamanaşımını kesen bir nedenin bulunmadığı belirtilerek her iki sanık hakkında da dava zamanaşımının gerçekleşmediği düşüncesiyle itiraz yoluna başvurulmuş ise de TCK’nın 67. maddesinin 2. fıkrasında yer alan bentlerde açıkça belirtildiği üzere sanıklardan biri hakkında zamanaşımını kesen bir nedenin diğer sanıklar hakkında da etkili olacağına dair hükmün ek iddianame veya birleştirilen iddianameler yönünden uygulama yerinin bulunmaması, sanık … hakkında beraat kararı verilirken sanık … hakkında mahkûmiyet kararı verilmesi nedeniyle suçun iştirak hâlinde işlendiği hususunun kuşku boyutunda kalması, ayrı yürütülen kamu davaları bakımından her iddianamenin, hakkında düzenlendiği sanık veya sanıklar açısından zamanaşımını etkilemesi hususları birlikte değerlendirildiğinde; her iki sanık hakkında da dava zamanaşımının gerçekleştiği ve buna dair Özel Daire kararında herhangi bir isabetsizlik bulunmadığı kabul edilmelidir.
+
+YARGITAY 11. CEZA DAİRESİ
+Esas : 2018/5123 Karar : 2018/7928Tarih : 11.10.2018
+
+TCK 67. Madde
+
+Dava Zamanaşımı Süresinin Durması veya Kesilmesi
+
+5237 sayılı TCK’nin 7 ve 5252 sayılı Türk Ceza Kanununun Yürürlük ve Uygulama Şekli Hakkında Kanun’un 9. maddeleri hükmü karşısında; sanığa yüklenen “resmi belgede sahtecilik” suçunun 5237 sayılı TCK’nin 204/1. maddesinde öngörülen cezasının miktarı ve üst sınırına göre, aynı Kanunun 66/1-e ve 67/4. maddelerinde öngörülen olağanüstü dava zamanaşımının, suçun işlendiği 25.08.2005 tarihinden temyiz inceleme tarihine kadar gerçekleştiği anlaşılmış, sanığın itirazları bu nedenle yerinde görülmüş olduğundan, sair yönleri incelenmeyen hükmün 5320 sayılı Kanun’un 8/1. maddesi uyarınca uygulanması gereken 1412 sayılı CMUK’nin 321. maddesi uyarınca BOZULMASINA; ancak bu husus yeniden yargılama yapılmasını gerektirmediğinden, aynı Kanun’un 322. maddesinde öngörülen yetkiye dayanılarak sanık hakkında açılan kamu davasının gerçekleşen zamanaşımı nedeniyle 5237 sayılı TCK’nin 66/1-e, 67/4 ve 5271 sayılı CMK`nin 223/8. maddeleri uyarınca DÜŞMESİNE, 11.10.2018 tarihinde oy birliğiyle karar verildi.
+
+YARGITAY 3. CEZA DAİRESİ 
+Esas : 2018/5645 Karar : 2018/14904Tarih : 10.10.2018
+
+TCK 67. Madde
+
+Dava Zamanaşımı Süresinin Durması veya Kesilmesi
+
+Gereği görüşülüp düşünüldü:
+
+Sanığa yüklenen suçun gerektirdiği cezanın türü ve üst haddine göre, suç tarihi olan 14.08.2006 tarihi ile inceleme tarihi arasında, 5237 sayılı TCK`nin 66/1-e, 67/3-4. maddelerinde öngörülen 12 yıllık olağanüstü zamanaşımı süresinin gerçekleşmiş bulunduğunun anlaşılması,
+
+Bozmayı gerektirmiş, sanık müdafiin temyiz itirazları bu itibarla yerinde görülmüş olduğundan hükmün bu nedenle 6723 sayılı Kanun’un 33. maddesiyle değişik 5320 sayılı Kanun’un 8/1. maddesi ile yürürlükte bulunan 1412 sayılı CMUK’un 321. maddesi uyarınca BOZULMASINA ve gerçekleşen zamanaşımı nedeniyle sanık hakkında açılan kamu davasının 5271 sayılı CMK`nin 223/8. maddesi uyarınca DÜŞÜRÜLMESİNE, 10.10.2018 gününde oy birliğiyle karar verildi.
+
+YARGITAY 16. CEZA DAİRESİ
+Esas : 2017/1746 Karar : 2018/266Tarih : 14.02.2018
+
+TCK 67. Madde
+
+Dava Zamanaşımı Süresinin Durması veya Kesilmesi
+
+Dosya incelenerek gereği düşünüldü:
+
+I-Sanık …‘a 12.06.2014 tarihinde usulüne uygun olarak tebliğ olunan hükmü, sanığın CMUK’nın 310/1. maddesinde öngörülen bir haftalık süre geçtikten sonra 12.09.2014 tarihli dilekçeyle temyiz ettiği ve sonradan yapılan tebligatın temyiz süresini yeniden başlatmayacağı anlaşıldığından, süresinden sonra yapılan temyiz talebinin CMUK’nın 317. maddesi uyarınca REDDİNE,
+
+II-Suç işlemek amacıyla örgüt kurma ve örgüte üye olma suçlarından doğrudan zarar görme ihtimali bulunmayan katılanın bu suçlardan açılan davaya katılmasına imkan bulunmadığından ve hukuki değerden yoksun katılma kararı da hükmü temyize hak vermeyeceğinden, katılanın anılan suçlardan kurulan hükümlere ilişkin temyiz istemlerinin CMUK’nın 317. maddesi gereğince REDDİNE,
+
+III-Sanıklar …, …, …, …, …, …, …, …, …, …, …, …, …, …, …, …, …, …, …, …, …, … , …, …, …, …, …, …, …, …, …, …, …, …, …, …, …, … ve … hakkında resmi belgede sahtecilik suçundan kurulan karar verilmesine yer olmadığına sanıklar …, …, …, …, …, …, …, …, …, …, …, …, …, …, …, … , …, …, …, …, …, …, …, …, …, …, … ve … hakkında vergi usul kanununa aykırılık suçundan kurulan düşme hükümlerinin incelenmesinde;
+
+Sanıklara yüklenen resmi belgede sahtecilik ve vergi usul kanununa aykırılık suçları için TCK’nın 204/1. ve 213 sayılı Kanunun 359/b-1 maddesinde belirlenen cezaların süresi itibariyle, TCK’nın 66/1-e ve 67/2-a. maddelerinde öngörülen dava zamanaşımının sorgu ve inceleme tarihleri arasında gerçekleştiği anlaşıldığından hükümlerin bu sebepten BOZULMASINA, CMUK’nın 322. maddesi uyarınca sanıklar hakkındaki kamu davalarının zamanaşımı nedeniyle DÜŞMESİNE,
+
+IV-Sanıklar …, …, …, …, …, …, …, … hakkında 2005 takvim yılına ilişkin vergi usul kanununa aykırılık, sanık … hakkında suç örgütüne üye olmak ve 2005 takvim yılına ilişkin olarak vergi usul kanununa aykırılık suçundan kurulan hükümlerin incelenmesinde;
+
+Sanıklara vergi usul kanununa aykırılık ve suç örgütüne üye olmak suçları için 213 sayılı Kanunun 359/b-1 ve TCK’nın 220/2. maddesinde belirlenen cezaların süresi itibariyle, TCK’nın 66/1-e ve 67/4. maddelerinde öngörülen dava zamanaşımının suç ve inceleme tarihleri arasında gerçekleştiği anlaşıldığından hükümlerin bu sebepten dolayı BOZULMASINA, CMUK’nın 322. maddesi uyarınca sanıklar hakkındaki kamu davalarının zamanaşımı nedeniyle DÜŞMESİNE,
+
+V-Sanık … hakkında resmi belgede sahtecilik suçundan verilen karar verilmesine yer olmadığına ve vergi usul kanununa aykırılık suçundan kurulan beraat hükümleriyle, sanık … hakkında 2004 vergi yılına ilişkin vergi usul kanuna aykırılık suçunda kurulan düşme hükmünün incelenmesinde;
+
+Yapılan yargılama sonunda yüklenen suçların işlendiğinin sabit olmadığı ve zamanaşımına uğradığı gerekçeleri gösterilerek mahkemece kabul ve takdir kılınmış olduğundan katılan vekilinin yerinde görülmeyen temyiz itirazlarının reddiyle beraat ve düşmeye ilişkin hükümlerin ONANMASINA,
+
+VI-Sanık … hakkında suç örgütü kurmak ve yönetmek, sanıklar …, … ve … hakkında suç örgütüne üye olmak ve 2006-2007 takvim yıllarına ilişkin vergi usul kanununa aykırılık, sanık … hakkında 2006 takvim yılına ilişkin vergi usul kanununa aykırılık suçundan ayrıca kurulan hükümle sanık … ve … hakkında suç örgütüne üye olmak, sanık … hakkında suç örgütüne üye olmak ve 2006 takvim yılına ilişkin vergi usul kanuna aykırılık, sanıklar … ve … hakkında suç örgütüne üye olmak ve vergi usul kanuna aykırılık suçlarından kurulan hükümlerin incelenmesinde;
+
+Anayasa Mahkemesinin 24.11.2015 tarih ve 29542 sayılı Resmi Gazete’de yayımlanarak yürürlüğe giren 08.10.2015 tarih, 2014/140 E. 2015/85 K. sayılı iptal kararının TCK’nın 53. maddesinin uygulanması yönünden infaz aşamasında gözetilmesi mümkün görülmüştür.
+
+Yapılan yargılama sonunda toplanan deliller karar yerinde incelenip, sanıkların suçunun sübutu kabul, olay niteliğine ve kovuşturma sonuçlarına uygun şekilde vasfı tayin edilmiş, cezayı azaltıcı sebebin niteliği takdir kılınmış, savunmaları inandırıcı gerekçelerle reddedilmiş, incelenen dosyaya göre verilen hükümlerde bir isabetsizlik görülmemiş olduğundan sanıklar ve müdafilerinin yerinde görülmeyen temyiz itirazlarının reddiyle hükümlerin ONANMASINA,
+
+VII-Sanık … hakkında suç örgütüne üye olmak, sanıklar …, … ve … hakkında 2008-2009 takvim yılına ilişkin vergi usul kanununa aykırılık, sanık … ve … hakkında kurulan hükümler, sanık … hakkında vergi usul kanununa aykırılık suçundan kurulan hükümler, sanıklar … ve … hakkında 2007 takvim yılına ilişkin vergi usul kanununa aykırılık suçundan kurulan hükümlere gelince;
+
+1-Sanık … hakkında suç örgütüne üye olmak suçundan beraat hükmü verildikten sonra, mahkumiyet hükmü de kurulmak suretiyle hükmün karıştırılması,
+
+2-Sanıklar …, … ve … hakkında 2008-2009 takvim yıllarına ilişkin olarak mahkumiyet hükümleri kurulmuş ise de dosya kapsamda alınan raporlar ve belgelere göre bu yıllarda düzenlenmiş sahte fatura bulunmadığının anlaşılması karşısında 2008-2009 takvim yıllarına ilişkin olarak beraat kararı verilmesi gerekirken yetersiz delil ve gerekçelerle mahkumiyet hükümleri kurulması,
+
+3-Sanık …‘nın suça konu faturaların eniştesi …‘a ait olduğu yönündeki savunmalarının araştırılmaması, sanıklar … ve … hakkında düzenlenen 16.06.2010 tarihli birleşen dosya iddianamesi ve ekinde yer alan dosyadaki deliller CMK’nın 191. maddesi uyarınca sanıklar … ve …‘e okunarak savunmaları alınmadan mahkumiyetlerine karar vermek suretiyle savunma haklarının kısıtlanması,
+
+4-Sanık …‘nun oğlu … ile yapılmış telefon konuşmalarının hükme esas alınamayacak olması ve üzerinde ele geçen bir kısım düzenlenmemiş boş fatura ve not kağıtlarının da atılı suçun işlendiği yönünde kesin ve inandırıcı delil niteliğinde bulunmaması karşısında beraat kararı verilmesi gerekirken yazılı şekilde mahkumiyet hükmü kurulması,
+
+5-Sanık … hakkında alınan vergi inceleme raporu içeriğinde sanığın 2007 yılına ilişkin vergi dairesine sunduğu beyannamede düzenlenmiş herhangi bir faturaya yer vermediği anlaşılmakla hakkında 2007 takvim yılına ilişkin olarak sahte fatura düzenlemek suçundan beraat kararı verilmesi gerekirken yetersiz delillerle mahkumiyetine karar verilmesi,
+
+6-Sanık …‘un … Yapı şirketine sahte fatura temin etmek fiiline maddi menfaat gözetmeksizin iştirak ettiği ve eyleminin 213 sayılı Kanunun 360. maddesine uygun bulunduğunu belirten vergi dairesince düzenlenmiş mütalaa içeriği gözetildiğinde, sanık hakkında 213 sayılı Kanunun 360. maddesinin uygulanıp uygulanmayacağının tartışılmaması,
+
+7-Anayasa Mahkemesinin 24.11.2015 tarih ve 29542 sayılı Resmi Gazete’de yayımlanarak yürürlüğe giren 08.10.2015 tarih, 2014/140 E. 2015/85 K. sayılı iptal kararının TCK’nın 53. maddesinin uygulanması yönünden gözetilmesi lüzumu,
+
+Bozmayı gerektirmiş, sanıklar ve müdafilerinin temyiz itirazları bu itibarla yerinde görülmüş olduğundan hükümlerin bu sebeplerden dolayı BOZULMASINA, 14.02.2018 tarihinde oybirliğiyle karar verildi.
+
+YARGITAY 8. CEZA DAİRESİ
+Esas : 2017/11055 Karar : 2018/669Tarih : 29.01.2018
+
+TCK  67. Madde
+
+Dava Zamanaşımı Süresinin Durması veya Kesilmesi
+
+Gereği görüşülüp düşünüldü:
+
+Suç tarihi itibariyle 15 yaşını doldurup 18 yaşını doldurmayan suça sürüklenen çocuğa yüklenen suçların yasa maddesinde öngörülen cezasının türü ve üst sınırı itibariyle 5237 sayılı TCK.nun 66/1…e, 66/2 ve 67/4. maddelerinde belirlenen 7 yıl 12 aylık olağanüstü dava zamanaşımı süresinin, hükmün açıklanmasının geri bırakılmasına karar verilen dönemdeki durma süresi de belirtilen olağanüstü zamanaşımı süresine eklendikten sonra suç tarihinden temyiz inceleme tarihine kadar gerçekleştiği anlaşılmış ve 
+suça sürüklenen çocuk müdafinin temyiz itirazları bu nedenle yerinde görülmekle;
+
+sair yönleri incelenmeyen hükmün 5320 sayılı Yasanın 8/1. maddesi gereğince uygulanması gereken 1412 sayılı CMUK.nun 321. maddesi uyarınca BOZULMASINA, ancak; yeniden yargılama yapılmasını gerektirmeyen bu hususta anılan Yasanın 322. maddesinin verdiği yetkiye dayanılarak karar verilmesi mümkün olduğundan suça sürüklenen çocuk hakkında açılan kamu davasının gerçekleşen dava zamanaşımı nedeniyle 5237 sayılı TCK.nun 66/1…e, 66/2, 67/4. ve CMUK.nun 223/8. maddeleri gözetilerek DÜŞÜRÜLMESİNE, 29.01.2018 gününde oybirliğiyle karar verildi.
+
+YARGITAY 3. CEZA DAİRESİ
+Esas : 2017/20618 Karar : 2018/817Tarih : 23.01.2018
+
+TCK 67. Madde
+
+Dava Zamanaşımı Süresinin Durması veya Kesilmesi
+
+Sanık …‘in 02/12/2014 havale tarihli süre tutum temyiz dilekçesinde sanık sıfatıyla temyiz isteminde bulduğu, temyiz isteminin 18/02/2015 tarihli ek karar ile hakkında verilen mahkumiyet hükmünün kesin nitelikte olduğundan bahisle reddedildiği, sanığın bu ek karara yönelik temyiz isteminin bulunmadığı belirlenerek yapılan incelemede;
+
+1)Sanıklar …, …, … ve suça sürüklenen çocuk … haklarında katılan …‘e yönelik kasten yaralama suçlarından verilen mahkumiyet hükümleri ile sanık … hakkında katılan …‘e yönelik kasten yaralama suçundan verilen mahkumiyet hükmüne yönelik temyiz talebinin incelenmesinde;
+
+Sanıklar hakkında tayin edilen adli para cezalarının tür ve miktarı itibariyle verilen hükümlerin, 14.04.2011 tarihinde yürürlüğe giren 6217 sayılı Kanunun 26. maddesi ile 5320 sayılı Ceza Muhakemesi Kanununun Yürürlük ve Uygulama Şekli Hakkında Kanuna eklenen geçici 2. madde gereğince kesin nitelikte olup temyizleri mümkün olmadığından, katılan sanık … müdafiinin temyiz isteklerinin 5320 sayılı Kanunun 8. maddesi gereğince yürürlükte bulunan 1412 sayılı CMUK’un 317. maddesi gereğince istem gibi REDDİNE,
+
+2)Sanıklar …, …, … ve…. haklarında ulaşım araçlarının kaçırılması veya alıkonulması suçundan verilen beraat kararlarına yönelik temyiz talebinin incelenmesinde;
+
+Katılan …‘ın muhtar olan sanık … tarafından imzalanmasını istediği bir belgeyi sanığın imzalamak istememesi üzerine aralarında çıkan kavgadan sonra, katılan …’ın park halinde bıraktığı arabasını almak üzere küçük oğlu suça sürüklenen çocuk …’ı gönderdiği, ancak aracın yanında bulunan sanıklar …,…, … ve …’nin aracı …’a vermedikleri, daha sonra …’in aracı almak üzere …’ı gönderdiği, ona da aracı vermedikleri, akabinde ise …’yi gönderdiği, ancak aracı ona da vermedikleri, bu durumun tanıklar … ve …‘nin beyanları ile de doğrulandığı, tanık …‘in aracı götürmek istediğinde “…‘in küçük oğluna hitaben arabanın sol tekerini indirmesini söylediğini ve küçük oğlunun da tekeri indirdiğine” ilişkin beyanının, “aracın sol ön tekerinin havasının inik olduğu ve cant üzerinde bulunan sibobun sert bir cisimle zorlanarak tekerin havasının indirilmiş olabileceğini” belirtir 06/06/2008 tarihli kolluk tutanak içeriği ile de doğrulandığı ve mahkemenin kabulünün de bu yönde olduğu halde, sanıkların üzerlerine atılı sübut bulan ulaşım araçlarının alıkonulması suçundan mahkumiyetleri yerine, yazılı şekilde yanlış ve yetersiz gerekçe ile sanıkların beraatlerine ilişkin karar verilmesi,
+
+Bozmayı gerektirmiş, katılanlar vekilinin temyiz itirazları bu itibarla yerinde görülmüş olduğundan hükümlerin bu sebeple, 6723 sayılı Kanunun 33. maddesiyle değişik 5320 sayılı Kanunun 8/1. maddesi ile yürürlükte bulunan 1412 sayılı CMUK’un 321. maddesi uyarınca isteme aykırı BOZULMASINA,
+
+3)Suça sürüklenen çocuk … hakkında katılan … …‘ı kasten yaralama suçundan verilen mahkumiyet hükmüne yönelik temyiz talebinin incelenmesinde,
+
+Birleşen davada suça sürüklenen çocuk … hakkında kamu davası açılmış olmasına karşın, asıl dava iddianamesi içeriğinde anlatılmadığı görüldüğünden, katılan … …‘ı hayati tehlike geçirecek şekilde kasten yaralama suçundan sanıklar … ve … haklarında zamanaşımı süresi içerisinde gerekli soruşturmanın Cumhuriyet Başsavcılığı’nca yapılıp, kamu davası açılması için yerel mahkemece bildirimde bulunulması mümkün görülmüştür.
+
+Suça sürüklenen çocuğun üzerine atılı katılan … …‘ı hayati tehlike geçirir nitelikte kasten yaralanması eylemi nedeniyle hakkında 5237 sayılı TCK’nin 86/1, 86/3-e, 87/1-d,son ve 31/3. maddeleri uyarınca yapılan yargılama nedeniyle, 5237 sayılı TCK’nin 66/1-d, 66/2 ve 67/3. maddelerinde belirtilen olağanüstü zamanaşımı süresinin henüz dolmadığının anlaşılması karşısında, tebliğnamenin zamanaşımı nedeniyle kamu davasının düşürülmesine dair bozma düşüncesine iştirak edilmemiştir.
+
+Katılan … …‘ın aşamalarda değişmeyen istikrarlı anlatımları ile …‘ın eline ve sırtına gelecek şekilde sallama tabir edilen bıçakla vurduğunu, …‘ın ise ağır darbeyi vuracak şekilde sağ karın boşluğundan kendisini sallamayla yaraladığını, suça sürüklenen çocuk …‘ın kendisine kesinlikle vurmadığını ve yaralamadığını beyan ettiği, katılanın bu beyanlarını katılan sanıklar …, … ve …‘ın da doğruladığı, tanık…‘in de olay sırasında sanık …‘in elinde bir bıçak gördüğünü beyan ettiği, bu haliyle suça sürüklenen çocuğun karşılıklı kavgada katılan …‘yi bıçakla kasten yaraladığını beyan ederek suçu üstlendiğinin ve üzerine atılı katılan …‘yi kasten yaralama suçunu işlemediğinin anlaşılması karşısında, suça sürüklenen çocuğun üzerine atılı kasten yaralama suçundan 5271 sayılı CMK’nin 223/2-b maddesi uyarınca beraatine karar verilmesi gerekirken, yazılı şekilde mahkumiyetine dair karar verilmesi,
+
+Bozmayı gerektirmiş, suça sürüklenen çocuk müdafii ile katılan … vekilinin temyiz itirazları bu itibarla yerinde görülmüş olduğundan hükmün bu sebeple, 6723 sayılı Kanunun 33. maddesiyle değişik 5320 sayılı Kanunun 8/1. maddesi ile yürürlükte bulunan 1412 sayılı CMUK’un 321. maddesi uyarınca isteme aykırı BOZULMASINA, 23.01.2018 gününde oybirliğiyle karar verildi.
+
+YARGITAY 18. CEZA DAİRESİ
+Esas : 2015/37369 Karar : 2017/6824Tarih : 31.05.2017
+
+TCK 67. Madde
+
+Dava Zamanaşımı Süresinin Durması veya Kesilmesi
+
+Temyiz isteğinin reddi nedenleri bulunmadığından işin esasına geçildi.
+
+Vicdani kanının oluştuğu duruşma sürecini yansıtan tutanaklar, belgeler ve gerekçe içeriğine göre, yapılan incelemede;
+
+1- Sanık … hakkında bilinçli taksirle yaralama eyleminden verilen beraat kararının temyizinde;
+
+Suçun, son kesme nedeninin oluştuğu tarihe göre, TCK’nın 66/1-e, 67/3 maddelerinde öngörülen 8 yıllık dava zamanaşımının temyiz sürecinde gerçekleştiği anlaşıldığından, katılan … vekilinin temyiz nedenleri yerinde görülmekle, 5271 sayılı CMK’nın 223/8. maddesi uyarınca, tebliğnamedeki isteme aykırı olarak, KAMU DAVASININ DÜŞMESİNE,
+
+2- Sanık …’a yükletilen görevi yaptırmamak için direnme eyleminin temyizine gelince, başkaca nedenler yerinde görülmemiştir.
+
+Ancak:
+
+Sanığın TCK’nın 50/1-d uyarınca gitmekten yasaklandığı yerlerin neresi olduğu kararda açıkça gösterilmeyerek infazda tereddüt oluşturacak şekilde hüküm kurulması,
+
+Kanuna aykırı ve sanık … müdafiinin temyiz nedenleri yerinde görüldüğünden, tebliğnameye aykırı olarak HÜKMÜN BOZULMASINA, yargılamanın bozma öncesi aşamadan başlayarak sürdürülüp sonuçlandırılmak üzere dosyanın esas/hüküm mahkemesine gönderilmesine, 31.05.2017 tarihinde oy birliğiyle karar verildi.
+
+YARGITAY 7. CEZA DAİRESİ 
+Esas : 2017/1600 Karar : 2017/4517Tarih : 24.05.2017
+
+TCK 67. Madde
+
+Dava Zamanaşımı Süresinin Durması veya Kesilmesi
+
+Yerel mahkemece verilen hüküm temyiz edilmekle; başvurunun nitelik, ceza türü, süresi ve suç tarihine göre dosya okunduktan sonra Türk Milleti adına gereği görüşülüp düşünüldü;
+
+I-Katılan … İdaresi vekilinin, sanıklar …, … ve … hakkındaki hükme yönelik temyizinin incelenmesinde;
+
+Yapılan duruşmaya, toplanan ve karar yerinde açıklanan delillere, gösterilen gerekçeye ve takdire göre katılan … İdaresi vekilinin yerinde görülmeyen temyiz itirazlarının reddiyle hükmün istem gibi ONANMASINA,
+
+II-Katılan … İdaresi vekilinin, suça sürüklenen çocuklar … ve … hakkındaki hükme yönelik temyizine gelince;
+
+Suça sürüklenen çocuklar … ve …‘nun 15-18 yaş gurubunda bulunduğu anlaşıldığından haklarında 66/1-e, 67/2 ve 67/2-c maddeleri gereğince davanın düşmesine karar verilmesi gerektiğinin gözetilmemesi,
+
+Yasaya aykırı, katılan … İdaresi vekilinin temyiz itirazları bu nedenlerle yerinde görüldüğünden ve bu hususlar yeniden yargılamayı gerektirmediğinden, 5320 sayılı Yasanın 8/1. maddesi gereğince yürürlükte bulunan 1412 sayılı CMUK.nun 322. maddesi uyarınca,
+
+Hükmün 1. paragrafından “… ve …” isimleri çıkarılıp, hükme 2. paragraf olarak “Suça sürüklenen çocuklar … ve … hakkında 4926 sayılı Yasaya muhalefet suçundan cezalandırılmaları istemiyle kamu davası açılmış ise de, açılan kamu davasının 17/03/2012 tarihi itibariyle zamanaşımına uğradığı anlaşıldığından, 5237 sayılı TCK.nun 66/1-e, 67/2, ve 67/2-c maddeleri gereğince zamanaşımı nedeniyle DÜŞMESİNE,” ifadesinin eklenmesi ve sair kısımların aynen bırakılması suretiyle hükmün DÜZELTİLEREK ONANMASINA, 24.05.2017 tarihinde oybirliğiyle karar verildi.
+
+YARGITAY 12. CEZA DAİRESİ
+Esas : 2016/8192 Karar : 2017/3281Tarih : 19.04.2017
+
+TCK 67. Madde
+
+Dava Zamanaşımı Süresinin Durması veya Kesilmesi
+
+Trafik güvenliğini tehlikeye sokma suçundan suça sürüklenen çocuğun mahkumiyetine ilişkin hüküm, suça sürüklenen çocuk müdafii tarafından temyiz edilmekle, dosya incelenerek gereği düşünüldü:
+
+Yapılan yargılama sonunda, 05/05/2011 tarihli karar ile suça sürüklenen çocuğun, 5237 sayılı TCK’nın 179/2, 31/2, 62/1, 5271 sayılı CMK’nın 231. maddeleri uyarınca 1 ay 7 gün hapis cezası ile cezalandırılmasına, suça sürüklenen çocuk hakkındaki hükmün açıklanmasının geri bırakılmasına karar verildiği, anılan kararın, itiraz edilmeksizin 07/06/2011 tarihinde kesinleştiği ve belirtilen tarih itibariyle üç yıllık denetim süresi başladığından, 5271 sayılı CMK’nın 231/8. maddesi uyarınca dava zamanaşımının durduğu, daha sonra suça sürüklenen çocuğun, 04/05/2013 tarihinde “kullanmak için uyuşturucu madde bulundurmak” suçunu işlediği sabit kabul edilerek, Adana 21. Asliye Ceza Mahkemesinin 16/12/2014 tarihli ilamı ile mahkumiyetine hükmedildiği, anılan mahkumiyet hükmünün temyiz edilmeden 16/01/2015 tarihinde kesinleştiği, denetim süresi içerisinde kasten yeni bir suç işlendiğinden, anılan suçun işlendiği 04/05/2013 tarihi itibariyle zamanaşımı süresinin işlemeye devam ettiği anlaşılmakla;
+
+Suça sürüklenen çocuğa isnat edilen ve daha ağır bir suçu oluşturma ihtimali bulunmayan eylem, TCK’nın 179/2. maddesinde yaptırıma bağlanmış olup, anılan suç, TCK’nın 66/1-e maddesi uyarınca 8 yıllık zamanaşımına tabidir, aynı Kanunun 66/2. maddesi uyarınca, fiili işlediği sırada on iki yaşını doldurmuş olup da on beş yaşını doldurmamış olanlar hakkında bu sürelenin yarısının zamanaşımı süresinin hesaplanmasında dikkate alınacağı, dava zamanaşımını kesen nedenlerin varlığı halinde süre yeniden işlemekte ise de, bu sürenin TCK’nın 67/4. maddesi uyarınca en fazla yarı oranında uzayacağı, suç tarihi olan 06/09/2007 tarihinden itibaren TCK’nın 66/1-e, 66/2, 67/4. maddelerinde öngörülen 6 yıllık zamanaşımı, durma süresi de gözetildiğinde, inceleme tarihinden önce gerçekleşmiş olduğundan, suça sürüklenen çocuk müdafinin temyiz itirazları bu itibarla yerinde görülmüş olup, hükmün gerçekleşen zamanaşımı nedeniyle 5320 sayılı Kanunun 8. maddesi uyarınca halen uygulanmakta olan 1412 sayılı CMUK’un 321. maddesi gereğince BOZULMASINA, aynı Kanunun 322. maddesinin verdiği yetkiye dayanılarak, 5237 sayılı TCK’nın 66/1-e, 66/2, 67/4 ve 5271 sayılı CMK’nın 223/8. maddeleri gereğince kamu davasının DÜŞMESİNE, 19.04.2017 tarihinde oybirliğiyle karar verildi.
+
+YARGITAY 8. CEZA DAİRESİ
+Esas : 2016/12198 Karar : 2017/1523Tarih : 20.02.2017
+
+TCK 67. Madde
+
+Dava Zamanaşımı Süresinin Durması veya Kesilmesi
+
+I- Sanık hakkında 6136 sayılı Yasaya aykırılık suçundan kurulan hükme yönelik temyiz incelemesinde;
+
+Sanığın yokluğunda 30.06.2010 tarihinde verilen hükmün açıklanmasının geri bırakılmasına ilişkin gerekçeli kararın daha önce herhangi bir tebliğ işleminin yapılmadığı adrese 7201 sayılı Tebligat Kanununun 35. maddesine göre tebliğ edilmesi ve tebligat tarihinde sanığın cezaevinde olması karşısında; yapılan tebligatın usulsüz olup, 30.06.2010 tarihli hükmün açıklanmasının geri bırakılmasına ilişkin kararın bu nedenle kesinleşmediği ve sanığa yüklenen suçun yasa maddesinde öngörülen cezaların türü ve üst sınırı itibariyle tabi olduğu 5237 sayılı TCK.nun 66/1-e maddesinde belirlenen 8 yıllık dava zamanaşımının, zamanaşımını kesen son işlem olan 12.12.2007 tarihli mahkumiyet tarihinden, hüküm tarihine kadar gerçekleştiği gözetilmeden, kamu davasının düşürülmesi yerine, yargılamaya devamla yazılı şekilde mahkumiyet hükmü kurulması,
+
+Yasaya aykırı, sanığın temyiz itirazları bu nedenle yerinde görüldüğünden sair yönleri incelenmeyen hükmün 5320 sayılı Yasanın 8/1. maddesi uyarınca uygulanması gereken 1412 sayılı CMUK.nun 321. maddesi gereğince BOZULMASINA, ancak; yeniden yargılama yapılmasını gerektirmeyen bu hususta anılan Yasanın 322. maddesinin verdiği yetkiye dayanılarak karar verilmesi mümkün olduğundan, sanık hakkında açılan kamu davasının gerçekleşen dava zamanaşımı nedeniyle 5237 sayılı TCK.nun 66/1-e, 67/3 ve CMK.nun 223. maddeleri gözetilerek oybirliğiyle DÜŞÜRÜLMESİNE,
+
+II- Sanık hakkında parada sahtecilik suçundan kurulan hükme yönelik temyiz incelemesinde;
+
+Sanığın yokluğunda 30.06.2010 tarihinde verilen hükmün açıklanmasının geri bırakılmasına ilişkin gerekçeli kararın daha önce herhangi bir tebliğ işleminin yapılmadığı adrese 7201 sayılı Tebligat Kanununun 35. maddesine göre tebliğ edilmesi ve tebligat tarihinde sanığın cezaevinde olması karşısında; yapılan tebligatın usulsüz olup, 30.06.2010 tarihli hükmün açıklanmasının geri bırakılmasına ilişkin kararın bu nedenle kesinleşmediği, bu kararın usulüne uygun olarak kesinleşmemesi halinde denetim süresinin başlamasının da söz konusu olamayacağı ve 5271 sayılı CMK.nun 231/11. maddesi uyarınca hükmü açıklama koşullarının oluşmadığı gözetilmeden, deneme süresi içinde kasıtlı bir suç işlendiğinden bahisle yazılı biçimde hükmün açıklanmasına karar verilmesi,
+
+Yasaya aykırı, sanığın temyiz itirazları bu itibarla yerinde görülmüş olduğundan hükmün bu sebepten dolayı 5320 sayılı Yasanın 8/1. maddesi uyarınca uygulanması gereken 1412 sayılı CMUK.nun 321. maddesi gereğince BOZULMASINA, 20.02.2017 gününde oybirliğiyle karar verildi.
+
+YARGITAY 13. CEZA DAİRESİ
+Esas : 2016/18885 Karar : 2017/97Tarih : 17.01.2017
+
+TCK 67. Madde
+
+Dava Zamanaşımı Süresinin Durması veya Kesilmesi
+
+I-Suça sürüklenen çocuk hakkında mala zarar verme suçundan kurulan hükümlerin temyiz incelenmesinde;
+
+Müştekilerden … …‘ya yönelik hüküm kurulduğu sırada aynı eylem nedeniyle iki kez hüküm kurulmuş ise de, belirtilen husus nedeniyle temyiz incelemesinden sonra kanun yararına bozma yasa yoluna başvurulması mümkün görülmüştür.
+
+14.04.2011 tarihinde yayımlanarak yürürlüğe giren 6217 sayılı Kanun’un 26. maddesi ile 5320 sayılı Kanuna eklenen ek 2. madde uyarınca doğrudan verilen 3.000. TL’ye kadar olan adli para cezalarından ibaret mahkumiyet hükümleri kesin olup, suça sürüklenen çocuk hakkında mala zarar verme suçundan dolayı ayrı ayrı tayin edilen 1.320’şer TL adli para cezasına ilişkin hükümlerin, cezanın türü ve miktarı itibariyle temyizi mümkün bulunmadığından, 5320 sayılı Yasanın 8/1. maddesi aracılığı ile 1412 sayılı CMUK’un 317. maddesi gereğince suça sürüklenen çocuk … …‘ın temyiz isteminin tebliğnameye uygun olarak REDDİNE,
+
+II-Suça sürüklenen çocuk hakkında; müştekiler … … ile … …‘ya yönelik hırsızlık ve konut dokunulmazlığının ihlali suçlarından kurulan hükümlerin temyiz incelenmesinde;
+
+Konut dokunulmazlığının ihlali suçuna yönelik olarak; her ne kadar suça sürüklenen çocuk hakkında koşulları bulunduğu halde TCK’nın 116/4. maddesi uygulanmamış olsa da, …‘nun 11.12.2012 tarih ve 2012/1247 Esas ve 2012/1842 Karar sayılı içtihadında belirtildiği üzere, konut dokunulmazlığının ihlali suçunda 5237 sayılı TCK.’nın 116/4 ve 119/1-c maddelerinde düzenlenen suçun gece vakti birden fazla kişiyle birlikte işlenmesinin suçun daha ağır ceza verilmesini gerektiren nitelikli hali olması nedeniyle aynı yasanın 66/3. maddesi uyarınca dava zamanaşımı sürelerinin hesabında dikkate alınması gerektiği de gözetildiğinde, suç tarihleri itibariyle suça sürüklenen çocuk hakkında konut dokunulmazlığının ihlali suçundan zamanaşımı süresinin dolmadığı kabul edilerek yapılan incelemede;
+
+Konut dokunulmazlığının ihlali suçunun gece vakti işlenmesi nedeniyle 5237 sayılı TCK’nın 116/4. maddesinin uygulanmaması aleyhe temyiz olmadığından bozma nedeni yapılmamıştır.
+
+Dosya ve duruşma tutanakları içeriğine, toplanıp karar yerinde incelenerek tartışılan hukuken geçerli ve elverişli kanıtlara, gerekçeye ve hakimin takdirine göre suça sürüklenen çocuk … …‘ın temyiz istemi yerinde görülmemiş olduğundan reddiyle, eleştiri dışında usul ve kanuna uygun bulunan hükümlerin tebliğnameye uygun olarak ONANMASINA,
+
+II-Suça sürüklenen çocuk hakkında; müştekiler .. … ve … …, … …, … …, … … ile katılan … …‘a yönelik hırsızlık ve konut dokunulmazlığının ihlali suçlarından kurulan hükümlerin temyiz incelenmesine gelince;
+
+Suça sürüklenen çocuğun eylemlerine uyan 5237 sayılı TCK’nın 142/1-b, 31/3 ile 116/1, 119/1-c ve 31/3 maddelerinde düzenlenen hırsızlık ve konut dokunulmazlığının ihlali suçları için öngörülen cezaların türü ve üst sınırlarına göre, aynı Yasanın 66/1-e, 66/2, 67/4. maddelerinde öngörülen 7 yıl 12 aylık genel dava zamanaşımının, suç tarihleri olan 31.12.2008, 01.01.2009, 06.01.2009 ve 10.01.2009 tarihlerinden inceleme tarihine kadar geçmiş bulunması,
+
+Bozmayı gerektirmiş, suça sürüklenen çocuk … …‘ın temyiz istemi bu bakımdan yerinde görülmüş olduğundan, hükümlerin açıklanan nedenle tebliğnameye aykırı olarak BOZULMASINA, bozma nedeni yeniden yargılama yapılmasını gerektirmediğinden, 5320 sayılı Yasanın 8/1. maddesi aracılığıyla 1412 sayılı CMUK’un 322. maddesinin verdiği yetkiye dayanılarak, 5271 sayılı CMK’nın 223/8. maddesi uyarınca suça sürüklenen çocuk hakkında açılan kamu davalarının zamanaşımı nedeniyle DÜŞMESİNE, 17.01.2017 gününde oybirliğiyle karar verildi.
+
+UYARI

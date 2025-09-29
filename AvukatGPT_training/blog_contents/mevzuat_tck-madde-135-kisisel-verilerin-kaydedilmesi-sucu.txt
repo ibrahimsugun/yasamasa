@@ -1,0 +1,338 @@
+Kişisel Verilerin Kaydedilmesi Suçu
+
+TCK Madde 135
+
+TCK Madde 135 Gerekçesi
+
+TCK 135 Kişisel Verilerin Kaydedilmesi Suçu Yargıtay Kararları
+
+(1) Hukuka aykırı olarak kişisel verileri kaydeden kimseye bir yıldan üç yıla kadar hapis cezası verilir.
+
+(2) Kişisel verinin, kişilerin siyasi, felsefi veya dini görüşlerine, ırki kökenlerine; hukuka aykırı olarak ahlaki eğilimlerine, cinsel yaşamlarına, sağlık durumlarına veya sendikal bağlantılarına ilişkin olması durumunda birinci fıkra uyarınca verilecek ceza yarı oranında artırılır.
+
+5237 sayılı Türk Ceza Kanunu (TCK) Tam Metin
+
+Makale :Kişisel Verilerin Kaydedilmesi Suçu ve Cezası
+
+Çağımızda kişilerle ilgili kayıtların bilgisayar ortamlarına geçirilip muhafaza edilmesi uygulamasına bazı kurum ve kuruluşlar tarafından başvurulmaktadır; hastanelerde hastalara, sigorta şirketlerinde sigortalılara, bankaların ve kredili alış veriş yapılan mağazaların müşterilerine ilişkin kayıtlar, böylece tutulmaktadır. Bu bilgilerin amaçları dışında kullanılmasından veya herhangi bir şekilde üçüncü şahısların eline geçerek hukuka aykırı olarak yararlanılmasından dolayı hakkında bilgi toplanan kişiler büyük zararlara uğrayabilmektedirler. Bu bakımdan, kişilerle ilgili bilgilerin hukuka aykırı olarak kayda alınması suç olarak tanımlanmıştır.
+
+Suçun konusu, kişisel verilerdir. Gerçek kişiyle ilgili her türlü bilgi, kişisel veri olarak kabul edilmelidir.
+
+Söz konusu suç tanımında kişisel verilerin bilgisayar ortamında veya kağıt üzerinde kayda alınması arasında bir ayırım gözetilmemiştir. Bu bakımdan, söz konusu suç tanımı ile Avrupa Konseyi bünyesinde hazırlanan Türkiye’nin de 28 Ocak 1981 tarihinde imzalamakla taraf olduğu “Kişisel Nitelikteki Verilerin Otomatik İşleme Tâbi Tutulması Karşısında Şahısların Korunmasına Dair Sözleşme”nin ilgili hükümlerine geçerlilik tanınmıştır.
+
+Bu suçun oluşabilmesi için, kişisel verilerin hukuka aykırı bir şekilde kayda alınması gerekir. Kişinin rızası ile kendisiyle ilgili bilgilerin kayda alınmasının suç oluşturmayacağı muhakkaktır. Belirli nitelikteki kişisel verilerin kayda alınması kanun hükmünün gereği olarak yapılmaktadır. Bu bakımdan, çeşitli kamu kurumlarında verilen kamu hizmetinin gereği olarak kişilerle ilgili bazı bilgiler ilgili kanun hükümlerine istinaden kayda alınmaktadırlar. Bu durumlarda, söz konusu suç oluşmayacaktır.
+
+Maddenin ikinci fıkrasında, kişilerin siyasî, felsefî veya dinî görüşlerine, ırkî kökenlerine, ahlâkî eğilimlerine, cinsel yaşamlarına, sağlık durumlarına veya sendikal bağlantılarına ilişkin bilgileri kayda almak, suç olarak tanımlanmıştır. Ancak, bunlardan kişilerin ahlâkî eğilimlerine, cinsel yaşamlarına, sağlık durumlarına veya sendikal bağlantılarına ilişkin bilgilerin kayda alınmasına kanunlarda özellikle suçlulukla mücadele bağlamında, suç ve suçluların ortaya çıkarılmasını sağlamak amacıyla belli ölçüde izin verilebilir. Bu durumlarda söz konusu suç oluşmayacaktır.
+
+Yargıtay 12CD Esas : 2015/4349 Karar : 2016/5349
+
+Sanığın, “birol güven” isimli sahte facebook profili oluşturarak ilgi duyduğu katılana arkadaşlık isteği göndererek bir süre yazıştıkları, katılanın, sanık tarafından kullanılan profilin sahte hesap olduğunu anladıktan sonra, sanığın kullandığı sahte profili arkadaşlık listesinden çıkardığı, sonrasında sanığın kullandığı sahte profile, katılanın facebook hesabından elde ettiği resimleri koyarak, kişisel verilerin kaydedilmesi suçunu işlediği iddiasına konu olayda,
+
+TCK’nın 135 ve 136. maddelerinde düzenlenen “Kişisel Verilerin Kaydedilmesi” ve “Verileri Hukuka Aykırı Olarak Verme veya Ele Geçirme” suçlarının konusunu oluşturan kişisel veri kavramından, kişinin, yetkisiz üçüncü kişilerin bilgisine sunmadığı, istediğinde başka kişilere açıklayarak ancak sınırlı bir çevre ile paylaştığı, herkes tarafından bilinmeyen ve/veya kolaylıkla ulaşılması ve bilinmesi mümkün olmayan, kişinin kimliğini belirleyen veya belirlenebilir kılan, kişiyi toplumda yer alan diğer bireylerden ayıran ve onun niteliklerini ortaya koymaya elverişli, gerçek kişiye ait her türlü bilginin anlaşılması gerektiği, belirli veya belirlenebilir bir kişiye ait her türlü bilginin, hukuka aykırı olarak kaydedilmesi, TCK’nın 135. maddesinde “Kişisel verilerin kaydedilmesi” başlığı altında, belirli veya belirlenebilir bir kişiye ait her türlü bilginin, başkasına verilmesi, yayılması ya da ele geçirilmesi, aynı Kanunun 136/1. maddesinde “Verileri hukuka aykırı olarak verme veya ele geçirme” başlığı altında birbirinden bağımsız iki ayrı suç olarak tanımlanmıştır.
+
+Verileri hukuka aykırı olarak verme veya ele geçirme suçunun maddi konusunu oluşturan “kişisel veri” kavramından, kişinin, yetkisiz üçüncü kişilerin bilgisine sunmadığı, istediğinde başka kişilere açıklayarak ancak sınırlı bir çevre ile paylaştığı nüfus bilgileri (T.C. kimlik numarası, adı, soyadı, doğum yeri ve tarihi, anne ve baba adı gibi), adli sicil kaydı, yerleşim yeri, eğitim durumu, mesleği, banka hesap bilgileri, telefon numarası, elektronik posta adresi, kan grubu, medeni hali, parmak izi, DNA’sı, saç, tükürük, tırnak gibi biyolojik örnekleri, cinsel ve ahlaki eğilimi, sağlık bilgileri, etnik kökeni, siyasi, felsefi ve dini görüşü, sendikal bağlantıları gibi kişinin kimliğini
+belirleyen veya belirlenebilir kılan, kişiyi toplumda yer alan diğer bireylerden ayıran ve onun niteliklerini ortaya koymaya elverişli, gerçek kişiye ait her türlü bilginin anlaşılması gerekir. Herkes tarafından bilinen ve/veya kolaylıkla ulaşılması ve bilinmesi mümkün olan kişisel bilgiler de, yasal anlamda “kişisel veri” olarak kabul edilmekte ise de, anılan maddenin uygulama alanının amaçlanandan fazla genişletilerek, uygulamada belirsizlik ve hemen her eylemin suç oluşturması gibi olumsuz sonuçların doğmaması için, maddenin uygulamasında, somut olayın özellikleri dikkate alınarak titizlikle değerlendirme yapılması, olayda herhangi bir hukuk dalı tarafından kabul edilebilecek bir hukuka uygunluk nedeni veya bu kapsamda nazara alınabilecek bir hususun bulunup bulunmadığının saptanması ve sanığın eylemiyle hukuka aykırı hareket ettiğini bildiği ya da bilebilecek durumda olduğunun da ayrıca tespit edilmesi gerekir.
+
+Bu bilgiler ışığında somut olayımız açısından, sanık tarafından oluşturulan sahte facebook profilinde, katılanın facebook profilinden elde edilen resimlerin yayınlanması eyleminin suç olarak kabul edilmesi halinde, eylemin kişisel verilerin kaydedilmesi suçunu değil, verileri hukuka aykırı olarak verme veya ele geçirme suçunu oluşturabileceği, bahse konu resimlerin dosya kapsamında bulunmadığı, ancak;
+
+Sanığın kovuşturma aşamasında verdiği ifadesinde “Davaya konu fotoğrafları ben facebook isimli sosyal paylaşım sitesinden aldım. Ben bu sitede kendisi ile arkadaştım. Zaten bu fotoğrafları herkese açıktı, müştekinin benim elimde herhangi bir fotoğrafı yoktur.” şeklindeki savunması, katılanın kovuşturma aşamasında verdiği ifadesinde “benim fotoğraflarım arkadaşım olmayanlara engelliydi. Sadece bir tane profil fotoğrafım herkese açıktı. Sanık büyük ihtimalle o fotoğrafımı almış olabilir.” şeklindeki beyanı dikkate alındığında, bahse konu fotoğrafın, katılanın herkese açık profilinden elde edildiği, bu fotoğraflara kolaylıkla ulaşılabildiği, fotoğrafın özel hayata ilişkin olduğuna dair bir iddiada da bulunulmadığı dikkate alındığında, özel hayata ilişkin olmayan, herkese açık facebook profilinden kolaylıkla elde edilen fotoğrafların, ilgilinin isim ve soyismi kullanılmadan, sadece başka bir facebook profilinde yayınlanması eyleminin suç olarak kabul edilemeyeceği, bu eylemlerin yalnızca özel hukuk yaptırımlarına konu olabileceği göz önüne alındığında mahkemece sanık hakkında beraat kararı verilmesinde bir isabetsizlik görülmemiş olup,
+
+Yapılan yargılama sonunda yüklenen fiilin kanunda suç olarak tanımlanmamış olması, gerekçeleri gösterilerek mahkemece kabul ve takdir kılınmış olduğundan, mahalli Cumhuriyet savcısının, atılı suçun unsurlarının oluştuğuna ve mahkumiyet istemine ilişkin temyiz itirazlarının reddiyle, beraate ilişkin hükmün isteme uygun olarak ONANMASINA, 30.03.2016 tarihinde oyçokluğuyla karar verildi
+
+YARGITAY 12. CEZA DAİRESİ 
+Esas : 2015/15816 Karar : 2017/3462Tarih : 26.04.2017
+
+TCK 135. Madde
+
+Kişisel Verilerin Kaydedilmesi Suçu
+
+TCK’nın 135. maddelerinde düzenlenen “Kişisel Verilerin Kaydedilmesi” suçunun konusunu oluşturan kişisel veri kavramından, kişinin, yetkisiz üçüncü kişilerin bilgisine sunmadığı, istediğinde başka kişilere açıklayarak ancak sınırlı bir çevre ile paylaştığı, herkes tarafından bilinmeyen ve/veya kolaylıkla ulaşılması ve bilinmesi mümkün olmayan, kişinin kimliğini belirleyen veya belirlenebilir kılan, kişiyi toplumda yer alan diğer bireylerden ayıran ve onun niteliklerini ortaya koymaya elverişli, gerçek kişiye ait her türlü bilginin anlaşılması gerektiği, belirli veya belirlenebilir bir kişiye ait her türlü bilginin, hukuka aykırı olarak kaydedilmesi gerektiğinin anlaşılması karşısında, aksi ispat edilemeyen sanık savunmasına göre, katılanlar tarafından facebookta yayımlanan ve sanık ile katılanların çalıştığı kurumda ortak kullanımda bulunan bilgisayardaki fotoğrafları hatıra amaçlı olarak flash belleğine kaydeden sanık hakkında yerel mahkemenin beraate ilişkin kabulünde bir isabetsizlik görülmemiştir.
+
+Mahalli Cumhuriyet savcısının, sanığın sübut bulan eyleminden dolayı mahkumiyet kararı verilmesi gerektiğine ilişkin sair temyiz itirazlarının reddine, ancak;
+
+Hükmün esasını teşkil eden kısa kararda ve gerekçeli kararın hüküm kısmında, sanık hakkında beraat hükmü kurulurken, uygulanan kanun bendinin gösterilmemesi suretiyle CMK’nın 232/6. maddesine aykırı hareket edilmesi,
+
+Kanuna aykırı olup, mahalli Cumhuriyet savcısının temyiz itirazları bu itibarla yerinde görüldüğünden, hükmün bu nedenle 5320 sayılı Kanunun 8. maddesi uyarınca halen uygulanmakta olan 1412 sayılı CMUK’un 321. maddesi gereğince BOZULMASINA; ancak, yeniden yargılama gerektirmeyen bu hususta aynı Kanun’un 322. maddesi gereğince karar verilmesi mümkün bulunduğundan, aynı maddenin verdiği yetkiye istinaden; hüküm fıkrasının ilk paragrafının, “Yapılan yargılama sonunda, sanığa yüklenen fiilin kanunda suç olarak tanımlanmamış olduğu anlaşıldığından, CMK’nın 223/2-a maddesi gereğince sanığın beraatine,” ibaresinin eklenmesi suretiyle, sair yönleri usul ve kanuna uygun bulunan hükmün DÜZELTİLEREK ONANMASINA,, 26.04.2017 tarihinde oybirliğiyle karar verildi.
+
+YARGITAY 8. CEZA DAİRESİ
+Esas : 2016/9037 Karar : 2017/696Tarih : 25.01.2017
+
+TCK 135. Madde
+
+Kişisel Verilerin Kaydedilmesi Suçu
+
+I- Bozmaya uyularak; yapılan yargılamaya, dosya içeriğine, toplanıp karar yerinde gösterilen ve değerlendirilen delillere, oluşa ve mahkemenin soruşturma sonucunda oluşan inanç ve takdirine, şikayetçi …‘ya yönelik işlenen kredi kartının kötüye kullanılması suçunun oluşumuna ve niteliğine uygun kabul ve uygulamasına, hukuka uygun, yasal ve yeterli olarak açıklanan gerekçeye göre sanığın, bir sebebe dayanmayan temyiz itirazı yerinde görülmediğinden reddiyle hükmün ONANMASINA,
+
+II- Sanığın kişisel bilgileri hukuka aykırı kaydetmek suçlarından kurulan hükme yönelik temyizine gelince:
+
+Yerinde görülmeyen sair temyiz itirazlarının reddine;
+
+1)Kişisel verileri hukuka aykırı kaydetmek suçundan kurulan hükümde, şikayetçi …‘ya ait kart bilgilerini kullanarak alışveriş etmek eylemlerinin kül halinde, mağdur esas alınmak üzere TCK.nun 245/1. maddesindeki suçu oluşturduğu buna ilişkin mahkumiyet kararının da Dairemiz tarafından onandığı anlaşılmakla, sadece mağdur …‘a karşı işlediği suç nedeniyle aynı Yasanın 135/1. maddesi ile ayrıca hüküm kurulması gerektiği gözetilmeden birden fazla kişiye karşı işlendiğinden bahisle zincirleme suç hükümlerinin uygulanması,
+
+2- Kabule göre de;
+
+a) Sanık hakkında kurulan hükümde, hükmedilen hapis cezasının adli para cezasına çevrilmesi bozmadan önceki kararda hükmedilen hapis cezasına göre lehe olduğu gözetilmeden kazanılmış haktan bahisle uygulama yapılması,
+
+b) Sanığın adli sicil kaydında yer alan sabıkasının hükmün açıklanmasının geri bırakılması kararı olduğu ve suç tarihi itibariyle CMK.nun 231. maddesinin uygulanmasına engel oluşturmadığı anlaşılmakla, sanığın kişilik özellikleri ile duruşmadaki tutum ve davranışları gözönünde bulundurulup, yeniden suç işleyip işlemeyeceği hususunda edinilen kanaate göre karar verilmesi gerektiği gözetilmeden, “sabıka kaydından” bahisle yasal ve yeterli olmayan gerekçeyle hükmün açıklanmasının geri bırakılmasına yer olmadığına karar verilmesi,
+
+Yasaya aykırı, sanığın temyiz itirazları bu itibarla yerinde görülmüş olduğundan hükmün bu sebeplerden dolayı 5320 sayılı Yasanın 8/1. maddesi uyarınca uygulanması gereken 1412 sayılı CMUK.nun 321. maddesi gereğince BOZULMASINA, 25.01.2017 gününde oybirliğiyle karar verildi.
+
+YARGITAY 12. CEZA DAİRESİ
+Esas : 2011/20072 Karar : 2012/12126Tarih : 15.05.2012
+
+TCK 135. Madde
+
+Kişisel Verilerin Kaydedilmesi Suçu
+
+1- Sanık İbrahim Ş… hakkında kurulan hükme ilişkin incelemede:
+
+Sanığın hükümden sonra 22.08.2007 tarihinde öldüğü anlaşılmakla, hakkındaki kamu davasının TCK’nın 64/1, CMK’nın 223/8. maddeleri gereğince DÜŞÜRÜLMESİNE,
+
+2-Sanık Belkıs Gümüş hakkında kurulan hükme ilişkin temyiz istemlerinin incelenmesinde: 
+Köşe yazarı olarak çalışan katılanın, sanığın genel yayın yönetmenliğini yaptığı gazetede yazdığı köşesinde kullanılan fotoğrafının, katılanın rızası olmadan arkadaşlık sitesine konulması eyleminin, TCK’nın 136. maddesinde düzenlenen, kişisel verileri hukuka aykırı olarak yayma suçunu oluşturacağı, hukuki durumunun buna göre tayin ve takdiri gerektiği gözetilmeden, suç vasfında yanılgıya düşülerek, yazılı şekilde karar verilmesi,
+
+Kanuna aykırı olup, sanık ile katılan vekilinin temyiz itirazları bu nedenle yerinde görüldüğünden hükmün, diğer yönleri incelenmeksizin öncelikle bu sebepten dolayı, 5320 sayılı Kanunun 8. maddesi gereğince halen uygulanmakta olan 1412 sayılı CMUK`un 321. maddesi uyarınca istem gibi (BOZULMASINA), oyçokluğuyla karar verildi.
+
+Muhalefet Şerhi :
+
+Sanık hakkında TCK’nın 134. maddesi gereğince özel hayatın gizliliğini ihlalden kamu davası açılmış olup sanığın aynı madde gereğince mahkumiyetine dair hüküm, dairemizce eylemin verileri hukuka aykırı olarak yayma suçundan hüküm kurulması  erektiği gerekçesiyle bozulmuştur. Eylemin basın yoluyla hakaret olarak değerlendirilmesi gerektiğini düşündüğümüzden sayın çoğunluğun görüşüne katılmıyoruz.
+
+1- Katılanın “Son Nokta” isimli gazetede yazdığı köşe yazısı için verdiği resim, sanık tarafından Magnet Bilişim Hizmetlerine ait “www.istanbul.net” isimli sosyal ağ platformu olarak hizmet veren sitede “belkiba” rumuzuyla yayınlanmış, evli ve iki çocuklu olan katılan için bekar, aradığı cinsiyet erkek 24-29 yaşlarında, aradığı ilişki arkadaşlık ve sitede sorulan birçok soruya cevap şeklinde kendisini tanıtan ve aradığı kişide bulunmasını istediği özellikler yazılmıştır.
+
+2- Profil 14.10 2006 tarihi saat 16:31 de oluşturulduğu ve 16.10.2006 tarihi saat 16.28 de ise yayından kaldırıldığı ve yapılan araştırmada sanığın e-postası üzerinden oluşturulduğu sübuta ermiştir.
+
+3- Sanığın eyleminin TCK’nın 136. maddesindeki verileri hukuka aykırı olarak verme olarak değerlendirilmesi yapıldığında;
+
+Türk Ceza Kanunu’nun 135.maddesinde kişisel verilerin hukuka aykırı olarak kaydedilmesi ve 136.maddesinde ise verileri hukuka aykırı olarak verme, yayma ve ele geçirme suçları düzenlenmiştir. Bugüne kadar kişisel verilerin neler olduğuna dair kanunun çıkarılmaması nedeniyle TCK’daki 135 ve 136. maddelerindeki hukuka aykırılığın hangi hallerde oluştuğuna ilişkin başvurulabilecek kapsayıcı bir kaynak ya da norm olmaması nedeniyle bu iki madde eksik norm sayılırlar. Belki zamanın ihtiyaçlarına cevap verecek “Kişisel Verilerin Korunması Kanunu” Meclisten geçtiğinde bu “çerçeve düzenleme” tamamlanmış olacaktır. Bununla beraber adı geçen ceza maddeleri yürürlükte olduğundan uygulanması sırasında çok dikkatli olunması gerekir. Doktrinde birçok tanım ve kapsam belirlemesi yapılmaktadır. Bu bilimsel görüşlerden hareketle kişisel verilerin hangileri olabileceğini belirlemek gerekir. Şu da bir gerçek ki bu verilerin tamamının da ceza normları ile korunması gerektiği düşünülmemelidir. Bu tasnifin esasını genel yaşam mahremiyetinden hareketle özel hayatın gizli alanını korumayı amaçlayan ve sağlayan bilgiler olarak anlamak gerekir.
+
+Bilimsel görüşlerden hareketle kişisel verilerin neler olabileceğini şu başlıkları altında sınıflandırabiliriz.
+
+a- Yaşam şekline ilişkin kişisel veriler: Kişilerin üçüncü kişiler tarafından ayırımcılığa uğramaması ve haysiyetinin korunmasıyla ilişkili olarak, dini inançları, cinsel tercihleri, etnik kökeni, suç geçmişi, politik eğilimleri ve kişisel özel aktivitelere ilişkin bilgiler bu bağlamda sayılabilecektir.
+
+b- Ekonomik ve finansal kişisel veriler: Suçlular tarafından suistimale ve kimlik hırsızlığına hedef olmamak için kişinin mali varlığı, sahip olduğu hisse ve hesaplar, borçları, yaptığı alış verişler, kredi kartlarına ilişkin veriler. Ayrıca sayılan bu bilgiler ile kişinin nerede ve kimlerle bulunduğuna, sağlık bilgilerine ilişkin bilgiler de ortaya çıkarabileceğinden ve varlık bilgisinin toplumsal açıdan da özel sayılmasından dolayı önemi artmaktadır.
+
+c- Bilişim alanına ilişkin kişisel veriler: e-postaların bizzat adresleri veya şifreleri, internet ortamında paylaşılan kişisel veriler mahrem olarak değerlendirilebilir. Bunun önemi şu bakımdan artmaktadır. İnternette gezinti yapan kişi birçok kişisel bilgileri paylaşmakta, bu bilgiler kayıt altına alınmakta, yine internet erişimine ilişkin iz kayıtlarının hizmet sağlayıcı ve sunucu sahipleri tarafından tutulabiliyor olması nedenleriyle artmaktadır.
+
+d- Sağlıkla ilgili kişisel veriler: Sağlık verileri kişilerin iş güvenliğini, toplum içindeki statüsünü ve sigorta kapsamını etkileyen hassas bilgilerdir. Ayrıca sağlık verileri kişilerin sosyal yaşantısı ve psikolojik durumları hakkında bilgi edinilmesine neden olabilir. Biyometrik (Kişinin kendine özgü fiziksel veya biyolojik niteliklerine dayalı olarak insanların kimliğini tespit için dijital teknolojiden faydalanma bilimi) veriler de kişisel veriler arasındadır.
+
+e- Politik kişisel veriler: Toplum içinde yaşayan kişilerin siyasi tercihleri toplum katmanları arasında bilinme halinde ayırımcılığa maruz kalma ihtimali bulunduğundan bu bilgilerde kişisel veridir.
+
+4- Anayasanın 38/3 ve Türk Ceza Kanunun 2. maddesi suçta ve cezada kanunilik ilkesini düzenlemektedir. TCK’nın 2. maddesi “Kanunun açıkça suç saymadığı bir fiil için kimseye ceza verilemez” hükmünü içermektedir. Madde metninden de açıkça anlaşıldığı gibi fiilin kanunda suç olarak gösterilmesi yetmez, bunun açık bir biçimde belirlenebilir olması gerekir. Suçların ve cezaların kanunda önceden açık ve anlaşılır bir şekilde düzenlenmesi gerekir ki, insanlar neyin suç olduğunu önceden kolayca bilebilsin ve davranışlarını buna göre ayarlayabilsinler.
+
+5- Yukarıda açıklanan kişisel veri açıklamalarına bakıldığında sanığın eyleminin bu kapsamda değerlendirilemeyeceği, amacın katılanı toplum nazarında küçük düşürmeye ve ahlaksız göstermeye yönelik olduğu dikkate alındığında eylem TCK’nın 125/1,2 ve 4. maddesi kapsamında hakaret suçunu oluşturmaktadır.
+
+Aksine bir uygulamanın kabulü halinde paylaşım sitelerinde her gün onbinlerce kişisel sayfa ve profil oluşturanların eylemleri resen takip edilen suç haline gelir ki bütün yargı mesaisini buna harcasa bile işin altından kalkamaz. Kaldı ki bu sayfaların oluşturulması dünyanın her ülkesinden yapılmakta, kimin yaptığı da çoğu zaman tespit edilememektedir.
+
+6- Sonuç olarak eylem hakaret suçunu oluşturmakta ve katılanlar FSEK’nun ek 4.maddesinde öngörülen prosedür çerçevesinde haklarına tecavüzün durdurulmasını veya 5651 sayılı “İnternet Ortamında Yapılan Yayınların Düzenlenmesi ve Bu yayınlar Yoluyla İşlenen Suçlarla Mücadele Edilmesi Hakkında Kanun”un 9. maddesi gereğince içerik sağlayıcıya başvurarak sayfanın kaldırılmasını isteyebileceklerdir. Nitekim dava konusu olayda da sanık oluşturduğu profili 48 saat sonra kaldırmıştır.
+Tüm açıkladığımız bu nedenlerden dolayı çoğunluğun 2 numaralı bozma düşüncesine katılmıyoruz.
+
+YARGITAY 12. CEZA DAİRESİ
+Esas: 2013/9669 Karar: 2014/3760Tarih: 17.02.2014
+
+TCK 135. Madde
+
+Kişisel Verilerin Kaydedilmesi Suçu
+
+Sanıkların üzerlerine atılı kişilerin huzur ve sükunu bozma suçundan yapılan yargılamaları sonunda, sanıklara yüklenen fiilin kanunda suç olarak tanımlanmadığının kabulüyle sanıklar hakkında kurulan beraat hükümlerinin temyiz edilmediği ve anılan beraat hükümlerinin kesinleştiği belirlenerek yapılan incelemede:
+
+Yapılan yargılamaya, toplanıp karar yerinde gösterilen delillere, mahkemenin kovuşturma sonuçlarına uygun olarak oluşan kanaat ve takdirine, incelenen dosya kapsamına göre, sanıklar müdafiinin takdiri indirim maddesinin uygulanmamasına, hükmedilen cezaların ertelenmemesine ilişkin yerinde görülmeyen diğer temyiz itirazlarının reddine; ancak,
+
+Belirli veya belirlenebilir bir kişiye ait her türlü bilginin, hukuka aykırı olarak kaydedilmesi, TCK’nın 135. maddesinde “Kişisel verilerin kaydedilmesi” başlığı altında suç olarak tanımlanmış olup, eylemin; kamu görevlisi tarafından ve görevinin verdiği yetki kötüye kullanılmak ya da belli bir meslek ve sanatın sağladığı kolaylıktan yararlanmak suretiyle gerçekleşmesi hali, aynı Kanunun 137. maddesinde cezada artırım nedeni olarak öngörülmüştür.
+
+Kişisel verilerin kaydedilmesi suçunun maddi konusunu oluşturan “kişisel veri” kavramından, kişinin, yetkisiz üçüncü kişilerin bilgisine sunmadığı, istediğinde başka kişilere açıklayarak ancak sınırlı bir çevre ile paylaştığı nüfus bilgileri (T.C. kimlik numarası, adı, soyadı, doğum yeri ve tarihi, anne ve baba adı gibi), adli sicil kaydı, yerleşim yeri, eğitim durumu, mesleği, banka hesap bilgileri, telefon numarası, elektronik posta adresi, kan grubu, medeni hali, parmak izi, DNA’sı, saç, tükürük, tırnak gibi biyolojik örnekleri, cinsel ve ahlaki eğilimi, sağlık bilgileri, etnik kökeni, siyasi, felsefi ve dini görüşü, sendikal bağlantıları gibi kişinin kimliğini belirleyen veya belirlenebilir kılan, kişiyi toplumda yer alan diğer bireylerden ayıran ve onun niteliklerini ortaya koymaya elverişli, gerçek kişiye ait her türlü bilginin anlaşılması gerekir; ancak, herkes tarafından bilinen ve/veya kolaylıkla ulaşılması ve bilinmesi mümkün olan kişisel bilgiler, yasal anlamda “kişisel veri” olarak değerlendirilemez, aksinin kabulü; anılan maddenin uygulama alanının amaçlanandan fazla genişletilerek, uygulamada belirsizlik ve hemen her eylemin suç oluşturması gibi olumsuz sonuçlar doğurur, bu nedenle, bir kişisel bilginin, açıklanan anlamda “kişisel veri” kabul edilip edilmeyeceğine karar verilirken, somut olayın özellikleri dikkate alınarak titizlikle değerlendirme yapılması, sanığın eylemiyle hukuka aykırı hareket ettiğini bildiği ya da bilebilecek durumda olduğunun da tespit edilmesi gerekir.
+
+Ayrıca; bir özel hayat görüntüsü ya da sesinin, “kişisel veri” olduğunda kuşku bulunmamakta ise de, kişinin özel hayatına ilişkin görüntüsü ya da sesinin, bilgisi dışında, resim çekme veya kaydetme özelliğine sahip aletle belli bir elektronik, dijital, manyetik yere sabitlenmesi TCK’nın 134/1. maddesinin 2. cümlesinde; rızası dışında ifşa edilmesi; yani, yayılması, açığa vurulması, afişe edilmesi, ilan edilmesi, kamuoyuna duyurulması, aleniyet kazandırılması, özetle; içeriğini öğrenme yetkisi bulunmayan kişi veya kişilerin bilgisine sunulması TCK’nın 134/2. maddesinde özel hayatın gizliliğini ihlal suçu kapsamında düzenlendiğinden, kişinin özel hayatına ilişkin görüntüsü, fotoğrafı ya da sesi, yasal anlamda, TCK’nın 135. maddesi kapsamında kişisel veri olarak değerlendirilemez.
+
+Kişinin özel yaşam alanı içerisinde yer almayan görüntüsü, fotoğrafı ya da sesinin rızaya aykırı olarak kaydedilmesi veya kullanılması ise, kişilik hakkının ihlali olarak değerlendirilebilir ve sanığın suç oluşturmayan eylemi özel hukuk yaptırımlarına konu olabilir.
+
+Bu açıklamalar ışığında incelenen dosya kapsamına göre; katılan F..ile sanık A.. aynı mevkide eczane işletmekte olup, sanık A.. eşi olan diğer sanık A.. işyerinde işçi olarak çalıştığı ve sanıklarla katılan arasında ticari rekabet ve önceye dayalı husumet bulunduğu, sanıkların, katılan F..eczanesini hangi saatte açıp, hangi saatte kapattığı, hafta sonu çalışıp çalışmadığı, gelen müşterilerinin sayısı ve kim oldukları, hangi arkadaşlarının onu ziyaret ettiği gibi hususları tespit etmek amacıyla, iş yerinin çatı katına yerleştirdikleri güvenlik kamerasının yönünü, katılan F.. işlettiği eczaneye doğru çevirip, sürekli çekim yaparak elde ettikleri görüntüleri, kameranın bağlı bulunduğu bilgisayara kaydettikleri iddia ve kabulüne konu olayda,
+
+Şikayete konu görüntülerin kaydedildiği bilgisayara ait hard disk üzerinde yapılan inceleme sonucu hazırlanan 07.09.2010 tarihli bilirkişi raporu ve dosya içeriğine göre; sanıklar tarafından iş yerine yerleştirilen iki adet güvenlik kamerasının 01.07.2008 tarihinden itibaren kendi eczanelerinin iki farklı alanındaki görüntüleri çekmeye başladığı, katılan F..eczanesini açtığı 07.11.2008 tarihinden 13 gün sonra ise kamera sayısının üçe çıktığı, üçüncü kameranın yönünün, önceleri yüksek bir yerden, daha sonra ise daha düşük bir konumdan, katılan F.. tarafından işletilmekte olan karşı eczaneyi görecek şekilde ayarlandığı anlaşılmakta ise de,
+
+Katılanın işlettiği eczanenin dış kısmını, zaman zaman eczane önünde duran ya da eczaneye giriş-çıkış yapan insanlarla ve zaman zaman kepenkleri indirilmiş halde gösteren görüntüler, katılana ait “kişisel veri” olarak kabul edilemeyeceği gibi, söz konusu görüntülerin, katılanın özel yaşam alanına ilişkin ve özel hayatının gizliliğini ihlal edecek nitelikte olmadığı da nazara alındığında, sanıkların üzerlerine atılı kişisel verilerin kaydedilmesi suçundan beraatlerine karar verilmesi gerekirken, yasal ve yeterli olmayan yazılı gerekçelerle, sanıklar hakkında mahkumiyet kararı verilmesi,
+
+Kabul ve uygulamaya göre de:
+
+1- Hükümlerin esasını teşkil eden kısa kararda ve gerekçeli kararın hüküm fıkrasında, sanıklara hükmedilen hapis cezalarının adli para cezasına çevrilmesine karar verilirken, sanıklar hakkında belirlenen tam gün sayısının gösterilmemesi suretiyle TCK’nın 52/3. maddesine aykırı hareket edilmesi,
+
+2- Katılanın maddi bir zararının tespit edilmediği olayda, kişilik özellikleri olumlu değerlendirilerek, hükmedilen 1 yıl hapis cezaları adli para cezasına çevrilen ve dosya içeriğindeki delillere göre olumsuz bir kişiliği belirlenemeyen sabıkasız sanıklar hakkında, 6008 sayılı Kanunun 7. maddesiyle CMK’nın 231. maddesinin altıncı fıkrasına eklenen, “Sanığın kabul etmemesi hâlinde, hükmün açıklanmasının geri bırakılmasına karar verilmez.” düzenlemesi de nazara alınıp, sanıkların kişilik özellikleri ile duruşmadaki tutum ve davranışları göz önünde bulundurularak, yeniden suç işleyip işlemeyecekleri hususunda ulaşılacak kanaate göre, hükmün açıklanmasının geri bırakılmasına ilişkin düzenlemenin uygulanıp uygulanmamasına karar verilmesi gerekirken, “Sanıkların dosya kapsamına göre yeniden suç işlemeyecekleri konusunda mahkememizde olumlu kanaat oluşmaması nedeniyle suç işleme eğilimlerinin olumsuz olarak değerlendirilmesi nedeniyle” şeklindeki soyut ibarelere dayalı olarak sanıklar hakkındaki hükümlerin açıklanmasının geri bırakılmamasına karar verilmesi,
+
+Kanuna aykırı olup, sanıklar müdafiinin temyiz itirazları bu itibarla yerinde görüldüğünden, hükümlerin bu sebeplerden dolayı 5320 sayılı Kanunun 8. maddesi uyarınca halen uygulanmakta olan 1412 sayılı 321. maddesi gereğince isteme aykırı olarak BOZULMASINA, 17.02.2014 tarihinde oybirliği ile, karar verildi.
+
+YARGITAY 17. CEZA DAİRESİ
+Esas : 2015/25941 Karar : 2018/126Tarih : 8.01.2018
+
+TCK 135. Madde
+
+Kişisel Verilerin Kaydedilmesi Suçu
+
+I-Sanıklar … ve … hakkında kurulan hükümler ile, sanık … hakkında müştekiler …, … ve katılan …‘a yönelik hırsızlık suçundan ve suç işlemek amacıyla örgüt kurma suçundan, sanık … hakkında müştekiler …, … ve katılan …‘a yönelik hırsızlık suçundan ve örgüte üye olma suçundan, sanık … hakkında müşteki …‘e yönelik hırsızlık, katılan …‘a yönelik hırsızlık ve örgüte üye olma suçlarından sanık … hakkında müşteki … ve katılan …‘a yönelik hırsızlık suçundan ve sanık … hakkında müşteki …‘e, … ve katılan …‘a yönelik hırsızlık suçlarından kurulan hükümlerin temyiz incelemesinde;
+
+Sanık … hakkında birleşen dosya üzerinden müşteki …‘a yönelik eylem nedeniyle teşebbüs hükümleri uygulanmışsa da, müşteki …‘ın 40.000,00 TL parasının 20.000,00 TL’sinin İzmir’de sanık …‘in hesabına gönderildiği ve sanık … tarafından çekildiği, diğer kalan 19.847,00 TL’sinin ise Manisa’da sanık … tarafından çekilmek istendiği sırada sanığın yakalandığı bu nedenle sanık … hakkında suçun tamamlanmış olmasına rağmen teşebbüs hükümlerinin uygulanması ve sanık …‘ün aşamalardaki beyanları ile dosyadaki diğer delillere göre, sanık … hakkında TCK’nın 220/1. maddesi uygulanması gerekirken, aynı Yasa’nın 220/2. maddesinden hüküm kurulması, aleyhe temyiz olmadığından bozma nedeni yapılmamış, sanıklar hakkında tekerrür hükümleri uygulandığından tebliğnamedeki eleştiri benimsenmemiştir.
+
+Anayasa Mahkemesi’nin hükümden sonra 24/11/2015 gün ve 29542 sayılı Resmi Gazete’de yayımlanan 08/10/2015 tarih, 2014/140 Esas ve 2015/85 sayılı kararı ile TCK’nın 53. maddesinin (1) numaralı fıkrasının (b) bendine yönelik olarak vermiş olduğu iptal kararlarının da kapsam ve içerik itibarıyla infaz aşamasında mahallinde gözetilebileceğinden, bozma nedeni yapılmamıştır.
+
+Dosya ve duruşma tutanakları içeriğine, toplanıp karar yerinde incelenerek tartışılan hukuken geçerli ve elverişli kanıtlara, gerekçeye ve hakimin takdirine göre, sanıklar …, …, … ve … müdafilerinin, sanık … ve müdafiinin ile sanık … ve …‘in temyiz nedenleri yerinde görülmemiş olduğundan reddiyle, eleştiri dışında diğer yönleri usul ve kanuna uygun bulunan hükümlerin tebliğnameye uygun olarak ONANMASINA,
+
+II-Sanık … hakkında müşteki …‘a yönelik hırsızlık suçundan kurulan ve yine birleşen dosyada müşteki …‘a yönelik hırsızlığa teşebbüs suçundan ve kişisel verileri hukuka aykırı olarak verme, yayma veya ele geçirme suçlarından kurulan hükümler ile sanıklar … ve … hakkında kişisel verileri hukuka aykırı olarak verme, yayma veya ele geçirme suçundan kurulan hükümlerin, sanık … ve … hakkında suç işlemek amacıyla örgüt kurma suçlarından kurulan hükümlerin temyiz incelemesine gelince;
+
+1)Müşteki …‘ın hesabında bulunan paranın 20.000,00 TL’sinin Finansbank İzmir Hatay Şubesi’nde hesabı bulunan sanık …‘e gönderildiği, bu paranın sanık tarafından çekildiği, müştekinin hesabındaki 19.847,00 TL’sinin ise Manisa İş Bankası Sanayi Şubesi’ndeki sanık … hesabına EFT yapıldığı, sanık …‘in parayı çekmeye gitmesi üzerine parayı çekemeden bankada yakalandığı, bu eylem ile ilgili sanık … hakkında İzmir Cumhuriyet Başsavcılığı tarafından hırsızlık suçundan iddianame düzenlendiği, yine bu eylem ile ilgili Manisa Cumhuriyet Başsavcılığı tarafından da sanık … hakkında hırsızlığa teşebbüs suçundan dava açıldığı, Manisa 1. Asliye Ceza Mahkemesi’nin birleştirme kararı sonrasında İzmir 13. Asliye Ceza Mahkemesi 2012/915 Esas sayılı dosyası üzerinde yargılama yapıldığı, sanık … hakkında asıl dosya bakımından hırsızlık, birleşen dosya bakımından ise hırsızlığa teşebbüs suçundan mahkumiyet kararı verildiği anlaşılmakla, sanığın eyleminin tek olmasına rağmen aynı eylem ile ilgili iki hüküm kurulamayacağının gözetilmemesi,
+
+2)TCK’nın 136/1. maddesinde belirli veya belirlenebilir bir kişiye ait her türlü bilginin, başkasına verilmesi, yayılması ya da ele geçirilmesi “Verileri hukuka aykırı olarak verme veya ele geçirme” başlığı altında suç olarak tanımlanmıştır.
+
+Verileri hukuka aykırı olarak verme veya ele geçirme suçunun maddi konusunu oluşturan “kişisel veri” kavramından, kişinin, yetkisiz üçüncü kişilerin bilgisine sunmadığı, istediğinde başka kişilere açıklayarak ancak sınırlı bir çevre ile paylaştığı nüfus bilgileri (T.C. kimlik numarası, adı, soyadı, doğum yeri ve tarihi, anne ve baba adı gibi), adli sicil kaydı, yerleşim yeri, eğitim durumu, mesleği, banka hesap bilgileri, telefon numarası, elektronik posta adresi, kan grubu, medeni hali, parmak izi, DNA’sı, saç, tükürük, tırnak gibi biyolojik örnekleri, cinsel ve ahlaki eğilimi, sağlık bilgileri, etnik kökeni, siyasi, felsefi ve dini görüşü, sendikal bağlantıları gibi kişinin kimliğini belirleyen veya belirlenebilir kılan, kişiyi toplumda yer alan diğer bireylerden ayıran ve onun niteliklerini ortaya koymaya elverişli, gerçek kişiye ait her türlü bilginin anlaşılması gerekir.
+
+Ayrıntıları Yargıtay Ceza Genel Kurulu’nun 17.06.2014 tarihli, 2012/1510 Esas ve 2014/331 Karar sayılı kararında da vurgulandığı üzere; TCK’nın 135 ve 136. maddelerindeki kişisel verilerin korunmasına ilişkin düzenlemelerde sadece sır niteliğinde kişisel verilerin korunacağına ilişkin bir hükmün bulunmaması ve aksine 135. maddenin gerekçesinde gerçek kişiyle ilgili her türlü bilginin kişisel veri olarak kabul edilmesi gerektiğinin belirtilmesi karşısında, her türlü kişisel verinin hukuka aykırı olarak başkasına verilmesi, yayılması ve ele geçirilmesi fiilleri TCK’nın 136. maddesindeki verileri hukuka aykırı olarak verme veya ele geçirme suçunu oluşturur. Bu nedenle herkes tarafından bilinen ve/veya kolaylıkla ulaşılması ve bilinmesi mümkün olan kişisel bilgiler de, yasal anlamda “kişisel veri” olarak kabul
+
+edilmektedir. Ancak, verileri hukuka aykırı olarak verme veya ele geçirme suçunun uygulama alanının amaçlanandan fazla genişletilerek, uygulamada belirsizlik ve hemen her eylemin suç oluşturması gibi olumsuz sonuçların doğmaması için, somut olayın özellikleri dikkate alınarak titizlikle değerlendirme yapılması, olayda herhangi bir hukuk dalı tarafından kabul edilebilecek bir hukuka uygunluk nedeni veya bu kapsamda nazara alınabilecek bir hususun bulunup bulunmadığının saptanması ve sanığın eylemiyle hukuka aykırı hareket ettiğini bildiği ya da bilebilecek durumda olduğunun da tespit edilmesi gerekir.
+
+TCK’nın 136/1. maddesinin, “Bu madde hükmü ile hukuka uygun olarak kaydedilmiş olsun veya olmasın, kişisel verileri hukuka aykırı olarak başkalarına vermek, yaymak veya ele geçirmek, bağımsız bir suç olarak tanımlanmıştır.” şeklindeki gerekçesinden de anlaşılacağı üzere, kişisel verilerin, “verildiği”, “yayıldığı” veya “ele geçirildiği”nin kabul edilebilmesi için, kişisel verilerin kaydedilmiş halde bulunması, kaydedilmiş haliyle başkalarına verilmesi, yayılması ya da ele geçirilmesi gerekir.
+
+Bu noktada belirtmek gerekir ki, kişisel verilerin, üzerinde yazılı olduğu belgenin bulunduğu yerden alınması ya da kaydedilmiş haliyle başka bir nesne üzerine taşınarak (örneğin; yazının başka bir kağıt, defter vb. nesne üzerine geçirilmesi, taşınabilir belleğe veya CD’ye aktarılması gibi işlemlerle) sabitlenmesi, böylece istenildiğinde tekrar kullanılabilmesi olanağını sağlayan her türlü faaliyet, kişisel verileri “ele geçirme” kapsamında değerlendirilebilir ise de, kişisel verilerin kaydedilmeden önce öğrenilmesi, hafızada tutulan kişisel verilerin başkalarına açıklanması, kişisel verilere salt duyu organları aracılığıyla vakıf olunması, ancak TCK’nın 134/1. maddesinin 1. cümlesinde düzenlenen özel hayatın gizliliğini ihlal suçu kapsamında değerlendirilebilir.
+
+Somut olayda, sanıklar …, … ve …‘ın içerisinde bulunan … plakalı araç içerisinden …ve… adına tanzim edilmiş Akbank ve İşbankası mevduat hesap defterleri bulunduğu anlaşılmakla adı geçen hesap sahiplerinin tanık sıfatıyla dinlenerek hesap cüzdanlarının ne şekilde elden çıkmış olduğu, sanıkların cüzdanları nasıl ele geçirdiği hususları sorulmadan eksik kovuşturma sonucu hüküm kurulması,
+
+3)Sanık …‘ün aşamalardaki beyanları, dosya içerisinde bulunan beyanlar ve delillere göre, sanık … ve sanık …‘ün eylemlerinin TCK’nın 220/2 maddesi kapsamında kalmasına rağmen TCK’nın 220/1 maddesi uygulanması suretiyle fazla ceza tayini,
+
+4)Sanık …‘ün yakalandıktan sonra müdafii huzurunda soruşturma aşamasında alınan beyanında, örgütün yapısı ve faaliyeti çerçevesinde işlenen suçlarla ilgili bilgi verdiği anlaşılmakla TCK’nın 221/4-son cümle hükmü gereğince sanığın cezasından indirim yapılması gerektiğinin gözetilmemesi,
+
+5)Anayasa Mahkemesi’nin 08.10.2015 günlü, 2014/140 Esas ve 2015/85 Karar sayılı, 24.11.2015 gün ve 29542 sayılı Resmi Gazete’de yayınlanan kısmi iptal kararı uyarınca, 5237 sayılı TCK 53. madde 1. fıkra b. bendinde düzenlenen “seçme ve seçilme ehliyetinden ve diğer siyasi hakları kullanmaktan yoksun bırakılmasına” hükmünün iptal edilmesi nedeniyle uygulanamayacağının gözetilmesi zorunluluğu,
+
+Bozmayı gerektirmiş, sanık … ve … müdafilerinin, sanık … ve müdafiinin ve sanık … ve …‘ın temyiz nedenleri bu bakımdan yerinde görülmüş olduğundan, hükümlerin açıklanan nedenlerle tebliğnameye aykırı olarak BOZULMASINA, 08/01/2018 tarihinde oybirliğiyle karar verildi.
+
+YARGITAY 12. CEZA DAİRESİ
+Esas : 2016/2723 Karar : 2017/6746Tarih : 27.09.2017
+
+TCK 135. Madde
+
+Kişisel Verilerin Kaydedilmesi Suçu
+
+Görüntü veya seslerin ifşa edilmesi suretiyle özel hayatın gizliliğini ihlal suçundan sanığın mahkumiyetine ilişkin hüküm, sanık tarafından temyiz edilmekle, dosya incelenerek gereği düşünüldü:
+
+İddianamedeki anlatım ve uygulanması istenen sevk maddeleri ile gerekçeli karar başlığı ve hükmün gerekçesine göre, sanık hakkında görüntü veya seslerin ifşa edilmesi suretiyle özel hayatın gizliliğini ihlal suçundan mahkumiyet kararı verildiği halde, temel ceza tayini sırasında, uygulanan kanun maddesi ve fıkrasının, “TCK’nın 134/2. madde ve fıkrası” yerine sehven “TCK nun 135/2-1.cümle maddesi” olarak yazıldığı belirlenerek yapılan incelemede:
+
+Sanık …‘ın, mağdur … tarafından aralarındaki arkadaşlık ilişkisinin sona erdirilmesine tepki olarak, mağdurun bilgisi dahilinde çekilmiş fiziksel mahremiyetine ilişkin özel fotoğraflarını, facebook adlı sosyal paylaşım sitesinde, mağdurun rızası dışında yayımladığı iddia ve kabulüne konu olayda;
+
+Sanığa isnat edilen ve sübutu kabul edilen TCK’nın 134/2. madde ve fıkrasındaki görüntü veya seslerin ifşa edilmesi suretiyle özel hayatın gizliliğini ihlal suçunun, aynı Kanun’un 139/1. maddesi uyarınca soruşturulması ve kovuşturulması şikayete tabi olup, mağdurun, karar tarihinden sonra KDZ. Ereğli Ceza Mahkemeleri Ön Bürosu’na sunduğu 20.07.2017 havale tarihli ve ekine kimlik kartı fotokopisinin eklendiği kimlik tespiti içeren dilekçesinde sanığa yönelik şikayetinden vazgeçtiğini beyan etmesi karşısında, TCK’nın 73/6. madde ve fıkrası uyarınca, sanığın şikayetten vazgeçmeyi kabul edip etmediğine dair beyanı alınarak sonucuna göre sanığın hukuki durumunun takdir ve tayininde zorunluluk bulunması,
+
+Bozmayı gerektirmiş olup, sanığın temyiz itirazları bu itibarla yerinde görüldüğünden, sair yönleri incelenmeksizin hükmün bu nedenle 5320 sayılı Kanunun 8. maddesi uyarınca halen uygulanmakta olan 1412 sayılı CMUK’un 321. maddesi gereğince isteme aykırı olarak BOZULMASINA, 27.09.2017 tarihinde oybirliğiyle karar verildi.
+
+YARGITAY 14. CEZA DAİRESİ
+Esas : 2016/6576 Karar : 2016/7395Tarih : 27.10.2016
+
+TCK 135. Madde
+
+Kişisel Verilerin Kaydedilmesi Suçu
+
+İlk derece mahkemesince verilip kısmen re’sen de temyize tabi hükümlerin sanıklar müdafileri tarafından temyiz edilmesi ve sanık … müdafiince incelemenin duruşmalı yapılmasının talep edilmesi üzerine, dosya Yargıtay Cumhuriyet Başsavcılığından tebliğname ile Daireye gönderilmekle, 19.10.2016 Çarşamba saat 09:30’a duruşma günü verilerek sanık … müdafiine çağrı kâğıdı gönderilmişti.
+
+Belli günde Hakimler Kurulu duruşma salonunda toplanarak Yargıtay Cumhuriyet Savcılarından … hazır olduğu halde oturum açıldı.
+
+Yapılan tebligat üzerine dosyadaki vekaletnameye dayanarak sanık … adına gelen Av. … huzura alınarak duruşmaya başlandı.
+
+Duruşma isteğinin süresinde ve yerinde olduğu anlaşıldıktan sonra uygun görülen talep ve mütalaa dairesinde sanık … hakkında DURUŞMALI inceleme yapılmasına oybirliğiyle karar verilerek tefhim olunduktan sonra işin açıklanmasına dair raportör üye tarafından düzenlenen rapor okundu.
+
+Raportör üye rapora ilave edecek bir cihet bulunmadığını bildirdi.
+
+Sanık müdafii temyiz layihasını açıklayarak savunmada bulunup müvekkili hakkındaki hükmün BOZULMASINI istedi.
+
+Yargıtay Cumhuriyet Savcısı tebliğname içeriğini tekrar etti.
+
+Son sözü sorulan sanık müdafii savunmasına ilave edecek bir cihet bulunmadığını bildirmekle dosya incelenerek karar verilip tefhim olunmak üzere duruşmanın 02.11.2016 Çarşamba günü saat 09:30’a bırakılmasına oybirliğiyle karar verildi.
+
+Belli günde oturum açıldı. Dava evrakı incelenerek gereği görüşülmüş olduğundan aşağıda yazılı karar ittihaz olundu.
+
+Sanık …‘ın mağdure …‘e yönelik eylemlerini bir suç işleme kararının icrası kapsamında değişik zamanlarda birden fazla gerçekleştirdiği kabul edilmesine karşın, cezasında TCK’nın 43/1. maddesi uyarınca arttırım yapılmaması karşı temyiz olmadığından bozma nedeni yapılmamıştır.
+
+Yapılan yargılamaya, toplanıp karar yerinde gösterilen delillere, mahkemenin soruşturma ve kovuşturma sonuçlarına uygun olarak oluşan kanaat ve takdirine, incelenen dosya içeriğine göre yerinde görülmeyen sair temyiz itirazlarının reddine,
+
+Ancak;
+
+Hükümlerden sonra 24.11.2015 günlü, 29542 sayılı Resmî Gazete’de yayımlanarak yürürlüğe giren Anayasa Mahkemesinin 08.10.2015 gün ve 2014/140 Esas, 2015/85 Karar sayılı ilamı ile 5237 sayılı TCK’nın 53. maddesi yönünden kısmi iptal kararı verildiğinden, anılan husus nazara alınarak yeniden değerlendirme yapılmasında zorunluluk bulunması,
+
+Ayrıca,
+
+Sanık … hakkında kişisel verilerin kaydedilmesi suçundan hüküm kurulduğu sırada TCK’nın 135/1. maddesine göre belirlenen 1 yıl hapis cezası aynı Kanunun 43/1. maddesi ile 1/4 oranında arttırıldığında 1 yıl 3 ay yerinde yazılı şekilde 1 yıl 6 ay hapis cezasına hükmedilmesi suretiyle fazla ceza tayini, Kanuna aykırı, sanıklar müdafilerinin temyiz itirazları ile sanık … müdafiin duruşmalı inceleme sırasındaki sözlü savunması bu itibarla yerinde görüldüğünden, hükümlerin 5320 sayılı Kanunun 8/1. maddesi gözetilerek 1412 sayılı CMUK’nın 321. maddesi gereğince BOZULMASINA, ancak bu hususların yeniden duruşma yapılmaksızın aynı Kanunun 322. maddesinin verdiği yetki uyarınca düzeltilmesi mümkün bulunduğundan, hükümlerde yer alan TCK’nın 53. maddesinin uygulanması ile ilgili bölümlerin çıkartılarak yerlerine “Anayasa Mahkemesinin 08.10.2015 gün ve 2014/140 Esas, 2015/85 sayılı iptal kararı da nazara alınmak kaydıyla sanık hakkında 5237 sayılı TCK’nın 53. maddesinin birinci, ikinci ve üçüncü fıkralarının uygulanmasına” ibaresinin eklenmesi ve sanık … hakkında kişisel verilerin kaydedilmesi suçundan kurulan hükmün ikinci paragrafında yer alan ‘‘…1 yıl 6 ay…’’ ibaresinin çıkartılarak yerine ‘‘…1 yıl 3 ay…’’ ibaresinin eklenmesi suretiyle eleştiri dışında sair yönleri usul ve kanuna uygun olan kısmen re’sen de temyize tabi hükümlerin DÜZELTİLEREK ONANMASINA, 27.10.2016 tarihinde oybirliğiyle karar verildi.27.10.2016 tarihinde verilen işbu karar 02.11.2016 tarihinde Yargıtay Cumhuriyet Savcılarından… hazır olduğu halde sanık müdafiin Av. …‘ın yüzüne karşı tefhim olundu.
+
+YARGITAY 4. CEZA DAİRESİ
+Esas : 2015/24024 Karar : 2015/39927Tarih : 14.12.2015
+
+TCK 135. Madde
+
+Kişisel Verilerin Kaydedilmesi Suçu
+
+1-Şantaj suçundan kurulan hükmün temyiz incelemesinde;
+
+Temyiz isteğinin reddi nedenleri bulunmadığından işin esasına geçildi.
+
+Vicdani kanının oluştuğu duruşma sürecini yansıtan tutanaklar, belgeler ve gerekçe içeriğine göre yapılan incelemede,
+
+Suça sürüklenen çocuğa yükletilen şantaj eylemiyle ulaşılan çözümü haklı kılıcı zorunlu öğelerinin ve bu eylemin suça sürüklenen çocuk tarafından işlendiğinin Kanuna uygun olarak yürütülen duruşma sonucu saptandığı, bütün kanıtlarla aşamalarda ileri sürülen iddia ve savunmaların temyiz denetimini sağlayacak biçimde ve eksiksiz sergilendiği, özleri değiştirilmeksizin tartışıldığı, vicdani kanının kesin, tutarlı ve çelişmeyen verilere dayandırıldığı,
+
+Eylemin doğru olarak nitelendirildiği ve Kanunda öngörülen suç tipine uyduğu,
+
+Cezanın kanuni bağlamda uygulandığı,
+
+Anlaşıldığından suça sürüklenen çocuk U.. K.. ‘nın ileri sürdüğü nedenler yerinde görülmemiş olmakla, tebliğnameye uygun olarak, TEMYİZ DAVASININ ESASTAN REDDİYLE HÜKMÜN ONANMASINA,
+
+2-Hakaret suçundan kurulan hükmün temyiz incelemesine gelince;
+
+Başkaca nedenler yerinde görülmemiştir;
+
+Ancak;
+
+a-Hükümden önce 05.07.2012 tarihinde yürürlüğe giren 6352 sayılı Kanunun Geçici 1-b madde ve fıkrası uyarınca basın ve yayın yoluyla ya da sair düşünce ve kanaat açıklama yöntemleriyle işlenen suçlar bakımından “kovuşturmanın ertelenmesi” kurumunun getirilmesi karşısında, sanığın hukuki durumunun yeniden değerlendirilmesi zorunluluğu,
+
+Kabule göre de;
+
+b-Kişisel veri, Elektronik Haberleşme Sektöründe Kişisel Verilerin İşlenmesi ve Gizliliğin Korunması Hakkındaki Yönetmeliğin 3/1-h maddesinde “belirli veya kimliği belirlenebilir gerçek ve tüzel kişilere ilişkin bütün bilgiler” olarak tanımlanmıştır.
+
+28.01.1981 tarihli ve 108 nolu Kişisel Nitelikteki Verilerin Otomatik İşleme Tabi Tutulması Karşısında Şahısların Korunmasına Dair Uluslararası Sözleşme’nin 2/a maddesinde ise; “Kişisel nitelikteki veriler; kimliği belirtilen veya belirtilebilen gerçek kişiyle ilgili tüm bilgileri ifade eder” denilmiş, 1995 tarihinde yürürlüğe giren Avrupa Topluluğu Veri Koruma Yönergesinin 2. maddesinde de kişisel veri; “doğrudan doğruya ya da dolaylı olarak bir gerçek kişi ile ilintili olabilecek ve onu belirlenebilir kılacak her türlü bilgi” olarak belirtilmiştir.
+
+Öğretide de kişisel veri “Bireyin şahsi, mesleki ve ailevi özelliklerini gösteren, o bireyi diğer bireylerden ayırmaya ve niteliklerini ortaya koymaya elverişli hertürlü bilgiyi ifade eder” şeklinde tanımlanmaktadır.
+
+Yargıtay 12. Ceza Dairesinin kararlarında “Verileri hukuka aykırı olarak verme veya ele geçirme suçunun maddi konusunu oluşturan “kişisel veri” kavramından, kişinin, yetkisiz üçüncü kişilerin bilgisine sunmadığı, istediğinde başka kişilere açıklayarak ancak sınırlı bir çevre ile paylaştığı nüfus bilgileri (T.C. kimlik numarası, adı, soyadı, doğum yeri ve tarihi, anne ve baba adı gibi), adli sicil kaydı, yerleşim yeri, eğitim durumu, mesleği, banka hesap bilgileri, telefon numarası, elektronik posta adresi, kan grubu, medeni hali, parmak izi, DNA’sı, saç, tükürük, tırnak gibi biyolojik örnekleri, cinsel ve ahlaki eğilimi, sağlık bilgileri, etnik kökeni, siyasi, felsefi ve dini görüşü, sendikal bağlantıları gibi kişinin kimliğini belirleyen veya belirlenebilir kılan, kişiyi toplumda yer alan diğer bireylerden ayıran ve onun niteliklerini ortaya koymaya elverişli, gerçek kişiye ait her türlü bilginin anlaşılması gerekir. Herkes tarafından bilinen ve/veya kolaylıkla ulaşılması ve bilinmesi mümkün olan kişisel bilgiler de, yasal anlamda “kişisel veri” olarak kabul edilmekte ise de, anılan maddenin uygulama alanının amaçlanandan fazla genişletilerek, uygulamada belirsizlik ve hemen her eylemin suç oluşturması gibi olumsuz sonuçların doğmaması için, maddenin uygulamasında, somut olayın özellikleri dikkate alınarak titizlikle değerlendirme yapılması…”şeklinde açıklanmıştır.
+
+Yargıtay Ceza Genel Kurulu kararında ise; TCK’nın 135 ve 136. maddelerindeki kişisel verilerin korunmasına ilişkin düzenlemelerde sadece sır niteliğinde kişisel verilerin korunacağına ilişkin bir hükmün bulunmaması ve aksine 135. maddenin gerekçesinde gerçek kişiyle ilgili her türlü fotoğrafı açıklayıcı isim, adres, telefon numarası olmasa dahil- bilginin kişisel veri olarak kabul edilmesi gerektiğinin belirtilmesi karşısında, her türlü kişisel verinin hukuka aykırı olarak başkasına verilmesi, yayılması ve ele geçirilmesi fiillerinin kanunun 136. maddesindeki suçu oluşturduğu kabul edilmiştir.
+
+Dosyamıza konu somut olayda, suça sürüklenen çocuğun, katılanın gay ilişki içerisinde olduğuna dair fotoshop yolu ile oluşturduğu resimleri katılanın ismi de yazılmak suretiyle adres ve telefon bilgileri verilmeksizin yayınlayarak, belirli olmayan birden fazla kişi tarafından algılanabilme imkanı bulunan www.askmenceri.com internet sitesinde, hukuka aykırı olarak yaymaktan ibaret eylemi, TCK’nın 136. maddesinde düzenlenen kişisel verileri hukuka aykırı olarak yayma suçunu oluşturmaktadır.
+
+Suça sürüklenen çocuğun eylemi, aynı zamanda katılanın onur, şeref ve saygınlığını rencide edebilecek nitelikte olması nedeniyle TCK’nun 125. maddesinin birinci ve dördüncü fıkrası uyarınca alenen hakaret suçunu da oluşturmaktadır.
+
+Hukuki anlamda tek fiil sayılması gereken eylem ile hem TCK’nın 136. maddesinde düzenlenen kişisel verileri hukuka aykırı olarak yayma suçu, hem de aynı kanunun 125/1-4 maddesinde düzenlenen alenen hakaret suçu oluştuğundan, suça sürüklenen çocuk hakkında TCK’nın 44. maddesindeki farklı nev’iden fikri içtima hükümlerinin uygulanması ve oluşan suçlardan en ağır cezayı gerektiren kişisel verileri hukuka aykırı olarak yayma suçundan sanığa ceza tayin edilmesi gerektiğinin gözetilmemesi,
+
+Kanuna aykırı ve suça sürüklenen çocuk U.. K..’nın temyiz nedenleri ile tebliğnamedeki düşünce yerinde görüldüğünden HÜKMÜN BOZULMASINA, yargılamanın bozma öncesi aşamadan başlayarak sürdürülüp kazanılmış hak da gözetilmek suretiyle sonuçlandırılmak üzere dosyanın esas/hüküm mahkemesine gönderilmesine, 14/12/2015 tarihinde oybirliğiyle karar verildi.
+
+YARGITAY 12. CEZA DAİRESİ
+Esas : 2013/25593 Karar : 2014/165Tarih : 13.01.2014
+
+TCK 135. Madde
+
+Kişisel Verilerin Kaydedilmesi Suçu
+
+Belirli veya belirlenebilir bir kişiye ait her türlü bilginin, hukuka aykırı olarak kaydedilmesi TCK’nın 135. maddesinde “Kişisel verilerin kaydedilmesi” başlığı altında; yine, belirli veya belirlenebilir bir kişiye ait her türlü bilginin, başkasına verilmesi, yayılması ya da ele geçirilmesi de, TCK’nın 136/1. maddesinde “Verileri hukuka aykırı olarak verme veya ele geçirme” başlığı altında suç olarak tanımlanmış olup, eylemin; kamu görevlisi tarafından ve görevinin verdiği yetki kötüye kullanılmak ya da belli bir meslek ve sanatın sağladığı kolaylıktan yararlanmak suretiyle gerçekleşmesi hali, aynı Kanunun 137. maddesinde cezada artırım nedeni olarak öngörülmüştür.
+
+Verileri hukuka aykırı olarak verme veya ele geçirme suçunun maddi konusunu oluşturan “kişisel veri” kavramından, kişinin, yetkisiz üçüncü kişilerin bilgisine sunmadığı, istediğinde başka kişilere açıklayarak ancak sınırlı bir çevre ile paylaştığı nüfus bilgileri (T.C. kimlik numarası, adı, soyadı, doğum yeri ve tarihi, anne ve baba adı gibi), adli sicil kaydı, yerleşim yeri, eğitim durumu, mesleği, banka hesap bilgileri, telefon numarası, elektronik posta adresi, kan grubu, medeni hali, parmak izi, DNA’sı, saç, tükürük, tırnak gibi biyolojik örnekleri, cinsel ve ahlaki eğilimi, sağlık bilgileri, etnik kökeni, siyasi, felsefi ve dini görüşü, sendikal bağlantıları gibi kişinin kimliğini belirleyen veya belirlenebilir kılan, kişiyi toplumda yer alan diğer bireylerden ayıran ve onun niteliklerini ortaya koymaya elverişli, gerçek kişiye ait her türlü bilginin anlaşılması gerekir; ancak, herkes tarafından bilinen ve/veya kolaylıkla ulaşılması ve bilinmesi mümkün olan kişisel bilgiler, yasal anlamda “kişisel veri” olarak değerlendirilemez, aksinin kabulü; anılan maddenin uygulama alanının amaçlanandan fazla genişletilerek, uygulamada belirsizlik ve hemen her eylemin suç oluşturması gibi olumsuz sonuçlar doğurur, bu nedenle, bir kişisel bilginin, açıklanan anlamda “kişisel veri” kabul edilip edilmeyeceğine karar verilirken, somut olayın özellikleri dikkate alınarak titizlikle değerlendirme yapılması, sanığın eylemiyle hukuka aykırı hareket ettiğini bildiği ya da bilebilecek durumda olduğunun da ayrıca tespit edilmesi gerekir.
+
+Bu açıklamalar hakkında incelenen dosya içeriğine göre, olay tarihinde, katılanlar tarafından, sanıkların, kamuoyunda “misyonerlik” olarak adlandırılan faaliyette bulundukları yönündeki ihbar ve şikayetleri üzerine, sanıklar hakkında, halkı kin veya düşmanlığa tahrik ve Türklüğü aşağılama suçları kapsamında başlatılan soruşturmada, sanıkların evlerinde ve çalıştıkları yerlerde ve bilgisayarlarında yapılan aramalar kapsamında, mensup oldukları dini bildirmek için görüştükleri bir çok kişinin ad, soyad, adres, telefon numaraları ile birlikte, cinsel ve ahlaki eğilimi, sağlık bilgileri, etnik kökeni, siyasi, felsefi ve dini görüşü gibi kişinin kimliğini belirleyen veya belirlenebilir kılan, kişiyi toplumda yer alan diğer bireylerden ayıran ve onun niteliklerini ortaya koyan bilgilerle birlikte kaydettiklerinin ortaya çıkması şeklinde meydana gelen olayda,
+
+Yapılan yargılamaya, toplanıp karar yerinde gösterilen delillere, mahkemenin kovuşturma sonuçlarına uygun olarak oluşan kanaat ve takdirine, incelenen dosya kapsamına ve oluşa göre, sanıklar müdafiinin, sanıkların atılı suçu işlemediklerine, TCK’nın 135/1. maddesine göre, kişisel verileri “hukuka aykırı olarak kaydeden” kişinin cezalandırılacağının öngörüldüğüne, sanıkların kaydettiği bilgilerin kişilerin rızası ile verildiğine, hukuka aykırılık unsurunun bulunmadığına, sanıkların Anayasal bir hak olan dinini serbestçe yayma ve öğretme kapsamında hareket ettiklerine, bunun da Uluslararası sözleşmeler, anayasa, yasalar ve yargı içtihatları uyarınca suç sayılmadığına, tamamen serbest olan çalışmaları sırasında kişisel verileri kullanan sanıkların beraatine karar verilmesi gerektiğine ilişkin yerinde görülmeyen diğer temyiz itirazlarının reddine, ancak;
+
+Hükmün esasını teşkil eden kısa kararda ve gerekçeli kararın hüküm kısmında, sanıklar hakkında temel cezanın tayini sırasında uygulama maddesi olan TCK’nın 135/2. maddesine atıfta bulunulmaması suretiyle CMK’nın 232/6. maddesine aykırı hareket edilmesi,
+
+Kanuna aykırı olup, sanıklar müdafiinin temyiz itirazları bu itibarla yerinde görüldüğünden, hükmün bu sebeplerden dolayı 5320 sayılı Kanunun 8. maddesi uyarınca halen uygulanmakta olan 1412 sayılı CMUK’un 321. maddesi gereğince BOZULMASINA, ancak, yeniden yargılama gerektirmeyen bu hususun aynı Kanunun 322. maddesine göre düzeltilmesi mümkün bulunduğundan, hüküm fıkrasının (C) paragrafının birinci bendine “eylemlerine uyan” ibaresinden sonra gelmek üzere “TCK’nın 135/2. maddesi yollamasıyla” ibaresinin yazılmasına, hükümdeki diğer hususların aynen bırakılması suretiyle, sair yönleri usul ve kanuna uygun bulunan hükmün istem gibi DÜZELTİLEREK ONANMASINA, 13.01.2014 tarihinde oybirliğiyle karar verildi.
+
+YARGITAY 12. CEZA DAİRESİ 
+Esas : 2014/11488 Karar : 2015/576Tarih : 19.01.2015
+
+TCK 135. Madde
+
+Kişisel Verilerin Kaydedilmesi Suçu
+
+Kişisel verilerin kaydedilmesi suçundan sanığın beraatine ilişkin hüküm, katılan vekili tarafından temyiz edilmekle, dosya incelenerek gereği düşünüldü:
+
+Aile Sağlığı Merkezi’nde ebe olarak çalışan sanığın, Aile Sağlığı Merkezi’nin karşısındaki eczanede çalışan ve önceden husumetli olduğu katılanın, eczanenin işleri nedeniyle Aile Sağlığı Merkezi’ne gelip gittiği sırada fotoğraflarını çektiği iddia edilmiş ve sevk maddesi olarak TCK’nın 135/1. maddesi gösterilmiş ise de; niteleme ve anlatımın TCK’nın 134/1. maddesinin 2. cümlesindeki suça ilişkin olduğu, ancak; sanığın suçu inkara yönelik savunması, sanıkla aynı yerde çalışan tanık …‘in, savunmayı doğrulayan anlatımı, sanıktan ele geçirilen herhangi bir görüntü kaydı bulunmaması ve tanıklar …, … ve …‘nın beyanlarına, sanıkla aralarında önceye dayalı husumet bulunması nedeniyle tarafsız olamayacağından, itibar edilemeyecek olması karşısında, suç sabit olmadığından, sanığın beraatine karar verilmesinde isabetsizlik görülmemiştir.
+
+Yapılan yargılama sonunda, suçun sanık tarafından işlendiğinin sabit olmadığı, gerekçeleri gösterilerek mahkemece kabul ve takdir kılınmış olduğundan, katılan vekilinin, bir nedene dayanmayan temyiz itirazlarının reddiyle, beraata ilişkin hükmün isteme uygun olarak ONANMASINA, 19.01.2015 tarihinde oybirliğiyle karar verildi.
+
+UYARI

@@ -1,0 +1,280 @@
+Senede Karşı Tanıkla İspat Yasağı
+
+HMK Madde 201
+
+HMK Madde 201 Gerekçesi
+
+HMK 201 (Senede Karşı Tanıkla İspat Yasağı) Emsal Yargıtay Kararları
+
+(1) Senede bağlı her çeşit iddiaya karşı ileri sürülen ve senedin hüküm ve kuvvetini ortadan kaldıracak veya azaltacak nitelikte bulunan hukuki işlemler ikibinbeşyüz Türk Lirasından az bir miktara ait olsa bile tanıkla ispat olunamaz.
+
+Senede Karşı Tanıkla İspat Sınırı :
+
+Maddede 1086 sayılı Kanunda senede karşı senetle ispat kuralı (veya tanıkla ispat yasağı) hakkındaki hükümler bazı ifade değişiklikleri ile kabul edilmiştir. Senede karşı ileri sürülen hukukî işlemlerin değeri senetle ispat kuralına ilişkin miktardan daha az olsa bile yine senetle ispat edilmelidir.
+
+Yargıtay 3. Hukuk Dairesi         2017/15332 E.  ,  2018/2591 K.
+
+Kanunda ispat sınırı olarak gösterilen parasal belli tutarı (HMK 200/1.maddesi) aşan hukuki işlemler ve senede karşı olan iddialar (HMK 201.maddesi) kural olarak yalnız senet (kesin delil) ile ispat edilebilir.
+
+Buna göre, davacının taraflar arasında haricen yapılan taşınmaz satım sözleşmesi ile davacıya 1.000 TL verdiği, ispat yükü üzerinde bulunan davalı ödeme iddiasını yazılı belge ile ispat edememiştir. Yazılı delil ile ispatı gereken bu hususta davalı tanığın beyanına dayalı olarak davanın reddine karar verilmesi usul ve yasaya aykırı olup, bu husus bozmayı gerektirmiştir.
+
+Yargıtay 3. Hukuk Dairesi         2016/4023 E.  ,  2017/15661 K.
+
+Davacının, taraflar arasında mevcut ve imzası inkar edilmeyen, tarafların kabulünde olan yazılı sözleşmeye dayandığı ve alacağı varlığı ile miktarını ibraz ettiği yazılı sözleşme ile kanıtladığı anlaşılmaktadır. Buna karşın davalının da yine harici satış sözleşmesi kapsamında, davacıdan 25.000 TL peşin para aldığını kabul ettiği; ancak, alınan bu bedelin daha sonra davacı ile davalının oğlu arasındaki sözleşme gereği davacının borçlu olduğu bedelin karşılığı olarak mahsup edildiğini savunduğu görülmektedir. Bu durumda, davalı, bu savunmayı kesin deliller ile ispatlamak zorundadır.
+
+Çünkü, hukuki işlemler kural olarak yalnız kesin delil ile ispat edilebilir, tanık (takdiri delil) ile ispat edilemez. Gerçekten kanunda ispat sınırı olarak gösterilen parasal belli tutarı (HMK 200/1.maddesi) aşan hukuki işlemler ve senede karşı olan iddialar (HMK 201.maddesi) kural olarak yalnız senet (kesin delil) ile ispat edilebilir; tanık (takdiri delil) ile ispat edilemez. Senetle ispat zorunluluğu yerine aslında “kesin delille ispat zorunluluğu” denilmesi daha doğrudur. Çünkü senetle ispatı zorunlu olan bir hukuki işlem mesela onbin liralık bir satış sözleşmesi başka kesin deliller (ikrar, yemin, kesin hüküm) ile de ispat edilebilir. (Medeni Usul Hukuku, Prof.Dr.Baki Kuru, Prof.Dr.Ramazan Arslan, Prof.Dr. Ejder Yılmaz, Ankara 2011, sayfa; 404)
+
+Buna göre, sözleşmede peşin olarak ödendiği yazılı olan satış bedelinin, başka bir alacak karşılığı mahsup edildiğine dair ispat yükü üzerinde bulunan davalı bu iddialarını yazılı belge ile ispat edememiştir.
+
+Yargıtay 19. Hukuk Dairesi         2015/12313 E.  ,  2016/3202 K.
+
+Dava, bonodan dolayı borçlu bulunulmadığının tespiti istemine ilişkindir. Davacı bononun açığa imza atılmak suretiyle teminat olarak verildiğini, anlaşmaya aykırı olarak doldurulduğunu, bedelsiz olduğu iddiasını yazılı delille kanıtlamalıdır. (HUMK 290. md., HMK 201. md.) Kambiyo senetlerinin tacir olan tarafların ticari defterlerinde kayıtlı olmaması sonuca etkili olmayıp, kambiyo senedini hükümden düşürmez.
+
+Bu durumda mahkemece ispat yükünün davacıda olup, davacının dava konusu senedin teminat senedi olduğu, anlaşmaya aykırı olarak doldurulduğu yönündeki iddiasının yazılı delille kanıtlanması gerektiği gözetilmeden ispat külfetinin tayininde yanılgıya düşülerek somut olaya uygun düşmeyen gerekçelerle hüküm kurulması doğru görülmemiştir.
+
+YARGITAY 1. HUKUK DAİRESİ
+Esas : 2015/10020 Karar : 2018/9401Tarih : 20.04.2018
+
+HMK 201. Madde
+
+Taraf muvazaası ve takma ad (namı-müstear) davalarında iddia ancak yazılı delille kanıtlanabilir.
+
+Dava dilekçesinin içeriği ve iddianın ileri sürülüş biçimine göre; davada dayanılan hukuki sebebin muris muvazaası değil, taraf muvazaası olduğu anlaşılmaktadır.
+
+Bilindiği üzere; muvazaa kısaca irade ve beyan arasında bilerek yaratılan uyumsuzluk şeklinde tanımlanabilir. Muvazaada taraflar üçüncü kişileri aldatmak amacıyla gerçek iradelerine uymayan, aralarında hüküm ve sonuç doğurmayan bir görünüş yaratmak için anlaşarak bazen aslında bir sözleşme yapma iradesi taşımadıkları halde görünüşte bir sözleşme yapmaktadırlar (mutlak muvazaa). Veya gerçek iradelerine uygun olarak yaptıkları sözleşmeyi iradelerine uymayan görünüşteki bir sözleşme ile gizlemektedirler (nisbi muvazaa) Yanlar, ister salt bir görünüş yaratmak için, ister başka bir sözleşmeyi gizlemek amacıyla, sözleşme yapsınlar görünüşteki sözleşme gerçek iradelerine uymadığından, tabandaki sözleşmede tapulu taşınmazlarda şekil koşullarını taşımadığından geçersizdir.
+
+Her ne kadar, muvazaayı düzenleyen 6098 s. Türk Borçlar Kanununun 19. (818 s. Borçlar Kanunun 18.) maddesinde ve öteki kanun hükümlerinde muvazaalı sözleşmelerin hüküm ve sonuçları hakkında bir açıklık bulunmamakta ise de; taraflar arasında alacak ve borç ilişkisi doğurmayacağı, muvazaanın varlığının hiçbir süreye bağlı olmaksızın her zaman ileri sürülebileceği, mahkemece kendiliğinden (resen) göz önünde bulundurulması gerektiği, belirli bir sürenin geçmesi, sebebin ortadan kalkması veya ilgililerin olur (icazet) vermesi ile geçerli hale gelmeyeceği, uygulamada ve bilimsel görüşlerde ortaklaşa kabul edilmektedir.
+
+Hemen belirtmek gerekir ki, muvazaa nedeniyle geçersiz sözleşmeye dayanılarak bir taşınmazın tapuda temliki yapılmışsa bu tescil yolsuz bir tescil hükmündedir. Tapuda yapılan temlik ve tesciller illi işlemler olduğundan tapunun dayanağı sözleşme geçersiz ise tapu kaydının da Türk Medeni Kanunun 1025. maddesine göre iptali gerekir. Ayrıca muvazaalı sözleşmeler yapıldığı andan itibaren taraflar arasında hüküm ve sonuç doğurmayacağından açılan dava sonunda verilen karar, yenilik doğurucu (inşaî) bir hüküm değil, açıklayıcı (izharı) bir hüküm durumundadır.
+
+Öte yandan, muvazaanın varlığını iddia eden taraf veya bunların ardılı (halefi) sıfatı ile hareket eden, başka bir anlatımla sözleşmenin yanlarından birine teb’an dava açan kişi Türk Medeni Kanununun 6. maddesi gereğince bu iddiasını ispat etmek zorundadır. Senede bağlı bir sözleşmeye karşı muvazaa iddiası, 6100 s. Hukuk Muhakemeleri Kanununun (HMK) 200 ve 201. (1086 s. Hukuk Usulü Muhakemeleri Kanununun (HUMK) 288. ve 290.) maddelerinde belirtildiği üzere ancak yazılı delille kanıtlanabilir. Sözleşme aynı kanunun 203. (HUMK’nun 293.) maddesinde sözü edilen yakın akrabalar arasında yapılmış olsa dahi, muvazaanın yazılı delille ispat edilmesi gerekir. Böyle bir sözleşmenin resmi şekilde yapılması halinde bile olayın özelliği itibariyle adi yazılı delilin yeterli olacağı öğretide ve kararlılık kazanmış yargısal içtihatlarda ortaklaşa kabul edilmiştir. İşte bu görüşten hareketle, 5.2.1947 tarih 20/6 sayılı İçtihatları Birleştirme Kararında taraf muvazaası ve takma ad (namı-müstear) davalarında iddianın ancak yazılı delille kanıtlanabileceği kabul edilmiştir.
+
+Somut olaya gelince, mahkemece, yukarıda belirtilen ilkeler doğrultusunda inceleme ve değerlendirme yapılmış değildir.
+
+Hâl böyle olunca, birleştirilen dava bakımından, yukarıda belirtilen ilkeler ve olgular doğrultusunda inceleme ve değerlendirme yapılarak varılacak sonuç çerçevesinde bir karar verilmesi, birleştirilen davanın sonucuna göre de asıl dava bakımından değerlendirme yapılarak sonuca gidilmesi gerekirken yanılgılı değerlendirme ile yazılı şekilde karar verilmesi doğru değildir.
+
+Asıl davada davacı-birleştirilen davada davalı … ile asıl davada davalı-birleştirilen davada davacı … ’in değinilen yönlerden yerinde bulunan temyiz itirazlarının kabulü ile hükmün açıklanan nedenlerden ötürü (6100 sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK’un 428.maddesi gereğince BOZULMASINA, bozma nedenine göre asıl dava yönünden temyiz incelemesi yapılmasına şimdilik yer olmadığına, alınan peşin harcın temyiz edene geri verilmesine, 20.04.2018 tarihinde oybirliğiyle karar verildi.
+
+YARGITAY 13. HUKUK DAİRESİ 
+Esas : 2015/41137 Karar : 2017/4373Tarih : 12.04.2017
+
+HMK 201. Madde
+
+Yakın akrabalar arasındaki bir hukuki işlem senede bağlanmış veya yazılı delil sözleşmesi yapılmışsa, senedin aksinin tanıkla ispatlanmasına imkan tanınmamaktadır.
+
+Mahkemece davacının iddiasını kanıtlamakla yükümlü olduğu davacının yemin teklifi üzerine davalıların borç parayı inkar etmeleri neticesinde davanın reddine karar verilmiştir. Kural olarak Hukuk Muhakemeleri Kanunu’nun 201. maddesi ile Senede bağlı her çeşit iddiaya karşı ileri sürülen ve senedin hüküm ve kuvvetini ortadan kaldıracak veya azaltacak nitelikte bulunan hukuki işlemler ikibinbeşyüz Türk lirasından az miktara ait olsa bile tanıkla ispat olunamaz.
+
+Ne var ki, kural böyle olmakla birlikte Hukuk Muhakemeleri Kanunu’nun 203. maddesinde yazılı yakın akrabalar arasındaki hukuki işlemlerin tanıkla ispat edilebileceği kabul edilmiştir. Anılan maddede yazılı yakın akrabalar arasında senet (yazılı belge) alınmasındaki manevi imkansızlık kanunla varsayılmış ve böyle bir istisnai düzenlemeye gerek görülmüştür. Yakın akrabalar arasındaki hukuki işlemlerin tanıkla ispat edilebilmesi için miktar ve değer bakımından bir sınırlandırma getirilmediği gibi, manevi imkansızlığın da ayrıca iddia ve ispat edilmesine de gerek yoktur.
+
+Ancak, yakın akrabalar arasındaki bir hukuki işlem senede bağlanmış veya yazılı delil sözleşmesi yapılmışsa, artık manevi imkansızlıktan söz edilemeyeceğinden, senedin aksinin tanıkla ispatlanmasına imkan tanınmamaktadır. Bunun dışında Hukuk Muhakemeleri Kanunu’nun 203/1 maddesinde belirtilen yakın akrabalar arasındaki hukuki işlemlerin miktar ve değeri ne olursa olsun tanıkla ispatı olanaklıdır.
+
+Yargıtay Hukuk Genel Kurulu’nun istikrar kazanmış uygulaması da bu yoldadır. (Y.HGK.nun 19.3.2003 gün 2003/13-174-181 sayılı ilamı, YHGK.nun 9.10.1985 gün ve 1984/13-255 E. 1985/797 K.sayılı ilamı; YHGK.nun 23.1.1985 gün ve 1983/3-25 E. , 1985/3Ksayılıilamı).
+
+Somut olayda davalı davacının kızı diğer davalı ise borcun verildiği dönemde davacının damadıdır ,davacı davalılara evli oldukları dönemde borç para verdiğini iddia etmiş ve bu iddiasını destekleyen tanık beyanlarına dayanmıştır. Açıklanan nedenlerle davacının iddiasını tanıkla kanıtlayabileceğinden mahkemece bu yan gözardı edilerek yazılı şekilde karar verilmiş olması usul ve yasaya aykırı olup bozmayı gerektirir.
+
+SONUÇ: Yukarıda açıklanan nedenlerle temyiz olunan kararın davacı yararına BOZULMASINA, peşin alınan harcın istek halinde iadesine, HUMK’nun 440/1 maddesi uyarınca tebliğden itibaren 15 gün içerisinde karar düzeltme yolu açık olmak üzere, 12/04/2017 gününde oybirliğiyle karar verildi.
+
+YARGITAY 19. HUKUK DAİRESİ
+Esas : 2016/8978 Karar : 2017/2558Tarih : 29.03.2017
+
+HMK 201. Madde
+
+Açığa düzenlenen bononun anlaşmaya aykırı doldurulduğu yolundaki iddia, davacı keşideci tarafından yazılı delille kanıtlanması gerekir.
+
+Davacı,davalıdan fidan satın aldığını, davalıya fidan bedeli karşılığında boş senet verdiğini, aralarındaki ilişkiye aykırı şekilde senedin doldurularak takibe konulduğunu, senet bedeli kadar borcu bulunmadığını ileri sürerek borçlu olmadığının tespitini talep ve dava etmiştir.
+
+Davalı vekili, davacının davasını ispatla mükellef olduğunu, tanık dinletme talebine muvafakat etmediğini belirterek davanın reddini talep etmiştir
+
+Mahkemece, yapılan yargılama ve toplanan delillere göre, takibe konu senetlerin miktarı itibariyle HMK’nun 201 maddesinde düzenlenen senede karşı senetle ispat kuralı gereğince davacının iddiasını senetle ispat etmesi gerektiği, 6102 sayılı TTK`nun 778/2/f ve 680. Maddeleri uyarınca açığa bono düzenlenmesi mümkün olup bononun anlaşmaya aykırı doldurulduğu yolundaki iddianın davacı keşideci tarafından yazılı delille kanıtlanması gerektiği, davacının takibe konu senetden dolayı davalıya borçlu olmadığına dair herhangi bir yazılı belge sunamadığı, davacıya süre verilmesine rağmen dosyaya yemin metni de sunulmadığı gerekçesiyle davanın reddine karar verilmiş, hüküm davacı tarafından temyiz edilmiştir.
+
+Dosyadaki yazılara kararın dayandığı delillerle gerektirici sebeplere, delillerin takdirinde bir isabetsizlik bulunmamasına göre, davacının yerinde görülmeyen bütün temyiz itirazlarının reddiyle usul ve kanuna uygun bulunan hükmün ONANMASINA, aşağıda yazılı onama harcının temyiz edenden alınmasına, 29/03/2017 gününde oybirliğiyle karar verildi.
+
+YARGITAY 11. HUKUK DAİRESİ 
+Esas : 2016/5463 Karar : 2017/688Tarih : 9.02.2017
+
+HMK 201. Madde
+
+Senede Karşı Tanıkla İspat Yasağı
+
+Davacı mirasçılar vekili, müvekkilleri …‘ın kocası, …‘ın ise babası olan … isimli kişiden 90.000,00 TL bedelli bononun miras olarak kaldığını, bononun vade tarihinin bulunmadığını, müvekkili …‘ın kardeşi olan diğer mirasçının temlikname ile senetten kaynaklanan hakkını müvekkillerinin her ikisine terekeden aldığı başka mallar nedeniyle temlik ettiğini, müvekkillerine miras kalan bono için borçlu şirket ve yetkilisine ulaştıklarını, alacaklarını talep ettiklerinde borçluların borçlarını inkar ettiklerini ve ödemekten imtina ettiklerini ileri sürerek, fazlaya dair hakları saklı kalmak kaydıyla borçluların müvekkillerine olan 90.000,00 TL borcunun ibraz süresinin sonu olan 21/07/2011 tarihinden itibaren avans faiziyle birlikte tahsiline karar verilmesini talep etmiştir.
+
+Davacı muris tereke temsilcisi, tereke mümessili olarak muris mirasçıları davacılar … ve … tarafından açılan davaya muvafakat ettiğini, muris terekesi adına davayı takip edeceğini, davanın talep gibi kabulüne karar verilmesini istemiştir.
+
+Davalılar vekili, müvekkillerinden …‘nun senet metninde adının yer almadığını, dava konusu olan senedin davacıların murisi …‘a sağlığında ödendiğini ancak murisin senetlerin kaybolduğunu, bu konuda kendisine hiçbir zarar gelmeyeceğini şahitler huzurunda beyan ederek müvekkilinin rahat olmasını söylediğini, hatta davaya konu olan senet nedeni ile davacı tarafından özel belgeyi yok etmek ve gizlemek suçlaması ile müvekkili hakkında şikayette bulunulduğunu, yapılan yargılamada müvekkilinin beraatine karar verildiğini savunarak davanın reddini talep etmiştir.
+
+Mahkemece, 6102 sayılı TTK 778/3-700 ila 702 maddeleri uyarınca (6762 sayılı TTK 690-612-614) davalı şirketi davalı şirket müdürü …‘nun münferiden temsile yetkili olduğu, şirket adına atılan imza yanındaki ikinci imzanın aval vermek için atıldığı, aval veren davalının tanzim borçlusu gibi taahhüt altına girip sorumlu olacağı, davalıların bono bedelinin ödendiğine ilişkin cevaplarının 6100 sayılı HMK 200-201-202 maddeleri uyarınca usulen yazılı delille ispatlanamadığı gerekçesi ile davanın kabulü ile bono sebebiyle 90.000,00 TL alacağın vade tarihi 21/07/2011 tarihinden itibaren işleyecek avans faizi ile birlikte davalılardan müştereken ve müteselsilen tahsili ile tereke temsilcisine ödenmesine karar verilmiştir.
+
+Kararı davalılar vekili temyiz etmiştir.
+
+Dava dosyası içerisindeki bilgi ve belgelere, mahkeme kararının gerekçesinde dayanılan delillerin tartışılıp, değerlendirilmesinde usul ve yasaya aykırı bir yön bulunmamasına göre, davalılar vekilinin tüm temyiz itirazları yerinde değildir.
+
+SONUÇ: Yukarıda açıklanan nedenlerden dolayı, davalılar vekilinin bütün temyiz itirazlarının reddiyle usul ve kanuna uygun bulunan hükmün ONANMASINA, takdir olunan 1.480,00 TL duruşma vekalet ücretinin davalılardan alınarak davacılara verilmesine, aşağıda yazılı bakiye 4.610,90 TL temyiz ilam harcının temyiz eden davalılardan müştereken ve müteselsilen alınmasına, 09.02.2017 tarihinde oybirliğiyle karar verildi.
+
+YARGITAY 13. HUKUK DAİRESİ
+Esas : 2015/13737 Karar : 2016/24084Tarih : 22.12.2016
+
+HMK 201. Madde
+
+Senede Karşı Tanıkla İspat Yasağı
+
+Dava, tapuda satışı yapılan taşınmazın davacıların hissesine düşen kısmının davalılar tarafından ödenmediği iddiasına dayalı olarak açılan alacağın tahsili istemine ilişkindir. Mahkemece, davacıların tapudaki resmi senette hisselerine düşen parayı aldıklarını beyan ettiği, aksini yazılı delil ile ispatlayamadığı, davalıların da tanık beyanına muvafakat etmediğinden davanın reddine karar verilmiştir. Uyuşmazlık; tapuda devri yapılan taşınmazın davacıların hissesine düşen bedellerinin ödenip ödenmediği noktasında toplanmaktadır. HMK.’nun 201. (mülga 1086 sayılı HUMK.`nun 290.) maddesine göre, senede bağlı hususların aksi iddialara karşı ancak senetle ispat edilebilir, tanıkla ispat edilemez. Bu nedenle davalı açıkça tanık dinlenmesine muvafakat etmedikçe olayda tanık dinlenemez. Hal böyle olunca, TMK.’nun 6. maddesi ve HMK.’nu hükümleri gereğince, tapudan resmi olarak devir edilen taşınmazın davacıların hisse satış bedellerinin davalılar tarafından ödenmediğini davacıların kesin delillerle kanıtlaması gerekirken bu iddiasını ispat edecek yazılı belge ibraz edememiştir. Ne var ki, davacılar yemin deliline de dayandığından, mahkemece; davacılara, davalılara karşı yemin teklif etme hakkı hatırlatılarak, sonucuna göre bir karar verilmesi gerekirken, yazılı şekilde davanın reddine karar verilmesi usul ve yasaya aykırı olup, bozma nedenidir.
+
+YARGITAY 6. HUKUK DAİRESİ 
+Esas : 2016/5039 Karar : 2016/4386Tarih : 6.06.2016
+
+HMK 201. Madde
+
+Senede Karşı Tanıkla İspat Yasağı
+
+Asıl dava, erken fesih nedeniyle makul süre kirası için başlatılan icra takibine vaki itirazın iptali ve % 20 tazminat istemine, karşı dava faydalı gider alacağı istemine ilişkindir. Mahkemece, asıl davanın kabulüne, karşı davanın reddine karar verilmiş, hüküm davalı-karşı davacı vekili tarafından temyiz edilmiştir.
+
+1- Dosya kapsamına, toplanan delillere, mevcut deliller mahkemece takdir edilerek karar verilmiş olmasına ve takdirde de bir isabetsizlik bulunmamasına göre temyiz eden davalı-karşı davacının karşı davaya ilişkin tüm, asıl davaya ilişkin aşağıdaki bendin kapsamı dışında kalan temyiz itirazları yerinde değildir.
+
+Asıl davacı vekili dava dilekçesinde, davalı – karşı davacı kiracının taraflar arasındaki kira sözleşmesini süresinden önce feshettiğini, sözleşmede makul süre kirasının 4 ay olarak belirlendiğini davalı -karşı davacının 2014 yılı Ocak ve Nisan ayları arası 4 aylık kira bedelini peşin ödediğini, davalı-karşı davacının 13.03.2014 tarihinde sözleşmeyi feshettiğini bu nedenle 2014 yılı Temmuz ayı dahil kira bedellerinden sorumlu olduğunu, 18.04.2014 tarihinde başlattıkları icra takibi ile 2014 yılı Mayıs, Haziran ve Temmuz ayları kira bedellerini istediklerini, davalı- karşı davacının itiraz ettiğini belirterek itirazın iptali isteminde bulunmuştur. Davalı -karşı davacı feshin haklı olduğunu belirterek davanın reddini savunmuş, mahkemece asıl davada istem gibi karar verilmiştir.
+
+Kiralananın tahliye edildiğinin (kiracının kiralananı iade borcunu yerine getirdiğinin) kabul edilebilmesi için, kiralananın fiilen boşaltılması yeterli değildir. Anahtarın da kiralayana teslim edilmesi gerekir. Kiracının bildirdiği tahliye tarihinin kiralayan tarafından kabul edilmemesi; başka bir ifadeyle, tahliye tarihinin taraflar arasında çekişmeli olması halinde; kiralananın fiilen boşaltıldığını ve anahtarın teslim edildiğini, böylece kira ilişkisinin kendisince ileri sürülen tarihte hukuken sona erdirildiğini kanıtlama yükümlülüğü, kiracıya aittir. Kiracı, kiralananı kendisinin ileri sürdüğü tarihte tahliye ettiğini ispatlayamazsa, kiralayanın bildirdiği tahliye tarihine itibar olunmalıdır.
+
+Anahtarın kiralayana teslimi, hukuki işlemin içerisinde yer alan bir maddi vakıa olmakla birlikte, sözleşmenin feshine yönelik bir hukuki sonuç doğurduğundan, bunun ne şekilde ispat edileceği hususu, yıllık kira bedelinin tutarı esas alınmak suretiyle, HMK`nın 200 ve 201.maddeleri çerçevesinde değerlendirilmelidir. Eş söyleyişle, yıllık kira bedelinin tutarı senetle ispat sınırının üzerindeyse ve kiralayanın açık muvafakati yoksa bu yön kiracı tarafından ancak yazılı delille ispatlanabilir; tanık dinlenemez. Kiralayan anahtarı almaktan kaçınırsa, kiracının yapması gereken, mahkemeden bu yolda tevdi mahalli tayinini isteyip, tayin edilecek yere anahtarı teslim etmek ve durumu kiralayana bildirmektir. Kiracının kiralananı iade borcu, ancak bu şekilde, durumun kiralayana bildirildiği tarihte son bulur. Aksi takdirde, kiracının, kira parasını ödemek de dahil olmak üzere, sözleşmeden kaynaklanan yükümlülükleri devam eder.
+
+Taraflar arasında 01.01.2014 başlangıç tarihli, yedi yıl süreli, aylık 27.000 TL bedelli, kira sözleşmesi konusunda uyuşmazlık bulunmamaktadır. Sözleşmeye göre kiralanan eğitim binası olarak kullanılacaktır. Sözleşmenin 1.2. maddesindeKira akdinin hitamından önce kiracı 4 ay öncesinden yazılı olarak haber vermek kaydı ile herhangi bir tazminat ödeme yükümlülüğü altında olmaksızın sözleşmeyi her zaman fesih edebilecektir` düzenlemesi bulunmaktadır. Davalı–karşı davacı 11.03.2014 tarihinde ihtarname çekerek sözleşmeyi feshetmiş, anahtarı da aynı tarihte emanet tutanağıyla notere teslim etmiştir. Teslim tutanağı davacı -karşı davalıya 13.03.2014 tarihinde tebliğ edilmiştir. Bu tarih davacının da kabulünde olup yasal anahtar teslimi 13.03.2014 tarihidir ve kiracı bu tarihten itibaren 4 ay süreyle kira bedelinden sorumludur. Kiraya verenin daha sonraki bir tarihte anahtarı noterden teslim alması kiracının sorumluluğunu gerektirmez. O halde kiracı 13/07/2014 tarihine kadar ki kira bedelinden sorumlu olacağından bu tarihe kadar ki kira borcu üzerinden davalı- karşı davacının itirazının iptaline karar vermek gerekirken bu tarihi aşar şekilde kiracının Temmuz 2014 ayı kira bedelinin tamamından sorumlu tutulması doğru değildir.
+
+Hüküm bu nedenle bozulmalıdır.
+
+SONUÇ: Yukarıda (1) nolu bentte açıklanan nedenlerle karşı davaya ilişkin temyiz itirazlarının reddiyle karşı davaya ilişkin hükmün ONANMASINA, yukarıda (2) nolu bentte açıklanan nedenlerle asıl davaya ilişkin temyiz itirazlarının kabulü ile 6100 sayılı HMK.ya 6217 Sayılı Kanunla eklenen geçici 3.madde hükmü gözetilerek HUMK.nın 428.maddesi uyarınca asıl davaya ilişkin hükmün BOZULMASINA ve onanan kısım için aşağıda yazılı temyiz giderinin temyiz edene iadesine 06/06/2016 tarihinde oybirliğiyle karar verildi.
+
+YARGITAY 3. HUKUK DAİRESİ 
+Esas : 2015/15722 Karar : 2016/8856Tarih : 2.06.2016
+
+HMK 201. Madde
+
+Senede Karşı Tanıkla İspat Yasağı
+
+Davacı vekili dilekçesinde; müvekkili olan davacının, kendisine ait dubleks villayı, davalıya tapu yolu ile devrettiğini, 
+taraflar arasında düzenlenmiş bulunan sözleşme gereğince devri yapılan taşınmazın hacizlerinin kaldırılarak satılması halinde davalının, alacağı olan 190.000 TL’yi alarak fazlasını davacıya iade edeceğini, sözleşme gereğince devir işlerinin yapıldığı ve hacizlerin kaldırılarak, davalı tarafça taşınmazın 220.000 TL’ye satıldığı halde sözleşmeye göre davacıya iade edilmesi gereken 30.000 TL’nin iade edilmediğini beyan ederek, fazlaya ilişkin haklar saklı kalmak kaydı ile şimdilik 10.000 TL`nin yasal faizi ile birlikte davalıdan tahsiline karar verilmesini talep ve dava etmiştir.
+
+Davalı vekili cevap dilekçesinde; davacının sözleşmede belirtilen edimlerini yerine getirmediğini, sözleşme gereği davacı tarafa 31.08.2006 tarihine kadar taşınmazı satması için süre verildiği halde, bu süre sonuna kadar taşınmazı satmadığı gibi, satılmasına da engel olduğunu, davacıya verilen sürenin dolmasından itibaren 6 ay sonra, taşınmazın davalı tarafından 140.000 Dolar bedel ile satıldığını, taşınmaz için pek çok masraf yaptığını, bu nedenle de zarara uğradığını beyan ederek, davanın reddine karar verilmesini dilemiştir.
+
+Mahkemece; ıslah edilmiş davanın kısmen kabulü ile, 6008,94 TL`nin 17.12.2010 tarihinden itibaren yasal faizi ile birlikte davalıdan tahsiline karar verilmiş, verilen bu hüküm süresi içinde taraf vekilleri tarafından temyiz edilmiştir.
+
+Uyuşmazlığın çözümünde öncelikle, ispat hukuku yönünden geçerli kuralların neler olduğu ve bu kuralların somut olayda tarafların kardeş olmaları nedeniyle, ne şekilde uygulanması gerektiği irdelenmelidir; HMK`nun 200. maddesinde, miktar ve değeri belli bir miktarın üzerinde olan hukuki işlemlerin senetle ispat edilmesi gerektiği, aynı kanunun 201. maddesinde de, senede bağlı her çeşit iddiaya karşı ileri sürülen ve senedin hüküm ve kuvvetini ortadan kaldıracak veya azaltacak nitelikte bulunan hukuki işlemlerin tanıkla ispat edilemeyeceği hüküm altına alınmış, yine aynı kanunun 203. maddesinde de, senetle ispat zorunluluğunun istisnaları belirtilmiştir.
+
+Kardeşler arasındaki hukuki işlemler, miktar ve değerine bakılmaksızın tanıkla ispat edilebilir.
+
+Yakın hısımlar arasındaki bir hukuki işlem senede bağlanmış ise, bu senede karşı ileri sürülecek savunmalar tanıkla ispat edilemez ancak senet ile ispat edilebilir. Senedin taraflarının mirasçıları (küllü halefiyet nedeniyle) kural olarak taraf kavramına dahildir. Bu nedenle, mirasçı, mirasbırakanın taraf bulunduğu bir senede karşı ileri sürdüğü iddiayı tanıkla ispat edemez. Ancak, senet ile ispat edebilir. Senetle ispatı gereken hususlarda karşı tarafın açık muvafakati halinde tanık dinlenebilir.
+
+Bu ilkeler ışığında, somut olaya dönecek olursak; eldeki davada taraflar kardeş iseler de, davacı ve davalının aralarında gerçekleşen ve de dava konusu olayı teşkil eden ilişkiyi yazılı bir sözleşme ile düzenledikleri, yazılı bir belgeye bağlanmış ilişkinin, tanık ile ispat edilemeyeceği, kaldı ki, davacı tarafın ispat etmek istediği hukuki ilişkinin davacı ve davalı arasında olmayıp, davalı ile 3. kişi arasında bulunduğu, bu nedenlerle eldeki davada tanık dinlenmesinin mümkün bulunmadığı anlaşılmıştır.
+
+Hal böyle olunca, mahkemece; dava konusu taşınmazın gerçek satış bedelinin, bilirkişi raporunda davalının kabul ettiği satış bedelinin altında olması nedeni ile, davalı tarafın cevap dilekçesinde 3.kişiye satış bedeli olarak bildirdiği bedel esas alınmak suretiyle yapılacak hesaplama neticesinde hasıl olacak sonuca göre bir karar verilmesi gerekirken, yukarıdaki ilkelere aykırı, taşınmazın satış bedeline ilişkin tanık beyanları esas alınmak suretiyle hüküm tesis edilmesi doğru görülmemiş, bozmayı gerektirmiştir.
+
+SONUÇ: Yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün   BOZULMASINA,    oyçokluğu ile karar verildi.
+
+KARŞI OY
+
+Davada; kardeş olan taraflar arasında, davacıya ait taşınmaz üzerindeki hacizlerin davalı tarafından kaldırılarak taşınmazın satılması, satım bedelinin davalının toplam alacağı 190.000 TL’yi aşması halinde fazlasının iade edilmesi hususunda sözleşme imzalanmasına ve davalı tarafça taşınmazın 155.00 USD’ye (yaklaşık olarak 220.000 TL’ye) satılmış olmasına rağmen; bakiyesi olan 30.000 TL’nin davacıya iade edilmediği ileri sürülerek; fazlaya ilişkin hakları saklı kalmak üzere, 10.000 TL`nin yasal faizi ile birlikte davalıdan tahsili istenilmiştir.
+
+Davalı taraf; sözleşmeyi ve içeriğini kabul etmekle birlikte, taşınmazın iddia edildiği gibi 155.000 USD’ye değil, 140.000 USD`ye satıldığını; ayrıca, masrafları olduğunu belirterek; davanın reddini istemiştir.
+
+Mahkemece; “… tapu kaydına, tanık beyanlarına, keşfe, taraflar adına verilen dilekçelerin içeriklerine ve veren taraf yönünden etkisine, taraflar arasında ihtilafsız olan sözleşme içeriğine, bilirkişi rapor ve ek raporuna ve tüm dosya kapsamına göre dava konusu taşınmazın 153.000 USD bedelle satılmış olduğu ve bunun satış tarihindeki karşılığının 211.855,10 TL olup, bu miktardan sözleşme gereği 190.000 TL mahsup edildiğinde kalan miktarın 21.859.10 TL olduğu ve bundan da davalının sözleşme nedeniyle davacı adına yaptığı ödeme ve masraflar düşüldüğünde kalan miktarın 16.008.94 TL olduğu ve bundan da yukarıda açıklanan eşya bedeli 10.000 TL mahsup edildiğinde taraflar arasındaki ihtilafsız sözleşme ve buna bağlı ilişkiler bütününe göre davalı tarafın sebepsiz zenginleşip davacıya iade etmesi gereken bedelin 6.008.94 TL olduğu, gerekçesiyle” ıslah edilmiş davanın kısmen kabulü ile 6.008,94 TL`nin 17.12.2010 dava tarihinden itibaren yasal faizi ile birlikte davalıdan tahsiline karar verilmiş; hüküm taraf vekillerince süresinde temyiz edilmiştir.
+
+Dairemizce yapılan temyiz incelemesi sonucunda, çoğunluk görüşü ile; dava konusu uyuşmazlıkta tanık dinlenemeyeceği zira, tarafların kardeş olmalarına rağmen dava konusu olayı teşkil eden ilişkiyi yazılı bir sözleşme ile düzenledikleri, yazılı bir belgeye bağlanmış ilişkinin tanık ile ispat edilemeyeceği; kaldı ki, davacı tarafın ispat etmek istediği hukuki ilişkinin davacı ve davalı arasında olmayıp, davalı ile 3. kişi arasında bulunduğu, bu nedenlerle eldeki davada tanık dinlenilmesinin mümkün bulunmadığı belirtilerek; davalının satış bedeli olarak bildirdiği bedel esas alınmak suretiyle yapılacak hesaplamaya göre karar verilmesinin gerektiğinden bahisle, mahkeme kararı bozulmuştur.
+
+Tarafların kardeş oldukları ve üzerinde hacizler bulunan davacıya ait taşınmazın davalı tarafından hacizlerin kaldırılmasından sonra satılması hususunda yazılı anlaşma yapıldığı ve anlaşma gereğince davanın konusunu teşkil eden taşınmazın satıldığı hususunda taraflar arasında bir uyuşmazlık bulunmamaktadır. Uyuşmazlık, sözleşmeye konu taşınmazın, davalı tarafından dava dışı kişiye satılması sonucu elde edilen paranın miktarına ilişkin bulunmaktadır. Davacı, taşınmazın resmi senette satış bedeli olarak gösterilen miktarla satılmadığını, gerçekte 155.000 USD bedelle satıldığını iddia etmektedir. Dolayısıyla, davacı, davalı ile satın alan kişi arasında muvazaalı işlem yapıldığını ileri sürmektedir. HMK.`nun 203. maddesinde; senetle ispat zorunluluğunun istisnaları sayılmış bulunmaktadır. Maddenin (d) bendine göre; “ Hukuki işlemlere ve senetlere karşı üçüncü kişilerin muvazaa (TBK m.19) iddiaları ile ilgili olarak tanık dinlenebilir.
+
+Taraflar arasındaki uyuşmazlık, yukarıda da açıklandığı üzere; davalının dava dışı kişi ile yaptığı taşınmaz satışında (muvazalı olarak) bedelin düşük gösterildiği, gerçek bedelin farklı olduğu iddiasına dayalıdır. Davacı, bu hukuki ilişkide 3. kişi konumundadır. Üçüncü kişiler muvazaa iddiasını tanık da dahil olmak üzere her türlü delille ispat edebilirler. Esasen, üçüncü kişiye, tarafı olmadığı bir sözleşmedeki muvazaa olgusunun yazılı delille kanıtlama yükümü getirilmesine hukuken olanak da yoktur. (Hukuk Genel Kurulu’nun 02.10.2002 gün ve … K: 2012/618 sayılı ilamları). Bu nedenle, davacı gerçek satış bedelinin miktarını tanıkla ispatlayabilir. Davacı taraf, bu amaçla taşınmazı satın alan kişiyi tanık olarak dinletmiş bulunmaktadır. Tanık yeminli beyanında, taşınmazı 155.000 USD`ye satın aldığını ifade etmiştir. Bu durumda, mahkemece; tüm dosya kapsamı ve bilirkişi raporu doğrultusunda davanın kısmen kabul edilmesinde bir isabetsizlik bulunmamaktadır. Bizce, usul ve yasaya uygun bulunan mahkeme kararın onanması gerekmektedir.
+
+Açıkladığımız gerekçelerle, çoğunluğun bozma gerekçelerine katılmadığımıza ilişkin karşı oyumuzdur. 02.06.2016
+
+YARGITAY 19. HUKUK DAİRESİ 
+Esas : 2015/2593 Karar : 2015/17311Tarih : 21.12.2015
+
+HMK 201. Madde
+
+Senede Karşı Tanıkla İspat Yasağı
+
+Davacı vekili, müvekkili aleyhine davalı yanca “26.09.2012 ve 27.12.2011 tarihli araç satışından doğan bakiye alacak” sebebine dayalı olarak icra takibine girişildiğini, 
+aksi yazılı bir şekilde kararlaştırılmadığı müddetçe satım sözleşmelerinde tarafların borçlarını aynı andan ifa etmekle yükümlü olduğunu, 
+bu bağlamda müvekkili tarafından davalı şirkete araç satımı ile ilgili olarak satış bedelinin tamamının ödendiğini, akabinde araçların resmi devrinin gerçekleştiğini, müvekkilinin bakiye borcunun bulunmadığını, ispat yükünün davalıda olduğunu ileri sürerek icra takibinden dolayı borçlu olunmadığının tespitine ve %20 kötü niyet tazminatına karar verilmesin talep ve dava etmiştir.
+
+Davalı vekili, davacının müvekkili şirketten 03.04.2011 ve 04.11.2011 tarihlerinde olmak üzere 2 adet araç satın aldığını, buna ilişkin olarak satış sözleşmesinin imzalandığını, satıma dayalı olarak düzenlenen faturalardan kaynaklı bakiye borcun ödenmediğini, ispat yükünün davacıda olduğunu belirterek davanın reddine ve %20 tazminata karar verilmesini istemiştir.
+
+Mahkemece yapılan yargılama ve toplanan deliller sonucunda; 
+Davacı yanca akdi ilişkinin kabul edilip, borcun araç teslimi esnasında ödendiği iddia edildiğinden ispat yükünün davacı üzerinde olduğu, bakiye borcun ödendiğinin yazılı delillerle ispatlanamadığı gerekçesiyle davanın reddine karar verilmiş,
+
+hüküm davacı vekilince temyiz edilmiştir.
+
+Dava, araç satımından kaynaklı bakiye alacağın tahsili için girişilen icra takibinden dolayı menfi tespit istemine ilişkindir.
+
+Davalı satıcı tarafından davacıya dava konusu satıma konu araçların satışının yapılarak trafikte davacı adına tescilinin yapıldığı konusunda ihtilaf bulunmamaktadır.
+
+Uyuşmazlık satımdan kaynaklı bakiye alacağın olup olmadığı noktasında toplanmaktadır.
+
+Davacı satım semeninin tamamen ödendiğini iddia etmiş, davalı ise bakiye borcun ödenmediğini savunmuştur.
+
+Kural olarak, aslolan peşin satış olup, BK. 182/2. (6098 sayılı TBK. m. 207) maddesi uyarınca aksine adet ya da sözleşme mevcut değil ise satıcı ve alıcı borçları aynı zamanda ifa etmekle mükelleftirler.
+
+Somut olayda, satış sözleşmesi başlıklı belgenin açıklama kısmında “..hesap kapatılmadan araç teslimi yapılmayacaktır.” şeklinde ifadenin mevcut olmasına ve satıma konu araçların davacı alıcı adına tescilinin yapılmış olmasına göre satım bedelinin ödendiğini kabulü gerekir. Bu karinenin aksinin savunan davalı satıcının bu iddiasını HUMK`nun 290. (6100 sayılı HMK. m. 201) maddesi uyarınca yazılı delille kanıtlamakla yükümlüdür.
+
+O halde mahkemece davada ispat yükünün tayininde yanılgıya düşülmüş olması bozmayı gerektirmiştir.
+
+Yukarıda açıklanan nedenlerle davacı vekilinin temyiz itirazların kabulü ile hükmün ( BOZULMASINA ), oybirliğiyle karar verildi.
+
+YARGITAY 6. HUKUK DAİRESİ 
+Esas : 2013/6201 Karar : 2014/983Tarih : 28.01.2014
+
+HMK 201. Madde
+
+Senede Karşı Tanıkla İspat Yasağı
+
+Dava, ödenmeyen kira paralarının tahsili amacıyla başlatılan icra takibine vaki itirazın iptali ve takibin devamı istemine ilişkindir.
+
+Mahkemece, itirazın iptali isteminin ve davalı lehine icra tazminatı istemlerinin reddine karar verilmesi üzerine,
+
+hüküm davacı vekili tarafından temyiz edilmiş,davalı vekili karşı temyiz isteminde bulunmuştur.
+
+Davacı vekili, dava dilekçesinde, davacıya ait İ… F… C… AVM’deki 4 ve 5 nolu mağaza ve deponun 01.04.2005 başlangıç tarihli ve 7 yıl süreli kira sözleşmesi ile kiralandığını,davalının kiralananı 31.03.2011 tarihinde tahliye edeceğini bildirmesine rağmen tahliye ve anahtar teslimi olmadığını, bu nedenle davacının 4 aylık kira faturası tanzim ettiğini ancak faturaların ödenmemesi üzerine tahsili amacıyla başlatılan icra takibine davalının haksız olduğunu belirterek itirazının iptali ile takibin devamına, alacağın % 40` ından aşağı olmamak üzere icra tazminatına karar verilmesini istemiştir.
+
+Davalı vekili, cevap dilekçesinde,kiralananın 31.03.2011 tarihinde tahliye edileceğinin davacıya bildirilmesi üzerine taşınmazın 27.3.2011 de tahliye edildiğini ve anahtarın davacı tarafa 28.03.2011 de teslim edildiğini, bu nedenle borç olmadığını belirterek davanın reddini ve davalı lehine icra tazminatı verilmesini savunmuştur. Mahkemece,davalının kiralananı 27.03.2011 tarihi itibariyle tahliye ettiği kabul edilerek davanın reddine karar verilmiştir.
+
+Kiralananın tahliye edildiğinin (kiracının kiralananı iade borcunu yerine getirdiğinin) kabul edilebilmesi için, kiralananın fiilen boşaltılması yeterli değildir. Anahtarın da kiralayana teslim edilmesi gerekir. Kiracının bildirdiği tahliye tarihinin kiralayan tarafından kabul edilmemesi; başka bir ifadeyle, tahliye tarihinin taraflar arasında çekişmeli olması halinde; kiralananın fiilen boşaltıldığını ve anahtarın teslim edildiğini, böylece kira ilişkisinin kendisince ileri sürülen tarihte hukuken sona erdirildiğini kanıtlama yükümlülüğü, kiracıya aittir.
+
+Kiracı, kiralananı kendisinin ileri sürdüğü tarihte tahliye ettiğini ispatlayamazsa, kiralayanın bildirdiği tahliye tarihine itibar olunmalıdır.
+
+Anahtarın kiralayana teslimi, hukuki işlemin içerisinde yer alan bir maddi vakıa olmakla birlikte, sözleşmenin feshine yönelik bir hukuki sonuç doğurduğundan, bunun ne şekilde ispat edileceği hususu, yıllık kira bedelinin tutarı esas alınmak suretiyle, 1.10.2011 tarihinde yürürlüğe giren 6100 sayılı HMK`nın 200 ve 201.maddeleri çerçevesinde değerlendirilmelidir. 
+Eş söyleyişle, yıllık kira bedelinin tutarı senetle ispat sınırının üzerindeyse ve kiralayanın açık muvafakati yoksa bu yön kiracı tarafından ancak yazılı delille ispatlanabilir; tanık dinlenemez. 
+Kiralayan anahtarı almaktan kaçınırsa, kiracının yapması gereken, mahkemeden bu yolda tevdi mahalli tayinini isteyip, tayin edilecek yere anahtarı teslim etmek ve durumu kiralayana bildirmektir. Kiracının kiralananı iade borcu, ancak bu şekilde, durumun kiralayana bildirildiği tarihte son bulur. Aksi takdirde, kiracının, kira parasını ödemek de dahil olmak üzere, sözleşmeden kaynaklanan yükümlülükleri devam eder.
+
+Taraflar arasında düzenlenen 01.04.2005 başlangıç tarihli ve bir yıl süreli kira sözleşmesi konusunda bir uyuşmazlık yoktur.
+
+Davacı, 28.07.2011 tarihinde başlatmış olduğu icra takibinde, 2011 yılı 4-5-6 ve 7.aylar kira paralarının tahsilini istemiş, davalı itirazında kiralananı 31.03.2011 tarihi itibariyle tahliye ettiğini, kira borcu bulunmadığını bildirmiştir. 
+Kiralananın tahliye edilerek anahtarın kiralayana teslim edildiğini davalının yazılı belge ile kanıtlaması gerekir. Davalı kiracı anahtar teslimini yazılı belge ile kanıtlayamamış ise de delilleri arasında “bilcümle yasal delil ibaresi bulunmakta olup,bu ibareden yemin deliline de dayanıldığı anlaşıldığından, mahkemece davalıya yemin teklif etme hakkı bulunduğu hatırlatılarak hasıl olacak sonuca göre bir karar verilmesi gerekirken, yazılı gerekçeyle davanın reddine karar verilmesi doğru değildir.
+
+Hüküm bu nedenle bozulmalıdır.
+
+Yukarıda açıklanan nedenlerle temyiz itirazlarının kabulü hükmün ( BOZULMASINA ), bozma nedenine göre davalı vekilinin karşı temyiz isteminin incelenmesine yer olmadığına, istek halinde peşin alınan temyiz harcının temyiz edene iadesine, oybirliğiyle karar verildi.
+
+YARGITAY 3. HUKUK DAİRESİ
+Esas: 2015/600 Karar: 2015/2631Tarih: 19.02.2015
+
+HMK 201. Madde
+
+Senede Karşı Tanıkla İspat Yasağı
+
+Davacı vekili dava dilekçesinde; tarafların 19.10.2010 tarihinde boşandıklarını, 22.9.1991 tarihli çeyiz senedine konu çeyiz eşyası ile 300 gram 22 ayar altının çeyiz olarak getirildiğini, senette boşanma halinde senedin işleme konacağı ve rayiç bedeller üzerinden ödeme yapılacağının hükme bağlandığını belirterek, senette belirtilen çeyiz ve ziynet eşyalarının rayiç bedeli olan 35.000,00.TL’nin dava tarihinden itibaren faiziyle davalılardan alınarak, müvekkiline verilmesini istemiştir.
+
+Davalı beyanında; 22.9.1991 tarihli çeyiz senedinin doğru olduğunu, senet altında bulunan imzanın tarafına ait olduğunu; evden ayrılırken eşyaların müşterek hanede kaldığını ileri sürerek, davanın reddini istemiştir.
+
+Mahkemece, ispatlanamayan davanın reddine karar verilmiş, hüküm davacı vekili tarafından temyiz edilmiştir.
+
+4721 Sayılı Türk Medeni Kanunu’nun 6. maddesi uyarınca; kanunda aksine bir hüküm bulunmadıkça, taraflardan her biri hakkını dayandırdığı olguların varlığını kanıtlamakla yükümlüdür. İspat yükü, iddia edilen vakıaya bağlanan hukuki sonuçtan kendi lehine hak çıkaran tarafa aittir. ( H.M.K.md.190 )
+
+Sözleşme hukuku kurallarına göre; davalı, iade edilmemek üzere söz konusu ziynet eşyalarının kendisine verildiğini kanıtlamadıkça iade ve tazminle mükelleftir. ( HGK’nun 28.1.2004 tarih ve 2004/13-73 E.-2004/29 Sayılı kararı )
+
+Somut olayda; davacı taleplerini, taraflarca ve tanıklarca imzalanan 22.9.1991 tarihli çeyiz senedine dayandırmış olup, davalıda bu belgeyi teslim alan sıfatıyla imzalamıştır. 6100 Sayılı H.M.K.nun 201. maddesi hükmü uyarınca ( 1086 Sayılı H.U.M.K.nın 290 md. ) senede bağlı her çeşit iddiaya karşı ileri sürülen ve senedin hüküm ve kuvvetini ortadan kaldıracak veya azaltacak nitelikte bulunan hukuki işlemlerin tanıkla ispatı mümkün olmayıp, ancak aynı kuvvette bir belgeyle kanıtlanması gerekir.
+
+Bu durumda, 22.9.1991 tarihli çeyiz senedini teslim alan sıfatıyla imzalayan davalı, çeyiz senedinde belirtilen eşyaları davacıya teslim ettiğine dair bir belge dosyaya ibraz etmediği müddetçe, çeyiz eşyalarını davacıya teslim borcundan kurtulamayacaktır. Olayımızda, ispat yükü davalı tarafa düşmekte olup, davalı çeyiz ve ziynetlerin davacı tarafa iade edildiğini kanıtlayamamıştır.
+
+Hal böyleyken mahkemece, davalı aleyhine açılan ziynet ve çeyiz eşyalarına yönelik davanın kabulüne karar verilmesi gerekirken, delillerin yanılgılı değerlendirilmesi sonucunda yazılı şekilde hüküm tesisi hatalı olup, bu husus bozmayı gerektirmiştir.
+
+SONUÇ : Yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu sebeplerle yerinde olduğundan kabulüyle hükmün 428. maddesi gereğince BOZULMASINA ve peşin alınan temyiz harcının istenmesi halinde temyiz edene iadesine, 19.02.2015 tarihinde oybirliğiyle karar verildi.
+
+UYARI

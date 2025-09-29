@@ -1,0 +1,57 @@
+HAGB Düşme Kararının Müsadereye Etkisi Nedir?
+
+HAGB Düşme Kararının Müsadereye Etkisi Emsal Karar
+
+HAGB Düşme Kararıyla Birlikte Müsadere Yerine Teminatın İadesi
+
+Hükmün Açıklanmasının Geri Bırakılması ve Müsadereye Karar Verilebilmesi Şartları
+
+Hükmün açıklanmasının geri bırakılması,müsadereye ilişkin hükümler hariç, kurulan hükmün sanık hakkında bir hukukî sonuç doğurmamasını ifade eder (CMK 231/5).
+
+02.03.2024 tarihinde yapılan kanuni düzenleme gereği, eşya veya kazanç müsaderesine ilişkin HAGB kararları doğrudan infaz edilebilecektir. HAGB kararı kesinleştikten sonra askıda kalırken, hükmün müsadereye ilişkin bölümü HAGB kararının kesinleşmesiyle birlikte infaz edilebilecektir.
+
+Yapılan yeni kanuni düzenleme karşısında aşağıdaki emsal kararların hukuki bir değeri kalmamıştır.
+
+(Y8CD-K.2020/10958)
+
+Müsadereye konu silahın, hüküm tarihi itibariyle piyasa değerine göre temyiz kapsamında kaldığı kabul edilerek yapılan incelemede,
+
+Sanık hakkında kurulan mahkumiyet hükmünün hukuki bir sonuç doğurmamasını ifade edenhükmün açıklanmasının geri bırakılması, esas itibariyle bünyesinde iki karar barındıran bir kurumdur. İlk karar teknik anlamda hüküm sayılan, ancak açıklanmasının geri bırakılmasına karar verilmesi nedeniyle hukuken varlık kazanamayan bu nedenle hüküm ifade etmeyen, şartlara uyulması halinde düşme hükmüne dönüşecek, şartlara uyulmaması halinde ise varlık kazanacak olanmahkumiyet hükmü, ikinci karar ise, bu ön hükmün üzerine inşa edilen ve önceki hükmün varlık kazanmasını engelleyen hükmün açıklanmasının geri bırakılması kararıdır. Bu ikinci kararın en temel ve belirgin özelliği, varlığı devam ettiği sürece, ön hükmün hukuken sonuç doğurma özelliği kazanamamasıdır.
+
+Müsadereye hükmedilebilmesi için bir suçun işlenmesi zorunlu olmakla birlikte bu suçtan dolayı bir kimsenin mahkum edilmesi gerekmemektedir. Ancak, bir cezai sonuç olan güvenlik tedbirlerinin uygulanabilmesi için bir suçun işlenmiş olmasının gerektiğinde kuşku yoktur. Bir suçun işlendiğinin kabul edilmesi de, hiç şüphesiz hukuk devletinde mahkemenin bu konuda bir karar vermiş olmasına bağlıdır.
+
+Eşya müsaderesi, birgüvenlik tedbiriolup CMK.nın 223/1. maddesi gereğince güvenlik tedbirine hükmedilmesinin de hüküm niteliğinde bulunduğu gözönüne alınarak, müsadereye ilişkin kısmın da açıklanması geri bırakılan hükmün içinde yer alması gerekir.
+
+Müsadere kararıgüvenlik tedbiri olmakla birlikte hükmün bir parçası niteliğinde olup, hükmün açıklanmasının geri bırakılması kararı ile birlikte verilen müsadere kararı da bu hükme bağlı olduğundan askıda bir karardır ve hüküm açıklanıncaya kadar hukuki sonuç doğurma yeteneği bulunmamaktadır.
+
+Hükmün açıklanmasının geri bırakılması kararı CMK.nın 231/12. maddesi uyarınca itiraza tabi olup, temyizi mümkün bulunmadığından hükmün açıklanmasının geri bırakılması kararları içinde verilen müsadere kararlarının da asıl hükmün tabi olduğu kanun yoluna yaniitirazyoluna tabidir. Başka bir anlatımla hükmün bir sonucu olan müsadere kararı da, açıklanması geri bırakılan hükümle birlikte açıklanır ve açıklanan hükmün kanun yoluna tabidir. Açıklanan karar istinafa tabi ise, müsadere kararı da açıklanan hüküm ile birlikteistinafincelemesine tabi olacaktır.
+
+Denetim süresi içinde suç işlenmemesi ya da yükümlülüklere uyulması nedeniyle verilecek düşme kararıyla birlikte hükmün açıklanmasının geri bırakılmasına dair kararın bütün hüküm ve sonuçları ile ortadan kalkacağı gözetildiğinde, düşme kararı ile birlikte suçta kullanılan eşyanın akıbeti hakkında da yeniden bir karar verilmesi gerekir.
+
+Düşme kararı, CMK.nın 223/8. maddesinde “Türk Ceza Kanununda öngörülen düşme sebeplerinin varlığı ya dasoruşturmaveyakovuşturmaşartının gerçekleşmeyeceğinin anlaşılması halinde davanın düşmesine karar verilir.” şeklinde tanımlanmıştır. Sanığın CMK.nın 231/8. maddesinde düzenlenen 5 yıllık denetim içerisinde suç işlememesi ya da yükümlülükleri yerine getirmesi, kovuşturmanın devamına engel olmakla bu husus bir kovuşturma şartına dönüşmektedir. Bu durumda CMK.nın 231/10. maddesine göre verilecek düşme kararı da aynı Kanunun 223/8. maddesi kapsamında değerlendirilmelidir. Bu niteliği itibariyle düşme kararı, sanık ile devlet arasındaki cezai nitelikteki ilişkiyi sona erdiren nedenlerden birisini oluşturmaktadır (CGK 2014/6 – 66 E, 2014/365 K). Dolayısıyla hakkında düşme kararı verilen kimsenin hukuk düzeni açısından hüküm giymiş gibi kabul edilerek bir suç işlediği gerekçesiyle hakkında doğrudan ceza (hapis veya adli para cezası) olmasa da güvenlik tedbiri biçiminde cezai sonuçlar da uygulanması mümkün değildir.
+
+Yukarıda belirtildiği üzere bir güvenlik tedbiri olan müsaderenin uygulanabilmesi için kişinin suç işlediğinin kesinleşen bir mahkeme kararı ile ortaya konulması gerekir. Nitekim Ceza Genel Kurulunun 2009/7 – 96 E, 2009/188 K sayılı kararında da, sanıklardan ele geçirilen ve bizatihi müsadereye tabi olmayan eşyaların müsaderesine karar verilebilmesi için öncelikle işledikleri eylemlerin suç teşkil etmesinin gerekli olduğu vurgulanmıştır.
+
+Sonuç olarak açıklanması geri bırakılan hükmün, suç işlenmeden ya da yükümlülüklere uygun şekilde tamamlanan denetim süresi sonunda CMK.nın 231/10. ve 223/8. maddeleri uyarınca ortadan kaldırılarak verilen davanın düşmesine dair karar, kişinin suç işlediğini ortaya koyan ve hukuki açıdan sonuç doğurmaya elverişli (yani kesinleşmiş) bir mahkeme hükmü niteliğinde bulunmadığından güvenlik tedbiri olan müsaderenin uygulanmasının mümkün bulunmadığı gözetilmeden emanete kayıtlı silahın , idareye teslimi yerine yazılı şekilde suçta kullanıldığından bahisle müsadere kararı verilmesi bozma nedenidir.
+
+(Y7CD-K.2020/1495)
+
+Müsadere olunan nakil aracı hakkında düşme kararının gereği olarak aracın iadesine, araç teminat ile iade edilmişse yatırılan teminatın iadesine karar verilmesi gerekirken aracın müsaderesine karar verilmesi, bozma nedenidir.
+
+(Y7CD-K.2016/10849)
+
+Müsadere olunan nakil aracı hakkında ise düşme kararının gereği olarak iade kararı verilmesi gerekirken “kaçak eşyanın naklinde kullanılan … plakalı aracın müsadere edilmesi halinde TCK’nun 54/3.maddesi gereğince hakkaniyete aykırı olacağının anlaşılması nedeniyle müsaderesine yer olmadığına” gerekçesiyle müsaderesine yer olmadığına karar verilmesi, bozma nedenidir.
+
+(Y7CD-K.2018/9466)
+
+Müsadere olunan nakil aracı hakkında ise düşme kararının gereği olarak aracın iadesine, araç teminat ile iade edilmişse yatırılan teminatın iadesine karar verilmesi gerekirken “kaçak eşyanın naklinde kullanılan THR 73219 plakalı aracın müsadere edilmesi halinde TCK’nun 54/3. maddesi gereğince hakkaniyete aykırı olacağının anlaşılması” gerekçesiyle müsaderesine yer olmadığına karar verilmesi, bozma nedenidir.
+
+(Y4CD-K.2022/12503)
+
+Denetim süresi içinde suç işlenmemesi ya da yükümlülüklere uyulması nedeniyle verilecek düşme kararıyla birlikte hükmün açıklanmasının geri bırakılmasına dair kararın bütün hüküm ve sonuçları ile ortadan kalkacağı gözetildiğinde, verilecek düşme kararı ile birlikte suçta kullanılan eşyanın akıbeti hakkında da yeniden bir karar verilmesi gerekir.
+
+Düşme kararı, CMK.nın 223/8. maddesinde “Türk Ceza Kanununda öngörülen düşme sebeplerinin varlığı ya da soruşturma veya kovuşturma şartının gerçekleşmeyeceğinin anlaşılması halinde davanın düşmesine karar verilir.” şeklinde tanımlanmıştır. Sanığın CMK.nın 231/8. maddesinde düzenlenen 5 yıllık denetim içerisinde suç işlememesi ya da yükümlülükleri yerine getirmesi, kovuşturmanın devamına engel olmakla bu husus bir kovuşturma şartına dönüşmektedir. Bu durumda CMK.nın 231/10. maddesine göre verilecek düşme kararı da aynı Kanunun 223/8. maddesi kapsamında değerlendirilmelidir. Bu niteliği itibariyle düşme kararı, sanık ile devlet arasındaki cezai nitelikteki ilişkiyi sona erdiren nedenlerden birisini oluşturmaktadır. Dolayısıyla hakkında düşme kararı verilen kimsenin hukuk düzeni açısından hüküm giymiş gibi kabul edilerek bir suç işlediği gerekçesiyle hakkında doğrudan ceza (hapis veya adli para cezası) olmasa da güvenlik tedbiri biçiminde cezai sonuçlar da uygulanması mümkün değildir.
+
+Yukarıda belirtildiği üzere bir güvenlik tedbiri olan müsaderenin uygulanabilmesi için kişinin suç işlediğinin kesinleşen bir mahkeme kararı ile ortaya konulması gerekir. Nitekim Ceza Genel Kurulunun 2009/7 – 96 Esas, 2009/188 Karar sayılı kararında da, sanıklardan ele geçirilen ve bizatihi müsadereye tabi olmayan eşyaların müsaderesine karar verilebilmesi için öncelikle işledikleri eylemlerin suç teşkil etmesinin gerekli olduğu vurgulanmıştır.
+
+UYARI

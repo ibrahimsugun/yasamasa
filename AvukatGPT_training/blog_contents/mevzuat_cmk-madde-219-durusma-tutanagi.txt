@@ -1,0 +1,391 @@
+Duruşma Tutanağı
+
+CMK Madde 219
+
+CMK Madde 219 Gerekçesi
+
+CMK 219 (Duruşma Tutanağı) Emsal Yargıtay Kararları
+
+(1) Duruşma için tutanak tutulur. Tutanak, mahkeme başkanı veya hâkim ile zabıt kâtibi tarafından imzalanır. Duruşmada yapılan işlemlerin teknik araçlarla kayda alınması halinde, bu kayıtlar vakit geçirilmeksizin yazılı tutanağa dönüştürülerek mahkeme başkanı veya hâkim ile zabıt kâtibi tarafından imzalanır.
+
+(2) Mahkeme başkanının mazereti bulunursa tutanak, üyelerin en kıdemlisi tarafından imzalanır.
+
+Duruşmada yapılan işlemleri belgelemek üzere bir tutanak tutulması gereklidir. 228 ilâ 231 inci maddeler sırasıyla duruşma tutanağını, içereceği hususları ve duruşma tutanağının ispat gücünü düzenlemektedir.
+
+Teknolojideki gelişmelerden duruşmalarda da yararlanılmasını sağlamak için, mahkemece gerekli görüldüğünde bu hususta teknik araçlardan yararlanılabileceği hükmü getirilmiştir.
+
+Tutanak mahkeme başkanı veya hâkim ile zabıt kâtibi tarafından imzalanacaktır. Toplu mahkemelerde mahkeme başkanının mazeretinin bulunması hâlinde tutanak en kıdemli üye ile zabıt kâtibi tarafından imzalanacaktır.
+
+Teknik araçlardan yararlanılması hâlinde bunlarla yapılan saptamalara göre sonradan düzenlenecek duruşma tutanaklarının, duruşma aşamalarına uygun olduğu mahkeme başkanı veya hâkim ile bu tutanağı düzenleyen zabıt kâtibi tarafından açıkça tutanağa kaydedilerek imzalanacaktır.
+
+YARGITAY 2. CEZA DAİRESİ
+Esas : 2016/9259 Karar : 2018/4568Tarih : 17.04.2018
+
+CMK 219. Madde
+
+Duruşma Tutanağı
+
+Dosya incelenerek gereği düşünüldü;
+
+04/10/2012 tarihinde suça sürüklenen çocuk hakkında verilen hükmün açıklanmasının geri bırakılmasına dair kararın 17/10/2012 tarihinde kesinleştiği, denetim süresi içinde 03/03/2014 tarihinde kasten yeni bir suç işlemesi nedeniyle suça sürüklenen çocuğun yargılanarak mahkumiyetine karar verildiği ve mahkumiyet kararının kesinleştiği belirlenerek yapılan incelemede;
+
+Dosya içeriğine göre diğer temyiz itirazları yerinde görülmemiştir. Ancak;
+
+1-İnşaat alanında duran, etriye denilen inşaat demirlerinin çalınması şeklinde gerçekleşen eylemin, 5237 sayılı TCK’nın 142/1-e. maddesinde düzenlenen suçu oluşturduğu gözetilmeden aynı Kanun’un 141/1. maddesiyle mahkumiyet hükmü kurulması,
+
+2-Suça sürüklenen çocuk kolluk güçleri tarafından başka bir hırsızlık suçu nedeniyle yakalandığında kendiliğinden bu olayı da ikrar ederek henüz müracaatı olmayan müştekiye demirlerin tam olarak iadesini sağladığının anlaşılması karşısında, hırsızlık suçundan kurulan hükümde TCK’nın 168/1. maddesinin uygulanması gerektiğinin gözetilmemesi,
+
+3-05.02.2014 tarihli duruşmada kapalı yargılamaya başlandığı belitilmesine rağmen hükümden önce açık yargılamaya son verildi denilerek çelişkiye neden olunması ve bu şekilde CMK’nın 185/1. maddesine aykırı davranılması,
+
+4-Dava dosyası içerisinde bulunan ve onaysız fotokopi olan bir kısım soruşturma evraklarının aslı veya onaylı örneği getirtilmeden onaysız fotokopisi ile yetinilerek karar verilmesi suretiyle 5271 sayılı CMK’nın 169/2 ve 219. maddesine aykırı davranılması,
+
+Bozmayı gerektirmiş, suça sürüklenen çocuk müdafiinin temyiz itirazları bu itibarla yerinde görülmüş olduğundan hükmün bu sebeplerden dolayı BOZULMASINA, bozma sonrası kurulacak hükümde 1412 sayılı CUMK’un 326/son maddesinin gözetilmesine, 17/04/2018 gününde oybirliğiyle karar verildi.
+
+YARGITAY 16. CEZA DAİRESİ 
+Esas : 2017/3658 Karar : 2018/301 Tarih : 14.02.2018
+
+CMK 219. Madde
+
+Duruşma Tutanağı
+
+Dosya incelenerek gereği düşünüldü:
+
+1-Yargıtay Ceza Genel Kurulu tarafından onanarak kesinleşen Dairemizin İlk Derece mahkemesi sıfatıyla verdiği 24.04.2017 tarih, 2015/3 esas, 2017/3 karar sayılı kararında bylock iletişim sisteminin FETÖ/PDY silahlı terör örgütü mensuplarının kullanmaları amacıyla oluşturulan ve münhasıran bu suç örgütünün bir kısım mensupları tarafından kullanılan bir ağ olması nedeniyle; örgüt talimatı ile bu ağa dahil olduğunun ve gizliliği sağlamak için haberleşme amacıyla kullanıldığının, her türlü şüpheden uzak, kesin kanaate ulaştıracak teknik verilerle tespiti halinde, kişinin örgütle bağlantısını gösteren delil olduğunun kabul edildiği dikkate alınarak, somut dosyada sanığın bylock kullanıcısı olup olmadığının atılı suçun sübutu açısından belirleyici nitelikte olması karşısında; hüküm tarihinden sonra dosya içerisine konulduğu anlaşılan ve sanığın bylock kullanıcısı olduğunu bildiren bylock tespit ve değerlendirme tutanağının CMK’nın 217. maddesi uyarınca duruşmada sanık ve müdafiine okunup savunmalarının tespit edilmesi; anılan belgede belirtilen telefon numarasına ait hat ile ByLock uygulamasına ait IP adreslerine kaç defa bağlanıldığının Bilgi Teknolojileri İletişim Kurumundan sorulması ve ayrıca söz konusu cep telefonunun baz istasyonlarını gösterir HTS kaydı getirtilip karşılaştırılması suretiyle sanığın hukuki durumunun takdir ve tayini gerekirken, eksik araştırma ile yazılı şekilde karar verilmesi,
+
+2-CMK’nın 219. maddesi uyarınca düzenlenen ve anılan madde hükümleri uyarınca düzenlenmesi gereken 03.03.2017 tarihli oturuma dair duruşmada tutanağına göre sanığın SEGBİS aracılığıyla sorgusu yapılmış olmasına rağmen, ses ve görüntü kayıtlarının dönüştürülmesine ilişkin bir tutanağın ya da ses ve görüntü kaydının bulunduğu CD veya başka bir materyalin dosya içerisinde bulunmadığı anlaşıldığından, 03.03.2017 tarihli oturumda SEGBİS ortamına alman kayıtlarının dosya içerisinde olmaması,
+
+Kanuna aykırı, sanık müdafiinin temyiz itirazları bu itibarla yerinde görülmüş olduğundan, hükmün bu sebeplerden dolayı BOZULMASINA, ceza miktarı ve tutuklulukta geçirilen süre dikkate alınarak sanık müdafiinin tahliye talebinin reddine, 14.02.2018 tarihinde oybirliğiyle karar verildi.
+
+YARGITAY 1. CEZA DAİRESİ 
+Esas : 2016/4111 Karar : 2018/203Tarih : 24.01.2018
+
+CMK 219. Madde
+
+Duruşma Tutanağı
+
+Mahalli mahkemece verilen hükmün 5271 sayılı CMK`nun 35/2, 260, 6284 sayılı Yasanın 2/1-d ve 20/2. maddeleri gözetilerek Aile ve Sosyal Politikalar Bakanlığına tebliği üzerine, anılan kurum vekili tarafından da temyiz edildiği anlaşılmakla, dosya incelenerek gereği düşünüldü:
+
+1- UYAP sisteminden alınan güncel nüfus kayıt örneğine göre,  sanık …`un 12/09/2017 tarihinde öldüğü anlaşılmakla, sanık hakkında açılan kamu davasının TCK.nun 64/1. maddesi uyarınca düşürülmesinde zorunluluk bulunması,
+
+2- Sanık … hakkında; maktule …‘u nitelikli kasten öldürme, 
+sanıklar …, …, … ve … hakkında; maktule …`u nitelikli kasten öldürmeye azmettirme suçlarından açılan kamu davalarında, 
+6284 sayılı Yasanın 2/1-d ve 20/2. maddeleri uyarınca Aile ve Sosyal Politikalar Bakanlığının bu suçların zarar göreni olduğu, bu sıfatının gereği olarak CMK’nun 233 ve 234. maddeleri gereğince kovuşturma evresinde sahip olduğu davaya katılma ve öteki haklarını kullanabilmesi için duruşmadan haberdar edilmesi gerektiği halde, usulen dava ve duruşmalar bildirilmeden, davaya katılma ve CMUK’nun mağdur ve katılanlar için öngördüğü haklardan yararlanma olanağı sağlanmadan yargılamaya devam edilerek yazılı biçimde hüküm kurulması,
+
+3- Sanıkların sorgusunun yapıldığı 08/07/2013 tarihli oturuma ait duruşma tutanağının Üye Hakim …. (…..) tarafından, 31/10/2013, 10/12/2013, 24/12/2013, 14/01/2014, 06/02/2014, 27/02/2014 tarihli oturumlara ait duruşma tutanaklarının Üye Hakim ….. tarafından elektronik olarak ve fiziken imzalanmaması suretiyle CMK`nun 219. maddesine muhalefet edilmesi,
+
+4- Dairemizce de benimsenen Yargıtay Ceza Genel Kurulunun 20.10.2009 gün ve 2009/1-85/242 sayılı kararında açıklandığı üzere; sanıklardan birisinin savunulmasının diğer sanık yönünden savunmada zaafiyet yarattığı durumlarda menfaat uyuşmazlığı bulunduğunun kabulü gerektiği; 
+nitelikli kasten öldürmeye azmettirme suçundan yargılanan ve suçlamaları kabul etmeyen sanıklar …, …, … ve … arasında menfaat çatışmasının oluştuğu anlaşılmakla; 
+sanıkların ayrı ayrı müdafiler yerine sanıklar … ile …‘ın ortak müdafii, sanıklar … ve …`un da ortak müdafii tarafından savunmalarının yapılması suretiyle 1136 sayılı Avukatlık Kanununun 38/1 ve 5271 sayılı CMK’nun 152. maddelerine aykırı davranılması,
+Bozmayı gerektirmiş;
+
+Cumhuriyet savcısının, sanıklar …, … ve … müdafilerinin, suçtan zarar gören Aile ve Sosyal Politikalar Bakanlığı vekilinin temyiz itirazları bu itibarla yerinde görülmekle, sair yönleri incelenmeyen ve kısmen re`sen de temyize tabi olan hükümlerin, tebliğnamedeki düşünceden farklı gerekçelerle BOZULMASINA, 24/01/2018 gününde oybirliğiyle karar verildi.
+
+YARGITAY 17. CEZA DAİRESİ
+Esas : 2016/89 Karar : 2017/196Tarih : 10.01.2017
+
+CMK 219. Madde
+
+Duruşma Tutanağı
+
+Yerel mahkemece verilen hükümler temyiz edilmekle, başvurunun süresi ve kararların niteliği ile suç tarihine göre dosya görüşüldü:
+
+Tebliğnamede, onaysız fotokopiden oluşan bir kısım soruşturma evraklarının hükme dayanak yapılması suretiyle 5271 Sayılı CMK’nın 169/2 ve 219. maddelerine aykırı davranılması sebebiyle hükümlerin bozulması yönünde görüş bildirilmiş ise de; fotokopi olan evrakların bulunduğu klasörün başında aslı gibidir ibaresinin yazıldığı anlaşılmakla bu yönden bozma isteyen düşünceye iştirak edilmemiştir.
+
+Sanık hakkında katılan …‘a karşı işlenen hırsızlık suçuna ilişkin olarak yapılan keşfe ve düzenlenen bilirkişi raporuna göre, katılana ait çiftliğin giriş kapısı içerisinde duvar ile çevrili olan yerde bulunan trafodan yağ çalınması eyleminde eylemin bina ve eklentilerinde bulunan eşyaya yönelik olduğu ve TCK’nın 142/1-b maddesine uyduğu gözetilmeden ve sanık hakkında TCK’nun 142/1-b maddesinden cezalandırılması istemi ile kamu davası açıldığı halde sanığa ek savunma hakkı verilmeden TCK’nun 142/1-e maddesi gereğince cezalandırılmasına karar verilmesi sonuca etkili görülmediğinden;
+
+Suç tarihinde Bursa ilinde güneşin saat 07.16’da doğduğu, kolluk yetkililerinin tutanağına göre, olay yerine saat 06.00’da gittiklerinde hırsızlığın gerçekleştiği ve trafodan yağ damladığı tesbit edildiği, diğer sanıklar …‘nin saat 05.00 sıralarında ilk olay yerinde bulunduklarını ifade etmeleri karşısında, suçun gece sayılan vakitte işlendiği gözetilmeyerek sanık hakkında TCK’nun 143’ncü maddesinin uygulanmaması, karşı temyiz olmadığından,
+
+Katılanlar …, .’in temsilcisi olduğu köy tüzel kişiliğine karşı gerçekleşen hırsızlık eyleminde ise, sanığın İl Özel İdaresi tarafından köylülerin sulamada kullanması için yaptırılan köy tüzel kişiliğine ait trafodan yağ çalma eyleminin TCK’nun 142/1-e maddesine uyan suçu oluşturduğu halde sanık hakkında ek savunma hakkı verilmeden TCK’nın 142/1e maddesinden hüküm kurulması sonuca etkili olmadığından,
+
+Anayasa Mahkemesi’nin hükümden sonra 24/11/2015 gün ve 29542 sayılı Resmi Gazete’de yayımlanan 08/10/2015 tarih, 2014/140 Esas ve 2015/ 85 sayılı kararı ile TCK’nın 53. maddesinin (1) numaralı fıkrasının (b) bendine yönelik olarak vermiş olduğu iptal kararlarının da kapsam ve içerik itibariyla infaz aşamasında mahallinde gözetilebileceğinden, bozma nedeni yapılmamıştır.
+
+Dosya ve duruşma tutanakları içeriğine, toplanıp karar yerinde incelenerek tartışılan hukuken geçerli ve elverişli kanıtlara, gerekçeye ve hakimin takdirine göre sanık …‘nin temyiz nedeni yerinde görülmemiş olduğundan reddiyle usul ve kanuna uygun bulunan hükümlerin tebliğnameye aykırı olarak ONANMASINA, 10.01.2017 tarihinde oybirliği ile karar verildi.
+
+YARGITAY 4. CEZA DAİRESİ 
+Esas : 2013/33480 Karar : 2016/1227Tarih : 25.01.2016
+
+CMK 219. Madde
+
+Duruşma Tutanağı
+
+Yerel Mahkemece verilen hükümler temyiz edilmekle, başvurunun ve kararın niteliği ile suç tarihine göre dosya görüşüldü:
+Temyiz isteğinin reddi nedenleri bulunmadığından işin esasına geçildi.
+
+Vicdani kanının oluştuğu duruşma sürecini yansıtan tutanaklar belgeler ve gerekçe içeriğine göre yapılan incelemede;
+A-Sanık Ş.. E..’a yükletilen tehdit suçuna yönelik temyiz iddiaları yerinde görülmemiştir.
+
+Ancak;
+
+Sanık Ş.. E.. vekilinin, aynı davada da mahkumiyet kararı verilen diğer sanık M.. A..’i de vekaleten temsil ettiğinin anlaşılması karşısında, beraat eden sanık Ş.. E.. yararına vekalet ücretine hükmolunamayacağının gözetilmemesi,
+
+Kanuna aykırı ve sanık katılanlar vekilinin temyiz iddiaları bu nedenle yerinde ise de, bu aykırılık, yeniden duruşma yapılmasına gerek olmaksızın düzeltilebilir nitelikte bir yanılgı olduğundan, temyiz edilen kararın bu noktasındaki “sanık kendisini vekil ile temsil ettirdiğinden Avukatlık Asgari Ücret Tarifesi gereğince takdir olunan 1100 TL ücreti vekaletin katılanlardan alınarak sanığa verilmesine” ibaresinin hükümden çıkarılması suretiyle DÜZELTİLMEK ve başkaca yönleri Kanuna uygun bulunan hüküm, bu bağlamda ONANMASINA,
+
+B-Sanık M.. A.. hakkında kurulan hükümlere yönelik temyizlere gelince;
+
+Başkaca nedenler yerinde görülmemiştir.
+
+Ancak;
+
+1-Anayasanın 141/3, CMK’nın 34 ve 230. maddelerine göre Yargıtay`ın gerekçelerle tutarlılık denetimini yapabilmesi için; kararın dayandığı tüm verilerin, bu veriler konusunda mahkemenin ulaştığı sonuçların, iddianamenin, savunma ile mağdur ve tanık anlatımlarına ilişkin değerlendirmelerin, hangi anlatımın ne gerekçeyle diğerine üstün tutulduğunun açık olarak kurulacak hükmün gerekçesine yansıtılması ve mahkemece ulaşılan kanaat, sanığın suç oluşturduğu sabit görülen fiili ve bunun nitelendirilmesinin yapılması gerekirken, sanıklara yüklenen ve sabit olduğu kabul edilen suçların ne şekilde oluştuğu, unsurlarının ne şekilde gerçekleştiği açıklanmalıdır.
+
+Somut olaya gelince; hükmün gerekçesinde, “müştekileri ‘ne arıyorsunuz burda, sizi yaşatmayız’ diyerek tehdit ettikleri” şeklindeki çoğul ifadelerle sanıkların yüklenen tehdit suçlarını işlediği kabul edilmesine karşın, hem gerekçenin devam eden kısmında hem de hükümde, sanık Ş.. E.. hakkında aynı suçtan beraat kararı verilerek hüküm ile gerekçe arasında çelişki oluşturulması,
+
+2-Katılanların soruşturma ve kovuşturma aşamasındaki istikrarlı anlatımlarına göre, sanık M.. A..’in, katılan O.. G..’ı tehdit ettiğini ifade etmelerine karşın, hangi kanıtlara dayanılarak sanığın bir fiil ile her iki katılanı tehdit ettiğinin Yargıtay denetimine olanak sağlayacak şekilde hükmün gerekçesinde açıklanmaması,
+
+3-Sanık Ş.. E.. hakkında tehdit suçundan beraat kararı verilmesi karşısında, sanık M.. A.. hakkında TCK’nın 106/1. maddesi yerine, aynı Kanun’un 106/2-c maddesine göre mahkumiyet kararı verilmesi,
+
+4-26.01.2011 tarihli duruşma zaptının zabıt katibi tarafından imzalanmaması suretiyle CMK’nın 219. maddesine aykırı davranılması,
+
+5-Kabule göre de; 2 yıl 6 ay hapis cezasından 1/6 oranında indirim yapılırken, 2 yıl 1 ay yerine, 1 yıl 13 ay hapis olarak eksik cezaya hükmolunması,
+
+6-Anayasa Mahkemesi’nin hükümden sonra 24/11/2015 gün ve 29542 sayılı Resmi Gazete’de yayımlanan 08/10/2015 gün ve 2014/140 esas, 2015/85 sayılı kararı ile TCK’nın 53. maddesinin (1) numaralı fıkrasının (b) bendine yönelik olarak vermiş olduğu iptal kararlarının uygulanması zorunluluğu,
+
+Bozmayı gerektirmiş, sanık M.. A.. müdafii ile katılanlar S.. Y.. ve O.. G.. vekilinin temyiz nedenleri ile sanık Ş.. E.. yönünden tebliğnamedeki onama düşüncesinin reddiyle diğer sanık yönünden kısmen farklı gerekçelerle tebliğnamedeki düşünce yerinde görüldüğünden HÜKÜMLERİN BOZULMASINA, yargılamanın bozma öncesi aşamadan başlayarak sürdürülüp sonuçlandırılmak üzere dosyanın esas/hüküm mahkemesine gönderilmesine,  oybirliğiyle karar verildi.
+
+YARGITAY 20. CEZA DAİRESİ 
+Esas : 2015/16019 Karar : 2016/133Tarih : 18.01.2016
+
+CMK 219. Madde
+
+Duruşma Tutanağı
+
+Gereği görüşülüp düşünüldü:
+
+Temyiz incelemesi, müdafilerinin isteği üzerine sanıklar .. ve .. hakkında duruşmalı, duruşma talebinde bulunmayan sanıklar … ve … hakkında duruşmasız olarak yapıldı.
+
+Tebliğnamede, Y.. B.. temyize gelen sanıklar arasında gösterilmişse de, dosya kapsamında Y.. B.. hakkında verilen bir hüküm olmadığı gibi herhangi bir yasa yolu başvurusu da bulunmadığından, Y.. B.. hakkında bir inceleme yapılmamıştır.
+
+Sanık M.. K..’ın 20.01.2012 tarihli eylemi nedeni ile tefrik edilen dosyaya ilişkin, sanık müdafiinin 21.06.2013 ve 12.12.2013 tarihli celselerde davanın ( REDDİNE ) karar verildiğini beyan etmesi ve UYAP sisteminde “Başka Mahkemenin Gerekçeli Kararını Görüntüle” sekmesinden yapılan kontrolde; Iğdır Ağır Ceza Mahkemesi`nin 13.03.2013 tarih ve 2013/69-57 E-K. sayılı kararı ile “davanın ( REDDİNE )” karar verdiğinin anlaşılması nedenleriyle, tebliğnamedeki (5) numaralı bozma düşüncesine iştirak edilmemiştir.
+
+Yargılama sürecindeki işlemlerin yasaya uygun olarak yapıldığı, delillerin gerekçeli kararda gösterilip tartışıldığı, eylemin sanıklar tarafından gerçekleştirildiğinin saptandığı, vicdanî kanının dosya içindeki belge ve bilgilerle uyumlu olarak kesin verilere dayandırıldığı, eyleme uyan suç tipi ile yaptırımların aşağıda belirtilenler dışında doğru biçimde belirlendiği anlaşıldığından, yerinde görülmeyen diğer temyiz itirazlarının ( REDDİNE ), ancak;
+
+1-Hükmün esasını oluşturan kısa kararın açıklandığı oturuma ilişkin duruşma tutanağı ile gerekçeli kararın zabıt katibi tarafından elektronik imza ile imzalanmaması, belirtilen evrakların dosyadaki fiziki suretlerinde de aynı şekilde ıslak imza bulunmaması suretiyle, 5271 sayılı CMK`nın 219/1 ve 232/7. maddelerine aykırı davranılması,
+
+2- Suç tarihlerinin “sanık … yönünden 25/12/2011, sanıklar E.. T.. ve T.. T.. yönünden 12/01/2012 ve sanık M.. K.. yönünden 16/01/2013“ olarak yazılması gerektiği gözetilmeden, gerekçeli karar başlığında, tüm sanıklar hakkında “2012, 25/12/2012, 12/01/2012, 16/01/2013“ olarak yazılması,
+
+3-Sanıkların mali olanaklardan yoksun olup olmadıkları araştırılmadan, soruşturma aşamasında CMK`nın 150/2. maddesi uyarınca görevlendirilen zorunlu müdafiler için ödenen ücretlerin sanıklardan tahsiline karar verilmesi,
+
+4-Erzurum Kriminal Polis Laboratuvarınca alınan tanık numunenin de müsaderesine karar verilmesi gerektiğinin düşünülmemesi,
+
+5-Sanıklar .. ve .. yönünden temel cezaların, hüküm fıkrasında “14 yıl hapis ve 6000 gün adli para cezası” olarak belirlenmesine karşın, gerekçe bölümünde “13 yıl hapis ve 3000 gün adli para cezası” olarak yazılması suretiyle çelişkiye neden olunması,
+
+6-Sanıklar.. ve .. yönünden; suç konusu toplam 30568 gram METAMPHETAMİNE’nin niteliği ve miktarına bağlı olarak önem ve değeri ile oluşturduğu tehlikenin ağırlığı dikkate alınarak, temel cezaların alt sınırdan uzaklaşılarak tespiti doğru olmasına karşın, TCK`nın 61. ve 3. maddelerine aykırı olarak hapis cezasının üst sınıra yakın, adli para cezasının ise alt sınırdan çok uzaklaşılarak belirlenmesi,
+
+Kanuna aykırı, sanıklar.., .. ve … müdafileri ile sanık …temyiz itirazları ile sanıklar… ve .. müdafiinin duruşmadaki sözlü savunmaları bu nedenle yerinde olduğundan, hükümlerin ( BOZULMASINA ), suçun niteliği ile tutuklu kalınan süre ve tutuklama koşullarında bir değişiklik bulunmamasına göre sanıklar ..ve … hakkındaki salıverme isteklerinin ( REDDİNE ), oybirliğiyle karar verildi
+
+YARGITAY 1. CEZA DAİRESİ 
+Esas : 2014/5414 Karar : 2015/3774Tarih : 10.06.2015
+
+CMK 219. Madde
+
+Duruşma Tutanağı
+
+l- a)Sanık …. müdafiinin yasal süresinden sonra yaptığı duruşmalı inceleme isteminin 1412 sayılı CMUK`nun 318. maddesi gereğince reddine karar verilmiştir.
+
+b)Sanık ….’in hükümden sonra cezaevinden gönderdiği dilekçelerle hükmün onanmasını talep etmesi, müdafiinin ise 27/08/2013 havale tarihli dilekçeyle temyiz talebinden vazgeçtiğini beyan etmesi, sanık ….’in hükümden sonra cezaevinden gönderdiği dilekçelerle cezasının onaylanmasını, müdafiinin ise 21/08/2013 havale tarihli dilekçesiyle temyiz dilekçesinin işlemden kaldırılmasını talep ettiği, sanıkların ve müdafıilerinin taleplerinin Yargıtay Ceza Genel Kurulu`nun Dairemizce de benimsenen 05/02/2008 gün ve 2008/1-9-15 sayılı kararı gereğince temyiz isteminden feragat niteliği taşıdığından, temyiz istemlerinin reddine karar verilerek, sanık … hakkındaki hüküm Cumhuriyet Savcısının temyiz istemi üzerine incelenmiştir.
+
+2)Temyiz edenlerin sıfatları ve dilekçelerinin içerikleri dikkate alınarak, sanıklar … ve .. hakkında maktül….’yi kan gütme saikiyle tasarlayarak öldürmeye azmettirme, sanık … hakkında maktül …‘yi tasarlayarak öldürmeye azmettirme, sanıklar …., … ve … hakkında maktül….’yi tasarlayarak öldürmeye yardım, sanık … hakkında maktül …`yi tasarlayarak öldürme ve 6136 sayılı Yasaya aykırılık suçlarından kurulan mahkumiyet hükümleriyle sınırlı olarak yapılan incelemede;
+
+a) Sanıklardan…‘ın babası ….’ün 07/07/2004 tarihinde İstanbul`da, amcası…….’ün ise 30/07/2004 tarihinde Kahramanmaraş da öldürülmesi olaylarına ilişkin soruşturma evrakları ile varsa dava dosyalarının getirtilip incelenmesinden, mevcutsa hükümlerin onaylı örneklerinin alınmasından sonra sanıklar … ve … ile azmettirdikleri belirtilen diğer sanıkların hukuki
+
+durumlarının değerlendirilmesi gerektiği gözetilmeden, eksik soruşturma ile yazılı şekilde hükümler kurulması,
+
+b) Hükmün kurulduğu 14/06/2013 tarihli duruşma tutanağının zabıt katibi tarafından imzalanması gerektiğinin düşünülmemesi suretiyle CMK`nun 219/1 maddesine aykırı davranılması,
+
+Bozmayı gerektirmiş olup, sanık … müdafiinin temyiz dilekçesinde ve duruşmalı incelemedeki, sanıklar ………………müdafiileri ile sanıklar…………………. ile Cumuhuriyet Savcısının temyiz dilekçelerindeki itirazları bu nedenlerle yerinde görüldüğünden, diğer yönleri incelenmeyen, kısmen re`sen de temyize tabi olan hükümlerin, kısmen tebliğnamedeki düşünceye aykırı olarak ve farklı gerekçeler (BOZULMASINA), bozma nedenlerine, hükmolunan ceza miktarına temyiz incelenmesi dışında tutuklulukta geçen
+
+YARGITAY 11. CEZA DAİRESİ
+Esas : 2012/11103 Karar : 2012/20696Tarih : 30.11.2012
+
+CMK 219. Madde
+
+Duruşma Tutanağı
+
+28.09.2010 ve 09.11.2010 tarihli duruşma tutanakları hakim ve katip tarafından elektronik imza ile imzalanmış ise de;
+
+5271 sayılı CMK´nun 219. maddesi “ ..tutanak, mahkeme başkanı veya hâkim ile zabıt kâtibi tarafından imzalanır.”,          amir hükmünü içermesi,
+
+5070 sayılı Yasanın 5/1. maddesi de “güvenli elektronik imza, elle atılan imza ile aynı hukukî sonucu doğurur.”         ilkesini getirmesi karşısında
+
+anılan yasal düzenlemeler dikkate alındığında; hukuki sonuçları bakımından elektronik imza ile ıslak imzanın aynı olduğu, 
+kaldı ki 6352 sayılı Yasanın 95. maddesi ile 02.07.2012 tarihinde yürürlüğe giren 5271 sayılı Yasanın 38/A. maddesi gereğince her türlü ceza muhakemesi işlemlerinde Ulusal Yargı Ağı Bilişim Sistemi (UYAP) kullanılmasının zorunlu hale geldiği cihetle tebliğnamedeki bozma düşüncesine iştirak edilmemiştir.
+
+Toplanan deliller karar yerinde incelenip, sanığın suçunun sübutu kabul, oluşa ve soruşturma sonuçlarına uygun şekilde vasfı tayin olunmuş, savunması inandırıcı gerekçelerle reddedilmiş ve incelenen dosyaya göre verilen hükümde eleştiri dışında bir isabetsizlik görülmemiş olduğundan sanığın yerinde görülmeyen temyiz itirazlarının reddiyle hükmün ( ONANMASINA ),  oybirliği ile karar verildi.
+
+YARGITAY 5. CEZA DAİRESİ 
+Esas : 2012/1283 Karar : 2012/10930Tarih : 6.11.2012
+
+CMK 219. Madde
+
+Duruşma Tutanağı
+
+Ankara Cumhuriyet Başsavcılığının 25.10.2008 gün ve 2008/30360 sayılı iddianamesinde sanığın ruhsata aykırı olarak yaptığı inşaatın katılan kurumca 15.05.2008 günü 3194 sayılı İmar Kanununun 32 nci maddesi uyarınca yapı tatil zaptıyla fiilen mühürlendiği ve bu zaptın mahalline asıldığı halde inşai faaliyete devam edilmesi nedeniyle 04.06.2008 tarihinde yeniden yapı tatil zaptı düzenlendiğinin ileri sürülmesi, sanığın savunmasında ise inşaatın fiilen mühürlenmediğini beyan etmesi karşısında, fiili mühürleme yapılıp yapılmadığı, yapı tatil zaptının inşaata asılıp asılmadığı hususlarının, tutanak tanıkları ve katılan kurumdan sorulup tespit edildikten sonra sanığın hukuki durumunun tayin ve takdiri yerine yazılı şekilde hüküm kurulması,
+
+CMK`nın 219/1 inci maddesinin amir hükmüne aykırı olarak hükmün esasını oluşturan kısa kararın yer aldığı 14.07.2009 günlü oturuma ait duruşma tutanağının birinci sayfası ile 01.04.2009 tarihli oturuma ait sanık savunmasının alındığı duruşma tutanağının birinci ve ikinci sayfalarının zabıt katibi tarafından imzalanmaması,
+
+Sonuç: Kanuna aykırı, sanık müdafiin temyiz itirazları bu nedenle yerinde görülmüş olduğundan, hükmün 5320 s. Kanunun 8/1 inci maddesi de gözetilerek CMUK`nın 321 inci maddesi uyarınca BOZULMASINA, 06.11.2012 tarihinde oybirliği ile karar verildi.
+
+YARGITAY 14. CEZA DAİRESİ 
+Esas : 2012/1287 Karar : 2012/3136Tarih : 16.03.2012
+
+CMK 219. Madde
+
+Duruşma Tutanağı
+
+Kişiyi hürriyetinden yoksun kılma suçundan suça sürüklenen çocuk Mazlum Doğan`ın yapılan yargılaması sonunda;
+
+atılı suçtan mahkumiyetine dair Batman Çocuk Mahkemesinden verilen 09.12.2009 gün ve 2009/407 Esas, 2009/388 Karar sayılı hükmün süresi içinde Yargıtayca incelenmesi suça sürüklenen çocuk müdafii ve O Yer Cumhuriyet Savcısı tarafından istenilmiş olduğundan dava evrakı Yargıtay Cumhuriyet Başsavcılığından tebliğnameyle Daireye gönderilmekle incelenerek gereği düşünüldü:
+
+CMK.nın 219/1 inci maddesine aykırı olarak esaslı işlemlerden suça sürüklenen çocuğun savunmasının alındığı, müşteki ve tanık beyanlarının yer aldığı 04.11.2009 günlü oturuma ait duruşma tutanağının ilk iki sayfasının zabıt katibi tarafından imzalanmaması,
+
+Kanuna aykırı, suça sürüklenen çocuk müdafii ve O Yer Cumhuriyet Savcısının temyiz itirazları bu itibarla yerinde görüldüğünden, sair yönleri incelenmeyen hükmün  ( BOZULMASINA ),  oybirliğiyle karar verildi.
+
+YARGITAY 8. CEZA DAİRESİ 
+Esas : 2010/5204 Karar : 2012/2984Tarih : 6.02.2012
+
+CMK 219. Madde
+
+Duruşma Tutanağı
+
+1- UYAP Bilişim Sisteminde yapılan kontrolde elektronik imza ile de imzalanmayan hükmün esasını oluşturan kısa kararın yer aldığı 10.04.2008 tarihli duruşma tutanağının hakim tarafından imzalanmaması suretiyle CMK.nun 219/1. madde ve fıkrası hükmüne aykırılık yapılması,
+
+2- Geçmişte kasıtlı bir suçtan mahkumiyeti bulunmayan sanık hakkında CMK.nun 231. maddesinde düzenlenmiş bulunan hükmün açıklanmasının geri bırakıl- ması hususunda bir karar verilmemesi,
+
+Yasaya aykırı, sanık ile o yer C.Savcısının temyiz itirazları bu itibarla yerinde görülmüş olduğundan sair yönleri incelenmeksizin hükmün bu sebeblerden dolayı 5320 sayılı Yasanın 8/1. maddesi uyarınca uygulanması gereken 1412 sayılı CMUK.nun 321. maddesi gereğince ( BOZULMASINA ), oybirliğiyle karar verildi.
+
+**YARGITAY 13. CEZA DAİRESİ
+Esas : 2011/55 Karar : 2011/1249** Tarih : 21.09.2011
+
+CMK 219. Madde
+
+Duruşma Tutanağı
+
+Mahalli mahkemece verilen hüküm temyiz edilmekle dosya incelenerek, gereği düşünüldü:
+
+1- 20.04.2006  tarihli keşif tutanağında, hükme dayanak yapılan bilirkişi beyanın kimlik ve yemin kısmını içeren bölümünün önceden matbu olarak hazırlanıp, boşluklar doldurulmak suretiyle tanzimi suretiyle 5271 sayılı CMK.nun 219/1. maddesine aykırı davranılması,
+
+2- Sanık müdafinin son oturumda lehe hükümlerin uygulanması yönündeki istemi 765 sayılı TCK`nun 59/2.maddesini de kapsadığı halde bu yönde olumlu veya olumsuz bir karar verilmemesi,
+
+Bozmayı gerektirmiş, sanık müdafinin temyiz itirazları bu bakımdan yerinde görülmüş olduğundan, diğer yönleri incelenmeyen hükmün açıklanan nedenle isteme uygun olarak ( BOZULMASINA ), oybirliğiyle karar verildi.
+
+YARGITAY 2. CEZA DAİRESİ 
+Esas : 2009/10391 Karar : 2010/11698Tarih : 13.04.2010
+
+CMK 219. Madde
+
+Duruşma Tutanağı
+
+1- Sanığın sorgusu ile tanık ifadelerinin de bulunduğu 04.04.2006 tarihli duruşma tutanağının birinci ve ikinci sayfasının zabıt katibi tarafından imzalanmaması suretiyle CMK’ nın 219. maddesine aykırı davranılması,
+
+2- Atılı suçu kabul etmeyen sanık hakkında “ kurum mührünü bozarak gerilim kancasını düşürmek suretiyle ” kaçak elektrik kullandığına dair tutanak tutulması, keşif sonucu alınan bilirkişi raporunda da, ihtilaflı dönemdeki tüketimin kurulu güce göre biraz düşük olduğunun belirtilmesine karşın, raporda tutanak tarihinden sonra tüketimde artış bulunup bulunmadığı konusunda bir açıklık bulunmadığı ve incelenen tüketim föylerine göre tutanak tarihinden sonra tüketimde artış bulunduğunun anlaşılması karşısında, artış oranı konusunda bilirkişiden ek rapor alınıp, artışın nedeni sanıktan da sorularak, sonucuna göre hukuki durumunun değerlendirilmesi gerekirken, eksik inceleme sonucu, yazılı şekilde beraatına karar verilmesi,
+
+Bozmayı gerektirmiş, katılan vekilinin temyiz itirazları bu itibarla yerinde görülmüş olduğundan hükmün bu sebepten dolayı istem gibi ( BOZULMASINA ), oybirliği ile karar verildi.
+
+YARGITAY 8. CEZA DAİRESİ
+Esas : 2008/1176 Karar : 2010/3516Tarih : 9.03.2010
+
+CMK 219. Madde
+
+Duruşma Tutanağı
+
+Hükmün açıklandığı 30/05/2006 tarihli duruşma tutanağının 1.sayfasının üye hakimler tarafından imzalanmaması suretiyle CMK`nun 219/1,232/4 madde ve fıkrası hükmüne aykırılık yapılması,
+
+Bozmayı gerektirmiş davalı vekilinin temyiz itirazları bu itibarla yerinde görülmüş olduğundan sair yönleri incelenmeksizin hükmün ( BOZULMASINA ), oybirliğiyle karar verildi.
+
+YARGITAY 6. CEZA DAİRESİ 
+Esas : 2007/16649 Karar : 2008/15440Tarih : 29.07.2008
+
+CMK 219. Madde
+
+Duruşma Tutanağı
+
+Yerel Mahkemece verilen hüküm sanık tarafından duruşmalı olarak temyiz edilmekle; başvurunun nitelik, ceza türü, süresi ve suç tarihine göre dosya görüşüldü:
+
+Hükmolunan cezaların tür ve miktarına göre, sanık Yusuf Çetin`in duruşmalı inceleme isteğinin, 5320 sayılı Yasanın 8/1. maddesi yollamasıyla 1412 sayılı CMUK.nun 318. maddesi gereğince tebliğnameye uygun olarak REDDİNE,
+
+Hükmün esasını oluşturan kısa kararın tefhim olunduğu ve Cumhuriyet Savcısının esas hakkındaki görüşünü bildirdiği 21.02.2007 günlü oturum tutanağının 1. sayfasının hakim tarafından imzalanmaması suretiyle CMK.nun 219/1. maddesine aykırı davranılması,
+
+Bozmayı gerektirmiş, sanık Yusuf Çetin`in temyiz itirazı bu itibarla yerinde görülmüş olduğundan diğer yönleri incelenmeyen hükmün açıklanan nedenle istem gibi ( BOZULMASINA ), hükmolunan cezanın miktarı ve tutuklu kaldığı süreye göre sanığın tahliyesine, bir başka suçtan tutuklu veya hükümlü değil ise hemen salıverilmesi için Yargıtay Cumhuriyet Başsavcılığı aracılığıyla Mahkemesine yazı yazılmasına, oybirliğiyle karar verildi.
+
+YARGITAY 1. CEZA DAİRESİ 
+Esas : 2007/5108 Karar : 2008/4412Tarih : 27.05.2008
+
+CMK 219. Madde
+
+Duruşma Tutanağı
+
+Nehir Önder’i kasten öldürmeye tam derecede teşebbüsten, nası ızrar, mütecaviz sarhoşluk ve izinsiz silah taşımaktan sanık Şükrü Ünlü’nün yapılan yargılanması sonunda: Hükümlülüğüne ilişkin ( BURSA ) Birinci Ağır Ceza Mahkemesinden verilen 31.05.2006 gün ve 69/237 sayılı hükmün Yargıtay`ca incelenmesi sanık müdafii ile müdahiller vekili tarafından istenilmiş olduğundan dava dosyası C.Başsavcılığından tebliğname ile Dairemize gönderilmekle, incelendi ve aşağıdaki karar tesbit edildi:
+
+Sanık hakkında hükmolunan cezaların miktarına göre, müdafiinin duruşmalı inceleme isteminin CMUK.nun 318. maddesi uyarınca reddine karar verilmiştir.
+
+1- Esaslı işlemlerin yapıldığı, katılan tanığı Ali Irga`nın beyanının alındığı ve Cumhuriyet Savcısının esas hakkındaki mütalaasını bildirdiği 12.10.2005 tarihli oturuma ait duruşma tutanağının 1. sayfası ile hükmün esasını oluşturan kısa kararı içeren 31.05.2006 tarihli duruşma tutanağının 1. sayfasının zabıt katibi tarafından imzalanmaması suretiyle CMK.nun 219/1. maddesine aykırı davranılması,
+
+2- Sanık hakkında silahla kasten yaralama suçundan 765 sayılı TCK.nun 456/2, 457/1 maddeleri uyarınca cezalandırılması istemiyle kamu davası açıldığı, öldürmeye teşebbüs suçundan 765 sayılı TCK.nun 448, 62. maddeleri uyarınca cezalandırılması istemi ile görevsizlik kararı verildiği ve Cumhuriyet Savcısı esas hakkındaki mütalaasında sanık hakkında 765 sayılı TCK.nun 456/2, 457/1 maddelerinin uygulanmasını talep ettiği anlaşıldığı halde, ek savunma hakkı verilmeden 5237 sayılı TCK.nun 87/3, 53 maddeleri uyarınca hüküm kurularak CMK.nun 226. maddesine aykırı davranılması,
+
+Usule aykırı olup, sanık müdafii ve katılanlar vekilinin temyiz itirazları bu itibarla yerinde görüldüğünden, sair cihetleri incelenmeksizin, öncelikle bu nedenlerle hükümlerin tebliğnamedeki düşünce gibi CMUK.nun 321. maddesi uyarınca ( BOZULMASINA ), oybirliği ile karar verildi.
+
+YARGITAY 3. CEZA DAİRESİ 
+Esas : 2006/15330 Karar : 2008/6239Tarih : 14.05.2008
+
+CMK 219. Madde
+
+Duruşma Tutanağı
+
+1-Esaslı işlemlerin yapıldığı 08/04/2005 tarihli duruşma tutanağının 1. ve 2. sayfalarının katip tarafından imzalanmaması suretiyle CMK`nun 264 ve 219.maddelerine muhalefet edilmesi,
+
+2- Suçun işlendiği yer ve zaman diliminin gerekçeli karar başlığına yazılmaması suretiyle 5237 sayılı CMK`un 232/2-c maddesine muhalefet edilmesi,
+
+3- Mağdur hakkındaki hayati tehlike geçirecek şekilde yaralama eyleminin 765 sayılı TCK’nun 456/2 maddesindeki düzenlenmesine paralel olarak 5237 sayılı Türk Ceza Kanunun 87/1-d maddesinde yaşamı tehlikeye sokan bir durum olarak kanuni tarifin yapılmış olmasına ve alt sınırı beş yıl olarak öngörülmesine göre bu haliyle açıkça 765 sayılı TCK`un lehe olduğu ve sanık hakkında bu kanuna göre hüküm kurulması gerektiği gözetilmeden yazılı şekilde uygulama yapılması,
+
+4- Katılan kendisini vekille temsil ettirdiği nazara alınarak katılan lehine vekalet ücretine hükmedilmemesi;
+
+Bozmayı gerektirmiş, sanık müdafiinin ve katılan vekilinin temyiz itirazları bu itibarla yerinde görülmüş olduğundan hükmün bu nedenlerle ( BOZULMASINA ), oybirliğiyle karar verildi.
+
+YARGITAY 9. CEZA DAİRESİ
+Esas : 2007/5482 Karar : 2008/626Tarih : 4.02.2008
+
+CMK 219. Madde
+
+Duruşma Tutanağı
+
+1- Ekip otosunda görevli polis memuru olan sanığın, devriye görevi sırasında atılı suçu işlediğinin iddia edilmiş olması karşısında; bu husus araştırılarak sonucuna göre 4483 sayılı “Memurlar ve Diğer Kamu Görevlilerinin Yargılanması Hakkındaki Kanun” hükümlerine göre soruşturma izni için durma kararı verilmesi gerektiği gözetilmeden yargılamaya devamla yazılı şekilde hüküm tesisi,
+
+2- Raporu hükme esas alınan bilirkişinin, keşif tutanağında, kimlik bilgileri ile yeminlerinin yer aldığı bölümün önceden hazırlanıp çoğaltılarak düzenlenmesi suretiyle, CMK.nun 219.maddesine muhalefet edilmesi,
+
+3- Ölenin kardeşleri olan Hilmi, İbil, Çakır ve Necati B`ın atılı suçtan zarar görmeleri nedeniyle katılma taleplerinin kabul edilmesi gerektiği gözetilmeden veraset ilamı gerekçe gösterilerek reddine karar verilmesi,
+
+Kanuna aykırı, sanıklar müdafii ile katılanlar vekilinin temyiz itirazları bu itibarla yerinde görülmüş olduğundan hükmün sair yönleri incelenmeksizin öncelikle bu sebeplerden dolayı ( BOZULMASINA ), oybirliğiyle karar verildi.
+
+YARGITAY 5. CEZA DAİRESİ
+Esas : 2007/3445 Karar : 2007/4322Tarih : 4.06.2007
+
+CMK 219. Madde
+
+Duruşma Tutanağı
+
+Çocuğun nitelikli cinsel istismarı ve kişiyi hürriyetinden yoksun kılma suçlarından sanıklar Çağlar, Mustafa, Gökhan, Kadir ve Memiş’in yapılan yargılanmaları sonunda; sanıklar Çağlar, Mustafa, Kadir ve Memiş’in atılı suçlardan beraetlerine, sanık Gökhan’ın ise atılı suçlardan mahkümiyetine dair Aydın 1. Ağır Ceza Mahkemesinden verilen 23.11.2006 gün ve 2006/175 Esas, 2006/433 Karar sayılı hükmün süresi içinde Yargıtay`ca incelenmesi O Yer C.Savcısı ve sanık müdafii tarafından istenilmiş olduğundan dava evrakı C.Başsavcılığından tebliğname ile daireye gönderilmekle incelenerek gereği düşünüldü:
+
+CMK.nun 219/1 maddesine aykırı olarak esaslı işlemlerin yapıldığı, savunmaların ve C.Savcısının esas hakkında mütalaasının yer aldığı 02.11.2006 günlü oturuma ait duruşma tutanağının 1,2,3 ve 4.sayfalarının zabıt katibi tarafından imzalanmaması,
+
+CMK.nun 234/2.maddesinin amir hükmü gereğince onsekiz yaşını doldurmadığı ve vekilinin de bulunmadığı anlaşılan mağdure Merve`ye istemi aranmaksızın bir vekil atanması gerektiğinin gözetilmemesi,
+
+Hazırlıktaki anlatımları arasında farklılıklar bulunan mağdurenin dinlenmesinden sonra sanıkları suçlarının sübutunun ve niteliklerinin belirlenmesi gerektiğinin nazara alınmaması,
+
+Kanuna aykırı, O Yer C.Savcısının ve sanık müdafiinin temyiz itirazları bu itibarla yerinde görülmüş olduğundan esası incelenmeyen hükümlerin bu sebepten dolayı 5320 Sayılı Yasanın 8/1. maddesi de gözetilerek CMUK.nun 321. maddesi uyarınca ( BOZULMASINA ), oybirliğiyle karar verildi.
+
+YARGITAY 10. CEZA DAİRESİ
+Esas : 2005/3055 Karar : 2006/119Tarih : 23.01.2006
+
+CMK 219. Madde
+
+Duruşma Tutanağı
+
+Hırsızlık suçundan sanık Ö… hakkında Ü… 3. Asliye Ceza Mahkemesince yapılan yargılama sonunda, 18.12.2003 tarih ve 2002/58 esas, 2003/1747 karar sayılı mahkumiyet kararı verildiği; hükmün sanık tarafından süresi içinde temyiz edildiği; Yargıtay C. Başsavcılığınca bozma isteğiyle dava dosyasının tebliğname ekinde 15.02.2005 tarihinde Dairemize gönderildiği anlaşıldı. Dosya incelendi, gereği görüşüldü:
+
+1- Dosyada aslına uygunluğu onaylanmamış sanığın hazırlık aşamasında alınan ifadesi ile olay yakalama ve zaptetme tutanağının hükme esas alınması suretiyle 1412 sayılı C.M.U.K.nın 161. maddesine ( 5271 sayılı C.M.K.nın 169. ve 219. maddelerine ) aykırı davranılması,
+
+2- 5328 sayılı Kanunun geçici 1. maddesi gereğince 01.06.2005 tarihinde yürürlüğe giren 5237 sayılı Türk Ceza Kanununun 7. maddesi ile 5252 sayılı Türk Ceza Kanununun Yürürlük ve Uygulama Şekli Hakkında Kanunun 5349 sayılı Kanunla değişik 9. maddesi uyarınca; sanığın hukuki durumunun yeniden değerlendirilip belirlenmesinde zorunluluk bulunması,
+
+Bozmayı gerektirmiş, sanığın temyiz itirazları bu nedenle yerinde görülmüş olduğundan, diğer yönleri incelenmeksizin hükmün ( BOZULMASINA ), bozmadan 5320 sayılı Kanun’un 8/1. ve 1412 sayılı C.M.U.K.nın 325. maddesi uyarınca temyiz etmeyen sanık O…`nun da yararlanmasına, oybirliğiyle karar verildi.
+
+UYARI

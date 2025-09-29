@@ -1,0 +1,206 @@
+Temyiz Başvurusunun İçeriği
+
+CMK Madde 294
+
+CMK Madde 294 Gerekçesi
+
+CMK 294 (Temyiz Başvurusunun İçeriği)  Emsal Yargıtay Kararları
+
+(1) Temyiz eden, hükmün neden dolayı bozulmasını istediğini temyiz başvurusunda göstermek zorundadır. Cumhuriyet savcısı temyiz dilekçesinde, temyiz isteğinin sanığın yararına veya aleyhine olduğunu açıkça belirtir.
+
+(2) Temyiz sebebi, ancak hükmün hukukî yönüne ilişkin olabilir.
+
+5271 sayılı CMK (Ceza Muhakemesi Kanunu) Tam Metin
+
+Makale:Temyiz
+
+Madde, temyiz dilekçesi veya beyanının içermesi gerekli hususları göstermektedir.
+
+Cumhuriyet savcısı veya taraflar, hükmün hangi nedenlerle bozulmasını istediklerini temyiz dilekçesinde veya zabıt kâtibine yapacakları beyanlarında belirtebilecekleri gibi sonradan ek dilekçede de gösterebilirler.
+Temyiz nedenlerinin gösterilmesi zorunlu olup, bunlar ancak hükmün hukukî yönüne ilişkin olabilir.
+
+Tasarı ile istinaf yolu kabul edilmiş bulunduğundan ve davanın gerek maddî, gerek hukukî yönü bölge adliye mahkemesinde tartışılıp karara bağlanacağından, Yargıtay yalnızca hukukî yönden denetim yapacak, böylece tam bir içtihat mahkemesi niteliğini elde edecektir.
+
+Ceza Genel Kurulu         2019/296 E.  ,  2019/578 K.
+
+CMK’nın “Temyiz başvurusunun içeriği” başlığını taşıyan 294. maddesi ise; “(1) Temyiz eden, hükmün neden dolayı bozulmasını istediğini temyiz başvurusunda göstermek zorundadır. (2) Temyiz sebebi, ancak hükmün hukukî yönüne ilişkin olabilir.” şeklinde düzenlenmiştir. Bu hükme göre, temyiz davasını açan ve sınırlayan temyiz dilekçesinde temyiz edenin, hükmün neden dolayı bozulmasını istediğini ve temyiz sebeplerini göstermek zorunda olduğu öngörülmüştür. Temyiz dilekçesinde ya da daha sonradan verilen ek temyiz dilekçesinde temyiz denetiminin kapsamının belirlenmesi bakımından hangi hukuka aykırılıklara dayanıldığının anlaşılır bir şekilde gösterilmesi gerekir.
+
+CMK’nın “Hukuka kesin aykırılık hâlleri” başlıklı 289. maddesi;
+
+“(1) Temyiz dilekçesi veya beyanında gösterilmiş olmasa da aşağıda yazılı hâllerde hukuka kesin aykırılık var sayılır:
+
+a) Mahkemenin kanuna uygun olarak teşekkül etmemiş olması,
+
+b) Hâkimlik görevini yapmaktan kanun gereğince yasaklanmış hâkimin hükme katılması,
+
+c) Geçerli şüphe nedeniyle hakkında ret istemi öne sürülmüş olup da bu istem kabul olunduğu hâlde hâkimin hükme katılması veya bu istemin kanuna aykırı olarak reddedilip hâkimin hükme katılması,
+
+d) Mahkemenin kanuna aykırı olarak davaya bakmaya kendini görevli veya yetkili görmesi,
+
+e) Cumhuriyet savcısı veya duruşmada kanunen mutlaka hazır bulunması gereken diğer kişilerin yokluğunda duruşma yapılması,
+
+f) Duruşmalı olarak verilen hükümde açıklık kuralının ihlâl edilmesi,
+
+g) Hükmün 230 uncu madde gereğince gerekçeyi içermemesi,
+
+h) Hüküm için önemli olan hususlarda mahkeme kararı ile savunma hakkının sınırlandırılmış olması,
+
+i) Hükmün hukuka aykırı yöntemlerle elde edilen delile dayanması,”
+
+Şeklinde, “Temyiz isteminin reddi” başlıklı 298. maddesi ise “Yargıtay, süresi içinde temyiz başvurusunda bulunulmadığını, hükmün temyiz edilemez olduğunu, temyiz edenin buna hakkı olmadığını ya da temyiz dilekçesinin temyiz sebeplerini içermediğini saptarsa, temyiz istemini reddeder.” şeklinde düzenlenmiştir. Bu hüküm uyarınca temyiz dilekçesinin, örneğin; “Hükmü temyiz ediyorum.” şeklindeki dilekçede olduğu gibi herhangi bir temyiz sebebi içermemesi durumunda tıpkı başvurunun süresi içinde yapılmaması, hükmün temyiz edilemez olması ya da temyiz edenin buna hakkının bulunmaması hâllerinde olduğu üzere usulüne uygun açılmış bir temyiz davasından bahsedilemeyeceğinden temyiz isteminin reddi gerekir.
+
+Temyiz nedeni olan hukuka aykırılık, hâkimin olaya en uygun normu bulamaması veya bulsa da yanlış değerlendirip uygulama yapmasıdır. Hukuka aykırılığa yol açan norm muhakeme hukuku normu olabileceği gibi (Örneğin, tanıklıktan çekinme hakkı bulunan tanığa bu hakkının hatırlatılmaması, karar oturumunda hazır olan sanığa son söz hakkı verildikten sonra katılana da diyeceklerinin sorulması gibi.) maddi hukuk normu da olabilir. (Örneğin, sanığın eylemi suç teşkil etmediği hâlde mahkûmiyet hükmü kurulması, suçun niteliğinin hatalı belirlenmesi, eksik araştırmaya dayalı olarak karar verilmesi gibi.) Maddi hukuk normunun ihlâli hâlinde temyiz edenin sıfatı da dikkate alınarak kararın bozulması gerekmekte ise de muhakeme hukukuna ilişkin ihlâllerde, ihlâlin hükmü etkileyip etkilemediği gözetilmelidir.
+
+Bu kapsamda muhakeme hukukuna aykırılık iddiasının temyiz nedeni olarak açıkça ileri sürülmesi gerekmektedir. Muhakeme hukukuna aykırılık iddiasına dayanan temyiz taleplerinde Yargıtay hem muhakeme normunun doğru uygulanıp uygulanmadığını hem de ilk derece veya bölge adliye mahkemelerince muhakeme normunun uygulandığı olayın doğru tespit edilip edilmediğini denetleyecektir. Temyiz dilekçesinde muhakeme hukukuna aykırılık iddiasının temyiz sebebi olarak gösterilmemesi ya da gösterilmekle birlikte hükme etki edecek nitelikte olmadığının anlaşılması durumunda usul hükümlerine uygunluk bakımından sadece 5271 sayılı CMK’nın 289. maddesi kapsamında hukuka kesin aykırılık hâlleriyle sınırlı bir temyiz incelemesi yapılacak, inceleme sırasında tespit edilen ancak hükmü etkilemeyen muhakeme hukukuna aykırılıklar Yargıtay tarafından bozma nedeni yapılmayarak kararda işaret edilmekle yetinilecektir.
+
+CMK’nın “Temyizde incelenecek hususlar” başlıklı 301. maddesi ise; “Yargıtay, yalnız temyiz başvurusunda belirtilen hususlar ile temyiz istemi usule ilişkin noksanlardan kaynaklanmışsa, temyiz başvurusunda bunu belirten olaylar hakkında inceleme yapar.” biçiminde düzenlenmiştir.
+
+Doktrinde, temyiz denetiminin kapsamının belirlenmesi bakımından; “Yargıtay hukuksal incelemesine önündeki hüküm bakımından ispat konularının sübuta erdiği varsayımından başlar. Temyiz mahkemesi yalnızca hâkimin delilleri değerlendirmesinde hukuksal hata yapıp yapmadığını değerlendirebilir. Delillerin değerlendirilmesi ve ispat açısından vicdani kanıyı olay hâkiminin oluşturması gerekir. Ancak bunun için de yerel mahkeme kararının gerekçesi ve dayanaklarının, sanığın tüm sorgu tutanaklarının, temyiz mahkemesine sunulması gerekir.” (Yener Ünver, Hakan Hakeri, Ceza Muhakemesi Hukuku, Adalet Yayınevi, 13. Baskı, Ankara 2017, s; 778 vd.), “Yargıtay, ilk derece mahkemesinin yerine geçerek eylemin varlığı veya yokluğu, kanıtların inandırıcılığı ya da kesinliği gibi yargılarda bulunamaz, ancak maddi olayların gerekçede yeterince yansıtılıp yansıtılmadığı, yansıtılan maddi olaylara ilişkin kanıtların tartışılıp tartışılmadığı, bu tartışma yapılırken doğa, mantık, deneyim ve hukuk kurallarına uyulup uyulmadığı yönlerinden hükmü inceleyerek olay yargılamasını sınırlı bir şekilde denetleyebilir.” (Sami Selçuk, Temyiz Denetiminin Sınırları, Prof. Dr. Nur Centel’e Armağan, s; 336.), “Temyiz kanun yolunda maddi mesele incelenemez. Ancak kanun koyucu sanığa gerçekçi bir hukuki koruma sağlamayı amaçladığı için aradan geçmiş olan zamanın olumsuz etkilemediği oranda maddi mesele incelenebilmelidir. Burada esas mahkemesindeki hâkimin doğrudan doğruyalık ilkesinden kaynaklanan maddi meseleyi takdir etme yetkisi ortadan kaldırılmadan, dosyaya girdiği oranda maddi meseleyi inceleyen, bu istisna dışında sadece hukuki mesele ile ilgilenen bir temyiz incelemesi yapılmalıdır. Yargıtay maddi meseleyi sadece hükmün gerekçelerine dayanarak incelemelidir.” (Feridun Yenisey, Ayşe Nuhoğlu, Ceza Muhakemesi Hukuku, Bahçeşehir Üniversitesi Yayınları, İstanbul 2014, s; 1234.), “Tamamen maddi soruna ilişkin olan aykırılıkların temyiz kanun yolunda denetlenmesi mümkün değildir. Ancak, mahkemenin, elindeki maddi olguları hukuk kurallarına uygun olarak değerlendirip değerlendirmediği ve hükme esas alırken hukuk kurallarına bağlı kalıp kalmadığı Yargıtay tarafından incelenmek zorundadır. Aynı şekilde hukuka aykırılığın, yargılama kurallarının doğru uygulanmaması nedenine dayandığının ileri sürülmesi hâlinde de Yargıtay hem yargılama kurallarına uyulup uyulmadığına hem de bu kuralların uygulanmasına esas teşkil eden ve daha önce mahkemece tespit edilmiş olan maddi vakıaların doğru değerlendirilip değerlendirilmediğini inceleyebilecektir.” (Fahri Gökçen Taner, 5271 sayılı CMK’nın Temyiz Kanun Yoluna İlişkin Hükümlerinin Yürürlüğe Girmesiyle Ortaya Çıkan Farklılıklar, Ankara Barosu Dergisi, Nisan 2017, s; 57; Veli Özer Özbek, Koray Doğan, Pınar Bacaksız, İlker Tepe, Ceza Muhakemesi Hukuku, 9. Baskı, İzmir 2017, s; 856.), “Temyiz kanun yolunda temyiz mahkemesi, sözlülük, yüz yüzelik ve doğrudan doğruyalık ilkelerini uygulayarak geçmişte olan bir olayın nasıl meydana geldiğini ortaya çıkaran olay hâkiminin tespitleriyle bağlıdır. Bununla birlikte olay mahkemesinin tespitleri belirsiz, eksik, çelişkili, mantık veya deneyim kurallarıyla çatışıyorsa olay mahkemesinin tespitleriyle bağlılık ortadan kalkar. Yargıtayın, bölge adliye mahkemesi incelemesinden geçmiş bir kararla ilgili yapacağı denetimin, verilen kararın hukuksal yönüyle sınırlı olması hâli, Yargıtayca hiçbir zaman maddi olay denetimi yapılamayacağı anlamına gelmez. İlk derece veya bölge adliye mahkemelerinin kararlarında bilimin yerleşmiş ilkelerine, genel yaşam deneyimlerine, mantık kurallarına aykırılıklar varsa, ulaşılan sonuç ve gerekçe arasında birbiriyle açıkça çelişen tespitler bulunuyorsa, maddi olay açık, kesin ve tam olarak belirlenememiş ise ve bu nedenlerle kararın hukuksal yönden denetimine olanak yoksa Yargıtay maddi olay denetimi yapabilir.” (Mustafa Ruhan Erdem, Cihan Kavlak, Ceza Muhakemesinde Temyiz İncelemesinin Kapsamı ve Sınırları, Yargıtay Dergisi, Ekim 2018, Sayı; 4, s; 1424; 1460.), “Bir olayı tespit ederken ilk derece mahkemesi hâkimi delilleri serbestçe takdir eder. Ancak bu tespitin eksiksiz olması ve hâkimin kanaatinin objektif dayanaklarının hükümden anlaşılması gerekir. Bu nedenle maddi olaya ilişkin denetim, maddi vakıanın sübutuna ilişkin kanaatin yeterli delile dayanarak ve mantık kurallarına uygun bir şekilde oluşturulup oluşturulmadığı açısından yapılmaktadır.” (Nur Centel, Hamide Zafer, Ceza Muhakemesi Hukuku, 13. Baskı, İstanbul 2016, s; 840.) şeklinde görüşler ileri sürülmüştür.
+Görüldüğü gibi doktrinde çoğunlukta olan bu anlayışa göre, Türk Ceza Muhakemesine istinaf kanun yolunun getirilmiş olması, temyiz mahkemesinin önceden olduğu gibi somut temyiz denetiminin elverdiği ölçüde maddi soruna girmesine engel oluşturmayacak, temyiz kanun yolunda somut dava üzerinden içtihatlarla birliği sağlayacak olan Yargıtay, ilk derece ve bölge adliye mahkemelerinin, sözlülük, doğrudan doğruyalık ve yüz yüzelik ilkeleri uyarınca elde edilen delilleri vicdani kanaatleri ile serbestçe takdir etme yetkilerini de dikkate alarak bu delillerle varılan sonucun hukuk kurallarına, akla, mantığa, genel hayat tecrübelerine ve bilimsel görüşlere uygun olup olmadığının tespiti bakımından somut dosya üzerinden görebileceği ve inceleyebileceği maddi sorunla ilgili vaka değerlendirmelerindeki hukuka aykırılıklar üzerinden bozma kararı verebilecektir.
+Burada ifade etmek gerekir ki; ilk derece ve bölge adliye mahkemelerinin uyguladığı maddi ceza normlarının hukuka uygun olması, maddi olayın doğru ve eksiksiz bir şekilde tespit edilerek bu tespite uygun olan maddi hukuk normlarının uygulanmasına bağlıdır. Başka bir ifadeyle, maddi sorun ile maddi hukuk normlarının bu ayrılmaz niteliğinden dolayı uygulanan maddi hukuk normlarının hatalı olduğu iddiasıyla yapılan temyiz başvurularında hükmün hukuki yönden denetiminin maddi sorundan ayrılması mümkün değildir. Bir hukuk kuralının uygulanmaması veya yanlış uygulanması sonucunda maddi sorunun da hatalı şekilde belirlendiği hâllerde dosyaya yansıyan tüm delillerle birlikte maddi sorun irdelenmeksizin hükmün hukuka uygun olup olmadığının belirlenmesi söz konusu olamayacaktır. Kaldı ki, Kanun’da Yargıtayın temyiz denetimi sırasında maddi sorunu inceleyemeyeceğine ilişkin bir hüküm de mevcut değildir. 5271 sayılı CMK’nın “Yargıtayca davanın esasına hükmedilecek hâller, hukuka aykırılığın düzeltilmesi” başlıklı 303. maddesinin birinci fıkrasının (a) bendinde, olayın daha ziyade aydınlanması gerekmeden beraate veya davanın düşmesine ya da alt ve üst sınırı olmayan sabit bir cezaya hükmolunmasının gerektiği durumlarda, Yargıtayın, davanın esasına hükmedebileceği belirtilmiş olup bu düzenlemeye göre ilk derece veya bölge adliye mahkemelerinin tespitlerinin hukuki denetim yapılmasına olanak vermeyecek ölçüde yetersiz olması hâlinde maddi sorunun tespiti ve buna bağlı olarak maddi ceza normunun doğru tatbik edilmesi bakımından Yargıtayın eksik araştırma nedeniyle bozma kararı verebilecek olması, hukuki denetimin, o ana kadar yapılan tespitlerin, normun olaya uygulanması için yeterli dayanak oluşturup oluşturmadığı hususunu da içerdiği sonucunu doğurmaktadır.
+
+Sonuç olarak, Yargıtay, temyiz kanun yoluyla ülkedeki hukuk kurallarının istikrarlı ve aynı biçimde uygulanmasını yani içtihat birliğini sağlar. 5271 sayılı CMK, ilk derece yargılaması ile temyiz yargılaması arasına istinafı yerleştirerek, hem Yargıtayın içtihat mahkemesi konumunu güçlendirmeyi hem de mahkemelerin son kararlarının yalnızca hukuki sorun değil, maddi sorun açısından da sağlıklı bir şekilde denetlenmesinin yolunu açmayı öngörmüştür. Bununla birlikte ceza muhakemesinin amacı, her somut olayda kanuna ve usulüne uygun olarak toplanan delillerle maddi gerçeğe ulaşıp adaleti sağlamak, suç işlediği sabit olan faili cezalandırmak, kamu düzeninin bozulmasının önüne geçebilmek ve bozulan kamu düzenini yeniden tesis etmektedir. Gerek 1412 sayılı CMUK, gerekse 5271 sayılı CMK, adil, etkin ve hukuka uygun bir yargılama yapılması suretiyle maddi gerçeğe ulaşmayı amaç edinmiştir. Anayasa’nın 138. maddesi de tüm hâkimlerin Anayasa’ya, kanuna ve hukuka uygun olarak vicdani kanaatlerine göre karar vereceklerini hükme bağlamıştır. Bu nedenle ilk derece ve bölge adliye mahkemelerinde yapılmakta olan yargılama sonucunda ulaşılma imkânı bulunan bütün deliller ele alınıp değerlendirilmeden karar verilmesi, maddi sorunun doğru olarak tespit edilmemesi, dosyada mevcut delillerle maddi soruna ilişkin tespitlerin uyumlu olmaması gibi nedenlerle yazılı hukuka, evrensel hukuki değerlere, akla, bilime ve tecrübe kurallarına aykırı olacak şekilde maddi olay değerlendirmesinin hatalı olarak belirlendiği hâllerde adaletin tam olarak gerçekleşmesi amacı da gözetilerek Yargıtayın, hükmün hukuki yönüne ilişkin olan ve hükme etki eden maddi olay değerlendirmesindeki hukuka aykırılıkları da temyiz yoluyla incelemesi gerektiğinin kabulünde zorunluluk bulunmaktadır.
+
+Bu açıklamalar ışığında ön sorun değerlendirildiğinde;
+
+Sanık ve müdafisinin yukarıda ifade edilen temyiz talepleri bir bütün hâlinde incelendiğinde, ilk derece mahkemesi sıfatıyla yargılama yapan Yargıtay 9. Ceza Dairesinin uyguladığı maddi ceza normlarının hukuka uygun olmasının, maddi olayın doğru ve eksiksiz bir şekilde tespit edilerek bu tespite uygun olan maddi hukuk normlarının uygulanmasına bağlı olduğu, buna göre hükmün hukuki yönüne ilişkin olan ve hükme etki eden maddi olay değerlendirmesindeki hukuka aykırılıkların da temyiz kanun yolunda incelenebileceği hususları ile 5271 sayılı CMK’nın 288. maddesinin Hükûmet Tasarısı’ndaki gerekçesinde belirtildiği üzere, delillerin yanlış değerlendirilmesi, kuralların yorumunu ve eylemin gerçek niteliğinin saptanmasını etkilediğinde hukuka aykırılık hâlinin oluşacağı dikkate alınarak, ilk derece mahkemesince, fiilin suç oluşturup oluşturmadığı, fiilin hangi suçu oluşturduğu, eksik araştırmaya dayalı olarak hüküm kurulup kurulmadığı, hükmün doğru tesis edilip edilmediği, gerekçenin dosya kapsamına uygun olup olmadığı, dosyaya yansıyan ve hükme etki edebilecek delillerin karar yerinde tartılışıp tartışılmadığı, bu bağlamda maddi sorunun isabetli bir şekilde tespit edilip edilmediği gibi dosyaya yansıyan tüm maddi hukuka aykırılıklar ile temyiz dilekçesinde muhakeme hukukuna aykırılık iddiasında bulunulmadığından usul hükümlerine uygunluk bakımından da 5271 sayılı CMK’nın 289. maddesinde yazılı bulunan hukuka kesin aykırılık hâllerinin mevcut olup olmadığı yönlerinden temyiz incelemesi yapılması gerektiği ve sanık ve müdafisinin temyiz dilekçesinde maddi hukuka aykırılığa ilişkin temyiz sebepleri bulunduğu kabul edilmelidir.
+
+YARGITAY 2. CEZA DAİRESİ 
+Esas : 2018/2274 Karar : 2018/5522Tarih : 3.05.2018
+
+CMK 294. Madde
+
+Temyiz Başvurusunun İçeriği
+
+1-Sanık hakkında müştekiler … ve …‘e yönelik hırsızlık suçundan kurulan hükümler ile ilgili temyiz isteminin incelenmesinde;
+
+Hükmolunan cezanın miktar ve türü gözetildiğinde, 5271 sayılı CMK’nın 286/2-a maddesi uyarınca, ilk derece mahkemelerinden verilen beş yıl veya daha az hapis cezaları ile miktarı ne olursa olsun adli para cezalarına ilişkin istinaf başvurusunun esastan reddine dair bölge adliye mahkemesi kararlarının temyizi mümkün olmadığından, sanık müdafiinin temyiz isteminin 5271 sayılı CMK’nın 298. maddesi uyarınca istem gibi REDDİNE,
+
+2-Sanık hakkında müşteki …‘a yönelik hırsızlık suçundan kurulan hüküm ile ilgili temyiz isteminin incelenmesinde;
+
+5271 sayılı CMK’nın 288. maddesinin ‘‘Temyiz, ancak hükmün hukuka aykırı olması nedenine dayanır. Bir hukuk kuralının uygulanmaması veya yanlış uygulanması hukuka aykırılıktır.’’ ve aynı Kanunun 294. maddesinin ise; ‘‘Temyiz eden, hükmün neden dolayı bozulmasını istediğini temyiz başvurusunda göstermek zorundadır. Temyiz sebebi ancak hükmün hukuki yönüne ilişkin olabilir.’’ şeklinde düzenlendiği de gözetilerek sanık müdafiinin temyiz isteminin somut olayda, sanığın hırsızlık kastıyla hareket etmediğine, teşebbüs koşullarının oluştuğuna, 5237 sayılı TCK’nın 25/2. maddesinde düzenlenen zorunluluk halinin şartlarının oluştuğuna, sanığın cezasından değer azlığı nedeniyle ve TCK’nın 145. maddesi uyarınca indirim yapılması gerektiğine, TCK’nın 43. maddesi uyarınca zincirleme suç hükümlerinin oluştuğuna, sanık hakkında fazla ve ölçüsüz ceza verildiğine, suçun sübut bulmadığına ve yabancı uyruklu olan sanığın nüfus ve adli sicil kaydı getirtilmeden hüküm kurulduğuna yönelik olduğu belirlenerek anılan sebeplere yönelik yapılan incelemede;
+
+Sanığın müştekinin çalıştığı … mağazasından gece vakti sayılan saat 21.26 sıralarında 392,80 TL değerindeki kıyafetleri çalması ve bu mağazadan önce Flo mağazasından gerçekleşen hırsızlık olayı nedeniyle ve eşkal tarifi üzerine elindeki çantada suça konu kıyafetler ile birlikte kolluk tarafından yakalanması şeklinde gerçekleşen olayda, sanık hakkında TCK’nın 25/2. maddesinde düzenlenen zorunluluk halinin, müştekinin çalıştığı mağazadan gerçekleşen hırsızlık olayından sonra sanığın kesintisiz takip olmaksızın kolluk görevlileri tarafından suça konu eşyalarla birlikte yakalanması karşısında TCK’nın 35. maddesinde düzenlenen teşebbüs koşullarının, suça konu eşyaların değerleri itibariyle TCK’nın 145. maddesi gereğince indirim yapılması koşullarının, 3 ayrı mağazadan gerekleşen hırsızlık nedeniyle zincirleme suç hükümlerinin uygulanma koşullarının oluşmadığı, suçun sanık tarafından gece vakti işlendiğinin sabit olduğu ve mahkemece alt hadden uzaklaşılmayarak hüküm kurulduğu anlaşılmıştır. Ancak;
+
+Yabancı uyruklu sanığa ait nüfus kaydı ya da pasaportunun onaylı bir suretinin ve adli sicil kaydının İnterpol Daire Başkanlığı aracılığı ile getirtilip bu kimlik bilgileri ve adli sicil kaydına göre hüküm kurulması gerekirken eksik araştırma ile yazılı şekilde hüküm kurulması,
+
+Bozmayı gerektirmiş, sanık müdafiinin temyiz nedeni bu itibarla yerinde görülmüş olduğundan hükmün açıklanan nedenle isteme aykırı olarak BOZULMASINA, 03/05/2018 gününde oybirliğiyle karar verildi.
+
+YARGITAY 2. CEZA DAİRESİ
+Esas : 2018/2019 Karar : 2018/5104Tarih : 25.04.2018
+
+CMK 294. Madde
+
+Temyiz Başvurusunun İçeriği
+
+İzmir Bölge Adliye Mahkemesi 5. Ceza Dairesi’nin 10.01.2018 tarihli temyiz talebinin reddine dair ek kararının, sanık hakkında konut dokunulmazlığını bozma suçundan kurulan hükme; sanık müdafiinin temyiz isteminin de 25.01.2018 tarihli dilekçe içeriğine göre hırsızlık ve konut dokunulmazlığını bozma suçlarından kurulan mahkumiyet hükümlerine yönelik olduğu belirlenerek yapılan incelemede;
+
+I) Sanık hakkında konut dokunulmazlığını bozma suçundan kurulan mahkumiyet hükmüne yönelik temyiz isteminin incelenmesinde;
+
+Sanık müdafiinin konut dokunulmazlığını bozma suçu bakımından temyiz isteminin reddine dair mahkemece verilen 10.01.2018 gün ve 2017/1906 E. – 2017/1832 K. sayılı ek kararda bir isabetsizlik görülmediğinden, bu karara yönelik temyiz itirazının reddiyle, temyiz isteminin reddine dair verilen ek kararın istem gibi ONANMASINA,
+
+II) Sanık hakkında hırsızlık suçundan kurulan mahkumiyet hükmüne yönelik temyiz isteminin incelenmesinde;
+
+TCK’nın 53. maddesinin bazı bölümlerinin iptaline ilişkin Anayasa Mahkemesi’nin 24/11/2015 tarihinde yürürlüğe giren 08/10/2015 gün ve 2014/140 esas, 2015/85 sayılı kararı da nazara alınarak bu maddede öngörülen hak yoksunluklarının uygulanmasının infaz aşamasında değerlendirilmesi mümkün görülmüş; dosya içeriğine göre diğer temyiz itirazları yerinde görülmemiş; CMK’nın 232/2-b maddesi uyarınca 29.11.2017 tarihli gerekçeli karar başlığında belirtilmesi gereken mahkeme başkanı ve üyelerinin ad ve soyadlarının yazılmaması mahallinde ikmal edilebilir eksiklik olarak kabul edilmiş; CMK’nın 288. maddesinin ‘‘Temyiz, ancak hükmün hukuka aykırı olması nedenine dayanır. Bir hukuk kuralının uygulanmaması veya yanlış uygulanması hukuka aykırılıktır.’’ ve aynı Kanun’un 294.maddesinin ise; ‘‘Temyiz eden, hükmün neden dolayı bozulmasını istediğini temyiz başvurusunda göstermek zorundadır. Temyiz sebebi ancak hükmün hukuki yönüne ilişkin olabilir.’’ şeklinde düzenlendiği de gözetilerek sanık müdafiinin temyiz isteminin, sanık hakkında takdiri indirim hükümlerinin uygulanmadığı, uyuşturucu madde dolayısıyla işlediği eylemin hukuki anlam ve sonuçlarını algılama ve davranışlarını yönlendirme yeteneğinde azalma olup olumadığının araştırılmadığına yönelik olduğu belirlenerek anılan sebeplere yönelik yapılan incelemede;
+
+Tüm dosya içeriğine göre; hırsızlık suçunun sanık tarafından işlendiğinin sabit olduğu anlaşılmakla; hırsızlık suçundan istinaf isteminin esastan reddine dair karar hukuka uygun bulunduğundan, sanık müdafiinin yerinde görülmeyen temyiz itirazlarının reddiyle, 5271 sayılı CMK’nın 302/1. maddesi uyarınca, usul ve yasaya uygun olan İzmir Bölge Adliye Mahkemesi 5. Ceza Dairesi’nin kararına yönelik TEMYİZ İSTEMİNİN ESASTAN REDDİ ile HÜKMÜN ONANMASINA, 25/04/2018 gününde oybirliğiyle karar verildi.
+
+YARGITAY 2. CEZA DAİRESİ
+Esas : 2018/1768 Karar : 2018/4076Tarih : 9.04.2018
+
+CMK 294. Madde
+
+Temyiz Başvurusunun İçeriği
+
+1- Sanık hakkında, katılanlar …, …, …, … ve … ile müştekiler … ve …‘e yönelik iş yeri dokunulmazlığının ihlali ve mala zarar verme suçlarından kurulan hükümler ile katılanlar …, …, … ve müşteki …’a yönelik hırsızlık suçundan kurulan hükümlerin ve katılan … ile müşteki …’a yönelik iş yeri dokunulmazlığının ihlali suçundan kurulan hükümlerin incelenmesinde;
+
+Hükmolunan cezaların miktar ve türü gözetildiğinde, 5271 sayılı CMK’nın 286/2-a maddesi uyarınca, ilk derece mahkemelerinden verilen beş yıl veya daha az hapis cezaları ile miktarı ne olursa olsun adli para cezalarına ilişkin istinaf başvurusunun esastan reddine dair bölge adliye mahkemesi kararlarının temyizi mümkün olmadığından, sanık ve müdafiinin temyiz istemlerinin 5271 sayılı CMK’nın 298. maddesi uyarınca istem gibi REDDİNE,
+
+2- Sanık hakkında katılanlar …, … ve …‘ye yönelik hırsızlık suçundan kurulan hükümlerin incelenmesinde;
+
+5271 sayılı CMK’nın 288. maddesinin ‘‘Temyiz, ancak hükmün hukuka aykırı olması nedenine dayanır. Bir hukuk kuralının uygulanmaması veya yanlış uygulanması hukuka aykırılıktır.’’ ve aynı Kanun’un 294. maddesinin ise; ‘‘Temyiz eden, hükmün neden dolayı bozulmasını istediğini temyiz başvurusunda göstermek zorundadır. Temyiz sebebi ancak hükmün hukuki yönüne ilişkin olabilir.’’ şeklinde düzenlendiği de gözetilerek sanık müdafiinin temyiz isteminin, sanığın uyuşturucu madde etkisi altındayken verdiği kolluk ifadesinden başka mahkumiyetine yeterli delil olmadığına, dosyaya eklenen CD dökümlerinde sanığın kesin olarak tespitinin mümkün olmadığına, olaylardan birinde sanığın tespit edilmiş olmasının, diğer tüm olaylar yönünden hiçbir delil yokken sanık aleyhine değerlendirme yapılmasına sebep olduğuna ve müştekileri başka olan dosyaların birleştirilerek davanın tek esas üzerinden görülmesinin usule aykırı olduğuna yönelik olduğu ve sanığın temyiz isteminin ise lehine olan kanun maddelerinin bu üç müşteki ile ilgili hakkında kurulan mahkumiyet hükümlerine uygulanmadığına, atılı suçların kimisini uyuşturucu madde etkisi altındayken işlediğine, kimisini de işlemediği halde cezalandırıldığına yönelik olduğu belirlenerek anılan sebeplere yönelik yapılan incelemede;
+
+Sanık hakkında katılanlara yönelik eylemi sebebiyle hırsızlık suçundan kurulan hükümlerde herhangi bir isabetsizlik bulunmadığı anlaşılmakla istinaf istemlerinin düzeltilerek esastan reddine dair kararlar hukuka uygun bulunduğundan, sanık ve müdafiinin yerinde görülmeyen temyiz itirazlarının reddiyle, 5271 sayılı CMK’nın 302/1. maddesi uyarınca, usul ve yasaya uygun olan Antalya Bölge Adliye Mahkemesi 6. Ceza Dairesinin kararına yönelik TEMYİZ İSTEMLERİNİN ESASTAN REDDİ ile HÜKÜMLERİN ONANMASINA, 09/04/2018 gününde oybirliğiyle karar verildi.
+
+YARGITAY 2. CEZA DAİRESİ
+Esas : 2017/5765 Karar : 2018/3179Tarih : 22.03.2018
+
+CMK 294. Madde
+
+Temyiz Başvurusunun İçeriği
+
+Bölge Adliye Mahkemesince sanık hakkında verilen beraat kararının duruşma açılarak verildiği, bahse konu kararın 5271 sayılı CMK’nın 286/2. maddesinde sayılan istisnalar arasında yer almadığı ve aynı Kanun’un 286/1. maddesi uyarınca temyiz yasa yoluna tabi olduğu, Bölge Adliye Mahkemesi’nin 29/09/2017 tarihli temyiz isteminin reddine ilişkin ek kararı kaldırılarak yapılan incelemede;
+
+5271 sayılı CMK’nın 288. maddesinin ‘‘Temyiz, ancak hükmün hukuka aykırı olması nedenine dayanır. Bir hukuk kuralının uygulanmaması veya yanlış uygulanması hukuka aykırılıktır.’’ ve aynı Kanunun 294. maddesinin ise; ‘‘Temyiz eden, hükmün neden dolayı bozulmasını istediğini temyiz başvurusunda göstermek zorundadır. Temyiz sebebi ancak hükmün hukuki yönüne ilişkin olabilir.’’ şeklinde düzenlendiği de gözetilerek Bölge Adliye Mahkemesi Cumhuriyet savcısının temyiz isteminin somut olayda, dosya kapsamındaki deliller itibariyle suçun sübut bulduğuna yönelik olduğu belirlenerek anılan sebeplere yönelik yapılan incelemede;
+
+Tüm dosya içeriğine göre; sanığın müştekiye ait aracın camını kırarak oto teybini çaldığının iddia edildiği olayda, suçların sanık tarafından işlendiğinin sabit olmadığı anlaşılmakla; beraat kararı hukuka uygun bulunduğundan, Bölge Adliye Mahkemesi Cumhuriyet savcısının yerinde görülmeyen temyiz itirazlarının reddiyle, 5271 sayılı CMK’nın 302/1. maddesi uyarınca, usul ve yasaya uygun olan bölge adliye mahkemesi kararına yönelik TEMYİZ İSTEMİNİN ESASTAN REDDİ ile HÜKMÜN ONANMASINA, 22/03/2018 gününde oybirliğiyle karar verildi.
+
+YARGITAY 2. CEZA DAİRESİ
+Esas : 2018/133 Karar : 2018/871Tarih : 7.02.2018
+
+CMK 294. Madde
+
+Temyiz Başvurusunun İçeriği
+
+I- Sanık hakkında konut dokunulmazlığını bozma ve mala zarar verme suçlarından kurulan hükümler ile ilgili temyiz isteminin incelenmesinde;
+
+Hükmolunan cezaların miktar ve türü gözetildiğinde, 5271 sayılı CMK’nın 286/2-a maddesi uyarınca, ilk derece mahkemelerinden verilen beş yıl veya daha az hapis cezaları ile miktarı ne olursa olsun adli para cezalarına ilişkin istinaf başvurusunun esastan reddine dair bölge adliye mahkemesi kararlarının temyizi mümkün olmadığından, sanık müdafiinin temyiz isteminin 5271 sayılı CMK’nın 298. maddesi uyarınca REDDİNE,
+
+II- Sanık hakkında hırsızlık suçundan kurulan hüküm ile ilgili temyiz isteminin incelenmesinde;
+
+5271 sayılı CMK’nın 288. maddesinin ‘‘Temyiz, ancak hükmün hukuka aykırı olması nedenine dayanır. Bir hukuk kuralının uygulanmaması veya yanlış uygulanması hukuka aykırılıktır.’’ ve aynı Kanun’un 294. maddesinin ise; ‘‘Temyiz eden, hükmün neden dolayı bozulmasını istediğini temyiz başvurusunda göstermek zorundadır. Temyiz sebebi ancak hükmün hukuki yönüne ilişkin olabilir.’’ şeklinde düzenlendiği de gözetilerek sanık müdafiinin temyiz isteminin, sanığın hırsızlık suçunu işlemediği, mağdurun şikayeti olmamasına rağmen üst sınırdan cezalar tayin edildiği, sanık lehine hiçbir indirim yapılmadığına yönelik olduğu belirlenerek anılan sebeplere yönelik yapılan incelemede;
+
+Sanık hakkında mağdura yönelik eylemi sebebiyle hırsızlık suçundan kurulan hükümde herhangi bir isabetsizlik bulunmadığı anlaşılmakla istinaf isteminin esastan reddine dair karar hukuka uygun bulunduğundan, sanık müdafiinin yerinde görülmeyen temyiz itirazının reddiyle, 5271 sayılı CMK’nın 302/1. maddesi uyarınca, usul ve yasaya uygun olan İstanbul Bölge Adliye Mahkemesi 9. Ceza Dairesinin kararına yönelik TEMYİZ İSTEMİNİN ESASTAN REDDİ ile HÜKMÜN ONANMASINA, 07/02/2018 gününde oybirliğiyle karar verildi.
+
+YARGITAY 2. CEZA DAİRESİ
+Esas: 2017/4876 Karar: 2018/19Tarih: 22.01.2018
+
+CMK 294. Madde
+
+Temyiz Başvurusunun İçeriği
+
+Dosya incelenerek gereği düşünüldü;
+
+Hükmolunan cezanın türü ve süresine göre sanık … müdafiinin duruşmalı inceleme isteminin 5320 sayılı Kanunun 8/1. maddesi yollaması ile 1412 sayılı CMUK’nın 318. maddesi uyarınca REDDİNE karar verilerek yapılan incelemede;
+
+1- Sanıklar hakkında mala zarar verme suçundan kurulan hükümlerin incelenmesinde;
+
+Hükmolunan cezaların miktar ve türü gözetildiğinde, 5271 sayılı CMK’nın 286/2-a maddesi uyarınca, ilk derece mahkemelerinden verilen beş yıl veya daha az hapis cezaları ile miktarı ne olursa olsun adli para cezalarına ilişkin istinaf başvurusunun esastan reddine dair bölge adliye mahkemesi kararlarının temyizi mümkün olmadığından, sanıklar müdafiilerinin temyiz istemlerinin 5271 sayılı CMK’nın 298. maddesi uyarınca REDDİNE,
+
+2- Sanıklar hakkında hırsızlık suçundan kurulan hükümlerin incelenmesinde;
+
+5271 sayılı CMK’nın 288. maddesinin5271 sayılı CMK’nın 288. maddesinin ‘‘Temyiz, ancak hükmün hukuka aykırı olması nedenine dayanır. Bir hukuk kuralının uygulanmaması veya yanlış uygulanması hukuka aykırılıktır.’’ ve aynı Kanun’un 294. maddesinin ise; ‘‘Temyiz eden, hükmün neden dolayı bozulmasını istediğini temyiz başvurusunda göstermek zorundadır. Temyiz sebebi ancak hükmün hukuki yönüne ilişkin olabilir.’’ şeklinde düzenlendiği de gözetilerek sanık … müdafiinin temyiz isteminin, sanığın atılı suçu işlediğine dair her türlü şüpheden uzak deliller bulunmamasına karşın ‘şüpheden sanık yararlanır’ ve ‘masumiyet karinesi’ ilkeleri de gözetilmeden mahkumiyetine karar verildiğine yönelik olduğu belirlenerek anılan sebeplere yönelik yapılan incelemede;
+
+a) Elektronik ortamda UYAP-MERNİS’ten alınan 08/01/2018 tarihli nüfus kayıt örneğine göre, sanık …‘nun hükümden sonra 01/03/2017 tarihinde öldüğünün anlaşılması karşısında, 5237 sayılı TCK’nın 64/1. ve 5271 sayılı CMK’nın 223/8. maddeleri uyarınca sanık … hakkında açılan kamu davasının düşürülmesine karar verilmesinde zorunluluk bulunması,
+
+b) Sanık …‘ın üzerine atılı suçu işlemediği yönündeki savunmasının aksini gösterir, diğer sanık …‘nun sanık … ile olay gecesi aynı araçta olduklarına, bu araç ile olay yerine yakın bir yere birlikte geldiklerine dair ve suç atma niteliğinde dahi olmayan ifadelerinden başka mahkumiyetine yeterli her türlü şüpheden uzak, kesin, yeterli ve inandırıcı delillerin neler olduğu tartışılıp denetime olanak sağlayacak şekilde karar yerinde gösterilmeden yeterli olmayan gerekçeyle yazılı şekilde mahkumiyetine karar verilmesi,
+
+Bozmayı gerektirmiş, sanıklar müdafiilerinin temyiz itirazları bu itibarla yerinde görülmüş olduğundan hükmün 1412 sayılı CMUK’nın 321. maddesi uyarınca bu sebepten dolayı BOZULMASINA, 22/01/2018 gününde oybirliğiyle karar verildi.
+
+YARGITAY 14. CEZA DAİRESİ
+Esas: 2017/7699 Karar: 2018/273Tarih: 15.01.2018
+
+CMK 294. Madde
+
+Temyiz Başvurusunun İçeriği
+
+Sanığın beden veya ruh sağlığını bozacak şekilde çocuğun nitelikli cinsel istismarı ve kişiyi hürriyetinden yoksun kılma suçlarından mahkûmiyetine dair İstanbul Anadolu 2. Ağır Ceza Mahkemesinden verilen 11.10.2016 gün ve 2016/106 Esas, 2016/253 Karar sayılı hükümlere yönelik istinaf başvurusunun kabulü ile hükümlerin kaldırılarak, kişiyi hürriyetinden yoksun kılma suçundan beraatine ve beden veya ruh sağlığını bozacak şekilde çocuğun basit cinsel istismarı suçundan mahkûmiyetine
+
+Bölge Adliye Mahkemesince verilen hükümlerden, sadece beden veya ruh sağlığını bozacak şekilde çocuğun basit cinsel istismarı suçundan kurulan hükmün temyiz edildiği anlaşılmakla dosya incelenerek gereği düşünüldü:
+
+5271 sayılı CMK’nın 288, 294.  maddelerinde yer alan düzenlemeler nazara alınıp aynı Kanunun 289. maddesinde sayılan kesin hukuka aykırılık halleri ile sanık müdafiin temyiz dilekçesinde belirttiği nedenler de gözetilerek yapılan değerlendirmede, Bölge Adliye Mahkemesi tarafından gerçekleştirilen inceleme neticesinde istinaf başvurusunun kabulü ile hükmün kaldırılarak sanığın beden veya ruh sağlığını bozacak şekilde çocuğun basit cinsel istismarı suçundan mahkûmiyetine dair kurulan hükme yönelik temyiz sebepleri yerinde görülmediğinden, sanık müdafiin temyiz isteminin 5271 sayılı CMK’nın 302/1. madde ve fıkrası gereğince esastan reddiyle hükmün ONANMASINA, 15.01.2018 tarihinde oybirliğiyle karar verildi.
+
+YARGITAY 2. CEZA DAİRESİ 
+Esas : 2018/1250 Karar : 2018/3536Tarih : 29.03.2018
+
+CMK 294. Madde
+
+Temyiz Başvurusunun İçeriği
+
+5271 sayılı CMK’nın 288. maddesinin ‘‘Temyiz, ancak hükmün hukuka aykırı olması nedenine dayanır. Bir hukuk kuralının uygulanmaması veya yanlış uygulanması hukuka aykırılıktır.’’ ve aynı Kanunun 294. maddesinin ise; ‘‘Temyiz eden, hükmün neden dolayı bozulmasını istediğini temyiz başvurusunda göstermek zorundadır. Temyiz sebebi ancak hükmün hukuki yönüne ilişkin olabilir.’’ şeklinde düzenlendiği de gözetilerek sanık müdafiinin temyiz isteminin somut olayda, dosya kapsamındaki deliller itibariyle suçun sübut bulmadığına yönelik olduğu belirlenerek anılan sebeplere yönelik yapılan incelemede;
+
+Tanık … ile apart otelde aynı odada kalan müştekinin 480 TL ve 100 dolar parasının çalınması şeklinde gerçekleşen olayda, bahse konu eylemi sanığın gerçekleştirdiğine dair aşamalarda beyanı bulunan tanık Ceylan’ın 24/07/2016 tarihli tutanağa göre sanığı yalnızca fotoğrafı üzerinden teşhis edip canlı teşhisinin bulunmadığının anlaşılması karşısında; tanık…‘ın duruşmaya getirtilerek veya SEGBİS vasıtasıyla sanık ile yüzleştirilmesinin sağlanması, mümkün olmadığı takdirde sanığın teşhise elverişli güncel fotoğraflarının temin edilerek tanığa balkonun dış kısmında gördüğü kişinin sanık olup olmadığı sorularak sonucuna göre sanığın hukuki durumunun değerlendirilmesi gerekirken, eksik kovuşturma ile yazılı şekilde karar verilmesi,
+
+Bozmayı gerektirmiş, sanık müdafiinin temyiz nedeni bu itibarla yerinde görülmüş olduğundan CMK’nın 302/2 maddesi gereğince hükmün açıklanan nedenle isteme aykırı olarak BOZULMASINA, 29/03/2018 gününde oybirliğiyle karar verildi.
+
+UYARI

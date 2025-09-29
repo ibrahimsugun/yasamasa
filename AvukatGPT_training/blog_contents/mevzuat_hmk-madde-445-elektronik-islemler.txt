@@ -1,0 +1,582 @@
+Elektronik İşlemler
+
+HMK Madde 445
+
+HMK Madde 445 Gerekçesi
+
+HMK 445 (Elektronik İşlemler) Emsal Yargıtay Kararları
+
+(1) Ulusal Yargı Ağı Bilişim Sistemi (UYAP), adalet hizmetlerinin elektronik ortamda yürütülmesi amacıyla oluşturulan bilişim sistemidir. Dava ve diğer yargılama işlemlerinin elektronik ortamda gerçekleştirildiği hâllerde UYAP kullanılarak veriler kaydedilir ve saklanır.
+
+(2) Elektronik ortamda, güvenli elektronik imza kullanılarak dava açılabilir, harç ve avans ödenebilir, dava dosyaları incelenebilir. Bu Kanun kapsamında fizikî olarak hazırlanması öngörülen tutanak ve belgeler güvenli elektronik imzayla elektronik ortamda hazırlanabilir ve gönderilebilir. Güvenli elektronik imza ile oluşturulan tutanak ve belgeler ayrıca fizikî olarak gönderilmez, belge örneği aranmaz.
+
+(3) Elektronik ortamdan fizikî örnek çıkartılması gereken hâllerde tutanak veya belgenin aslının aynı olduğu belirtilerek hâkim veya görevlendirdiği yazı işleri müdürü tarafından imzalanır ve mühürlenir.
+
+(4) Elektronik ortamda yapılan işlemlerde süre gün sonunda biter.
+
+(5) Mahkemelerde görülmekte olan dava, çekişmesiz yargı, geçici hukuki koruma ve diğer tüm işlemlerde UYAP’ın kullanılmasına dair usul ve esaslar yönetmelikle düzenlenir.
+
+Önerge Gerekçesi:
+
+“Adalet Bakanlığı e-Dönüşüm ve e-Devlet sürecinde gerekli tüm teknolojik gelişmeleri kullanarak Adalet
+Bakanlığı teşkilâtı, bağlı ve ilgili kuruluşları ile tüm yargı ve yargı destek birimlerinin donanım ve yazılım olarak iç
+otomasyonunu ve benzer şekilde bilgi otomasyonu sistemlerini kurmuş kamu kurum ve kuruluşları ile dış birim
+entegrasyonunu sağlayarak e-adaleti kurmayı amaçlamaktadır. Bu çerçevede, kurumu kâğıtsız ofis ortamına
+taşımak, hızlı, etkin, güvenilir, adil, verimli, şeffaf ve etik değerlere uygun bir yargılama mekanizması oluşturmak,
+doğru ve tutarlı bilginin mevzuatın tanıdığı yetkiler çerçevesinde istenilen zamanda hızlı ve kolayca elde
+edilmesini ve paylaşımını, her türlü idarî faaliyetler ile denetim, teftiş ve soruşturmanın hızlı ve etkin bir şekilde
+yürütülebilmesini sağlamak amacıyla, üretkenliği ve verimliliği artırmak için geliştirilen; ölçeklenebilir, çoklukullanıcılı ve iş odaklı yönetim bilişim sistemlerinden biri olan Ulusal Yargı Ağı Bilişim Sistemini (UYAP)
+uygulamaya koymuştur. UYAP kapsamındaki tüm birimlerde her türlü yargısal, idarî ve denetim faaliyetleri bu
+sistemle elektronik ortamda yürütülmektedir.
+
+Merkezî bir bilgi sitemi olan ve elektronik imza alt yapısına uygun olarak geliştirilmiş UYAP ile yargı birimleri ve
+idarî birimlerin tüm bilgi ve belgeleri doğru ve tutarlı, değişmez ve güvenli bir şekilde veritabanında
+saklanmakta, yetkisiz erişimlere izin verilmemektedir. UYAP’ın tam entegrasyonu ve merkezî elektronik ortamda
+tutulan arşivi sayesinde mükerrer veri girişi engellenmiş olup, doğru ve tutarlı bilgi mevzuatın tanıdığı yetkiler
+çerçevesinde başta hâkim ve savcılar ile yargı personeli olmak üzere, tüm kullanıcıların paylaşımına açılmıştır.
+Kullanıcılar bu bilgilere ihtiyaç duyduklarında hızlı ve kolayca ulaşabilmekte, keza, yargı birimleri de aralarında
+her türlü bilgi ve belge alışverişini elektronik ortamda ve anlık denebilecek kısa sürelerde gerçekleştirmektedir.
+Öte yandan UYAP ile diğer kamu kurum ve kuruluşlarının bilgi sistemleriyle sağlanan (Adli Sicil ve İstatistik
+Genel Müdürlüğü-Adli Sicil Bilgi Sisteminden sabıka kayıtları, Nüfus ve Vatandaşlık İşleri Genel MüdürlüğüMERNİS’ten nüfus kayıtları, Emniyet Genel Müdürlüğü-POLNET’ten ehliyet kayıtları, PTT’den tebligatların
+akıbetleri, Merkez Bankasından döviz kurları, KİHBİ ve POLNET’den aranan kişilerin kayıtları gibi) entegrasyonlar
+sayesinde mahkemelerin ihtiyaç duyduğu bilgi ve belgelere elektronik ortamda ulaşılabilmektedir. UYAP ile
+Yargıtay Bilgi Sistemi arasında gerçekleştirilen entegrasyon ile temyiz edilen dosyaların sistem üzerinden
+Yargıtaya gönderilmesi ve geri dönüşü sağlanmıştır.
+
+UYAP kapsamında bulunan Avukat Bilgi Sistemi (Avukat Portalı) ve Vatandaş Bilgi Sistemi (Vatandaş Portalı)
+aracılığıyla avukatlara ve vatandaşlara da internet üzerinden elektronik ortamda yargı hizmeti sunulmaktadır.
+Avukatlar ve vatandaşlar yetkileri dâhilinde sistemdeki vekâleti bulunan dava dosyalarını (vekâleti bulunmayan
+dava dosyalarını da ilgili hâkiminden onay alarak) inceleyebilmekte, bu dosyalardan suret alabilmekte;
+elektronik imza ile sistemdeki dava dosyalarına evrak katabilmekte, yeni dava dosyası açabilmekte, harç ve
+avans ödeyebilmektedirler.
+
+Bu maddeyle Ülkemizde elektronik dava açılması, harç ve avansın elektronik ortamda yatırılması, dosyaların
+elektronik ortamda avukat ve vatandaşlarca incelenmesi ve diğer dava işlemlerinin UYAP sayesinde
+yapılmasının yasal alt yapısı oluşturulmuştur.
+
+Maddenin birinci fıkrasında, UYAP Bilişim Sistemi tanımlanmıştır. Bu fıkrada ayrıca, Kanun kapsamında fizikî
+ortamda yapılan tüm işlemlerin elektronik ortamda UYAP kullanılarak yapılacağı, elektronik verilerin UYAP’a
+kaydedilip burada saklanacağı düzenlenmiştir. Bu sayede örneğin, Kanunun “Dosyaya belge konulması ve
+dosyanın başka yere gönderilmesi” başlıklı 165 inci maddesinde, “Mahkemece belge aslının istenmesi ve geri
+verilmesi” başlıklı 222 nci maddesinde, “Hükmün korunması” başlıklı 306 ncı maddesinde ve “Hüküm nüshası”
+başlıklı 307 nci maddesinde düzenlenen her türlü dilekçe, belgenin ve hükmün dosyasına konulmasına,
+elektronik ortamda yapılan işlemler için çıktı alınmasına, fizikî arşivlerde saklanmasına gerek kalmayacaktır.
+Elektronik ortamdaki belge, tutanak, dilekçe, ses ve görüntü gibi verilerin hukukî değer taşıması için güvenli
+elektronik imza ile imzalanarak kaydedilmesi ve saklanması gereği açıktır.
+
+Maddenin ikinci fıkrasına göre, avukat ve vatandaşların adliyeye gitmeden internete erişebildikleri herhangi bir
+yerden, UYAP aracılığıyla; elektronik dava açabilmeleri, Kanunun örneğin, “Harç ve avans ödenmesi” başlıklı 126
+ncı maddesinde, “Yargılama giderlerinin kapsamı” başlıklı 329 uncu maddesinde, “Harç ve giderlerin yatırılması”
+başlıklı 350 nci maddesinde ve “Yargılama giderleri” başlıklı 447 nci maddesinde düzenlenen dava harç ve
+avansını ödeyebilmeleri mümkün olabilecektir. Ayrıca dava ve diğer yargılama işlemlerini yine internete
+erişebildikleri herhangi bir yerden takip edebilmeleri ve “Dosyanın taraflar ve ilgililerce incelenmesi” başlıklı 167
+nci maddesindeki usulden farklı olarak, çıkarılacak yönetmelikte ayrıntıları belirlenecek usule göre, elektronik
+ortamda dosyalarını inceleyebileceklerdir. Elektronik dava açılması sırasında dilekçeler ve daha sonra
+gönderilecek olan belgelerin örneğin, “Dava dilekçesinin içeriği” başlıklı 125 inci maddenin birinci fıkrasının (h)
+bendinde, “Cevap dilekçesinin içeriği” başlıklı 135 inci maddenin birinci fıkrasının (ğ) bendinde, “Hükmün
+kapsamı” başlıklı 303 üncü maddenin birinci fıkrasının (d) bendinde, “Hükmün yazılması” başlıklı 304 üncü
+maddesinin dördüncü fıkrasında ve “Temyiz dilekçesi” başlıklı 370 inci maddenin ikinci fıkrasının (ğ) bendindeki
+imza şartının, güvenli elektronik imza ile imzalanacağı açıktır. Bu Kanunda örneğin, “Davanın açılma zamanı”
+başlıklı 124 üncü maddesinde, “Cevap dilekçesinin verilmesi” başlıklı 132 nci maddesinde, “Tavzih talebi ve
+usulü” başlıklı 312 nci maddesinde ve “Temyiz dilekçesi” başlıklı 370 inci maddesinde belirtilen taraf sayısınca
+dilekçe örneği istenmesi, elden belge teslim edilmesi gibi fizikî ortama ilişkin işlemlerin doğası gereği elektronik
+ortamda istenmesi mümkün değildir. Bu nedenle, elektronik ortamın gerektirdiği işlemlerin bu ortama özgü
+şekilde yapılması düzenlenmiştir. Güvenli elektronik imza kullanılarak yapılan işlemler veya bu şekilde sunulan
+belgelerin ayrıca fizikî olarak gönderilmesi istenilmeyecektir.
+
+Maddenin üçüncü fıkrasında, elektronik ortamdaki bir belgeden, tutanaktan veya benzeri veriden fizikî örnek
+çıkartılarak ilgiliye verilmesi veya bir birime gönderilmesi gereken hâllerde, tutanak veya belgenin aslının aynı
+olduğu belirtilerek imzalanması ve mühürlenmesi öngörülmüştür.
+
+Maddenin dördüncü fıkrasında, Kanunun “Sürelerin bitimi” başlıklı 98 inci maddesinde ve “Tatil günlerinin etkisi”
+başlıklı 99 uncu maddesinde düzenlenen tatil saati veya çalışma saati yerine, yedi gün yirmi dört saat esasına
+göre çalışan UYAP sisteminin kullanılması hâlinde “gün sonu” kavramı kabul edilmiştir. Böylece avukatların ve
+vatandaşların saat yirmidörde kadar elektronik ortamda rahat bir şekilde sıraya girmeden işlem yapmaları
+imkânı sağlanmıştır.
+
+Maddenin beşinci fıkrasında, elektronik ortamda dava açılması, harç ve avansın ödenmesi, dava dosyalarının
+UYAP Bilgi Sistemleri aracılığıyla incelenmesi, elektronik ortamda dava dosyalarının tevzi edilmesi, saklanması,
+kaydedilmesi gibi mahkemelerde görülmekte olan dava, çekişmesiz yargı, geçici hukukî koruma ve diğer tüm
+işlemlerde UYAP’ın kullanılmasına dair usul ve esasların yönetmelikle düzenlenmesi öngörülmüştür.”
+
+Önerge kabul edilerek tasarıya 451. madde ilave edilmiştir.
+
+YARGITAY 9. HUKUK DAİRESİ 
+Esas : 2015/25861 Karar : 2018/15337Tarih : 10.09.2018
+
+HMK 445. Madde
+
+Elektronik İşlemler
+
+HMK.nın 297. maddesinde hükmün nasıl oluşturulacağı, yine HMK.nın 298/2. maddesinde gerekçeli kararın tefhim edilen karara aykırı olamayacağı hüküm altına alınmıştır.
+
+HMK.nın 445. maddesi ile HMK.nın uygulanmasına ilişkin yönetmeliğe göre elektronik ortamda saklanan UYAP kayıtları asıldır.
+
+Yukarıda Mahkemesi ve esas/karar sayıları yazılı dava dosyasının uyap kayıtlarındaki gerekçeli kararı yazıya dökülerek incelendiğinde;
+
+Duruşmada tefhim edilen hüküm özetinin aynen;
+
+“ Davanın kısmen kabul ile,
+
+9.305,03 TL fm nin temrrüt tarihi olan 29/06/2013 den işleyecek mevduat fazi ile davalıdan alınarak davacıya verilmesine, kıdem tazti talebi ile fazlaya ilişkin talebin reddine” şeklinde oluşturulduğu,
+
+Fiziki dosyadaki ıslak imzalı gerekçeli kararın hüküm fıkrasının tefhim edilen hüküm özetine uygun olduğu,
+
+Ancak UYAP ortamında elektronik olarak oluşturulan ve HMK.nın 445. maddesi ile HMK. nın uygulanmasına ilişkin yönetmeliğe göre asıl olan kararın gerekçesinde ıslak imzalı karardaki 5 paragrafın eksik olduğu ve asıl önemlisi hüküm sonucunun aynen;
+
+“ HÜKÜM : Yukarıda açıklanan nedenlerle,
+
+Davanın *** Kabulüyle,
+
+.. TL net kıdem tazminatı alacağının fesih tarihi olan .. tarihinden itibaren işleyecek en yüksek banka mevduat faizi ile birlikte,
+
+.. TL net ihbar tazminatının TL’sinin dava tarihi olan .. tarihinden ve geri kalan .. TL`sinin ıslah tarihi olan .. tarihinden itibaren işleyecek yasal faizi ile birlikte,
+
+.. TL net fazla mesai ücretinin TL’sinin dava tarihi olan .. tarihinden ve geri kalan .. TL`sinin ıslah tarihi olan .. tarihinden itibaren işleyecek en yüksek banka mevudat faizi ile birlikte,
+
+.. TL net genel tatil ücretinin TL’sinin dava tarihi olan .. tarihinden ve geri kalan .. TL`sinin ıslah tarihi olan .. tarihinden itibaren işleyecek en yüksek banka mevudat faizi ile birlikte,
+
+.. TL net ücret alacağının TL’sinin dava tarihi olan .. tarihinden ve geri kalan .. TL`sinin ıslah tarihi olan .. tarihinden itibaren işleyecek en yüksek banka mevudat faizi ile birlikte,
+
+.. TL net yıllık izin ücretinin TL’sinin dava tarihi olan .. tarihinden ve geri kalan .. TL`sinin ıslah tarihi olan .. tarihinden itibaren işleyecek yasal faizi ile birlikte,
+
+Davalıdan alınarak davacıya verilmesine,
+
+Alınması gereken** TL Nispi karar ve ilam harcından peşin alınan **TL`nin mahsubundan sonra kalan *** TL harcın davalıdan alınarak hazineye irad kaydına,
+
+Hüküm tarihi itibariyle yürürlükte bulunan Avukatlık Asgari Ücret Tarifesine göre hesaplanan ***TL vekalet ücretinin davalıdan alınarak davacıya verilmesine,
+
+Davacı tarafından yapılan masrafların davanın kabul ve reddedilen kısımları dikkate alınarak hesaplanan kısmına peşin alınan** TL harcın ilavesiyle bulunan **TL yargılama giderinin davalıdan alınarak davacıya verilmesine,
+
+Tarifenin aynı hükmü uyarınca davanın reddolunan kısmı için hesaplanan ***TL red vekalet ücretinin davacıdan alınarak davalıya verilmesine,
+
+3,75 TL
+
+Gider avansından kalan kısmın karar kesinleşince taraflara iadesine,
+
+Dair 8 gün içerisinde temyiz yolu açık olmak üzere verilen karar**** açıkça okunup usulen anlatıldı. 02/07/2015 “ şeklinde oluşturulduğu görülmüştür.
+
+Öncelikle asıl olan UYAP kayıtlarındaki gerekçeli karar ile fiziki dosyadaki ıslak imzalı kararın gerekçesi birbirine uymamakta, uyaptaki kararda 5 paragraf eksik bulunmaktadır.
+
+Uyaptaki gerekçeli kararın hüküm fıkrası ise boş bir şablon olarak hazırlanmıştır.
+
+Mahkemenin fiziki dosyasındaki gerekçeli kararın hüküm sonucunu içermesine rağmen, UYAP kayıtlarında bulunan gerekçeli kararda hüküm sonucunun yazılmaması ve fiziki dosyadaki gerekçeli karar ile uyap ortamındaki kararın gerekçesinin birbirini tutmaması HMK.nın 298/2 ve HMK.nın 445. maddesi ile HMK. nın uygulanmasına ilişkin yönetmeliğe aykırı olup, belgelendirmeyi bozucu nitelikte olduğundan kararın bozulması gerekmiştir.
+
+SONUÇ:
+
+Temyiz olunan kararın yukarıda açıklanan nedenlerle BOZULMASINA, bozma sebebine göre esasa ilişkin temyiz itirazlarının bu aşamada incelenmesine yer olmadığına, peşin alınan temyiz harçlarının istek halinde ilgililere iadesine, 10.09.2018 tarihinde oy birliği ile karar verildi.
+
+YARGITAY 1. HUKUK DAİRESİ 
+Esas : 2016/17023 Karar : 2018/10330Tarih : 17.05.2018
+
+HMK 445. Madde
+
+Elektronik İşlemler
+
+Dava, tapu kaydında yanlış yazılan kimlik bilgilerinin düzeltilmesi isteğine ilişkindir.
+
+Mahkemece, davanın reddine karar verilmiştir.
+
+Bilindiği üzere;tarafların tüm delilleri toplanıp, tetkik edildikten, son sözleri dinlenip duruşmanın bittiği bildirildikten sonra hakimin HMK.’nun 298. maddesi uyarınca kararı gerekçesi ile birlikte (tam olarak) yazması ve hüküm sonucunu HMK’nun 297/2. maddesinde öngörülen biçimde tefhim etmesi asıldır.
+
+Ne var ki, uygulamada HMK’nun 294. maddesinin getirdiği imkândan faydalanarak bazı zorunlu nedenlerle sadece hükmün sonucu tutanağı geçirilip tefhim edilmekte, gerekçeli karar daha sonra yazılmaktadır.
+
+Öte yandan,HMK.’nun 297. maddesinde hükmün kapsamının hangi hususları içereceği düzenlenmiş olup, aynı maddenin (c) fıkrasında ‘’ Tarafların iddia ve savunmalarının özetini, anlaştıkları ve anlaşamadıkları hususları, çekişmeli vakıalar hakkında toplanan delilleri, delillerin tartışılması ve değerlendirilmesini, sabit görülen vakıalarla bunlardan çıkarılan sonuç ve hukuki sebeplerini’’ içermesi gerektiği belirtilmiş olup;bu bölüm,hükmün gerekçe kısmıdır.
+
+Nitekim ,Anayasa’nın 141/3. maddesinde de;’’ Bütün mahkemelerin her türlü kararları gerekçeli olarak yazılır.’’ hükmüne yer verilmiştir.
+
+./..
+
+Diğer taraftan, HMK.’nun elektronik işlemleri düzenleyen 445. maddesinin 1. fıkrasında, dava ve diğer yargılama işlemlerinin elektronik ortamda gerçekleştirildiği hallerde verilerin … kullanılarak kaydedilip saklanacağı ifade edilmiş;aynı maddenin 2. fıkrasında ise;bu Kanun kapsamında fizikî olarak hazırlanması öngörülen tutanak ve belgelerin güvenli elektronik imzayla elektronik ortamda hazırlanabileceği ve gönderilebileceği hükme bağlanmıştır.
+
+Yine, Bölge Adliye ve Adlî Yargı İlk Derece Mahkemeleri ile Cumhuriyet Başsavcılıkları İdarî ve Yazı İşleri Hizmetlerinin Yürütülmesine Dair Yönetmelik’in 5/1. maddesinde de ‘‘İş süreçlerindeki her türlü veri, bilgi ve belge akışı ile dokümantasyon işlemleri, bu işlemlere ilişkin her türlü kayıt, dosyalama, saklama ve arşivleme işlemleri ile uyum ve işbirliği sağlanmış dış birimlerle yapılacak her türlü işlemler … ortamında gerçekleştirilir.’’ hükmüne yer verilmiş, aynı maddenin 7. fıkrasında ise, “Tutanak, belge ve kararlar elektronik ortamda düzenlenir ve gerekli olanlar ilgilileri tarafından güvenli elektronik imza ile imzalanır. Elektronik ortamda düzenlenen ve güvenli elektronik imza ile imzalanan evrak UYAP kapsamındaki birimlere elektronik ortamda gönderilir. Ayrıca fizikî olarak gönderilmez.” hükmü yer almıştır.
+
+Anılan Yönetmeliği’n 214. maddesinde ise; “Elektronik ortamda hazırlanan hüküm, hükme katılan başkan ve hâkimler ile zabıt kâtibi tarafından güvenli elektronik imza ile imzalanarak … veri tabanında saklanır. Ayrıca hükmün çıktısı hükme katılan başkan ve hâkimler ile zabıt kâtibi tarafından imzalanıp mahkeme mührüyle mühürlenerek karar kartonunda muhafaza edilir” hükmü öngörülmüştür.
+
+Tüm bu açıklamalar ışığında somut olaya gelince; dava dosyasında fiziken mevcut ıslak imzalı kararda “davacının mahkemeye müracaat etmeden önce ilgili tapu müdürlüğüne başvurmadığı” gerekçe gösterilmek suretiyle hüküm kurulduğu halde … sisteminde kayıtlı elektronik imzalı kararın gerekçesinin “davacının mahkemeye müracaat etmeden önce ilgili tapu müdürlüğüne ve bölge müdürlüğüne başvurduğu ,ancak Genel Müdürlüğe başvurmadığı “ şeklinde açıklandığı ,böylece,dosya kapsamında gerekçeleri birbirinden farklı ve çelişkili iki kararın mevcut olduğu anlaşılmakta olup;mahkemelere güven ilkesini de zedeleyen bu durum karşısında ;anılan yasal düzenlemelere göre kararın bozulması gerekmiştir.
+
+Davacılar vekilinin yerinde bulunan temyiz itirazlarının kabulü ile, hükmün (6100 sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK’un 428.maddesi gereğince BOZULMASINA, bozma nedenine göre sair hususların şimdilik incelenmesine yer olmadığına, alınan peşin harcın temyiz edene geri verilmesine, 17.05.2018 tarihinde oybirliğiyle karar verildi.
+
+YARGITAY 8. HUKUK DAİRESİ 
+Esas : 2016/3205 Karar : 2018/1718Tarih : 6.02.2018
+
+HMK 445. Madde
+
+Elektronik İşlemler
+
+Dava dosyası, inceleme için Yargıtay`a elektronik ortamda gönderilmiştir.
+
+Ulusal Yargı Ağı Bilişim Sistemi (UYAP) kullanılarak Yargıtay`a elektronik ortamda gönderilen dosyaların, elektronik ortamda incelenebilmesi için, fiziki dosyadaki tüm evrakların “tarama” suretiyle elektronik ortama aktarılmış olması zorunludur (HMK md. 445). Hiç kaydedilmemiş veya sisteme kaydedildiği halde taranmamış, eksik ya da hatalı taranmış veya usulüne uygun tarandığı halde doğru isimlendirilmemiş evrak barındıran dosyaların temyiz ve karar düzeltme incelemelerinin elektronik ortamda incelenebilmesi mümkün değildir. Açıklanan sebeple fiziki imkansızlık sebebiyle taranamayan belge varsa veya temyiz incelemesinin duruşmalı yapılması talep edilmiş ise dosyanın elektronik ortamda değil, fiziki olarak gönderilmesi, fiziki olarak gönderilen dosyaların da ayrıca elektronik ortamda gönderilmemesi gerekir.
+
+Dairemize elektronik ortamda gönderilen ve sisteme kaydedilen dosyanın elektronik ortamda yapılan incelemesinde; davaya dayanak takip dosyası içeriğindeki bazı evrakların okunaklı olmadığı bazılarının ise eksik tarandığı görülmüştür. Bu halde dosyanın Yargıtay’ca elektronik ortamda inceleme imkanı bulunmamaktadır. Bu sebeple, takip dosyasıyla beraber dosyanın bu halde inceleme için fiziki olarak gönderilmesi; fiziki olarak gönderme halinde de, ayrıca elektronik ortamda gönderilmemesi için elektronik ortamda gönderilen dosyanın aynı ortamda Mahalli Mahkemesi`ne GERİ ÇEVRİLMESİNE, 06.02.2018 tarihinde oybirliğiyle karar verildi.
+
+YARGITAY 2. HUKUK DAİRESİ 
+Esas : 2017/2167 Karar : 2017/4357Tarih : 17.04.2017
+
+HMK 445. Madde
+
+Elektronik İşlemler
+
+Dava dosyası inceleme için elektronik ortamda gönderilmiştir.
+
+Ulusal Yargı Ağı Bilişim Sistemi (UYAP) kullanılarak Yargıtay`a elektronik ortamda gönderilen dosyaların elektronik ortamda incelenebilmesi için dosyadaki tüm evrakların “taranma” suretiyle elektronik ortama aktarılmış olması zorunludur (HMK m. 445).
+
+Hiç kaydedilmemiş veya sisteme kaydedildiği halde taranmamış, eksik ya da hatalı taranmış veya usulüne uygun tarandığı halde doğru isimlendirilmemiş evrak barındıran dosyaların elektronik ortamda incelenebilmesi mümkün değildir.
+
+Açıklanan sebeple, fiziki imkansızlık sebebiyle taranamayan belge var ise, dosyanın elektronik ortamda değil, fiziki olarak gönderilmesi (duruşmalı temyiz edilen dosyaların her halükarda elektronik değil, fiziki olarak gönderilmesi) gerekmektedir. Fiziki olarak gönderilen dosyalar ayrıca elektronik ortamda gönderilmemelidir.
+
+Dairemize elektronik ortamda gönderilen ve sisteme kaydedilen dosyanın yapılan ön incelemesinde yukarıdaki esaslara uyulmadığı görülmektedir. Bu halde dosyanın elektronik ortamda incelenebilmesi mümkün değildir. Mahkemesince dosyanın fiziki olarak gönderilmesi amacıyla mahalli mahkemesine İADESİNE oybirliğiyle karar verildi.
+
+YARGITAY 6. HUKUK DAİRESİ
+Esas : 2015/12449 Karar : 2016/7574Tarih : 15.12.2016
+
+HMK 445. Madde
+
+Elektronik İşlemler
+
+Temyiz incelenmesine konu dosya HMK. nın 445. maddesi ve Hukuk Muhakemeleri Kanunu Yönetmeliği`nin 5.maddesi gereğince, elektronik ortamda dairemize gönderilmişse de, tamamının UYAP ortamına eksiksiz ve okunaklı olarak aktarılmaması nedeniyle elektronik ortamda temyiz incelenmesi sağlıklı bir şekilde yapılamamaktadır.
+
+Davanın konusu olan Bakırköy 4. İcra Müdürlüğünün 2014/8556 Esas sayılı icra takip dosyası UYAP ortamına taranmamıştır. Bu nedenle fiziki dosyanın incelenmesi gerektiğinden, davaya dayanak Bakırköy 4. İcra Müdürlüğünün 2014/8556 Esas sayılı icra takip dosyası da dosya içerisine alınarak, dosyanın tamamının fiziki olarak gönderilmesi için mahal mahkemesine GERİ ÇEVRİLMESİNE, 15.12.2016 tarihinde oybirliğiyle karar verildi.
+
+YARGITAY 8. HUKUK DAİRESİ
+Esas : 2015/491 Karar : 2016/13617Tarih : 12.10.2016
+
+HMK 445. Madde
+
+Elektronik İşlemler
+
+Dava dosyası, temyiz incelemesi için Yargıtay`a elektronik ortamda gönderilmiştir.
+
+Ulusal Yargı Ağı Bilişim Sistemi (UYAP) kullanılarak Yargıtay`a elektronik ortamda gönderilen dosyaların, elektronik ortamda incelenebilmesi için, fiziki dosyadaki tüm evrakların “tarama” suretiyle elektronik ortama aktarılmış olması zorunludur (HMK md. 445). Hiç kaydedilmemiş veya sisteme kaydedildiği halde taranmamış, eksik ya da hatalı taranmış veya usulüne uygun tarandığı halde doğru isimlendirilmemiş evrak barındıran dosyaların temyiz ve karar düzeltme incelemelerinin elektronik ortamda incelenebilmesi mümkün değildir. Açıklanan sebeple fiziki imkansızlık sebebiyle taranamayan belge varsa veya temyiz incelemesinin duruşmalı yapılması talep edilmiş ise dosyanın elektronik ortamda değil, fiziki olarak gönderilmesi, fiziki olarak gönderilen dosyaların da ayrıca elektronik ortamda gönderilmemesi gerekir.
+
+Dairemize elektronik ortamda gönderilen ve sisteme kaydedilen dosyanın elektronik ortamda yapılan incelemesinde; ilgili takip dosyası içeriğinin bir kısmı elektronik ortamda görüntülenememiştir. Bu halde dosyanın Yargıtay’ca elektronik ortamda inceleme imkanı bulunmamaktadır. Ayrıca, gerekçeli kararın da davacıya ve davalı alacaklıya tebliğ edildiğine dair tebligatlara ve mazbatalara rastlanmamıştır. Yukarıda belirtilen belgelerle beraber dava dosyası, takip dosyası ve ilgili dosyaların inceleme için fiziki olarak gönderilmesi; fiziki olarak gönderme halinde de, ayrıca elektronik ortamda gönderilmemesi, ayrıca gerekçeli kararın davacıya ve davalı alacaklıya tebliği, varsa tarafların gerekçeli temyiz dilekçelerinin eklenmesi ve temyiz süresi geçirildikten sonra dosyanın temyiz incelemesine gönderilmesi için elektronik ortamda gönderilen dosyanın aynı ortamda Mahalli Mahkemesi`ne İADESİNE, 12.10.2016 tarihinde oybirliğiyle karar verildi.
+
+YARGITAY 9. HUKUK DAİRESİ 
+Esas : 2016/28524 Karar : 2016/17162Tarih : 4.10.2016
+
+HMK 445. Madde
+
+Elektronik İşlemler
+
+Mahkemece bozmaya uyularak davanın kabulü ile davacının işe iadesine ve yasal sonuçlarına karar verilmesi yerindedir. Bu nedenle davalı vekilinin esasa ilişkin temyiz itirazları yerinde görülmemiştir.
+
+Ancak;
+
+HMK. nun 445. Maddesi ile HMK. nun uygulanmasına ilişkin yönetmeliğe göre elektronik ortamda saklanan UYAP kayıtları asıldır.
+
+Yukarıda Mahkemesi ve esas/karar sayıları yazılı dava dosyasının uyap kayıtlarındaki gerekçeli kararı ile fiziki dosyadaki gerekçeli kararı karşılaştırıldığında;
+
+UYAP kayıtlarında bulunan gerekçeli karar ile fiziki dosyadaki gerekçeli kararın hüküm kısmının harca ilişkin 2/a bendi dışında aynı olduğu, fiziki dosyadaki gerekçeli kararda davalının harçtan sorumlu tutulduğu, uyapdaki gerekçeli kararın hüküm fıkrasında ise davalının harçtan muaf tutulduğu, bu şekilde çelişki yaratılmasının hatalı olup, bozma sebebi ise de, bu yanlışlığın düzeltilmesinin yeniden yargılamayı gerektirmediği anlaşıldığından hükmün 4857 sayılı Yasa’ nın 20/3 ve HMK. nun geçici 3/2. maddesi yollaması ile HUMK. nun 438/7. maddesi uyarınca düzeltilerek onanmasına karar vermek gerekmiştir.
+
+Sonuç:
+
+Hüküm fıkrasının 2/a bendinin çıkartılarak, yerine;
+
+“ a) Davalı Üniversite 2547 sayılı Yasa’ nın 56/b maddesi uyarınca harçtan muaf olduğundan harca hükmedilmesine yer olmadığına, davacının yatırdığı başvuru ve peşin harcın karar kesinleştiğinde ve isteği halinde davacıya iadesine, “ bendinin yazılmasına, hükmün bu şekilde DÜZELTİLEREK ONANMASINA, 04.10.2016 gününde oybirliğiyle karar verildi.
+
+YARGITAY 11. HUKUK DAİRESİ 
+Esas : 2015/9246 Karar : 2016/3958Tarih : 11.04.2016
+
+HMK 445. Madde
+
+Elektronik İşlemler
+
+Davacı vekili, müvekkili şirketin “MAY” esas unsurlu markaların sahibi olduğunu, davalı M.Y.`ın bu markalar ile karıştırma ihtimali bulunacak derecede benzer nitelikteki “MAY ECZANE” ibaresini marka olarak tescil ettirmek üzere davalı TPE’ne başvuruda bulunduğunu, talebin nihai olarak YİDK tarafından reddedildiğini belirterek, 2013-M-5210 sayılı YİDK kararının iptaline ve itirazın kabulü suretiyle davalı adına tescil edilen markanın sicilden terkin edilmesine karar verilmesini talep ve dava etmiştir.
+
+Davalı TPE vekili, Enstitü işlem ve kararlarının usule ve KHK hükümlerine uygun olduğunu, dava konusu markaların benzer olduğunu, tüketici nezdinde söz konusu markalar arasında iltibas yaratacağını savunarak, davanın reddini istemiştir.
+
+Davalı M.Y. vekili, müvekkili başvurusu ile davacı markalarının benzer olmadığını, kullanıldıkları sınıfların da farklı olduğunu savunarak, davanın reddini istemiştir. Mahkemece, tüm dosya kapsamına göre, davanın yasal süresinde açılmaması nedeniyle ve dava şartı yokluğundan dolayı usulden reddine karar verilmiştir. Kararı davacı vekili temyiz etmiştir.
+
+Dava, davalı tarafından yapılan marka başvurusu ile ilgili olarak davalı TPE tarafından verilen YİDK kararının iptali ve tescil edildiği takdirde davalı markasının hükümsüzlüğü ve sicilden terkini isteminden ibarettir.
+
+Mahkemece, davanın yasal süresinde açılmaması nedeniyle reddine karar verilmiştir.
+
+HMK 445/4 “Elektronik İşlemler” başlığını taşıyan hükmü “Elektronik ortamda yapılan işlemlerde süre gün sonunda biter.” şeklindedir. 03.04.2012 tarihli RG’de yayımlanan Hukuk Muhakemeleri Yönetmeliği`nin 9. maddesinde “Elektronik ortamda yapılacak işlemlerin, ertesi güne sarkmaması açısından saat 00:00’a kadar yapılması zorunludur. Fizikî ortamda yapılan işlemlerde süre mesai saati sonunda biter” şeklinde açıklanmıştır.Bu açıklamalar ışığında davacının davasını süresinde açtığının kabulü gerekirken yazılı gerekçelerle davanın reddine karar verilmesi doğru görülmemiş, bozmayı gerektirmiştir.
+
+SONUÇ: Yukarıda açıklanan nedenlerle davacı vekilinin temyiz itirazlarının kabulü ile kararın davacı yararına BOZULMASINA, ödediği temyiz peşin harcın isteği halinde temyiz edene iadesine,   oybirliğiyle karar verildi.
+
+YARGITAY 6. HUKUK DAİRESİ 
+Esas : 2015/6629 Karar : 2016/1838Tarih : 9.03.2016
+
+HMK 445. Madde
+
+Elektronik İşlemler
+
+Temyiz incelemesine konu dosya HMK.nın 445 maddesi ve Hukuk Muhakemeleri Kanunu Yönetmeliği`nin 5.maddesi gereğince, elektronik ortamda dairemize gönderilmişse de, tamamının UYAP ortamına eksiksiz ve okunaklı olarak aktarılmaması nedeniyle elektronik ortamda temyiz incelemesi sağlıklı bir şekilde yapılamamaktadır.
+
+Bu nedenle fiziki dosyanın incelenmesi gerektiğinden, davaya dayanak …. İcra Müdürlüğü`nün 2014/8463 Esas sayılı icra takip dosyasının ödeme emri tebliğ belgesi ekli aslı veya onaylı ve eksiksiz bir örneği ile taraflara yapılan tebligatlara ilişkin belgelerin de dosya içerisine alınarak, dosyanın tamamının fiziki olarak gönderilmesi için mahal mahkemesine GERİ ÇEVRİLMESİNE, 09/03/2016 tarihinde oybirliğiyle karar verildi.
+
+YARGITAY 17. HUKUK DAİRESİ 
+Esas : 2015/1872 Karar : 2015/14591Tarih : 21.12.2015
+
+HMK 445. Madde
+
+Elektronik İşlemler
+
+Ulusal Yargı Ağı Bilişim Sistemi (UYAP) kullanılarak Yargıtay’a elektronik ortamda gönderilen dosyaların elektronik ortamda incelenebilmesi için dosyadaki tüm evrakların “taranma” suretiyle okunaklı biçimde elektronik ortama aktarılmış olması zorunludur. (HMK`nin 445. maddesi)
+
+Hiç kaydedilmemiş veya sisteme kaydedildiği halde taranmamış, eksik ya da hatalı taranmış veya usulüne uygun tarandığı halde doğru isimlendirilmemiş evrak barındıran dosyaların elektronik ortamda incelenebilmesi mümkün değildir. Açıklanan sebeple, fiziki imkansızlık sebebiyle taranmayan belge var ise, dosyanın elektronik ortamda değil, fiziki olarak gönderilmesi gerekmektedir.
+
+Temyize konu, dairemize elektronik ortamda gönderilen ve sisteme kaydedilen dosyanın yapılan ön incelemesinde yukarıdaki esaslara uyulmadığı görülmektedir. (Örn:Tebligatların şerhli bölümleri, harç tahsil makbuzları ve bunun gibi bir kısım evraklar dosyada görülmediği gibi var olan bir kısım evrakların okunaklı olmadığı görülmüştür.)
+
+Bu halde dosyanın elektronik ortamda incelenebilmesi mümkün değildir.
+
+Temyiz denetiminin sağlıklı bir şekilde yapılabilmesi için dosyanın fiziken incelenmesi gerektiğinden dava dosyasının tümünün fiziken gönderilmesi için dosyanın mahalline geri çevrilmesine karar vermek gerekmiştir.
+
+Yukarıda açıklanan nedenlerle dosyanın yerel mahkemesine ( GERİ ÇEVRİLMESİNE ) oybirliği ile karar verildi.
+
+YARGITAY 17. HUKUK DAİRESİ
+Esas : 2015/10461 Karar : 2015/14620Tarih : 21.12.2015
+
+HMK 445. Madde
+
+Elektronik İşlemler
+
+Ulusal Yargı Ağı Bilişim Sistemi (UYAP) kullanılarak Yargıtay’a elektronik ortamda gönderilen dosyaların elektronik ortamda incelenebilmesi için dosyadaki tüm evrakların “taranma” suretiyle okunaklı biçimde elektronik ortama aktarılmış olması zorunludur. (HMK`nin 445. maddesi) Hiç kaydedilmemiş veya sisteme kaydedildiği halde taranmamış, eksik ya da hatalı taranmış veya usulüne uygun tarandığı halde doğru isimlendirilmemiş evrak barındıran dosyaların elektronik ortamda incelenebilmesi mümkün değildir. Açıklanan sebeple, fiziki imkansızlık sebebiyle taranmayan belge var ise, dosyanın elektronik ortamda değil, fiziki olarak gönderilmesi gerekmektedir.
+
+Temyize konu, dairemize elektronik ortamda gönderilen ve sisteme kaydedilen dosyanın yapılan ön incelemesinde yukarıdaki esaslara uyulmadığı görülmektedir. (Örn:Tebligatların şerhli bölümleri, harç tahsil makbuzları ve bunun gibi bir kısım evraklar dosyada görülmediği gibi var olan bir kısım evrakların okunaklı olmadığı görülmüştür.) Bu halde dosyanın elektronik ortamda incelenebilmesi mümkün değildir. Temyiz denetiminin sağlıklı bir şekilde yapılabilmesi için dosyanın fiziken incelenmesi gerektiğinden dava dosyasının tümünün fiziken gönderilmesi için dosyanın mahalline geri çevrilmesine karar vermek gerekmiştir.
+
+SONUÇ:
+
+Yukarıda açıklanan nedenlerle dosyanın yerel mahkemesine ( GERİ ÇEVRİLMESİNE ) oybirliğiyle karar verildi.
+
+YARGITAY 2. HUKUK DAİRESİ 
+Esas : 2014/20981 Karar : 2015/5713Tarih : 26.03.2015
+
+HMK 445. Madde
+
+Elektronik İşlemler
+
+Temyiz dilekçesinde temyiz eden davalı vekili Av. H.. P..`nun imzası bulunmamaktadır. Dilekçenin elektronik imzayı ihtiva ettiği de belirtilmemiştir. Hükmü veren mahkemeye temyiz dilekçesinin UYAP işletim sistemi kullanılarak elektronik ortamda verilmesi, ya da fiziki olarak verilen belgenin elektronik ortama aktarılması mümkün ise de; birinci halde temyiz dilekçesinin güvenli elektronik imza ile imzalanmış olması ve bunun dilekçede açıkça belirtilmiş bulunması, ikinci halde de, başka bir ifade ile elektronik ortamdan fiziki örnek çıkartılmışsa, bunun aslının aynı olduğunun hakim veya görevlendirdiği yazı işleri müdürü tarafından imzalanıp, mühürlenmiş olması gerekir (HMK md.445). Temyiz dilekçesinin üzerine “Uyap çıktısı” notu düşülmüş ise de, aslının aynı olduğuna dair hakim veya görevlendirdiği yazı işleri müdürünün herhangi bir imzası ve mühürü bulunmamaktadır. Bu haliyle temyiz dilekçesinin incelenmesi mümkün değildir. Dilekçe;
+
+a) Fiziki olarak verilmiş ise imza noksanlığının dilekçeyi veren vekile tamamlattırılması,
+
+b) Elektronik ortamdan alınan çıktı ise, aslına uygun olduğunun hakim veya görevlendirdiği yazı işleri müdürü tarafından imzalanıp mühürlenmesinden sonra gönderilmek üzere dosyanın mahalli mahkemesine ( İADESİNE ), oybirliğiyle karar verildi.
+
+YARGITAY HUKUK GENEL KURULU
+Esas: 2015/22-1265 Karar: 2017/1005Tarih: 24.05.2017
+
+HMK 445. Madde
+
+Elektronik İşlemler
+
+Taraflar arasındaki “işçilik alacağı” davasından dolayı yapılan yargılama sonunda; Ankara 13. İş Mahkemesince davanın kısmen kabulüne dair verilen 26.09.2012 gün ve 2010/332 E., 2012/745 K. sayılı kararın temyizen incelenmesi davalı vekili tarafından istenilmesi üzerine, Yargıtay 22. Hukuk Dairesinin 15.11.2013 gün ve 2012/27995 E., 2013/24715 K. sayılı kararı ile;
+
+( … Davacı İsteminin Özeti:
+
+Davacı, kamyon şoförü olarak çalıştığını, iş sözleşmesinin haksız şekilde işverence feshedildiğini ileri sürerek, kıdem ve ihbar tazminatları ile, izin, hafta ve genel tatil alacaklarını istemiştir.
+
+Davalı Cevabının Özeti:
+
+Davalı, davacının iş talimatlarına uymadığını, devamsızlık yapmayı alışkanlık haline getirmesi sebebi ile haklı sebeple iş sözleşmesinin feshedildiğini savunarak, davanın reddini istemiştir.
+
+Mahkeme Kararının Özeti:
+
+Mahkemece, toplanan kanıtlar ve bilirkişi raporuna dayanılarak, davalının iş sözleşmesini fesihte haksız olduğu gerekçesiyle kıdem, ihbar tazminatının kabulüne hak kazandığı halde ödenmeyen izin ve genel tatil alacağının kabulüne, çalıştığını ispatlayamadığı için hafta tatilinin reddine karar verilmiştir.
+
+Temyiz:
+
+Kararı davalı temyiz etmiştir.
+
+Gerekçe:
+
+1- )Dosyadaki yazılara toplanan delillerle kararın dayandığı kanuni gerektirici sebeplere göre, davalının aşağıdaki bendin kapsamı dışında kalan temyiz itirazları yerinde değildir.
+
+2- ) Taraflar arasında, izin alacağı konusunda uyuşmazlık bulunmaktadır.
+
+Davacı 12.04.1996- 25.02.2010 tarihleri arasında kamyon şoförü olarak çalıştığını, yıllık izinlerinin kullandırılmadığını ileri sürmüştür. Davalı taraf davacının herhangi bir hak ve alacağı bulunmadığını savunmuştur. Mahkemece hükme esas alınan bilirkişi raporu doğrultusunda tüm hizmet süresi üzerinden 236 gün karşılığı 07 TL izin alacağının bulunduğu, davalı tarafından kullandırıldığı veya ödendiği ispatlanamadığı gerekçesi ile kabulüne karar verilmiştir.
+
+Yıllık izin kullanımına dair 1999-2006 yılları arası imzalı izin defterinin davalı vekilince temyiz dilekçesiyle birlikte sunulduğu görülmektedir.
+
+Bir hakkın mevcut olmadığına, sona erdiğine dair belgelerin yargılamanın her aşamasında dikkate alınması gereklidir. Bu sebeple sözkonusu izin defteri davacı taraf isticvap edilerek gösterildikten sonra mahkemece değerlendirilmesi zorunlu olup kararın bu yönden bozulması gerekmiştir… ),
+
+Gerekçesiyle karar bozularak dosya yerine geri çevrilmekle yeniden yapılan yargılama sonunda mahkemece önceki kararda direnilmiştir.
+
+Hukuk Genel Kurulunca incelenerek direnme kararının süresinde temyiz edildiği anlaşıldıktan ve dosyadaki kağıtlar okunduktan sonra gereği görüşüldü:
+
+KARAR : Dava, işçilik alacaklarının tahsili istemine ilişkindir.
+
+Yerel mahkemece yıllık izin ücreti açısından ispat külfetinin işverende olduğu, izinlerin kullandırıldığını ancak yazılı delille ispat edilebileceği, bunun dışında işverenin davada ispat yolu olarak kullanabileceği tek delilin yemin delili olduğu ancak eldeki davada bu delille dayanılmadığı, taraflarca hazırlama ilkesinin geçerli olduğu davalarda mahkemenin tarafların göstermediği delillere ve ibraz etmedikleri belgelere dayalı olarak karar veremeyeceği, mahkemece yapılan tebligat üzerine davalı tarafın verdiği savunma dilekçesinde yıllık izin ücreti istemi ile ilgili izinlerin kullandırıldığı savunmasını yaptığı ve delil olarak işyeri kayıtlarını gösterdiği, düzenli olarak tutmak zorunda olduğu işyeri dosyasını ve savunmasını dayandırdığı belgeleri de dosyaya sunduğunu, bunların arasında sonradan sunulan izin belgelerinin bulunmadığını, işverenlere ellerindeki belgeleri sunmaları için süre tanıdıktan sonra karar verilmeden önce yeniden ödeme belgesi bile olsa delil sunma imkanının tanınması iş hukukuna hakim olan işçi yararına yorum ilkesine, usul kurallarına ve adil yargılanma hakkına aykırı olduğu, süresi içerisinde belgeleri sunmayan tarafın artık mevcut duruma göre verilecek karara uymak zorunda olduğu, aksi takdirde yargılama yapılıp tanıklar dinlendikten, bilirkişi raporu alındıktan sonra yeniden belge sunmanın davayı en baştaki aşamasına getirerek hakkın gecikmesine olanak sağlayacak bir davranış olarak değerlendirilmesi ve bu işlemlere izin verilmemesi gerektiği, karar verildikten sonra bu tip belgelerin sunulmasının ise daha vahim sonuçlar doğuracağı, bu belgelere itibar edilerek daha önce verilen kararın bozulması halinde aynı şekilde hakkın gecikmesine sebebiyet verileceği ve yargıya olan güvenin de sarsılacağı, karşı oyda yazılı olan sebeplere katılmak gerektiği belirtilerek ve önceki gerekçeler de eklenmek suretiyle direnme kararı verilmiştir.
+
+Davalı vekilinin temyizi üzerine hüküm Özel Dairece yukarıda açıklanan gerekçelerle bozulmuştur.
+
+Direnme kararını davalı vekili temyiz etmiştir.
+
+Direnme yoluyla Hukuk Genel Kurulu önüne gelen uyuşmazlık, mahkemece yapılan yargılama sırasında sunulmayan ancak mahkemenin kısmen kabul kararı üzerine davalı şirket vekili tarafından sunulan temyiz dilekçesine ek olarak verilen dilekçe ekinde ibraz edilen yıllık izin belgelerinin dikkate alınmasının gerekip gerekmediği noktasında toplanmaktadır.
+
+İşin esasının incelenmesine geçilmeden önce, fiziki dosyada ve UYAP sisteminde 21.05.2014 tarihli iki kısa karar bulunduğu, ilk kısa kararda “eski kararda direnilmesine” şeklinde karar verildiği, davaya konu talepler ve sair hususlar yönünden hüküm kurulmadığı, bu kararın UYAP sisteminde hakim tarafından 22.05.2014 tarihinde elektronik imza ile imzalandığı, aynı tarihli UYAP Uygulamaları Düzeltme Talep Formu ile “21.05.2014 tarihli duruşma zaptında yazılması gereken hüküm UYAP tarafından kaydedilmemiş olduğundan eksik kaldığından zaptın silinmesi gerektiği” yönünde talepte bulunulduğu, bunun üzerine elektronik imzalı duruşma zaptının silindiği, fiziki olarak düzenlenen ve gerekçeli kararın hüküm fıkrasına uygun olan duruşma zaptının ise taranmak suretiyle UYAP sistemine aktarıldığı ve fiziki dosyaya konulduğu, yapılan bu işlemin ve direnme kararının usulüne uygun olup olmadığı hususu ön sorun olarak tartışılmıştır.
+
+Öncelikle belirtmek gerekir ki, tarafların tüm delilleri toplanıp, tetkik edildikten, son sözleri dinlenip duruşmanın bittiği bildirildikten sonra hakimin, 6100 Sayılı Hukuk Muhakemeleri Kanununun 298.maddesi uyarınca kararlarını gerekçesi ile birlikte ( tam olarak ) yazması ve hüküm sonucunu HMK’nın 297/2. maddesinde öngörülen biçimde tefhim etmesi asıldır. Mahkemece yargılama sonunda verilen bu kısa karar, bir davayı sona erdiren temyizi mümkün olan ( nihai ) son kararlardandır. Bu kararla mahkeme davadan elini çeker ve davayı sona erdirmiş olur.
+
+Bu aşamadan sonra yapılması zorunlu iş, gerekçeli kararı kısa karar doğrultusunda ve yasal gerekçeleriyle birlikte mahkemenin yazmasından ibarettir. Artık bu karardan dönme ( rücu ) olanaklı olmadığı gibi, kararın asli unsurlarından olan gerekçenin de hüküm fıkrasına uygun biçimde yer alması gerekir ( Yargıtay İçtihadı Birleştirme Büyük Genel Kurulunun 1991/7 E. ve 1992/4 K. sayılı ve 10.04.1992 tarihli kararı ).
+
+Esasen ilamın tefhim edilen karara uygun yazılması ve gerekçe taşıması kamu düzeni ile doğrudan ilgili temel kurallardan olup, bu kurala kanun koyucu HMK’nın 294, 298. maddeleriyle varlık kazandırmıştır.
+
+Gerçekten de anılan maddeler kamu düzeni amacıyla konulmuş, emredici hükümlerdendir. Bu maddeler uyarınca kararların alenen tefhim edilmesi gerekir. Yine Anayasamızın “Duruşmaların açık ve kararların gerekçeli olması” başlıklı 141. maddesinin 3. fıkras 3. fıkrasında; “Bütün mahkemelerin her türlü kararları gerekçeli olarak yazılır.” hükmüne yer verilmiştir.
+
+Mahkeme kararlarında nelerin yazılacağı HMK’nın 297. maddesinde belirtilmiştir. Buna göre, hüküm sonucu kısmında gerekçeye ait herhangi bir söz tekrar edilmeksizin isteklerin her biri hakkında verilen hükümle, taraflara yüklenen borç ve tanınan hakların mümkünse sıra numarası altında birer birer açık şüphe ve tereddüt uyandırmayacak şekilde gösterilmesi gerekir.
+
+Ne var ki, uygulamada HMK’nın 294. maddesinin getirdiği imkândan faydalanarak bazı zorunlu sebeplerle sadece hükmün sonucu tutanağı geçirilip tefhim edilmekte, gerekçeli karar daha sonra yazılmaktadır.
+
+İşte bu gibi hallerde, tarafların hak ve yükümlülüklerini açıkça gösteren tefhim ile aleniyet ve hukuki varlık kazanan kısa karara daha sonra yazılan gerekçeli kararın uygun olması zorunludur. Esasen kısa kararı yazıp, tefhim etmekle davadan elini çekmiş olan hâkimin artık bu kararını değiştirmesine yasal olanak yoktur. Öte yandan, kısa kararla gerekçeli kararın çelişkili olması, yargılamanın aleniyeti, kararların alenen tefhim edilmesine dair Anayasanın 141. maddesiyle yukarıda değinilen buyurucu nitelikteki maddelerine de aykırı bir durum oluşturur. Ayrıca anılan husus kamu düzeni ile ilgili olup, gözetilmesi yasa ile hâkime yükletilmiş bir ödevdir. Aksine düşünce ve uygulama yargı, yargıç ve kararlarının her türlü düşünceden uzak, saygın ve güvenilir olması ilkesi ile de bağdaşmaz.
+
+Diğer taraftan; 6100 Sayılı HMK’nın 305. maddesinde; hükümlerin tavzihi, hükmün müphem olması veya birbirine aykırı ( çelişik ) fıkralar ihtiva etmesi halinde, hükmün gerçek anlamının meydana çıkarılması için başvurulan bir yol olduğu belirtilmiş olup, hükmü değiştirecek nitelikte tavzih kararı verilmesi mümkün değildir.
+
+Bu açıklamalar ışığında somut olaya bakıldığında, fiziki dosyada ve UYAP sisteminde silinmiş evrak olarak kayıtlı 21.05.2014 tarihli kısa kararda aynen;
+
+“…G.D; İş yoğunluğu sebebiyle gerekçesi daha sonra açıklanmak üzere
+
+Eski kararda DİRENİLMESİNE,
+
+Dair, taraf vekillerinin yüzlerine karşı yapılan açık yargılama sonucunda kararın tebliğinden itibaren 8 günlük süre içerisinde mahkememize verilecek dilekçeyle Yargıtay yolu açık olmak üzere verilen karar açıkça okunup usulen anlatıldı…” şeklinde karar oluşturulmuş ve 22.05.2014 tarihinde hakim tarafından elektronik imza ile imzalanmış iken;
+
+22.05.2014 tarihinde hakim tarafından UYAP Uygulamaları Düzeltme Talep Formu ile “21.05.2014 tarihli duruşma zaptında yazılması gereken hüküm UYAP tarafından kaydedilmemiş olduğundan eksik kaldığından zaptın düzeltilmesi için silinmesi gerektiği” yönünde talepte bulunulduğu, bunun üzerine kararın sistemden silindiği, dosya içerisinde bulunan ve UYAP sisteminde taranmış evrak olarak kayıtlı fakat ıslak imza veya elektronik imzalı olmayan 21.05.2014 tarihli kısa kararın ise aynen;
+
+“…G.D; İş yoğunluğu sebebiyle gerekçesi daha sonra açıklanmak üzere
+
+Mahkememizin 26.09.2012 tarihli önceki kararında DİRENİLMESİNE
+
+Davanın KISMEN KABUL KISMEN REDDİ İLE
+
+1- )472,86 TL bürüt bayram genel tabiinin temerrüt tarihi olan 08.03.2010 tarihinden itibaren bankalarca mevduata uygulanan en yüksek banka mevduat faizi ile birlikte davalıdan tahsili ile davacıya verilmesine, davacının bu konudaki fazla talebinin REDDİNE,
+
+2- )14.016 34TL bürüt kıdem tazminatının akdin feshi tarihi olan 25.02.2010 tarihinden itibaren bankalarca mevduata uygulanan en yüksek banka mevduat faizi ile birlikte davalıdan tahsili ile davacıya verilmesine,
+
+3- )1.411,07TL bürüt ihbar tazminatının 08.03.2010 tarihinden itibaren yasal faizi ile birlikte davalıdan tahsili ile davacıya verilmesine,
+
+4- )10.439,07TL bürüt yıllık izin alacağının 08.03.2010 tarihinden itibaren bankalarca mevduata uygulanan en yüksek banka mevduat faizi ile birlikte davalıdan tahsili ile davacıya verilmesine,
+
+5- )Davacının hafta tatiline yönelik isteğinin REDDİNE,
+
+6- )Yasal kesintilerin infazda gözetilmesine,
+
+Dair taraf vekillerinin yüzlerine karşı yapılan açık yargılama sonucunda kararın tebliğinden itibaren 8 günlük süre içerisinde mahkememize verilecek dilekçeyle Yargıtay yolu açık olmak üzere verilen karar açıkça okunup usulen anlatıldı…” şeklinde oluşturulduğu görülmüştür.
+
+Bu noktada elektronik imzalı belge ile ilgili mevzuat hükümlerine değinmekte yarar bulunmaktadır.
+
+6100 Sayılı HMK’nın “Elektronik işlemler” başlıklı 445. maddesinin6100 Sayılı HMK’nın “Elektronik işlemler” başlıklı 445. maddesinin 5. fıkrasında mahkemelerde görülmekte olan dava, çekişmesiz yargı, geçici hukuki koruma ve diğer tüm işlemlerde UYAP’ın kullanılmasına dair usul ve esasların yönetmelikle düzenleneceği belirtilmiş, maddi olay tarihinde yürürlükte bulunan Hukuk Muhakemeleri Kanunu Yönetmeliğinin 5/7. fıkrasında “Teknik sebeplerle fizikî olarak düzenlenen belge veya kararlar, engelin ortadan kalkmasından sonra derhal elektronik ortama aktarılır, yetkili kişilerce güvenli elektronik imza ile imzalanarak UYAP’a kaydedilir ve gerektiğinde UYAP vasıtasıyla ilgili birimlere iletilir. Bu şekilde elektronik ortama aktarılarak ilgili birimlere iletilen belge ve kararların asılları mahallinde saklanır, ayrıca fizikî olarak gönderilmez. Ancak, belge veya kararın aslının incelenmesinin zorunlu olduğu hâller saklıdır. Elektronik ortama aktarılması imkânsız olan belgeler ise fiziki ortamda saklanır ve gerektiğinde fizikî olarak gönderilir.” düzenlemesine, “Hükmün korunması” başlıklı 56. maddesinde ise “Elektronik ortamda hazırlanan hüküm, hükme katılan hâkimler ve zabıt kâtibi tarafından güvenli elektronik imza ile imzalanarak UYAP veri tabanında saklanır. Ayrıca hükmün çıktısı hükme katılan hâkimler ve zabıt kâtibi tarafından imzalanıp mahkeme mührüyle mühürlenerek karar kartonunda muhafaza edilir.” düzenlemesine yer verilmiştir.
+
+5070 Sayılı Elektronik İmza Kanununun 5. maddesi5070 Sayılı Elektronik İmza Kanununun 5. maddesi de “Güvenli elektronik imza, elle atılan imza ile aynı hukukî sonucu doğurur.” şeklindedir.
+
+Yapılan açıklamalar karşısında, elektronik imzalı ilk kısa kararın UYAP sisteminde silinerek elektronik imzalı veya ıslak imzalı olmayan ikinci kısa kararın gerekçeli karara esas alınması usule aykırıdır. Şu durumda gerekçeli karara esas alınması gereken kısa karar “Eski kararda direnilmesine” şeklinde oluşturulan ve davaya konu alacaklar ve sair hususlar hakkında hüküm kurulmayan karardır.
+
+HMK’nun 294. maddesinin 3. fıkrasında “Hükmün tefhimi herhalde hüküm sonucunun duruşma tutanağına geçirilerek okunması suretiyle olur” hükmüne yer verilmiştir.
+
+Ayrıca bozma kararı ile ilk hüküm hayatiyetini yitirdiğinden ona atıf suretiyle hüküm tesisinin yukarıda açıklanan kurallara uygun düşmeyeceği de aşikardır.
+
+Nitekim Yargıtay’ın yerleşmiş görüşü de bu yöndedir ( Hukuk Genel Kurulu’nun 19.06.1991 gün 323-391 sayılı; 10.09.1991 gün 281-415 sayılı; 25.09.1991 gün 355-440 sayılı; 05.12.2007 gün 981-936 sayılı; 23.01.2008 gün 29-4 sayılı; 05.10.2011 gün 607-604 kararları ).
+
+Somut olaya gelince; kısa kararda mahkemece usule uygun karar oluşturulmamış sadece “eski kararda direnilmesine” denilerek önceki karara atıf yapılmakla yetinilmiştir.
+
+Bu durumda, yukarıda açıklanan ilkeler çerçevesinde usulün öngördüğü anlamda oluşturulmuş bir hüküm bulunmadığı gibi direnme kararlarını denetleyen Hukuk Genel Kurulu tarafından incelenebilecek nitelikte teknik anlamda bir direnme hükmü de bulunmadığı her türlü duraksamadan uzaktır.
+
+Mahkemece yapılacak iş, dosya kapsamı dikkate alınarak taraflara yüklenen borç ve tanınan hakkın sıra numarası altında belirtildiği açık, infazda şüphe ve tereddüt uyandırmayacak biçimde usulün aradığı niteliklere haiz usule uygun karar oluşturulmasıdır.
+
+Hal böyle olunca mahkemece yukarıda ayrıntılarıyla açıklanan biçimde usulün öngördüğü niteliklere haiz bulunmayan kısa karar usule uygun karar değildir.
+
+Direnme kararı sair temyiz itirazları incelenmeksizin bu sebeple usulden bozulmalıdır.
+
+SONUÇ : Davalı vekilinin temyiz itirazlarının kabulüyle direnme kararının yukarıda gösterilen nedenlerden dolayı usulden BOZULMASINA, sair temyiz itirazlarının incelenmesine şimdilik yer olmadığına, istenmesi halinde temyiz peşin harcının yatırana iadesine, karar düzeltme yolu kapalı olmak üzere, 24.05.2017 tarihinde oybirliğiyle karar verildi.
+
+YARGITAY HUKUK GENEL KURULU
+Esas: 2017/11-74 Karar: 2017/728Tarih: 12.04.2017
+
+HMK 445. Madde
+
+Elektronik İşlemler
+
+Taraflar arasındaki “Türk Patent Enstitüsü Yeniden İnceleme ve Değerlendirme Kurulu kararının iptali ve markanın hükümsüzlüğü” davasından dolayı yapılan yargılama sonunda; Ankara 4. Fikri ve Sinaî Haklar Hukuk Mahkemesince davanın reddine dair verilen 02.07.2012 gün ve 2011/327 E., 2012/140 K. sayılı karar, davacı vekilinin temyiz istemi üzerine Yargıtay 11. Hukuk Dairesinin 24.06.2013 gün ve 2012/15330 E., 2013/13168 K. sayılı kararı ile onanmış ise de davacı vekilinin kararın düzeltilmesi isteminde bulunması üzerine Yargıtay 11. Hukuk Dairesinin 05.12.2013 gün ve 2013/15582 E., 2013/22186 K. sayılı kararı ile;
+
+(… Davacı vekili, müvekkilinin “swatch” ibareli tanınmış markaların sahibi olduğunu, davalı şirketin ise “i_watch” ibareli marka başvurusunda bulunduğu, müvekkilinin tescile itirazlarının TPE YİDK’nca reddedildiğini, kararın haksız olduğunu, taraf markalarının benzer olup tüketiciler nezdinde karıştırılacağını, müvekkili markaları tanınmış olduğundan başvurunun kötüniyetli olduğunu, “watch” ibaresinin tasviri bir işaret olmadığını ileri sürerek 11.08.2011 tarih 2011-M-3124 Sayılı YİDK’nun kararının iptali ve davalı markasının hükümsüzlüğüne karar verilmesini talep ve dava etmiştir.
+
+Davalı TPE vekili, davanın reddini istemiştir.
+
+Davalı şirket vekili, Türkçe’de saat anlamına gelen watch ibaresinin herkesin kullanımına açık tamamlayıcı bir unsur olduğunu, müvekkili markasının asli unsurunun I harfi olduğunu, taraf markalarının görsel açıdan farklı olduğunu savunarak, davanın reddini istemiştir.
+
+Mahkemece, “watch” ibaresinin İngilizce olduğu ve Türkçe’de kol saati anlamına geldiği, markaların tescil kapsamları aynı ise de davacı markaları yaratılmış orjinal marka iken davalı markasının tanımlayıcılığa kısmen yakın olan tamamen farklı anlamı, görsel ve şekilsel unsuru olan bilinçli tüketici nezdinde karıştırılma ihtimaline yol açmayacak unsurlar içerdiği, watch ibaresinin tanımlayıcı olarak algılanacağı, davacı markaları kol saati ürünlerinde tanımlayıcı olsa da marka içeriği tanımlayıcı ibareyi başkalarının kullanımına engel olma hakkı vermeyeceği gerekçesiyle davanın reddine dair verilen kararın davacı vekili tarafından temyiz edilmesi üzerine karar, Dairemizin 24.06.2013 tarihli ilamıyla onanmıştır.
+
+Davacı vekili bu kez karar düzeltme isteminde bulunmuştur.
+
+Dava, YİDK kararının iptali ve marka hükümsüzlüğü istemine ilişkindir. 556 Sayılı KHK’nın hükmü uyarınca tescil için başvurusu yapılan marka, tescil edilmiş veya tescili için daha önce başvurusu yapılmış bir marka ile aynı veya benzer ise ve tescil edilmiş veya tescili için başvurusu yapılmış bir markanın kapsadığı mal ve hizmetlerle aynı veya benzer ise tescil edilmiş veya tescili için başvurusu yapılmış markanın halk tarafından karıştırılma ihtimali varsa ve bu karıştırma ihtimali tescil edilmiş veya tescil için başvurusu yapılmış bir marka ile ilişkili olduğu ihtimalini de kapsıyorsa, marka sahibinin tescile itirazı üzerine başvurunun reddine karar verilir. Tescil edilmesi halinde de koşulları oluştuğunda anılan KHK’nın uyarınca hükümsüzlüğü talep edilebilir.
+
+Somut olayda, hem itiraza mesnet teşkil eden markalarda hem de tescili istenilen markada geçen İngilizce “watch” kelimesi “kol saati” anlamına gelmekte ise de davacı adına tescilli “Swatch” ibareli marka türetme bir marka olup tanınmış marka olarak da sicile kaydedildiği anlaşılmaktadır.Markaların tescil kapsamındaki malların da aynı/aynı tür olduğu dosya içeriğinden anlaşıldığı gibi bu husus mahkemece de kabul edilmiştir. Bu durumda, davalının başına “i” harfi ekleyerek oluşturduğu “i_watch” işaretini davacının tanınmış markaları ile aynı/aynı tür emtialarda marka olarak tescil ettirmesi halinde söz konusu markalarla aynı yerlerde satışa sunulacak davalı şirket ürünleri davacı markalarının serisi şeklinde algılanacak olup, iltibas tehlikesi yaratacaktır. Buna göre, TPE Yeniden İnceleme ve Değerlendirme Kurulu kararının iptaline ve seri marka izlenimi doğurup davacı markaları ile iltibas tehlikesi oluşturan davaya konu markanın hükümsüzlüğüne karar verilmesi gerekirken, yerinde olmayan yazılı gerekçe ile davanın reddine karar verilmesi doğru olmayıp, davacı vekilinin Dairemizin mahkeme kararını onayan ilama yönelik karar düzeltme istemi yerinde görülmekle, Dairemizce verilen onama kararının kaldırılarak mahkeme kararının açıklanan sebeplerle bozulması gerekmiştir…),
+
+Gerekçesiyle bozularak dosya yerine geri çevrilmekle yeniden yapılan yargılama sonunda, mahkemece önceki kararda direnilmiştir.
+
+Hukuk Genel Kurulunca incelenerek direnme kararının süresinde temyiz edildiği anlaşıldıktan ve dosyadaki kağıtlar okunduktan sonra gereği görüşüldü:
+
+KARAR : Dava, Türk Patent Enstitüsü Yeniden İnceleme ve Değerlendirme Kurulu (TPE YİDK) kararının iptali ile markanın hükümsüzlüğü istemine ilişkindir.
+
+Mahkemece, davanın reddine karar verilmiştir.
+
+Davacı vekilinin temyiz isteminde bulunması üzerine, Özel Dairece yerel mahkeme kararı onanmış ise de onama kararına karşı davacı vekilince karar düzeltme yoluna başvurulması sebebiyle bu defa Özel Dairece onama kararı kaldırılmış ve yukarıda başlık bölümünde gösterilen sebeplerle yerel mahkeme kararı bozulmuştur.
+
+Yerel Mahkemece önceki kararda direnilmiş, direnme kararı davacı vekilince temyize getirilmiştir.
+
+Hukuk Genel Kurulunda uyuşmazlığın esasının görüşülmesinden önce, davaya konu marka ile dava dışı başka kişilere ait marka görünümlerine dair şekillere direnme kararında yer verilmesinin 6100 Sayılı Hukuk Muhakemeleri Kanununun (HMK) aykırı olup olmadığı, burada varılacak sonuca göre yerel mahkeme direnme kararının usule uygun bir gerekçe taşıyıp taşımadığı, ayrıca dava dosyasında fiziki olarak bulunan ve hakim imzalı şekilde taraflara tebliğe çıkarılan direnme kararı ile UYAP ortamında elektronik imzalı olarak kayıtlı bulunan direnme kararının birbirinden farklı olmasının HMK’nın “elektronik işlemler” başlıklı 445. maddesine aykırı olup olmadığı hususları ön sorun olarak ele alınıp incelenmiştir.
+
+Uyuşmazlığın çözümü için öncelikle mahkeme kararlarının niteliği ile gerekçeli kararın hangi hususları kapsayacağına dair yasal düzenleme irdelenmelidir.
+
+01.10.2011 tarihinde yürürlüğe giren HMK’nın “hükmün kapsamı” başlıklı 297. maddesi: Hüküm Türk Milleti Adına verilir ve bu ibareden sonra aşağıdaki hususları kapsar:
+
+a-) Hükmü veren mahkeme ile hâkim veya hâkimlerin ve zabıt kâtibinin ad ve soyadları ile sicil numaraları, mahkeme çeşitli sıfatlarla görev yapıyorsa hükmün hangi sıfatla verildiğini.
+
+b-) Tarafların ve davaya katılanların kimlikleri ile Türkiye Cumhuriyeti kimlik numarası, varsa kanuni temsilci ve vekillerinin ad ve soyadları ile adreslerini.
+
+c-) Tarafların iddia ve savunmalarının özetini, anlaştıkları ve anlaşamadıkları hususları, çekişmeli vakıalar hakkında toplanan delilleri, delillerin tartışılması ve değerlendirilmesini, sabit görülen vakıalarla bunlardan çıkarılan sonuç ve hukuki sebepleri.
+
+ç) Hüküm sonucu, yargılama giderleri ile taraflardan alınan avansın harcanmayan kısmının iadesi, varsa kanun yolları ve süresini.
+
+d-) Hükmün verildiği tarih ve hâkim veya hâkimlerin ve zabıt kâtibinin imzalarını.
+
+e-) Gerekçeli kararın yazıldığı tarihi.
+
+(2) Hükmün sonuç kısmında, gerekçeye ait herhangi bir söz tekrar edilmeksizin, taleplerden her biri hakkında verilen hükümle, taraflara yüklenen borç ve tanınan hakların, sıra numarası altında; açık, şüphe ve tereddüt uyandırmayacak şekilde gösterilmesi gereklidir” şeklinde düzenleme getirmiştir.
+
+Hemen belirtmelidir ki, hükümler davayı esastan halleden ve taraflar arasındaki uyuşmazlığı sona erdiren nihai kararlardır (HMK, m. 294).
+
+Anayasa’nın 141. maddesiAnayasa’nın 141. maddesi gereğince bütün mahkemelerin her türlü kararlarının gerekçeli olması gereklidir. Gerekçenin önemi Anayasal olarak hükme bağlanmakla gösterilmiş olup gerekçe ve hüküm birbirine sıkı sıkıya bağlıdır. Hâkim, hükmün gerekçesini hazırlarken yargısal içtihat ve bilimsel görüşlerden yararlanabilir. Gerekçe bölümünde hükmün dayandığı hukuki esaslar açıklanır. Hâkim, tarafların kendisine sundukları maddi vakıaların hukuki niteliğini kendiliğinden araştırıp bulmalı ve hükmünü dayandırdığı hukuk kurallarını ve nedenlerini gerekçede açıklamalıdır. Gerekçe, hakimin tespit etmiş olduğu maddi vakıalar ile hüküm fıkrası arasında bir köprü görevi yapar (Kuru, Baki/ Arslan, Ramazan/Yılmaz, Ejder, Medeni Usul Hukuku Ders Kitabı, Yetkin Yayınları, Ankara 2011, 22. Bası, s. 472).
+
+Bu açıklamalar ışığında ön sorun incelendiğinde; mahkemece direnme kararının gerekçe kısmında davacı ve davalı adına tescilli markalar ile dava dışı kişilere ait markalara dair görünümlere (fotoğraf ve şekillere) yer verilmiştir.
+
+Mahkemece, gerektiğinde hükmün eki niteliğinde kroki ve şekillere kararın ekinde yer verebilir ise de hükmün gerekçe kısmında, yukarıda anılan yasal düzenlemelere uygun düşmeyecek biçimde şekillere yer verilmesi davadan davalar doğmasına, tarafların yeniden uyuşmazlığa düşmelerine, infazda tereddüt yaşanmasına yol açabilecektir. Renk, boyut ve diğer özelliklerinden yoksun bir şekilde markaların ve tasarımların gerekçeli karara eksik yansıtılmaları yanıltıcı sonuçlara neden olabilecektir.
+
+Nitekim, Hukuk Genel Kurulunun 14.11.2012 gün ve 2012/11-417 E., 2012/791 K.; 14.01.2015 gün ve 2013/11-1316 E., 2015/34 K.; 01.04.2015 gün ve 2013/11-1572 E., 2015/1133 K. sayılı kararlarında da aynı ilke benimsenmiştir.
+
+Bu durumda, mahkemece direnme kararının gerekçesinde davaya konu taraf markaları ile dava dışı kişilere ait markaların görsel unsurlarına yer verilmiş olması 6100 Sayılı HMK’nın 297. maddesine uygun değildir.
+
+Diğer taraftan, Ulusal Yargı Ağı Bilişim Sistemi (UYAP) HMK’nın “elektronik işlemler” başlıklı 445. maddesinin 1. fıkras 1. fıkrasında “adalet hizmetlerinin elektronik ortamda yürütülmesi amacıyla oluşturulan bilişim sistemidir “ şeklinde tanımlandıktan sonra dava ve diğer yargılama işlemlerinin elektronik ortamda gerçekleştirildiği hallerde UYAP kullanılarak veriler kaydedilir ve saklanır denilmiştir. Anılan maddenin gerekçesinde, UYAP kapsamındaki tüm birimlerde her türlü yargısal, idari ve denetim faaliyetlerinin bu sistemle elektronik ortamda yürütüleceği belirtilmiştir.
+
+Karar tarihinde yürürlükte bulunan Hukuk Muhakemeleri Kanunu Yönetmeliğinin “UYAP’ın kullanılması” başlıklı 5. maddesi
+
+” (1) Mahkemeler ve hukuk dairelerinin iş süreçlerindeki her türlü veri, bilgi ve belge akışı ile dokümantasyon işlemleri, bu işlemlere dair her türlü kayıt, dosyalama, saklama ve arşivleme işlemleri ile uyum ve işbirliği sağlanmış dış birimlerle yapılacak her türlü işlemler UYAP ortamında gerçekleştirilir.
+
+(2) Daire başkanı, hâkim, üye, yazı işleri müdürü ve diğer personel iş listesini günlük olarak kontrol etmek ve yargılamanın bulunduğu aşamanın gereklerini yerine getirmekle yükümlüdür.
+
+(3) Mahkemelere ve hukuk dairelerine fizikî olarak verilen ve gönderilen her türlü evrak, elektronik ortama aktarılarak UYAP’a kaydedilir ve ilgili birime gönderilir.
+
+(4) Taraf ve vekilleri ile diğer ilgililer güvenli elektronik imza ile imzalamak suretiyle UYAP vasıtasıyla mahkemeler veya hukuk dairelerine elektronik ortamda bilgi ve belge gönderebilirler.
+
+(5) Gelen evraktan sorumlu personel, UYAP üzerinden mahkeme veya hukuk dairelerine gönderilen ve iş listesine düşen belgeleri derhal ilgili kişiye ya da doğrudan dosyasına aktarır. Hâkimin onayını gerektiren evrak hâkimin iş listesine yönlendirilir.
+
+(6) Tutanak, belge ve kararlar elektronik ortamda düzenlenir ve gerekli olanlar ilgilileri tarafından güvenli elektronik imza ile imzalanır. Elektronik ortamda düzenlenen ve güvenli elektronik imza ile imzalanan evrak UYAP kapsamındaki birimlere elektronik ortamda gönderilir. Ayrıca fizikî olarak gönderilmez.
+
+(7) Teknik sebeplerle fizikî olarak düzenlenen belge veya kararlar, engelin ortadan kalkmasından sonra derhal elektronik ortama aktarılır, yetkili kişilerce güvenli elektronik imza ile imzalanarak UYAP’a kaydedilir ve gerektiğinde UYAP vasıtasıyla ilgili birimlere iletilir. Bu şekilde elektronik ortama aktarılarak ilgili birimlere iletilen belge ve kararların asılları mahallinde saklanır, ayrıca fizikî olarak gönderilmez. Ancak, belge veya kararın aslının incelenmesinin zorunlu olduğu hâller saklıdır. Elektronik ortama aktarılması imkânsız olan belgeler ise fiziki ortamda saklanır ve gerektiğinde fizikî olarak gönderilir.
+
+(8) UYAP üzerinden hazırlanmış ve güvenli elektronik imza ile imzalanmış evrakın dış birimlere elektronik ortamda gönderilememesi halinde; belge veya kararın fizikî örneği alınır, güvenli elektronik imza ile imzalanmış aslının aynı olduğu belirtilerek altı hâkim veya görevlendirdiği yazı işleri müdürü tarafından imzalanmak sureti ile gönderilir.
+
+(9) Elektronik ortamda yapılan işlemlerde süre gün sonunda biter. Elektronik ortamda yapılacak işlemlerin, ertesi güne sarkmaması açısından saat 00:00’a kadar yapılması zorunludur.
+
+(10) Fizikî ortamda yapılan işlemlerde süre mesai saati sonunda biter.
+
+Hükmünü içermektedir.
+
+Tüm bu düzenlemeler açık bir biçimde göstermektedir ki, mahkemelerce dava ve yargılama işlemlerine dair olarak fiziki ortamda yapılan tüm işlemler elektronik ortamda UYAP kullanılarak gerçekleştirilir ve elektronik veriler UYAP’a kaydedilerek burada saklanır. Elektronik ortamdan fiziki olarak örnek çıkartılması gereken hallerde ise tutanak veya belgenin aslının aynı olduğu belirtilerek altı hâkim veya görevlendirdiği yazı işleri müdürü tarafından imzalanır ve mühürlenir (HMK’nın 445/3).
+
+Dava dosyasında ise fiziki olarak hazırlanıp, elle imzalanarak taraflara tebliğe çıkarılan direnme kararı ile UYAP ortamında elektronik imzalı olarak kayıtlı bulunan direnme kararının hüküm fıkraları aynı ise de gerekçe bölümleri birbirinden farklıdır. Bu durumda, yasal düzenlemelere uygun şekilde oluşturulmuş bir direnme kararı da bulunmamaktadır.
+
+Hal böyle olunca; yukarıda açıklanan sebeplerle ve salt bu usulü eksikliklere dayalı olarak direnme kararının bozulmasına, bozma nedenine göre davacı vekilinin işin esasına yönelik temyiz itirazlarının bu aşamada incelenmesine yer olmadığına karar vermek gerekmiştir.
+
+SONUÇ : Davacı vekilinin temyiz itirazlarının kabulüyle direnme kararının yukarıda gösterilen usulü nedenlerden dolayı BOZULMASINA, bozma nedenine göre davacı vekilinin işin esasına yönelik temyiz itirazlarının bu aşamada incelenmesine yer olmadığına, istenmesi halinde temyiz peşin harcının yatırana iadesine, karar düzeltme yolu açık olmak üzere, 12.04.2017 tarihinde oybirliği ile karar verildi.
+
+UYARI

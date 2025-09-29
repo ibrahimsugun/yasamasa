@@ -1,0 +1,135 @@
+Doğrudan Soru Yöneltme
+
+CMK Madde 201
+
+CMK Madde 201 Gerekçesi
+
+CMK 201  Doğrudan Soru Yöneltme Yargıtay Kararları
+
+(1) Cumhuriyet savcısı, müdafi veya vekil sıfatıyla duruşmaya katılan avukat; sanığa, katılana, tanıklara, bilirkişilere ve duruşmaya çağrılmış diğer kişilere, duruşma disiplinine uygun olarak doğrudan soru yöneltebilirler. Sanık ve katılan da mahkeme başkanı veya hâkim aracılığı ile soru yöneltebilir. Yöneltilen soruya itiraz edildiğinde sorunun yöneltilmesinin gerekip gerekmediğine, mahkeme başkanı karar verir. Gerektiğinde ilgililer yeniden soru sorabilir.
+
+(2) Heyet halinde görev yapan mahkemelerde, heyeti oluşturan hâkimler, birinci fıkrada belirtilen kişilere soru sorabilir.
+
+Madde, Türk hukuku bakımından çok önemli bir yenilik getirmiş bulunmaktadır. Common Law sisteminde ve Avrupa’da İtalyan hukukunda ceza davasının taraf muhakemesi şeklinde cereyan ettiği ve bu nedenle çapraz sorgu sisteminin uygulandığı bilinmektedir. Mahkemenin delil araştırma yetkisine sahip bulunduğu Kontinental sistemlerde, tam bir çapraz sorgulamanın kabulünün Tasarının bütünü ile bağdaşmayacağı bilindiğinden, savunma hakkını sağlam tutmak amacı ile bu madde getirilmiştir. Bu madde ile Cumhuriyet savcısı, katılan, sanık ve avukatların mahkeme başkanı veya hâkimden söz isteyerek, tanıklara, katılana, bilirkişilere ve duruşmaya çağrılmış diğer kişilere, doğrudan soru yöneltebilecekleri kabul edilmiştir. Yine sanık ve katılanın da mahkeme başkanı veya hâkim aracılığı ile aynı kişilere soru yöneltebilmeleri olanaklı kılınmıştır. Aynı kişilere sorulan soruya karşı gelme hakkı tanınmıştır; madde de karşı gelmeye “itiraz” denilmekte ise de, teknik anlamda kanun yolundaki itiraz olmayıp, karşı gelme, bu konuda hâkimin karar vermesini istemek niteliğindedir. Bu hâlde sorunun yöneltilmesinin gerekip gerekmediğine, 214 üncü maddedeki usule göre mahkeme karar verecektir. Dikkat edileceği üzere maddenin getirdiği esas, Common Law sistemine yakın ise de, bundan farklıdır. Tasarının 197 nci maddesinde açıklandığı üzere, duruşma hâkimin sorgusu ile başlamaktadır. Common Law sisteminde ise ceza davası taraf muhakemesi şeklinde cereyan ettiğinden, hâkim tam tarafsızdır ve sorgu yapamayacağı gibi, çok istisnaî hâllerde tanıklara soru da soramaz; sadece taraflar arasında soru yöneltmeden kaynaklanan karşı koymaları çözüme bağlar.
+
+Tasarının sistemi o derecede farklıdır ki, 208 inci madde mahkeme üyelerine de soru sormak hakkını tanımaktadır. Kaldı ki, Common Law sisteminde duruşmada sanık sorguya çekilmez; ancak istemi olduğunda tanık gibi dinlenir ve hatta kendisine bu hâlde yemin verilir.
+Netice olarak getirilen madde, savunma hakkını güçlendirici ve avukatın daha enerjik ve etkin olmasını sağlayan bir hüküm niteliğindedir.
+
+Madde, duruşmada mahkeme üyelerinin de tanıklara veya bilirkişilere soru yöneltmelerine olanak tanınacağını yani üyelerin tanıklara veya bilirkişilere soru sorma yetkisine sahip bulunduklarını ifade etmektedir.
+
+Ceza Genel Kurulu         2020/193 E.  ,  2022/215 K.
+
+CMK’nın 59. maddesine göre, tanığın ifadesi alınmaya başlanmadan önce dinlemeye yetkili makam hangi konuda tanıklık yapacağı hususunda tanığa bilgi verir ve hazır olan sanık tanığa gösterilir, sanık hazır değilse kimliği açıklanır. Bunlar gerçekleştirildikten sonra tanıktan tanıklık edeceği konulara ilişkin bildiklerini söylemesi istenir. Tanık anlatmaya başladıktan sonra tanığın sözü kesilmez. Tanığın beyanda bulunduğu sırada sözünün kesilmemesinin amacı, etki altında kalmaksızın olabildiğince rahat bir şekilde gerçeğe uygun beyanda bulunabilmesinin sağlanmasıdır. Ancak gereksiz yahut ilgisiz açıklamalarda bulunması hâlinde tanığa müdahale edilebilir. Tanıklık edilen konuları aydınlatmak, tamamlamak ve bilgilerinin dayandığı durumları gereğince değerlendirebilmek için tanığa ayrıca soru yöneltilebilir.
+
+CMK’nın 201/1. maddesine göre, Cumhuriyet savcısı, müdafi veya vekil sıfatıyla duruşmaya katılan avukat; sanığa, katılana, tanıklara, bilirkişilere ve duruşmaya çağrılmış diğer kişilere, duruşma disiplinine uygun olarak doğrudan soru yöneltebilir. Sanık ve katılan da mahkeme başkanı veya hâkim aracılığı ile soru yöneltebilir. Yöneltilen soruya itiraz edildiğinde sorunun yöneltilmesinin gerekip gerekmediğine mahkeme başkanı karar verir. Aynı maddenin ikinci fıkrası uyarınca ise heyet hâlinde görev yapan mahkemelerde heyeti oluşturan hâkimler birinci fıkrada belirtilen kişilere soru sorabilir.
+
+Buna göre CMK uyarınca tanığın beyanı iki aşamada alınır. İlk aşamada tanıklık konusu olay hakkında bildiklerini anlatması istenenen tanık sözü kesilmeden dinlenir. Söyleyeceklerini bitirdikten sonraki aşamada ise ilk aşamada anlattıklarının doğruluğunun tespit edilmesi ve varsa anlatmadıklarının ortaya çıkarılması için tanığa sorular sorulur. Bu anlamda tanığın dinlenmesi ile tanığa soru sorulması farklı işlemler olup tanık önce mahkeme başkanı, hâkim veya Cumhuriyet savcısı tarafından CMK’nın 59. maddesine göre dinlenir. Tanığa soru sorma aşamasında ise CMK’nın 201. maddesinde belirtilen Cumhuriyet savcısı, müdafi veya vekil sıfatıyla duruşmaya katılan avukat doğrudan, sanık ve katılan ise mahkeme başkanı veya hâkim aracılığı ile tanıklara soru yöneltebilecektir.
+
+Bu açıklamalar ışığında, 17.01.2019 tarihli 3. celsede dinlenerek beyanları hükme esas alınan tanıklara usulüne uygun olarak CMK’nın 59/1. maddesi gereğince söz verilip tanıklık edeceği konulara ilişkin bildiklerini söylemelerinin ve sözleri kesilmeksizin bildiklerini anlatmalarının sağlanmadığı, bunun yerine tanıklara yargılamanın daha önceki aşamalarında vermiş oldukları ifadelerini kabul edip etmediklerinin sorulduğu, kabul ettiklerini beyan etmeleri üzerine CMK’nın 201. maddesi uyarınca taraflardan tanıklara sorularını yöneltmelerinin istendiği, sanık ve müdafisinin devam eden duruşmalarda ve temyiz taleplerinde tanıkların bu şekilde dinlenmelerinin ve ifadelerinde geçen hususlar anlattırılmadan CMK’nın 201. maddesine göre doğrudan soru yöneltme aşamasına geçilmesinin usule ve kanuna uygun olmadığı yönünde itirazda bulunduklarının anlaşılması karşısında beyanları hükme esas alınan tanıkların usulüne uygun olarak dinlenilmemeleri suretiyle hüküm kurulmasının usul ve yasaya aykırı olduğu kabul edilmelidir.
+
+Yargıtay 16. Ceza Dairesi         2015/7179 E.  ,  2017/3739 K.
+
+Sanığın aleyhinde beyanda bulunan tek tanığın huzurda müdafisii de olmadan dinlenmesi sanığın veya müdafiinin soru sorma hakkını kullanmaması, CMK 215/1. maddede “….. tanığın ……ve herhangi bir belgenin okunmasından sonra bunlara karşı bir diyeceklerinin olup olmadığı ………… sanığa ve müdafiine sorulur” amir hükmüne aykırı olarak savunma hakkı kısıtlanmak suretiyle hüküm kurulması usul ve yasaya aykırıdır.
+
+Yine doğrudan soru yöneltmek başlıklı CMK 201. maddesi gereğince tanıklara doğrudan soru yöneltmenin sanık müdafiisine tanınan bir hak olduğu yine sanığın mahkeme başkanı ve hakim aracılığıyla soru yöneltme hakkı bulunduğu göz önüne alındığından sanığın dinlenen tek tanık beyanına karşı kendisinin ve müdafiisinin bu hakkı kullanma yetkisini kısıtlanmak suretiyle savunma hakkının kısıtlanması usül ve yasaya aykırıdır.
+
+YARGITAY 10. CEZA DAİRESİ
+Esas : 2014/4941 Karar : 2016/1098Tarih : 5.04.2016
+
+CMK 201. Madde
+
+Doğrudan Soru Yöneltme
+
+Dosya incelendi.
+
+GEREĞİ GÖRÜŞÜLÜP DÜŞÜNÜLDÜ :
+
+1- a) Gizli soruşturmacı ancak TCK’nın 220. maddesinin birinci fıkrasında tanımlanan “örgüt kurma” ve “örgütü yönetme” suçları ile örgüt faaliyeti çerçevesinde işlenmiş olması şartıyla 139. maddede sınırlı olarak sayılan diğer suçlar için görevlendirilebilir. Bunlar dışındaki suçlar nedeniyle görevlendirilen gizli soruşturmacı “adli kolluk görevlisi” ise kollukla ilgili kanunlar ile CMK`daki hükümlerde yer alan genel yetkisi ve görevi kapsamında olmak üzere, Cumhuriyet savcısının sözlü veya yazılı emirleri doğrultusunda delil toplayabilir. Bu nitelikte topladığı deliller hukuka uygundur. Bu nedenle örgütlü olmayan suçlar için gizli soruşturmacı olarak görevlendirilen ve adli kolluk görevlisi olan kişinin statüsü adli kolluk görevlisidir. Adli kolluk görevlisi tarafından düzenlenen rapor ve/veya tutanak dışında, sanığın mahkûmiyetine yeterli ve kesin delil yoksa ve sanık bu tutanak ve/veya rapora itiraz etmiş ise, adli kolluk görevlisinin tanık olarak dinlenmesi gerekir.
+
+b) CMK`nın 58 maddesinin 5. fıkrası gereği aynı maddenin ikinci, üçüncü ve dördüncü fıkralarının ancak bir örgütün faaliyeti çerçevesinde işlenen suçlarla ilgili uygulanabilir. Dolayısıyla adli kolluk görevlisi, diğer tanıklar gibi kimlikleri gizlenmeden dinlenir.
+
+c) Cumhuriyet savcısı, müdafii veya vekil sıfatıyla duruşmaya katılan avukat; sanığa, katılana, tanıklara, bilirkişilere ve duruşmaya çağrılmış diğer kişilere, duruşma disiplinine uygun olarak doğrudan soru yöneltebilirler. Sanık ve katılan da mahkeme başkanı veya hâkim aracılığı ile soru yöneltebilir… (CMK 201/1).
+
+d) Olayın delili, bir tanığın açıklamalarından ibaret ise, bu tanık duruşmada mutlaka dinlenir. Daha önce yapılan dinleme sırasında düzenlenmiş tutanağın veya yazılı bir açıklamanın okunması dinleme yerine geçemez. (CMK 210/1).
+
+e) Hâkim, kararını ancak duruşmaya getirilmiş ve huzurunda tartışılmış delillere dayandırabilir. Bu deliller hâkimin vicdani kanaatiyle serbestçe takdir edilir. (CMK 217/1).
+
+f) Sanık, iddia tanıklarını sorguya çekmek veya çektirmek hakkına sahiptir. (AİHS 6/3-d).
+
+Somut olayda; duruşma tarihi 25.06.2013 olarak belirlendiği halde, 24.06.2013 tarihinde oturum açılarak, kimliği ve kişisel bilgileri tespit edilip tutanağa yazılmadan, sanık ve müdafiinin yokluğunda GS 265 ve GS 360 sicil numaralı tutanak düzenleyicileri tanık olarak dinlenmiştir.
+
+Açıklanan durumlara göre; GS 265 ve GS 360 sicil numaralı tutanak düzenleyicilerinin CMK`nın 58. maddesinin 1. fıkrası gereğince kimliği ve kişisel bilgileri belirlenerek, sanığa ve müdafiine soru sorma hakkı da tanınarak duruşmada tanık olarak dinlenilmesi, sonucuna göre tüm deliller birlikte tartışılarak sanığın hukuki durumunun belirlenmesi gerekirken, duruşma tarihinden önce açılan oturumda kimlik ve kişisel bilgileri belirlenmeden, sanık ve müdafiine haber verilmeden yokluklarında tanık olarak dinlenmek suretiyle savunma hakkının kısıtlanması,
+
+2- Kabule göre; hükümden sonra 24.11.2015 tarih ve 29542 sayılı Resmi Gazete’de yayımlanarak yürürlüğe giren Anayasa Mahkemesi’nin 08.10.2015 tarihli 2014/140 esas ve 2015/85 karar sayılı kararı ile, 5237 sayılı TCK`nın 53. maddesinin bazı hükümlerinin iptal edilmesi nedeniyle, bu maddenin uygulanması açısından, sanığın durumunun yeniden belirlenmesinde zorunluluk bulunması,
+
+Bozmayı gerektirmiş, sanık müdafiinin temyiz itirazları bu nedenle yerinde görülmüş olduğundan, diğer yönleri incelenmeksizin hükmün BOZULMASINA, 05.04.2016 tarihinde oybirliğiyle karar verildi.
+
+YARGITAY 1. CEZA DAİRESİ 
+Esas : 2015/3430 Karar : 2015/4775Tarih : 8.10.2015
+
+CMK 201. Madde
+
+Doğrudan Soru Yöneltme
+
+1-)Gizli tanıkların duruşmada dinlenmesi sırasında 5271 sayılı CMK’nun 58/2-3 ve 5726 sayılı Tanık Koruma Kanunu’nun 9.maddesinde öngörülen usuller uygulanarak, ayrıca CMK`nun 201. maddesi uyarınca sanık ve müdafiinin tanıklara soru yöneltebilmelerine imkan sağlanması gerekirken, belirtilen yöntemlere aykırı olarak gizli tanıkların duruşmada bulunma hakkına sahip olanların yokluğunda dinlenmesi suretiyle savunma hakkının kısıtlanması,
+
+2-) 14.11.2014 ve 17.11.2014 tarihli duruşmalarda dinlenen gizli tanık .. ile (3) nolu gizli tanığın beyanları tespit edilirken yemin verdirilmeyerek CMK`nun 54. maddesine muhalefet edilmesi,
+
+Usule aykırı olup, sanık ve müdafileri ile o yer Cumhuriyet savcısının temyiz itirazları bu itibarla yerinde görüldüğünden, diğer yönleri incelenmeyen hükmün tebliğnamedeki düşünceye aykırı olarak ( BOZULMASINA ), bozmanın mahiyetine, verilen cezanın süresine, temyiz incelemesi dışında tutukluluk müddetine göre tahliye talebinin REDDİNE,  oybirliğiyle karar verildi.
+
+YARGITAY 1. CEZA DAİRESİ
+Esas : 2014/4877 Karar : 2015/1388Tarih : 11.03.2015
+
+CMK 201. Madde
+
+Doğrudan Soru Yöneltme
+
+Sanık .. hakkında kasten öldürme ve 6136 Sayılı Kanuna muhalefet suçlarından kurulan hükümlerin incelenmesinde;
+
+1)Gizli tanık .’ın duruşmada bulunma hakkına sahip olanların yokluğunda 20.03.2013 günlü celsede dinlendiği, ancak 5726 sayılı Tanık Koruma Kanunu’nun 9/2,3 maddelerinde öngörülen usullerin uygulanması gerektiği anlaşılmakla CMK`nun 201.maddesinde yer alan doğrudan soru yöneltme imkanının tanınmaması ve savunma hakkının kısıtlanması,
+
+2)Gizli tanık ..`ın sanığın kolunda gördüğünü söylediği ve şekli çizilen dövmenin, sanığın vücudundaki dövmeler ile gerektiğinde bilirkişi marifetiyle karşılaştırılması lüzumuna uyulmaması,
+
+3)İlk beyanları hükme esas alınan tanıklar .. ve ..’un adreslerinin UYAP ve MERNİS kayıtlarından sıkı bir şekilde ve makul bir süreyle araştırılması gerektiği gözetilmeden dinlenmelerinden vazgeçilerek hüküm kurulması,
+
+4)Sanık hakkında ruhsatsız silah taşıma suçundan hükmedilen hapis cezasının yasal sonucu olarak TCK’nun 53.maddesinin uygulanmasına karar verilmemesi,
+
+5)Yargılama masrafının 6183 sayılı Kanunun 106. maddesinde belirlenen tutardan az olması nedeniyle 6352 sayılı Kanunun 100.maddesiyle değişik 5271 sayılı CMK`nun 324/4.maddesi gereğince Hazineye yükletilmesi yerine sanıktan tahsiline karar verilmesi,
+
+Bozmayı gerektirmiş olup, sanık müdafıinın temyiz itirazları bu itibarla yerinde görülmekle sair cihetleri incelenmeyen hükümlerin öncelikle bu nedenlerle, tebliğnamedeki düşünceye aykırı olarak (BOZULMASINA),   oybirliği ile karar verildi.
+
+YARGITAY 1. CEZA DAİRESİ
+Esas : 2008/1500 Karar : 2008/4787Tarih : 5.06.2008
+
+CMK 201. Madde
+
+Doğrudan Soru Yöneltme
+
+Recep Zümrüt Yaprak’ı kasten öldürmeye tam derecede teşebbüsten sanık Mehmet Ali Turhan’ın yapılan yargılanması sonunda: Hükümlülüğüne ilişkin ( ADANA ) İkinci Ağır Ceza Mahkemesinden verilen 15.02.2007 gün ve 87/45 sayılı hükmün Yargıtay`ca incelenmesi sanık müdafii ile müdahil vekili taraflarından istenilmiş olduğundan dava dosyası C.Başsavcılığından tebliğname ile Dairemize gönderilmekle, incelendi ve aşağıdaki karar tesbit edildi:
+
+1- Sanık, mağdur ve tanık beyanlarındaki çelişkiler ve Adli Tıp Kurumu raporundaki bulgular dikkate alınarak, mahallinde mağdur, sanık ve tanıklar hazır edilmek suretiyle temsili ve tatbiki keşif yapılıp ifadeler arasındaki çelişkilerin giderilmeye çalışılıp hedefin mobil olup olmadığı, atış şekli, mesafesi gibi durumlar, beyanlara göre saptanıp sonucuna göre suç vasfının belirlenmesi gerekirken yazılı şekilde eksik soruşturma ile hüküm tesisi,
+
+2- Soruşturma aşamasındaki beyanı hükme esas alınan tanık Nezih Zümrütyaprak duruşmada dinlenmemesi suretiyle CMK.nun 201, 215, 217. maddelerine aykırı davranılması,
+
+Usule aykırı ve sanık Mehmet Ali Turhan müdafii ile müdahil vekilinin temyiz itirazları bu itibarla yerinde görüldüğünden sair cihetleri incelenmeksizin öncelikle bu nedenle hükmün tebliğnamedeki düşünce gibi CMUK.nun 321. maddesi uyarınca ( BOZULMASINA ), oybirliği ile karar verildi.
+
+YARGITAY 4. CEZA DAİRESİ 
+Esas : 2006/3203 Karar : 2007/10902Tarih : 17.12.2007
+
+CMK 201. Madde
+
+Doğrudan Soru Yöneltme
+
+Temyiz isteğinin reddi nedenleri bulunmadığından işin esasına geçildi.
+
+Vicdani kanının oluştuğu duruşma sürecini yansıtan tutanaklar, belgeler ve gerekçe içeriğine göre yapılan incelemede, başkaca nedenler yerinde görülmemiştir.
+
+Ancak; CYY’nin 181. maddesi uyarınca tanıkların dinlenilmesi için belirlenen duruşma gününün sanığa ve müdafiine bildirilmesinin zorunlu bulunduğu, CYY`nin 201. maddesinde öngörülen sanık müdafiine tanıklara yönelik soru sorma olanağının da sağlanabilmesi bakımından bu zorunluluğa uyulması gerektiği gözetilmeden, sanık müdafiinin hazır bulunduğu
+
+11.12.2002 tarihinde yapılan duruşma bitiminde bir sonraki duruşma günü
+
+29.04.2003 tarihine bırakıldığı halde, aynı gün tanık Abdullah’ın hazır bulunduğundan bahisle sanık müdafii haberdar edilmeksizin ifadesinin alınması suretiyle CYY`nin 181 ve 201. maddelerine aykırı davranılması,
+
+Yasaya aykırı ve sanık Selim müdafiinin temyiz nedenleri yerinde görüldüğünden, tebliğnamedeki onama düşüncesinin reddiyle (HÜKMÜN BOZULMASINA), yargılamanın bozma öncesi aşamadan başlayarak sürdürülüp sonuçlandırılmak üzere dosyanın esas/hüküm mahkemesine gönderilmesine, oybirliğiyle karar verildi.
+
+UYARI

@@ -1,0 +1,554 @@
+Kesin Süre
+
+HMK Madde  94
+
+HMK Madde 94 Gerekçesi
+
+HMK 94 Kesin Süre Yargıtay Kararları
+
+(1) Kanunun belirlediği süreler kesindir.
+
+(2) (Değişik:22/7/2020-7251/6 md.) Hâkim, tayin ettiği sürenin kesin olduğuna karar verebilir. Bu takdirde hâkim, tayin ettiği kesin süreye konu olan işlemi hiçbir duraksamaya yer vermeyecek şekilde açıklar ve süreye uyulmamasının hukuki sonuçlarını açıkça tutanağa geçirerek ihtar eder. Kesin olduğu belirtilmeyen süreyi geçirmiş olan taraf yeniden süre isteyebilir; bu şekilde verilecek ikinci süre kesindir ve yeniden süre verilemez.
+
+(3) Kesin süre içinde yapılması gereken işlemi, süresinde yapmayan tarafın, o işlemi yapma hakkı ortadan kalkar.
+
+Maddenin birinci fıkrasında, kanunun belirlediği sürelerin kesin olduğu, ikinci fıkrasında ise hâkim tarafından da kesin süre verilebileceği kuralı benimsenmiştir.
+
+Hâkimin kesin olduğunu belirtmeden süre vermesi hâlinde, belirlenen süreyi geçirmiş olan tarafın yeniden süre isteyebileceği; ancak ikinci olarak verilen sürenin, her halükarda kesin olduğu ve aynı konuda yeniden süre verilmesinin mümkün olmadığı kurala bağlanmıştır.
+
+Üçüncü fıkraya göre, kanunla veya hâkim tarafından verilen kesin süre içinde yapılamayan işlemi, ilgili tarafın yapma hakkı son bulmaktadır. Diğer taraf aynı işlemi yapmak isterse ya da yapması gerekirse ona yeni bir süre verilerek işlemi yapması sağlanabilir. Bir taraf için süresinde işlemi yapmamasından kaynaklanan hak kaybı, diğer tarafı etkilemez.
+
+Yargıtay 7. Hukuk Dairesi         2021/457 E.  ,  2021/2206 K.
+
+6100 sayılı HMK’nun 90.maddesi gereğince; süreler, kanunda belirtilir veya hâkim tarafından tespit edilir. Kanun ya da hakim tarafından tayin edilmiş olan kesin süre içerisinde yerine getirilmeyen bir işlemin bu süre geçtikten sonra yerine getirilmesine yasal olanak bulunmamaktadır. Kesin süre içerisinde yerine getirilmeyen işlem bazen davanın kaybedilmesi sonuçlarını da doğurmaktadır. Davaların uzamasını veya uzatılmak istenmesini engellemek üzere konan kesin süre kuralı, kanunun amacına uygun olarak kullanılmalı, davanın reddi için bir araç sayılmamalıdır.
+
+Bu nedenle de hakim tarafındankesin süre verilirken;
+
+1-Kesin süreye konu işlemin gerekli ve tarafların yerine getirebileceği bir işlem olması,
+
+2-Verilen sürenin işlemin yapılması için yeterli ve makul bir süre olması, duruşma gününe kadar kesin süre nedeniyle yapılacak işlem sonrası başka bir işleme gerek yok ise bu sürenin takip eden duruşma gününe kadar verilmesi,
+
+3-Yapılması gereken iş veya işlemler birer birer, varsa masraflarının da miktarıyla birlikte açıkça gösterilmesi,
+
+4-Sürenin kesin olduğu ve sonuçlarının tarafa açıklanması zorunludur.
+
+Somut olayda; Bölge adliye mahkemesince, davacı vekili tarafından ileri sürülen muvazaa iddiasının kanıtlanamadığı gerekçesi ile tapudaki satış bedeli ve harçtan oluşan toplam 122.400,00TL önalım bedelinden daha önce mahkeme veznesine depo edilen 72.612,40 TL’nin mahsubu ile bakiye 49.787,60 TL önalım bedelinin depo edilmesi için davacı vekiline kesin süre verildiği, buna ilişkin ara kararının usulüne uygun olarak tebliğine rağmen bakiye önalım bedelinin ödenmediği gerekçesi ile davalı vekilinin istinaf başvurusunun kabulüne, yerel mahkeme kararının kaldırılarak davanın reddine ilişkin hüküm kurulmuş ise de;
+
+Bölge adliye mahkemesince, muvazaa ispat edilemediğinden eksik depo edilen kanuni şufa bedelinin ödenmesi için 07.05.2019 tarihli duruşmada davacı vekilinin mazeretli olması nedeniyle yokluğunda, tebliğden itibaren 2 haftalık kesin süre verilmiş, elektronik tebligat sistemi ile davacı vekiline 12.05.2019 tarihinde tebliğ edilmiş, ancak tebligatın ekine kesin mehil verilen 07.05.2019 tarihli duruşma tutanağı yerine daha önceki 05.03.2019 tarihli duruşma tutanağı eklendiğinden usulüne uygun bir tebligat yapılamadığı anlaşılmıştır.
+
+Bu durumda bölge adliye mahkemesince, resmi satış senedindeki satış bedeliyle ödenmesi zorunlu harç ve masrafların toplamından ibaret olan önalım bedelinden depo edilen bedel haricinde geriye kalan bedelin depo edilmesi için davacı tarafa usulüne uygun süre verilerek sonucuna göre bir karar verilmesi gerekirken yazılı şekilde karar verilmesi doğru görülmemiş, Bölge Adliye Mahkemesi kararının bu nedenle bozulması gerekmiştir.
+
+Yargıtay 11. Hukuk Dairesi         2021/1326 E.  ,  2022/3365 K.
+
+Kanuni süreler açıkça belirtilen ayrıcalıklar dışında kesindir. Bu nedenle karar tarihinde yürürlükte olan HMK’nın 90. maddesinde belirtildiği gibi kanunun tayin ettiği süreler hakim tarafından azaltıp çoğaltılamaz. Buna karşın, HMK 94. maddesine göre hakimin belirlediği süreler ise kural olarak kesin değildir. Hakim tayin ettiği süreyi henüz dolmadan azaltıp çoğaltacağı gibi, süre geçtikten sonra da tarafın isteği üzerine yeni bir süre tanıma yoluna da gidebilir. Bu takdirde verilen ikinci süre kesindir. Hakim kendi belirlediği sürenin kesin olduğuna da karar verebilir. Kesin sürenin tayin edilmesi halinde, karşı taraf yararına usulü kazanılmış hak doğacağı da kuşkusuzdur. Hemen belirtmek gerekir ki, ister kanun, isterse hakim tarafından tayin edilmiş olsun kesin süre içerisinde yerine getirilmeyen bir işlemin bu süre geçtikten sonra yerine getirilmesine yasal olanak yoktur. Böylece kesin sürenin kaçırılması; o delile veya hakka dayanamamak gibi ağır sonuçları birlikte getirmekte, bazen davanın kaybedilmesine dahi neden olmaktadır. Bu itibarla, geciken adaletin de bir adaletsizlik olduğu düşüncesinden hareketle, davaların yok yere uzamasını veya uzatılmak istenmesini engellemek üzere konan kesin süre kuralı, kanunun amacına uygun olarak kullanılmalı, davanın reddi için bir araç sayılmamalıdır. Öncelikle, kesin süreye ilişkin ara kararı her türlü yanlış anlaşılmayı önleyecek biçimde açık ve eksiksiz yazılmalı, yapılacak işler teker teker belirtilmelidir. Bunun yanında verilen süre yeterli, emredilen işler, gerekli ve yapılabilir nitelik taşımalı, ayrıca hakim süreye uyulmamanın sonuçlarını açıkça anlatmalı, tarafları uyarmalıdır.
+
+Somut olayda, mahkemece, 09.10.2019 tarihli celsede Dairemizin bozma ilamı kapsamında bilirkişi raporu alınmak üzere belirlenen bilirkişi ücretinin yatırılması için davacı vekiline 2 haftalık kesin süre verilmiş, davacı vekilince de 2 haftalık kesin süre sonrasında 23.01.2020 tarihinde gider avansı yatırılmıştır. Her ne kadar davacı vekilince kesin süre bittikten sonra masraf yatırılmış ise de, masrafın kesin sürenin verildiği celse ile bir sonraki celse arasında yatırılmış olması nedeniyle davacı vekilince celse atlanmasına ve yargılamanın uzamasına sebebiyet verilmediğinden mahkemece, kesin süre içinde bilirkişi masrafının yatırılmadığı gerekçesiyle ispatlanamayan davanın reddine karar verilmesi yerinde görülmemiş, kararın temyiz eden davacı yararına bozulması gerekmiştir.
+
+Yargıtay 23. Hukuk Dairesi         2016/8908 E.  ,  2020/374 K.
+
+Yargıtay Hukuk Genel Kurulu’nun 12.12.2012 tarihli ve 2012/9-1170 Esas, 1172 Karar sayılı ilamında belirtildiği üzere “mülga 1086 Sayılı HUMK’nın 163. maddesi ile 6100 Sayılı HMK’nın 94. maddesi uyarınca kesin süreye ilişkin ara kararının hiçbir duraksamaya yer vermeyecek biçimde açık olması, taraflara yüklenen yükümlülüklerin, yapılması gereken işlerin neler olduğunun açıklanması gerekir. Ayrıca kesin süreye uymamanın doğuracağı hukuki sonuçların açık olarak anlatılması ve anlatılanların tutanağa geçirilmesi, bunlara uyulmaması durumunda mevcut kanıtlara göre karar verilip, gerektiğinde davanın reddedileceğinin açıkça bildirilmesi suretiyle ilgili tarafın uyarılması gerektiği her türlü duraksamadan uzaktır. Bazı hallerde kesin sürenin kaçırılması, o delile veya hakka dayanamamak gibi ağır sonuçları birlikte getirmekte, davanın kaybedilmesine neden olmaktadır. Böyle bir durumda, geciken adaletin adaletsizlik olduğu düşünülerek, davaların uzamasını veya uzatılmak istenmesini engellemek üzere getirilen kesin süre kuralı, kanunun amacına uygun olarak kullanılmalı, davanın reddi için bir araç sayılmamalıdır. (Benzer ilkelere Yargıtay Hukuk Genel Kurulu’nun 18.02.1983 günlü ve 1980/1-1284 E. 1983/141 K. 22.11.1972 günlü ve 8-832 E. 935 K. 13.10.2010 günlü ve 17-510 E. 485 K. 28.04.2010 günlü ve 2-221 E. 241 K. ve 28.03.2012 gün ve 19-55 E. 249 K. sayılı ilamlarında da değinilmiştir.)
+
+Somut olayda davacı vekilinin mazeretli olduğu için duruşmaya katılmadığı, 06.05.2016 tarihli celsede mahkemece, davacıya bilirkişi ücretinin yatırılması hususunda HMK’nın 94. maddesine uygun olarak kesin süre verilmiş ise de, bu hususta davacı vekiline Tebligat Kanunu hükümlerine uygun meşruhatlı tebligat yapıldığına ilişkin belgeye rastlanmadığı, bu durumda, HMK’nın 94. maddesi hükmüne uygun olarak verilmiş olan kesin sürenin sonuç doğurmayacağı gözardı edilerek davanın ispat edilemediği gerekçesi ile yazılı şekilde hüküm kurulması doğru olmamıştır.
+
+YARGITAY 1. HUKUK DAİRESİ 
+Esas : 2015/9727 Karar : 2018/9333Tarih : 19.04.2018
+
+HMK 94. Madde
+
+Kesin Süre
+
+Dava, muris muvazaası hukuksal nedenine dayalı tapu iptali ve tescil istemine ilişkindir.
+
+Davacılar, ortak mirasbırakan … ‘nun malik olduğu 3504 parselde kayıtlı 2,5, 9 nolu bağımsız bölümler ile 223 ada 9 nolu parselde kayıtlı 8 nolu bağımsız bölümü mirasçılarından mal kaçırmak amacıyla davalılara satış göstermek suretiyle devrettiğini, yapılan temlikin muvazaalı olduğunu ileri sürerek dava konusu taşınmazların tapu kaydının iptali ile mirasbırakan adına tescilini istemişlerdir.
+
+Davalılar, davanın reddini savunmuşlar; karşı davalarında ise davacıların mirastan feragat sözleşmesi yaptıklarını bu kapsamda kendilerine yapılan 47.500,00 TL ödemenin davalılardan müştereken ve müteselsilen tahsiline ve mirasta denkleştirme yapılmasını istemişlerdir.
+
+Mahkemece, verilen kesin süre içerisinde keşif masrafının yatırılmadığı gerekçesiyle davanın usulden reddine karar verilmiştir.
+
+Dosya içeriği ve toplanan delillerden; 21.10.2014 tarihli celsede “ Kadastro Bilirkişisine 300,00 TL, diğer bilirkişilere 400,00’şer TL ücret takdirine, keşif harcı ve eksik bilirkişi ücretinin her iki tarafın taleplerinin mahiyeti gereği keşif yapılmakla davacı ve davalı tarafça keşif gideri 177,50 TL ve 150,00 TL araç gideri toplamı ve gider avansı olmak üzere toplam 1.500,00 TL’nin 1/2 oranında taraflarca keşif tarihinden 10 gün öncesine kadar mahkeme veznesine yatırılmasına, masrafın davacı tarafça karşılanmasına, verilen sürenin kesin olduğuna, keşif ücreti “ şeklinde ara karar kurulduğu, davacı tarafça 12.05.2015 tarihli celsede keşif ücreti yatırılması hususunda yeniden süre verilmesinin talep edildiği, mahkemece aynı celsede davanın usulden reddine karar verildiği anlaşılmaktadır.
+
+Bilindiği üzere 01.10.2011 tarihinde yürürlüğe giren , 6100 Sayılı HMK ‘nun 114. madesinin “g” bendinde, gider avansının yatırılmış olması dava şartları arasında sayılmış, Kanun’un 115. maddesinin 1. fıkrasında, mahkemenin bu koşulun mevcut olup olmadığını kendiliğinden araştıracağı, ikinci fıkrasında ise, bu şartın noksanlığı tespit edilirse davanın usulden reddine karar verileceği öngörülmüştür.
+
+HMK’nun “Harç ve Avans Ödemesi” başlıklı 120. maddesinin birinci fıkrası harç ve avansların Bakanlıkça saptanacağı, dava açılırken mahkeme veznesine yatırılacağı, avansın yeterli olmadığının anlaşılması durumunda davacıya iki haftalık kesin süre verileceği düzenlenmiştir.
+
+“Delil ikamesi için avans” başlıklı HMK’nun 324. maddesinin birinci fıkrasında; “taraflardan her biri ikamesini talep ettiği delil için mahkemece belirlenen avansı, verilen kesin sürede yatırmak zorundadır. Taraflar birlikte aynı delilin ikamesini talep etmişlerse, gereken gideri yarı yarıya avans olarak öderler” hükmü düzenlendikten sonra, ikinci fıkrasında; tarafların bu yükümlülüğü yerine getirmemeleri halinde talep ettikleri delilin ikamesinden vazgeçmiş sayılacakları öngörülmüştür.
+
+Görüldüğü üzere HMK’nun 324. maddesinde düzenlenen delil ikamesi avansı, HMK’nun 114. maddesinin “g” bendinde belirtilen gider avansından hüküm ve sonuçları itibariyle farklı olup, dava şartı niteliğinde değildir.
+
+Mahkemenin söz konusu ara kararında istenen avansın, keşif ve bilirkişi ücreti olduğu belirtildiğinden, istenen avans delil ikamesi avansı niteliğinde olup, HMK’nun 324. maddesi gereğince, bu avansın süresinde yatırılmamasının hukuki sonucu, delile dayanan tarafın o delilden vazgeçmiş sayılacağıdır.
+
+Ayrıca; davaların kısa zamanda sonuçlandırılması, adaletin bir an önce tecellisi için, taraflarca veya mahkemelerce yapılması gereken bir kısım adli işlemler sürelere bağlanmıştır. Bu sürelerin bazılarını kanun bizzat belirlerken bir kısmını işin özelliğine, tarafların durumlarına göre belirlemesi için hakime bırakmıştır. Kanuni süreler açıkça belirtilen ayrıcalıklar dışında kesindir. Bu nedenle 6100 sayılı HMK. nun 90. (1086 sayılı HUMK.nun 159.) maddesinde açık hükmünde belirtildiği gibi kanunun tayin ettiği süreler hakim tarafından azaltıp çoğaltılamaz. Buna karşın, 6100 sayılı HMK. nun 94. (1086 sayılı HUMK.nun 163.) maddesine göre hakimin belirlediği süreler ise kural olarak kesin değildir.
+
+Bu takdirde verilen ikinci süre kesindir. Ancak, hakim kendi belirlediği sürenin kesin olduğuna da karar verebilir.Kesin sürenin tayin edilmesi halinde, karşı taraf yararına usuli kazanılmış hak doğacagı da kuşkusuzdur. Hemen belirtmek gerekir ki, ister kanun, isterse hakim tarafından tayin edilmiş olsun kesin süre içerisinde yerine getirilmeyen bir işlemin bu süre geçtikten sonra yerine getirilmesine yasal olanak yoktur.
+
+Böylece kesin sürenin kaçırılması; o delile veya hakka dayanamamak gibi ağır sonuçları birlikte getirmekte, bazen davanın kaybedilmesine dahi neden olmaktadır. Bu itibarla geciken adaletinde bir adaletsizlik olduğu düşüncesinden hareketle, davaların yok yere uzamasını veya uzatılmak istenmesini engellemek üzere düzenlenen kesin süre kuralı, kanunun amacına uygun olarak kullanılmalı, davanın reddi için bir araç sayılmamalıdır. Öncelikle, kesin süreye ilişkin ara kararı her türlü yanlış anlaşılmayı önleyecek biçimde açık ve eksiksiz yazılmalı, yapılacak işler teker teker belirtilmelidir. Bunun yanında verilen süre yeterli, emredilen işler, gerekli ve yapılabilir nitelik taşımalı, ayrıca hakim süreye uyulmamanın sonuçlarını açıkca anlatmalı, tarafları uyarmalıdır. Öte yandan, kesin süre tarafların yanında hakimi de bağlayacağından uyulmaması halinde gereği hakim tarafından hemen yerine getirilmelidir.
+
+Somut olayda keşif yapılması yönünde kurulan ara kararın yukarıda açıklanan ilke ve usule uygun olduğunu söyleyebilme imkanı yoktur. Bu nedenle mahkemece, kaç bilirkişi ile keşife gidileceği, bilirkişilerin hazır edilmeleri için gereken davetiye giderleri, bilirkişiler için takdir edilen ücret, yatırılması gereken mahkeme yolluğu, tanıkların keşif mahallinde dinlenilmeleri için gereken tebligat giderleri vs. kalem kalem gösterilmek suretiyle keşif ara kararı kurulması zaruri olup, kesin süre içeren ara kararının gereğinin yerine getirilmemesinin doğuracağı sonuçların taraflara hatırlatılması ve bu konuda uyarı yapılması da zorunludur.
+
+Mahkemece yukarıda açıklanan ilke ve usule uygun şekilde, hesap edilecek bilirkişi ve keşif giderleri tek tek belirlenmek suretiyle ara karar oluşturulması, bu ara karar doğrultusunda keşif giderlerinin yatırılması için kesin süre verilmesi, belirlenen kesin sürenin sonuçları hakkında tarafları uyarması, kesin sürenin gereğinin yerine getirilmemesi halinde ise HMK’nun 324. maddesi gereğince işlem yapılması, karşı dava açısından 6100 sayılı HMK’nın 297/2. maddesi de gözetilerek bir karar verilmesi gerekirken yazılı olduğu şekilde hüküm kurulması doğru değildir.
+
+Öte yandan bilindiği üzere; elbirliği (iştirak) halinde mülkiyet, yasa veya yasada belirtilen sözleşmeler uyarınca aralarında ortaklık bağı bulunan kişilerin, bu ortaklık nedeniyle bir mala veya hakka birlikte malik olma durumudur.
+
+4721 sayılı Türk Medeni Kanununun (TMK) 701 ile 703. maddelerinde düzenlenen bu tür mülkiyetin (ortaklığın) tüzel kişiliği olmadığı gibi eşya üzerinde ortaklardan her birinin doğrudan doğruya bir hakkı da yoktur. Mülkiyet bir bütün olarak ortaklardan tümüne aittir. Başka bir anlatımla ortaklık tasfiye oluncaya kadar ortaklardan birinin ayrı mal veya hak sahipliği bulunmayıp, hak sahibi ortaklıktır. Değinilen mülkiyet türünde malikler mülkiyet payları ayrılmadığından paydaş değil, ortaktır. Bu kural, TMK. nun 701. maddesinde (… Kanun ve kanunda öngörülen sözleşmeler uyarınca oluşan topluluk dolayısıyla mallara birlikte malik olanların mülkiyeti, elbirliği mülkiyetidir. Elbirliği mülkiyetinde ortakların belirlenmiş payları olmayıp her birinin hakkı, ortaklığa giren malların tamamına yaygındır.) biçiminde açıklanmıştır. Elbirliği (iştirak) halinde mülkiyetin bu özelliği itibariyle ortaklar arasında zorunlu dava arkadaşlığı bulunmaktadır. Şayet yasa veya elbirliği (iştirak) halinde mülkiyeti oluşturan anlaşmada ortaklık adına hareket etme yetkisinin kime ait olacağı belirtilmemişse, ortaklığın tasfiyesini isteme hakkı dışındaki tüm işlemlerde ortakların (iştirakçilerin) oybirliğiyle karar almaları ve birlikte hareket etmeleri zorunluluğu vardır.
+
+4721 sayılı TMK. nun 702/2. maddesi bu yönde açık hüküm getirmiştir. Ancak, açıklanan kural yargısal uygulamada kısmen yumuşatılmış bir ortağın tek başına dava açabileceği, ne var ki, davaya devam edebilmesi için öteki ortakların olurlarının (onaylarının) alınması veya miras şirketine atanacak temsilci aracılığı ile davanın sürdürülmesi gerektiği kabul edilmiştir. (11.10.1982 tarih 1982/3-2 sayılı İçtihadı Birleştirme Kararı) Nitekim bu görüş bilimsel alanda da aynen benimsenmiştir.
+
+Somut olayda, davacılar tapu kaydının iptali ile terekeye iade istemiş olup dosya içinde yer alan mirasbırakan … ‘nun veraset ilamından, mirasbırakanın davacılar dışında başka mirasçılarının da bulunduğu anlaşılmaktadır.
+
+Hal böyle olunca, öncelikle davaya katılmayan mirasçıların olurlarının alınması yada miras şirketine 4721 sayılı TMK. nun 640. maddesi uyarınca atanacak temsilci aracılığı ile davanın sürdürülmesi, böylelikle davanın görülebilirlik koşulunun yerine getirilmesi; ondan sonra taraf delillerinin toplanarak hasıl olacak sonuca göre bir karar verilmesi gerekirken davanın görülebilirlik koşulu gözardı edilerek yazılı şekilde karar verilmesi doğru değildir.
+
+Davacılar vekilinin yerinde görülen temyiz itirazlarının kabulü ile yukarıda açıklanan nedenlerden ötürü hükmün (6100 sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK’nun 428.maddesi gereğince BOZULMASINA, alınan peşin harcın temyiz edene geri verilmesine, 19/04/2018 tarihinde oybirliğiyle karar verildi.
+
+YARGITAY 3. HUKUK DAİRESİ
+Esas : 2017/7764 Karar : 2017/18113Tarih : 25.12.2017
+
+HMK 94. Madde
+
+Kesin Süre
+
+Davacı, malik olduğu taşınmazda, davalının 05/03/2011 tarihinden itibaren kiracı olduğunu, taşınmazın bulunduğu eski binayı tamamen yıkarak taşınmaz üzerinde büyük bir proje inşa edeceğini, bu hususun 16/09/2014 tarihli ihtarname ile davalıya bildirdiğini ancak davalının taşınmazı tahliye etmediğini belirterek kira sözleşmesinin sona erdirilmesine ve kiralananın tahliyesine karar verilmesini istemiştir.
+
+Davalı, davanın reddini dilemiştir.
+
+Mahkemece, davanın yeniden inşa ve imar nedeniyle tahliye davası olması nedeniyle davacıya avam ve mimari projeleri ibraz etmek üzere verilen sürelere rağmen davacı tarafça onaylı herhangi bir proje ibraz edilmediği, 
+belediyenin cevabi yazısından anlaşıldığı üzere davacının belediyeye herhangi bir proje başvurusunun bulunmadığı, 
+davacı tarafça davalının tahliyesini gerektirir esaslı bir inşai faaliyet yapılacağı hususunun ispat edilemediği gerekçesiyle davanın reddine karar verilmiş,
+
+hüküm davacı tarafından temyiz edilmiştir.
+
+Mahkemece, 30.03.2015 tarihli tensip zaptının 11.maddesinde 
+‘davacı tarafa taşınmaza ait projeyi dosyaya ibraz etmek üzere 2 Hafta Kesin Süre verilmesine’ şeklinde karar kurulmuş, 
+davacı tarafından düzenleme şeklinde arsa payı karşılığı inşaat sözleşmesi ve onaysız avam proje örneği ibraz edilmesi üzerine;
+
+yine 09.06.2015 tarihli birinci celsede Mahkemece; 
+`Davacı vekiline onaylı projeyi ibraz etmek üzere gelecek celseye kadar süre verilmesine,’ şeklinde ara karar oluşturulmuştur.
+
+Bunun üzerine davacı; projenin uygulanacağı alanın çok geniş bir saha olduğunu, birden çok taşınmaz mevcut olup tevhid işlemlerinin gerçekleştirileceğini, bu nedenle projenin onay aşamasına gelmediğini beyanla tarafına tekrar süre verilmesini talep etmiş,
+
+Mahkemece; 
+‘bu güne kadar avan projesinin ibraz  edilmediği, Zeytinburnu Belediyesinden gelen 03/12/2015 tarihli cevabı yazıda da davacı şirket tarafından yapılmış herhangi bir başvurunun bulunmadığı bildirildiği anlaşıldığından proje ibrazına ilişkin süre talebinin reddine’ karar verilerek davanın esasına yönelik hüküm kurulmuştur.
+
+Her ne kadar tensip zaptı ile birlikte onaylı projeyi ibraz etmek üzere davacıya kesin süre verilmiş ise de;   verilen kesin sürede kesin süreye uyulmamasının sonuçları açıkça belirtilmemiştir. 
+Hukuk Muhakemeleri Kanununun 94.maddesine göre hakim tayin ettiği müddetin kesin olduğuna karar verebilir. Ancak, böyle bir durumda kesin sürenin hukuki sonuç doğurabilmesi için, buna ilişkin ara kararının yasaya ve içtihatlara uygun şekilde oluşturulması, hiçbir tereddüde yer vermeyecek derecede açık olması ve kesin süreye uyulmamasının sonuçlarının ilgili tarafa ihtar edilmesi gerekir.
+
+Mahkemece verilen tensip zaptının 11.maddesinde belirtilen kesin sürenin sonuçları kararda açıkça yazılmamıştır.
+
+Bu durumda verilen süre bir sonuç doğurmaz.
+
+Hukuk Genel Kurulu`nun 7.5.2003 tarih 2003/319-355 Karar sayılı kararı bu yöndedir. Bu nedenle Mahkemece davacıya usulüne uygun şekilde kesin süre ihtaratı yapılarak, sonucuna göre deliller yeniden değerlendirilip bir karar verilmesi gerekirken, eksik araştırma ile yazılı şekilde hüküm kurulması hatalı olup, bu husus bozmayı gerektirmiştir.
+
+SONUÇ: Yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.maddesi gereğince davacı yararına BOZULMASINA, peşin alınan temyiz harcının istek halinde temyiz edene iadesine, 6100 sayılı HMK`nun geçici madde 3 atfıyla 1086 sayılı HUMK.nun 440.maddesi gereğince kararın tebliğinden itibaren 15 günlük süre içerisinde karar düzeltme yolu açık olmak üzere, 25/12/2017 tarihinde oybirliğiyle karar verildi.
+
+YARGITAY 19. CEZA DAİRESİ 
+Esas : 2016/16117 Karar : 2017/6727Tarih : 12.09.2017
+
+HMK 94. Madde
+
+Kesin Süre
+
+Temyiz isteğinin reddi nedenleri bulunmadığından işin esasına geçildi.
+
+Dosya ve birleşen dosya şikayet dilekçelerinde İİK’nın 337/a maddesine aykırılık nedeniyle şikayette bulunulmadığından tebliğnamedeki bu suçtan zamanaşımı süresi içerisinde hüküm kurulabileceği yönündeki görüşe katılınmamıştır.
+
+Vicdani kanının oluştuğu duruşma sürecini yansıtan tutanaklar, belgeler ve gerekçe içeriğine göre yapılan incelemede; başkaca temyiz itirazları yerinde görülmemiştir.
+
+Ancak;
+
+2004 sayılı İcra ve İflas Kanunu’nun 16. Babında düzenlenen icra ceza suçları için özel yargılama usullerinin kabul edilmiş olması ve 5237 sayılı CMK ve 6100 sayılı HMK’da düzenlenen usul hükümlerinin niteliklerine göre; 
+bu suçlarda birlikte uygulama alanı bulması ve 6100 sayılı HMK’nın 94. maddesinin 2. fıkrasının
+“Hakim, tayin ettiği sürenin kesin olduğuna karar verebilir. Aksi halde, belirlenen süreyi geçirmiş olan taraf yeniden süre isteyebilir. Bu şekilde verilecek ikinci süre kesindir ve yeniden süre verilemez.”                                hükmü karşısında,
+
+24/04/2014 tarihli celsede bilirkişi ücretinin yatırılması için şikayetçi tarafa 2 haftalık süre verilmesi ve 25/09/2014 tarihli sonraki celsede verilen süre içerisinde bilirkişi ücreti masrafının yatırılmaması şeklindeki hatalı gerekçe ile yargılamaya devamla sanıkların hukuki durumunun tespiti gerekirken yazılı şekilde şikayet hakkının düşürülmesine karar verilmesi,
+
+Kabule göre de;
+
+Şikayetçi iddiasını ispatla mükellef olduğu cihetle, atılı suçun unsurlarının oluşmadığından beraat kararı verilmesi yerine yazılı şekilde şikayet hakkının düşürülmesine karar verilmesi,
+
+Kanuna aykırı ve şikayetçi vekilinin temyiz nedenleri bu itibarla yerinde görüldüğünden, tebliğnameye uygun olarak, HÜKÜMLERİN 5320 sayılı Kanun’un 8/1. maddesi gereğince uygulanması gereken 1412 sayılı CMUK`nın 321. maddesi uyarınca BOZULMASINA, yargılamanın bozma öncesi aşamadan başlayarak sürdürülüp sonuçlandırılmak üzere dosyanın mahkemesine gönderilmesine, 12/09/2017 tarihinde oybirliğiyle karar verildi.
+
+YARGITAY 20. HUKUK DAİRESİ
+Esas : 2016/7629 Karar : 2017/5523Tarih : 19.06.2017
+
+HMK 94. Madde
+
+Kesin Süre
+
+Davacı mahkemeye sunduğu dava dilekçesinde özetle; … köyü 2528 parsel sayılı taşınmazın maliki olduğunu, yörede 2005 tarihinde ilk kez yapılan ve 12.7.2005 tarihinde ilan edilen … kadastrosu ve 2/B uygulaması sırasında … ilçesi, … köyünde bulunan çekişmeli taşınmazın … sınırı içine alınması işleminin yanlış olduğunu, bu yere ait sınırlamanın iptali ile taşınmazın … sınırları dışına çıkarılmasını istemiştir.
+
+Dava, 10 yıllık süre içinde açılan … kadastrosuna itiraz niteliğindedir.
+
+Mahkemece; Harita ve Hava Fotoğrafları Genel Müdürlüğüne hava fotoğraflarının gönderilmesi hususunda müzekkere yazıldığı, Harita ve Hava Fotoğrafları Genel Müdürlüğünün cevabında 272,00.-TL bedelinin yatırılması akabinde hava fotoğraflarının gönderileceğinin bildirildiği, davacı tarafa Harita ve Hava Fotoğrafları Genel Müdürlüğünce gönderilen yazı örneğinde belirtilen 272,00.-TL masrafının belirtilen şubeye yatırıp, yatırıldığına dair makbuzu iki hafta kesin süre içerisinde mahkemeye sunması gerektiği, yatırılmaması halinde HUMK’nın 114 ve 120. maddeleri doğrultusunda davanın dava şartı yokluğundan reddine karar verileceğinin ihtarının 03/03/2016 tarihinde tebliğ edildiği, ancak kesin süre içerisinde davacı tarafın hava fotoğraf masrafını yatırmadığı, gider avansı yatırılmasının dava şartı olduğu ve mahkemece resen nazara alınması gerektiği, davacı tarafa iki haftalık kesin süre içerisinde hava fotoğrafına ilişkin bedelin yatırılmasına ilişkin tebliğat yapılmasına rağmen kesin süre içerisinde masrafın yatırılmadığı gerekçesi ile HMK`nın 115/2. maddesi gereğince davanın dava şartı yokluğundan usulden reddine karar verilmiş hüküm davacı … tarafından temyiz edilmiştir.
+
+Adil yargılanma hakkı Anayasamızın 36’ıncı maddesinde, AİHS’nin 6. maddesinde ve HMUK’nın 73. maddesi ile HMK’nın 27. maddesinde ayrıntılı olarak düzenlenmiştir. Hukuki dinlenilme hakkı adil yargılanma hakkının en önemli unsurudur. Ayrıca HMK’nın 114/g maddesinde gider avansı dava şartı olarak düzenlenmiştir. HMK’nın 115/2 ve 120. maddelerinden ve 30.09.2011 tarihli Resmi Gazetede yayımlanan HMK gider avansı tarifesinin 1 ve 6 maddelerindeki düzenlemelerden gider avansının davanın açılması sırasında alınmasının şart olmadığı mahkemenin sonradan da bu eksikliği kesin süre vererek ikmal ettirebileceği anlaşılmaktadır. Davanın açıldığı tarihte eksik veya hiç gider alınmamış olsa bile gider avansı dava şartı olmakla hüküm verilinceye kadar ikmal ettirilebilir. Bu durum davanın her aşamasında re’sen gözetilmesi gerekir. Gider avansının yatırılmaması halinde dava usulden ret edilir. Tarafların bazı usuli işlemleri belli bir süre içinde yapmaları için hakimin bir tarafa kesin mehil verebileceği HMK’nın 94 ve devamı maddelerinde ayrıntılı olarak düzenlenmiştir. Kesin mehil, davanın en az masrafla ve sürüncemede bırakılmadan bir an evvel sonuçlanmasını temin için hakime tanınan yasal takdir yetkisidir. Ancak kesin mehil verilen işlemin yapılmaması, bir hakkın ortadan kalkması sonucunu doğurduğundan bu konudaki kararın yasaya uygun olması zorunludur. Bu nedenle HMK`da taraflara verilecek kesin süreye ilişkin ara kararlarda, yapılması gereken işlerin neler olduğunun açıklıkla belirtilmesi, tanınan sürenin yeterli ve elverişli olması, süreye uyulmamasının doğuracağı sonuçların açıklanması ve bu konuda tarafın uyarılması gereklidir. Aksi takdirde kesin mehle uymama, hukuki sonuç doğurmaz. (Bkz. HGK 21.9.1983 T. 14/3447-825 sayılı kararı)
+
+Somut olayda mahkemece, Harita ve Hava Fotoğrafları Genel Müdürlüğüne hava fotoğraflarının gönderilmesi hususunda müzekkere yazıldığı, Harita ve Hava Fotoğrafları Genel Müdürlüğünce 272,00.-TL bedelinin yatırılması akabinde hava fotoğraflarının gönderileceğinin bildirildiği, belirtilen masrafın şubeye yatırıp, yatırıldığına dair makbuzu iki hafta kesin süre içerisinde mahkemeye sunması gerektiği, yatırılmaması halinde HUMK`nın 114 ve 120. maddeleri doğrultusunda davanın dava şartı yokluğundan reddine karar verileceği ihtarının davacı tarafa 03/03/2016 tarihinde tebliğine rağmen ücretin yatırılmaması nedeniyle 24/03/2016 günlü ara karar ile davanın dava şartı yokluğu nedeni ile usulden reddine karar verilerek yargılama sonlandırılmıştır.
+
+Delil avansı olan hava fotoğraflarının gönderilmesi için gerekli olan ücretin yatırılmaması 6100 sayılı HMK`nın 324/2 maddesinin “Taraflardan birisi avans yükümlülüğünü yerine getirmezse, diğer taraf bu avansı yatırabilir. Aksi halde talep olunan delilin ikamesinden vazgeçilmiş sayılır” şeklinde ifadesini bulan hükmü uyarınca ilgili delile dayanmaktan vazgeçmiş sayılma sonucunu doğuracağından delil avansı olan hava fotoğraflarının gönderilmesi için gerekli olan ücretin gider avansı olarak değerlendirilip, mehlin sonuçları da hatalı belirtilerek yazılı şekilde hüküm kurulması doğru görülmemiş, bozmayı gerektirmiştir.
+
+SONUÇ : Yukarıda açıklanan nedenlerle, davacının yerinde görülen temyiz itirazlarının kabulü ile usul ve kanuna aykırı hükmün BOZULMASINA, temyiz harcının istek halinde iadesine 19/06/2017 günü oy birliğiyle karar verildi.
+
+YARGITAY 5. HUKUK DAİRESİ 
+Esas : 2016/13891 Karar : 2017/8114Tarih : 14.03.2017
+
+HMK 94. Madde
+
+Kesin Süre
+
+Mahkemece, bozma ilamına uyularak karar verilmiş; hüküm, davalı idare vekilince temyiz edilmiştir.
+
+Arsa niteliğindeki taşınmaza emsal kıyaslaması yapılarak değer biçimesinde ve davacının dava konusu taşınmazdaki kadastral 182 parseldeki hissesi yönünden davanın kabul edilmesinde bir isabetsizlik görülmemiştir.Ancak;
+
+1-HMK’nun 94. maddesi gereği hakim bir işlemin yapılması için kesin süre tayin edilebilir Ancak, o işlemin kendisine görev verilen tarafın yapılabileceği bir işlem olması gerekir Kök muris …‘ye çıkartılan tebliğatın aslı yada onaylı örneği ilğili noterlikten, bu tebliğat sonrası çekişmesiz bedelin ödenip ödenmediği ilgili bankadan sorulması yönünde ve gerekli masrafların yatırılması hususunda davalıya mehil verilmesi gerekirken, Resmi kurumlara ait bilgi ve belgelerin davalı tarafından ibrazının istenmesi için kesin mehil verilip mehile uyulmadığından söz edilerek iddaların ispatlanamadığından bahisle davacının kök parsel olan … parselden gelen payı yönünden hüküm kurulması doğru olmadığı gibi,
+
+2- Dava konusu taşınmazın tapu kaydındaki … payına davalı idare lehine kurulan irtifak hakkına ilişkin dayanak belgelerin ilgili Tapu Müdürlüğünden getirtilmeden, eksik incelemeyle hüküm kurulması,
+
+Doğru görülmemiştir.
+
+Davalı idare vekilinin temyiz itirazları yerinde olduğundan hükmün açıklanan nedenlerle H.U.M.K.nun 428. maddesi gereğince BOZULMASINA, peşin alınan temyiz harcının istenildiğinde iadesine ve temyize başvurma harcının Hazineye irad kaydedilmesine, 14/03/2017 gününde oybirliğiyle karar verildi.
+
+YARGITAY 3. HUKUK DAİRESİ 
+Esas : 2015/17777 Karar : 2017/2980Tarih : 13.03.2017
+
+HMK 94. Madde
+
+Kesin Süre
+
+Davacı , eşiyle birlikte davalıların yaşlı ve bakıma muhtaç murisleri olan babalarına 01/07/2005 ile 01/05/2007 tarihleri arasında mesaisinden arta kalan akşam 8 saat süreyle, bu tarihten sonra ise 7 gün 24 saat esası üzerinden baktığını, murisin Demirlibahçe semtindeki evini kendisi ve eşine bağışlamak istemesi üzerine bu evde gereken tamirat ve tadilatları yaptıklarını, ancak davalıların murisin ölümünden sonra işçilik haklarını ödemedikleri gibi bu eve yapılan tamirat ve tadilat bedelini de ödemediklerini ileri sürerek, tamirat ve tadilat bedellerinin davalılardan müteselsilen tahsiline karar verilmesini talep ve dava etmiştir.
+
+Davalılar ,birinci dönemde herhangi bir iş ilişkisi bulunmadığını, bu tarihlerde başka bir firmadan bu hizmetin alındığını, 15/06/2007 tarihinden itibaren ise davacının eşi Kıymet ile sözleşme imzalandığını, Demirlibahçe’deki murise ait evin ise kapıcı dairesinden çıkarılan davacı ve eşinin mağdur olmaması için kiralandığını savunarak, davanın reddini istemişlerdir.
+
+Mahkemece;dosyanın görevsizlikle gelmesi nedeniyle işlem yapılabilmesi için 400,00 TL’lik gider avansının tebliğden itibaren iki hafta içerisinde dosyaya yatırılması gerektiği ,aksi takdirde HMK’nun 119 ve 318 maddelerine göre davanın açılmamış sayılmasına karar verileceği hususunda davacıya muhtıra çıkarıldığı, tebligatın davacıya 27.03.2015 tarihinde tebliğ edildiği,iki haftalık kesin süre içerisinde ise dosyada işlem yapılabilmesi için gerekli gider avansının ikmal edilmediği gerekçe gösterilerek HMK’nun 119/2 maddesi uyarınca davanın açılmamış sayılmasına karar verilmiş,hüküm davacı tarafından temyiz edilmiştir.
+
+1- Dosyadaki yazılara, kararın dayandığı delillerle kanuni gerektirici sebeplere ve özellikle delillerin takdirinde bir isabetsizlik görülmemesine göre, davacı vekilinin sair temyiz itirazları yerinde değildir.
+
+Uyuşmazlığın çözümü için öncelikle usul kanunlarında yer alan süreler hususuna değinmek gerekmektedir.
+
+Bir davanın açılmasıyla başlayan yargılama faaliyetinde, karara ulaşmak bakımından, mahkeme ve taraflarca yapılması gereken belirli işlemler bulunmakta olup, her işlemin belli bir zaman aralığında yapılması gerekmektedir. Usul hükümleri ile normatif bir değer kazanan bu zaman aralıklarına süre denilmektedir. Böylece usul işlemlerinin yapılması zamansal olarak tarafların ya da mahkemenin arzularına, inisiyatifine bırakılmamış olmaktadır.
+
+Mülga 1086 sayılı HUMK ile 6100 sayılı HMK’nda öngörülen süreler, nitelikleri bakımından, taraflar için ve mahkemeler için konulmuş süreler olmak üzere ikiye ayrılır:
+
+Mahkemeler için öngörülen sürelerin, taraflar için öngörülen sürelerden farkı; sürenin geçirilmiş olmasının, o sürede yapılması öngörülen işlemin yapılma olanağını ortadan kaldırmamasıdır. Eş söyleyişle hakim, gecikmeli de olsa süreye bağlanmış olan işlemi yapabilir.Dolayısıyla, gecikmeli de olsa yapılan işlem, oluşturulan karar hukuken geçerlidir ve süresinde yapılmış gibi hukuki sonuç doğurur.
+
+Sürelerin önemli bir kısmı, taraflar için konulmuş sürelerdir. Taraflar, bu süreler içinde belli işlemleri yapabilirler veya yapmaları gerekir. Bu süre içinde yapılamayan işlemler, tekrar yapılamaz ve süreyi kaçıran taraf aleyhine sonuç doğurur. Taraflar için konulmuş süreler; kanunda belirtilen süreler ve hakim tarafından belirtilen süreler olmak üzere ikiye ayrılır:
+
+Kanunda belirtilen süreler; kanun tarafından öngörülmüş (cevap süresi, temyiz süresi gibi) süreler olup, bu süreler kesindir. Bir işlemin kanuni süresi içinde yapılıp yapılmadığı, mahkemece re’sen gözetilir.
+
+Hakimin tespit ettiği süreler ise, kural olarak kesin değildir (Kuru, Baki/ Arslan Ramazan/ Yılmaz, Ejder, Medeni Usul Hukuku Ders Kitabı, 6100 sayılı HMK’na Göre Yeniden Yazılmış 22. Baskı, Ankara 2011, s.749).
+
+Hakim, kendi tayin etmiş olduğu süreyi, HMK’nun 90/2. maddesine göre iki tarafı dinledikten sonra haklı nedenlere dayanarak, azaltıp çoğaltabilir ve bu sürenin, kesin olduğuna da karar verebilir (HMK m.94/2, HUMK m.159).
+
+Yukarıda da belirtildiği üzere, ilke olarak, hakimin verdiği süre kesin olmayıp, kesinlik için şu iki koşuldan birinin varlığı zorunludur:
+
+İlk koşul, hakimin kesin olduğunu belirtmeksizin verdiği ilk sürede işlemin yapılmaması nedeniyle ilgili tarafın yeniden süre talep hakkının varlığı karşısında, bu talep üzerine hakimin verdiği ikinci sürenin kesin olması ve bu kesinliğin yasadan kaynaklanmasıdır (HUMK m.163, c.4, HMK. 94/2); bu halde, ikinci kez verilen sürenin kesin olduğu belirtilmemiş ve ihtar edilmemiş olsa dahi, sonuç değişmez.
+
+İkinci halde ise; yasaya göre hakimin, tayin ettiği ilk sürenin kesin olduğuna da karar verebilmesidir (HUMK m.163/3 c.3, HMK m. 94). Ancak, böyle bir durumda kesin sürenin hukuki sonuç doğurabilmesi için, buna ilişkin ara kararının yasaya ve içtihatlara uygun şekilde oluşturulması, hiçbir tereddüde yer vermeyecek derecede açık olması ve kesin süreye uyulmamasının sonuçlarının ilgili tarafa ihtar edilmesi gerekir. -3-
+
+Mülga 1086 sayılı HUMK’nun 163. maddesi ile 6100 sayılı HMK’nun 94. maddesi uyarınca kesin süreye ilişkin ara kararının hiçbir duraksamaya yer vermeyecek biçimde açık olması taraflara yüklenen yükümlülüklerin, yapılması gereken işlerin neler olduğunun ve her iş için yatırılacak ücretin hiçbir şüpheye yer vermeyecek şekilde açıklanması gerekir. Ayrıca verilen sürenin amaca uygun, yeterli ve elverişli olması, kesin süreye uymamanın doğuracağı hukuki sonuçların açık olarak anlatılması ve anlatılanların tutanağa geçirilmesi, bunlara uyulmaması durumunda mevcut kanıtlara göre karar verilip, gerektiğinde davanın reddedileceğinin açıkça bildirilmesi suretiyle ilgili tarafın uyarılması gerektiği her türlü duraksamadan uzaktır. Bazı hallerde kesin sürenin kaçırılması, o delile veya hakka dayanamamak gibi ağır sonuçları birlikte getirmekte, davanın kaybedilmesine neden olmaktadır. Böyle bir durumda, geciken adaletin adaletsizlik olduğu düşünülerek, davaların uzamasını veya uzatılmak istenmesini engellemek üzere getirilen kesin süre kuralı, kanunun amacına uygun olarak kullanılmalı, davanın reddi için bir araç sayılmamalıdır.Bu cümleden olarak, kesin sürenin amacına uygun olarak kullanılması ve yeterli uzunlukta olmasının yanı sıra, tarafların yargılamadaki tutumları ile süreye konu işlemin özelliğinin de göz önünde bulundurulması gerekir. (Benzer ilkelere YHGK’nun 18.02.1983 gün 1980/1-1284, 1983/141; 22.11.1972 gün 8/832, 935; 13.10.2010 gün 2010/17-510-485; 28.04.2010 gün 2010/2-221-241 ve 28.03.2012 gün 2012/19-55-2012-249 sayılı kararlarında da değinilmiştir.).
+
+Bu yasal düzenlemeler göstermektedir ki, taraflar; dinlenmesini istedikleri tanık ve bilirkişinin veya yapılmasını istedikleri keşif ve sair işlemlerin masraflarını, mahkeme veznesine yatırmaya mecbur olup, hakim tarafından verilen sürede gerekli masrafı vermeyen tarafın talebinden sarfınazar ettiği kabul edilir. Hakimin, bu masrafların yatırılması konusunda verdiği sürenin kesin olduğunu usulünce karara bağladığı hallerde, kesin süreye uymayan tarafın bu delile dayanma olanağı kalmaz. Kesin süre tarafların yanında hakimi de bağlayacağından uyulmaması halinde, gereğinin hakim tarafından hemen yerine getirilmesi gerekir. (HGK. nun 12.12.2012 günlü ve 2012/9-1180 E. 2012/1182 K. sayılı ilamı).
+
+Somut olaya gelince;eldeki dava dosyasının Ankara 3 Asliye Hukuk Mahkemesi’nin 28.01.2015 tarih ve 2015/46 E.-2015/11 K.sayılı ilamı ile verdiği görevsizlik kararı üzerine bu mahkemeye geldiği ve ilgili esasa kaydının yapıldığı,mahkemece ‘’tebligatın taraflarına tebliğinden itibaren iki haftalık kesin süre içerisinde 400,00 TL’lik gider avansını yatırmaları,yatırılmadığı takdirde ise HMK’nun 119 ve 318 maddeleri uyarınca davanın açılmamış sayılmasına karar verileceği’’ ihtaratını içerir muhtıranın davacı vekiline 27.03.2015 tarihinde tebliğ edildiği , mahkemece verilen iki haftalık kesin süre içerisinde belirtilen gider avansının yatırılmadığı gerekçe gösterilerek HMK’nun 119 ve 318 maddeleri uyarınca davanın açılmamış sayılmasına karar verildiği anlaşılmaktadır. -4-
+
+Ne var ki,yukarıda ifade edilen yasa hükümleri ve açıklamalar da incelendiğinde görüleceği üzere ,davacı tarafa çıkarılan muhtırada sadece 400,00 TL’lik gider avansının yatırılması gerektiğinin belirtildiği,ancak davacıya yüklenen yükümlülüklerin ,yapılması gereken işlerin neler olduğunun ve yine her iş için yatırılacak ücretin ayrı ayrı belirtilmediği ve bu haliyle de davacı tarafa verilen kesin sürenin yasanın aradığı koşulları karşılamadığı ve usulüne uygun verilmiş bir kesin süreden söz edilemeyeceği açıktır. Bu durumda, anılan ihtar hukuki sonuç oluşturmaya elverişli değildir.Nitekim kesin sürenin sonuç doğurabilmesi için usulünce ve eksiksiz olması gerekir.(Benzer ilkelere YHGK’nun 12.12.2012 gün ve 2012/9-1200 E. 2012/1216 K sayılı ve 05/03/2014 gün ve 2013/9-651 E . 2014/202 K sayılı kararlarında da değinilmiştir.)
+
+Hal böyle olunca mahkemece;yukarıda ifade edilen yasa hükümleri ve açıklamalar dikkate alınmak suretiyle,davacı tarafa usulüne uygun şekilde kesin süre ihtaratının yapılması ve sonucuna göre inceleme ve değerlendirme yapılması gerekirken, eksik inceleme ve yanılgılı değerlendirme ile yazılı şekilde hüküm tesisi doğru görülmemiş, bozmayı gerektirmiştir.
+
+SONUÇ: Yukarıda açıklanan nedenlerle hükmün HUMK.nun 428. maddesi gereğince davacı yararına BOZULMASINA, peşin alınan temyiz harcının istek halinde temyiz edene iadesine, 6100 sayılı HMK’nun geçici madde 3 atfıyla 1086 sayılı HUMK.nun 440.maddesi gereğince kararın tebliğinden itibaren 15 günlük süre içerisinde karar düzeltme yolu açık olmak üzere, 13.03.2017 günü oybirliğiyle karar verildi.
+
+YARGITAY 8. HUKUK DAİRESİ
+Esas : 2015/12281 Karar : 2017/3113Tarih : 7.03.2017
+
+HMK 94. Madde
+
+Kesin Süre
+
+Davacı … vekili, dava dilekçesinde belirtilen mallar nedeniyle 1.000,00 alacağın davalıdan alınarak davacıya verilmesine karar verilmesini talep ve dava etmiştir.
+
+Davalı … vekili, davanın reddini savunmuştur.
+
+Mahkemece, davacının kesin süre içinde her bir mal içi ne kadar istediğini belirtmediği ve harcı tamamlamadığı için hukuki yarar yokluğundan davanın reddine kararı verilmiştir. Hüküm, davacı vekili tarafından temyiz edilmiştir.
+
+Tüm dosya kapsamı birlikte incelendiğinde; davacının dava dilekçesinde edinilen malların aktif ve pasiflerinin tespiti ile tasfiyesini ve fazlaya ilişkin hakları saklı kalmak kaydıyla 10.000,00 TL alacağın tahsiline talep ederek dava açtığı, davacıya herhangi bir ara karar olmadan tebligat üzerine yazılan “talep edilen malları tek tek bildirip toplam değerler üzerinden harcı tamamlaması için iki haftalık kesin süre verildiği, aksi takdirde dava şartı yokluğundan usulden reddine karar verileceğine” ilişkin edildiği, ihtar tebligatın davacı vekiline 03.02.2015 tarihinde tebliğ edildiği, davacı vekilinin 16.02.2015 tarihinde e-imzalı olarak sunduğu dilekçe ile tasfiyeye tabi malları tek tek saydığı ve edinilen malların tespit ve tasfiyesi ile şimdilik 1.000,00 TL (tesbit sonucunda yükseltilip artırılmak üzere) alacağın tahsilini talep ettiği anlaşılmaktadır.
+
+6100 sayılı HMK’nun 94. maddesi uyarınca kesin süreye ilişkin ara kararının hiçbir duraksamaya yer vermeyecek biçimde açık olması, taraflara yüklenen yükümlülüklerin, yapılması gereken işlerin neler olduğunun ve her iş için yatırılacak ücretin hiçbir şüpheye yer vermeyecek şekilde açıklanması gerekir. Ayrıca verilen sürenin amaca uygun, yeterli ve elverişli olması, kesin süreye uymamanın doğuracağı hukuki sonuçların açık olarak anlatılması ve anlatılanların tutanağa geçirilmesi, bunlara uyulmaması durumunda mevcut kanıtlara göre karar verilip, gerektiğinde davanın reddedileceğinin açıkça bildirilmesi suretiyle ilgili tarafın uyarılması gerekir. Ancak mahkemece kesin süreye ilişkin verilmiş bir ara karar bulunmamaktadır.
+
+Yukarda açıklanan yasal düzenleme ve ilkeler uyarınca yapılan incelemede; Mahkemece verilen bir ara kararın olmadan davacıya yapılan ihtaratın hukuken geçerliliği olmadığı gibi, tasfiyeye konu malların mahkemece verilen sürede sonra sunulan 16.02.2015 tarihli dilekçede açıklandığına ve fazlaya ilişkin haklar saklı kalmak kaydıyla alacak talebinde bulunulduğuna göre, mahkemece dava dilekçesi ve açıklama dilekçesinde sunulan tasfiyeye konu mallar yönünden, taraf delilleri toplanarak sonucuna göre talep edilen miktar yönünden bir karar verilmesi gerekir. Bu yön gözetilmeden yazılı gerekçe ile davanın hukuki yarar olmadığından usulden karar verilmesi doğru olmadığından bozmayı gerektirmiştir.
+
+SONUÇ: Temyiz edilen hükmün yukarda gösterilen sebeplerle 6100 sayılı HMK’nun Geçici 3.maddesi yollamasıyla 1086 sayılı HUMK’nun 428. maddesi uyarınca BOZULMASINA ve HUMK’nun 440/I maddeleri gereğince Yargıtay Daire ilamının tebliğinden itibaren ilama karşı 15 gün içinde karar düzeltme isteğinde bulunulabileceğine ve peşin harcın temyiz eden davacıya iadesine, 07.03.2017 tarihinde oybirliğiyle karar verildi.
+
+YARGITAY 14. HUKUK DAİRESİ
+Esas : 2015/6783 Karar : 2017/192Tarih : 11.01.2017
+
+HMK 94. Madde
+
+Kesin Süre
+
+Dava, önalım hakkına dayalı tapu iptali ve tescil istemine ilişkindir.
+
+Davacı vekili, müvekkilinin de paydaş olduğu 573, 574, 582, 1656, 1721 ve 1725 parsel sayılı taşınmazların dava dışı paydaşları tarafından davalıya 25.12.2012 ve 17.07.2013 tarihlerinde hisse satışı yapıldığını ancak müvekkiline bu satışlarla ilgili bildirimde bulunulmadığını ileri sürerek önalım hakkı nedeniyle davalı adına kayıtlı hisselerin iptali ile müvekkili adına tescilini talep etmiştir.
+
+Davalı vekili, davanın reddini savunmuştur.
+
+Mahkemece, ihtar edilen kesin süreye rağmen davacı tarafça önalım bedelinin yatırılmadığı, davacının iki vekille temsil edilmekte olup mazeretlerini belgelendirmedikleri, davalı vekilinin de mazereti kabul etmediği gerekçesiyle mazeret talebinin ve davanın reddine karar verilmiştir.
+
+6100 sayılı HMK’nun 90.maddesi gereğince süreler, kanunda belirtilir veya hâkim tarafından tespit edilir. Kanunda belirtilen istisnai durumlar dışında, hâkim kanundaki süreleri artıramaz veya eksiltemez. Hâkim, kendisinin tespit ettiği süreleri, haklı sebeplerle artırabilir veya eksiltebilir; gerekli gördüğü takdirde, bu konudaki kararından önce tarafları da dinler.
+
+Aynı yasanın 94. maddesi gereğince kanunun belirlediği süreler kesindir. Hâkim, tayin ettiği sürenin kesin olduğuna karar verebilir. Aksi hâlde, belirlenen süreyi geçirmiş olan taraf yeniden süre isteyebilir. Bu şekilde verilecek ikinci süre kesindir ve yeniden süre verilemez. Kesin süre içinde yapılması gereken işlemi, süresinde yapmayan tarafın, o işlemi yapma hakkı ortadan kalkar.
+
+Kanun ya da hakim tarafından tayin edilmiş olan kesin süre içerisinde yerine getirilmeyen bir işlemin bu süre geçtikten sonra yerine getirilmesine yasal olanak bulunmamaktadır. Kesin süre içerisinde yerine getirilmeyen işlem bazen davanın kaybedilmesi sonuçlarını da doğurmaktadır. Davaların uzamasını veya uzatılmak istenmesini engellemek üzere konan kesin süre kuralı, kanunun amacına uygun olarak kullanılmalı, davanın reddi için bir araç sayılmamalıdır.
+
+Bu nedenle de hakim tarafından kesin süre verilirken;
+
+1-Kesin süreye konu işlemin gerekli ve tarafların yerine getirebileceği bir işlem olması,
+
+2-Verilen sürenin işlemin yapılması için yeterli ve makul bir süre olması, duruşma gününe kadar kesin süre nedeniyle yapılacak işlem sonrası başka bir işleme gerek yok ise bu sürenin takip eden duruşma gününe kadar verilmesi,
+
+3-Yapılması gereken iş veya işlemler birer birer, varsa masraflarının da miktarıyla birlikte açıkça gösterilmesi,
+
+4-Sürenin kesin olduğu ve sonuçlarının tarafa açıklanması zorunludur.
+
+Somut olaya gelince; satış bedeli ile tapu harç ve masraflarının yatırılması için davacı tarafa bir ay kesin süre verildiğine ilişkin ihtaratlı davetiye davacı vekiline 10.11.2014 tarihinde tebliğ edilmiş; mahkemece, önalım bedelinin kesin süre içerisinde yatırılmadığı gerekçesiyle davanın reddine dair 01.12.2014 tarihinde karar verilmiştir. Ancak davacı tarafa verilen bu sürenin, ihtaratlı davetiyenin davacı vekiline tebliğ edildiği tarihten itibaren hesaplanması gerekmekte olup tebliğ tarihinden itibaren bir aylık sürenin 10.12.2014 tarihinde dolduğu anlaşılmaktadır.
+
+Bu durumda mahkemece, davacı tarafa verilen bir aylık süre dolmadan önalım bedelinin depo edilmediğinden söz edilerek davanın reddine karar verilmesi doğru görülmemiş, bu nedenle hükmün bozulması gerekmiştir.
+
+SONUÇ: Yukarıda açıklanan nedenlerle davacı vekilinin temyiz itirazlarının kabulü ile hükmün BOZULMASINA, peşin yatırılan harcın istek halinde yatırana iadesine, kararın tebliğinden itibaren 15 gün içinde karar düzeltme yolu açık olmak üzere,
+
+11.01.2017 tarihinde oybirliğiyle karar verildi.
+
+YARGITAY 1. HUKUK DAİRESİ 
+Esas : 2015/17909 Karar : 2016/3576Tarih : 24.03.2016
+
+HMK 94. Madde
+
+Kesin Süre
+
+Dava, muris muvazaası hukuksal nedenine dayalı tapu iptali ve tescil isteğine ilişkindir.
+
+Davacılar, mirasbırakanları …‘nın 2339 ada 2 parsel sayılı taşınmazdaki 55/109 payından 40/109 payını 10.05.1996 tarihinde satış suretiyle oğlu olan aynı zamanda davalıların da murisi olan Atalay Salamcı`ya devrettiğini, 
+temlikin mirastan mal kaçırma amaçlı ve muvazaalı olduğunu ileri sürerek, tapu iptal ve miras payları oranında tecile karar verilmesini istemişlerdir.
+
+Davalılar, iddiaların doğru olmadığını, dava konusu payın bedeli ile alındığını, mal kaçırılmak istense murisin tüm payını devretmesi gerektiğini, taşınmazın değerlenmesi üzerine bu davanın açıldığını belirterek davanın reddini savunmuşlardır.
+
+Muvazaa iddiasının sabit olduğu gerekçesi ile davanın kabulüne dair verilen karar,
+
+Dairece;  …Özellikle, davalı vekiline tanıklarla ilgili eksik gider avansının yatırılması ve tanıkların dinlenmesi ile ilgili 14.03.2013 ve 16.07.2013 tarihli oturumlarda süre verilmesine rağmen tanıklar için eksik gider avansı karşılanmadığı gibi tanıkların da hazır bulundurulmadığı dikkate alındığında, yazılı şekilde karar verilmesinde isabetsizlik bulunmadığı``        gerekçesi ile onanmış, davalılar vekilince karar düzeltme istenmiştir.
+
+Hemen belirtmek gerekir ki; davaların kısa zamanda sonuçlandırılması, adaletin bir an önce tecellisi için, taraflarca veya Mahkemelerce yapılması gereken bir kısım adli işlemler sürelere bağlanmıştır. 
+Bu sürelerin bazılarını kanun bizzat belirlerken bir kısmını işin özelliğine, tarafların durumlarına göre belirlemesi için hakime bırakmıştır. Kanuni süreler açıkca belirtilen ayrıcalıklar dışında kesindir.
+
+Bu nedenle 6100 sayılı Hukuk Muhakemeleri Kanunu`nun 90. maddesi hükmü gereğince;  kanunun tayin ettiği süreler hakim tarafından azaltıp çoğaltılamaz.
+
+Buna karşın, hakimin belirlediği süreler ise kural olarak kesin değildir.  Hakim kendisinin tayin ettiği süreleri haklı sebeplerle artırabilir veya eksiltebilir.
+
+Yine aynı kanunun 94/2. maddesi hükmü gereğince; 
+Hâkim, tayin ettiği sürenin kesin olduğuna karar verebilir. Aksi hâlde, belirlenen süreyi geçirmiş olan taraf yeniden süre isteyebilir. 
+Bu şekilde verilecek ikinci süre kesindir ve yeniden süre verilemez. Hemen belirtmek gerekir ki; kesin sürenin tayin edilmesi halinde, karşı taraf yararına usulü kazanılmış hak doğacağı da kuşkusuzdur. İster kanun, isterse hakim tarafından tayin edilmiş olsun, kesin süre içerisinde yerine getirilmeyen bir işlemin bu süre geçtikten sonra yerine getirilmesine yasal olanak yoktur. 
+Böylece kesin sürenin kaçırılması; o delile veya hakka dayanamamak gibi ağır sonuçları birlikte getirmekte, bazan davanın kaybedilmesine dahi neden olmaktadır.
+
+Bu itibarla geciken adaletinde bir adaletsizlik olduğu düşüncesinden hareketle, davaların yok yere uzamasını veya uzatılmak istenmesini engellemek üzere konan kesin süre kuralı, kanunun amacına uygun olarak kullanılmalı, davanın reddi için bir araç sayılmamalıdır. 
+Bu nedenle kesin süreye ilişkin ara kararı her türlü yanlış anlaşılmayı önliyecek biçimde açık ve eksiksiz yazılmalı, yapılacak işler teker teker belirtilmelidir. Bunun yanında verilen süre yeterli, emredilen işler, gerekli ve yapılabilir nitelik taşımalı, ayrıca hakim süreye uyulmamanın sonuçlarını açıkca anlatmalı, tarafları uyarmalıdır.
+
+Somut olaya gelince; gerçekten de Mahkemece 14.03.2013 tarihli celsede verilen 2 nolu ara kararla; 
+Her iki tarafın listesindeki tanıkları için 50 şer TL ücret ve masrafla davetiye çıkarılmasına, işlemlerin bu tarihten itibaren 2 haftalık kesin süre içinde yerine getirilmesine, gider ve masraf avansları yetmez ise taraf vekillerinin tamamlamasına şeklinde ve 16.07.2013 tarihli celsede de  Davalı vekiline tanıkları için 14.3.2013 tarihli ara kararının 2 nolu bendi gereğince yeniden görev verilmesine  şeklinde ara kararlar verildiği tartışmasızdır.
+
+Ne var ki; 14.03.2013 tarihli celsede verilen ara kararda yatırılması gereken davetiye masrafının açıkça gösterilmediği, her iki celsede verilen sürenin gereklerinin yerine getirilmemesi halinde sonuçlarının anlatılıp gösterilmediği, diğer bir söyleyişle müeyyidesinin hatırlatılmadığı, bu nedenle anılan ara kararlarının yukarıda değinilen ilkeler çerçevesinde değerlendirildiğinde yasal koşulları içermediği anlaşılmaktadır.
+
+Kaldı ki; davalılar vekilinin 04.02.2012 tarihinde … Nolu Mahkemeler Veznesine … sıra numaralı tahsilat makbuzu ile 150.-TL gider avansı yatırdığı, yatırılan bu avansın da kullanılmadığı görülmektedir.
+
+Hâl böyle olunca; davalılar vekilinin yatırmış olduğu sözkonusu gider avansı gözetilerek, bildirmiş olduğu tanıkların dinlenmesi bakımından eksik kalan gider avansı mevcut ise, bu miktar açıkça belirtilerek davalı tarafa tamamlanması için yukarıda belirtilen ilkelere uygun şekilde süre verilmesi, 
+ondan sonra yatırılan ve yatırılacak olan gider avansı kullanılmak suretiyle (eksik kalan kısım yatırılmaz ise yatırılmış olan 150 TL`nin yettiği kadar) davalı tarafın bildirmiş olduğu tanıklara usulüne uygun olarak davetiye çıkartılarak, tanıklarının olaya ilişkin beyanlarının alınması, dinlenen tanık beyanlarının, toplanan delillerle birlikte değerlendirilerek varılacak sonuç çerçevesinde bir karar verilmesi gerekirken eksik inceleme ile yetinilerek yazılı olduğu üzere karar verilmiş olması doğru değildir.
+
+Anılan husus, karar düzeltme isteği üzerine yeniden yapılan inceleme sonunda anlaşıldığından,  davalılar vekilinin karar düzeltme isteğinin 1086 sayılı HUMK’un 440. maddesi uyarınca kabulüne, 
+Dairenin 05.10.2015 gün ve 2014/1627 E. 2015/11285 K. sayılı ilamının ORTADAN KALDIRILMASINA, 14.11.2013 gün ve 2012/301 E. 2013/446 K. sayılı yerel mahkeme kararının açıklanan nedenden ötürü  BOZULMASINA,  oybirliğiyle karar verildi.
+
+YARGITAY 2. HUKUK DAİRESİ
+Esas : 2015/23725 Karar : 2015/24134Tarih : 16.12.2015
+
+HMK 94. Madde
+
+Kesin Süre
+
+Dava, 2.1.2013 tarihinde, karşı dava ise 14.3.2013 tarihinde açılmıştır. Mahkemece 18.06.2013 tarihinde ön inceleme duruşması yapılmış, bu duruşmada tarafların anlaşamadıkları hususlar tespit edildikten sonra, davacı-karşı davalı erkeğe delillerini bildirmek üzere iki haftalık kesin süre verilmiş ve tahkikat aşamasına geçilmesine karar verilerek, bu husus ve sonraki duruşmanın tahkikat duruşması olduğu taraflara bildirilmiştir. Davacı-karşı davalı vekili, 02.07.2013 tarihi dilekçe ile, davacı-karşı davalı ile görüşemediğinden tanık ve delillerini bildirmek üzere iki haftalık ek süre talep etmiştir. Tanık ve delillerini 16.7.2013 tarihinde bildirmiş, mahkeme ise 17.9.2013 tarihli tahkikat duruşmasında “Geçen celse Hukuk Muhakemeleri Kanununun 140/5. maddesi gereğince davacı-karşı davalı tarafa verilen iki haftalık kesin sürenin Hukuk Muhakemeleri Kanununun 94/1. maddesi anlamında kanunca belirlenen sürelerden olup hakim takdiri ile uzatılıp kısaltılmasının mümkün olmadığı anlaşıldığından, süresinden sonra sunulan tanık listesindeki tanıkların dinletilmesi talebinin reddine” şeklinde karar verilmiştir.
+
+Ön inceleme duruşmasında Hukuk Muhakemeleri Kanununun 140/5. maddesi uyarınca davalı-karşı davacıya verilen kesin mehil, tanık delili dışında, belge niteliğindeki delillerle ilgilidir. Bu mehil, tanık bildirme hakkını düşürmez. Davacı-karşı davalı erkek, tahkikat aşamasında verdiği 16.07.2013 tarihli dilekçesinde tanıklarının isim ve adreslerini mahkemeye bildirmiştir. Mahkemece, davalı-karşı davacının gösterdiği tanıkların dinlenmesi için gerekli avansın usulünce istenmesi (HMK.m.324) avans yükümlülüğünü yerine getirmesi halinde, gösterdiği tanıkların usulünce çağrılıp dinlenmesi ve tüm deliller birlikte değerlendirilerek hasıl olacak sonucuna göre karar verilmesi gerekir. Açıklanan yönde işlem yapılmadan, eksik inceleme ile hüküm kurulması doğru bulunmamıştır.
+
+Temyiz edilen hükmün yukarıda gösterilen sebeple ( BOZULMASINA ), bozma sebebine göre davalı- karşı davacı kadının tüm, davacı-davalı erkeğin sair temyiz itirazlarının bu aşamada incelenmesine yer olmadığına, temyiz peşin harcının istek halinde yatırana geri verilmesine, işbu kararın tebliğinden itibaren 15 gün içinde karar düzeltme yolu açık olmak üzere oybirliğiyle karar verildi.
+
+YARGITAY 13. HUKUK DAİRESİ
+Esas : 2014/24443 Karar : 2014/23114Tarih : 8.07.2014
+
+HMK 94. Madde
+
+Kesin Süre
+
+Davacı, davalının kullandığı krediye ilişkin masrafların iadesi amacıyla Hakem Heyetine baş vurduğunu, Hakem Heyetinin masraf iadesine karar verdiğini, alınan ücretlerin verilen hizmetin karşılığı olduğunu,  iade kararının hukuka aykırı olduğunu ve iptal edilmesi gerektiğini ileri sürerek Alanya Kaymakamlığı Tüketici Sorunları Hakem Heyet`inin 15.02.2013 tarih 1095 sayılı kararının iptalini istemiştir.
+
+Mahkemece, davacının dava açarken gider avansını yatırmadığı gerekçesiyle davanın dava şartı yokluğu nedeni ile usulden reddine karar verilmiş;  hüküm,  davacı tarafından temyiz edilmiştir.
+
+Adil yargılanma hakkı Anayasamızın 36’ıncı maddesinde,  AİHS’nin 6’ıncı  maddesinde ve HMUK’un 73’üncü maddesi ile HMK’nın 27’inci maddesinde ayrıntılı olarak düzenlenmiştir. Hukuki dinlenilme hakkı adil yargılanma hakkının en önemli unsurudur. Ayrıca HMK`nın 114/g maddesinde gider avansı dava şartı olarak düzenlenmiştir. HMK 115/2 ve 120 maddelerinden ve 30.09.2011 tarihli resmi gazetede yayımlanan HMK gider avansı tarifesinin 1 ve 6 maddelerindeki düzenlemelerden gider avansının davanın açılması sırasında alınmasının şart olmadığı mahkemenin sonradan da bu eksikliği kesin süre vererek ikmal ettirebileceği anlaşılmaktadır.
+
+Davanın açıldığı tarihte eksik veya hiç gider alınmamış olsa bile gider avansı dava şartı olmakla hüküm verilinceye kadar ikmal ettirilebilir. Bu durum davanın her aşamasında re`sen gözetilmesi gerekir. Gider avansının yatırılmaması halinde dava usulden red edilir.
+
+Tarafların bazı usuli işlemleri belli bir süre içinde yapmaları için hakimin bir tarafa kesin mehil verebileceği HMK’nun 94 ve devamı maddelerinde ayrıntılı olarak düzenlenmiştir. Kesin mehil, davanın en az masrafla ve sürüncemede bırakılmadan bir an evvel sonuçlanmasını temin için hakime tanınan yasal takdir yetkisidir. Ancak kesin mehil verilen işlemin yapılmaması, bir hakkın ortadan kalkması sonucunu doğurduğundan bu konudaki kararın yasaya uygun olması zorunludur. Bu nedenle HMK`da taraflara verilecek kesin süreye ilişkin ara kararlarda, yapılması gereken işlerin neler olduğunun açıklıkla belirtilmesi, tanınan sürenin yeterli ve elverişli olması, süreye uyulmamasının doğuracağı sonuçların açıklanması ve bu konuda tarafın uyarılması gereklidir. Aksi takdirde kesin mehle uymama, hukuki sonuç doğurmaz. (Bkz. HGK 21.9.1983 1983/14-3447-825 sayılı kararı)
+
+Somut olayda mahkemece, davacıya gider avansını yatırması için iki haftalık kesin süre verilmeden davanın usulden reddine karar verilmiştir. Mahkeme, ara kararı vererek dava şartı olarak belirlediği gider avansını oluşturan harç, tebligat gibi gider gerektiren işlemleri kalem kalem açıklamalı, her kalemin miktarını ayrı ayrı göstermeli, dava şartına yönelik gider avansıyla ilgili  olarak verilen kesin sürede yatırılmamasının sonuçlarını da duruşma zaptına açıkça yazmalıdır. Açıklanan nedenle, gider avansının tamamlanması için süre verilmeden dava şartı noksanlığından davanın reddine karar verilmesi usul ve yasaya aykırı olup  bozmayı gerektirir.
+
+Yukarıda açıklanan nedenlerle, davacının yerinde görülen temyiz itirazlarının kabulü ile usul ve yasaya aykırı hükmün (BOZULMASINA), peşin alınan 25,20 TL harcın istek halinde iadesine, HUMK’nun 440/III-2 maddesi uyarınca karar düzeltme yolu kapalı olmak üzere, oybirliğiyle karar verildi.
+
+YARGITAY 8. HUKUK DAİRESİ
+Esas: 2015/8970 Karar: 2017/354Tarih: 17.01.2017
+
+HMK 94. Madde
+
+Kesin Süre
+
+Davacı L. U. vekili dava dilekçesinde, evlilik birliği içinde davalı adına edinilen malvarlığı nedeniyle 5.000,00 TL alacağın davalıdan alınarak davacıya verilmesini talep etmiştir.
+
+Davalı M. K. vekili, davanın reddini savunmuştur.
+
+Mahkemece, davacı tarafından eksik gider avansının kesin süre içinde yatırılmadığından davanın usulden reddine karar verilmiştir. Hüküm, davacı vekili tarafından temyiz edilmiştir.
+
+Maddi olayları ileri sürmek taraflara, hukuki nitelendirme yapmak ve uygulanacak kanun maddelerini belirlemek hakime aittir (6100 sayılı m. 33). İddianın ileri sürülüş şekline göre dava, mal rejimin tasfiyesinden kaynaklanan alacak isteğine ilişkindir.
+
+Tüm dosya kapsamı birlikte incelendiğinde; görülmekte olan davanın 1086 sayılı döneminde 10.06.2010 tarihinde açıldığı,. 6100 sayılı yürürlüğe girdiği 01.10.2011 tarihi itibari ile davanın ilk aşaması olan dilekçeler aşamasının tamamlandığı ve “gider avansı ile ilgili olarak eksik yatırılan avansın iki hafta içinde ikmal edilmesi için kesin süre verilmesine” ilişkin ara kararın verildiği, kesin süre içinde davacı tarafından gider avansının yatırıldığı; 23.09.2014 tarihli celsede “bilirkişi raporundaki eksikliklerin giderilmesi ve giderlerin avanstan karşılanmasına” dair ara karar verildiği, 13.11.2014 tarihli celsede “masraf olmadığından ara kararın yerine getirilemediği” belirtilerek davacı tarafa “23.09.2014 tarihli ara kararaındaki işlemelerin yapılması için 00 TL gider avansının yatırılması için iki haftalık kesin süre verilmesine, bu sürede gider avansının yatırılmaması halinde var olan duruma göre karar verileceği hususunda davacıya ihtaratına” dair ara kararı verildiği; 22.01.2014 tarihli celsede de, bir öncelki celsedeki eksiklik giderilmediği belirtilerek “Davacı vekiline 13.11.2014 tarihli celsede önceki ara kararda belirtilen ve bilirkişinin sağlıklı rapor verebilmesi için toplanmasını istediği belgelerin ve bilgilerin toplanabilmesi için eksik gider avansını yatırması yönünde davacı vekiline 2 haftalık kesin süre verilmiş ise de davacı vekilinin bu gider avansını yatırmadığı bu nedenle eksikliklerin giderilemediği, var olan duruma göre de dosyadaki talepler konusunda bir karar verilemeceği anlaşıldığından 120. madde gereğince davanın usulden reddine” karar verildiği anlaşılmaktadır.
+
+Öncelikle, Mahkemece, 03.11.2014 tarihli oturumda davacı tarafından yatırılması istenen avans gider avansı olmayıp, delil avansı niteliğindedir. Bu avansın yatırılmaması da sadece o delile dayanmaktan vazgeçme sonucunu doğurur (HMK. Md. 324).
+
+Öte yandan, mülga 1086 sayılı HUMK’nun 163. maddesi ile 6100 sayılı HMK’nun 94. maddesi uyarınca kesin süreye ilişkin ara kararının hiçbir duraksamaya yer vermeyecek biçimde açık olması taraflara yüklenen yükümlülüklerin, yapılması gereken işlerin neler olduğunun ve her iş için yatırılacak ücretin hiçbir şüpheye yer vermeyecek şekilde açıklanması gerekir. Ayrıca verilen sürenin amaca uygun, yeterli ve elverişli olması, kesin süreye uymamanın doğuracağı hukuki sonuçların açık olarak anlatılması ve anlatılanların tutanağa geçirilmesi, bunlara uyulmaması durumunda mevcut kanıtlara göre karar verilip, gerektiğinde davanın reddedileceğinin açıkça bildirilmesi suretiyle ilgili tarafın uyarılması gerekir (YHGK’nun 18.02.1983 gün 1980/1-1284, 1983/141; 22.11.1972 gün 8/832, 935; 13.10.2010 gün 2010/17-510-485; 28.04.2010 gün 2010/2-221-241; 28.03.2012 gün 2012/19-55-2012-249; 12.12.2012 gün 2012/9-1180-1182 sayılı kararlarında da değinilmiştir.) .
+
+Yukarıda açıklanan yasal düzenleme ve ilkeler uyarınca yapılan incelemede;
+
+Mahkemece, davacı tarafından yatırılması istenen avansın gider avansı değil, delil avansı niteliğinde olduğu gözden kaçırılarak, davacı vekiline verilen kesin süreye ilişkin ara kararında alınması gereken delil avansının ne miktarda ve hangi işlere ilişkin olduğunun açıkça belirtilmemesi ve belirtilen sürede ara karar gereğinin yerine getirilmemesinin sonuçlarının da açıklanmaması doğru değildir. Kesin sürenin sonuç doğurabilmesi için usulünce ve eksiksiz olması gerekir. Bu nedenle, davacıya bilirkişi raporundaki eksikliklerin giderilmesi içi gerekli olan masraflar için usulüne uygun kesin süre verilmeden ve söz konusu avansın delil avansı olup yatırılmamasının ancak o delile dayanmaktan vazgeçme sonucunu doğuracağı gözetilmeksizin davanın usulden reddine karar verilmesi usul ve yasaya aykırı olup, bozmayı gerektirmiştir.
+
+SONUÇ : Temyiz edilen hükmün yukarıda gösterilen sebeplerle 6100 sayılı HMK’nun Geçici 3. maddesi yollamasıyla 1086 sayılı HUMK’nun 428. maddesi uyarınca BOZULMASINA, bozma sebebine göre tarafların diğer temyiz itirazlarının şimdilik incelenmesine yer olmadığına ve 440/I maddeleri gereğince Yargıtay Daire ilamının tebliğinden itibaren ilama karşı 15 gün içinde karar düzeltme isteğinde bulunulabileceğine ve peşin harcın istek halinde temyiz eden davacıya iadesine, 17.01.2017 tarihinde oybirliğiyle karar verildi.
+
+YARGITAY 11. HUKUK DAİRESİ
+Esas: 2015/2270 Karar: 2015/9400Tarih: 17.09.2015
+
+HMK 94. Madde
+
+Kesin Süre
+
+Davacı vekili, davalı şirket temsilcilerinin yüksek faiz verileceği ve parasını istediği zaman geri alabileceği taahhüdünde bulunmaları üzerine müvekkilinin belge karşılığında davalılara 125.200 DM verdiğini, davalıların aynı yöntemle binlerce gurbetçiden nakit para topladıklarını, kısa bir süre sonra müvekkilinin parasını istediğini, ancak bu güne kadar kendisine ödeme yapılmadığını, hisse senetlerinin izinsiz olarak halka arz edildiğini, K… Grubu tarafından yapılan usulsüzlüklerin SPK ve diğer resmi kurum raporlarında açıklandığını, davalılar hakkında çeşitli suçlardan suç duyurusu yapıldığını, müvekkilinin şirket ortağı yapılmasının hukuken mümkün olmadığını, kanuna uygun bir ortaklık ilişkisinin kurulmadığını ve davalı H. B.’ın zarardan sorumlu olduğunu ileri sürerek, şimdilik 133.484,25 TL’nin faizi ile birlikte müvekkiline ödenmesine ve geçerli bir ortaklık ilişkisinin bulunmadığının tespitine karar verilmesini talep ve dava etmiştir.
+
+Davalılar vekilleri, davanın reddini istemiştir.
+
+Mahkemece, Dairemize ait 10.07.2012 tarihli ilama dayanılarak, davacı vekiline 25.12.2012 tarihli oturumda bilirkişi ve keşif ücretini yatırması için 30 günlük kesin süre verilip, ücretin yatırılmaması durumunda nasıl bir karar verileceğinin duraksamaya yer olmadan açıklandığı, davacının bu süre içinde bilirkişi ücretini yatırmadığı için keşfin yapılamadığına dair tutanağın tutulduğu, bilirkişi ücretinin keşif tarihinden de sonra 14.02.2013 tarihinde yatırıldığı, HMK’nın 94. maddesinde kanunun belirlediği sürelerin kesin olduğunun belirtildiği, aynı Yasa’nın 324. maddesi uyarınca da hakimin verdiği kesin süre içinde keşif veya bilirkişi ücretlerini yatırmayan tarafın bu talebinden vazgeçmiş sayılacağı ve tekrar bilirkişi incelemesi talebinde bulunamayacağı gerekçesiyle davanın reddine dair verilen karar davacı vekili tarafından temyizi üzerine Dairemizin , 18.11.2014 tarihli kararı ile onanmıştır.
+
+Davacı vekili, karar düzeltme isteminde bulunmuştur.
+
+Dava, geçerli şekilde ortaklık ilişkisinin kurulmadığının tesbiti ve davalılar tarafından tahsil edilen paranın istirdadı istemine ilişkin olup, mahkemece davanın reddine ilişkin verilen ilk karar Dairemizin 2012/536 esas, 2012/12203 karar sayılı ilamı ile bozulmuştur. Mahkemece, bozma ilamına uyularak verilen kesin süre içinde bilirkişi ve keşif ücretinin yatırılmadığı, bilirkişi ücretinin keşif tarihinden sonra 14.02.2013 tarihinde yatırıldığı, HMK’nın 94. maddesinde kanunun belirlediği sürelerin kesin olduğunun belirtildiği, aynı Yasa’nın 324. maddesi uyarınca da hakimin verdiği kesin süre içinde keşif veya bilirkişi ücretlerini yatırmayan tarafın bu talebinden vazgeçmiş sayılacağı ve tekrar bilirkişi incelemesi talebinde bulunamayacağı gerekçesiyle davanın reddine karar verilmiştir.
+
+Öncelikle, HMK’nın 94. maddesine göre, kanunun belirlediği süreler kesin olduğu halde, hakimin tayin ettiği süreler, kural olarak kesin nitelikte değildir. Hakim belirlediği süreyi, süre geçmeden azaltıp, çoğaltabileceği gibi süre geçtikten sonra da tarafın isteği üzerine ikinci bir süre de verebilir. Hakim, vermiş olduğu sürenin kesin olduğuna karar vermiş ise, bu sürenin kesin olduğunun ara kararında hiçbir tereddüde yer vermeyecek derecede açık şekilde ifade edilmesi, yapılması gereken işlerin teker teker açıklanması, tayin edilen sürenin bu işlemleri yapmaya elverişli bulunması ve de süreye uymamanın sonuçlarının açıklanarak tarafların uyarılması gerekir. Somut olayda mahkemece, 25.12.2015 tarihli oturumda davacı vekiline, bilirkişi ücretini yatırması için 30 gün kesin süre verilmiş ve bu süre içinde ücret yatırılmadığından davacının bu delilden vazgeçmiş sayıldığı kabul edilmiştir. Ancak mahkemece, kesin süreye ilişkin verilen ara kararı, HMK’nın 94. maddesindeki unsurları içermediğinden usulüne uygun bulunmamaktadır. Zira, kesin mehlin sonuç doğurması için kendisine kesin mehil verilen tarafa düşen yükümlülüklerinin açık ve net bir şekilde belirtilmesi gerekir. Mahkeme ara kararında mahkeme yolluğunun miktarı ve vasıta ücreti açıkça belirtilmemiş olup bu durum kesin mehil verilen tarafın bu süre içinde ne miktar delil avansı yatıracağı konusunda tereddüt uyandırdığından verilen kesin mehil sonuç doğurmaz. Bu nedenle mahkemece yeniden usulüne uygun kesin mehil verilmesi ve celse arasında yatırılan delil avansının buna göre tamamlanması gerekirken delil avansı olan keşif giderinin kesin sürede yatırılmadığı gerekçesi ile davanın reddi doğru olmayıp kararın bu nedenle bozulması gerektiğinden davacı vekilinin karar düzeltme isteminin bu yönden kabulü ile Dairemizin 06.11.2014 gün ve 2013/16134 Esas 2014/17016 karar sayılı ilamının kaldırılarak yerel mahkeme kararının anılan nedenle davacı yararına bozulmasına karar vermek gerekmiştir.
+
+SONUÇ : Yukarıda açıklanan nedenlerle davacı vekilinin karar düzeltme itirazlarının kabulüyle, Dairemizin 06.11.2014 gün ve 2013/16134 Esas 2014/17016 karar sayılı ilamının kaldırılarak yerel mahkeme kararının anılan nedenle davacı yararına BOZULMASINA, ödedikleri temyiz peşin temyiz ilam ve karar düzeltme harçlarının isteği halinde karar düzeltme isteyene iadesine, 17.09.2015 tarihinde oybirliğiyle karar verildi.
+
+YARGITAY 23. HUKUK DAİRESİ
+Esas: 2014/1917 Karar: 2014/5446Tarih: 09.09.2014
+
+HMK 94. Madde
+
+Kesin Süre
+
+Davacı vekili, müvekkilinin verdiği vekaletnamede kefil olma yetkisi olmadığı halde müvekkili adına yapılan usulsüz kefillik sebebiyle aleyhinde icra takibi yapıldığını ileri sürerek, müvekkilinin davalıya borçlu olmadığının tespitiyle Konya 14. İcra Müdürlüğü’nün 2013/1038 Esas sayılı icra takibinin iptaline, haksız yapılan icra takibi sebebiyle %40 tazminatın davalıdan tahsiline karar verilmesini dava ve istemiştir.
+
+Mahkemece, davacının yatırması gereken gider avansının 00 TL’sinin yatırıldığı ve 80 TL’nin eksik yatırıldığı tespit edilerek H.M.K.nın 120/2 maddesinin “Avansın yeterli olmadığının dava sırasında anlaşılması halinde, mahkemece, bu eksikliğin tamamlanması için davacıya iki haftalık kesin süre verilir.” düzenlemesi gereği davacıya eksik 614,80 TL avansın yatırılması için iki haftalık kesin süre verildiği, buna dair açıklamalı ve ihtarlı tebligatın 8.3.2013 tarihinde davacı vekiline tebliğ olmasına ve iki haftalık kesin süre geçmesine rağmen eksik avansı yatırmadığının anlaşıldığı, H.M.K.114/g maddesinde gider avansının dava şartı olduğu. Hukuk Mahkemeleri Kanunu Yönetmeliği’nin 45/3 maddesi 2. cümlesinde “Dava şartı olan gider avansının yatırılmaması veya tamamlanmaması halinde, dava, dava şartı yokluğundan reddedilir.” ve H.M.K.115/2 maddesinde “Mahkeme, dava şartı noksanlığını tespit ederse davanın usulden reddine karar verir.” düzenlemelerinin bulunduğu gerekçesiyle, davanın usulden reddine karar verilmiştir.
+
+Kararı, davacı vekili temyiz etmiştir.
+
+1- )Dava, menfi tespit istemine ilişkindir. Hukuk Muhakemeleri Kanunu Gider Avansı Tarifesinin 4. maddesinde tanık ücreti, keşif gideri ve bilirkişi ücretinin dava dilekçesinde bu delillere dayanılmış olması halinde yatırılacağı düzenlenmiştir. Mahkemece, 5.3.2013 tarihli tensip ara kararıyla toplam 618,80 TL eksik gider avansının tamamlanması için davacı vekiline ihtarat yapılmasına karar verilmiştir. Mahkemece, davacı vekilinin Hukuk Muhakemeleri Kanunu Gider Avansı Tarifesinin 4/a maddesindeki tebligat giderini ve 4/d maddesindeki maktu avansı yatırmış olduğu gözetilerek, uyuşmazlığın esasının incelenmesi ve sonucuna göre bir karar verilmesi gerekirken, dava dilekçesinde dayanılmayan delillere dair masraf ve ücretin kesin sürede yatırılmadığı gerekçesiyle yazılı şekilde yanılgılı gerekçeye dayalı olarak hüküm kurulması doğru olmamıştır.
+
+2- ) Kabule göre, YHGK’nın 12.12.2012 tarih ve 2012/9-1170 Esas, 1172 Karar sayılı ilamında belirtildiği üzere “mülga 1086 Sayılı H.U.M.K.nın 163. maddesiyle 6100 Sayılı H.M.K.nın 94. maddesi uyarınca kesin süreye dair ara kararının hiçbir duraksamaya yer vermeyecek biçimde açık olması, taraflara yüklenen yükümlülüklerin, yapılması gereken işlerin neler olduğunun açıklanması gerekir. Ayrıca kesin süreye uymamanın doğuracağı hukuki sonuçların açık olarak anlatılması ve anlatılanların tutanağa geçirilmesi, bunlara uyulmaması durumunda mevcut kanıtlara göre karar verilip, gerektiğinde davanın reddedileceğinin açıkça bildirilmesi suretiyle ilgili tarafın uyarılması gerektiği her türlü duraksamadan uzaktır. Bazı hallerde kesin sürenin kaçırılması, o delile veya hakka dayanamamak gibi ağır sonuçları birlikte getirmekte, davanın kaybedilmesine neden olmaktadır. Böyle bir durumda, geciken adaletin adaletsizlik olduğu düşünülerek, davaların uzamasını veya uzatılmak istenmesini engellemek üzere getirilen kesin süre kuralı, kanunun amacına uygun olarak kullanılmalı, davanın reddi için bir araç sayılmamalıdır. ( Benzer ilkelere YHGK’nın 18.2.1983 gün 1980/1-1284 E.. 1983/141 K.; YHGK’nın 22.11.1972 gün 8/832 E., 935 K.; YHGK’nın 13.10.2010 gün 2010/17-510 E., 485 K.; YHGK’nın 28.4.2010 gün 2010/2-221 E., 241 K. ve YHGK’nın 28.3.2012 gün 2012/19-55 E., 249 K. sayılı ilamlarında da değinilmiştir. )
+
+Somut olayda, mahkemenin, 618,80 TL eksik gider avansının tamamlanmasıyla ilgili 5.3.2013 tarihli tensip ara kararı ve bu kararı dayalı olarak davacı vekiline çıkarttığı meşruhatlı tebligatta istenen gider avansının hangi kalemlerden oluştuğu hususunda herhangi bir açıklık bulunmamaktadır. H.M.K.nın 94. maddesi uyarınca hakimin verdiği kesin sürenin sonuç doğurabilmesi için, ara kararda yapılması istenilen işlemlerin her biri için ne miktar ücret yatırılması gerektiği açık bir şekilde belirtilmelidir. Bu durumda, mahkemece verilen kesin sürenin usulüne uygun olmadığı hususu da gözetilerek, uyuşmazlığın esasının incelenmesi gerekirken, yanılgılı gerekçeyle yazılı şekilde hüküm kurulması da doğru olmamıştır.
+
+SONUÇ : Yukarıda ( 1 ) numaralı bentte açıklanan sebeplerle davacı vekilinin temyiz itirazlarının kabulüyle hükmün, davacı yararına BOZULMASINA, peşin harcın istenmesi halinde iadesine, kararın tebliğinden itibaren 15 gün içerisinde karar düzeltme yolu açık olmak üzere, 9.9.2014 tarihinde oybirliğiyle karar verildi.
+
+YARGITAY HUKUK GENEL KURULU
+Esas: 2015/2-3037 Karar: 2015/2430Tarih: 04.11.2015
+
+HMK 94. Madde
+
+Kesin Süre
+
+Taraflar arasındaki “boşanma” davasından dolayı yapılan yargılama sonunda; Manisa 2. Aile Mahkemesince davanın kabulüne dair verilen 03.04.2012 gün ve 2011/549 E. 2012/263 K. sayılı kararın incelenmesi davalı vekili tarafından istenilmesi üzerine, Yargıtay 2. Hukuk Dairesinin 23.01.2013 gün ve 2012/14017 E. 2013/1573 K. sayılı ilamı ile;
+
+( … Davalıya 09.02.2012 tarihli oturumda delillerini bildirmesi için kesin süre verilmiş, davalı 03.04.2012 tarihli dilekçe ile delillerini bildirmiştir. Mahkemece davalıya delillerini bildirmesi için verilen kesin süre, tanık ücretleri ve davetiye giderleri gösterilmediğinden sonuç doğurmaz. Davalı tanıklarının dinlenip, değerlendirilerek sonucu uyarınca karar vermek gerekirken eksik inceleme ile yazılı şekilde karar verilmesi doğru olmamıştır… ),
+
+Gerekçesiyle bozularak dosya yerine geri çevrilmekle, yeniden yapılan yargılama sonunda, mahkemece önceki kararda direnilmiştir.
+
+Hukuk Genel Kurulunca incelenerek direnme kararının süresinde temyiz edildiği anlaşıldıktan ve dosyadaki kağıtlar okunduktan sonra gereği görüşüldü:
+
+KARAR : Dava, evlilik birliğinin sarsılması sebebine dayalı boşanma isteğine ilişkindir.
+
+Mahkemece, davalı vekilinin kesin süre içerisinde delillerini bildirmediği gerekçesi ile gösterdiği deliller toplanmamış, davacı tarafın sunduğu delillerle davanın kabulü ile boşanma kararı verilmiştir. Davalı vekilinin temyizi üzerine, Özel Dairece yukarıda yazılı gerekçe ile hüküm bozulmuş, Yerel Mahkeme önceki kararda direnmiştir.
+
+Direnme kararını davalı vekili temyiz etmektedir.
+
+Direnme yolu ile Hukuk Genel Kurulu önüne gelen uyuşmazlık; davalıya delillerini bildirmesi için verilen kesin sürede delil avansının gösterilmesinin gerekip gerekmediği, davalıya delillerini bildirmesi için verilen kesin sürenin usulüne uygun olup olmadığı, varılacak sonuca göre de davalının delil bildirme hakkının ortadan kalkıp kalkmadığı noktasında toplanmaktadır.
+
+Öncelikle ifade edilmelidir ki, eldeki dava 1086 sayılı döneminde açılan bir dava olsa da, davalıya delillerini bildirmesi için verilen kesin sürenin tarihi dikkate alındığında ortada tamamlanmamış bir işlem bulunduğuna göre HMK’nın 448. maddesi gereğince 6100 sayılı Hukuk Muhakemeleri Kanunu hükümleri dikkate alınmalıdır.
+
+İkinci olarak, kesin sürenin hukuki niteliğinin irdelenmesinde yarar vardır:
+
+Bir davanın açılmasıyla başlayan yargılama faaliyetinde,karara ulaşmak bakımından, mahkeme ve taraflarca yapılması gereken belirli işlemler bulunmakta olup, her işlemin belli bir zaman aralığında yapılması gerekmektedir. Usul hükümleri ile normatif bir değer kazanan bu zaman aralıklarına süre denilmektedir. Böylece usul işlemlerinin yapılması zamansal olarak tarafların ya da mahkemenin arzularına, inisiyatifine bırakılmamış olmaktadır.
+
+Mülga 1086 sayılı ile 6100 sayılı öngörülen süreler, nitelikleri bakımından, taraflar için ve mahkemeler için konulmuş süreler olmak üzere ikiye ayrılır:
+
+Mahkemeler için öngörülen sürelerin, taraflar için öngörülen sürelerden farkı; sürenin geçirilmiş olmasının, o sürede yapılması öngörülen işlemin yapılma olanağını ortadan kaldırmamasıdır. Eş söyleyişle hakim, gecikmeli de olsa süreye bağlanmış olan işlemi yapabilir. Dolayısıyla, gecikmeli de olsa yapılan işlem, oluşturulan karar hukuken geçerlidir ve süresinde yapılmış gibi hukuki sonuç doğurur.
+
+Sürelerin önemli bir kısmı, taraflar için konulmuş sürelerdir. Taraflar, bu süreler içinde belli işlemleri yapabilirler veya yapmaları gerekir. Bu süre içinde yapılamayan işlemler, tekrar yapılamaz ve süreyi kaçıran taraf aleyhine sonuç doğurur. Taraflar için konulmuş süreler; kanunda belirtilen süreler ve hakim tarafından belirtilen süreler olmak üzere ikiye ayrılır:
+
+Kanunda belirtilen süreler; kanun tarafından öngörülmüş ( cevap süresi, temyiz süresi gibi ) süreler olup, bu süreler kesindir. Bir işlemin kanuni süresi içinde yapılıp yapılmadığı, mahkemece re’sen gözetilir.
+
+Hakimin tespit ettiği süreler ise, kural olarak kesin değildir ( Kuru, Baki/ Arslan Ramazan/ Yılmaz, Ejder, Medeni Usul Hukuku Ders Kitabı, 6100 sayılı Göre Yeniden Yazılmış 22. Baskı, Ankara 2011, s.749 ).
+
+Hakim, kendi tayin etmiş olduğu süreyi, 90/2. maddesine göre iki tarafı dinledikten sonra haklı nedenlere dayanarak, azaltıp çoğaltabilir ve bu sürenin, kesin olduğuna da karar verebilir ( m.94/2, m.159 ).
+
+Yukarıda da belirtildiği üzere ilke olarak, hakimin verdiği süre kesin olmayıp, kesinlik için şu iki koşuldan birinin varlığı zorunludur:
+
+İlk koşul, hakimin kesin olduğunu belirtmeksizin verdiği ilk sürede işlemin yapılmaması nedeniyle ilgili tarafın yeniden süre talep hakkının varlığı karşısında, bu talep üzerine hakimin verdiği ikinci sürenin kesin olması ve bu kesinliğin yasadan kaynaklanmasıdır ( m.163, c.4, HMK. 94/2 ); bu halde, ikinci kez verilen sürenin kesin olduğu belirtilmemiş ve ihtar edilmemiş olsa dahi, sonuç değişmez.
+
+İkinci halde ise; yasaya göre hakimin, tayin ettiği ilk sürenin kesin olduğuna da karar verebilmesidir ( m.163/3 c.3, m. 94 ). Ancak, böyle bir durumda kesin sürenin hukuki sonuç doğurabilmesi için, buna ilişkin ara kararının yasaya ve içtihatlara uygun şekilde oluşturulması, hiçbir tereddüde yer vermeyecek derecede açık olması ve kesin süreye uyulmamasının sonuçlarının ilgili tarafa ihtar edilmesi gerekir.
+
+Kesin süreye ilişkin ara kararının verilmesiyle karşı taraf lehine usulü kazanılmış hak doğmaktadır. Bu ilkenin doğal sonucu, yargısal kesin süreyle sadece tarafların değil, hakimin de bağlı olduğu, dolayısıyla hakimin bu tür bir ara kararından dönmesinin hukuken geçersiz olmasıdır.
+
+Kısaca; ister kanun, ister hakim tarafından tayin edilmiş olsun, kesin süre içerisinde yerine getirilmeyen bir işlemin, bu süre geçtikten sonra yerine getirilmesi olanaklı değildir.
+
+Öte yandan, mülga 1086 sayılı HUMK’nın 163. maddesi ile 6100 sayılı HMK’nın 94. maddesi uyarınca kesin süreye ilişkin ara kararının hiçbir duraksamaya yer vermeyecek biçimde açık olması, taraflara yüklenen yükümlülüklerin, yapılması gereken işlerin neler olduğunun ve her iş için yatırılacak ücretin hiçbir şüpheye yer vermeyecek şekilde açıklanması gerekir. Ayrıca verilen sürenin amaca uygun, yeterli ve elverişli olması, kesin süreye uymamanın doğuracağı hukuki sonuçların açık olarak anlatılması ve anlatılanların tutanağa geçirilmesi, bunlara uyulmaması durumunda mevcut kanıtlara göre karar verilip, gerektiğinde davanın reddedileceğinin açıkça bildirilmesi suretiyle ilgili tarafın uyarılması gerektiği her türlü duraksamadan uzaktır. Bazı hallerde kesin sürenin kaçırılması, o delile veya hakka dayanamamak gibi ağır sonuçları birlikte getirmekte, davanın kaybedilmesine neden olmaktadır. Böyle bir durumda, geciken adaletin adaletsizlik olduğu düşünülerek, davaların uzamasını veya uzatılmak istenmesini engellemek üzere getirilen kesin süre kuralı, kanunun amacına uygun olarak kullanılmalı, davanın reddi için bir araç sayılmamalıdır. Bu cümleden olarak, kesin sürenin amacına uygun olarak kullanılması ve yeterli uzunlukta olmasının yanı sıra, tarafların yargılamadaki tutumları ile süreye konu işlemin özelliğinin de göz önünde bulundurulması gerekir. ( Benzer ilkelere YHGK’nın 18.02.1983 gün 1980/1-1284, 1983/141; 22.11.1972 gün 8/832, 935; 13.10.2010 gün 2010/17-510-485; 28.04.2010 gün 2010/2-221-241 ve 28.03.2012 gün 2012/19-55-2012-249 sayılı kararlarında da değinilmiştir. ) .
+
+Delil avansı ile ilgili yasal düzenlemeye gelince; 6100 sayılı Hukuk Muhakemeleri Kanunu’nun delil ikamesi için avans başlıklı 324 maddesinde ise “ ( 1 ) Taraflardan her biri ikamesini talep ettiği delil için mahkemece belirlenen avansı, verilen kesin süre içinde yatırmak zorundadır. Taraflar birlikte aynı delilin ikamesini talep etmişlerse, gereken gideri yarı yarıya avans olarak öderler.
+
+( 2 ) Taraflardan birisi avans yükümlülüğünü yerine getirmezse, diğer taraf bu avansı yatırabilir. Aksi hâlde talep olunan delilin ikamesinden vazgeçilmiş sayılır.
+
+( 3 ) Tarafların üzerinde serbestçe tasarruf edemeyeceği dava ve işler hakkındaki hükümler saklıdır.”
+
+Hükmü getirilmiştir.
+
+03.04.2012 tarihli Resmi Gazete’de yayınlanan Hukuk Muhakemeleri Kanunu Yönetmeliğinin 45. maddesinde: “ ( 1 ) Davacı, yargılama harçları ile her yıl Bakanlıkça çıkarılacak gider avansı tarifesinde belirlenecek olan tutarı dava açarken mahkeme veznesine yatırmak zorundadır. Gider avansı, her türlü tebligat ve posta ücretleri, keşif giderleri, bilirkişi ve tanık ücretleri gibi giderler için davacıdan alınan meblağı ifade eder.
+
+( 2 ) Adli yardım talebiyle açılan dava ve işlerde adli yardım konusunda bir karar verilinceye kadar harç, gider ve delil avansı alınmaz. Kanunlardaki özel hükümler saklıdır.
+
+( 3 ) Gider avansının yeterli olmadığının dava sırasında anlaşılması halinde, mahkemece bu eksikliğin tamamlanması için davacıya iki haftalık kesin süre verilir. Dava şartı olan gider avansının yatırılmaması veya tamamlanmaması halinde, dava, dava şartı yokluğundan reddedilir.
+
+( 4 ) Taraflardan her biri ikamesini talep ettiği delil için mahkemece belirlenen avansı, verilen kesin süre içinde yatırmak zorundadır. Delil avansı, tarafların dayandıkları delillerin giderlerini karşılamak üzere mahkemece belirlenen kesin süre içinde ödemeleri gereken meblağı ifade eder. Taraflar birlikte aynı delilin ikamesini talep etmişlerse, gereken gideri yarı yarıya avans olarak öderler. Taraflardan biri avans yükümlülüğünü yerine getirmediğinde, diğer taraf bu avansı da yatırabilir. Delil avansını yatırmayan taraf, o delilin ikamesinden vazgeçmiş sayılır. Tarafların üzerinde tasarruf edemeyecekleri dava ve işlerle, kanunlardaki özel hükümler saklıdır
+
+( 5 ) Delil avansının ödenmesine, hâkim tarafından dilekçelerin verilmesi, ön inceleme aşaması veya tahkikatın başında karar verilir …”
+
+Hükmü getirilmiştir.
+
+Yönetmeliğin 45. maddesinde gider avansı ve delil avansı birlikte düzenlenmiş olup, gider avansının, her türlü tebligat ve posta ücretleri, keşif giderleri, bilirkişi ve tanık ücretleri gibi giderler için davacıdan alınan meblağı ifade ettiği, davacının, her yıl Bakanlıkça çıkarılacak gider avansı tarifesinde belirlenecek olan tutarı dava açarken mahkeme veznesine yatırmak zorunda olduğu, delil avansının ise tarafların dayandıkları delillerin giderlerini karşılamak üzere mahkemece belirlenen kesin süre içinde ödemeleri gereken meblağı ifade ettiği vurgulanmıştır.
+
+Açıklanan ilkeler çerçevesinde somut olay değerlendirildiğinde;
+
+Dava, 29.07.2011 tarihinde açılmış, dava dilekçesi ve duruşma günü davalıya 03.08.2011 günü tebliğ edilmiş, davalı vekili cevap süresinden sonra 31.10.2011 günü davaya cevap vermiştir.
+
+Davalı vekiline “tüm delilerini bildirmesi” için 09.02.2012 tarihli oturumda yokluğunda “iki haftalık kesin mehil verilmesine” karar verildiği, ara kararına uyulmamasının doğuracağı sonucun kararda belirtildiği; kesin süreye ilişkin bu ara kararının 16.02.2012 tarihinde tebliğ edildiği, davalı vekilinin “tanıklarının isim ve adreslerini” ihtiva eden delil listesini ise, kesin süre sona erdikten sonra 03.04.2012 tarihinde mahkemeye verdiği anlaşılmaktadır. Kesin süre içinde yapılması gereken işlemi, süresinde yapmayan tarafın o işlemi yapma hakkı ortadan kalkar. ( HMK. m. 94/3 )Mahkemece davalı vekiline verilen kesin süre sadece “delil bildirmeye” ilişkin olup, ara kararında “delil avansının” gösterilmemiş olması, bu ara kararını geçersiz kılmaz. Delil bildirme için tanınan kesin süre içinde, ikamesi talep edilecek deliller için avans belirlenip, bunun da gösterilmesi ve belirlenen avansın aynı kesin süre içinde yatırılmasının delil bildirmeyle ilgili ara kararında yer alması mecburiyeti de bulunmamaktadır. Tarafların her birinin ikamesini talep ettiği delil için mahkemece avans belirlenip, bunun yatırılması için ayrıca kesin süre verilmesi mümkündür ( 6100 s. HMK. m. 324/1 ). Zira Yönetmeliğin 45/5.maddesinde de delil avansının ödenmesine, hakim tarafından dilekçelerin verilmesi, ön inceleme aşaması veya tahkikatın başında karar verilebileceği düzenlenmiştir. Esasen davalıya delil bildirmesi için kesin süre verildiği sırada davalının ne tür deliller bildireceği, tanık bildirecekse kaç tanık bildireceği, tanıkların adresleri itibariyle mahkemece tanıkların davetiye ile mi çağrılacağı yoksa tanık beyanlarının talimat mahkemesi aracılığı ile mi alınacağı dolayısıyla ikamesi talep edilecek delilerin neler olacağı ve bu delillerin giderlerinin ne olacağı da mahkeme tarafından bilinmemektedir. Davalı kendisine usule uygun şekilde verilen ve sadece “ delil bildirmeye” yönelik olan kesin sürede delillerini bildirmemiştir. O halde, davalının delil bildirme hakkı düşmüştür.
+
+Yukarıda açıklanan nedenlerle, usul ve yasaya uygun bulunan direnme kararı yerindedir.
+
+Ne var ki, Özel Daire işin esasına yönelik temyiz itirazlarını incelememiş bulunduğundan, işin esasının incelenmesi için dosyanın Özel Daireye gönderilmesi gerekir.
+
+SONUÇ : Açıklanan gerekçeyle direnme uygun bulunduğundan, davalı vekilinin diğer temyiz itirazlarının incelenmesi için dosyanın 2.HUKUK DAİRESİNE GÖNDERİLMESİNE, 04.11.2015 gününde oyçokluğu ile karar verildi.
+
+UYARI

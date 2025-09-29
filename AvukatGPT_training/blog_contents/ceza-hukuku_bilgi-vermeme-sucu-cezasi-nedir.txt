@@ -1,0 +1,31 @@
+Bilgi Vermeme Suçu Nedir? (TCK 166)
+
+Bilgi Vermeme Suçunun Cezası (TCK 166)
+
+Adli Para Cezasına Çevirme, Erteleme ve Hükmün Açıklanmasının Geri Bırakılması
+
+Suçun Şikayet Süresi, Zamanaşımı ve Uzlaşma, Görevli Mahkeme
+
+Bilgi Vermeme Suçunda Görevli Mahkeme
+
+Suç eşyasını bilgi vermeme suçu; bir hukuki ilişkiyle (satın alma, tramp, ödünç vs.) elde edilen eşyanın bir suçtan elde edildiğinin öğrenilmesine rağmen, bu durumun soruşturmaya yetkili makamlara (polis, jandarma, savcılık vb.) vakit geçirilmemeksizin bildirilmemesi halinde işlenmiş olur. Bilgi vermeme suçunda “vakit geçirilmeksizin” ibaresinden kasıt, her somut olayın özelliğine göre bildirme yükümlülüğünün makul kabul edilebilecek bir sürede yerine getirilmesidir.
+
+Bilgi vermeme suçu, TCK m.166’da “Malvarlığına Karşı Suçlar” bölümünde düzenlenmiştir. Eşyanın teslim alındığı sırada bir suçtan elde edildiği (yağma, hırsızlık, dolandırıcılılık vb.) biliniyorsa, suçtan elde edilen menkul malı alan kişisuç eşyasının satın alınması veya kabul edilmesisuçu nedeniyle cezalandırılılır. Örneğin, çalıntı olduğunu bilerek bir kimseden bisiklet satın alan kişi suç eşyasının satın alınması suçunu işlemiş olur. Ancak, pazar yerinden aldığı bir bisikletin çalıntı olduğunu satın aldıktan sonra öğrenen kişi bu durumu soruşturma makamlarına bildirmediği takdirde bilgi vermeme suçunu işlemiş olur.
+
+Bir hukukî ilişkiye dayalı olarak, örneğin satın alınan veya bağış olarak kabul edilen eşyanın bir suçtan elde edildiğinin daha sonra öğrenilmesi durumunda, suç eşyasının satın alınması veya kabul edilmesi suçu oluşmaz. Zira, kast, fiilin işlendiği sırada mevcut olmalıdır. Ancak, eşyanın, örneğin satın alındıktan veya bağış olarak kabul edildikten sonra, bir suçun işlenmesi suretiyle veya işlenmesi dolayısıyla elde edildiğinin anlaşılması durumunda; satın alan veya örneğin bağış olarak kabul eden kişi açısından bildirim yükümlülüğü mevcuttur. Bu yükümlülüğe aykırı davranış, madde metninde bağımsız bir suç olarak tanımlanmış bulunmaktadır (Madde Gerekçesi).
+
+Suç eşyasını bilgi vermeme suçunun cezasışu şekildedir:
+
+Adli para cezası,işlenen bir suça karşılık hapis cezasıyla birlikte veya tek başına uygulanabilen bir yaptırım türüdür.Bilgi vermeme suçunedeniyle hükmedilen hapis cezası adli para cezasına çevrilemez. Çünkü, adli para cezası maddede seçenek yaptırım olarak düzenlenmiştir. Mahkeme, seçenek yaptırım olarak hapis cezasını tercih ettiğinden bu cezayı adli para cezasına çeviremez.
+
+Hükmün Açıklanmasının Geri Bırakılmasısanık hakkında hükmolunan cezanın belli bir denetim süresi içerisinde sonuç doğurmaması, denetim süresi içerisinde belli koşullar yerine getirildiğinde ceza kararının hiçbir sonuç doğurmayacak şekilde ortadan kaldırılması davanın düşmesine neden olan bir ceza muhakemesi kurumudur.Bilgi vermeme suçunedeniyle hükmedilen hapis cezası  hakkında hükmün açıklanmasının geri bırakılması (hagb) kararı verilmesi mümkündür.
+
+Ceza ertelenmesi, mahkeme tarafından belirlenen cezanın cezaevinde infaz edilmesinden şartlı olarak vazgeçilmesidir.Bilgi vermeme suçunedeniyle hükmedilen hapis cezası hakkında erteleme hükümlerinin uygulanması mümkündür.
+
+Uzlaşma, suç isnadı altındaki şahıs ile suçun mağduru olan şahsın bir uzlaştırmacı aracılığıyla iletişim kurarak anlaşmasıdır.Bilgi vermeme suçu,TCK m.167‘deki kişiler aleyhine işlenirse uzlaşamaya tabidir. Diğer haller uzlaşmaya tabi değildir.
+
+Bilgi vermeme suçuTCK m.167‘deki kişiler aleyhine işlenirseşikayete tabi suçlararasında yer almaktadır. Diğer hallerde, suç, savcılık tarafından resen soruşturulmalıdır. Şikayet hakkı, dava zamanaşımı süresinde kullanılabilir. Şikayetten vazgeçme, ceza davasının düşmesi sonucunu doğurur.
+
+Dava zamanaşımı, suçun işlendiği tarihten itibaren belli bir süre geçtiği halde dava açılmamış veya dava açılmasına rağmen kanuni süre içinde sonuçlandırılmamış ise ceza davasının düşmesi sonucunu doğuran bir ceza hukuku kurumudur.Bilgi vermeme suçuyargılamalarında olağan dava zamanaşımı süresi 8 yıldır.
+
+Bilgi vermeme suçuhakkında yargılama yapma görevi,asliye ceza mahkemesitarafından yerine getirilir.

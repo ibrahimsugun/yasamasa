@@ -1,0 +1,102 @@
+Teminat Gösterilecek Hâller
+
+HMK Madde 84
+
+HMK Madde 84 Gerekçesi
+
+HMK 84 (Teminat Gösterilecek Hâller) Emsal Yargıtay Kararları
+
+(1) Aşağıdaki hâllerde davalı tarafın muhtemel yargılama giderlerini karşılayacak uygun bir teminat gösterilir:
+
+a) Türkiye’de mutad meskeni olmayan Türk vatandaşının dava açması, davacı yanında davaya müdahil olarak katılması veya takip yapması.
+
+b) Davacının daha önceden iflasına karar verilmiş, hakkında konkordato veya uzlaşma suretiyle yeniden yapılandırma işlemlerinin başlatılmış bulunması; borç ödemeden aciz belgesinin varlığı gibi sebeplerle, ödeme güçlüğü içinde bulunduğunun belgelenmesi.
+
+(2) Davanın görülmesi sırasında teminatı gerektiren durum ve koşulların ortaya çıkması hâlinde de mahkeme teminat gösterilmesine karar verir.
+
+(3) Mecburi dava ve takip arkadaşlığında teminat gösterme yükümlülüğü, bu yükümlülüğün tüm davacılar bakımından mevcut olması hâlinde doğar.
+
+Maddenin birinci fıkrasında yer alan düzenlemeyle, teminat gösterilecek hâllerin neler olduğu hüküm altına alınmıştır.
+
+Bu çerçevede, teminat gösterilmesi gereken ilk hâli, Türkiye’de mutad meskeni bulunmayan Türk vatandaşının Türkiye’de dava açması, davacı yanında davaya fer’î müdahil sıfatıyla katılması yahut Türkiye’de takip yapması oluşturacaktır. Maddede, teminat konusu sadece Türk vatandaşları açısından düzenlenmiştir. Çünkü yabancıların, Türkiye’de dava açması, davacı yanında davaya fer’î müdahil sıfatıyla katılması ve Türkiye’de takip yapması hâlinde, teminat göstermesiyle ilgili olarak Milletlerarası Özel Hukuk ve Usul Hukuku Hakkındaki Kanunun 32 nci maddesinde yer alan kural işlerlik kazanacaktır.
+
+Maddenin birinci fıkrasının (a) bendinde yer alan kural, ancak Türkiye’de mutad meskeni bulunmayan Türk vatandaşları bakımından uygulanma alanı bulur. Çünkü, mutad mesken ve vatandaşlık kavramları, sadece gerçek kişilerle ilişkili kavramlardır. Tüzel kişilerin ise merkezlerinden söz edilebilir ve onların merkezlerinin kuruluş belgelerinde (statülerinde) gösterilmesi zorunludur. Bu durum karşısında, ikametgâh ve mutad mesken gibi kavramlar zaten tüzel kişilere yabancıdır. Tüzel kişinin merkezi Türkiye’de ise o tüzel kişi Türk tâbiyetindedir; merkezi yurt dışında ise yabancı bir tüzel kişiden söz etmek gerekir. Yabancı tüzel kişi ise Türkiye’de dava açacak yahut takip yapacak olursa, 2675 sayılı Kanunun 32 nci maddesi uyarınca teminat göstermek zorundadır. Bu durumda, tüzel kişilerin daima bir merkezlerinin bulunmasının zorunlu olması sebebiyle, (a)
+bendinde yer alan düzenleme, onlar bakımından işlerlik kazanamayacaktır. Tüzel kişilerin merkezlerinin bulunması sebebiyle onlarla her durumda ilişkilendirilen bir coğrafî yerin varlığından ötürü Türk tüzel kişileri bakımından (a) bendi kapsamında bir düzenleme sevk etmeye gerçekte ihtiyaç da yoktur.
+
+Öte yandan, 1086 sayılı Kanunda yer alan düzenlemeden farklı olarak, Türk vatandaşları açısından, “Türkiye’de yerleşim yeri bulunmama” ölçütü yerine yabancı ülkede yerleşim yeri olan Türk vatandaşlarını, salt bu nedenle Türkiye’de dava açmaları veya takip yapmaları hâlinde teminat gösterme zorunluluğundan kurtarmak amacıyla, tüm hayat ilişkilerinin belirli bir coğrafî alanda yoğunlaşması biçiminde tanımlanan, mutad mesken kavramı ölçütü getirilmiştir. Bu suretle, onların, istisnaen teminat gösterme zorunluluğu ile karşı karşıya kalmaları amaçlanmıştır.
+
+Maddede sözü edilen davaya müdahaleden maksat ise davaya fer’î müdahaledir. Çünkü, aslî müdahale, görülmekte olan davanın konusunu oluşturan şey üzerinde kısmen ya da tamamen üstün bir hak iddiasında bulunan üçüncü kişinin, görülmekte olan davanın taraflarına karşı müstakil bir dava açılması suretiyle gerçekleştirildiği için, aslî müdahil zaten davada taraf yani davacı konumundadır; dolayısıyla, aslî müdahaleyi yapacak kimsenin Türkiye’de mutat meskeni yoksa, teminat gösterme zorunluluğu, bunu gerçekleştirmek için açacağı dava ile zaten ortaya çıkacaktır. Fer’î müdahale ise ayrı ve müstakil bir davanın açılması suretiyle değil, müdahale talebinin mahkemece kabulü hâlinde işlerlik kazanır. Fer’î müdahil taraf değil, yanında davaya katıldığı tarafın yardımcısı konumundadır. Türkiye’de mutad meskeni bulunmayan fer’î müdahil açısından teminat gösterme yükümü ise davalının yanında değil, ancak davacının yanında davaya katılarak bu sıfatı iktisap etmesi hâlinde ortaya çıkacaktır.
+
+1086 sayılı Kanunun 97 nci maddesinin birinci fıkrasında yer alan düzenlemeden farklı olarak, teminat gösterilecek hâller arasına Türkiye’de takip yapılması da eklenmiştir. Ayrıca, anılan yasal düzenlemeden yine farklı olarak, gösterilecek olan teminatın kapsamı, yargılama ve takip giderleri ile sınırlandırılmış; içeriğinin tümüyle belirsizlik arz etmesi sebebiyle, bu güne kadar hiç uygulama alanı bulmamış olması hususu da dikkate alınarak, temin edilmesi gerekenler arasına, karşı tarafın dava veya takip nedeniyle uğrayabileceği muhtemel zararlar dahil edilmemiştir. Ayrıca, bu bağlamda, davacı yanında davaya fer’î müdahil sıfatıyla katılanın temin etmesi gerekenin sadece fer’î müdahale giderleri ile sınırlı bulunduğunun altının da çizilmesi gerekir.
+
+Öte yandan, teminat gösterme zorunluluğu doğuran hâller arasına, yargılama ve takip giderlerini karşılamada doğabilecek muhtemel güçlüğü bertaraf etmek ve anılan giderlerin temin edilmesini daha işin başında güvence altına almak amacıyla, davacının daha önceden iflâsına karar verilmiş, hakkında konkordato, uzlaşma suretiyle yeniden yapılandırma işlemlerinin başlatılmış bulunması, borç ödemeden aciz belgesinin varlığı gibi ödeme güçlüğü içinde bulunduğunu gösteren belgelerin varlığı hâli de eklenmiştir. Bu hüküm, hem gerçek hem de tüzel kişi davacılar bakımından işlerlik kazanabilir. Belirtilen hâllerin, davacı yanında fer’î müdahil sıfatıyla yer alan kişinin şahsında gerçekleşmiş olması, fer’î müdahil açısından da müdahale giderleriyle sınırlı olarak teminat gösterme zorunluluğunun doğması sonucunu ortaya çıkarır.
+
+Maddenin birinci fıkrasının (b) bendinde yer alan düzenlemenin, 1086 sayılı Kanunun salt yabancı değil de, millî unsurlu ilişkileri baz alması sebebiyle, Türk tâbiyetinde bulunan davacılar ile davacı yanında fer’î müdahil sıfatıyla yer alan kişiler açısından geçerlilik taşıyacağı konusunda herhangi bir kuşku duymamak gerekir.
+
+Maddenin ikinci fıkrasında, teminat gösterilmesini gerektiren hâl ve şartların davanın görülmesi sırasında ortaya çıkması hâlinde, mahkemenin teminat gösterilmesine karar verebileceği hususu hüküm altına alınmıştır.
+
+Maddenin üçüncü fıkrasında ise aktif mecburî dava ve takip arkadaşlığında, teminat göstermeyi gerektiren hâllerin dava ve takip arkadaşlarının tamamının şahsında gerçekleşmesi hâlinde doğacağı hususu hüküm altına alınmıştır. Bu durum, sözü edilen dava veya takip arkadaşlarının tamamının tek bir tarafı oluşturması kuralının doğal bir sonucudur.
+
+YARGITAY 2. HUKUK DAİRESİ 
+Esas : 2014/25110 Karar : 2015/7519Tarih : 14.04.2015
+
+HMK 84. Madde
+
+Teminat Gösterilecek Hâller
+
+Davacı, boşanma kararı ile lehine maddi ve manevi tazminata hükmolunduğunu, kararın boşanmaya ilişkin bölümünün kesinleştiğini ileri sürerek boşanma ilamında yer alan maddi ve manevi tazminatın tahsilini temini için borçlunun malvarlığına teminatsız olarak ihtiyati haciz konulmasına karar verilmesini istemiş; mahkemece, “maddi ve manevi tazminatı ihtiva eden boşanma ilamının taraflarca temyiz edildiği ve henüz kesinleşmediği, aile hukukuna ilişkin ilamların kesinleşmeden infaz edilemeyeceği, ihtiyati haciz şartlarının oluşmadığı” gerekçesiyle istek reddedilmiş; kararı alacaklı temyiz etmiştir.
+
+Tekirdağ Aile Mahkemesinin 25.02.2014 tarihli 2013/614 esas, 2014/123 karar sayılı ilamıyla tarafların boşanmalarına karar verildiği, aynı kararla kadın lehine ilamda yazılı miktarlarda maddi ve manevi tazminata hükmedildiği, ilamın boşanmaya ilişkin bölümünün temyiz edilmediği tazminata ilişkin kısmının taraflarca temyiz edildiği; Yargıtayca 18.06.2014 tarihinde onandığı, karar düzeltme talebinde bulunulduğu bu talebin henüz incelenmediği görülmektedir.
+
+Kural olarak para alacaklarına ilişkin bir ilamın icrası için kesinleşmesi gerekmez. Boşanma kararında yer alan boşanma sebebiyle hüküm altına alınmış olan bir para alacağı, hükmün boşanmaya ilişkin bölümü kesinleşmemişse icra edilemez. Boşanma kısmı kesinleşmiş ise, para alacağına ilişkin bölümün icra olabilmesi için bu bölümün kesinleşmiş olmasına lüzum yoktur. Bu açıklamalar para alacağına ilişkin ilamların icrası içindir. Talep, ilamın icrasıyla ilgili olmayıp, ihtiyati hacze ilişkindir. Rehinle temin edilmemiş ve vadesi gelmiş bir para borcunun alacaklısı, borçlunun yedinde veya üçüncü bir şahısta olan taşınır ve taşınmaz mallarını ve alacaklarıyla diğer haklarını ihtiyaten haczettirebilir (İc.İf.K.m.257/1). Vadesi gelmemiş bir borçtan dolayı ise borçlunun muayyen bir yerleşim yeri yoksa ya da taahhütlerinden kurtulmak maksadıyla mallarını gizlemeye, kaçırmaya veya kendisi kaçmaya hazırlanır yahut kaçar ya da bu maksatla alacaklarının haklarını ihlal eden hileli işlemlerde bulunması halinde ihtiyati haciz kararı istenebilir. İhtiyati haciz isteyen alacaklı hacizde haksız çıktığı takdirde borçlunun ve üçüncü şahsın bu yüzden uğrayacakları bütün zararlardan mesul ve Hukuk Muhakemeleri Kanununun 84`ncü maddesinde yazılı teminatı vermeye mecburdur. Ancak alacak bir ilama müstenid ise teminat aranmaz (İc.İfl.K.m.259/1-2). Davacının ihtiyati haciz talebinin yukarıdaki esaslar çerçevesinde değerlendirilerek hasıl olacak neticesine göre karar verilmesi gerekirken yasal olmayan gerekçe ile yazılı şekilde hüküm kurulması usul ve yasaya aykırı bulunmuştur.
+
+Temyiz edilen hükmün yukarıda gösterilen sebeple ( BOZULMASINA ), oybirliğiyle karar verildi.
+
+YARGITAY 2. HUKUK DAİRESİ
+Esas : 2014/2721 Karar : 2014/10520Tarih : 7.05.2014
+
+HMK 84. Madde
+
+Teminat Gösterilecek Hâller
+
+Türkiye’de mutad meskeni olmayan Türk vatandaşının dava açması halinde, davalı tarafın muhtemel yargılama giderlerini karşılayacak uygun bir teminat göstermesi gerekir. (HMK.md.84-1/a) Davacının yurt içinde istenen teminatı karşılamaya yeterli taşınmaz malının bulunması halinde teminat istenemez. (HMK.md. 85/1-b) Davacının Türkiye’de mutad meskeni bulunmamaktadır. Ancak, mahkemece kendisinden talep edilen 1400 TL. teminatı karşılamaya yeterli, İstanbul İli Şişli İlçesi T… mahallesi … parsel … nolu bağımsız bölüm maliki olduğu UYAP sisteminden görülmektedir. Bu sebeple davacıdan teminat istenmesi gerekmemektedir. İşin esasının incelenmesi gerekirken, yazılı şekilde davanın usulden REDDİNE karar verilmesi doğru görülmemiştir.
+
+Temyiz edilen hükmün yukarıda gösterilen sebeple BOZULMASINA, temyiz peşin harcının yatırana geri verilmesine, işbu kararın tebliğinden itibaren 15 gün içinde karar düzeltme yolu açık olmak üzere oybirliğiyle karar verildi.
+
+YARGITAY 23. HUKUK DAİRESİ
+Esas: 2015/2192 Karar: 2016/1033Tarih: 23.02.2016
+
+HMK 84. Madde
+
+Teminat Gösterilecek Hâller
+
+Davacı vekili, taraflar arasında arsa payı karşılığı inşaat sözleşmesi imzalandığını, davalı arsa sahiplerinin sözleşmeyi feshettiğini ileri sürerek, davacının yaptığı masraf ve imalat bedelinin tahsilini talep ve dava etmiştir.
+
+Davalı vekili, davanın reddini istemiştir.
+
+Mahkemece, tüm dosya kapsamına göre, komşu binalarda oturan üçüncü kişilerin açtığı muhtelif dava dosyalarında davacı ve davalıların tazminata mahkûm edildiği, kusur tamamen davacı yüklenicide olduğu halde davalılar tarafından tazminatların ödendiği ve ödenmeye devam edildiği, davalıların sözleşme sebebiyle muhtemel zararları da olabileceğinden, 84/2. maddesi gereğince takdir edilen teminatın davacı tarafından kesin süre ve ihtara rağmen gösterilmediği gerekçesiyle, davanın 88. maddesi gereğince usulden reddine karar verilmiştir.
+
+Karar, davacı vekili tarafından temyiz edilmiştir.
+
+6100 Sayılı HMK’nun 84. maddesinde, münhasıran, davalı tarafın muhtemel yargılama giderlerini karşılayacak uygun bir teminat gösterileceği belirtilmiş, aynı maddede, hangi hallerde bu teminatın istenebileceği yine tahdidi olarak açıklanmıştır. Mahkemece, hernekadar davacı taraftan, 84/2. maddesi uyarınca teminat yatırması istenmiş, buna dair ara kararında herhangi bir şekilde yargılama giderlerinden bahsedilmeksizin davacı tarafından inşa edilen binadaki çökme sebebiyle civarda bulunan dava dışı üçüncü kişilerin zarar görmesi sebebiyle davalıların ödemek zorunda kaldıkları ve kalacakları tazminatlar karşılığı olarak teminat yatırılması için süre verildiği anlaşılmış ise de; bu uygulama 84. madde kapsamı ve amacına aykırı olmuştur. Bu itibarla,mahkemece, işin esasına girilerek, yargılamaya devam edilmesi gerekirken, sözkonusu teminatın kesin süre içinde yatırılmadığından bahisle davanın 88. maddesi gereğince usulden reddine karar verilmesi hatalı olmuş, kararın bozulması gerekmiştir.
+
+SONUÇ : Yukarıda açıklanan sebeplerle mahkeme kararının BOZULMASINA, peşin alınan harcın istenmesi halinde iadesine, vekili Yargıtay duruşmasında hazır bulunan davacı yararına takdir olunan 1.350,00 TL duruşma vekalet ücretinin davalılardan alınarak davacıya verilmesine, 23.02.2016 tarihinde oybirliğiyle karar verildi.
+
+YARGITAY 17. HUKUK DAİRESİ
+Esas: 2012/12360 Karar: 2013/14625Tarih: 31.10.2013
+
+HMK 84. Madde
+
+Teminat Gösterilecek Hâller
+
+Davacı vekili davalı R. A.’ın müvekkiline olan borcu nedeniyle hakkında yaptıkları icra takibi sırasında borcuna yetecek haczi kabil malının bulunmadığını ancak alacaklılardan mal kaçırmak amacı ile kendisine ait taşınmazları diğer davalıya sattığını öne sürerek yapılan tasarrufların iptali talep etmiş, yargılama sırasında davacı tarafından açılan itirazın iptali davası bu dosya ile birleştirilmiştir.
+
+Davalılar davanın reddini savunmuşlardır.
+
+Mahkemece HMK.nın 88. maddesi uyarınca davanın usulden reddine karar verilmiş; hüküm, davacı vekili tarafından temyiz edilmiştir.
+
+Dava İİK.nın 277 ve devamı maddeleri uyarınca açılan tasarrufun iptali isteğine ilişkindir. Mahkemece 6100 sayılı HMK.nın 88. maddesi uyarınca davacı tarafından mahkemece belirlenen teminatın yatırılmaması nedeniyle davanın reddine karar verilmiş ise de verilen karar dosya içeriğine uygun düşmemektedir. 6100 sayılı HMK.nın 84/1-a maddesi uyarınca Türkiye’de mutad meskeni olmayan Türk vatandaşının dava açması, davacı yanında davaya müdahil olarak katılması veya takip yapması halinde davalı tarafın muhtemel yargılama giderlerini karşılayacak uygun bir teminat gösterilmesi gerekir. Bu madde uyarınca teminat isteme ölçütü olarak Türkiye’de yerleşim yerinin bulunmaması değil, tüm hayat ilişkilerinin belirli bir coğrafi alanda yoğunlaşması biçiminde tanımlanan mutad meskeninin olmaması gerekir. İşçi olarak yurt dışında yaşayan ve Türkiye’de ikametgahı olan kişinin bulunduğu yabancı bir ülkeyi mutad ikmetgahı olarak seçtiği kabul edilemez. Somut olayda davacı tarafından Türkiye’de ikametgahı olduğuna ilişkin resmi belge de ibraz edilmiştir. Bu durumda mahkemece teminat aranmaksızın davanın esasına girilerek tarafların delillerinin toplanması ve hasıl olacak sonuca göre bir karar verilmesi gerekirken yazılı olduğu üzere davanın reddine karar verilmesi doğru bulunmamıştır.
+
+Sonuç: Yukarda açıklanan nedenlerle davacı vekilinin temyiz itirazlarının kabulü ile hükmün BOZULMASINA, peşin alınan harcın istek halinde temyiz eden davacıya geri verilmesine 31.10.2013 gününde oybirliği ile karar verildi.
+
+UYARI

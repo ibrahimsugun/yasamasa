@@ -1,0 +1,35 @@
+Çapraz Sorgu ve Doğrudan Soru Sorma Nedir?
+
+Tanık veya Sanığa Çapraz Sorgu ve Kavramlar
+
+Tanık veya Sanığa Çapraz Sorgunun Amacı Nedir?
+
+Çapraz Sorguda Hangi Hususlar Özellikle Denetlenmelidir?
+
+Çapraz Sorgu Nasıl Yapılır?
+
+Ceza Muhakemesi Kanunu’nda (CMK) Çapraz Sorgu
+
+Çapraz sorgu, tanık veya sanık beyanının doğruluğunu ve güvenilirliğini denetlemek, beyanlar hakkında şüphe uyandırmak, yargılamada herhangi bir tarafın kendi iddia veya savunmasına dikkat çekmek veya güçlendirmek için; tanık, sanık, müdahil (katılan) ve müştekiyi sorguya çekmesidir. Çapraz sorgu, Ceza Muhakamesi Kanunu (CMK) md. 59 ve CMK md. 201 birlikte yorumlanarak ceza muhakemesi hukuku sisteminde ortaya konulabilir.
+
+Doğrudan soru sorma hakkıise bir hususun aydınlatılmasını veya açıklanmasını sağlamak için mahkeme üyesi hakimlere, tarafların avukatına, savcılığa tanınmış bir haktır. Doğrudan soru sorma hakkı, CMK md. 201’de düzenlenmiştir.
+
+Case theory (dava teorisi):Çapraz sorgunun sağlıklı yapılabilmesi için çapraz sorguyu yapan kişinin bir dava teorisi olmalıdır. Dava teorisi olmadan yapılan çapraz sorgu, sorguyu yapan tarafın aleyhine sonuçlar ortaya çıkmasına neden olur. Dava teorisi iddia veya savunmanın hangi yol ve yöntemlerle ileri sürüleceğini, hangi sonucun elde edilmek istendiğine dair genel bir çerçeve olarak düşünülebilir.
+
+Direct examination / Examination-in chief (doğrudan sorgu- anlattırıcı sorgu):CMK sisteminde doğrudan soru sorma ile çapraz sorgu tamamen birbirine karışmış durumdadır. CMK 201. madde doğrudan soru sorma başlığını taşımaktadır. Maddedeki doğrudan soru sorma hakkı ile çapraz sorgu aynı şey değildir. Aşağıdaki videoda çapraz sorgu ile doğrudan soru sorma arasındaki fark ayrıntılı bir şekilde işlenmiştir. CMK sisteminde doğrudan sorgu (anlattırıcı sorgu) sadece hakim tarafından yapılabilmektedir. Doğrudan soru sorma hakkı ise müdahil vekiline, savcıya ve mahkemenin üye hakimlerine ve savunma avukatına tanınan bir haktır.
+
+Cross examination (çarpraz sorgu):Amerikan Federal Delil Kurallarının 611. maddesi ve Türkiye’de CMK md.59’da maddesi tanınan bir haktır.
+
+Hostile Witness:Amerikan sisteminde, dinlenen tanığın, tanığı getiren taraf aleyhine beyanda bulunması halinde, tanığı getiren tarafın tanığa çapraz sorgu yapılabilmesi için hakimden kendi tanığının “karşı taraf tanığı” (hostile witness) olarak ilan edilmesini isteyebilir. Tanık, hakim tarafından “hostile witness” ilan edilince çapraz sorgu yapmak mümkün hale gelir.
+
+İmpechmant:Tarafların soru sorarak tanık beyanı hakkında şüphe uyandırmasıdır. Esassen çapraz sorgunun temel amaçlarından biridir.
+
+Çapraz sorgunun nasıl yapılacağı, esasen her olayın özelliği ve çapraz sorgu yapacak kişinin niteliklerine göre belirlemek gerekir. Her çapraz sorgu, kendi dava teorisi üzerinden özgün bir çapraz sorgu tekniği üretir. Bu nedenle, birbirinden farklı çapraz sorgu teknikleri olduğunu söylemek mümkündür. Ancak, çapraz sorgu teknikleri uygulanırken dikkat edilmesi gereken belli başlı hususular olduğunu söylemek gerekir:
+
+Doğrudan soru sorma ve çapraz sorgu sisteminin ne olduğu, çapraz sorgunun nasıl yapılması gerektiği ve çapraz sorgu teknikleri konularını ayrıntılı olarak değerlendirdiğimiz seminerin videosu aşağıdadır.
+
+Çapraz sorgu, Amerikan hukukunda özellikle olayın tanığı olan (sanık, tanık, müşteki) kişilerin beyanının doğruluğunu ve güvenilirliğini denetlemek amacıyla kullanılan bir yöntemdir. Türkiye’de ise 5271 sayılı Ceza Muhakamesi Kanunu md. 59/2 şu şekildedir:
+
+“Tanıklık edilen konuları aydınlatmak, tamamlamak ve bilgilerinin dayandığı durumları gereğince değerlendirebilmek için tanığa ayrıca soru yöneltilebilir.”
+
+Uygulamada CMK md. 201 ile birlikte “doğrudan soru yöneltme” sisteminin bir unsuru olarak değerlendirilen bu hüküm, esasen bir çapraz sorgu düzenlemesi olarak kabul edilmelidir. Çünkü, CMK md. 59/2, bir taraftan doğrudan soru sorma hakkını tamamlayıcı bir hüküm olarak işlev görürken, diğer taraftan tanığın sahip olduğu bilgiyi denetleme imkanı sunduğu için Türkiye’ye özgü çapraz sorgu sisteminin yasal dayanağı olmaktadır.

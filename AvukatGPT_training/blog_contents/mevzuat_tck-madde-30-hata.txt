@@ -1,0 +1,491 @@
+Hata
+
+TCK Madde 30
+
+TCK Madde 30 Gerekçesi
+
+TCK 30 (Hata, Esaslı Hata, Kaçınılmaz Hata) Emsal Yargıtay Kararları
+
+(1) Fiilin icrası sırasında suçun kanuni tanımındaki maddi unsurları bilmeyen bir kimse, kasten hareket etmiş olmaz. Bu hata dolayısıyla taksirli sorumluluk hali saklıdır.
+
+(2) Bir suçun daha ağır veya daha az cezayı gerektiren nitelikli hallerinin gerçekleştiği hususunda hataya düşen kişi, bu hatasından yararlanır.
+
+(3) Ceza sorumluluğunu kaldıran veya azaltan nedenlere ait koşulların gerçekleştiği hususunda kaçınılmaz bir hataya düşen kişi, bu hatasından yararlanır.
+
+(4) (Ek fıkra: 29/6/2005 – 5377/4 md.) İşlediği fiilin haksızlık oluşturduğu hususunda kaçınılmaz bir hataya düşen kişi, cezalandırılmaz.
+
+5237 sayılı Türk Ceza Kanunu (TCK) Tam Metin
+
+Makale :Ceza Hukukunda Hata (Yanılma) Halleri
+
+Madde metninde çeşitli hata hâlleri düzenlenmiştir.
+
+Birinci fıkrada suçun maddî unsurlarında hataya ilişkin hükme yer verilmiştir. Kast, suçun kanuni tanımındaki maddî unsurların bilerek ve istenerek gerçekleştirilmesidir. Bu unsurlara ilişkin bilgisizlik, eksik veya yanlış bilgi sahibi olunması durumu ise, maddî unsurlarda hata olarak adlandırılır. Böyle bir hata kastın varlığına engel olur. Örneğin, kişi vestiyerden kendisininki zannederek başkasının paltosunu alır. Keza, kişi gece karanlığında vahşi bir hayvan zannıyla hareketli bir cisme ateş eder. Ancak, gerçekte bu hareket eden cisim bir insandır ve dolayısıyla; bu insan ölür veya yaralanır. Örnek olarak verilen bu olaylarda failin bilgisi gerçeğe uysaydı; işlediği fiil haksızlık teşkil etmeyecekti. Bu nedenle hata hâlinde kasten işlenmiş bir suçtan söz etmek mümkün değildir.
+
+Fıkrada ayrıca, maddî unsurlarda hata hâlinde, taksirle sorumluluğa ilişkin hükme yer verilmiştir. Buna göre, meydana gelen neticeye ilişkin olarak gerekli dikkat ve özen gösterilmiş olsaydı böyle bir netice ile karşılaşılmazdı şeklinde bir yargıya ulaşılabiliyorsa; taksirle işlenmiş bir suç söz konusu olur. Ancak bu durumda neticenin taksirle gerçekleştirilmesinin kanunda suç olarak tanımlanmış olması gerekir. Bu nedenle, kendisinin sanarak başkasının çantasını alan kişinin yanılgısında taksirin varlığı kabul edilse bile; kanunda hırsızlık fiilinin ancak yararlanma kasdıyla işlenebileceği belirtildiği için; böyle bir olay dolayısıyla ceza sorumluluğu doğmayacaktır. Buna karşılık, av hayvanı zannederek gerçekte bir insana ateş edip onun ölümüne neden olan kişinin bu hatasında taksiri varsa, adam öldürme kanunda taksirle işlenen bir suç olarak da tanımlandığı için, böyle bir olayda fail, taksirle adam öldürme suçundan dolayı sorumlu tutulacaktır.
+
+Kastın varlığına engel olan hata, suçun sadece temel şekline ilişkin unsurlar hakkında değil, aynı zamanda failin daha ağır veya hafif ceza ile cezalandırılmasını gerektiren nitelikli unsurları bakımından da ortaya çıkabilir. İkinci fıkra ile kişinin, suçun nitelikli unsurlarına ilişkin hatasından yaralanması öngörülmüştür.
+
+Hükûmet Tasarısının 23 üncü maddesinin birinci fıkrasında 765 sayılı Türk Ceza Kanununun 52 nci maddesinde düzenlemeye paralel olarak şahısta hata ve hedefte sapma hâli düzenlenmiştir.
+
+“Şahısta hata” aslında bir ve ikinci fıkra hükümleri bağlamında düşünülmesi gereken bir durum olduğu için, bu hususa ilişkin ayrı bir hükme yer verilmesi gereksiz görülmüştür. 
+Keza, hedefte sapma hâli ile ilgili olarak bu madde kapsamında düzenleme yapılmasına gerek görülmemiştir. Çünkü hedefte sapma hâlinde bir hata söz konusu değildir. Bu durumda suçların içtimaı hükümleri kapsamında değerlendirilmesi gereken bir sorun söz konusudur. Nitekim, uygulamada da hedefte sapma, suçların içtimaı ve özellikle fikri içtima bağlamında ele alınmaktadır.
+
+Hükûmet Tasarısının 23 üncü maddesinin 3 üncü fıkra veya bendinde düzenlenen “hukuka uygunluk nedenlerinde hata” ile ilgili hüküm, bölüm başlığına paralel olarak değiştirilmiştir. Madde metnindeki “hukuka uygunluk nedenleri” yerine, “ceza sorumluluğunu kaldıran veya azaltan nedenler” ibaresi konulmuştur. Somut olayda söz konusu nedenlere ait koşulların gerçekleştiği hususunda hataya düşen kişi, bu hatasından yararlanabilecektir. Ancak, bunun için hatanın kaçınılmaz olması gerekir.
+
+Hatanın kaçınılabilir olması durumunda ise, kişi işlediği fiilden dolayı sorumlu tutulacak ve fakat bu hata, temel cezanın belirlenmesinde göz önünde bulundurulacaktır.
+
+Ceza Genel Kurulu         2018/27 E.  ,  2019/644 K.
+
+Maddede çeşitli hata hâlleri düzenlenmiş olup, maddenin birinci fıkrasındasuçun maddi unsurlarında hatayailişkin hükme yer verilmiştir.
+
+Maddenin ikinci fıkrası ile kişinin, suçun daha ağır veya daha az cezayı gerektirennitelikli hâllerinin gerçekleştiği hususundaki hatasındanyararlanması öngörülmüştür. Buna göre; kardeşi olduğunu bilmediği birisini öldüren fail, kasten öldürme suçunun nitelikli hâllerinden olan kardeşini öldürmekten değil, kasten öldürmenin basit hâlinden sorumlu olacak, değersiz zannederek değerli bir kolyeyi çalan fail hakkında da değer azlığı hükmü uygulanacaktır.
+
+Üçüncü fıkrada ceza sorumluluğunu kaldıran ya da azaltan nedenlere ait şartların gerçekleştiği konusundakaçınılmaz bir hatayadüşen kişinin, bu hatasından yararlanacağı hüküm altına alınmış, fıkrada hem hukuka uygunluk sebebinin maddi şartlarında hata, hem de kusurluluğu etkileyen hata hâlleri düzenlenmiştir. Failin bu hükümden yararlanabilmesi için, içerisinde bulunduğu şartlar bakımından hatasının kaçınılmaz olması gerekmektedir.
+
+5377 sayılı Kanun ile eklenen dördüncü fıkrada ise, kişinin işlediği fiilden dolayı kusurlu ve sorumlu tutulabilmesi için, bu fiilin bir haksızlık oluşturduğunu bilmesi gerektiği vurgulanmıştır. Buna göre fail, işlediğifiilin haksızlık oluşturduğu konusunda kaçınılmaz bir hatayadüşmüş, diğer bir ifadeyle eyleminin hukuka aykırı olmadığı, haksızlık oluşturmadığı, meşru olduğu düşüncesiyle hareket etmiş ve bu yanılgısı içinde bulunduğu şartlar bakımından kaçınılmaz nitelikte bulunmuş ise artık cezalandırılmayacaktır. Hatanın kaçınılmaz olduğunun tespitinde kişinin bilgi düzeyi, gördüğü eğitim, içerisinde bulunduğu sosyal ve kültürel çevre şartları göz önünde bulundurulacaktır.
+
+Üçüncü ve dördüncü fıkraların uygulanması yönüyle kişinin kaçınılmaz bir hataya düşmesi şartı aranmakta olup, hatanın kaçınılabilir olması durumunda kişi kusurlu sayılacak, diğer bir ifadeyle fiilinden dolayı sorumlu tutulacak, ancak bu hata temel cezanın tayininde dikkate alınacaktır.
+
+Bu aşamada maddenin uyuşmazlıkla ilgili üçüncü fıkrasının daha ayrıntılı ele alınmasında fayda bulunmaktadır.
+
+5237 sayılı TCK’nın 30. maddesinin üçüncü fıkrasında “Ceza sorumluluğunu kaldıran veya azaltan nedenlere ait koşulların gerçekleştiği hususunda kaçınılmaz bir hataya düşen kişi, bu hatasından yararlanır” hükmü yer almaktadır. Fıkrada hem hukuka uygunluk sebebinin maddi şartlarında hata, hem de kusurluluğu etkileyen hata hâlleri düzenlenmiştir. Hatanın kaçınılmaz olması hâlinde, fail bu hatasından yararlanacaktır.Hataya düşmenin kaçınılmaz olmasını, kusursuz olmak şeklinde anlamak gerekir.(Nevzat Toroslu, Ceza Hukuku, Genel Kısım, Savaş Yayınevi, Ankara 2016, sayfa 194.) Bunun için fail, fiili işledigi sırada ceza sorumluluğunu kaldıran veya azaltan nedenlere ait koşulların gerçekleştiği hususundaki hatası nedeniyle kınanamamalı, dikkatsiz ve özensiz davranmış olmamalıdır.
+
+Bu açıklamalar akla şu sorunu getirmektedir. Peki, ceza sorumluluğunu kaldıran veya azaltan nedenlere ait koşulların gerçekleştiği hususunda hataya düşmekte kusurlu davranan kişinin sorumluluğu nasıl tayin edilecektir? Gerçekten de madde hükmünde ifade edilen durumda, failin ceza sorumluluğundan kurtulabilmesi, hataya düşmekte hiçbir şekilde kusurlu olmaması şartına bağlanmaktadır. Buna karşın ceza sorumluluğunu kaldıran veya azaltan nedenlere ait koşulların gerçekleştiği hususunda hataya düşmekte dikkatsiz ve özensiz davrandığının tespit edilmesi durumunda fail, fiilden dolayı kasten mi sorumlu olacaktır? Örneğin, fail biraz daha dikkat etmiş veya özenli davranmış olsaydı kendisine yönelmiş bir saldırının olmadığını anlayabilecekken, karşısındaki kişiye saldırarak o kişinin ölümüne veya yaralanmasına yol açtığı takdirde, dikkatsizliği veya özensizliği yüzünden düştügü hata nedeniyle fiilin kasıtlı şeklinden mi sorumlu tutulacaktır? Kanun’un madde gerekçesindeki “Hatanın kaçınılabilir olması durumunda ise, kişi işledigi fiilden dolayı sorumlu tutulacak ve fakat bu hata, temel cezanın belirlenmesinde göz önünde bulundurulacaktır” şeklindeki açıklama karşısında, Kanun koyucu tarafından Kanun’un 30. maddesinin 3. fıkrasında düzenlenen durumlarda hataya düşülmesinin “kaçınılmaz” olması şartının arandığı, hataya düşmekte kusurlu olması hâlinde ise failin kasten sorumlu tutulmak istendiği, anlamına geldiği savunulmuştur. (Nevzat Toroslu, Ceza Hukuku, Genel Kısım, Savaş Yayınevi, Ankara 2016, sayfa 194; Devrim Güngör, Ceza Hukukunda Fiil Üzerinde Hata, Ankara, 2007, Yetkin Yayınları, s. 69-70.)
+
+Ceza sorumluluğunu azaltan nedenlerden olan haksız tahrikin varlığı konusunda da hataya düşülebilir. Haksız tahrikin varlığı konusunda kaçınılmaz hataya düşen fail haksız tahrik hükmünden yararlanacaktır. Fakat burada hatanın kaçınılmaz olması zorunludur. Buna karşılık, hata kaçınılabilir bir hata ise, yani failin kişisel özellikleri göz önüne alındığında, daha dikkatli ve özenli davranması durumunda hatasından kaçınabilecekse başka bir anlatımla hata meydana gelmeyecekse artık haksız tahrik hükümlerinden yararlanamayacaktır.
+
+Öğretide bu konuya ilişkin olarak; “… örneğin, kendisine köy kahvesinde küfür eden B’yi kahve çıkışında dövmek için geçeceği yol üzerinde bekler. Yoldan geçenin görünüş olarak B’ye çok benzeyen C olduğunu gece karanlığının da etkisiyle fark etmeyip ona sopayla birkaç kez vursa kaçınılmaz bir hata içinde olduğu kabul edilebilirse A haksız tahrik hükmünden yararlanabilecektir. Ancak gerekli özeni gösterseydi gece de olsa yoldan geçenin C olduğunu fark edebilecek idiyse artık tahrikten yararlanamaz” (Veli Özer Özbek, Ceza Hukuku Dergisi, sayı 7, Türk Ceza Hukukunda Hata, s. 93.), “Kusurluluğu azaltan bir nedenin maddi koşullarında hataya düşülmüşse (örneğin, haksız tahrik, …m.29), kişi yanılgısı kaçınılmaz nitelikteyse bundan istifade eder ve ilgili kusurluluğu azaltan hâlden faydalanır. Bununla birlikte, hatası kaçınılabilir mahiyette ise, artık kusurluluğu azaltan sebepten faydalanamaz” (M.Emin Artuk-Ahmet Gökcen-A.Caner Yenidünya, Ceza Hukuku Genel Hükümler, 7. Baskı, s. 531.) şeklinde görüşlere yer verilmiştir.
+
+Bu açıklamalar ışığında uyuşmazlık konuları birlikte değerlendirildiğinde;
+
+Sanık … ile maktul …‘in yaklaşık 25 yıldır evli oldukları, 7 ve 14 yaşlarında müşterek iki çocuklarının bulunduğu, İstanbul ili, Büyükçekmece ilçesi, Kumburgaz Semtinde etrafı duvarla çevrili bir arsada bulunan Güneysu Villaları isimli sitede ikamet ettikleri, sitedeki 4 villadan birinde sanığın iş ortağı da olan maktulün kardeşi …‘ın, diğer bir villada ise yine sanığın iş ortağı tanık…’in ikamet ettikleri, şehir merkezine uzaklığı nedeniyle site ve çevresinde zaman zaman hırsızlık olaylarının meydana geldiği, olaydan 14 gün önce de sanık ve ailesi evde bulunduğu sırada içeri giren kişi veya kişilerce sanığın yatak odasında bulunan pantolonunun cebinden yaklaşık 400 TL tutarında paranın çalındığı, sanığın bu olayla ilgili olarak Kumburgaz Jandarma Karakoluna giderek şikâyetçi olduğu, Büyükçekmece Cumhuriyet Başsavcılığının 2008/11520 hazırlık sayılı dosyası üzerinden olayın soruşturulmaya başlandığı, olay gecesi eve yorgun gelen sanığın saat 00.30 sıralarında uyumak maksadıyla ikametinin 1. katındaki yatak odasına gittiği, maktulün yatağın sağ tarafına, sanığın ise yatağın sol tarafına yattığı, sabah saat 04.00 sıralarında sanığın dışarıdan sızan ışığın etkisi ile alaca karanlık olan yatak odası penceresinden ses geldiğini duyması üzerine, tedbir amacıyla yastığının altında muhafaza ettiği yarı otomatik tabancasını perde ile kapatılmış pencereye doğrultarak yaklaşık 4 metre mesafeden 13 kez tetiğe basarak silahının şarjöründe bulunan 13 merminin hepsini tek tek ateşlediği, maktulün vücudunun ön yüzünde olacak şekilde çene sağ kısım, sol bacak üst kısım ve karın bölgesine isabet eden her biri müstakilen öldürücü nitelikteki 3 ayrı ateşli silah mermi çekirdeği ile yaralandığı ve olaydan sonra çağrılan cankurtaranla kaldırıldığı Selimpaşa Travmatoloji Hastanesinde, mandibula, pelvis, kaburga ve vertebra kırıkları ile birlikte iç organ, büyük damar yaralanmasından gelişen iç kanama sonucu yaşamını yitirdiği anlaşılan olayda; eşi ve iki çocuğuyla birlikte yaşayan sanığın, etrafı duvarla çevrili sitede bulunan 3 katlı müstakil evinin birinci katında yer alan yatak odasında, eşi maktul ile bulunduğu sırada, pencereden ses gelmesi üzerine, yanında yatan eşi maktulün yatakta bulunup bulunmadığını kontrol etmek, ışığı açarak odayı aydınlatmak, işittiğini belirttiği sesin geldiği yöne seslenmek gibi basit bir dikkat veya özenli davranış göstermiş olması durumunda, kendisine yönelmiş bir saldırının bulunmadığını anlayabilecek durumda olmasına karşın, herhangi bir uyarıda bulunmadan, dışarıdan sızan ışığın etkisi ile alaca karanlık olan yatak odasında, yastığının altında muhafaza ettiği yarı otomatik tabancayı eline alıp 13 kez ateşleyerek yaklaşık 4 metre mesafedeki maktulü her biri öldürücü nitelikte 3 isabetle yaralayarak öldürmüş olması karşısında; sanığın daha dikkatli ve özenli davranması durumunda ateş ettiği kişinin, kendisine yönelmiş, gerçekleşen, gerçekleşmesi veya tekrarı muhakkak olan haksız bir saldırı içindeki bir hırsız olmadığını anlayabileceği, bu nedenle sanığın bu hatasının kaçınılmaz nitelikte bir hata olmadığı, sanığın TCK’nın 30. maddesinin 3. fıkrasında düzenlenen ceza sorumluluğunu kaldıran veya azaltan nedenlere ait koşulların gerçekleştiği hususundaki hata hükmünden yararlanamayacağı kabul edilmelidir.
+
+Diğer yandan, saat 04.00 sıralarında pencereden sesler duyarak uyanan ve 14 gün önce yaşanan hırsızlık olayında olduğu gibi evine yine hırsız girdiği zannıyla pencerenin önünde bulunan kişiye ateş eden sanığın, kasten öldürme suçunun kanuni tanımındaki unsurları bilerek ve isteyerek hareket etmiş olması nedeniyle öldürme suçunu olası kastla değil fakat doğrudan kastla işlediği; ancak pencere önündeki kişinin eşi … olduğu hususunda ise TCK’nın 30. maddesinin 2. fıkrasında hüküm altına alınan “Bir suçun daha ağır veya daha az cezayı gerektiren nitelikli hâllerinin gerçekleştiği hususunda hataya düşen kişi, bu hatasından yararlanır.” hükmü uyarınca suçun nitelikli hâlinde hataya düşerek işlediğinin, bu hatanın kaçınılmaz özellikte bir hata değil normal bir hata olmasının yeterli olacağının anlaşılması karşısında, TCK’nın 82. maddesinin (d) bendinden sorumlu tutulamayan sanığın doğrudan TCK 81. maddesi gereğince cezalandırılması yerine aynı Kanun’un 21/2. maddesi delaletiyle 81. maddesi uyarınca olası kastla öldürme suçundan cezalandırılmasına karar verilmiş olması, suç niteliğinin değişmemesi ve aleyhe temyiz bulunmaması nedeniyle bozma nedeni yapılmamıştır.
+
+Ceza Genel Kurulu - Karar: 2017/412
+
+Sanık kollukta; lisans tahsilinin olduğunu, Amerika Birleşik Devletleri’nin W. eyaletinde ikamet
+ettiğini, özel bir güvenlik şirketinde çalıştığını, ABD’de silah taşıma ruhsata tabi olmadığı için Türkiye’ye
+silahları ile birlikte gelmekte bir sakınca görmediğini, bunun yasak olduğunu da bilmediğini, bu konuda
+THY görevlileri tarafından uyarılmadığını, iki valiz ve içinde dört adet silah bulunan çantası ile uçağa biniş
+işlemlerini yaptırdığını, çantasında dört silah bulunduğunu görevliye bildirdiğini, silah teslim tutanağı
+düzenleyerek uçağa bindiğini, İstanbul Atatürk Havalimanına inince yürüyen bant kenarında valizlerini
+beklediğini, valizleri gelmeyince THY ofisine gittiğini, buradaki görevlinin valizlerle beraber kendisini
+polise götürdüğünü,
+
+Sorguda; 12 yıldır ABD’de yaşadığını, İstanbul’daki ailesini görmek için üç günlüğüne Türkiye’ye
+geldiğini, silahlara merakı olduğunu, bu yüzden ABD’den aldığı dört silahı Türkiye’ye getirmek istediğini,
+THY C. ofisine giderek yanında dört silah olduğunu bildirdiğini, her bir silah için ayrı ayrı silah teslim
+tutanağı düzenlendiğini, bu bildirimlerden 1 adedini mahkemeye ibraz edeceğini, diğer üç belgenin
+nerede olduğunu bilmediğini, belki emniyette kalmış olabileceğini,
+
+Mahkemede; eğitimini ABD’de yaptığını ve orada bir şirkette çalışmaya başladığını, silaha meraklı
+olduğu için satın aldığı dört adet silahı Türkiye’ye gelirken bir kutu içerisinde yanında getirmeye karar
+verdiğini, havaalanında yetkililere durumu bildirdiğini, amacının silahları emanet olarak havaalanında
+tutup yasal prosedür tamamladıktan sonra üzerinde taşımak olduğunu, Türkiye’ye bir haftalık tatil için
+geldiğini, iki silah için ruhsata başvurup diğer ikisini geri götüreceğini, tüm silahlar aynı çelik kutuda
+olduğu için sadece bir silah için teslim belgesi düzenlediğini, C. Havaalanındaki görevli bayanın kendisine
+bunun yeterli olduğunu söylediğini, suç işleme kastının bulunmadığını,
+
+Sanık müdafisi ise 01.06.2011 tarihli oturumda; sanığın TCK’nın 30. maddesinin dördüncü fıkrası
+kapsamında kaçınılmaz hataya düştüğünü,
+
+Savunmuşlardır.
+
+…
+
+Bu aşamada, TCK’nın 30. maddesinde düzenlenen “hata” hükmüne ilişkin açıklamalarda da
+bulunulması gerekmektedir.
+
+5237 sayılı TCK’nın “Hata” başlıklı 30. maddesi üç fıkra halinde;
+“Fiilin icrası sırasında suçun kanunî tanımındaki maddî unsurları bilmeyen bir kimse, kasten hareket etmiş
+olmaz. Bu hata dolayısıyla taksirli sorumluluk hâli saklıdır. Bir suçun daha ağır veya daha az cezayı gerektiren nitelikli hâllerinin gerçekleştiği hususunda hataya
+düşen kişi, bu hatasından yararlanır.Ceza sorumluluğunu kaldıran veya azaltan nedenlere ait koşulların gerçekleştiği hususunda kaçınılmaz
+bir hataya düşen kişi, bu hatasından yararlanır.” şeklinde düzenlenmiş iken, 08.07.2005 tarih ve 25869
+sayılı Resmi Gazetede yayımlanarak yürürlüğe giren 5377 sayılı Kanun’un 4. maddesi ile eklenen; “İşlediği
+fiilin haksızlık oluşturduğu hususunda kaçınılmaz bir hataya düşen kişi, cezalandırılmaz.” biçimindeki
+dördüncü fıkra ile son halini almıştır.
+
+Maddede çeşitli hata halleri düzenlenmiş olup, maddenin birinci fıkrasında suçun maddi unsurlarında
+hataya ilişkin hükme yer verilmiştir.
+
+İkinci fıkra ile kişinin, suçun daha ağır veya daha az cezayı gerektiren nitelikli hallerinin gerçekleştiği
+hususundaki hatasından yararlanması öngörülmüş olup, buna göre örneğin, öldürdüğü kişinin kardeşi
+olduğunu bilmeyen fail, kasten öldürme suçunun nitelikli hallerinden olan kardeşini öldürmekten değil,
+kasten öldürmenin temel şeklinden sorumlu olacak, değersiz zannederek değerli bir kolyeyi çalan fail
+hakkında da değer azlığı hükmü uygulanacaktır.
+
+Üçüncü fıkrada, ceza sorumluluğunu kaldıran veya azaltan nedenlere ait şartların gerçekleştiği
+konusunda kaçınılmaz bir hataya düşen kişinin, bu hatasından yararlanacağı hüküm altına alınmış olup,
+fıkrada hem hukuka uygunluk sebebinin maddi şartlarında hata, hem de kusurluluğu etkileyen hata
+halleri düzenlenmiştir. Failin bu fıkra hükmünden yararlanabilmesi için, bulunduğu durum itibarıyla
+hatasının kaçınılmaz olması şartı aranmıştır.
+
+Maddeye 5377 sayılı Kanun ile eklenen dördüncü fıkrada ise, işlediği fiilin haksızlık oluşturduğu
+hususunda kaçınılmaz bir hataya düşen kişinin cezalandırılmayacağı hüküm altına alınmıştır.
+Uyuşmazlığa ilişkin olarak maddenin dördüncü fıkrasının daha ayrıntılı ele alınması gerekmektedir.
+
+Maddenin dördüncü fıkrasının gerekçesinde; “Kişinin işlediği fiilden dolayı kusurlu ve sorumlu tutulabilmesi için, bu fiilin bir haksızlık oluşturduğunu
+bilmesi gerektiği vurgulanmıştır. Buna göre, kişi işlediği fiilin hukuken kabul görmez bir davranış olduğunun
+bilincinde olmalıdır. Kişinin, işlediği fiilin haksızlık oluşturduğunu bilmesine rağmen, bunun kanunda suç
+olarak tanımlandığını bilmemesinin bir önemi bulunmamaktadır. Ceza hukuku bakımından sorumluluk için
+önemli olan, işlenen fiilin haksızlık oluşturduğunun bilinmesidir.
+
+Ancak, işlediği fiilin haksızlık oluşturduğu hususundaki hatasının kaçınılmaz olması hâlinde, kişi kusurlu
+sayılamaz. Hatanın kaçınılamaz olduğunun belirlenmesinde ise kişinin bilgi düzeyi, gördüğü eğitim, içinde
+bulunduğu sosyal ve kültürel çevre koşulları göz önünde bulundurulur.
+Hatanın kaçınılabilir olması durumunda kişi kusurlu sayılacak ve bu husus, temel cezanın belirlenmesinde
+göz önünde bulundurulacaktır.” açıklamalarına yer verilmiştir.
+
+Bu fıkrada, kişinin işlediği fiilden dolayı kusurlu ve sorumlu tutulabilmesi için, bu fiilin bir haksızlık
+oluşturduğunu bilmesi gerektiği vurgulanmıştır. Buna göre, kanuni tanımda yer alan tüm şartların bilgisi
+içinde hareket eden ve kastı bulunan fail, işlediği fiilin haksızlık oluşturduğu konusunda kaçınılmaz bir
+hataya düşmüşse, diğer bir ifadeyle, eyleminin haksızlık oluşturmadığı, meşru olduğu düşüncesiyle
+hareket etmişse ve bu yanılgısı içinde bulunduğu şartlar bakımından kaçınılmaz nitelikte ise artık
+cezalandırılmayacaktır. Hatanın kaçınılmaz olduğunun belirlenmesinde, kişinin bilgi düzeyi, gördüğü
+eğitim, içinde bulunduğu sosyal ve kültürel çevre şartları göz önünde bulundurulacaktır. Hatanın
+kaçınılabilir olması durumunda kişi kusurlu sayılacak, diğer bir ifadeyle fiilden dolayı sorumlu tutulacak,
+ancak bu hata temel cezanın belirlenmesinde dikkate alınacaktır.
+
+…
+
+6136 sayılı Kanun’un 12. maddesinde düzenlenen suç, seçimlik hareketli suçlardan olup anılan madde
+gereğince, ateşli silahlarla bunlara ait mermilerin ülkeye sokulması veya sokmaya teşebbüs edilmesi ya da
+ülkeye sokulmasına aracılık edilmesi, ateşli silahlarla bunlara ait mermilerin ilgili Kanun hükümleri dışında
+ülkede yapılması veya bu suretle ülkeye sokulmuş ve ülkede yapılmış olan ateşli silahlar veya mermilerin
+bir yerden diğer bir yere taşınması ya da yollanması veya taşımaya bilerek aracılık edilmesi, satılması,
+satmaya aracılık edilmesi veya bu amaçla bulundurulması yasaklanmıştır. Maddede yazılı hareketlerden
+herhangi birinin gerçekleştirilmesi ile suç oluşmaktadır.
+
+Bu açıklamalar ışığında uyuşmazlık konusu değerlendirildiğinde;
+
+Olay tarihinde 30 yaşında ve Türkiye Cumhuriyeti vatandaşı olan sanığın, eğitim için gittiği Amerika
+Birleşik Devletleri’nde kalarak sürekli ikamet izni aldığı ve özel bir güvenlik şirketinde çalışmaya başladığı,
+silahlara özel ilgi duyduğunu belirten sanığın, yaklaşık 12 yıl boyunca ikamet ettiği Amerika Birleşik
+Devletleri’nden kısa süreli tatil için Türkiye’ye gelmeye karar verdiği, sanığın yolculuk günü olan 04.03.2011
+günü iki adet S.-W. marka tabancayı ABD’de bulunan G.M. isimli iş yerinden satın aldığı, bir adet R. marka
+tabanca ile bir adet B. marka tabancayı ise aynı gün Z.J.H. isimli şahıstan ABD’de satın alıp devraldığı, Chicago
+O. Havalimanına satın aldığı bu dört silahın bulunduğu çanta ve iki valizle gelen sanığın, Türk Hava Yolları
+bürosunda biniş işlemlerini yaptığı sırada yanında bulunan tabancalardan sadece bir adet 9 mm çapındaki
+S.-W. marka tabancaya ilişkin görevliye bildirimde bulunduğu ve bu silah için teslim tutanağı düzenlediği,
+diğer üç tabanca ile ilgili olarak ise silah teslim tutanağında herhangi bir bildirimde bulunmadığı, C.’deki
+THY görevlilerinin, sanığın yanında silah getirdiğini mesajla THY’nin İstanbul Atatürk Havalimanındaki
+görevlilerine bildirmeleri üzerine, mesajı alan görevlilerin silahlarla ilgili herhangi bir izin belgesinin
+bulunmadığını tespit ederek sanık hakkında tutanak tuttukları olayda; sanığın Türkiye Cumhuriyeti
+vatandaşı olup 18 yaşına kadar Türkiye’de yaşamış olması, yüksek öğrenim görmesi, suça konu dört adet
+tabancayı da Türkiye’ye gelmeden hemen önce satın alması ve silahlardan sadece biri hakkında havalimanı
+görevlilerine bildirimde bulunması, güvenlik şirketinde çalıştığını ve silahlara özel ilgisi olduğunu belirtmesi
+karşısında, sanığın bilgi düzeyi, gördüğü eğitim, içerisinde bulunduğu sosyal ve kültürel çevre şartları
+dikkate alındığında, sanığın Türkiye’ye silah sokmanın yasak olduğunu bilmediğine ilişkin savunmaların
+inandırıcı olmadığı, bu nedenle atılı suçun bütün unsurları ile oluştuğu ve fiilinin haksızlık oluşturduğu
+hususunda kaçınılmaz hataya düştüğünden söz edilemeyeceğinin kabulü gerekmektedir.
+
+Ceza Genel Kurulu - Karar: 2016/1236
+
+Bu aşamada uyuşmazlığa ilişkin olarak maddenin birinci fıkrasının daha ayrıntılı ele alınmasında fayda bulunmaktadır.
+
+Maddenin birinci fıkrasının gerekçesinde; “Kast, suçun kanuni tanımındaki maddî unsurların bilerek ve istenerek gerçekleştirilmesidir. Bu unsurlara ilişkin bilgisizlik, eksik veya yanlış bilgi sahibi olunması durumu ise, maddî unsurlarda hata olarak adlandırılır. Böyle bir hata kastın varlığına engel olur. Örneğin, kişi vestiyerden kendisininki zannederek başkasının paltosunu alır. Keza, kişi gece karanlığında vahşi bir hayvan zannıyla hareketli bir cisme ateş eder. Ancak, gerçekte bu hareket eden cisim bir insandır ve dolayısıyla; bu insan ölür veya yaralanır. Örnek olarak verilen bu olaylarda failin bilgisi gerçeğe uysaydı; işlediği fiil haksızlık teşkil etmeyecekti. Bu nedenle hata hâlinde kasten işlenmiş bir suçtan söz etmek mümkün değildir. Fıkrada ayrıca, maddî unsurlarda hata hâlinde, taksirle sorumluluğa ilişkin hükme yer verilmiştir. Buna göre, meydana gelen neticeye ilişkin olarak gerekli dikkat ve özen gösterilmiş olsaydı böyle bir netice ile karşılaşılmazdı şeklinde bir yargıya ulaşılabiliyorsa; taksirle işlenmiş bir suç söz konusu olur. Ancak bu durumda neticenin taksirle gerçekleştirilmesinin kanunda suç olarak tanımlanmış olması gerekir. Bu nedenle, kendisinin sanarak başkasının çantasını alan kişinin yanılgısında taksirin varlığı kabul edilse bile; kanunda hırsızlık fiilinin ancak yararlanma kasdıyla işlenebileceği belirtildiği için; böyle bir olay dolayısıyla ceza sorumluluğu doğmayacaktır. Buna karşılık, av hayvanı zannederek gerçekte bir insana ateş edip onun ölümüne neden olan kişinin bu hatasında taksiri varsa, adam öldürme kanunda taksirle işlenen bir suç olarak da tanımlandığı için böyle bir olayda fail, taksirle adam öldürme suçundan dolayı sorumlu tutulacaktır” açıklamalarına yer verilmiştir.
+
+Kast, suçun kanuni tanımındaki unsurların bilerek ve istenerek gerçekleştirilmesi olup, unsurlara ilişkin bilgisizlik, eksik ya da hatalı bilgi, maddi unsurlara ilişkin hatadır. Bu hatanın kastın varlığına engel olacak düzeyde bulunması halinde sanığa ceza verilemeyecektir. Suçun maddi unsurlarına ilişkin hata, fiilin suç teşkil etmesi için bulunması zorunlu hususlara ilişkin bir yanılmadır. Birinci fıkranın ikinci cümlesinde, hata dolayısıyla taksirli sorumluluk halinin saklı bulunduğu belirtildiğinden, taksirle de işlenebilen bir suçun maddi unsurlarında tedbirsizlik veya dikkatsizlik sonucunda hataya düşülmesi, kusurluluğu ortadan kaldırmayacaktır. Örneğin, gerekli dikkat ve özeni göstermeden gece gördüğü karartıya av hayvanı olduğunu düşünerek ateş eden ve bir kişinin ölümüne neden olan fail, taksirle öldürmeden sorumlu olacaktır.
+
+Öğretide bu konuya ilişkin olarak; “Suçun maddi unsurlarına ilişkin hata, eylemin suç teşkil etmesi için bulunması zorunlu hususlara ilişkin bir yanılmadır. Örneğin, arkadaşını ziyarete giden bir kimsenin, arkadaşının olduğu düşüncesiyle bir başkasının konutuna girmesi veyahut onbeş yaşını bitirmiş olan çocukla rızaen cinsel ilişkide bulunanın, mağdurun reşit olduğunu düşünerek bu eylemi gerçekleştirmesi.” (Mehmet Emin Artuk-Ahmet Gökcen- A.Caner Yenidünya, Ceza Hukuku Genel Hükümler, 7. Baskı, s. 522) şeklinde görüşlere yer verilmiştir.
+
+5237 sayılı Türk Ceza Kanununun suç tarihinde yürürlükte bulunan “Çocukların cinsel istismarı” başlığını taşıyan 103. maddesinin ilk iki fıkrası;
+
+“(1) Çocuğu cinsel yönden istismar eden kişi, sekiz yıldan on beş yıla kadar hapis cezası ile cezalandırılır. Cinsel istismarın sarkıntılık düzeyinde kalması hâlinde üç yıldan sekiz yıla kadar hapis cezası verilir. Sarkıntılık düzeyinde kalmış suçun failinin çocuk olması hâlinde soruşturma ve kovuşturma yapılması mağdurun, velisinin veya vasisinin şikâyetine bağlıdır. Cinsel istismar deyiminden;
+
+a) On beş yaşını tamamlamamış veya tamamlamış olmakla birlikte fiilin hukuki anlam ve sonuçlarını algılama yeteneği gelişmemiş olan çocuklara karşı gerçekleştirilen her türlü cinsel davranış,
+
+b) Diğer çocuklara karşı sadece cebir, tehdit, hile veya iradeyi etkileyen başka bir nedene dayalı olarak gerçekleştirilen cinsel davranışlar,
+Anlaşılır.
+
+(2) Cinsel istismarın vücuda organ veya sair bir cisim sokulması suretiyle gerçekleştirilmesi durumunda, on altı yıldan aşağı olmamak üzere hapis cezasına hükmolunur.
+“ şeklindedir.
+
+Bu hüküm uyarınca suçun maddi unsurlarından birisi de mağdur olup, kanun koyucu TCK’nun 103. maddesinde üç grup mağdura yer vermiştir. İlki on beş yaşı tamamlamamış olan çocuklar, ikincisi on beş yaşını tamamlamış olmakla birlikte fiilin hukuki anlam ve sonuçlarını algılama yeteneği gelişmemiş olan çocuklar, üçüncüsü ise onbeş yaşı tamamlayıp onsekiz yaşını tamamlamamış çocuklardır. Birinci ve ikinci grupta yer alan çocuklara karşı cebir, tehdit, hile veya iradeyi etkileyen başka bir neden olmaksızın dahi gerçekleştirilen her türlü cinsel davranış istismar suçunu oluşturmakta, eylemin bu kişilere karşı cebir veya tehdit kullanılmak suretiyle gerçekleştirilmesi halinde, anılan maddenin dördüncü fıkrası uyarınca cezanın yarı oranında artırılmasını gerektirmektedir. Üçüncü grupta yer alan çocuklar yönü ile fiilin suç oluşturması için gerçekleştirilen cinsel davranışın cebir, tehdit, hile veya iradeyi etkileyen başka bir nedene dayalı olarak gerçekleştirilmesi gerekmektedir. Nitekim cebir, tehdit ve hile olmaksızın onbeş yaşını bitirmiş çocukla cinsel ilişkide bulunan kişi, 103. maddede düzenlenmiş olan çocukların cinsel istismarı suçundan değil, şikâyet üzerine 104. maddede düzenlenen reşit olmayanla cinsel ilişki suçundan cezalandırılacaktır.
+
+Fail, cinsel ilişkide bulunduğu mağdurenin onbeş yaşını doldurmadığı halde, onsekiz yaşını doldurduğu düşüncesiyle mağdure ile rızasıyla cinsel ilişkide bulunur ve mağdurenin yaşı konusundaki hatası esaslı, diğer bir ifadeyle kabul edilebilir bir hata olursa, bu takdirde fail TCK’nun 30. maddesinin birinci fıkrası uyarınca suçun maddi unsurlarından olan mağdurun yaşına ilişkin bu hatasından yararlanacak, bunun sonucu olarak yüklenen suç açısından kasten hareket etmiş sayılmayacağından ve bu suçun taksirle işlenmesi hali kanunda cezalandırılmadığından 5271 sayılı CMK’nun 223. maddesinin ikinci fıkrasının (c) bendi gereğince beraatına karar verilmesi gerekecektir.
+
+Öte yandan fail hataya düşmese idi eylemi yine suç oluşturacaksa bu durumda failin işlemeyi kastettiği suçtan dolayı sorumluluğu söz konusu olacaktır. Örneğin fail, henüz 15 yaşını tamamlamamış mağdurenin 15-18 yaş grubunda olduğu hatasına düşerek cebir, tehdit, hile veya iradeyi etkileyen başka bir nedene dayalı hal olmaksızın cinsel ilişkiye girerse bu durumda şikâyet halinde kastına göre TCK’nun 104. maddesinde yer alan reşit olmayanla cinsel ilişki suçundan sorumlu olacaktır.
+Bu açıklamalar ışığında uyuşmazlık konularının sırasıyla ele alınmasında fayda bulunmaktadır:
+
+1- Yerel mahkemece hükmün gerekçe bölümünde TCK’nun 30. maddesinde yer alan hata hükümleri tartışılıp sanık hakkında uygulanamayacağı belirtildikten sonra “sanık gerçekten yaş konusunda hataya düşmüş olsa dahi kendisini sorumluluktan kurtaramayacaktır” şeklinde açıklama yapılmasının hükümde çelişki yaratıp yaratmayacağı;
+
+Sanığın mağdurenin yaşı konusunda esaslı hataya düştüğünün kabulü halinde, duruşmada hazır bulunan uzman bilirkişinin mağdurenin 16 veya azami 17 yaşında gösterdiğine dair kanaati, mağdurenin sanığa lise son sınıf öğrencisi olduğunu söylediğine ilişkin beyanı ve bu beyanı doğrulayan sanık savunması nazara alındığında, sanığın 15 yaşını henüz tamamlamayan mağdurenin 15-18 yaş grubunda olduğu düşüncesiyle hareket edip mağdure ile cebir, tehdit, hile veya iradeyi etkileyen başka bir nedene dayalı hal olmaksızın cinsel ilişkiye girdiği ve eyleminden dolayı kastı doğrultusunda hakkında TCK’nun 104. maddesinde yer alan reşit olmayanla cinsel ilişki suçu bakımından değerlendirme yapılması gerektiği sonucuna ulaşılacaktır.
+
+Gerekçeli karar bir bütün olarak değerlendirildiğinde, TCK’nun 30. maddesinde yer alan hata hükümleri tartışılıp sanık hakkında uygulanamayacağı belirtildikten sonra “sanık gerçekten yaş konusunda hataya düşmüş olsa dahi kendisini sorumluluktan kurtaramayacaktır” şeklindeki açıklamanın da hata halinin varlığı halinde sanığın TCK’nun 104. maddesi bakımından doğabilecek sorumluluğuna atfen yapıldığı ve bu açıklamanın hükümde herhangi bir çelişkiye neden olmadığı anlaşılmaktadır.
+Bu itibarla, Yargıtay Cumhuriyet Başsavcılığının itirazı bu uyuşmazlık yönünden yerinde görülmemiştir.
+
+2- Sanık hakkında 5237 sayılı TCK’nun 30. maddesinde düzenlenmiş olan hata halinin uygulanma imkanının bulunup bulunmadığı;
+
+Sanık ve mağdurenin 2013 yılı Haziran ayında aynı işyerinde çalışırken tanışıp iki ay süre ile duygusal ilişki yaşadıkları, bir süre ayrı kalan tarafların 2014 yılı Mayıs ayından itibaren yeniden görüşmeye başlayıp 2014 yılı Eylül ve Ekim aylarında cinsel ilişkiye girdikleri sabit bulunan olayda; sanığın savunmasında mağdure ile yeniden görüşmeye başladıkları 2014 yılı Mayıs ayından cinsel ilişkiye girdikleri 2014 yılı Eylül ve Ekim aylarına kadar geçen süreçte telefon yoluyla ve yüz yüze çok sayıda görüşme yaptıklarını beyan etmesi, mahkemece yapılan gözlemde mağdurenin uzun boyu ve iri yapısına rağmen duruşmadaki hal ve tavırlarından yaşının küçük olduğunun hemen fark edilebilecek nitelikte olduğunun belirtilmesi ve mağdureden onbir yaş büyük olan sanığın, mağdure ile birlikte geçirdiği süre nazara alındığında, mağdurenin onbeş yaşından küçük olduğunu bilmediği yönündeki savunmasının hayatın olağan akışına uygun olmaması hususları birlikte değerlendirildiğinde, TCK’nun 30. maddesinde düzenlenen hata halinin uygulanma şartlarının mevcut olmadığı ve sanığın çocuğun nitelikli cinsel istismarı suçundan cezalandırılmasına ilişkin yerel mahkeme kararında herhangi bir isabetsizlik bulunmadığı kabul edilmelidir.
+Bu itibarla, Yargıtay Cumhuriyet Başsavcılığı itirazı bu uyuşmazlık yönünden de isabetsizdir.
+
+Ceza Genel Kurulu         2021/360 E.  ,  2022/363 K.
+
+Sanık hakkında 5237 sayılı TCK’nın 30. maddesinde düzenlenen hata hâlinin uygulanma imkânının bulunup bulunmadığı; Hata hükümlerinin çocukların cinsel istismarı suçu bakımından değerlendirilmesine gelince;
+
+5237 sayılı TCK’nın “Hata” başlıklı 30. maddesi üç fıkra halinde;”Fiilin icrası sırasında suçun kanunî tanımındaki maddî unsurları bilmeyen bir kimse, kasten hareket etmiş olmaz. Bu hata dolayısıyla taksirli sorumluluk hâli saklıdır.Bir suçun daha ağır veya daha az cezayı gerektiren nitelikli hâllerinin gerçekleştiği hususunda hataya düşen kişi, bu hatasından yararlanır.Ceza sorumluluğunu kaldıran veya azaltan nedenlere ait koşulların gerçekleştiği hususunda kaçınılmaz bir hataya düşen kişi, bu hatasından yararlanır” şeklinde düzenlenmiş iken, 08.07.2005 tarih ve 25869 sayılı Resmi Gazetede yayımlanıp yürürlüğe giren 5377 sayılı Kanunun 4. maddesi ile eklenen, “İşlediği fiilin haksızlık oluşturduğu hususunda kaçınılmaz bir hataya düşen kişi, cezalandırılmaz” biçimindeki dördüncü fıkra ile son hâlini almıştır.
+Anılan maddede çeşitli hata hâlleri düzenlenmiş olup, birinci fıkrasında suçun maddi unsurlarında hataya ilişkin hükme yer verilmiştir.
+
+İkinci fıkra ile kişinin, suçun daha ağır veya daha az cezayı gerektiren nitelikli hallerinin gerçekleştiği hususundaki hatasından yararlanması öngörülmüş olup buna göre, kardeşi olduğunu bilmediği bir kişiyi öldüren fail, kasten öldürme suçunun nitelikli hallerinden olan kardeşini öldürmekten değil, kasten öldürmenin basit halinden sorumlu olacak, değersiz zannederek değerli bir kolyeyi çalan fail hakkında da değer azlığı hükmü uygulanacaktır.
+
+Üçüncü fıkrada ceza sorumluluğunu kaldıran veya azaltan nedenlere ait şartların gerçekleştiği hususunda kaçınılmaz bir hataya düşen kişinin, bu hatasından yararlanacağı hüküm altına alınmış, fıkrada hem hukuka uygunluk sebebinin maddi şartlarında hata, hem de kusurluluğu etkileyen hata hâlleri düzenlenmiştir. Failin bu fıkra hükmünden yararlanabilmesi için, bulunduğu durum itibarıyla hatasının kaçınılmaz olması şartı aranmıştır.
+
+Maddeye 5377 sayılı Kanun ile eklenen dördüncü fıkrada ise, kişinin işlediği bir fiilden dolayı kusurlu ve sorumlu tutulabilmesi için, bu fiilin bir haksızlık oluşturduğunu bilmesi gerektiği vurgulanmıştır. Buna göre fail, işlediği fiilin haksızlık oluşturduğu konusunda kaçınılmaz bir hataya düşmüş, diğer bir ifadeyle eyleminin hukuka aykırı olmadığı, haksızlık oluşturmadığı, meşru olduğu düşüncesiyle hareket etmiş ve bu yanılgısı içinde bulunduğu şartlar bakımından kaçınılmaz nitelikte ise cezalandırılmayacaktır. Hatanın kaçınılmaz olduğunun belirlenmesinde, kişinin bilgi düzeyi, gördüğü eğitim, içerisinde bulunduğu sosyal ve kültürel çevre şartları göz önünde bulundurulacaktır.Üçüncü ve dördüncü fıkraların uygulanması yönüyle kişinin kaçınılmaz bir hataya düşmesi şartı aranmakta olup, hatanın kaçınılabilir olması hâlinde kişi kusurlu sayılacak, diğer bir ifadeyle eyleminden dolayı sorumlu tutulacak ancak bu hata temel cezanın belirlenmesinde dikkate alınacaktır.
+
+Bu aşamada uyuşmazlığa ilişkin olarak maddenin birinci fıkrasının daha ayrıntılı ele alınmasında fayda bulunmaktadır.
+
+Maddenin birinci fıkrasının gerekçesinde; “Kast, suçun kanuni tanımındaki maddî unsurların bilerek ve istenerek gerçekleştirilmesidir. Bu unsurlara ilişkin bilgisizlik, eksik veya yanlış bilgi sahibi olunması durumu ise, maddî unsurlarda hata olarak adlandırılır. Böyle bir hata kastın varlığına engel olur. Örneğin, kişi vestiyerden kendisininki zannederek başkasının paltosunu alır. Keza, kişi gece karanlığında vahşi bir hayvan zannıyla hareketli bir cisme ateş eder. Ancak, gerçekte bu hareket eden cisim bir insandır ve dolayısıyla; bu insan ölür veya yaralanır. Örnek olarak verilen bu olaylarda failin bilgisi gerçeğe uysaydı; işlediği fiil haksızlık teşkil etmeyecekti. Bu nedenle hata hâlinde kasten işlenmiş bir suçtan söz etmek mümkün değildir.Fıkrada ayrıca, maddî unsurlarda hata hâlinde, taksirle sorumluluğa ilişkin hükme yer verilmiştir. Buna göre, meydana gelen neticeye ilişkin olarak gerekli dikkat ve özen gösterilmiş olsaydı böyle bir netice ile karşılaşılmazdı şeklinde bir yargıya ulaşılabiliyorsa; taksirle işlenmiş bir suç söz konusu olur. Ancak bu durumda neticenin taksirle gerçekleştirilmesinin kanunda suç olarak tanımlanmış olması gerekir. Bu nedenle, kendisinin sanarak başkasının çantasını alan kişinin yanılgısında taksirin varlığı kabul edilse bile; kanunda hırsızlık fiilinin ancak yararlanma kasdıyla işlenebileceği belirtildiği için; böyle bir olay dolayısıyla ceza sorumluluğu doğmayacaktır. Buna karşılık, av hayvanı zannederek gerçekte bir insana ateş edip onun ölümüne neden olan kişinin bu hatasında taksiri varsa, adam öldürme kanunda taksirle işlenen bir suç olarak da tanımlandığı için böyle bir olayda fail, taksirle adam öldürme suçundan dolayı sorumlu tutulacaktır” açıklamalarına yer verilmiştir.
+
+Kast, suçun kanuni tanımındaki unsurların bilerek ve istenerek gerçekleştirilmesi olup, unsurlara ilişkin bilgisizlik, eksik ya da hatalı bilgi, maddi unsurlara ilişkin hatadır. Bu hatanın kastın varlığına engel olacak düzeyde bulunması halinde sanığa ceza verilemeyecektir. Suçun maddi unsurlarına ilişkin hata, fiilin suç teşkil etmesi için bulunması zorunlu hususlara ilişkin bir yanılmadır. Birinci fıkranın ikinci cümlesinde, hata dolayısıyla taksirli sorumluluk halinin saklı bulunduğu belirtildiğinden, taksirle de işlenebilen bir suçun maddi unsurlarında tedbirsizlik veya dikkatsizlik sonucunda hataya düşülmesi, kusurluluğu ortadan kaldırmayacaktır. Örneğin, gerekli dikkat ve özeni göstermeden gece gördüğü karartıya av hayvanı olduğunu düşünerek ateş eden ve bir kişinin ölümüne neden olan fail, taksirle öldürmeden sorumlu olacaktır.
+
+Öğretide bu konuya ilişkin olarak; “Suçun maddi unsurlarına ilişkin hata, eylemin suç teşkil etmesi için bulunması zorunlu hususlara ilişkin bir yanılmadır. Örneğin, arkadaşını ziyarete giden bir kimsenin, arkadaşının olduğu düşüncesiyle bir başkasının konutuna girmesi veyahut onbeş yaşını bitirmiş olan çocukla rızaen cinsel ilişkide bulunanın, mağdurun reşit olduğunu düşünerek bu eylemi gerçekleştirmesi.” (… Emin Artuk-… Gökcen- A.Caner Yenidünya, Ceza Hukuku Genel Hükümler, 7. Baskı) şeklinde görüşlere yer verilmiştir.
+
+…
+
+Suçun maddi unsurlarından birisi de mağdur olup, kanun koyucu TCK’nın 103. maddesinde üç grup mağdura yer vermiştir. İlki on beş yaşı tamamlamamış olan çocuklar, ikincisi on beş yaşını tamamlamış olmakla birlikte fiilin hukuki anlam ve sonuçlarını algılama yeteneği gelişmemiş olan çocuklar, üçüncüsü ise onbeş yaşı tamamlayıp onsekiz yaşını tamamlamamış çocuklardır. Birinci ve ikinci grupta yer alan çocuklara karşı cebir, tehdit, hile veya iradeyi etkileyen başka bir neden olmaksızın dahi gerçekleştirilen her türlü cinsel davranış istismar suçunu oluşturmakta, eylemin bu kişilere karşı cebir veya tehdit kullanılmak suretiyle gerçekleştirilmesi halinde, anılan maddenin dördüncü fıkrası uyarınca cezanın yarı oranında artırılmasını gerektirmektedir. Üçüncü grupta yer alan çocuklar yönü ile fiilin suç oluşturması için gerçekleştirilen cinsel davranışın cebir, tehdit, hile veya iradeyi etkileyen başka bir nedene dayalı olarak gerçekleştirilmesi gerekmektedir. Nitekim cebir, tehdit ve hile olmaksızın onbeş yaşını bitirmiş çocukla cinsel ilişkide bulunan kişi, 103. maddede düzenlenmiş olan çocukların cinsel istismarı suçundan değil, şikâyet üzerine 104.maddede düzenlenen reşit olmayanla cinsel ilişki suçundan cezalandırılacaktır. Fail, cinsel ilişkide bulunduğu mağdurenin onbeş yaşını doldurmadığı hâlde, onsekiz yaşını doldurduğu düşüncesiyle mağdure ile rızasıyla cinsel ilişkide bulunur ve mağdurenin yaşı konusundaki hatası esaslı, diğer bir ifadeyle kabul edilebilir bir hata olursa, bu takdirde fail TCK’nın 30. maddesinin birinci fıkrası uyarınca suçun maddi unsurlarından olan mağdurun yaşına ilişkin bu hatasından yararlanacak, bunun sonucu olarak yüklenen suç açısından kasten hareket etmiş sayılmayacağından ve bu suçun taksirle işlenmesi hali kanunda cezalandırılmadığından 5271 sayılı CMK’nın 223. maddesinin ikinci fıkrasının (c) bendi gereğince beraatına karar verilmesi gerekecektir. Öte yandan fail hataya düşmese idi eylemi yine suç oluşturacaksa bu durumda failin işlemeyi kastettiği suçtan dolayı sorumluluğu söz konusu olacaktır. Örneğin fail, henüz 15 yaşını tamamlamamış mağdurenin 15-18 yaş grubunda olduğu hatasına düşerek cebir, tehdit, hile veya iradeyi etkileyen başka bir nedene dayalı hâl olmaksızın cinsel ilişkiye girerse bu durumda şikâyet hâlinde kastına göre TCK’nın 104. maddesinde yer alan reşit olmayanla cinsel ilişki suçundan sorumlu olacaktır. Bu bilgiler ışığında uyuşmazlık konusu değerlendirildiğinde;Ön sorun konusunda ayrıntılı olarak açıklanan olayda;Sanık ile mağdurenin olaydan önce bir buçuk ay kadar arkadaş oldukları, suç tarihi olan Mart 2017 ile Şubat 2018 yılında 18 ve 19 yaşları içerisinde bulunan sanığın, suç tarihlerinde 14 ve 15 yaş içerisinde bulunan ve öğrenim gören mağdurenin yaşını birlikte oldukları 9 aylık süre içinde bilmemesinin hayatın olağan akışına uygun olmaması, sanığın aşamalarda mağdurenin yaşına ilişkin çelişkili beyanlarının cezadan kurtulmaya yönelik olması hususları bir bütün olarak değerlendirildiğinde TCK’nın 30. maddesinde düzenlenen hata hâlinin uygulama koşullarının oluşmadığının kabulü gerekmektedir.
+
+YARGITAY 14. CEZA DAİRESİ 
+Esas : 2011/22094 Karar : 2013/10790Tarih : 31.10.2013
+
+TCK 30. Madde
+
+Hata
+
+Yapılan yargılamaya, toplanıp karar yerinde gösterilen delillere, mahkemenin soruşturma sonuçlarına uygun olarak oluşan kanaat ve takdirine, incelenen dosya içeriğine göre yerinde görülmeyen sair temyiz itirazlarının reddine,
+
+Ancak;
+
+Kayden 04.11.1994 doğumlu olup suç tarihinde 15 yaşında ancak bu yaşı henüz tamamlamayan mağdurenin rızası ile sanıkla kaçtıkları ve cinsel ilişkiye girdikleri, 26.01.2011 tarihinde resmi nikahla evlenip çocuk sahibi oldukları ve halen de evliliğin devam ettiği olayda, 
+sanığın duruşmada, suç tarihinde mağdurenin kendisine 16 yaşında olduğunu söylediğini beyan etmesi, mağdurenin de bu bu ifadeyi doğrulaması ve kimi Adli Tıp raporlarında genetik beslenme ve hormonal nedenlerle kayıt yaşının kemik yaşından farklı olabileceğinin belirtilmesi karşısında,
+
+TCK.`nın 30. maddesi hükümleri yönünden hata halinin mevcut olup olmadığının tespiti için mağdurenin görünüm itibarıyla 15 yaşından küçük olduğunun anlaşılıp anlaşılamayacağı, içinde bulundukları sosyal ve kültürel durumları da dikkate alınarak sanığın mağdurenin yaşı konusunda hataya düşmesinin mümkün olup olmadığı araştırılarak ve mahkemenin dosyadaki tüm verilerle birlikte kendi gözlemini de tespit ederek, gerekirse bu konuda bilirkişi incelemesinden de yararlanılarak sonucuna göre sanığın hukuki durumunun takdir ve tayini gerekirken eksik inceleme ile yazılı şekilde hüküm kurulması,
+
+Kanuna aykırı, sanık müdafiin temyiz itirazları bu itibarla yerinde görüldüğünden hükümlerin 5320 sayılı Kanunun 8/1. maddesi gözetilerek CMUK.nın 321. maddesi uyarınca ( BOZULMASINA ), oy birliğiyle karar verildi.
+
+YARGITAY 16. CEZA DAİRESİ 
+Esas : 2017/3335 Karar : 2018/361Tarih : 25.01.2018
+
+TCK 30. Madde
+
+Hata
+
+Temyiz talebinin reddi nedenleri bulunmadığından işin esasına geçildi;
+
+Vicdani kanının oluştuğu duruşma sürecini yansıtan tutanaklar, tanık beyanları, arama tutanağı, belgeler, savunma ve gerekçe içeriğine göre yapılan incelemede;
+
+Kuruluş, amaç, örgüt yapılanması ve faaliyet yöntemleri Dairemizin 2015/3 E. sy. kararında anlatılan ve nihai amacı, Devletin Anayasal nizamını cebir ve şiddet kullanarak değiştirmek olduğu anlaşılan FETÖ/PDY terör örgütünün başlangıçta bir ahlak ve eğitim hareketi olarak ortaya çıkması ve toplumun her katmanının büyük bir kesimince de böyle algılanması, amaca ulaşmak için her yolu mübah gören fakat sözde meşruiyetini sivil alanda dinden, kamusal alanda ise hukuktan aldığı izlenimi vermek için yeterli güce ulaşıncaya kadar alenen kriminalize olmamaya özen göstermesi gerçeği nazara alındığında; örgütün kurucusu, yöneticileri ve örgüt hiyerarşisinde üçüncü veya daha yukarı katmanlarda yer alan mensuplarının zaman sınırlaması olmaksızın örgütün nihai amacından haberdar oldukları yönünde kuşku bulunmamakta ise de, bir ve ikinci katmanlarda yer alanlar açısından; Devletin her kurumuna sızan mensupları vasıtasıyla kişi ve kurumlara yönelik, örgütün gerçek yüzünü ortaya koyan operasyonlara başlandığı, bu yapının kamuoyu ve medya tarafından tartışılır hale geldiği, üst düzey hükümet yetkilileri ve kamu görevlileri tarafından yapılan açıklamalarda “paralel yapı” veya “terör örgütü” olduğuna ilişkin tespitler ve uyarıların yapıldığı, Milli Güvenlik Kurulu tarafından da aynı değerlendirmelerin paylaşıldığı süreçten önce icra edilen faaliyetlerin, nitelik, içerik ve mahiyeti itibariyle silahlı terör örgütünün amacına hizmet ettiğinin somut delil ve olgularla ortaya konulmadıkça örgütsel faaliyet kapsamında kabul edilemeyeceği değerlendirilerek;
+
+FETÖ/PDY terör örgütünün Dinar İlçesi mütevelli heyeti içerisinde yer alarak, örgütsel nitelikte toplantılar yapmak, örgüte kazanç sağlamak için himmet toplamak, örgütü müzahir oldukları için faaliyetlerine son verilip kapatılma kararı verilen derneklerin organizasyonlarına katılıp ekonomik destek sağlamak, örgüt mensuplarınca kutsallık atfedilen (f) serisinden 1 dolar bulundurmak, talimat üzerine BankAsya’ya para yatırmak şeklinde gerçekleşen faaliyetlerin örgütsel nitelikte olduğundan içerdikleri çeşitlilik, yoğunluluk ve süreklilik nedeniyle örgüt üyeliği kabulünde bir isabetsizlik bulunmamaktadır.
+
+Örgütsel faaliyetlerin örgütün gerçek yüzünün ortaya çıkıp kamuoyunca da bilinmesinden önce başlayarak, 15.07.2016 tarihli darbe girişimi sonrasında da devam ederek yakalanma tarihine kadar sürmesi karşısında, sanığın FETÖ/PDY’nin terör örgütü olduğunu bilmediğine ilişkin savunmasına itibar etmeyen ve TCK’nın 30. maddesinde yer alan hata hükümlerini uygulamayan yerel mahkemenin kararında hukuka aykırılık görülmemiştir.
+
+Yargılama sürecindeki usulü işlemlerin kanuna uygun olarak yapıldığı, hükme esas alınan tüm delillerin hukuka uygun olarak elde edildiğinin belirlendiği, aşamalarda ileri sürülen iddia ve savunmaların temyiz denetimini sağlayacak biçimde eksiksiz olarak sergilendiği, özleri değiştirmeksizin tartışıldığı, vicdani kanının kesin, tutarlı ve çelişmeyen verilere dayandırıldığı, eylemin doğru olarak nitelendirildiği ve kanunda öngörülen suç tipine uyduğu, yaptırımın kanuni bağlamda şahsileştirilmek suretiyle uygulandığı anlaşılmakla; sanık ve müdafiinin temyiz dilekçelerinde ileri sürdüğü nedenler yerinde görülmediğinden CMK’nın 302/1. maddesi gereğince temyiz davasının esastan reddiyle hükmün ONANMASINA, ceza miktarı ve tutuklulukta geçirilen süre dikkate alınarak sanık ve müdafiinin tahliye talebinin reddine, 25.01.2018 tarihinde oybirliğiyle karar verildi.
+
+YARGITAY 1. CEZA DAİRESİ
+Esas : 2016/5686 Karar : 2017/2564Tarih : 5.07.2017
+
+TCK 30. Madde
+
+Hata
+
+Hükümlü … hakkında, 765 sayılı TCK’nun 79, 448, 62, 51/1, 59/2, 31, 33, 40, 36. maddeleri gereğince kurulup, Yargıtay 1. Ceza Dairesince ONANMAK suretiyle kesinleşen hükümden sonra yürürlüğe giren, 5252 sayılı TCK’nun Yürürlük ve Uygulama Şekli Hakkında Kanunun 9. maddesi uyarınca yeniden duruşma açılarak kurulan hükümde bozma nedenleri dışında bir isabetsizlik görülmediğinden, hükümlü müdafiinin haksız tahrikin derecesine yönelen ve yerinde görülmeyen sair temyiz itirazlarının reddine,
+
+Ancak;
+
+1- Hükümlünün, mağdurlar … ve …‘a yönelik eylemleri nedeniyle, 765 sayılı TCK.nun 79. maddesi uyarınca mağdur… yönünden ayrıca bir hüküm kurulmamışsa da, 5237 sayılı TCK.nun 30. maddesinde hedefte hataya yer verilmediği ve bu mağdura yönelik eyleminde ayrıca olası kastla yaralama suçunu oluşturduğu nazara alındığında, 5237 sayılı TCK yönünden kasten öldürmeye teşebbüs ve olası kastla yaralama suçlarından ayrı ayrı hükümler kurularak, 765 sayılı TCK’ya göre verilip kesinleşen hükümle karşılaştırılması sureti ile lehe yasanın belirlenmesi gerektiğinin gözetilmemesi,
+
+2- 24.11.2015 günlü Resmi Gazetede yayımlanan Anayasa Mahkemesinin 08.10.2015 tarih, 2014/140 esas ve 2015/85 sayılı kararı ile 5237 sayılı TCK’nun 53. maddesinin iptal edilen bölümleri doğrultusunda hükümlünün hukuki durumunun yeniden değerlendirilmesinde zorunluluk bulunması,
+
+3- Kabule göre de; hükümlünün mağdur …‘yı silahla hayati tehlike geçirecek, 120 gün iş ve güçten kalacak şekilde yaralayarak öldürmeye teşebbüs ettiği anlaşılan olayda; teşebbüs nedeni ile 9 ila 15 yıl arasında ceza öngören 5237 sayılı TCK.nun 35. maddesi ile uygulama yapılırken, meydana gelen tehlike ve zararın ağırlığına göre, alt ve üst sınırlar arasında makul bir ceza tayin edilmesi yerine, 15 yıl hapis cezasına hükmolunarak fazla ceza tayini,
+
+Bozmayı gerektirmiş olup, hükümlü müdafiinin temyiz itirazları bu itibarla yerinde görüldüğünden, hükmün tebliğnamedeki düşünceye aykırı olarak BOZULMASINA, 05/07/2017 gününde oybirliği ile karar verildi.
+
+YARGITAY 18. CEZA DAİRESİ 
+Esas : 2015/27479 Karar : 2017/5574Tarih : 10.05.2017
+
+TCK 30. Madde
+
+Hata
+
+Sanığın aşamalardaki beyanlarında dava konusu mesajları katılanın annesi olan …’a attığını ifade etmesi karşısında, sanığın 27.08.2012 tarih, saat 23:05’de “sen kimsin onu söyle önce … değil misin” ve saat 23:09’da “İlayda sen misin, bu laflar neden anlamış değilim” şeklindeki atmış olduğu mesajlarıyla, mesaj çektiği kişinin kesin olarak… olduğunu anlamamasına rağmen mesaj atmaya devam ettiği, akabinde sanığın 27.08.2012 tarih, saat 23:21’de “…önce de vardı bu numara bende … sakıncası yok” ve “23:55’de gelecek misin pazar yerine…” şeklinde mesajlar çekmesi karşısında, katılanın kendisinin kullandığını belirttiği hattın … adına kayıtlı olması ve olay günü bu hattan sanığa dokuz adet mesaj atılması da dikkate alındığında, katılanın annesi olan …’ın tanık sıfatıyla dinlenmesi, katılanın kendisinin kullandığını iddia ettiği hattan olay günü sanık ile mesajlaşıp mesajlaşmadığının sorulması ve tüm kanıtların birlikte değerlendirilerek sonucuna göre sanığın hukuki durumunun belirlenmesi gerektiği gözetilmeden, eksik kovuşturma ve hatalı gerekçe ile yazılı şekilde beraat kararı verilmesi,
+
+Kanuna aykırı, O Yer Cumhuriyet Savcısı ve katılan … vekilinin temyiz nedenleri yerinde görüldüğünden, tebliğnamedeki isteme uygun olarak HÜKMÜN BOZULMASINA, yargılamanın bozma öncesi aşamadan başlayarak sürdürülüp sonuçlandırılmak üzere dosyanın esas/hüküm mahkemesine gönderilmesine, 10/05/2017 tarihinde oy birliğiyle karar verildi.
+
+YARGITAY 23. CEZA DAİRESİ 
+Esas : 2015/15019 Karar : 2015/6276Tarih : 9.11.2015
+
+TCK 30. Madde
+
+Hata
+
+Olay tarihinde sanığın ………… Devlet Hastanesi ek bina karşısında bulunan, hastanenin spor kulübüne ait spor tesisine hırsızlık yapmak amacıyla kapı kilidini zorlayarak ve kapı camını kırmak suretiyle girdiği, ancak çalınacak bir şey bulamaması nedeniyle herhangi bir eşya alamadan çıktığı, bu suretle sanığın kamu kurum ve kuruluşlarında bulunan eşya hakkında hırsızlığa teşebbüs ve kamu malına zarar verme suçlarını işlediği iddia ve kabul olunan olayda;
+
+1- Sanık hakkında hırsızlık suçundan kurulan hükme yönelik incelemede;
+
+Sanığın aşamalardaki savunmasında; olay tarihinde havanın yağışlı olması nedeniyle sığınacak yer bulamaması nedeniyle spor kulübüne girdiğini ifade ettiği ve herhangi bir eşya almadan çıktığı, dosyada mevcut fotoğraflardan anlaşılacağı üzere iş yerinde elektrik sobası, meşrubat gibi çalınacak eşya bulunmasına rağmen bu eşyaları almadan çıktığı, bu itibarla savunmanın aksine hırsızlık kastıyla suça konu yere girdiğine ilişkin delil bulunmadığından yüklenen suçtan beraati yerine yazılı şekilde mahkumiyet hükmü kurulması;
+
+2- Kamu malına zarar verme suçuna ilişkin hükme yönelik incelemeye gelince;
+
+Davaya konu eylemin gerçekleştiği yerin tek katlı, PVC den mamül olduğu, dosyadaki mevcut resimlerden de anlaşılacağı üzere kamu kurumuna olduğuna ilişkin yazı, resim vs. bulunmadığı, bu nedenle mevcut spor tesisinin mahiyeti, tahsis amacı ve bulunduğu yer itibarıyla kamu kurum veya kuruluşuna ait yada kamu hizmetine tahsis edilmiş olup olmadığı anlaşılamadığından sanığın hukuki durumunun TCK`nın 30/2 ve 151/1 maddeleri uyarınca takdir ve tayini yerine değerlendirmede yanılgıya düşülerek yazılı şekilde hüküm verilmesi,
+
+Bozmayı gerektirmiş,sanığın temyiz itirazları bu itibarla yerinde görülmüş olduğundan hükümlerin bu sebeplerden dolayı 5320 sayılı Kanun’un 8/1. maddesi gereğince uygulanması gereken 1412 sayılı CMUK`nın 321. maddesi uyarınca( BOZULMASINA ), oybirliği ile karar verildi.
+
+YARGITAY 3. CEZA DAİRESİ
+Esas : 2010/8176 Karar : 2012/34575Tarih : 16.10.2012
+
+TCK 30. Madde
+
+Hata
+
+1 ) Sanık Mehmet hakkında, müşteki Hüseyin`i yaralama suçundan kurulan mahkumiyet hükmüne yönelik temyiz talebinin incelenmesinde;
+
+Sanık hakkında tayin olunan cezanın, karar tarihindeki miktar ve türü itibariyle hükmün, 21.07.2004 tarihinde yürürlüğe giren 5219 sayılı Kanunun 3-b maddesi ile değişik 1412 sayılı CMUK`un 305/1. maddesi gereğince temyizi mümkün olmadığından, sanık müdafiinin temyiz isteğinin aynı Kanunun 317. maddesi gereğince REDDİNE,
+
+2 ) Sanık Emre hakkında, müştekiler Hüseyin ve Zekayi`yi yaralama suçundan kurulan mahkumiyet hükümlerine yönelik temyiz talebinin incelenmesinde;
+
+Yapılan yargılamaya, toplanan ve karar yerinde açıklanan delillere, mahkemenin kovuşturma sonucunda oluşan inanç ve takdirine, gösterilen gerekçeye ve uygulamaya göre sanığın temyiz itirazlarının reddiyle hükümlerin istem gibi onanmasına,
+
+3 ) Sanık Mehmet hakkında, müşteki Hüseyin`i yaralama suçundan kurulan mahkumiyet hükmüne yönelik temyiz talebinin incelenmesinde;
+
+Yerinde görülmeyen diğer temyiz itirazlarının reddine, ancak;
+
+Sanığın, olay tarihinde oğlu Ahmet’in dövüldüğünün kendisine söylenmesi üzerine hemen olay yerine gittiği ve burada oğlunu döven kişilerden birisi olduğunu zannettiği müşteki Hüseyin’le kavga etmeye başladığı, sanığın olay yerine gelen ve Hüseyin’le aralarındaki kavgaya müdahale eden müşteki Zeki’yi de yaraladığı anlaşılmasına göre, 
+müştekilerin tahrik teşkil edebilecek haksız bir fiilleri olmadığı halde sanığın bu hususta yanılarak 5237 sayılı TCK`nın 30/3. maddesi kapsamında kaçınılmaz bir hataya düştüğü ve mefruz tahrik nedeniyle indirim yapılması gerektiği gözetilmeden yazılı şekilde sanık hakkında tahrik hükümlerinin uygulanmaması,
+
+Bozmayı gerektirmiş, sanık müdafiinin temyiz itirazları bu itibarla yerinde görülmüş olduğundan hükmün bu sebepten dolayı  istem gibi 
+( BOZULMASINA ), oy birliğiyle karar verildi.
+
+YARGITAY 14. CEZA DAİRESİ 
+Esas : 2011/6444 Karar : 2012/8973Tarih : 25.09.2012
+
+TCK 30. Madde
+
+Hata
+
+O Yer Cumhuriyet Savcısının, 06.03.2008 günlü hükmü CMUK.nın 310. maddesinde yer alan bir aylık süreden sonra 08.04.2008 tarihinde temyiz ettiği anlaşılmakla temyiz isteminin 5320 sayılı Kanunun 8/1. maddesi gözetilerek CMUK.nın 317. maddesi uyarınca REDDİYLE, incelemenin sanık müdafiin temyiz itirazlarıyla sınırlı olarak yapılmasına karar verildikten sonra gereği düşünüldü:
+
+Yapılan yargılamaya, toplanıp karar yerinde gösterilen delillere, mahkemenin soruşturma sonuçlarına uygun olarak oluşan kanaat ve takdirine, incelenen dosya içeriğine göre yerinde görülmeyen sair temyiz itirazlarının reddine,
+
+Ancak;
+
+Sanığın, mağdure Emine’nin ev telefonunu birçok kez arayıp konuşmadan kapatması, 
+devamınde mağdure Emine’ye yönelik söylediğini zannederek mağdure Rukiye’ye yönelik telefonda birçok kez “seni seviyorum, güzelliğin bozulmasın, banyoya gidelim vb.” sözleri söyleyip mağdure Emine’nin kocası öbür mağdur Adem’i dövmekle birçok kez tehdit etmesi karşısında, 
+mağdure Emine’ye ilişkin eylemleri nedeniyle TCK.nın 123/1,105/1, 43 ve 106/1, mağdur Adem`e ilişkin yokluğunda tehdit eylemi nedeniyle 106/1, 43 maddeleri uyarınca cezalandırılması gerektiğinin gözetilmemesi,
+
+Sanığın mağdure Emine`yi telefonla ısrarla arayarak işlediği kişilerin huzur ve sükununu bozma suçunun, içinde zincirleme gerçekleştirilen eylemleri de kapsadığı, birçok kez arayarak rahatsız etmenin suçun unsuru olduğu gözetilmeden, belirlenen cezanın TCK.nın 43. maddesi uyarınca arttırılması,
+
+Mağdure Rukiye’ye yönelik eylemlerinin Emine’yi kastederek ve o olduğunu sanarak gerçekleştirmesi karşısında; TCK.nın 30/1. maddesinde öngörülen fiilin icrası sırasında suçun kanuni tanımındaki maddi unsurlardan olan mağdurdaki hata nedeniyle sanığın, Rukiye`ye yönelik işlediği iddia olunan suçlardan beraati yerine her mağdur için ayrı ayrı TCK.nın 105/1, 43, 106/1-2. cümle 43, 123/1, 43 maddeleri gereğince mahkumiyet hükümleri kurulması,
+
+Kanuna aykırı, sanık müdafiin temyiz itirazları bu itibarla yerinde görülmüş olduğundan, hükümlerin 5320 sayılı Kanunun 8/1. maddesi gözetilerek CMUK.nın 321. maddeleri uyarınca ( BOZULMASINA ), oy birliğiyle karar verildi.
+
+YARGITAY 14. CEZA DAİRESİ
+Esas: 2015/7715 Karar: 2015/10174Tarih: 04.11.2015
+
+TCK 30. Madde
+
+Hata
+
+Sanık Mehmet hakkında beden veya ruh sağlığını bozacak şekilde çocuğun nitelikli cinsel istismarı suçundan kurulan hükmün incelenmesinde;
+
+Delillerle iddia ve savunma; duruşma göz önünde tutularak tahlil ve takdir edilmiş, sübutu kabul olunan fiilin unsurlarına uygun şekilde tavsif ve tatbikatı yapılmış bulunduğundan, sanık Mehmet müdafiin yerinde görülmeyen temyiz itirazlarının reddiyle re’ sen de temyize tabi hükmün ONANMASINA,
+
+Sanık Bayram hakkında nitelikli cinsel saldırı suçundan kurulan hükmün incelenmesinde;
+
+Adli Tıp Kurumu 6. İhtisas Kurulundan alınan 27.12.2013 tarihli raporda mağdurede hafif ile orta derece sınırında zeka geriliği tespit edilmesi ve bu zeka geriliğinin hekim olmayanlarca anlaşılamayabileceğinin belirtilmesi, sanık Bayram’ın diğer sanıkların kendisine mağdure de utangaçlık olduğunu söylediklerine ilişkin savunması, tanık Şekernaz’ın da Bayram’ın ifadelerini desteklemesi ve tüm dosya içeriği karşısında, kırsal kesimde yaşayan Bayram’ın olaydan önce sınırlı şekilde görüştüğü mağduredeki zeka geriliğini bildiği konusunda şüphe oluştuğu ve sanığın mağdurenin rızasının geçerli olduğu noktasında TCK’nın 30. maddesi kapsamında hataya düştüğü gözetilmeden, yazılı şekilde mahkûmiyetine hükmolunması,
+
+Sanıklar Mehmet ve Kamile haklarında nitelikli cinsel saldırı suçundan kurulan hükümlerin temyiz incelemesine gelince;
+
+Dosya içeriğine göre sanıkların, mağdurenin sanık Mehmet’ten hamile kaldığını öğrenmeleri üzerine bu durumu gizlemek için zeka geriliği bulunan mağdureyi sanık Bayram ile resmi nikah olmadan evlendirerek Bayram’ın nitelikli cinsel saldırı eylemine TCK’nın 39. maddesi kapsamında yardım eden sıfatıyla katıldıkları gözetilmeden, yazılı şekilde TCK’nın 37. maddesi delaletiyle aynı Kanunun 102/2 ve 102/3-a maddelerinin uygulanması suretiyle fazla ceza tayini,
+
+SONUÇ : Kanuna aykırı, sanıklar müdafilerinin temyiz itirazları bu itibarla yerinde görüldüğünden, hükümlerin 5320 sayılı Kanunun 8/1. maddesi gözetilerek 1412 sayılı CMUK’nın 321. maddesi uyarınca BOZULMASINA, 04.11.2015 tarihinde oybirliğiyle karar verildi.
+
+YARGITAY CEZA GENEL KURULU
+Esas: 2014/14-112 Karar: 2014/457Tarih: 30.10.2014
+
+TCK 30. Madde
+
+Hata
+
+“… Suç tarihinde 15 yaşında olan ancak bu yaşı tamamlamayan mağdurenin, önce sanıkla rızası ile kaçıp ilişkiye girdikleri, bunun üzerine ailelerinin araya girdiği ve mağdureyle sanığın anlaşarak gayriresmi evlendikleri, bilahere resmi olarak da evlenip bir çocuklarının olduğu ve halen evliliğin de devam ettiği olayda, Adli Tıp uygulamalarına göre bazen kemik yaşının hormon veya beslenme gibi faktörlerin etkisiyle gerçek yaşa göre farklılık gösterebileceğinin de bilindiği gibi, Manisa Devlet Hastanesinin 29.1.2009 tarihli raporunda mağdurenin rapor tarihinde 17 yaşını bitirip 18 yaşını sürmekte olduğunun belirtilmesine karşılık, kemik yaşı olarak 19 yaşını doldurmuş görünümde olduğunu bildirilmesi karşısında. 30. maddesi hükümleri yönünden hata halinin mevcut olup olmadığının tespiti için mahkemece gözlem yapılarak, mağdurenin görünüm itibarıyla 15 yaşından küçük olduğunun anlaşılıp anlaşılamayacağı da tespit edilerek, sanık ve mağdurenin içinde bulundukları sosyal ve kültürel durumları da dikkate alınıp sanığın mağdurenin yaşı konusunda hataya düşmesinin mümkün olup olmadığı değerlendirilerek sonucuna göre sanığın hukuki durumunun takdir ve tayini gerekirken eksik incelemeyle yazılı şekilde hüküm kurulması…”,
+
+İsabetsizliğinden bozulmasına karar verilmiştir.
+
+Yargıtay Cumhuriyet Başsavcılığı ise 20.6.2013 gün ve 143212 sayı ile;
+
+“… Yaşa vaki herhangi bir itirazın bulunmadığı, mağdurenin 15 yaşını doldurmadığı ve kaçınılamaz bir hatanın da söz konusu olmadığı olayda 30. maddesindeki hata hallerinin mevcut olmadığı…”,
+
+Görüşüyle itiraz kanun yoluna başvurarak, Özel Daire bozma kararının kaldırılmasına ve yerel mahkeme hükmünün onanmasına karar verilmesi talebinde bulunmuştur.
+
+5271 Sayılı C.M.K.nun 308. maddesi5271 Sayılı C.M.K.nun 308. maddesi uyarınca inceleme yapan Yargıtay 14. Ceza Dairesince 27.12.2013 gün ve 7147-14096 sayı ile: itiraz nedenlerinin yerinde görülmediğinden bahisle Yargıtay Birinci Başkanlığına gönderilen dosya. Ceza Genel Kurulunca değerlendirilmiş ve açıklanan gerekçelerle karara bağlanmıştır:
+
+Karar: Özel Daireyle Yargıtay Cumhuriyet Başsavcılığı arasında oluşan ve Ceza Genel Kurulunca çözümlenmesi gereken uyuşmazlık, çocuğun nitelikli cinsel istismarı suçundan sanık hakkında 5237 Sayılı T.C.K.nun 30. maddesinde düzenlenmiş olan hata halinin uygulanma imkanının bulunup bulunmadığının belirlenmesine dair ise de, mağdurenin yaşının tespiti noktasında eksik araştırmayla hüküm kurulup kurulmadığının Yargıtay iç Yönetmeliğinin 27. maddesi uyarınca öncelikle değerlendirilmesi gerekmektedir.
+
+İncelenen dosya kapsamından:
+
+Sanıkla mağdurenin bir süredir birlikte yaşadıkları. 21.8.2006 tarihinde müşterek bir kız çocuklarının olduğu, 7.4.2008 tarihinde sanığın mağdureyi darp etmesi üzerine mağdurenin jandarmaya başvurarak şikayetçi olması ve 15 yaşından küçük olduğu dönemde sanıkla kaçıp evlendiklerinden de bahsetmesi sebebiyle sanık hakkında çocuğun nitelikli cinsel istismarı suçundan soruşturma açıldığı, sanık ve mağdurenin 16.4.2008 tarihinde resmi olarak evlendikleri, 7.6.1991 doğumlu olan mağdurenin nüfusa, doğumundan yaklaşık bir buçuk yıl sonra 5.1.1993 tarihinde kaydedildiği, mernis doğum tutanağında “sağlık personeli yardımıyla” doğduğu belirtilmesine karşın, dosyada doğuma dair her hangi bir raporun bulunmadığı, Manisa Devlet Hastanesi Sağlık Kurulu tarafından mağdurenin yaşına dair olarak düzenlenen 29.1.2009 tarihli raporda, “17 yaşını bitirmiş 18 yaşını sürmekte olduğu ve kemik yaşı olarak 19 yaşını doldurmuş görünümde bulunduğu” görüşüne yer verildiği.
+
+Anlaşılmaktadır.
+
+Mağdure aşamalarda, yaklaşık üç yıl önce sanıkla gönüllü olarak kaçıp ilişkiye girdiklerini, o tarihte 14 yaşında olduğunu, adli makamlara başvuru yapmadıklarını, sanığın resmi nikah yapacağını söyleyerek kendisini ve ailesini kandırdığını, kendisinden 1.5 yaşında kızının olduğunu, bildiği kadarıyla nüfustaki yaşının doğru olduğunu beyan etmiş,
+
+Mağdurenin anne ve babası olayın oluşuna dair mağdurenin anlatımlarını doğrulamışlar, mağdurenin babası mağdurenin yaşıyla ilgili olarak, kızını nüfusa doğru yazdırdığını, kaçtığında 14 yaşında olduğunu, kızının evde doğduğunu ve herhangi bir resmi kaydının olmadığını ifade etmiş,
+
+Sanık ise aşamalarda, 2005 yılı Nisan ayında mağdurenin, kendisinin çalıştığı Ege Üniversitesine gelip kendisiyle yaşamak isteğini dile getirdiğini, 7.6.1991 doğumlu olan mağdure ile 25 Haziran 2005 tarihinde resmi nikah yapmaksızın düğün yaparak evlendiklerini, o tarihten beri karı koca hayati yaşadıklarını savunmuştur.
+
+5237 Sayılı uyuşmazlıkla ilgili 103. maddesinin 1., 2. fıkralar 1. ve 2. fıkraları suç ve hüküm tarihlerinde: “… (1) Çocuğu cinsel yönden istismar eden kişi, üç yıldan sekiz yıla kadar hapis cezasıyla cezalandırılır. Cinsel istismar deyiminden:
+
+a- Onbeş yaşını tamamlamamış veya tamamlamış olmakla birlikte fiilin hukuki anlam ve sonuçlarını algılama yeteneği gelişmemiş olan çocuklara karşı gerçekleştirilen her türlü cinsel davranış.
+
+b- Diğer çocuklara karşı sadece cebir, tehdit, hile veya iradeyi etkileyen başka bir nedene dayalı olarak gerçekleştirilen cinsel davranışlar, anlaşılır.
+
+(2) Cinsel istismarın vücuda organ veya sair bir cisim sokulması suretiyle gerçekleştirilmesi durumunda, sekiz yıldan onbeş yıla kadar hapis cezasına hükmolunur…”,
+
+Aynı kanunun Aynı kanunun 102. maddesinin 1., 2. fıkraları suç ve hüküm tarihlerinde; “… (1)Cinsel davranışlarla bir kimsenin vücut dokunulmazlığını ihlal eden kişi. mağdurun şikayeti üzerine, iki yıldan yedi yıla kadar hapis cezasıyla cezalandırılır.
+
+(2)Fiilin vücuda organ veya sair bir cisim sokulması suretiyle işlenmesi durumunda, yedi yıldan oniki yıla kadar hapis cezasına hükmolunur. 8u fiilin eşe karşı işlenmesi halinde, soruşturma ve kovuşturmanın yapılması mağdurun şikayetine bağlıdır.”
+
+Aynı kanunun Aynı kanunun 104. maddesi suç ve hüküm tarihlerinde: “… (1) Cebir, tehdit ve hile olmaksızın, onbeş yaşını bitirmiş olan çocukla cinsel ilişkide bulunan kişi,şikayet üzerine, iki yıldan beş yıla kadar hapis cezasıyla cezalandırılır.” şeklinde düzenlenmiştir.
+
+Anılan madde hükümleri birlikte değerlendirildiğinde, kanun koyucunun 5237 Sayılı Türk Ceza Kanununda, bedensel temas içeren eylemlerle gerçekleştirilen cinsel dokunulmazlığa karşı suçlarda mağdurun yaşını dikkate alan bir düzenleme biçimi öngördüğü anlaşılmaktadır.
+
+Cinsel dokunulmazlığa karşı suçlara dair bu düzenlemelerde kanun koyucu tarafından, 5237 Sayılı T.C.K.nun 6/1-a maddesinde, “henüz 18 yaşını doldurmamış kişi” olarak tanımlanan çocuk kavramının, “onbeş yaşını bitirmiş” ve “onbeş yaşını tamamlamamış” şeklinde iki ayrı dönem olarak ele alındığı görülmektedir. Buna göre “onbeş yaşını tamamlamamış” çocuklar ile “onbeş yaşını bitirmiş olup da onsekiz yaşını tamamlamamış” olan çocuklara karşı işlenen cinsel suçlar farklı kategoride mütalaa edilmiştir. 103/1-a maddesinde, “onbeş yaşını tamamlamamış” olan çocuklara karşı her türlü cinsel davranış cinsel istismar olarak tanımlanmışken, aynı maddenin (b) bendinde ise: diğer çocuklar ifadesiyle “onbeş yaşını bitirmiş olup da onsekiz yaşını tamamlamamış” olan çocuklar kastedilerek, bunlara karşı sadece cebir, tehdit, hile veya iradeyi etkileyen başka bir nedene dayalı olarak gerçekleştirilen cinsel davranışların cinsel istismar suçunu oluşturabileceği kabul edilmiştir. Böylece kanun koyucu 103. maddede “onbeş yaşını bitirmiş olup da onsekiz yaşını tamamlamamış” olan çocuklara karşı rızalarıyla işlenen cinsel davranışları cinsel istismar suçu kapsamına almamış ve bu kategorideki çocukların rızalarına önem vermişken, “onbeş yaşını tamamlamamış” çocuklara karşı yapılan her türlü cinsel davranışı rızaları olsa bile çocukların cinsel istismarı suçu kapsamına almıştır. Diğer taraftan, kanunun 102. maddesinde 18 yaşını bitirmiş olan kişilere yönelik rıza dışı gerçekleştirilen cinsel saldırı eylemleri suç olarak kabul edilmiş, aynı kanunun 104. maddesinde de, cebir, tehdit ve hile olmaksızın, onbeş yaşını bitirmiş olan çocukla cinsel ilişkide bulunma şikayete bağlı bir suç olarak düzenlemiştir.
+
+Görüleceği üzere, mağdurun suç tarihi itibariyle onbeş yaşını bitirip bitirmediği hususu, eylemin kanunda düzenlenen hangi suç tipine uyduğu veya mağdurenin şikayetçi olup olmamasına göre faile ceza verilip verilemeyeceğinin tespiti bakımından büyük önem taşımaktadır. Nitekim anılan maddelerde değişiklikler öngören 18.6.2014 tarihli 6545 Sayılı Kanunla mağdurenin yaşını dikkate alan bu düzenleme şekli aynen korunmuştur.
+
+Öte yandan, ceza muhakemesi hukukunda vicdani kanıt sistemi benimsenmiştir. Bu sistemle ifade edilmek istenen hem delil serbestliği hem de delillerin değerlendirilmesi serbestliğidir. Ceza muhakemesinde somut gerçek arandığından, hakimi bu gerçeğe götürebilecek her şey delil olabilir. Ancak, hükme dayanak alınan delillerin eksiksiz düzeyde derlenmesi ve bunların gerçekçi, akılcı, olayı temsil edici, ispatlayıcı ve hukuka uygun bulunmaları gerekir. Bu belirlemeler ceza yargılamasında şekli duruma değil, somut gerçeğe itibar edileceğini ortaya koymaktadır. Aksinin kabulü hak ve adalet duygularını yaralayacaktır.
+
+Bu bilgiler ışığında somut olay değerlendirildiğinde:
+
+7.6.1991 doğumlu olan ve yaşının düzeltilmesine kayden bir engel bulunmayan mağdurenin, nüfusa doğumundan yaklaşık bir buçuk yıl sonra 5.1.1993 tarihinde kaydedilmesi, mernis doğum tutanağında doğumun “sağlık personeli yardımıyla” gerçekleştiğinin belirtilmesine rağmen, dosya içerisinde her hangi bir doğum raporunun bulunmaması, babasının da mağdurenin evde doğduğunu, herhangi bir resmi kaydının olmadığını beyan etmesi, Mersin Devlet Hastanesince düzenlenen sağlık kurulu raporunda çelişki oluşturacak şekilde, “mağdurenin 17 yaşını bitirip 18 yaşını sürdüğü sonucuna varılmakla birlikte kemik yaşı olarak 19 yaşını doldurmuş görünümde olduğunu” görüşüne yer verilmiş bulunması karşısında, mağdurenin gerçek yaşı hususunda şüphe meydana gelmiş olup, bu şüphenin giderilmesi amacıyla öncelikle mağdurenin doğum tarihi itibariyle doğduğu kasabada görevli bir ebe bulunup bulunmadığı araştırılıp, bulunduğunun tespiti halinde kayıtlarının istenilerek incelenmesi, buradan bir sonuca ulaşılamaması halinde ise sağlık kurulu raporuna dayanak teşkil eden kemik film ve grafiler gönderilmek suretiyle Adli Tıp Kurumu ilgili ihtisas kurulundan görüş istenilerek mağdurenin gerçek yaşının bilimsel olarak tespitinden sonra, sonucuna göre sanığın hukuki durumunun belirlenmesi gerekirken, eksik araştırmayla hüküm kurulmuş olması usul ve yasaya aykırıdır.
+
+Bu itibarla. Yargıtay C. Başsavcılığı itirazının değişik gerekçeyle kabulüne, Özel Daire bozma kararının kaldırılmasına ve yerel mahkeme hükmünün, mağdurenin gerçek yaşı tespit edilmeden hüküm kurulması isabetsizliğinden bozulmasına karar verilmelidir.
+
+Sonuç: Açıklanan nedenlerle:
+
+1- Yargıtay Cumhuriyet Başsavcılığı itirazının değişik gerekçeyle kabulüne,
+
+2- Yargıtay 14. Ceza Dairesinin 25.3.2013 gün ve 10104-3269 Sayılı bozma kararının kaldırılmasına,
+
+3- Manisa 1. Ağır Ceza Mahkemesi’nin 24.2.2009 gün ve 282-65 Sayılı hükmünün, mağdurenin gerçek yaşı tespit edilmeden eksik araştırmayla hüküm kurulması isabetsizliğinden BOZULMASINA,
+
+4- Dosyanın, mahalline gönderilmek üzere Yargıtay Cumhuriyet Başsavcılığına TEVDİİNE, 30.10.2014 tarihinde yapılan müzakerede oybirliği ile, karar verildi.
+
+YARGITAY 14. CEZA DAİRESİ
+Esas: 2011/22094 Karar: 2013/10790Tarih: 31.10.2013
+
+TCK 30. Madde
+
+Hata
+
+Yapılan yargılamaya, toplanıp karar yerinde gösterilen delillere, mahkemenin soruşturma sonuçlarına uygun olarak oluşan kanaat ve takdirine, incelenen dosya içeriğine göre yerinde görülmeyen sair temyiz itirazlarının reddine,
+
+Ancak;
+
+Kayden 04.11.1994 doğumlu olup suç tarihinde 15 yaşında ancak bu yaşı henüz tamamlamayan mağdurenin rızası ile sanıkla kaçtıkları ve cinsel ilişkiye girdikleri, 26.01.2011 tarihinde resmî nikâhla evlenip çocuk sahibi oldukları ve halen de evliliğin devam ettiği olayda, sanığın duruşmada, suç tarihinde mağdurenin kendisine 16 yaşında olduğunu söylediğini beyan etmesi, mağdurenin de bu bu ifadeyi doğrulaması ve kimi Adli Tıp raporlarında genetik beslenme ve hormonal nedenlerle kayıt yaşının kemik yaşından farklı olabileceğinin belirtilmesi karşısında, TCK.nın 30. maddesi hükümleri yönünden hata halinin mevcut olup olmadığının tespiti için mağdurenin görünüm itibarıyla 15 yaşından küçük olduğunun anlaşılıp anlaşılamayacağı, içinde bulundukları sosyal ve kültürel durumları da dikkate alınarak sanığın mağdurenin yaşı konusunda hataya düşmesinin mümkün olup olmadığı araştırılarak ve mahkemenin dosyadaki tüm verilerle birlikte kendi gözlemini de tespit ederek, gerekirse bu konuda bilirkişi incelemesinden de yararlanılarak sonucuna göre sanığın hukuki durumunun takdir ve tayini gerekirken eksik inceleme ile yazılı şekilde hüküm kurulması,
+
+SONUÇ : Kanuna aykırı, sanık müdafiin temyiz itirazları bu itibarla yerinde görüldüğünden hükümlerin 5320 sayılı Kanunun 8/1. maddesi gözetilerek CMUK.nın 321. maddesi uyarınca BOZULMASINA, 31.10.2013 tarihinde oybirliğiyle karar verildi.
+
+UYARI

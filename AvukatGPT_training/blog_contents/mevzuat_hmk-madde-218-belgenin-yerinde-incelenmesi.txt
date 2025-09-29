@@ -1,0 +1,100 @@
+Belgenin Yerinde İncelenmesi
+
+HMK Madde 218
+
+HMK Madde 218 Gerekçesi
+
+HMK 218 (Belgenin Yerinde İncelenmesi) Yargıtay Kararları
+
+(1) Mahkemeye getirilmesi zor veya sakıncalı olan belgeler, hâkim veya görevlendireceği bilirkişi tarafından yerinde incelenir ya da bu belgelerin mahkemeye sunulmuş örnekleri asıllarıyla karşılaştırılır. İnceleme sonunda bir tutanak düzenlenir ve gerekli görülürse uygun teknik araçlarla belgenin aslı kaydedilir.
+
+(2) Mahkemenin bu yöndeki emrinin yerine getirilmesine haklı bir sebep olmaksızın engel olunması hâlinde hâkim tarafından, engel olan kişi hakkında sebep olduğu giderlere ve beşyüz Türk Lirasından beşbin Türk Lirasına kadar disiplin para cezasına hükmolunur. Gerektiğinde zor kullanılmasına da karar verilebilir.
+
+Madde, 1086 sayılı Kanunun 323 üncü maddesinin yeniden düzenlenmiş hâlidir.
+
+Ayrıca bu hüküm, ispat ve delillere ilişkin genel kısımdaki konuyla ilgili düzenlemeyle de doğrudan bağlantılıdır. Ancak genel hükümlerde tüm delilleri kapsayacak nitelikte bir düzenleme yapılmıştır. Burada ise özellikle belgeler bakımından durumun özelliği dikkate alınmıştır.
+
+Birinci fıkra hükmüne göre mahkemeye getirilmesi zor ve sakıncalı belgeler ancak yerinde incelenecektir. Özel bir ortamda korunması gereken ya da taşınması güç olan belgelerle, bulunduğu yerden çıkartılmasında sakınca bulunan belgelerin de delil olarak gösterilmesi mümkündür. Bu tür belgeler delil olarak gösterilip, uyuşmazlığın çözümüne etkisi olacağına karar verildiği takdirde mahkemece incelenip değerlendirilmelidir. Zira, mahkemece değerlendirilmeyen ve tarafların bilgisine sunulmayan hiçbir delil veya belge hükme esas alınamaz. Aksinin kabulü, hukukî dinlenilme hakkına ve adil yargılanma hakkına aykırı olacaktır. Bu sebeple belgenin delil olarak kullanılması ile belgenin korunması arasındaki denge gözetilerek, belgenin yerinde incelenmesi mümkün kılınmıştır.
+
+Böyle bir inceleme, hâkim ya da görevlendireceği bilirkişi tarafından gerçekleştirilecektir. Bu durumda mahkemeye gönderilen belge örneği ile yerinde bulunan aslı karşılaştırılacaktır. İnceleme sonunda bir tutanak düzenlenecek, gerekli görülürse, uygun teknik araçlar kullanılarak belge aslı da kaydedilecektir.
+
+İkinci fıkra uyarınca, yukarıda belirtilen sebeplerle, davanın delili olan bir belgenin mahkemece incelenmesi ve değerlendirilmesi önemlidir. Mahkemece böyle bir belgenin delil olarak kullanılmasına karar verildikten sonra, belge aslının yerinde incelenmesine, mahkemece kabul edilecek haklı bir sebep gösterilmeden karşı konulursa, zor kullanılmasına karar verilebileceği gibi, engel olanların da bu konudaki giderlere ve para cezasına mahkum edilmesi söz konusu olacaktır. Böylece, hükmün tam olarak uygulanmasının sağlanması amaçlanmıştır
+
+Yargıtay 2. Hukuk Dairesi  2021/5346 E.  ,  2021/8093 K.
+
+Somut olayda, mahkemece banka hesaplarındaki para yönünden artık değere katılma alacağına hükmedilmiş ise de, davalı erkeğin kişisel mal savunmasına yönelik yeterli araştırma ve inceleme yapılmamıştır. Şöyle ki, Akbank’tan gelen 10.05.2016 tarihli yazı cevabında erkeğe ait hesapların açılış-kapanış tarihlerinin ve 10 yıllık saklama süresi dolduğu için 2006 öncesi banka hesap hareketlerinin gönderilmediğinin bildirildiği; hükme esas alınan bilirkişi raporunda hesapların açılışı kapanış tarihleri dikkate alınarak hesaplar arası aktarım olup olmadığı, hesapların birbirinin devamı olup olmadığı tespit edilmeden, 2006 öncesi kayıtlar olmadığı için mevcut para edinilmiş mal kabul edilerek artık değere katılma alacağı hesaplandığı anlaşılmaktadır. O halde, her ne kadar bilirkişi tarafından 2006 öncesi kayıtlar dosya kapsamında olmadığı için incelenememiş ise de, ilgili bankaya yeniden hesap numaraları yazılarak hesapların açılış tarihinden itibaren hesap hareketlerinin gönderilmesinin istenilmesine, açılış tarihinden itibaren hesap hareketlerinin gönderilmemesi halinde isegerekirse HMK 218/1. maddesi gereğince konusunda uzman bilirkişi/bilirkişilere banka kayıtları yönünden yerinde incelenmesi* için yetki verilerek banka hesaplarının açılıştan itibaren hareketlerinin incelemesinin yapılarak rapor alınmasının sağlanması, sonucuna göre davalının kişisel mal savunması yönünde bir karar verilmesi gerekirken, yazılı şekilde eksik araştırma ile karar verilmesi hatalı olmuş, bozmayı gerektirmiştir.
+
+YARGITAY 15. HUKUK DAİRESİ
+Esas : 2016/1716 Karar : 2017/1397Tarih : 29.03.2017
+
+HMK 218. Madde
+
+Belgenin Yerinde İncelenmesi
+
+Dava, Yap-İşlet-Devret modeli ile yükümlenilen Hamzabeyli Gümrük Kapısı Hizmet Binaları, Ticari Tesisler ile mütemmimlerinin yapımı, işletmesi ve devri konulu sözleşmeden kaynaklanmakta olup dava, inşaat yapım maliyeti ile işletme bitim tarihinin 29.10.2015 olarak tespitine karar verilmesi istemiyle açılmıştır. Davalı cevabında; sözleşmede işletmeye alınması süresinin ayrıntılı olarak düzenlendiğini, iddiaların sözleşmeye ve yasal düzenlemeye aykırı olduğunu beyan ederek davanın reddini savunmuştur. Mahkemece ıslah da değerlendirilerek işletme süresi bitim tarihinin 03.04.2016, maliyet bedelinin 10.233.594,91 TL olduğuna yönelik verilen tespit kararı davalı vekilince temyiz edilmiştir.
+
+Mahkemece yapılan yargılama sırasında; davacı tarafın evrak üzerinde inceleme yapılarak rapor düzenlenmesini istemesi, davalı vekilinin ise gerekirse bilirkişi kuruluna yerinde inceleme yetkisi de verilmek suretiyle rapor tanzim edilmesini talep etmesi nedeni ile dava konusu yapılan sözleşme süresinin bitim tarihinin yakın olması ve tespitin aciliyeti gerekçesi ile HMK 278/4. maddesi uyarınca 17.03.2015 tarihli celsede; resen seçilecek 3 kişilik bilirkişi heyetine dosyanın tevdi ile tarafların iddia ve savunmaları, gerekirse yerinde inceleme yapma yetkisi de verilmek suretiyle yerinde de inceleme yapılarak rapor düzenlenmesi yönünde ara kararı verilmiştir. Ara kararının icrası için mahkemece talimat yazısı yazılmamış, bilirkişiler bu ara kararı uyarınca taraflara, özellikle davalıya haber vermeden, mahallinde davacı tarafından yer gösterilmesi ve yapılan ölçüme dayalı olarak ve hakim nezareti olmadan yaptıkları inceleme sonucuna göre 29.09.2015 tarihli raporlarını düzenleyip mahkemeye sunmuşlar ve mahkemece de bu rapor esas alınarak hüküm kurulmuştur.
+
+Davacının talepleri teknik incelemeyi gerektirmektedir. Hakim, uyuşmazlık konusu hakkında bizzat duyu organları yardımıyla bulunduğu yerde veya mahkemede inceleme yaparak bilgi sahibi olmak amacıyla keşif yapılmasına karar verebilir. Hakim gerektiğinde bilirkişi yardımına başvurur (HMK 288/1). Keşif kararı, mahkemece, taraflardan birinin talebi üzerine veya resen alınır (HMK 288/2). Mahkeme, çözümü hukuk dışında, özel veya teknik bilgiyi gerektiren hallerde, taraflardan birinin talebi üzerine yahut kendiliğinden, bilirkişinin oy ve görüşünün alınmasına karar verir (HMK 266/1). Kanunda belirtilen haller dışında, deliller davaya bakan mahkeme huzurunda, mümkün olduğunca birlikte ve aynı duruşmada incelenir. Bu kural doğrudanlık ilkesinin bir sonucudur. HMK’nın 218/1. maddesinde “Mahkemeye getirilmesi zor veya sakıncalı olan belgeler, hakim veya görevlendireceği bilirkişi tarafından yerinde incelenir ya da bu belgelerin mahkemeye sunulmuş örnekleri asıllarıyla karşılaştırılır. İnceleme sonunda bir tutanak düzenlenir ve gerekli görülürse uygun teknik araçlarla belgenin aslı kaydedilir.” HMK 197. maddesinde de “kanunda belirtilen haller dışında, deliller davaya bakan mahkeme huzurunda, mümkün olduğu kadar birlikte ve aynı duruşmada incelenir… (2) Başka yerde bulunan ve mahkemeye getirilemeyen deliller, o yerde istinabe yoluyla toplanabilir. (3) Delillerin incelenmesi veya beyanların dinlenmesi sırasında taraflar, istinabe olunan mahkemede hazır bulunabilir ve delillerle ilgili açıklama haklarını kullanabilirler. Bu hususu sağlamak için, taraflara incelemenin yapılacağı tarih ve yer bildirilir. Bu davet üzerine taraflar istinabe olunan mahkemede hazır bulunmasalar dahi deliller incelenir veya beyanlar dinlenir.
+
+Bu yasa hükümleri birlikte değerlendirildiğinde, mahkemece hükme dayanak alınan rapor usul hükümlerine aykırı olarak yapılan inceleme sonucu alınmıştır. Mahkemece yargı çevresi dışında bulunan Hamzabeyli’de bulunan gümrük kapısı ile ilgili yapılan işlerin tespiti için işin yapıldığı yer mahkemesine talimat yazıp isterlerse taraflara da günü bildirmek suretiyle hakim gözetiminde keşif yaptırması ve bilirkişi raporu aldırması gerekirken, bu yola başvurmadan bilirkişilere yerinde inceleme yetkisi vermesi delillerin mahkeme huzurunda toplanacağına dair HMK’nın 197. maddesine aykırı olmuştur. Hakimin doğrudan inceleme yaptırma yetkisi bulunmadığı gibi hakimlik yetkisinin bilirkişilere devri de mümkün bulunmamaktadır. HMK 278/4. maddesi yanlış yorumlanarak ve HMK 288/1. madde hükümlerine aykırı olarak istinabe yolu ile keşif yapılmadan bilirkişilere yerinde inceleme yetkisi verilerek karar verilmesi HMK 27. maddesinde düzenlenen adil yargılanma hakkının en önemli unsuru olan hukuki dinlenilme hakkına aykırılık teşkil edeceğinden doğru olmamıştır.
+
+Bu durumda mahkemece talimat yoluyla mahallinde konusunda uzman teknik bilirkişiler marifeti ile keşif ve bilirkişi incelemesi de yaptırılarak alınacak rapor ve dosya kapsamındaki delillere göre sonucuna uygun bir karar verilmesi gerekirken bilirkişilere yerinde inceleme yetkisi verilerek ve davalı tarafın yokluğunda yapılan inceleme sonucu düzenlenen rapora göre karar verilmesi aykırı olmuş, kararın bozulması uygun görülmüştür.
+
+SONUÇ: Yukarıda açıklanan nedenlerle davalının temyiz itirazının kabulü ile hükmün davalı yararına BOZULMASINA, bozma nedenine göre diğer temyiz itirazlarının bu aşamada incelenmesine yer olmadığına, 1.480,00 TL duruşma vekalet ücretinin davacıdan alınarak Yargıtay’daki duruşmada vekille temsil olunan davalıya verilmesine, karara karşı tebliğ tarihinden itibaren 15 gün içinde karar düzeltme isteminde bulunulabileceğine 29.03.2017 gününde oybirliğiyle karar verildi.
+
+YARGITAY 15. HUKUK DAİRESİ
+Esas: 2015/4363 Karar: 2016/3635Tarih: 22.06.2016
+
+HMK 218. Madde
+
+Belgenin Yerinde İncelenmesi
+
+Taraflar arasındaki asıl davada; davacı taşeron tarafından eser sözleşmesinden kaynaklanan bakiye iş bedelinin tahsili için yapılan icra takibine itirazın iptâli, takibin devamı ve icra inkâr tazminatının tahsili istenmiş, birleşen davada ise davacı yüklenici tarafından, taşeronun işi yarım bırakması sebebiyle uğranılan zararın ve fiyat farkının tahsili için girişilen takibe itirazın iptâli, takibin devamı ve icra inkâr tazminatı istenmiş, mahkemece; asıl davanın kısmen kabulüne kısmen reddine, takibin devamına icra inkâr tazminatının tahsiline, birleşen davanın reddine karar verilmiş, hüküm davalı birleşen davanın davacısı vekili tarafından temyiz edilmiştir.
+
+Davacı vekili; müvekkilinin davalı şirket ile imzalanan … tarihli sözleşmeyle, … Havaalanı İnşaatı İşi’nde yapılacak olan kaliteli beton imalatında kullanılacak olan agreganın temini işini ve … tarihli sözleşmeyle de aynı işin temel altı imalatların yapılmasını üstlendiğini, müvekkilinin sözleşmeden doğan yükümlülüklerini eksiksiz yerine getirmesine rağmen davalının ödeme yükümlülüklerini yerine getirmediğini, çeklerinin karşılıksız çıktığını, müvekkilinin ürettiği malzemelerin davalı elemanları tarafından gizlice alındığını, noterden fesih ihtarı gönderip alacaklarının tahsili için İcra Müdürlüğü’nün dosyasında … keşide tarihli … TL bedelli çek ve … düzenleme ve … tediye tarihli … TL bedelli senet için, işlemiş faizleriyle birlikte toplam … TL için icra takibine giriştiğini, borçlu davalının takibe haksız ve yersiz itirazının iptâline karar verilmesini istemiştir.
+
+Davalı vekili, davacı taşeronun yükümlülüklerini yerine getirmediğini iş akışına engel olup ihtarlarına rağmen işi durdurduğunu ağır çalıştığını, takibe dayanak yaptığı senedin fotokopi olduğunu, davacıyı ara ve avans ödemelerinin yapıldığını, nihai sonucun kesin hesapta çıkacağını beyanla haksız açılan davanın reddini istemiştir.
+
+Öte yandan asıl dava ile birleştirilen ve yüklenici tarafından taşerona karşı açılan Asliye Ticaret Mahkemesi’nin dava dosyasında davalı taşeronun işi yarım bırakması sebebiyle davacı yüklenici tarafından tamamlanan imalâtlardan dolayı maruz kalınan zararların ve fiyat farklarının davalı tarafça tazmini için kesilen faturaya göre cari hesapta oluşan … TL alacağın tahsili için girişilen takibe itirazın iptâli, takibin devamı ve icra inkâr tazminatı istendiği görülmüştür.
+
+Mahkemece yapılan yargılama sırasında; tarafların sundukları delillerin toplandığı,bu amaçla davalı şirketin kayıt ve belgeleri üzerinde istinabe yoluyla bilirkişi incelemesi yapılıp ilk rapor alındıktan sonra, oturumdaki ara kararında HMK’nın 278. maddesi gereğince işlem dosyaları üzerinde inceleme yapmak üzere yerinde inceleme yetkisi verilmesine, bilirkişilerin şehir dışında bulunan dosyalara dair incelemeleri yönünden gerekli olan ulaşım giderlerinin davacı tarafça karşılanmasına karar verilmiştir. Ancak bu ara kararının icrası için bir talimat yazısı yazılmadığı halde bilirkişilerin bu ara kararı uyarınca … Bölge Müdürlüğü’nde bulunan ihale işlem dosyası üzerinde hakim nezareti olmadan yaptıkları inceleme sonucuna göre hükme esas alınan raporlarını düzenleyip mahkemeye sundukları, mahkemece de bu rapor ve ek rapor esas alınarak hüküm kurulduğu görülmektedir.
+
+Kanunda belirtilen haller dışında, deliller davaya bakan mahkeme huzurunda, mümkün olduğunca birlikte ve aynı duruşmada incelenir. Bu kural doğrudanlık ilkesinin bir sonucudur. Zorunlu hallerde ( HMK197/2 ) başka yerde bulunan ve mahkemeye getirilemeyen deliller o yerde istinabe yoluyla toplanabilir.
+
+HMK.nın 218/1. maddesindeHMK.nın 218/1. maddesinde “Mahkemeye getirilmesi zor veya sakıncalı olan belgeler, hâkim veya görevlendireceği bilirkişi tarafından yerinde incelenir ya da bu belgelerin mahkemeye sunulmuş örnekleri asıllarıyla karşılaştırılır. İnceleme sonunda bir tutanak düzenlenir ve gerekli görülürse uygun teknik araçlarla belgenin aslı kaydedilir.”
+
+HMK.nın 197. maddesinde de “kanunda belirtilen hâller dışında, deliller davaya bakan mahkeme huzurunda, mümkün olduğu kadar birlikte ve aynı duruşmada incelenir.
+
+( 2 ) Başka yerde bulunan ve mahkemeye getirilemeyen deliller, o yerde istinabe yoluyla toplanabilir.
+
+( 3 ) Delillerin incelenmesi veya beyanların dinlenmesi sırasında taraflar, istinabe olunan mahkemede hazır bulunabilir ve delillerle ilgili açıklama haklarını kullanabilirler. Bu hususu sağlamak için, taraflara incelemenin yapılacağı tarih ve yer bildirilir. Bu davet üzerine taraflar istinabe olunan mahkemede hazır bulunmasalar dahi deliller incelenir veya beyanlar dinlenir.
+
+Bu yasa hükümleri birlikte değerlendirildiğinde, mahkemece hükme dayanak alınan rapor usul hükümlerine aykırı olarak alınmıştır. Hakimin … Bölge Müdürlüğü’nde bulunan ihale işlem dosyalarının incelenmesi için istinabe talimatı yazmaksızın bilirkişilere yerinde inceleme yetkisi vermesi, doğrudan inceleme yaptırma yetkisi bulunmadığı gibi incelemeye esas evrakların …‘dan mahkemeye getirtilmesinde de bir sakınca bulunmamaktadır. Mahkemece istinabe yoluna gidilmeli ya da varsa eksik evraklar da tamamlanarak yeniden oluşturulacak bilirkişi kurulundan rapor alınmalı tüm deliller değerlendirilerek sonuca varılmalıdır.
+
+Kabule göre de alacak miktarı bilirkişi raporuyla belirlendiğinden koşulları oluşmayan icra inkâr tazminatı isteminin reddi gerekirken kabulü davacı lehine icra inkâr tazminatına hükmedilmesi de doğru olmamış hükmün bu sebeplerle davalı yararına bozulması gerekmiştir.
+
+SONUÇ : Yukarıda yazılı sebeplerle kararın temyiz eden davalı yararına BOZULMASINA, ödenen temyiz peşin harcının istenmesi halinde temyiz eden davalı-birleşen dosya davacısına iadesine, karara karşı tebliğ tarihinden itibaren 15 gün içinde karar düzeltme isteminde bulunulabileceğine, 22.06.2016 tarihinde oybirliğiyle karar verildi.
+
+YARGITAY 23. HUKUK DAİRESİ
+Esas : 2015/647 Karar : 2016/1064Tarih : 25.02.2016
+
+HMK 218. Madde
+
+Belgenin Yerinde İncelenmesi
+
+Davacı vekili, davalı kooperatif tarafından müvekkili aleyhine icra takibi başlatıldığını, dayanak gösterilen senet üzerindeki imzanın müvekkiline ait olmadığını, İcra Hukuk Mahkemesi’ne imza itirazında bulunduğunu, mahkemece davanın usulden reddine karar verildiğinden esas hakkında incelemeye geçilemediğini ileri sürerek, müvekkilinin borçlu olmadığının tespitini ve %40 kötüniyet tazminatının tahsilini talep ve dava etmiştir.
+
+Davalı vekili, davacının dava dışı Cemal Yılmaz’ın müvekkili kooperatiften kullandığı krediye kefil olduğunu, İcra Hukuk Mahkemesi’nde davacı tarafından açılan davanın kesin olarak reddine karar verildiğini savunarak, davanın reddini ve %40 tazminatın tahsilini istemiştir.
+
+Mahkemece, davanın kabulüne dair verilen karar, davalı vekilinin temyiz istemi üzerine , Dairemizin 05.06.2013 tarih ve 3355 E., 3824 K. sayılı ilamıyla; dosyadaki yazılara, kararın dayandığı delillerle gerektirici sebeplere, delillerin takdirinde bir isabetsizlik bulunmamasına ve özellikle HUMK’nın 389/1. maddesinde yer alan tanık dinlenme olanağına, dava tarihinde yürürlükte olan HMK’nın 218. maddesinde yer verilmemiş bulunmasına göre, davalı vekilinin diğer temyiz itirazları yerinde olmadığı, somut olayda, mahkemece, davacı hakkında başlatılan icra takibine konu 24.03.2008 tanzim, 24.12.2008 vade tarihli 3.125,00 TL bedelli senetteki imzanın davacıya ait olup olmadığına ilişkin Adli Tıp Kurumu’ndan rapor alınmış ve bu raporda “senetteki imzanın teşhise götürecek karakteristik materyal, önemli yazı ve tanı unsuru içermediği, karalama tarzında çizgilerden ibaret basit tersimli bir imza olduğu, bu nedenle davacının eli ürünü olup olmadığının tespit edilemediği” belirtilmiş ve buna göre mahkemece senetteki imzanın davacıya ait olduğunun tespit edilememiş olması sebebiyle davalı alacaklının sorumlu olduğu gerekçesiyle davanın kabulüne karar verilmiş ise de, mahkemenin bu sonuca götürecek yeterli araştırma yapılmadan hüküm kurduğu, bu durumda, mahkemece fizik ve grafoloji incelemelerinde Adli Tıp İhtisas Dairesi’nin nihai merci olmadığı göz önünde bulundurularak öncelikle davacının huzurda HMK’nın 211. maddesi hükmüne uygun olarak imzaları alındıktan sonra grafoloji ve kriminal alanlarında uzman başka bir kuruma (Jandarma Genel Komutanlığı Kriminal Laboratuarı, Güzel Sanatlar Akademisi gibi) grafolojik metotlar ve optik aletler ile inceleme yaptırılarak denetime elverişli yeni bir bilirkişi raporu alınarak, oluşacak uygun sonuç dairesinde bir karar verilmesi gerekirken, eksik incelemeye dayalı olarak yazılı şekilde hüküm kurulmasının doğru görülmediği gerekçesiyle bozulmuştur.
+
+Mahkemece bozma kararına uyularak yapılan yargılama sonucunda alınan bilirkişi raporu ve tüm dosya kapsamına göre; Söke Jandarma Kriminal Laboratuvar Amirliği raporu ile İ…öğretim görevlilerinden oluşan bilirkişi heyeti raporunda, imzanın davacının elinin ürünü olabileceğinin kuvvetle muhtemel olduğunun tespit edildiği gerekçesiyle, davanın ve davalının tazminat isteminin reddine karar verilmiştir.
+
+Kararı, davacı vekili temyiz etmiştir.
+
+Dosyadaki yazılara, mahkemece uyulan bozma kararı gereğince hüküm verilmiş olmasına ve bozmanın kapsamı dışında kesinleşmiş olan yönlere ilişkin temyiz itirazları incelenemeyeceğine göre, davacı vekilinin temyiz itirazları yerinde görülmemiştir.
+
+SONUÇ: Yukarıda açıklanan nedenlerle, davacı vekilinin tüm temyiz itirazlarının reddiyle usul ve kanuna uygun bulunan hükmün ONANMASINA, aşağıda yazılı onama harcının temyiz edenden alınmasına, karar düzeltme yolu kapalı olmak üzere, 25.02.2016 tarihinde oybirliğiyle karar verildi.
+
+UYARI

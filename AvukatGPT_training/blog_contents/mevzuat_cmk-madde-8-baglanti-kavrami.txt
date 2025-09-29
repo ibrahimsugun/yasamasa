@@ -1,0 +1,392 @@
+Bağlantı kavramı
+
+CMK Madde 8
+
+CMK Madde 8 Gerekçesi
+
+CMK 8 (Bağlantı Kavramı)  Emsal Yargıtay Kararları
+
+(1) Bir kişi, birden fazla suçtan sanık olur veya bir suçta her ne sıfatla olursa olsun birden fazla sanık bulunursa bağlantı var sayılır.
+
+(2) Suçun işlenmesinden sonra suçluyu kayırma, suç delillerini yok etme, gizleme veya değiştirme fiilleri de bağlantılı suç sayılır.
+
+Maddede “murtabıt” yerine “bağlantılı” sözcüğü kullanılmıştır. Madde iki fıkradan oluşmaktadır. Birinci fıkra, 1412 sayılı Kanunun 3 üncü maddesini tekrarlamakta, ikinci fıkra ise bağlantı kavramını genişletmekte ve aynı Kanunun 230 uncu maddesinin söz konusu ettiği olanağı somutlaştırmaktadır. Böylece ikinci fıkrada, suçun işlenmesinden sonra faile yardım etme, suçun delil, iz, eser ve emarelerini ortadan kaldırma veya suç failine yataklık etme fiillerinin de bağlantılı suç sayıldığı açıklanmıştır.
+
+Ceza Genel Kurulu         2017/513 E.  ,  2019/672 K.
+
+CMK’nın 8. maddesinin birinci fıkrasında; bir kişinin birden fazla suçtan sanık olması veya bir suçta birden fazla sanık bulunması şeklinde dar bağlantı tanımlanmış, maddenin ikinci fıkrasında da suçun işlenmesinden sonra suçluyu kayırma, suç delillerini yok etme, gizleme veya değiştirme fiillerinin de bağlantılı suç sayılacağı belirtilerek, bu hâlde de fiiller arasında bağlantının varlığı kabul edilmiştir. Anılan Kanun’un 11. maddesinde ise geniş bağlantı tanımlanmıştır. Bu hüküm uyarınca, yapılan yargılamada mahkemece bakılmakta olan birden fazla dava arasında bağlantının saptanması hâlinde, bu bağlantı 8. maddede gösterilen türden olmasa dahi, yargılamanın birlikte yapılarak hükme bağlanması için davaların birleştirilmesine karar verilebilecektir. Maddede, ne tür bağlantıların bu kapsamda değerlendirileceği yönünde bir sınırlandırmaya yer verilmemiş, yalnızca mahkemenin bakmakta olduğu birden çok davada bağlantı görmesi yeterli kabul edilmiştir. Bu hükmün amacı, görülmekte olan uyuşmazlıkların birlikte yargılanmasında ve karara bağlanmasında yarar bulunmasıdır. Bu şekilde tüm delillerin birlikte değerlendirilmesi suretiyle, daha adil bir kararın verilmesi ve verilecek hükümlerde muhtemel değerlendirme hatalarının engellenmesi hedeflenmiştir.
+
+Görüldüğü gibi, ceza muhakemesinde genel kural, açılan her dava üzerine ayrı bir yargılamanın yapılmasıdır. Ancak, uyuşmazlıklar arasında bağlantı olduğu zaman, bağlantının özelliği gereği bu kuraldan ayrılmak mümkündür. Bağlantılı davalar ayrı ayrı görülebileceği gibi, birleştirilerek de görülebilecek olup istisnai hallerden biri olan yargılamaların birleştirilmesine kararı verilebilmesi için;
+
+1- Davalar arasında bağlantı olmalı,
+
+2- Davaların birleştirilmesinde yarar görülmeli,
+
+3- Birleştirme yasağı söz konusu olmamalıdır.
+
+Kanun koyucu, açılan her dava üzerine ayrı yargılama yapılmasını kural olarak benimseyip istisnai durumlarda davaların birleştirilebileceğini hüküm altına alırken, birleştirmede fayda bulunup bulunmadığının her olayda araştırılmasını yargılamayı yürüten hâkime bırakmış, istisnai olarak da yargılamaların birleştirilip birleştirilmeyeceğini kendisi tayin etmiştir. Örneğin 4483 sayılı Kanun’un 10. maddesinde yer alan; “Bu kanun kapsamındaki suçların iştirak halinde işlenmesi durumunda memur olmayan, memur olanla; ast memur üst memur ile aynı mahkemede yargılanır.” şeklindeki hükümle birleştirme zorunluluğu vurgulanırken, 2004 sayılı İcra İflas Kanunu’nun 346/2. maddesi uyarınca İcra Tetkik Mercisinin yetkisine giren ceza davalarının diğer davalarla birleştirilemeyeceği hüküm altına alınmıştır.
+
+Birleştirme zorunluluğu ya da birleştirme yasağının söz konusu olmadığı diğer durumlarda, mahkemelerce görülmekte olan davalar arasında bağlantı olduğu tespit edildiğinde bu davalar birleştirilebilecektir. Fakat birleştirme zorunlu olmayıp tamamen mahkemenin takdirine bırakılmıştır.
+
+Öte yandan Ceza muhakemesinin amacı, her somut olayda kanuna ve usulüne uygun olarak toplanan delillerle maddi gerçeğe ulaşıp adaleti sağlamak, suç işlediği sabit olan faili cezalandırmak, kamu düzeninin bozulmasının önüne geçebilmek ve bozulan kamu düzenini yeniden tesis etmektir. Gerek 1412 sayılı CMUK gerekse 5271 sayılı CMK, adil, etkin ve hukuka uygun bir yargılama yapılması suretiyle maddi gerçeğe ulaşmayı amaç edinmiştir. Bu nedenle ulaşılma imkânı bulunan bütün delillerin ele alınıp değerlendirilmesi gerekmektedir. Diğer bir deyişle, adaletin tam olarak gerçekleşebilmesi için maddi gerçeğe ulaşma amacına hizmet edebilecek tüm kanuni delillerin toplanması ve tartışılması zorunludur.
+
+Bu bilgiler ışığında uyuşmazlık konusu değerlendirildiğinde;
+
+Osmangazi Belediyesi İmar ve Şehircilik Müdürlüğü Yapı Kontrol Bürosu görevlilerince Osmangazi İlçesi Küplüpınar Mahallesi Birdal Sokak No. 6 adresinde 14.04.2009 tarihinde yapılan kontrolde, 100 metrekare alanda mevcut zemin kat üzerine 1. ve 2. normal katların kaba inşaatının tamamlandığı ruhsatsız bir bina görülerek yapı tatil ve tespit zaptı düzenlendiği, zapta göre yapı sahibinin … olduğu, … isimli şahsın yapı sahibi yerine tutanağı imzaladığı, Bursa Cumhuriyet Başsavcılığınca suça konu ruhsatsız binayı sanık …’un yapması nedeniyle … hakkında ek kovuşturmaya yer olmadığına dair karar verildiği, dosyadaki tapu kaydı ile ekindeki Resmî Senet’e göre ise suça konu binanın üzerinde bulunduğu bahçe niteliğindeki taşınmazın 97/3959 hissesine tekabül eden 197,97 metrekarelik kısmı daha önce … adına kayıtlı iken bu şahıs tarafından 15.07.2010 tarihinde satış suretiyle sanık adına kaydedildiği anlaşılmaktadır.
+Gelinen aşamada, 14.04.2009 tarihinde gerçekleştirilen ve TCK’nın 184. maddesinin birinci fıkrasındaki imar kirliliğine neden olma suçu için öngörülen sekiz yıllık olağan dava zamanaşımı süresi araya herhangi bir kesintinin girmemesi nedeniyle … yönüyle dolmuş olup bu şahıs hakkında suç duyurusunda bulunularak hakkında bir kamu davasının açılması ve açılacak davanın mezkur davayla birleştirilmesi mümkün değildir. Ancak suça konu binanın, suç tarihinde kim tarafından yaptırıldığının ve bu doğrultuda sanığın hukuki durumunun tespiti bakımından; yapı tatil ve tespit tutanağında imzası bulunan … ile yapı sahibi olduğu belirtilen …’nin, tutanak mümzilerinin, komşu taşınmazlarda oturanların ve belirlenebiliyorsa binanın yapımında çalışan kişilerin usulünce tanık sıfatıyla dinlenmesi, taşınmaza ilişkin elektrik, su ve telefon aboneliklerinin hangi tarihte kim adına tesis edildiği, sanığın binayı satın aldığı tarihe kadar emlak vergisi ödenip ödenmediği ve ödenmişse kim tarafından ödendiği gibi hususlar araştırılıp tüm dosya kapsamı birlikte değerlendirilerek sonucuna göre sanığın hukuki durumu tayin edilmelidir.
+
+Ceza Genel Kurulu        Karar: 2018/424
+
+CMK’nın 8. maddesinin birinci fıkrasında; bir kişinin birden fazla suçtan sanık olması veya
+bir suçta birden fazla sanık bulunması şeklinde dar bağlantı tanımlanmış, maddenin ikinci fıkrasında da,
+suçun işlenmesinden sonra suçluyu kayırma, suç delillerini yok etme, gizleme veya değiştirme fiillerinin
+de bağlantılı suç sayılacağı belirtilerek, bu halde de fiiller arasında bağlantının varlığı kabul edilmiştir.
+Kanun’un 11. maddesinde ise geniş bağlantı tanımlanmıştır. Bu hüküm uyarınca, yapılan yargılamada
+mahkemece bakılmakta olan birden fazla dava arasında bağlantının saptanması halinde, bu bağlantı 8.
+maddede gösterilen türden olmasa dahi, yargılamanın birlikte yapılarak hükme bağlanması için davaların
+birleştirilmesine karar verilebilecektir. Maddede, ne tür bağlantıların bu kapsamda değerlendirileceği
+yönünde bir sınırlandırmaya yer verilmemiş, yalnızca mahkemenin bakmakta olduğu birden çok
+davada bağlantı görmesi yeterli kabul edilmiştir. Bu hükmün amacı, görülmekte olan uyuşmazlıkların
+birlikte yargılanmasında ve karara bağlanmasında yarar bulunmasıdır. Bu şekilde tüm delillerin
+birlikte değerlendirilmesi suretiyle, daha adil bir kararın verilmesi ve verilecek hükümlerde muhtemel
+değerlendirme hatalarının engellenmesi hedeflenmiştir.
+
+Görüldüğü gibi, ceza muhakemesinde genel kural, açılan her dava üzerine ayrı bir yargılamanın
+yapılmasıdır. Ancak, uyuşmazlıklar arasında bağlantı olduğu zaman, bağlantının özelliği gereği bu
+kuraldan ayrılınabilmektedir. Bağlantılı davalar ayrı ayrı görülebileceği gibi, birleştirilerek de görülebilecek
+olup, istisnai hallerden biri olan yargılamaların birleştirilmesine kararı verilebilmesi için;
+
+1- Davalar arasında bağlantı olmalı,
+
+2- Davaların birleştirilmesinde yarar görülmeli,
+
+3- Birleştirme yasağı söz konusu olmamalıdır.
+
+Kanun koyucu, açılan her dava üzerine ayrı yargılama yapılmasını kural olarak benimseyip
+istisnai durumlarda davaların birleştirilebileceğini hüküm altına alırken, birleştirmede fayda bulunup
+bulunmadığının her olayda araştırılmasını yargılamayı yürüten hâkime bırakmış, istisnaen de,
+yargılamaların birleştirilip birleştirilmeyeceğini kendisi tayin etmiştir. Örneğin 4483 sayılı Kanun’un
+10.maddesinde yer alan; “Bu kanun kapsamındaki suçların iştirak halinde işlenmesi durumunda memur
+olmayan, memur olanla; ast memur üst memur ile aynı mahkemede yargılanır” şeklindeki hükümle
+birleştirme zorunluluğu vurgulanırken, 2004 sayılı İcra İflas Kanunu’nun 346/2. maddesi uyarınca İcra
+Tetkik Merciinin yetkisine giren ceza davalarının diğer davalarla birleştirilemeyeceği hüküm altına
+alınmıştır.
+
+Birleştirme zorunluluğu ya da birleştirme yasağının söz konusu olmadığı diğer durumlarda,
+mahkemelerce görülmekte olan davalar arasında bağlantı olduğu tespit edildiğinde bu davalar
+birleştirilebilecektir. Fakat birleştirme zorunlu olmayıp tamamen mahkemenin takdirine bırakılmıştır.
+Bu açıklamalar ışığında somut olay değerlendirildiğinde;
+
+Davaların birleştirilmesi talebine Yargıtay 5. Ceza Dairesince muvafakat verilmediğinden bahisle
+B. 2. Ağır Ceza Mahkemesinin 28.02.2017 tarihli ve … sayılı kararı ile davaların birleştirilmesine karar
+verilerek dosyanın Yargıtay Ceza Genel Kuruluna gönderilmesine karar verilmiş ise de; birleştirme
+kararından önce sanık A.K. hakkında 2016/MD-13 esas sayılı dava dosyasında ilk derece mahkemesi
+sıfatıyla yargılama yapan Yargıtay 5. Ceza Dairesince 01.02.2017 tarih ve 13-2 sayı ile sanığın, yüklenen
+görevi kötüye kullanma suçunu işlediğinin sabit olmaması nedeniyle CMK’nın 223/2-e maddesi uyarınca
+beraatine karar verildiği ve anılan kararın temyiz edilmeksizin 09.02.2017 tarihinde kesinleştiği, bu hâliyle
+B. 2. Ağır Ceza Mahkemesinin … esas sayılı davası ile Yargıtay 5. Ceza Dairesinin 2016/MD-13 esas sayılı
+davasının birleştirilmesinin fiilen imkânsız olduğu ve B. 2. Ağır Ceza Mahkemesince bu dosyadaki bilgi
+ve belgelerden yararlanılarak yargılama yapılıp hüküm verme olanağının bulunduğu nazara alındığında,
+B. 2. Ağır Ceza Mahkemesinin … sayılı dava dosyası ile Yargıtay 5. Ceza Dairesinin 2016/MD-13 esas sayılı
+dava dosyalarının birleştirilmesine yer olmadığına, B. 2. Ağır Ceza Mahkemesinin 28.02.2017 tarihli ve …
+sayılı birleştirme kararının kaldırılmasına karar verilmelidir.
+
+Ceza Genel Kurulu         2021/363 E.  ,  2021/636 K.
+
+“Bağlantı kavramı” başlıklı 8. maddeye göre, bir kişinin birden fazla suçtan sanık olması (subjektif bağlantı) bir suçta her ne sıfatla olursa olsun birden fazla sanık bulunması (objektif bağlantı) hâlinde davalar arasında bağlantı var sayılmaktadır.
+
+Bağlantının varlığı hâlinde davaların birleştirilebileceği ve birleştirilmiş davaların ayrılmaları CMK’nın 9, 10 ve 11. maddelerinde düzenlenmiştir. “Geniş bağlantı sebebiyle birleştirme” başlıklı CMK’nın 11. maddesinde aynı mahkemenin, bakmakta olduğu birden çok dava esnasında bağlantı görmesi hâlinde – bu bağlantı 8. maddede gösterilen türden olmasa bile - birlikte bakmak ve hükme bağlamak üzere birleştirilmesine karar verilebileceği hüküm altına alınmışken, kovuşturma aşamasında farklı mahkemelerin davalarının birleştirilmesi “Görülmekte olan davaların birleştirilmesi ve ayrılması” başlığını taşıyan CMK’nın 10. maddesinde düzenlenmiştir.
+Birleştirme yapabilmenin temel amacının usul ekonomisinde aranması gerekir. Bu da zaman ve esas açısından birleştirmede fayda bulunması hâlinde gündeme gelebilir. Yargılamanın birleştirilmesi fayda düşüncesine dayandığından, fayda varsa birleştirilmeli fayda yoksa birleştirilmemelidir. Birleştirmede fayda olup olmadığı olayların özelliğine göre hâkim tarafından belirlenir.
+
+Yargıtay Ceza Genel Kurulunun uygulanagelen kararlarından ayrıntıları ile açıklandığı üzere, davaların birlikte görülebilmesi için aralarında şahsi veya fiili irtibat bulunması gerekmekte olup, davalar arasında böyle bir irtibat yoksa amaç ne olursa olsun yargılama yasasının buyurucu hükümleri gözardı edilerek birlikte görülüp sonuçlandırılmamalıdır. Davanın takdire bağlı olarak birleştirilmesi sanık hakkında yürütülen yargılamanın gereksiz yere uzamasına yol açacak ise birlikte yargılanma gerekli değildir (CGK’nın 15.04.2003 tarih ve 108-120 sayı, 02.12.1992 tarih ve 142-167 sayı, 11.07.2014 tarih ve 52-354 sayılı kararları).
+
+Makul sürede yargılanma hakkının amacı; tarafların uzun süren yargılama faaliyeti nedeniyle maruz kalacakları maddi ve manevi baskı ile sıkıntılardan korunması, adaletin gerektiği şekilde temini ve hukuka olan inancın muhafazası olup hukuki uyuşmazlığın çözümünde bu hususa gerekli özen gösterilmelidir (An. Mah. B.No: 2012/673, 19.12.2013 SS 27), (An. Mah. B. No: 2012/ 1198, 07.11.2013 SS 39) (AİHM Weber/ İsviçre, B. No: 11034/84 22.05.1990).
+
+Hukuk yargılamasından farklı olarak taraflarca hazırlama ilkesinin egemen olmadığı ceza muhakemesinde, yargılama makamlarının davayı gerekli hızla bakıp yürütme yükümlülüğünün bulunduğu, verilen birleştirme kararlarının; hak ve adaletin tesisi için gerekli olduğu düşünülse dahi, bu tür kararların sanık sayısı, olayın karmaşıklığı, sanıklar ve eylemleri arasındaki bağlantı ve iştirak ilişkisinin birleştirmeyi zorunlu kılıp kılmadığı, birleştirmede yasal zorunluluk olup olmadığı, yargılamayı uzatıp uzatmayacağı gibi hususlar nazara alınarak verilmesi gerektiği, eğer davaların birleştirilmesi sanıkların makul sürede yargılanma haklarını ihlal edecekse bu yönteme başvurulmaması gerektiği izahtan varestedir.
+
+Ceza Genel Kurulu         2022/595 E.  ,  2023/92 K.
+
+Ceza yargılamasında genel kaide, açılan her dava üzerine ayrı bir yargılama yapılması olup uyuşmazlıklar arasında bağlantı olduğunda, bağlantının mahiyeti icabı, istisnai hükümler doğrultusunda ana kuraldan ayrılarak farklı hareket edilebildiği, CMK’nın 8 ve 11. maddeleri birlikte değerlendirildiğinde, bağlantılı davalar ayrı ayrı görülebileceği gibi istisnai durumlardan biri olan davaların birleştirilmesine karar verebilmek için; davalar arasında bağlantı olması, davaların birleştirilmesinde yarar görülmesi, birleştirmenin gerekli olması, birleştirmeye olanak bulunması ve birleştirme yasağının mevzu bahis olmaması gerektiği, kural olarak birleştirmede yarar bulunup bulunmadığının her olayda tetkik ve takdir edilmesinin de o yargılamayı yürüten hâkime ait olduğu;
+
+Keza, Ceza Genel Kurulunun 11.07.2014 tarihli ve 52-354 sayılı kararında da benimsendiği gibi; birleştirme zorunluluğu ya da yasağının olmadığı diğer durumlarda, mahkemelerce görülmekte olan davalar arasında bağlantı olduğu tespit edildiğinde bu davaların birleştirilebileceği, fakat birleştirmenin zorunlu olmayıp tamamen mahkemenin takdirine bırakıldığı, davaların birleştirilmesi hususu, muhakemenin hızlı ve basit bir şekilde sürdürülmesi, muhakeme işlemlerinde gereksiz tekrarların önlenmesi ve bir an evvel maddi gerçeğin ortaya çıkarılmasının sağlanmasına yönelik olarak benimsenmiş bir kurum olduğundan, Anayasa’nın 141. maddesindeki “davaların en az giderle ve mümkün olan süratle sonuçlandırılması” ve Avrupa İnsan Hakları Sözleşmesi’nin 6. maddesinde belirtilen “adil yargılanma hakkı” kapsamında “davaların makul sürede görülmesi” ilkeleri gözetildiğinde, davaların uzatılması için bir sebep olmaması gerektiği;
+
+2802 sayılı Hâkimler ve Savcılar Kanunu’nun 86. maddesinde, hâkim ve savcıların suçlarına iştirak edenlerin aynı soruşturma ve kovuşturma mercilerine tabi olduklarının düzenlendiği, anılan maddenin komisyon gerekçesinde; hâkim ve savcılarla birlikte suç işleyen veya bunların suçlarına katılanlar hakkında da aynı soruşturma mercilerinin görevli olduğunun belirtildiği;
+
+Yargıtay, bir temyiz mahkemesi olduğundan, ilk derece yargılamasına ilişkin görevi oldukça sınırlı ve istisnai bir durum olup, kanunda belirtilen şahısların belirtilen suçlarına ilişkin olarak yargılama yapabileceği, bu hususta 2802 sayılı Kanun’un 90. maddesinde; birinci sınıfa ayrılmış olanlarla ağır ceza mahkemeleri heyetine dahil bulunan hâkim ve Cumhuriyet savcılarının, görevden doğan veya görev sırasında işledikleri suçlar nedeniyle Yargıtayın ilgili ceza dairesinde yargılanabileceklerinin belirtildiği, bu kuralın bir istisnasının aynı Kanun’un 86. maddesinde düzenlendiği, buna göre; yukarıda sayılan kişilerin işledikleri suçlara iştirak eden (hâkim veya savcı olmayan ya da birinci sınıfa ayrılmamış hâkim ve savcılar) diğer kişilerin de Yargıtayın ilgili dairesinde yargılanacağı, 2802 sayılı Kanun’un 86. maddesinde “hâkim ve savcıların suçuna iştirak” ifadesinin bulunduğu, bu ifadenin bir neticesi olarak, 86. madde uyarınca Yargıtayın ilgili ceza dairesinde yargılanması gereken kişilere ait yargılama dosyaları ile diğer kişilerle ilgili yargılama dosyalarının 2802 sayılı Kanun’un 86. maddesi uyarınca birleştirilebilmesi için kanun koyucunun bağlantıyı yeterli görmediği, ayrıca iştirak ilişkisinin varlığını da aradığının kabulü gerektiği;
+
+Davaların ayrı ayrı görülmesi hâlinde pek çok suçu kısa bir zaman zarfında aydınlığa kavuşturmak ve hükme bağlamak mümkün iken, suçların bir örgüt faaliyeti çerçevesinde işlendiği ön kabulünden hareketle gereksiz yere davaların birleştirildiği, birbirleriyle ilgisi olmayan pek çok suçun aynı davanın konusunu oluşturduğu ve birbirlerini tanımayan pek çok sanığın da aynı dava kapsamında yargılanabilir hâle getirildiği, bu uygulamanın mahkemelerin hüküm vermesini oldukça güçleştireceği gibi, vereceği kararları da toplumu oluşturan bireyleri tatmin etme bakımından kuşkulu kılacağı, (İzzet Özgenç, Suç Örgütleri, Seçkin Yayınları, 10. Baskı, s. 53.);
+Bu bakımdan örgüt kapsamında işlenen suçlar nedeniyle birden çok sanık hakkında yürütülmekte olan davaların birleştirilmesinde, bağlantı ve iştirak kavramlarının dar yorumlanması ve uygulanması gerektiği gözetilmelidir.
+Öte yandan, AİHM Hentrich v Fransa A 296-A (1994) ve Rezette v Lüksemburg (2004) vb. kararlarında, iki ya da daha fazla sanığın davasının birleştirilmesinin makul olabileceğini, ancak bu durumun sanıklardan herhangi birinin davasındaki gecikmeyi meşru kılmayacağının gözden ırak tutulmaması gerektiğini; hem cezai hem cezai olmayan davalarda yargılama süresinin makul olup olmadığının davanın özel koşullarına göre değerlendirilmesini (König v Federal Almanya A 27, 1978), mutlak bir süre sınırının bulunmadığını, makul sürede yargılanma hakkının değerlendirilmesinde her zaman gözetilen etkenlerin davanın karmaşıklığı, başvurucunun tutumu ve yetkili idari ve yargısal makamların tutumları olduğunu vurgulamıştır.
+
+Adil yargılanma hakkı, Anayasa’nın 36/1. maddesinde “Herkes, meşru vasıta ve yollardan faydalanmak suretiyle yargı mercileri önünde davacı veya davalı olarak iddia ve savunma ile adil yargılanma hakkına sahiptir.” Avrupa İnsan Hakları Sözleşmesi’nin “Adil Yargılanma Hakkı” başlıklı 6/1. maddelerinde de “Herkes davasının, makul bir süre içinde, hakkaniyete uygun … olarak görülmesini isteme hakkına sahiptir.” denilerek teminat altına alınmıştır. Bununla birlikte davaların en az giderle ve mümkün olan süratle sonuçlandırılmasının yargının görevi olduğunu belirleyen Anayasa’nın 141. maddesinin de Anayasa’nın bütünselliği ilkesi gereğince, makul sürede hakkaniyetle yargılanma hakkının kapsamında değerlendirilmesi gerektiği açıktır.
+
+Kural, her bir davanın açıldığı aşamadaki konusuyla sürmesi ve muhakeme sonucu o uyuşmazlık konusunda hüküm verilmesidir. Ancak dava konuları arasında birbirlerine bağlantı kurabilecekleri noktaların varlığı hâlinde aynı muhakemede birleştirilmeleri de söz konusu olabilmektedir. Bağlantılı davalar konusunda CMK’nın “Bağlantılı Davalar” başlıklı üçüncü bölümü dikkat çekicidir. “Bağlantı kavramı” başlıklı 8. maddeye göre, bir kişinin birden fazla suçtan sanık olması (subjektif bağlantı) bir suçta her ne sıfatla olursa olsun birden fazla sanık bulunması (objektif bağlantı) hâlinde davalar arasında bağlantı var sayılmaktadır.
+
+Bağlantının varlığı hâlinde davaların birleştirilebileceği ve birleştirilmiş davaların ayrılmaları CMK’nın 9, 10 ve 11. maddelerinde düzenlenmiştir. “Geniş bağlantı sebebiyle birleştirme” başlıklı CMK’nın 11. maddesinde aynı mahkemenin, bakmakta olduğu birden çok dava esnasında bağlantı görmesi hâlinde - bu bağlantı 8. maddede gösterilen türden olmasa bile - birlikte bakmak ve hükme bağlamak üzere birleştirilmesine karar verilebileceği hüküm altına alınmışken, kovuşturma aşamasında farklı mahkemelerin davalarının birleştirilmesi “Görülmekte olan davaların birleştirilmesi ve ayrılması” başlığını taşıyan CMK’nın 10. maddesinde düzenlenmiştir.
+Davaların birleştirilmesinin temel amacının usul ekonomisinde aranması gerekir. Bu da zaman ve esas açısından birleştirmede fayda bulunması hâlinde gündeme gelebilir. Yargılamanın birleştirilmesi fayda düşüncesine dayandığından, fayda varsa birleştirilmeli fayda yoksa birleştirilmemelidir. Birleştirmede fayda olup olmadığı olayların özelliğine göre hâkim tarafından belirlenir.
+
+Yargıtay Ceza Genel Kurulunun uygulana gelen kararlarından ayrıntıları ile açıklandığı üzere, davaların birlikte görülebilmesi için aralarında şahsi veya fiili irtibat bulunması gerekmekte olup, davalar arasında böyle bir irtibat yoksa amaç ne olursa olsun yargılama yasasının buyurucu hükümleri gözardı edilerek birlikte görülüp sonuçlandırılmamalıdır. Davanın takdire bağlı olarak birleştirilmesi sanık hakkında yürütülen yargılamanın gereksiz yere uzamasına yol açacak ise birlikte yargılanma gerekli değildir (CGK’nın 15.04.2003 tarih ve 108-120 sayı, 02.12.1992 tarih ve 142-167 sayı, 11.07.2014 tarih ve 52-354 sayılı kararları).
+Makul sürede yargılanma hakkının amacı; tarafların uzun süren yargılama faaliyeti nedeniyle maruz kalacakları maddi ve manevi baskı ile sıkıntılardan korunması, adaletin gerektiği şekilde temini ve hukuka olan inancın muhafazası olup hukuki uyuşmazlığın çözümünde bu hususa gerekli özen gösterilmelidir (An. Mah. B.No: 2012/673, 19.12.2013 SS 27), (An. Mah. B. No: 2012/ 1198, 07.11.2013 SS 39) (AİHM Weber/ İsviçre, B. No: 11034/84 22.05.1990).
+Hukuk yargılamasından farklı olarak taraflarca hazırlama ilkesinin egemen olmadığı ceza muhakemesinde, yargılama makamlarının davayı gerekli hızla bakıp yürütme yükümlülüğünün bulunduğu, verilen birleştirme kararlarının; hak ve adaletin tesisi için gerekli olduğu düşünülse dahi, bu tür kararların sanık sayısı, olayın karmaşıklığı, sanıklar ve eylemleri arasındaki bağlantı ve iştirak ilişkisinin birleştirmeyi zorunlu kılıp kılmadığı, birleştirmede yasal zorunluluk olup olmadığı, yargılamayı uzatıp uzatmayacağı gibi hususlar nazara alınarak verilmesi gerektiği, eğer davaların birleştirilmesi sanıkların makul sürede yargılanma haklarını ihlal edecekse bu yönteme başvurulmaması gerektiği izahtan varestedir.
+
+Yargıtay 16. Ceza Dairesi         2018/2973 E.  ,  2018/3935 K.
+
+Birden çok sanığın suça iştirak etmeleri nedeniyle CMK. 8 maddesi gereğince birlikte görülmesi gereken bağlantılı davalarda, dava zamanaşımı tehlikesinin söz konusu olduğu hallerde, örgütsel suçlarda yöneticiler hakkında TCK’nın 220/5 maddesinin uygulanması gerektiği durumlarda, şüphelilerin bir kısmı yakalanmamış veya kaçak olsalar da dava açılabileceği gözetilmelidir.
+
+Açıklanan nedenlerle, yakalama ile fiili kesinti gerçekleştirilmemesi nedeniyle işlenmeye devam edilen bir suçla ilgili olarak örgüt mensubu şüpheliler hakkında açılan kamu davasının, rü’yet olma/sonuçlandırılma imkanı bulunmadığından soruşturma evrakının Cumhuriyet Başsavcılığında değil mahkemede beklemesini sağlama dışında, usul ekonomisi bakımından bir fayda sağlamayacağı, çelişkili kararlara ve bu suçların özel yapıları itibariyle yargılama hukuku yönünden kargaşalara sebep olacağı, “yargılamanın makul sürede bitirilmesi” ilkesinin de ihlal edileceği gerçeği gözetildiğinde itiraza konu kararda hukuka aykırılık bulunmadığının kabulü gerekmektedir.
+
+Yargıtay 7. Ceza Dairesi         2016/16278 E.  ,  2018/1602 K.
+
+Sanıkların aynı yolcu minibüsünde yolculuk yaparken beraberlerinde söz konusu kaçak eşyalarla yakalandıkları cihetle; aralarında fiili ve hukuki irtibat bulunmayan sanıklar hakkındaki davalarının birlikte görülerek savunma haklarının kısıtlanması suretiyle CMK 8 ve 11. maddelerine aykırı davranılması, bozma nedenidir.
+
+Yargıtay 7. Ceza Dairesi         2014/18619 E.  ,  2016/1817 K.
+
+Sanıkların ayrı ayrı ikamet ve eklentilerinde dava konusu eşyaların ele geçtiği cihetle; aralarında fiili ve hukuki irtibat bulunmayan sanıklar hakkındaki davalarının birlikte görülerek savunma haklarının kısıtlanması suretiyle CMK 8 ve 11. maddelerine aykırı davranılması, bozma nedenidir.
+
+YARGITAY 18. CEZA DAİRESİ
+Esas: 2015/14964 Karar: 2015/12258Tarih: 30.11.2015
+
+CMK 8. Madde
+
+Bağlantı Kavramı
+
+Yerel Mahkemece verilen hüküm temyiz edilmekle, başvurunun süresi ve kararın niteliği ile suç tarihine göre dosya görüşüldü:
+
+KARAR : Temyiz isteğinin reddi nedenleri bulunmadığından işin esasına geçildi.
+
+Vicdani kanının oluştuğu duruşma sürecini yansıtan tutanaklar, belgeler ve gerekçe içeriğine göre yapılan incelemede, başkaca nedenler yerinde görülmemiştir.
+
+Ancak;
+
+5237 sayılı TCK’nın 184/4. maddesindeki5237 sayılı TCK’nın 184/4. maddesindeki, “Üçüncü fıkra hariç, bu madde hükümleri ancak belediye sınırları içinde veya özel imar rejimine tabi yerlerde uygulanır.” hükmü ile 23.07.2004 tarihinde Resmi Gazete’de yayımlanan, 5216 sayılı Büyükşehir Belediyesi Kanunu’nun geçici ikinci maddesindeki, “Bu Kanunun yürürlüğe girdiği tarihte, büyükşehir belediye sınırları, İstanbul ve Kocaeli ilinde il mülki sınırıdır. Diğer büyükşehir belediyelerinde, mevcut valilik binası merkez kabul edilmek ve il mülkî sınırları içinde kalmak şartıyla, nüfusu birmilyona kadar olan büyükşehirlerde yarıçapı yirmi kilometre, nüfusu birmilyondan ikimilyona kadar olan büyükşehirlerde yarıçapı otuz kilometre, nüfusu ikimilyondan fazla olan büyükşehirlerde yarıçapı elli kilometre olan dairenin sınırı büyükşehir belediyesinin sınırını oluşturur.” hükmü uyarınca, D. B.’nın 24.10.2013 tarihli yazısında, suça konu yerin, orman alanında kaldığının bildirilmesi karşısında, anılan yerin suç tarihi itibariyle özel imar rejimine tabi yerlerden olup olmadığı ve 5216 sayılı Kanunun geçici ikinci maddesi kapsamında kalıp kalmadığı hususlarında, konusunda uzman bilirkişiden rapor alınıp, sonucuna göre sanığın hukuki durumunun belirlenmesi gerektiği gözetilmeyerek, eksik kovuşturma ile beraat kararı verilmesi,
+
+2- D. B.’nın 10.07.2013 tarihli cevabi yazısında suça konu yerin ormanlık alanda kaldığının belirtilmesi nedeniyle, Orman Kanunu’na muhalefet eyleminden suç duyurusunda bulunulması karşısında, yapılacak soruşturma sonucu beklenerek, dava açılması halinde CMK’nın 8, 11. maddeleri gereğince delillerin birlikte değerlendirilmesi, açılan davaların birleştirilmesi ve sonucuna göre CMK’nın 225/2. maddesi de dikkate alınarak sanığın hukuki durumunun tayin ve takdiri gerekirken, eksik incelemeyle hüküm kurulması,
+
+SONUÇ : Kanuna aykırı ve katılan D. B. vekilinin temyiz nedenleri yerinde görüldüğünden, tebliğnameye aykırı olarak, HÜKMÜN BOZULMASINA, yargılamanın bozma öncesi aşamadan başlayarak sürdürülüp sonuçlandırılmak üzere dosyanın esas/hüküm mahkemesine gönderilmesine, 30.11.2015 tarihinde oy birliğiyle karar verildi.
+
+YARGITAY 16. CEZA DAİRESİ
+Esas: 2015/1078 Karar: 2015/1930Tarih: 19.06.2015
+
+CMK 8. Madde
+
+Bağlantı Kavramı
+
+Sanık hakkında duruşmalı olarak yapılan inceleme sonunda gereği düşünüldü:
+
+1- Ceza yargılamasının temel ilkelerinden biri “doğrudan doğruyalık vasıtasızlıktır.” Bu nedenle 193/1. maddesinde “sanık olmaksızın yargılama olmaz” genel kuralına yer verildikten sonra istisnalar 193/2, gösterilmiştir. Sanığın kabulüne bağlı olarak alt sınırı 5 yıl ve daha fazla hapis cezası gerektiren suçlar hariç olarak istinabe yoluyla sorguya çekilebilecektir. Görüntülü ve sesli iletişim tekniği kullanılarak sorgu yapma imkanı 196/4. madde hükmüne göre mümkün kılınmıştır.
+
+Somut olaydaki hukuki sorun sanık ve müdafiisinin görüntülü ve sesli iletişim tekniğini kullanarak savunma yapmak istemediğini ısrarla beyan ederek duruşmada hazır bulunmak istekleri karşısında, bu sistemle savunma alınması durumunda, savunma hakkının kısıtlanarak adil yargılama ilkesinin ihlal edilip edilmediği noktasında toplanmaktadır.
+
+Duruşmada hazır bulunmak isteyen sanığın, duruşmada hazır bulundurulması sadece ödev değil aynı zamanda bir haktır. (Y.C.G.K. 10.06.2008, 9-148/169 s.k.) Avrupa İnsan Hakları Sözleşmesinin göre;
+
+Cezai bir suç ile itham edilen herkesin, kendini savunma, iddia tanıklarını sorguya çekme veya çektirme, duruşmada kullanılan dili anlamadığı veya konuşamadığı takdirde bir tercüman yardımından para ödenmeksizin yararlanması haklarını güvence altına almıştır. Duruşmada hazır bulunmaksızın bu hakları nasıl kullanabileceğinin anlaşılması zordur. (Colozza v. İtalya 12 Şubat 1985)
+
+Adil bir ceza yargılaması sürecinin oluşumunda sanığın mahkeme nezdinde hazır bulunmasının büyük önemi bulunmaktadır. (Lala v. Hollanda 22 Eylül 1994) Bunun sebebi hem adil yargılama hakkının mevcudiyeti hem de beyanların doğruluğunun anlaşılması ve mağdur ile tanıkların beyanlarıyla karşılaştırılmasıdır. (Sedoviç v. İtalya)
+
+Temyiz aşamasında davalının duruşma salonunda şahsen hazır bulunması ilk derece mahkemesinde görülmekte olan duruşmalarda hazır bulunmasına nispeten daha az önem arzetmektedir. (Kamasinsıki v. Avusturya, 19 Aralık 1989)
+
+Adaletin gerçekten adil bir şekilde sağlanmasının demokratik bir toplumda tuttuğu yer göz önünde bulundurularak savunma hakkının kısıtlanmasına yönelik her bir tedbirin ciddi şekilde gerekli olmasına işaret edilmiştir. Daha az kısıtlayıcı bir tedbirin bulunması halinde o uygulanmalıdır. (Van Mechelen ve diğerleri)
+
+Sözleşme ile garantiye alınan hakkın kullanılmasından vazgeçilmesi, bunun açıkça söylenmesi ile mümkün olabilir. (Zana/Türkiye)
+
+CMK’nın genel ilkeleri ve düzenleme Dairemizce benimsenen Y.C.G.K.’nın 10.06.2008 tarih ve 9-148-169 sayılı kararı ile Avrupa İnsan Hakları Mahkemesinin İçtihadları göz önünde bulundurulduğunda; duruşmada hazır bulunma hakkı adil yargılama kapsamında değerlendirilmekte olup, bu hakkın sınırlanması ancak ciddi şekilde gerekli olması halinde istisna olarak uygulanmalıdır. A.İ.H.M.’nin Marcello Viola v. İtalya kararı temyiz duruşmasına ilişkindir. Bu nedenlerle kovuşturma aşamasında;
+
+1-) Genel kural sanığın duruşmada hazır bulundurulmasıdır. Bu hak ciddi nedenlere dayalı olarak mahkeme kararı ile sınırlandırılabilir.
+
+2-) İlk ve son savunmanın yapıldığı, esasa ilişkin delillerin toplandığı oturumlara sanığın SEGBİS yoluyla katılması açık kabulüne dayalı olmalıdır.
+
+3-) Sesli ve görüntülü yöntemle savunma alınması halinde sanık müdafiisinin talebi durumunda sanığın yanında bulunma olanağının sağlanması; koşulları gerçekleştiğinde savunma hakkının kısıtlanmadığı kabul edilebilecektir.
+
+Tüm bu açıklamalar karşısında; esas hakkında son savunmasını duruşmada hazır bulunarak yapmak istediğini beyan eden sanığın duruşmada hazır bulundurulmayıp SEGBİS sistemi aracılığıyla yargılaması yapılarak mahkumiyetine karar verilmesi suretiyle savunma hakkının kısıtlanması,
+
+2- Silahlı terör örgütü mensubu olduğu kabul edilen sanığın 15.11.2012 tarihinde güvenlik kuvvetleri ile silahlı çatışmaya giren grup içinde yer alarak vahim nitelikteki öldürmeye teşebbüs suçuna iştirak ettiğinin iddia ve kabul edilmiş olması ve aynı grup içerisinde yer alan diğer sanıklar hakkında ayrıca Tunceli Ağır Ceza Mahkemesinin 2013/10-85-86-87-88-89-90-91-92-93-94-95-96-97-98-99-100-101-102-103-104-105-106 esas sayılı dosyalarında aynı olaya ilişkin anayasayı ihlal suçundan mahkumiyet hükmü kurulması, 2013/10 esas sayılı dosyada sanık olan A.’in beyanları ile 14.01.2013 tarihli teşhis ve yer gösterme tutanaklarının bulunması karşısında aralarındaki CMK’nın 8. maddesi anlamında hukuki ve fiili bağlantı bulunan davaların birleştirilip delillerin birlikte değerlendirilmesi suretiyle sanığın hukuki durumunun takdir ve tayini gerektiği gözetilmeden yazılı şekilde hüküm kurulması,
+
+3- 15.04.2011-12.10.2012 tarihli eylemlere ilişkin delil olarak kabul edilip hükme esas alınan, sanığa ve başka dosya sanıklarına ait öz eleştiriler ile A. H.’ın öldürülmesine dair dosyadaki notların bir kısmının okunaksız fotokopilerden ibaret olduğu anlaşılmakla, adli emanette kayıtlı olduğu anlaşılan bu dokümanların getirtilerek denetime olanak verecek şekilde asılları ya da okunaklı ve onaylı örnekleri dosyaya konulmadan yazılı şekilde hüküm kurulması, belgeye dayanılarak yazılı şekilde hüküm kurulması,
+
+Sonuç: Kanuna aykırı, Cumhuriyet savcısı ve sanık müdafiinin temyiz dilekçeleri ile duruşmalı inceleme sırasında ileri sürdüğü temyiz itirazları bu itibarla yerinde görülmüş olduğundan, sair yönleri incelenmeyen kısmen resen de temyize tabi hükümlerin bu sebeplerden dolayı BOZULMASINA, bozma nedenleri, ceza miktarı ve tutuklulukta geçirdiği süre dikkate alınarak sanık müdafiinin tahliye talebinin reddine, 19.06.2015 tarihinde oybirliği ile, karar verildi.
+
+YARGITAY 5. CEZA DAİRESİ
+Esas: 2014/10084 Karar: 2015/7947Tarih: 05.03.2015
+
+CMK 8. Madde
+
+Bağlantı Kavramı
+
+Mahalli mahkemece verilen hüküm temyiz edilmekle dosya incelenerek, gereği düşünüldü:
+
+Sanık G. L. Ö.’in 21/12/2006 tarihli telefon görüşme içeriklerine göre dosyası tefrik edilen sanıklardan M. E.’e ihaleler süresince bilgi akışı sağlayarak ihalelere fesat karıştırdığı iddiası ile hakkında açılan kamu davasında eyleminin görevi kötüye kullanma suçunu oluşturduğu kabul edilerek bu suçtan mahkumiyetine karar verilmiş ise de; Anayasa’nın 141, 5271 sayılı CMK’nın 34,, 230, 289/1-g maddeleri uyarınca mahkeme kararlarının sanıkları, katılanı, C. Savcısını ve herkesi tatmin edecek, Yargıtay denetimine olanak verecek biçimde olması gerektiği nazara alınarak, Yargıtay’ın gerekçelerde tutarlılık denetimi yapması ve bu açılardan mantıksal ve hukuksal bütünlüğün sağlanması için kararın dayandığı tüm verilerin, bu veriler konusunda mahkemenin ulaştığı sonuçların, iddia, savunma ve tanık anlatımlarına ilişkin değerlendirmelerin açık olarak gerekçeye yansıtılması ilkelerine uyulmadan, sanığın eylemleriyle M. E.’in eylemi arasında 5237 sayılı TCK’nın 37,, 38,, 39, 40. maddeleri yönünden bağlantı bulunup bulunmadığı da tartışılıp değerlendirilmeden CMK’nın 230/3, 232/6. maddelerine de aykırı olarak, sanık hakkında yazılı şekilde gerekçeden yoksun olarak hüküm kurulması,
+
+Sanık hakkında açılan kamu davasının tefrik edildiği Kocaeli 2. Ağır Ceza Mahkemesinin 2012/316 Esas sayılı dosyası ile iş bu dava arasında CMK’nın 8/1. maddesinde yer aldığı şekilde hukuki ve fiili irtibat bulunduğu anlaşılmakla bu davanın akıbeti araştırılarak, halen derdest ise birleştirilmesinden, kesinleşmiş ise aslı veya onaylı suretlerinin getirtilmesinden sonra sanığın hukuki durumunun tayin ve takdiri gerektiği gözetilmeden sanığa ait soruşturma ve kovuşturma evraklarının aslı veya onaylı suretlerinin de denetime imkan verecek şekilde dosya içerisine alınmadan yazılı şekilde mahkumiyet hükmü kurulması,
+
+Sonuç: Kanuna aykırı, sanık müdafii, O yer C. Savcısı ve katılan vekilinin temyiz itirazları bu itibarla yerinde görülmüş olduğundan, esası incelenmeyen hükmün 5320 sayılı Yasanın 8/1. maddesi de gözetilerek CMUK’nın 321. maddesi uyarınca BOZULMASINA, 05.03.2015 tarihinde oybirliği ile, karar verildi.
+
+YARGITAY 4. CEZA DAİRESİ
+Esas: 2013/6728 Karar: 2015/22630Tarih: 02.03.2015
+
+CMK 8. Madde
+
+Bağlantı Kavramı
+
+Yerel mahkemece verilen hüküm temyiz edilmekle, başvurunun süresi ve kararın niteliği ile suç tarihine göre dosya görüşüldü:
+
+KARAR : Temyiz isteğinin reddi nedenleri bulunmadığından işin esasına geçildi.
+
+Vicdani kanının oluştuğu duruşma sürecini yansıtan tutanaklar belgeler ve gerekçe içeriğine göre yapılan incelemede başkaca nedenler yerinde görülmemiştir.
+
+Ancak;
+
+Sanık hakkında, 17.1.2009 tarihinde saat 13. sıralarında avukat olan katılan, “Tüfeğin içinde 8 mermi var bir tanesi Av. L. Ö.’ün” şeklinde sözlerle gıyabında tehdit ettiği iddiasıyla dava açılmış ise de; dosya içinde bulunan icra takibine dair belgelere 17.1.2009 tarihli haciz tutanağı ve bu dosyadaki hacze iştirak eden tanıkların duruşmadaki anlatımına göre, aynı gün saat 09.15 sıralarında yapılan haciz sırasında sanığın, katılana “… bak avukat başımı belaya sokma, orospu çocuğunun Allah belasını versin, senin burnundan getireceğim, bende tüfek var, 8 mermi alıyor bir tanesi de sana, seni öldürürüm…” dediğinin iddia edilmesi karşısında, haciz sırasında işlendiği iddia edilen eylemler sebebiyle dava açılıp açılmadığı araştırılarak;
+
+a- )Dava açılmış ve hüküm kesinleşmemiş ise dosyaların birleştirilmesi, hüküm kesinleşmiş ise, kesinleşen hükme dair dava dosyası, dosya içine konularak, yargılamaya konu eylemin, önceki eyleme nazaran aynı suç işleme kararının icrası kapsamında işlenip işlenmediği dolayısıyla zincirleme suç hükümlerinin uygulanıp uygulanmayacağı tartışılmadan,
+
+b- )Dava açılmamış ise, ihbarda bulunularak açılması halinde, kanıtların birlikte değerlendirilmesi için C.M.K.nın 8-11 maddeleri gereğince davaların birleştirilmesi, eylemlerin meydana gelme zamanı ve nedeni üzerinde durularak zincirleme suç öğesinin oluşup oluşmadığı tartışılarak mükerrer cezalandırmaya meydan verilmemesi ve eylemlerin 5237 Sayılı T.C.K.nın 265/2,, 43. maddesinde tanımlanan görevi yaptırmamak için direnme suçunu oluşturup oluşturmadığı değerlendirilmeden eksik incelemeyle hüküm kurulması,
+
+SONUÇ : Kanuna aykırı ve O Yer Cumhuriyet Savcısının temyiz nedenleri yerinde görüldüğünden tebliğnamedeki onama düşüncesinin reddiyle hükmün BOZULMASINA, yargılamanın bozma öncesi aşamadan başlayarak sürdürülüp sonuçlandırılmak üzere dosyanın esas/hüküm mahkemesine gönderilmesine, 02.03.2015 tarihinde oybirliğiyle karar verildi.
+
+YARGITAY 9. CEZA DAİRESİ
+Esas: 2012/9266 Karar: 2014/4581Tarih: 14.04.2014
+
+CMK 8. Madde
+
+Bağlantı Kavramı
+
+Dosya incelenerek gereği düşünüldü:
+
+Gerekçeli karar başlığında suç tarihinin “17.06.2010” yerine “19.06.2010” olarak yazılması mahallinde düzeltilebilir maddi hata olarak kabul edilmiştir.
+
+Yüklenen suç bakımından, küçük sanığın büyüklerle birlikte yargılanmasına engel teşkil eden ve hüküm tarihinde yürürlükte bulunan 6008 sayılı Kanunun 8. maddesiyle değişik CMK’nın 250. maddesinin ve hüküm tarihinden sonra yürürlüğe giren 6352 sayılı Kanun ile değişik 3713 sayılı Kanunun 10. maddesinin yürürlükten kaldırılmış olması ve hükümden sonra yürürlüğe giren 6526 sayılı Kanunun 2. maddesiyle değişik 5235 sayılı Kanunun 12. maddesi hükmü ve CMK’nın 8. ve devamı maddeleri de nazara alınarak aynı eylem nedeniyle İzmir 8. Ağır Ceza Mahkemesinin ( 250. Madde ile Görevli) 2010/224 esas sayılı dosyasında yargılanmakta olan sanıklar hakkındaki dava ile birleştirme yoluna gidilmesi, davanın sonuçlanmış olması halinde ise dosyanın asıl ya da onaylı örneğinin getirtilerek Yargıtay denetimine imkan verecek biçimde dosyaya konulması, tüm deliller birlikte değerlendirilip görev hususu da nazara alınarak sanığın hukuki durumunun takdir ve tayini gerekirken eksik araştırma ile yazılı şekilde hüküm kurulması,
+
+Sonuç: Kanuna aykırı, sanık müdafiinin temyiz itirazları bu itibarla yerinde görüldüğünden hükmün bu sebepten dolayı BOZULMASINA, 14.04.2014 tarihinde oybirliği ile, karar verildi.
+
+YARGITAY 5. CEZA DAİRESİ
+Esas: 2012/15997 Karar: 2014/2870Tarih: 17.03.2014
+
+CMK 8. Madde
+
+Bağlantı Kavramı
+
+Mahalli mahkemece verilen hüküm temyiz edilmekle dosya incelenerek, gereği düşünüldü:
+
+Karar: Katılan Ş. B.’nın istikrarlı anlatımlarını destekleyen tanık A. Y.’ın oluşa uygun beyanları Sivas İcra Hukuk Mahkemesinin temyiz edilmeden kesinleşen 14/11/2011 gün, 2010/309 Esas ve 2011/758 sayılı ihalenin feshine ilişkin kararının gerekçesi, katılana ilişkin olarak Sivas Numune Hastanesince verilen adli rapor içeriği, olayın oluş biçimi, hayatın olağan akışı ve tüm dosya kapsamı karşısında, sanıklar E. G. ve H. T.’in fikir ve eylem birliği içerisinde hareket ederek, Sivas 1. İcra Müdürlüğünün 2007/2574 Esas sayılı icra dosyasında borçlu sanık E. adına hacizli gayrimenkullerin 26/04/2010 tarihli 2. satış ihalesine katılmak üzere gelen Ş. B.’yı kasten yaralamak suretiyle ihaleye ve ihale sürecindeki işlemlere katılmasını engelledikleri hususunun sübuta erdiği ve TCK’nın 235/2-c maddesinde düzenlenen ihaleye fesat karıştırma suçunun bu kişiler yönünden tüm unsurlarıyla oluştuğu, sanıkların katılanı basit şekilde yaralama eyleminin bu suçun unsuru niteliğinde olduğu, Sivas 1. Sulh Ceza Mahkemesine yaralama suçundan açılan 2010/816 Esas sayılı dava ile iş bu dava arasında CMK’nın 8/1. maddesinde yer aldığı şekilde hukuki ve fiili irtibat bulunduğu anlaşılmakla bu davanın akıbeti araştırılarak, halen derdest ise birleştirilmesinden, kesinleşmiş ise aslı veya onaylı suretlerinin getirtilmesinden sonra mahkumiyet kararı varsa ihaleye fesat karıştırma suçundan verilecek cezadan mahsup edilmesi hususu üzerinde de durulmak suretiyle sanıkların hukuki durumunun tayin ve takdiri gerektiği gözetilmeden dosya kapsamı, oluşa uygun düşmeyen gerekçeler ve yanılgılı değerlendirme sonucu yazılı şekilde beraetlerine karar verilmesi,
+
+Sonuç: Kanuna aykırı, katılanın temyiz itirazları bu nedenle yerinde görülmüş olduğundan, hükümlerin 5320 sayılı Kanunun 8/1. maddesi gözetilerek CMUK’nın 321. maddesi uyarınca BOZULMASINA, 17.03.2014 tarihinde oybirliğiyle, karar verildi.
+
+YARGITAY 6. CEZA DAİRESİ
+Esas: 2013/175 Karar: 2013/14975Tarih: 25.06.2013
+
+CMK 8. Madde
+
+Bağlantı Kavramı
+
+Yerel Mahkemece verilen hüküm temyiz edilmekle; başvurunun nitelik, ceza türü, süresi ve suç tarihine göre dosya görüşüldü:
+
+KARAR : Yargılamaya konu eylemi birlikte gerçekleştirdikleri iddia edilen, ancak yaşları sebebiyle haklarındaki soruşturma evrakı ayrılan sanıklar M. K. ve M. A. hakkındaki dava dosyası ile bu dosyanın kanıtların birlikte değerlendirilmesi açısından 5271 Sayılı CMK’nın 8., 11. maddeleri gereğince mümkünse birleştirilmesi, mümkün olmadığı takdirde dava dosyasının aslının ya da onaylı örneklerinin denetime olanak sağlayacak şekilde dava dosyası içerisine konulması gerektiğinin gözetilmemesi,
+
+SONUÇ : Bozmayı gerektirmiş, sanık O. Y.’ın temyiz itirazı bu itibarla yerinde görülmüş olduğundan diğer yönleri incelenmeyen hükmün açıklanan sebeple istem gibi BOZULMASINA, 25.06.2013 tarihinde oybirliği ile karar verildi.
+
+YARGITAY 8. CEZA DAİRESİ
+Esas: 2013/2523 Karar: 2013/11479Tarih: 11.04.2013
+
+CMK 8. Madde
+
+Bağlantı Kavramı
+
+Gereği görüşülüp düşünüldü:
+
+KARAR : I- İddianamede mağdur sıfatıyla ismi geçen ve duruşmalara celbi için işlem yapıldığı halde duruşmalara gelmeyen Emre’nin dosya arasında bulunan 04.12.2008 tarihli faksla Kazakistan’dan gönderdiği dilekçesinde ticari işleri sebebiyle yurt dışında olduğunu ve ifadesi için mahkemeye müracaat edeceğini beyan ettiği ve duruşmadan haberdar olduğu anlaşıldığından; CMK.nın 234/b-l. madde hükmü uyarınca duruşmadan usulüne uygun olarak haberdar edildiği halde aynı Kanunun 237 ve 238. maddeleri uyarınca talepte bulunarak katılan sıfatını almaması nedeniyle, E.’nin 13.07.2012 tarihli temyiz isteminin 5320 sayılı Yasanın 8/1. maddesi uyarınca uygulanması gereken CMUK.nın 317. maddesi gereğince oybirliğiyle ( REDDİNE ),
+
+II- Katılanlar vekilinin sanıklar hakkında, Cumhuriyet Savcısının ise sanıklardan A.S., A. ve V. hakkında işkence suçundan kurulan beraat hükümlerine yönelik temyiz itirazlarına gelince;
+
+Dosya içeriğine göre; sanıklar A.S., A., M., N., O., S., S. ve V. hakkında, 12-18.11.1999 tarihleri arasında gözaltına alınan 27 mağdura işkence yaptıklarından bahisle 22.06.2005 tarihli iddianame ile açılan kamu davasında İstanbul 7. Ağır Ceza Mahkemesi’nin 2005/273 esas, 2011/318 sayılı kararı ile sanıkların beraatlerine karar verilmiş ve hüküm katılanlar vekili ile Cumhuriyet Savcısı tarafından temyiz edilmiştir.
+
+Öte yandan 31.03.2006 tarihli iddianame ile, sanıklardan A. ile S. hakkında anılan tarihlerde gözaltına alınan U.’a işkence yapıldığı iddiasıyla İstanbul 6. Ağır Ceza Mahkemesine dava açılmış ve 2006/80 esasına kaydedilmiştir.
+
+Ayrıca, temyiz incelemesi yapılan 7. Ağır Ceza Mahkemesinin 2005/273 esas sayılı dosyasının katılanları olan A.K., B., H.H., H.B., K., M. K., M., T. ve U. ile mağdurlar T. ve A.’ın ek şikayetleri üzerine 2005/273 esasına kayıtlı dosyada sanık olan V. ile ayrıca sanıklar A., S. ve B. hakkında “Mahkemenize ait 2005/273 E. Sayılı dosyası ile irtibatlıdır” kaydıyla İstanbul 7. Ağır Ceza Mahkemesine dava açılmıştır. Ancak hakimlerin reddi nedeniyle 2005/273 esas sayılı dosyanın yargılaması İstanbul 5. Ağır Ceza Mahkemesi hakimlerince yapıldığından dosya 7. Ağır Ceza Mahkemesinin 2008/496 esasına kaydedilmiş ve 6. Ağır Ceza Mahkemesinin 2006/80 sırasına kayıtlı dava dosyası ile birleştirilmiştir.
+
+Sanıkların ve müdafılerinin 15.07.2011, 12.09.2011 ve 02.11.2011 tarihli celselerde ve verdikleri 15.09.2011 ve 02.11.2011 havale tarihli dilekçelerinde, tebliğnamenin tebliği sonrası ise katılan Kartal vekillerinin 12.09.2012, katılan A. M. vekilinin 21.09.2012, Kartal vekilinin 18.10.2012, bir kısım katılanlar vekili sıfatıyla avukat T.F.’in 21.12.2012 havale tarihli dilekçelerinde iş bu dosya ile İstanbul 6. Ağır Ceza Mahkemesinin 2006/80 esas sayılı dosyasının birleştirilmesini istedikleri, İstanbul 6. Ağır Ceza Mahkemesince 7. Ağır Ceza Mahkemesine hitaben yazılan 18.09.2007 tarihli müzekkere ve 7. Ağır Ceza Mahkemesi’nce 6. Ağır Ceza Mahkemesine hitaben yazılan 24.12.2007 tarihli yazı ile her iki mahkemenin temyize konu birleştirme talebine muvafakat etmediklerini karşılıklı olarak bildirdikleri, en son temyize konu bu dosyanın 12.09.2011 tarihli celsesinde sanık müdafılerinin birleştirme talebi üzerine mahkemece birleştirmeye gerek olmadığına, sanık V.’ın 15.09.2011 tarihli itiraz dilekçesi üzerine de İstanbul 8. Ağır Ceza Mahkemesince 20.09.2011 tarihinde itirazın reddine karar verildiği anlaşılmıştır.
+
+Bağlantılı davaların birleştirilmesi ve ayrılması, 5271 sayılı CMK.nun 8-11. maddeleri arasında düzenlenmiştir. CMK.nın 8/1 madde ve fıkrasında; “Bir kişi, birden fazla suçtan sanık olur veya bir suçta her ne sıfatla olursa olsun birden fazla sanık bulunursa bağlantı var sayılır” hükmü yer almaktadır. “Her biri müstakil suç teşkil etmekle beraber, aralarındaki irtibat nedeniyle birbirine bağlanmış suçlara bağlantılı suç denir. Bağlantılı suçlarla ilgili açılan davalara bağlantılı davalar denir ( Haluk Çolak-Mustafa Taşkın, Ceza Muhakemesi Kanunu Şerhi, Ankara 2007, sh.132 )”.
+
+“Umumiyetle irtibat hali, sanık ve fiil bakımından olmak üzere, ikiye ayrılır. Birincide aynı sanığa birden ziyade suç isnad edilmiştir, İkincide aynı fiilin birden fazla sanığı vardır.
+
+Fakat daha geniş bir tefrik irtibatın sübjektif ve objektif irtibat olarak ayrılmasıdır. Aynı sanığın birden ziyade suçla itham edilmesi sübjektif irtibat hallerinden biridir. Fakat aynı sebebin tesiri ile başka kimseler tarafından işlenmiş olan suçlarda da bir irtibat görmek mümkündür. Aynı suçta birden ziyade kimsenin sanık olması objektif irtibat sayılır. Fakat birden ziyade kimsenin aynı zaman ve mahalde ayrı ayrı işledikleri suçlardan sanık tutulmalarında objektif başka bir irtibat bulunabilir. Aynı zaman ve mahalde birden ziyade kimselerin karşılıklı fail ve mağdur oldukları suçlarda bu hal görülür.
+
+Sübjektif ve objektif bağlantı ayırımının neticesi olarak şu anlayış da ileri sürülmektedir: Bağlantı ( connexite ) sübjektif olandır, ancak bu çeşit bağlantıda birleştirme ihtiyari ve takdiri olabilir. Objektif bağlantı denilen halde ise bağlantı değil, “ayrılmazlık” ( indivisibilite ) vardır, birleştirme mecburi olmalıdır.
+
+Suçun vasfı veya neticesi ( ceza, tazminat, emniyet tedbiri vesaire ) ile alakalı olmak üzere irtibat hallerini tefrik etmek mümkündür. “Fikri içtima” halinde irtibat vasıfla alakalıdır.
+
+“Müteselsil suç” da kanunun aynı hükmünün birden ziyade ihlali bahis mevzuu olduğundan, unsur suçlar arasındaki irtibat netice ( cezanın bir miktar arttırılması ) ile alakalıdır.
+
+Bazı irtibat halleri “ön mesele” ( bekletici mesele ) ( meselei müstehire ) şeklindedir, irtibat unsuru, meselenin hal şeklinin vasfa veya neticeye tesir etmesinde toplanır. Suçluya yardım cürmünün yardım edilenin suçlu olması, nesep cürümlerinde nesep meselesinin bir karara bağlanmasının gerektirmesinde böyle bir irtibat görülür.
+
+Birden ziyade kimsenin karşılıklı suç işlemesinde de ( mesela karşılıklı hakaret ) gerek vasfa, gerek neticeye taalluk eden bir irtibat vardır.
+
+İrtibat geniş bir kavramdır. İrtibat halinde davaların birleştirilmesi ise usul hukukunda meydana gelen bir hadisedir. Bu hadise “usulde içtima” olarak isimlendirilmelidir. Zira birleştirme neticesinde müteaddit davalar, tek dava halinde içtima ettirilmiş olur.
+
+Usulde içtima fayda sağladığı için kabul olunmuştur. Zira bu sayede vasıtalarda tasarruf sağlanır, delillerin müteaddit defa ikamesinden hüküm için sarfedilecek emeğe kadar bütün usul safhalarında tasarrufa riayet edilir. Diğer taraftan, ayrı davalar sonunda farklı hükümlerin verilmesine, usulde içtima, mani olur.
+
+Kanunun tarif ettiği irtibat “bir kimsenin birkaç suçtan sanık olması veya bir suçta her ne sıfat ile olursa olsun birden fazla sanık bulunması halidir ( )” Aynı suçlunun birden fazla suçun veya aynı suçta birden fazla suçlunun bulunması bağlantının başlıca koşuludur. Bir suçta birden ziyade sanık bulunması halinde, bunların suçtaki sıfatlarına ( iştirakin çeşidine ) bakılmaz, suçluya yataklık da buraya dahildir.
+
+Eğer davalar açıldıktan sonra birleştirme lüzumu hasıl olursa savcının veya sanığın talebi ile veya mahkemece re’sen karar verilebilir. ( Prof. Dr. Faruk Erem, Diyalektik Açısından Ceza Yargılaması Hukuku, 6. Baskı, Ankara 1986, sh. 125-127 )”.
+
+“Muhakeme hukukunda bağlantı, muhakeme ilişkisinin objeleri veya süjeleri bakımından söz konusu olabilir. Objeler bakımından bağlantıya objektif bağlantı, süjeler bakımından bağlantıya sübjektif bağlantı denilir. Bu iki çeşit bağlantıya fiili irtibat, şahsi irtibat da denildiği vardır.
+
+İtalyan Kanunundaki hükümlerden de esinlenerek şu hallerde önemli bağlantı bulunduğunu söyleyebiliriz:
+
+a ) Suçlar birden ziyade birleşmiş şahıslar tarafından aynı zamanda işlenmiş ise,
+
+b ) Suçlar birden fazla şahıslar tarafından birbirinin aleyhine işlenmiş ise,
+
+c ) Suçlardan biri diğerini gizlemek, işlemek veya ondan fayda sağlamak için veya biri diğeri vesilesi ile işlenmiş ise,
+
+ç ) Suçlardan birinin bir unsurunu veya cezasına tesir eden bir sebebin isbatı diğerinin unsurunun veya cezasına tesir eden bir sebebin isbatına tesir ediyorsa. ( Kunter-Yenisey, Muhakeme Hukuku Dalı Olarak Ceza Muhakemesi Hukuku, Onuncu Bası, sh.277-278 )”.
+
+“Yargılamaların birleştirilmesi, iki ayrı davada ve hatta iki ayrı farklı mahkemede ele alınacak olan uyuşmazlıkların tek bir yargılamada, tek bir dosya halinde ve tek bir hükümle çözümlenmesini ifade eder ( Nur Centel-Hamide Zafer, Ceza Muhakemesi Hukuku, 7. Baskı, İstanbul 2010, sh.567 )”.
+
+“Yargılamaların birleştirilmesi kavramı, aralarında bağlantı bulunan uyuşmazlıklar hakkında birleşik yargılama yapılmasını ifade eder. Kural olarak her uyuşmazlık için ayrı yargılama yapılması gerekirken, bağlantılı uyuşmazlıklar birleştirildiğinde, bunlar için görünüşte tek bir yargılama yapılacaktır. Birleştirme durumunda, bir yargı organında bağlantılı uyuşmazlıkların tümünü kapsayan bir karar verilmektedir ( Ceza Yargılaması Hukuku, ErdenerYurtcan, 12. Bası, İstanbul 2007, s.219 )”. “Birleştirmeyi mahkeme resen göz önünde bulundurabileceği gibi yargılamaya katılanlar da bu konuda talepte bulunabileceklerdir ( Veli Özer Özbek, Ceza Muhakemesi Hukuku, Ankara 2006, sh.544 )”.
+
+Davaların birleştirilebilmesi için uyuşmazlıklar arasında bağlantı, birleş-tirmede fayda ve birleştirme olanağının bulunması gerekir. Davalar arasında bağlantı bulunması birleştirmeyi zorunlu kılmamaktadır. Birleştirmede mecburiyet ilkesi geçerli olmamasına rağmen somut duruma göre ihtiyarilik zorunluluğa dönüşebilecektir.
+
+Yargılamaların birleştirilmesi, tüm delillerin birlikte tartışılmasını, maddi gerçeğe daha çabuk ulaşılmasını sağlayacak, çelişkili kararlar verilmesini engelleyecektir. Yargılama daha ucuz yapılacak, kararlar arasında çelişki doğmayacaktır. İncelenen dosyada; İstanbul 7. AğırCeza Mahkemesinin 2005/273 ve İstanbul 6. Ağır Ceza Mahkemesinin 2006/80 sayılı dosyalarında sanıkların üzerlerine atılı suç tarihinin aynı olup mağdurların gözaltına alındıklarında işkenceye maruz kaldıklarının iddia edilmiş bulunması ve İstanbul 6. Ağır Ceza Mahkemesinin derdest 2006/80 esas sayılı dosyasındaki katılanlardan A.K., B., H. H., H. B., K., M. K., M., T. ve U.’un; sanıklardan ise A. ve V.’ın İstanbul 7. Ağır Ceza Mahkemesinde karara bağlanıp temyize konu olan bu dosyada da katılan ve sanık olmaları nedeniyle her iki dava arasında objektif ve sübjektif bağlantı bulunması, ceza yargılamasının amacı olan maddi gerçeğe ulaşılabilmesi için her iki dosyadaki mevcut delillerin birlikte değerlendirilmesi ve iştirak halinde işlendiği iddia edilen suç nedeniyle davaların birbirlerini etkileyici nitelikte olduğu, dava dosyalarının birinde yer alan bilgiden diğer davada da yararlanılabilmesi, çelişkili kararlara neden olunmaması için davaların birleştirilerek sonucuna göre hüküm kurulması gerekirken birleştirme istemi reddedilip bu davayı ilgilendiren delillerin onaylı örnekleri de alınıp dosyaya konulmadan ve tüm deliller birlikte değerlendirilmeden yazılı şekilde karar verilmesi usul ve yasaya aykırı olduğundan hükmün bozulmasına karar verilmelidir.
+
+SONUÇ : Açıklanan nedenle, katılanlar vekili ve Cumhuriyet Savcısının temyiz itirazları yerinde görülmüş olduğundan sair yönleri incelenmeksizin hükümlerin bu sebepten dolayı 5320 sayılı Yasanın 8/1. maddesi uyarınca uygulanması gereken 1412 sayılı CMUK.nın 321. maddesi gereğince ( BOZULMASINA ), 11.04.2013 gününde oybirliğiyle karar verildi.
+
+YARGITAY 5. CEZA DAİRESİ
+Esas: 2010/1994  Karar: 2012/10512Tarih: 18.10.2012
+
+CMK 8. Madde
+
+Bağlantı Kavramı
+
+Mahalli mahkemece verilen hüküm temyiz edilmekle dosya incelenerek, gereği düşünüldü:
+
+Sanıkların üzerine atılı 765 sayılı TCK’nın 202/2 nci maddesinde düzenlenen zimmet suçunun alt sınırı itibariyle 5 yıldan fazla hapis cezasını gerektirmesi karşısında CMK’nın 150/3 üncü maddesi uyarınca sanıklara müdafii atanmadan yazılı şekilde hüküm kurularak savunma haklarının kısıtlanması,
+
+Atılı suç için kanunda öngörülen cezanın alt sınırının beş yıl ve daha fazla hapis cezasını gerektirdiği dikkate alınıp sorgusunun mahkemesince yapılması gerekirken sanık M. K.’ın istinabe yoluyla alınan savunmasına itibar edilerek hüküm kurulmak suretiyle 5271 sayılı CMK’nın 196/2 nci fıkrasına muhalefet edilmesi,
+
+Kabule göre de;
+
+İddianame içeriğine göre suç tarihinde Ziraat Bankası Kadışehir Şube Müdürü olan sanık D. A. O.’ın diğer sanıklara usulsüz kredi vermek suretiyle iştirak halinde zimmet suçunu işledikleri iddiası ile bu sanıklar ile 17 sanık hakkında Yozgat C. Başsavcılığının 18.02.2003 gün ve 2003/12 sayılı iddianamesiyle kamu davası açıldığı, sanıklar H. A. Ş. ve M. A. hakkında çıkarılan yakalama emirlerinin infaz edilememesi nedeniyle dosyanın bu sanıklar yönüyle tefrik edildiği, ancak tefrik edilen bu davayla diğer dava arasında CMK’nın 8/1 inci maddesinde gösterilen şekilde hukuki ve fiili irtibat bulunduğundan 2003/20 Esas sayılı dosyanın akıbetinin araştırılıp, halen derdest ise birleştirilmesi, kesinleşmiş ise sonucuna göre sanıkların hukuki durumunun tayin ve takdiri gerektiğinin gözetilmemesi,
+
+Dosyada bulunan bir kısım evrak suretlerinin onaysız fotokopi olduğu gözetilerek söz konusu belgelerin asılları veya onaylı suretleri getirtilmeksizin eksik incelemeyle karar verilmesi,
+
+Sonuç: Kanuna aykırı, katılan vekilinin temyiz itirazları bu bakımdan yerinde görülmüş olduğundan esası incelenmeyen hükümlerin belirtilen nedenle 5320 sayılı Yasanın 8/1 inci maddesi gözetilerek CMUK’nın 321 inci maddesi uyarınca BOZULMASINA, 18.10.2012 tarihinde oybirliği ile karar verildi.
+
+YARGITAY 5. CEZA DAİRESİ
+Esas: 2007/3796 Karar: 2007/3129Tarih: 01.05.2007
+
+CMK 8. Madde
+
+Bağlantı Kavramı
+
+Rüşvet vermeye teşebbüs etmek ve hırsızlık suçlarından şüpheli Ziver Dilen hakkında yapılan soruşturma evresi sonucunda Beyoğlu Cumhuriyet Başsavcılığınca düzenlenen 16.01.2007 tarihli ve 2005/26483 soruşturma 2007/282-50 sayılı iddianamenin 5271 sayılı Ceza Muhakemesi Kanunu’nun 170. maddesine uygun bulunmadığından bahisle aynı Kanunun 174. maddesi gereğince iadesine dair, Beyoğlu 3.Ağır Ceza Mahkemesinin 29.01.2007 tarihli ve 2007/14 sayılı kararına yönelik itirazın reddine ilişkin Beyoğlu 1.Ağır Ceza Mahkemesinin 5.2.2007 tarihli ve 2007/8 sayılı kararının;
+
+Olay tarihinde vatandaşların çantasını açmaya çalışan şüphelinin kolluk görevlilerini gördüğünde kaçmaya başladığı, polis tarafından yakalanması üzerine şüphelinin üzerinden çıkan cep telefonlarını ve 100 YTL parayı polis memurlarına kendini bırakmaları için teklif etmesi şeklinde gerçekleşen olayda, rüşvet teklif etme ve hırsızlık suçlarından iddianame düzenlendiği, rüşvet teklif etme suçuna bakma görevinin ağır ceza mahkemesine ait olduğu, hırsızlık suçuna bakmanın her ne kadar asliye ceza mahkemesinin görev alanına girdiği görülse de, her iki suç arasında hukuki ve fiili irtibatın olduğu, bu durumda da üst mahkeme olan ağır ceza mahkemesinin görevli olduğu ve her iki suç için mahkemelere ayrı ayrı dava açılmasının usul ekonomisine aykırı olduğu gözetilmeksizin, itirazın kabulü yerine yazılı şekilde reddine karar verilmesinde isabet görülmediğinden bahisle;
+
+CMK 309. maddesi gereğince bozulması lüzumu Adalet Bakanlığı Ceza İşleri Genel Müdürlüğü ifadeli 12.03.3007 gün ve 12777 sayılı yazıları istemine atfen C.Başsavcılığından tebliğname ile daireye ihbar ve dava evrakı birlikte tevdii kılınmakla incelenerek gereği düşünüldü:
+
+KARAR : 5271 sayılı Ceza Muhakemesi Kanunu’nun “Bağlantı kavramı” kenar başlıklı 8. maddesinde yer alan “ ( 1 ) Bir kişi, birden fazla suçtan sanık olur veya bir suçta her ne sıfatla olursa olsun birden fazla sanık bulunursa bağlantı var sayılır hükmüne nazaran şüphelinin hırsızlık fiilini işlediği sırada takip sonucu yakalandığı ve üzerinde çıkan cep telefonu ve 100 YTL.’yi salıverilmesini temin maksadıyla kolluk görevlilerine teklif etmek şeklinde gerçekleşen eylemlerinden dolayı olayın oluş şekli nazara alınarak, şüpheli hakkındaki davanın yüksek görevli mahkemede birlikte değerlendirilmesi gerektiği gözetilmeden itirazın kabulü yerine yazılı şekilde reddine karar verilmesi,
+
+SONUÇ : Kanuna aykırı ve bu itibarla kanun yararına bozma istemine dayanan ihbarname münderecatı yerinde görüldüğünden Beyoğlu 1.Ağır Ceza Mahkemesinden kesin olarak verilen 05.02.2007 gün ve 2007/8 müteferrik sayılı kararın 309. maddesi uyarınca BOZULMASINA, müteakip işlemlerin mahkemesince yapılmasına ve dosyanın mahalline gönderilmesi için Yargıtay C.Başsavcılığına TEVDİİNE, 01.05.2007 tarihinde oybirliğiyle karar verildi.
+
+UYARI

@@ -1,0 +1,269 @@
+Kısmen Islah
+
+HMK Madde 181
+
+HMK Madde 181 Gerekçesi
+
+HMK 181 (Kısmen Islah, Kısmi Islah) Yargıtay Kararları
+
+(1) Kısmen ıslaha başvuran tarafa, ıslah ettiği usul işlemini yapması için bir haftalık süre verilir. Bu süre içinde ıslah edilen işlem yapılmazsa, ıslah hiç yapılmamış gibi davaya devam edilir.
+
+Bu maddede, 1086 sayılı Kanunda mevcut olmayan bir hükme yer verilmiştir. Bir önceki maddede tamamen ıslah ayrıca düzenlendiğinden, kısmen ıslahın da aynı şekilde düzenlenmesi uygun görülmüştür.
+
+Kısmen ıslah yoluna başvuran taraf, ıslah talebiyle birlikte, ıslah etmek istediği işlemi ve ne şekilde ıslah edeceğini de belirtebilir. Bu şekilde ıslah talebiyle birlikte işlem de hemen ıslah edilirse, dava buna göre görülecektir. Ancak, kısmen ıslaha başvurmak isteyen taraf, ıslah talebiyle birlikte ıslah etmek istediği işlemi ve bu işlemi ne şekilde ıslah ettiğini belirtmeyebilir. İşte davanın sürüncemede kalmaması için, bu şekilde kısmen ıslaha başvurup da, ıslah ettiği işlemi belirtmeyen taraf için, yedi günlük (“bir hafta” olarak yasalaşmıştır) bir süre getirilmiştir. Yedi günlük (“bir hafta”) süre içinde ıslah edilen işlem belirtilmezse, ıslah yapılmamış sayılıp, davaya eski şekli ile devam edilir.
+
+Yargıtay İçtihadı Birleştirme Genel Kurulu Kararı - K.2019/3
+
+“Bir miktar para alacağının faizi ile birlikte tahsiline karar verilmesinin talep edildiği kısmî davada, dava konusu miktarın kısmî ıslahla faiz talebi belirtilmeksizin arttırılması hâlinde, arttırılan miktar bakımından dava dilekçesindeki faiz talebine bağlı olarak faize hükmedilip hükmedilemeyeceği” konusunda bir sonuca ulaşabilmek için, davaya konu edilen alacak miktarının ıslahla arttırılmasının yeni (ek) dava olup olmadığı konusunun çözüme kavuşturulması gerekir.
+
+6100 sayılı Hukuk Muhakemeleri Kanunu ıslahı tamamen (tam) ıslah ve kısmen (kısmî) ıslah olarak iki ayrı şekilde düzenlemiştir.
+
+Davanın tamamen ıslahı durumunun mevcut olabilmesi için davanın unsurlarından birinin, örneğin netice-i talebin veya dâva sebebinin değiştirilerek eski dâvanın niteliğinin değiştirilmiş olması gerekir (Üstündağ, 459).
+
+Kısmî ıslahta ise, belirli bir usul işlemi düzeltilir, davanın dayandığı sebebin değiştirilerek davanın niteliğinin değiştirilmesi söz konusu değildir. Kısmen ıslahta, ıslah işlemi yapıldığı tarihten itibaren hüküm ifade etmekte olduğu gibi, davanın ıslah edilmeyen kesimine ilişkin usul işlemleri ise geçerli olmaya devam eder.
+
+Öte yandan kısmî olarak açılan bir davada, dava konusunun artırılması kısmî ıslah olarak kabul edilmektedir (Kuru, s.4014).
+
+Ek dava ise kısmi davada saklı tutulan alacak için gerek kısmî dava karara bağlanmadan önce, gerekse daha sonra açılan davadır. Bu hâliyle kısmî ıslah, ek dava yoluyla elde edilebilecek haklara, mevcut dava içerisinde, daha basit, daha az masrafla ve daha kısa süre içerisinde kavuşma olanağı tanıyan ve bu yönüyle adeta ek dava açma yolunun alternatifi olan hukuki bir müessesedir. Bu nedenle kısmî davanın davacısı, ek dava açmak veya kısmî ıslah yoluna başvurmak konusunda seçimlik bir hakka sahiptir. Kısmî davada zamanaşımı sadece davaya konu edilen alacak miktarı için kesileceği gibi, davadan önce gerçekleşmiş temerrüt olgusu yoksa faiz başlangıç tarihi kısmî davaya konu edilen kısım için dava tarihi; kısmî ıslah ile artırılan tutar için ıslah tarihi olacaktır. Kısmî ıslah ile davaya dahil edilmek istenen alacak bölümü bakımından ise zamanaşımı süresi işlemeye devam edecektir. Bu açılardan ek dava ile kısmî dava arasında paralellik mevcut ise de, ıslahla ilgili sorunların yine ıslah müessesesi kapsamında değerlendirilerek sonuçlandırılması gerekir. Bu nedenle dava değerinin artırılması kısmi ıslah kapsamında olduğundan, süregelen davanın devamıdır ki, yeni bir dava veya ek dava olarak kabul edilemez. Artırılan tutar için harç yatırılması ise bir usul işlemidir; yeni bir dava açıldığı şeklinde yorumlanamaz. Yine dava dilekçesinde nelerin yer alması gerektiği HMKnın 119uncu maddesinde ayrıntılı olarak düzenlenmiş olup kısmî ıslahın duruşmada sözlü olarak dahi yapılmasının mümkün olması karşısında kısmî ıslahın yeni bir dava olduğu da bu açıdan savunulması güç bir görüştür.
+
+Bu durumda HMK m. 179’da (HUMK m. 87) ifade edilen, “ıslah, bunu yapan tarafın teşmil edeceği noktadan itibaren, bütün usul işlemlerinin yapılmamış sayılması sonucunu doğurur” hükmü ile anlaşılması gereken mahkeme usul işlemleridir. Bu amaçla verilen bir ıslah dilekçesi dava dilekçesindeki istemi ve ferilerini ortadan kaldırmayacak, sadece istenilen alacak rakamını değiştirecektir. Hâl böyle olunca, ıslahla artırılan tutar yeni bir dava olmadığından, ilk dava dilekçesinde yer alan bütün unsurlar, faiz istemi de dâhil olmak üzere, ıslahla artırılan kısım için de uygulanabilir olmalıdır. Islah dilekçesinde, dava dilekçesindeki iddia ve istemlerin bu arada faiz talebinin tekrarlanmasına ihtiyaç bulunmamaktadır. Dava dilekçesindeki faiz istemi, ıslah dilekçesini de kapsar.
+
+Kısmî olarak açılan davadaki faiz isteminin faiz talebi belirtilmeksizin yapılan kısmî ıslah çerçevesinde arttırılan alacak kesimi için de geçerli olduğuna ilişkin kabulün, belirsiz alacak davası ile kısmî dava arasındaki farkı ortadan kaldırdığı da ileri sürülemez. Zira belirsiz alacak davası ile kısmî davanın açılma ve görülme koşulları birbirinden farklı olup belirsiz alacağın belirsiz alacak ve/veya tespit davası ya da kısmî davaya konu edilmesi mümkün ise de, belirli ya da belirlenebilir alacağın belirsiz alacak ve/veya tespit davasına konu edilmesi mümkün değildir.
+
+Bundan başka, kısmî dava dilekçesinde faiz istemi mevcut ise, kısmî ıslah ile arttırılan alacak miktarı için de dava dilekçesindeki faiz istemi geçerliliğini koruduğundan HMKnın 26ncı maddesinde hükme bağlanan “Taleple bağlılık ilkesi”nin ve bu ilkenin bağlantılı olduğu, “Tasarruf “, “Teksif1 ve “Taraflarca getirilme” ilkelerinin ihlal edilmesi söz konusu olmayacaktır.
+
+Öte yandan temerrüt ve temerrüdün oluşma koşulları hukuki ilişkinin veya alacağın bağlandığı hukuki durumun mahiyetine göre ayrı ayrı belirleneceğinden kısmî ıslahın temerrütle ilişkilendirilmesi de isabetli bir yaklaşım değildir.
+
+Kısmî dava dilekçesindeki faiz isteminin kısmî ıslah ile arttırılan alacak tutarı için de geçerli olduğunun kabulü aynı zamanda Devletimizin imzaladığı Uluslararası Sözleşmeler ve Anayasa ile güvence altına alınan “hak arama özgürlüğü”nün gerçekleşmesine hizmet edeceği gibi, yine yargılamaya hakim olan ilkelerden olan aynı zamanda “adil yargılanma hakkı” kapsamındaki “usul ekonomisi” ilkesine de uygun düşecektir.
+
+SONUÇ: Bir miktar para alacağının faizi ile birlikte tahsiline karar verilmesinin talep edildiği kısmî davada, dava konusu miktarın kısmî ıslahla faiz talebi belirtilmeksizin arttırılması halinde, arttırılan miktar bakımından dava dilekçesindeki faiz talebine bağlı olarak faize hükmedileceğine 24.05.2019 tarihinde yapılan üçüncü görüşmede üçte ikiyi aşan çoğunlukla karar verildi.
+
+Yargıtay HGK - Karar : 2019/723
+
+Kavram olarak ıslah, taraflardan birinin yapmış olduğu usul işleminin tamamen veya kısmen düzeltilmesine denir (HUMK. m.83, HMK m. 176), (Kuru B.: Hukuk Muhakemeleri Usulü, B.6. C.IV, İstanbul 2001, s.3965). Islah müessesi, dava değiştirme, başka deyişle iddia ve müdafaanın değiştirilmesi veya genişletilmesi yasağını bertaraf eden bir imkandır. Zira bu suretle, aslında yasal itiraz ile karşılaşılabilecek olan herhangi bir taraf muamelesi, ıslah kurumu yardımı ile artık bu itirazı davet etmeksizin yapabilmektedir (Üstündağ S.: Medeni Yargılama Hukuku, C.I.II. B.5, İstanbul 1992, s.534).
+
+Islahın konusu tarafların yapmış oldukları usul işlemleri olduğu için, ıslahla düzeltilecek usul işlemlerinin neler olduğundan da söz etmek gerekir. Gerek öğreti, gerekse Yargıtay uygulaması davanın değiştirebileceğini ve genişletilebileceğini aynı şekilde savunmanın genişletilebileceğini ilke olarak kabul etmektedir. Yine müddeabihin artırılıp artırılmayacağı hususu da bir usul işlemi olup ıslahın konusudur (Kuru, 4035).
+
+Islahın amacı, yargılama sürecinde şekil ve süreye aykırılık sebebiyle ortaya çıkabilecek maddi hak kayıplarını ortadan kaldırmak olduğundan, hak ve alacağı bu sürecin dışında ortadan kaldırmış olan işlemlerin, yani maddi hukuk işlemlerinin ıslah yoluyla düzeltilebilmesi elbette ki mümkün değildir.
+
+Bir başka deyişle, maddi hakkı sona erdiren maddi hukuk işlemleri, ıslahla düzeltilemez. Feragat, kabul, sulh gibi işlemler velev ki dava içinde yapılsın, asıl hakkı ortadan kaldırdıklarından usul işlemi olduğu kadar (davayı etkilediği için usul işlemidir) maddi hukuk işlemi mahiyetini de taşımaktadır ve bu sebeple bu işlemlerin ıslah yoluyla düzeltilmesi imkansızdır. Çünkü ıslah, yargılama hukukunun şekle ve süreye bağlılığından kaynaklanan zımni hak kayıplarının telafisi için öngörülmüş bir müessesedir. Açık bir irade beyanı ile terkedilen haklar, maddi gerçeğin şekle feda edilmesi gibi bir sonuç doğurmadığı için ıslahın konusu olamaz.
+
+Davacı dava dilekçesinde gösterdiği müddeabihini (davalı muvafakat etmese bile) aynı dava içinde ıslah yolu ile artırabilecektir. Bu düzenleme, davacının ilk dava dilekçesinde saklı tuttuğu fazlaya ilişkin hakkını ek bir dava ile istemesine de engel olmayacaktır.
+
+Davanın tamamen ıslahı, dava dilekçesinden itibaren bütün usul işlemlerinin yapılmamış sayılmasını gerektirir (HUMK. m.87, HMK m. 179). Ancak bu durumda yeni bir dava açılmamış sayılacak, tamamen ıslah edilen dava ilk açılan davanın devamı niteliğinde olduğundan, bunun doğal sonucu olarak, zamanaşımı, hak düşürücü süre ilk davanın açıldığı tarihteki duruma göre dikkate alınacaktır. Onun için davanın tamamen ıslahında ıslah olunan dava, ilk dava gününde açılmış sayılacaktır.
+
+Davanın kısmen ıslahında ise, davacı kısmi davada saklı tuttuğu fazlaya ilişkin haklarını, ek bir dava açarak isteyebileceği gibi, aynı davada kısmi ıslah dilekçesi verip harcını yatırmak suretiyle arttırabilecektir.
+
+Öte yandan bu konuda Yargıtay Hukuk Daireleri ve Hukuk Genel Kurulunun içtihatları arasında ortaya çıkan içtihat aykırılığı Yargıtay İçtihatla Birleştirme Büyük Genel Kurulunun 24.05.2019 tarihli ve 2017/8 E.-2019/3 K. sayılı kararı ile giderilmiş ve sonuç olarak “Bir miktar para alacağının faizi ile birlikte tahsiline karar verilmesinin talep edildiği kısmi davada, dava konusu miktarın kısmi ıslahla faiz talebi belirtilmeksizin arttırılması halinde, arttırılan miktar bakımından dava dilekçesindeki faiz talebine bağlı olarak faize hükmedileceğine” karar verilmiştir.
+
+İçtihadı Birleştirme Kararları ise, konularıyla sınırlı, gerekçeleriyle açıklayıcı ve sonuçlarıyla bağlayıcı nitelik taşımaktadır.
+
+Bu açıklamalar ışığında somut olayın değerlendirilmesine gelince; davacı vekilinin müvekkilinin iş sözleşmesinin haksız olarak feshedildiğini ayrıca bir kısım işçilik alacaklarının bulunduğu ileri sürerek 27.06.2011 tarihinde fazlaya ilişkin haklarını saklı tutarak kısmi dava açtığı, dava dilekçesinde faiz talebi bulunduğu görülmektedir.
+
+Davacı vekili, bilirkişi raporundan sonra sunduğu 19.02.2013 harç tarihli ıslah dilekçesinde alacakların miktarını arttırmış ise de, ıslah dilekçesinde faiz istemi bulunmamaktadır.
+
+Mahkemece ıslah ile istenen alacak tutarları için de faize hükmedilmiş olup,
+Özel Dairece ıslah dilekçesinde faiz istemi bulunmadığından, ıslahen arttırılan kısımlara faiz işletilemeyeceği belirtilerek karar bozulmuştur.
+
+Ancak kısmi olarak açılan dava dilekçesinde faiz istemi mevcut olup, ıslah dilekçesi ile alacakların miktarı arttırıldığına göre, bu ıslahın kısmi ıslah olduğu açıktır. Bu yöndeki kısmi ıslah ile dava dilekçesindeki unsurlardan sadece talep sonucundaki miktar düzeltilip arttırılmıştır.
+Dava dilekçesindeki faiz istemi dahil diğer unsurlar aynen devam ettiğinden dava dilekçesindeki faiz isteminin ıslah ile arttırılan alacak miktarları için de geçerli olduğunu kabul etmek gerekir.
+
+Kaldı ki, Yargıtay İçtihatları Birleştirme Genel Kurulunun 2017/8 E.-2019/3 K. sayılı kararında da aynı sonuca varılmıştır.
+
+Şu halde direnme kararı Yargıtay İçtihatları Bileştirme Büyük Genel Kurulunun 2017/8 E.-2019/3 K. sayılı kararında da aynı sonuca varıldığı hususu vurgulanmak sureti ile ve ilave bu gerekçe karşısında isabetlidir.
+
+Yargıtay 4HD-Karar : 2021/935
+
+Kavram olarak ıslah; taraflardan birinin yapmış olduğu usul işleminin tamamen veya kısmen düzeltilmesidir (6100 sayılı HMK m. 176). Islah müessesesi, dava değiştirme, başka bir deyişle iddia ve savunmanın değiştirilmesi veya genişletilmesi yasağını bertaraf eden bir imkandır. Zira bu suretle, aslında yasal itiraz ile karşılaşabilecek olan herhangi bir taraf muamelesi, ıslah kurumu yardımı ile artık bu itirazı davet etmeksizin yapılabilmektedir. Islahın amacı, yargılama sürecinde şekil ve süreye aykırılık sebebiyle ortaya çıkabilecek maddi hak kayıplarını ortadan kaldırmak olduğundan, hak ve alacağı bu sürecin dışında ortadan kaldırmış olan işlemlerin, yani maddi hukuk işlemlerinin ıslah yoluyla düzeltilebilmesi elbette ki mümkün değildir. Bir başka deyişle, maddi hakkı sona erdiren maddi hukuk işlemleri ıslahla düzeltilemez. Çünkü ıslah, yargılama hukukunun şekle ve süreye bağlılığından kaynaklanan zımni hak kayıplarının telafisi için öngörülmüş bir müessesedir.
+
+Davanın tamamen ıslahı mümkün olduğu gibi kısmen ıslahı da mümkündür. Ancak ıslahın yapılması, Kanun uyarınca zaman bakımından sınırlandırılmış ve 6100 sayılı Kanun’un “Islahın zamanı ve şekli” başlıklı 177. maddesinin 1. fıkrasında tahkikatın sona ermesine kadar ıslahın yapılabileceği düzenlenmiştir. Bu noktada yargılamanın hangi aşamasına kadar ıslahın mümkün olabileceğini belirleyebilmek için tahkikat evresinden bahsetmek gerekmektedir. Tahkikat, 6100 sayılı Kanun’un 147. maddesi uyarınca ön inceleme aşamasının tamamlanmasından sonra başlamaktadır. Bu anlamda tahkikat evresinde işin esasına girilerek delillerin değerlendirilmesi sonucu bir karar verilmek üzere taraflar duruşmaya davet edilir. Bu yönüyle tahkikat evresi, yargılamanın en önemli ve uzun aşaması olarak nitelendirilmektedir. 6100 sayılı Kanun’un 184. maddesi gereğince tahkikatı gerektiren bir husus kalmadığından mahkeme, tahkikatın bittiğini taraflara tefhim eder bu tefhim ile tahkikat aşaması sona erer. Sözlü yargılamada taraflara son sözlerini sorar ve hükmünü verir.
+
+Bu genel anlatımlar ışığında somut olaya gelince; ilk derece mahkemesince 06/02/2019 tarihli celsede tahkikatın bittiği taraflara tefhim edilerek, sözlü yargılama ve hüküm için tayin olunan gün ve saatte mahkemede hazır bulunmaları gerektiği, aksi takdirde yokluklarında hüküm verileceği hususu ihtar edilmiş, 25/02/2019 tarihli sözlü yargılamada davacı vekili tazminat istemini aynı gün harcını yatırdığı ıslah dilekçesiyle artırmış, tahkikat aşaması sona erdikten sonra ıslahın yapılamayacağı gözden kaçırılarak ilk derece mahkemesince ıslaha itibar edilerek ıslahla artırılan tazminata hükmedilmiş, bölge adliye mahkemesinde yeniden kurulan hükümde ıslahla artırılan kısmı kapsar şekilde karar verilmiştir.
+
+Hal böyle olunca; bölge adliye mahkemesince kurulan yeni hükümde tahkikat aşaması sona erdikten sonra yapılan ıslah talebinin usulden reddine karar verilmesi gerekirken, yukarıda açıklanan 6100 sayılı Kanun’unun 177. maddesinin 1. fıkrasında yer alan emredici hüküm uygulanmadığından hükmün münhasıran bu sebeple bozulmasına karar verilmesi gerekmiştir.
+
+Yargıtay 9HD - Karar : 2021/185
+
+Dava dilekçesinde talep konusu yapılmayan bir işçilik alacağı, dava konusu alacaklarla aynı veya birbirine benzer sebeplerden doğmak şartıyla, ayrıca bu alacağa ilişkin peşin harç yatırılmak kaydıyla kısmi ıslahla talep edilebilir. Davalının bu alacakla ilgili delil sunma, itirazda bulunma ve zamanaşımı defini ileri sürme hakkı vardır. Bu durum usul ekonomisine daha uygundur. Ancak delillerin toplandığı ve karar aşamasına gelindiği bir aşamada salt davayı uzatmak veya karşı tarafı rahatsız etmek gibi kötüniyetli düşüncelerle ıslah yoluyla ek talepte bulunulması halinde 6100 sayılı Hukuk Muhakemeleri Kanunu’nu n 182. maddesine göre hâkim ıslahı dikkate almadan karar verebilir. Somut uyuşmazlıkta, yıllık izin ücreti, ücret ve ihbar tazminatı alacakları talepleri bakımından; dava dilekçesinde yıllık izin ücreti, ücret ve ihbar tazminatı talepleri açıkça mevcut değildir. Davacı vekili 15/03/2016 tarihli duruşmada, dava dilekçesinde talep edilen 2.000,00 TL miktarın, 500’er TL üzerinden olmak üzere kıdem tazminatı, fazla mesai ücreti, hafta tatili ücreti ve ulusal bayram genel tatil ücreti için olduğunu belirtmiştir. Bu hususlar birlikte değerlendirildiğinde, yıllık izin ücreti, ücret ve ihbar tazminatı alacaklarının ilk kez ıslah dilekçesi ile talep edildiği kabul edilmelidir. Yukarıdaki yazılı ilke kararı kapsamında dava dilekçesi ile istenmeyen alacaklar ıslah dilekçesi ile istenebileceğinden, dava dilekçesinde istenmemiş de olsa ilk kez ıslah dilekçesi ile talep edilen yıllık izin ücreti, ücret ve ihbar tazminatı kalemleri hakkında mahkeme tarafından işin esasına girilerek bir karar verilmelidir.Bu inceleme esnasında, yeni bir bozmaya neden olunmaması için, dosya kapsamında hali hazırda mevcut bilirkişi raporunda yıllık izin ücreti 41 gün üzerinden hesaplanmış ise de davacının Noterlik ödeme ihtarnamesindeki, sadece Temmuz/2010-Temmuz/2011 ayları arası verilmesi gereken yıllık iznin verilmediği yönündeki beyanla bağlı kalınarak hesaplama yapılmalı, dosyadaki yıllık izne dair belgeler de değerlendirilmelidir. Ayrıca, ücret alacağı bakımından, dosyadaki ücret alacağına ilişkin belgeler ve tarafların bu konuya dair iddia ve savunmaları da değerlendirilmelidir.
+
+Yargıtay HGK- Karar : 2017/265
+
+Hukuk Genel Kurulu önüne gelen uyuşmazlık dava dilekçesi ile dile getirilmemiş bir alacak kaleminin ıslah ile birlikte istenip istenemeyeceği noktasında toplanmaktadır. Uyuşmazlığın çözüme kavuşturulmasında öncelikle hukuk yargılamasında ıslah kurumunun esasları irdelenmelidir.
+
+Yargıtaya göre de usul ekonomisi adaletin ucuz, çabuk ve isabetli olarak sağlanmasının temel kurallarındandır. (HGK 10.4.1991, 15-91/202) Islahla dava konusunun artırılmamasına ilişkin HUMK m. 87 hükmünün son cümlesinin Anayasa Mahkemesince iptali kararında usul ekonomisi de gerekçe olarak yer almıştır.
+
+(Anayasa Mahkemesinin 20.7.1999 tarihli ve 1/33 sayılı kararı, Resmî Gazete 4.12.2000, s.24220)
+Bu kararda “…müddeabihin ıslah suretiyle artırılmasına olanak tanınmaması davaların en az giderle ve olabildiğince hızlı biçimde sonuçlandırılmasına engel olacağından, Anayasanın 141. maddesine aykırıdır.” şeklindeki gerekçe ile bu yöndeki kuralın iptali gerektiği sonucuna varılmıştır.
+
+Ne var ki; temelini basitlik, hızlılık ve ucuzluk kavramlarının oluşturduğu ve her davada uygulanma kabiliyeti bulunan emredici nitelikteki usul ekonomisi ilkesi mahkemeye ve taraflara acelecilik ve yargılamayı basite indirgeme sonucunu doğuracak şekilde sınırsız özgürlük tanımaz. Zira, yukarıda açıklanan usul hukukunun taraflara öngörülebilirlik koruması sağlayan şekilciliği ve bu ilkeden vücut bulan iddia ve savunmanın genişletilmesi ve değiştirilmesi yasağının usul ekonomisi ilkesi ile birlikte dengede tutulması “adaletli karar vermek” amacının sağlanması için zorunludur. Bu dengenin kendisini en çok hissettirdiği kavramlardan biri ise hukukumuzdaki ıslah kurumudur.
+
+Islah, usulümüzde dava açılmasının hukuksal sonuçlarından olan iddianın değiştirilmesi ve genişletilmesi yasağını karşı tarafın rızası olmaksızın aşmanın yegâne yoludur.
+
+Kavram olarak; taraflardan birinin yapmış olduğu usul işleminin tamamen veya kısmen düzeltilmesine ıslah denir (HUMK m.83, HMK m.176) (Kuru, B., Hukuk Muhakemeleri Usulü, B.6.C.IV, İstanbul 2001, s.3965 )
+
+Eş söyleyişle ıslah, iyiniyetli tarafın davayı açtıktan veya kendisine karşı bir dava açıldıktan sonra öğrendiği olgularla ilgili yanlışlıklarını düzeltmesine, eksiklikleri tamamlamasına, bu çerçevede yeni deliller sunabilmesine olanak sağlayan bir kurumdur. (YİBK’nin 04.02.1948 gün, 1944/10 E.-1948/3 K., HGK’nın 16.03.2005 gün, 2005/13-97 E.-2005/150 K. s. İlamları)
+
+Islahın temel amacı, dava değiştirme yasağını, hasmın rızasını almaya gerek duymadan aşmak; böylece yeniden dava açma yükünden kurtularak, davaya getirilmesi unutulan vakıaları davaya dahil etmek, dava sebebini değiştirmek ya da ibraz ile ikame edilmesi ihmal edilen delilleri davada ileri sürme olanağını tarafa sağlamaktır. (Tutumlu, M.A., Kuram ve Uygulama Işığında Medeni Usul Hukukunda Islah, 2010, s.17)
+
+Uygulamada gözetilmesi gereken ve yukarıda izah edilen denge olgusu, bazı hallerde ıslah yoluna başvurulmasına engel oluşturur.
+
+Bu noktada istem sonucu kavramını açıklamak gerekir.
+
+İstem sonucu, dava konusunu belirleyen tek ve asıl ögedir. Öğretide istem sonucu, mahkemeden istenilen şey olup davanın mevzuunu teşkil eder (Postacıoğlu, İ. E., Medeni Usul Hukuku Dersleri, 6.Bası, İstanbul 1975) ve mahkemenin davayı kabul etmesi halinde kararında neyi hüküm altına alacağı hususunun açıkça beyan edilmesi keyfiyeti olarak anlaşılmaktadır.(Bilge N./Önen E., Medeni Yargılama Hukuku Dersleri, 3. Baskı, Ankara 1978)
+
+Dava konusunun ne olduğu istem sonucu ile belirleneceğine göre, istem konusu ile dava sonucu iddianın ve savunmanın genişletilmesi ve değiştirilmesi yasağı ve bu nedenle de ıslah kurumu açısından bir özdeşlik göstermektedir. (Yılmaz, E., Medeni Yargılama Hukukunda Islah, Değiştirilmiş 2. Bası, Ankara-2010, s.190) Dava konusunda yapılacak değişiklik, iddianın genişletilmesi ve değiştirilmesi yasağı kapsamında kalmakla birlikte, ıslah yolunun işletilmesi ile sağlanabilmektedir. Bu halde dava konusunun veya istem sonucunun değiştirilmesi yönünde yapılabilecek değişiklik tamamen ıslah veya kısmen ıslah şeklinde gerçekleşebilir.
+
+6100 sayılı Hukuk Muhakemeleri Kanununun davanın tamamen ıslahını düzenleyen 180. maddesinde “Davasını tamamen ıslah ettiğini bildiren taraf, bu bildirimden itibaren bir hafta içinde yeni bir dava dilekçesi vermek zorundadır. Aksi hâlde, ıslah hakkı kullanılmış sayılır ve ıslah hiç yapılmamış gibi davaya devam edilir.” şeklinde düzenleme mevcut iken; kısmen ıslah 181. maddede, kısmen ıslaha başvuran tarafa, ıslah ettiği usul işlemini yapması için bir haftalık süre verileceği, bu süre içinde ıslah edilen işlem yapılmazsa, ıslah hiç yapılmamış gibi davaya devam edileceği kabul edilmiştir.
+
+Tamamen ıslahta dava sebebi veya istem konusu tümüyle değiştirilmektedir. Böylece dava dilekçesindeki talepler artık hükme konu olamaz. Kısmen ıslahta ise önceden yapılan usuli bir işlemin düzeltilmesi, örneğin talep sonucunun arttırılması söz konusu olur. Uygulamada, istem sonucuna ilişkin fazlaya dair haklarını saklı tutan davacının dava değerini ıslah yolu ile arttırabileceği tartışmasız kabul edilmektedir. Bununla birlikte başından beri dava konusu edilmeyen bir şeyin ıslah yoluyla davaya ithaline ve dava konusu edilmesine yasal açıdan olanak bulunmamaktadır. (HGK’nın 29.06.2011 gün, 2011/1-364 E.-2011/453 K., 15.06.2016 gün, 2014/4-1193 E.-2016/800 sayılı İlâmları)
+
+Tüm bu açıklamalar ışığında somut uyuşmazlık değerlendirildiğinde; davacı vekilinin ıslah dilekçesi ile, açılan davadaki taleplerinin yanında dava dilekçesinde dile getirilmeyen bir alacak kaleminin de hükme bağlanmasını istemiş olması karşısında, ihbar tazminatına ilişkin bu yeni istemin 6100 sayılı Hukuk Muhakemeleri Kanununun 119 vd. maddelerinde düzenlenen dava açma prosedürüne ilişkin usuli şartları taşımaması nedeniyle ek dava olarak da değerlendirilemeyeceği, bu halde ihbar tazminatına dair alacak isteminin, reddine karar verilmesi gerekmektedir.
+
+Yargıtay 9. Hukuk Dairesi         2021/8228 E.  ,  2021/12344 K.
+
+Taraflar arasında ıslahın süresinde olup olmadığı uyuşmazlık konusudur. Dairemizce kısmen ıslah hükümlerinin düzenlendiği 6100 sayılı Hukuk Muhakemeleri Kanununun 181. maddesinde öngörülen kesin sürenin, duruşmada tutanağa geçirilmek suretiyle yapılan ıslah işlemine ilişkin usul işlemlerinin yapılması harç bakımından tamamlanması için verilmesi gereken bir süre olduğu, bunun dışında ıslah işlemi için verilen sürelerin Kanunun 181. maddesinde öngörülen kesin süreye tabi olmadığı ve tahkikat sona erinceye dek ıslah işlemi yapılabileceği kabul edilmiş olup, buna göre ise davacının ıslah işleminin süresinde olduğu anlaşılmıştır. Mahkemece davacı tarafça yapılan ıslah işleminin süresinde olduğunun kabulü gerekmektedir. Temyiz edilen kararın açıklanan sebeple bozulması gerekmiştir.
+
+YARGITAY 9. HUKUK DAİRESİ 
+Esas : 2018/7174 Karar : 2018/16678Tarih : 25.09.2018
+
+HMK 181. Madde
+
+Duruşmada davayı “ıslah edeceğini” belirterek süre isteyen kişi açısından 1 haftalık kanuni süre işlemez.
+
+6100 sayılı HMK’nın 181. maddesinde “Kısmen ıslaha başvuran tarafa, ıslah ettiği usul işlemini yapması için bir haftalık süre verilir. Bu süre içinde ıslah edilen işlem yapılmazsa, ıslah hiç yapılmamış gibi davaya devam edilir” şeklinde kurala yer verilmiştir. Düzenleme ile, ıslahın HMK`nın 177/2. maddesine göre duruşmada sözlü beyan üzerine yapıldığı hallere yönelik olarak ıslah edilen işlemlerin tamamlanması için bir haftalık kanuni süre öngörülmüştür. Başka bir anlatımla tutanağa geçmek suretiyle yapılmış olan ıslah işleminin tamamlanması için bir süre tanınmıştır. Tarafın ıslah edeceğini belirterek süre talep etmesi durumunda, sözü edilen maddenin uygulanması söz konusu olmaz.
+
+Somut uyuşmazlıkda, ilk derece mahkemesi tarafından davacı vekiline ıslah yapması için iki haftalık kesin süre verilmiş ve davacı vekili bu süreye uymamıştır. Daha sonra ve tahkikat sona ermeden ıslah yoluyla davaya konu ihbar ve kıdem tazminatı miktarları arttırılmıştır. Mahkemece kesin süre den sonra yapılan ıslaha değer verilerek arttırılmış miktarlar üzerinden ihbar ve kıdem tazminatlarının kabulüne karar verilmiştir.
+
+HMK`nın 177/1. maddesine göre ıslah, tahkikat tamamlanıncaya kadar her zaman yapılabileceğinden, hakimin kanuni süreyi kısaltması mümkün değildir. Bu nedenle kanuni süresi içinde yapılan ıslaha değer verilerek karar verilmesi yerinde olup, bu durum usul ekonomisine de uygundur.
+
+F) SONUÇ:
+
+Açıklanan nedenlerle ilk derece mahkemesi tarafından kesin olarak verilen karar usul ve yasaya uygun olduğundan, Yargıtay Cumhuriyet Başsavcılığı’nın kanun yararına bozma talebinin REDDİNE, kararın bir örneğinin Resmi Gazetede yayınlanması için Adalet Bakanlığı`na gönderilmek üzere ilgili birime tevdiine 25.09.2018 tarihinde oybirliğiyle karar verildi.
+
+Yargıtay Hukuk Genel Kurulu - E. 2017/1093 K. 2017/1090
+
+Gerek mülga 1086 sayılı HUMK’nın 83. maddesinde gerekse yargılama sırasında yürürlüğe giren 6100 sayılı HMK’nın 176. maddesinde taraflardan her birinin yapmış olduğu usul işlemlerini kısmen veya tamamen ıslah edebileceği açık bir şekilde ifade edilmiştir. Bu nedenle cevap dilekçesinin ıslahı için öncelikle yapılması gereken usul işlemi davaya cevap vermekten ibarettir.Cevap dilekçesinin hiç verilmemiş olması halinde ortada ıslah edilmesi mümkün bir usul işleminin varlığından söz edilemez.Aksi halde, suskun kalınarak hiç cevap verilmemiş olması halinin bir usul işlemi olarak kabulü gerekir. Bu çerçevede süresi geçtikten sonra yapılan ve karşı çıkılan savunmanın da hiç yapılmamış gibi olduğunu ve aynı hukuki sonucu doğuracağını belirtmek gerekir. Usul işleminin ıslahla düzeltilmesi öncelikle geçerli bir hukuki işlemin varlığını gerektirdiğinden, yapılmamış hükmünde sayılan bir usul işleminin ıslahla düzeltilmesi de düşünülemez.
+
+Bu aşamada süresinde cevap dilekçesi verilmemesinin doğuracağı sonuca da değinmek gerekmektedir.
+
+Bilindiği üzere davalı, davaya cevap vermek zorunda değildir. Davanın cevapsız bırakılması ya da süresi içinde cevap dilekçesi verilmemesi halinde davalının, davacının dava dilekçesinde ileri sürdüğü vakıaların tamamını inkar etmiş sayılacağı 6100 sayılı HMK’nın 128. maddesinde düzenleme altına alınmıştır. Bu kural, HUMK’nın yürürlükte olduğu dönemde de öğreti ve yargı kararlar ile kabul edilmiştir. Ancak, süresinde cevap dilekçesi vermemek suretiyle davanın inkarı ileri sürülen vakıaların inkarı niteliğinde olup, bu inkarın zamanaşımı def’ini de kapsadığı söylenemez.
+
+Ayrıca, davalının süresinden sonra verdiği cevap dilekçesini ıslah ederek zamanaşımı def’inde bulunabileceğini kabul etmek ıslah ile kaçırılmış olan sürenin geri getirilmesi, daha doğrusu ıslah ile davaya cevap verilmesi sonucunu doğuracaktır. Oysa ki kanun ile belirlenen süreler kesin olup, ıslah kaçırılmış olan süreleri geri getiren bir yol değildir.
+
+Hal böyle olunca, yasal süresi geçtikten sonra verilen ve davacı tarafın itirazı ile karşılaştığı için hiç verilmemiş sayılan cevap dilekçesinin ıslahı suretiyle zamanaşımı def’inin ileri sürülemeyeceği kurul çoğunluğunca kabul edilmiştir.
+
+YARGITAY 22. HUKUK DAİRESİ 
+Esas : 2017/6240 Karar : 2017/5838Tarih : 23.03.2017
+
+HMK 181. Madde
+
+Davasını ıslah etmek üzere süre talebinde bulunan davacıya hakimin kanuni süreden fazla olarak 2 haftalık süre vermesi geçersizdir.
+
+Davacı vekili, müvekkili işçinin emekli olarak işyerinden ayrıldığını belirterek kıdem tazminatının davalıdan tahsilini talep etmiştir. Davalı vekili, davanın reddini savunmuştur. Mahkemece, toplanan deliller ve bilirkişi raporuna dayanılarak, yazılı gerekçeyle davanın kısmen kabulüne karar verilmiştir. Kararı, davalı vekili temyiz etmiştir.
+
+…6100 sayılı Kanun’un 90. maddesinin birinci fıkrasında, “Süreler, kanunda belirtilir veya hâkim tarafından tespit edilir. Kanunda belirtilen istisnai durumlar dışında, hâkim kanundaki süreleri artıramaz veya eksiltemez.” hükmü; aynı Kanun’un 181. maddesinde, “Kısmen ıslaha başvuran tarafa, ıslah ettiği usul işlemini yapması için bir haftalık süre verilir. Bu süre içinde ıslah edilen işlem yapılmazsa, ıslah hiç yapılmamış gibi davaya devam edilir.” hükmü düzenlenmiştir.
+
+Davacı vekili, bilirkişi raporunun sunulmasının ardından, 07.05.2014 tarihli celsede, davasını ıslah etmek üzere süre talebinde bulunmuştur. Mahkemece, aynı celsede, ıslah için iki haftalık süre verilmiştir. Davacı vekili, ….06.2014 tarihinde kısmi ıslah dilekçesini sunmuş ve harçlandırmıştır.
+
+6100 sayılı Kanun’un 90. maddesinin birinci fıkrası hükmü açık olup, kanunda belirtilen istisnai durumlar dışında, hakimin kanundaki süreleri artırması veya eksiltmesi mümkün değildir. Bu halde, Mahkemece, 6100 sayılı Kanun’un 181. maddesinde düzenlenen bir haftalık sürenin artırılması hukuken geçersizdir. Bahse konu ıslah işleminin kanunun tanıdığı bir haftalık süre içerisinde yapılmadığı sabit olup, ıslah geçersizdir. Kaldı ki mahkemenin verdiği iki haftalık süre içinde de ıslah yapılmamıştır. Mahkemece, ıslahın hiç yapılmamış sayılarak hüküm tesis edilmesi gerekirken, süresi geçtikten sonra sunulan ıslah dilekçesine göre karar verilmesi hatalı olmuştur.
+
+SONUÇ: Temyiz olunan kararın yukarıda yazılı sebepten BOZULMASINA, peşin alınan temyiz harcının istek halinde ilgiliye iadesine, ….03.2017 gününde oybirliğiyle karar verildi.
+
+YHGK - Esas : 2017/2687 , Karar : 2019/200
+
+Madde metninden anlaşılacağı üzere ıslah kısmen ya da tamamen yapılabilir.
+
+6100 sayılı HMK’nın 180. maddesi uyarınca, davasını tamamen ıslah ettiğini bildiren taraf, bu bildirimden itibaren bir hafta içinde yeni bir dava dilekçesi vermek zorundadır. Aksi halde, ıslah hakkı kullanılmış sayılır ve ıslah hiç yapılmamış gibi davaya devam edilir.
+
+Davanın tamamen ıslah edilmesi halinde, dava dilekçesi dahil yapılmış olan bütün usul işlemleri yapılmamış sayılır. Bunun doğal sonucu olarak, dava dilekçesinde yer alan ilk talep içeriği değil, ıslah yoluyla açıklanan talep içeriği nazara alınarak araştırma ve inceleme yapılması ve mahkemece verilecek hükümde de ıslahla ileri sürülen istemin karşılanması gerekir.
+
+Kısmen ıslah, 6100 sayılı HMK`nın 181. maddesinde; “(1) Kısmen ıslaha başvuran tarafa, ıslah ettiği usul işlemini yapması için bir haftalık süre verilir. Bu süre içinde ıslah edilen işlem yapılmazsa, ıslah hiç yapılmamış gibi davaya devam edilir.” şeklinde düzenlenmiştir.
+
+Davanın kısmen ıslahında; davada yapılmış olan belli bir usul işlemi ıslah edilir (düzeltilir) ve bundan sonraki usul işlemlerinin (ıslah edilen usul işlemi ile ilgili oldukları ölçüde) yapılmamış sayılması sağlanır (Kuru, B.: Hukuk Muhakemeleri Usulü, 6. Baskı, C: IV, İstanbul 2006 s. 4014).
+
+Dava veya savunmanın değiştirilmesi ve genişletilmesi yasağının istisnası olan ıslah, davanın başka bir anlatımla iddia veya savunmanın tamamen ya da kısmen değiştirmenin aracıdır ve yenilik doğurucu bir haktır. Dava sebebini, talep sonucunu değiştiren ve bu şekilde tamamen ıslah yoluna başvuran taraf isterse, taleplerini arttırma veya genişletme sureti ile kısmen ıslah yoluna başvurabilir.
+
+Islah, iyiniyetli tarafın davayı açtıktan veya kendisine karşı bir dava açıldıktan sonra öğrendiği olgularla ilgili yanlışlıklarını düzeltmesine, eksiklikleri tamamlamasına, bu çerçevede yeni deliller sunabilmesine olanak sağlayan bir kurumdur. Islah bir hak olarak usul ekonomisi ilkesi kapsamında değerlendirilmelidir.
+
+6100 sayılı HMK’nın “Usul ekonomisi ilkesi” başlıklı 30. maddesinde; “ Hakim, yargılamanın makul süre içinde ve düzenli bir biçimde yürütülmesini ve gereksiz gider yapılmamasını sağlamakla yükümlüdür”   düzenlemesine yer verilmiştir.
+
+Usul ekonomisi ilkesi, Anayasal dayanağı olan bir ilke olup 2709 sayılı Türkiye Cumhuriyeti Anayasası’nın 141/son maddesinde, davaların en az giderle ve mümkün olan süratle sonuçlandırılmasının yargının görevi olduğuna açıkça işaret edilmiştir.
+
+Tüm bu açıklamalar ışığında somut uyuşmazlık değerlendirildiğinde;
+
+Yanlar arasında 22.04.2009 tarihinde “Sabit Faizli Konut Finansmanı Kredi Sözleşmesi” imzalanmıştır. Davacının talebi üzerinde 15.09.2009 tarihinde kredi sözleşmesi yeniden yapılandırılmıştır. Davacı, 26.11.2012 havale tarihli dava dilekçesinde, kredi sözleşmesinin imzalanmasından sonra 3.420,00TL, ayrıca yeniden yapılandırma işlemi sırasında 2.694,90TL kesinti yapıldığını belirterek, yeniden yapılandırma işlemi sırasında ikinci kez tahsil edilen 2.694,90TL’nin iadesi talep etmiş ise de;
+Yargılama sırasında 05.09.2013 havale tarihli dilekçesi ile, kredi sözleşmesinin imzalanması sırasında tahsil edilen 3.420,00TL’nin de haksız olarak alındığını belirterek talebini 6.114,00TL’ye yükseltmiştir. Davacının kendisinden haksız olarak tahsil edildiğini iddia ettiği bedeller aynı kredi sözleşmesinden kaynaklanmakta olup, 05.09.2013 tarihli dilekçesi ile kredi sözleşmesinin imzalanmasından sonra yapılan 3.420,00TL kesintinin de iadesini isteyerek talep sonucunu artırmıştır.
+
+Davacının talep sonucunu artırmasına ilişkin bu dilekçesi kısmi ıslah niteliğinde olup, ek dava açmak yerine bu şekilde kısmi ıslah yoluyla talep sonucunu artırması mümkün bulunmakla ayrıca usul ekonomisine de uygundur.
+
+Hukuk Genel Kurulunda yapılan görüşmeler sırasında, yeniden yapılandırma masraflarının tahsili istemiyle açılan davaya, ayrı bir dava konusu olan ve kredi sözleşmesinin imzalanması sırasında davalı bankaca tahsil edilen alacak kalemlerinin ıslah yolu ile davaya dahil edilmesinin mümkün olmadığı, bu nedenle bozma kararının yerinde olduğu görüşü ileri sürülmüş ise de, bu görüş Kurul çoğunluğu tarafından benimsenmemiştir.
+
+YARGITAY 22. HUKUK DAİRESİ
+Esas : 2015/13754 Karar : 2016/19555Tarih : 27.06.2016
+
+HMK 181. Madde
+
+Kısmi ıslah için verilen süre hakim tarafından arttırılamaz.
+
+Davacı vekili, kendisinin davalı işveren bünyesinde 10.08.2004-10.06.2013 tarihleri arası çalıştığını, davalı işyerinde çalışmaların iki vardiyalı olduğunu, günlük oniki saat çalışıldığını, günlük dört saat fazla çalışma yapıldığını, bu çalışmaların karşılığının ödenmediğini, davalı işyerinde dini bayramlarda çalışma olmadığını, ulusal ve milli bayramlarda çalışıldığını, bu çalışmaların karşılığının ödenmediğini, hafta tatili uygulaması olmadığını ve ücretlerinin ödenmediğini, fazla mesai ücreti, ulusal bayram ve genel tatil ücreti ile hafta tatili ücreti alacaklarına karar verilmesini istemiştir.
+
+Davalı vekili, davacının sorumluğu ve görevi olmadığı halde enjeksiyon makinesine zarar verdiğini, makinedeki arızadan dolayı davalı işverenliğin zarara uğradığını, davacının belirtilen olaydan sonra bir buçuk ay daha çalıştığını, davacının kendi isteği doğrultusunda gece çalıştırıldığını, gece çalışmalarının sürekli olmadığını, davacının gece çalıştığı günlerin sabahında başka işte çalıştığını ve bunun sonradan öğrenildiğini, davalı işyerinin cumartesi öğlene kadar olmak üzere haftada beş buçuk gün çalışma olduğunu, gece çalışması yapılan durumlarda haftada beş gün çalışıldığını, davacının hafta sonu çalışmasının bulunmadığını, davacının fazla çalışma yaptığı dönemlere ilişkin ücretlerinin ödendiğini belirterek davanın reddini savunmuştur.
+
+Mahkemece, toplanan kanıtlar ve bilirkişi raporuna dayanılarak, dava konusu kıdem tazminatı, fazla mesai alacağı, ulusal bayram ve genel tatil alacağı taleplerinin kabulüne, hafta tatili alacağı talebinin reddine karar verilmiştir.
+
+1-Dosyadaki yazılara toplanan delillere göre davalının aşağıdaki bendin kapsamı dışındaki tüm temyiz itirazlarının reddine karar vermek gerekmiştir.
+
+2-Taraflar arasındaki uyuşmazlık, ıslah dilekçesinin süresinde verilip verilmediği ve bu bağlamda geçerli bir ıslahın bulunup bulunmadığı noktasında toplanmaktadır.
+
+6100 sayılı Hukuk Muhakemeleri Kanunu`nun 181. maddesinde ıslaha başvuran tarafa, ıslah ettiği usul işlemini yapması için bir haftalık süre verileceği belirtilmiş, bu süre içinde ıslah edilen işlemin yapılmaması halinde ıslah yapılmamış gibi davaya devam edileceği hüküm altına alınmıştır.
+Mahkeme tarafından kanuni kesin süreler artırılamaz. Dolayısıyla mahkemece ıslah dilekçesi için sehven 2 hafta süre verilmesi kanunla belirlenen kesin süreleri etkilemeyecektir.
+
+Somut olayda, mahkemece 17.05.2014 tarihli celse de ıslah dilekçesi vermesi için süre verilmesine rağmen ıslah dilekçesini bir haftalık süreyi aşarak 30.05.2014 tarihinde ibraz etmiştir. Hal böyle olunca mahkemece ıslah dilekçesinin verildiği tarih itibariyle süresinde ve geçerli bir ıslah olmadığı gözetilmeden ıslah dilekçesi nazara alınarak hüküm kurulması hatalı olup bozmayı gerektirmiştir.
+
+SONUÇ: Temyiz olunan hükmün yukarıda açıklanan sebeplerden BOZULMASINA, peşin alınan temyiz harcının istek halinde ilgiliye iadesine, oybirliğiyle karar verildi.
+
+YARGITAY 9. HUKUK DAİRESİ
+Esas : 2012/23668 Karar : 2014/27170Tarih : 18.09.2014
+
+HMK 181. Madde
+
+Kısmi Islah için verilen sürenin açıkça belirtilmesi ve neticelerinin hatırlatılması gerekir.
+
+Dosyanın incelenmesinden, 21.12.2011 tarihli celsede davacı vekilinin, “Bilirkişi raporunu inceleyerek beyanda bulunalım gerekirse ıslah dilekçesini sunacağım” dediği, yerel Mahkemece, “Davacı vekiline bilirkişi raporunu inceleyerek beyanda bulunmak ve ıslah dilekçesini sunmak üzere süre verilmesine” dair ara kararı kurularak duruşmanın 07.03.2012 tarihine ertelendiği, 07.03.2012 tarihinde davacı vekilinin ıslah dilekçesini sunduğu, ancak yerel Mahkemenin HMK`nın 181.maddesi gereğince ıslah için kanunda belirtilen sürenin bir hafta olup hakimin kanunda belirtilen süreleri uzatma yetkisinin bulunmadığı gerekçesiyle ıslah talebinin reddine karar verdiği anlaşılmıştır.
+
+Bu durumda, yerel Mahkemece ıslah için verilen sürenin açıkça belirtilmemesi ve neticelerinin hatırlatılmaması isabetsiz olup, hükmün sair yönleri incelenmeksizin bozulmasına karar vermek gerekmiştir.
+
+Temyiz olunan kararın, yukarıda yazılı sebepten dolayı, sair yönleri incelenmeksizin (BOZULMASINA), peşin alınan temyiz harcının istek halinde ilgiliye iadesine oybirliğiyle karar verildi
+
+YARGITAY 22. HUKUK DAİRESİ
+Esas: 2015/16593 Karar: 2017/16240Tarih: 06.07.2017
+
+HMK 181. Madde
+
+Kısmi ıslahın, kısmi ıslah dilekçesi verilerek süresinde yapılmaması
+
+Davacı vekili, müvekkilinin motosikletli kurye olarak çalıştığını, çalıştığı fazla saatlerin ücretlerinin ödenmediğini, hafta sonu, resmi bayram tatili ve yıllık izin ücretlerinin ödenmediğini,iş sözleşmesini haklı sebeple feshettiğini belirterek kıdem ve ihbar tazminatı ile birlikte bir kısım işçilik alacaklarının davalıdan tahsilini istemiştir.
+
+Davalı vekili, davacının iş sözleşmesini haksız olarak feshettiğini belirterek davanın reddine karar verilmesini istemiştir.
+
+Mahkemece, yapılan yargılama sonucunda toplanan deliller ve bilirkişi raporuna dayanılarak,yazılı gerekçe ile davanın kısmen kabulüne karar verilmiştir.
+
+Kararı davalı taraf temyiz etmiştir.
+
+1-) Dosyadaki yazılara toplanan delillerle kararın dayandığı kanuni gerektirici sebeplere göre, davalının aşağıdaki bendin kapsamı dışında kalan temyiz itirazları yerinde değildir.
+
+2-) Islahın süresinde yapılıp yapılmadığı ihtilaflıdır.
+
+6100 Sayılı HMK’nun 181. maddesinde, “(1) Kısmen ıslaha başvuran tarafa, ıslah ettiği usul işlemini yapması için bir haftalık süre verilir. Bu süre içinde ıslah edilen işlem yapılmazsa, ıslah hiç yapılmamış gibi davaya devam edilir.” hükmü bulunmaktadır. Bu yasa maddesine göre ıslahın 1 haftalık sürede yapılması gerekmekte olup yasa maddesindeki 1 haftalık süre kanundan kaynaklanan kesin süredir.
+
+Somut olayda, mahkeme, kısmi dava olarak açılan davada, davacı vekiline ıslah için 10.01.2014 tarihinde süre vermiş, ıslah ise 1 haftalık süre geçtikten sonra 10.02.2014 tarihinde yapılmıştır. Bu itibarla süresinde yapılmayan ıslaha değer verilmesi hatalı olmuştur.
+
+SONUÇ : Temyiz olunan kararın, yukarıda yazılı sebeplerden dolayı BOZULMASINA, peşin alınan temyiz harcının istenmesi halinde ilgiliye iadesine, 06.07.2017 tarihinde oybirliği ile karar verildi.
+
+Yargıtay 22. HD Esas : 2014/35892 Karar : 2016/6287
+
+Hüküm altına alınan alacakların ıslah dilekçesi ile talep edilemese dahi artırılan kısımlarına faiz uygulanıp uygulanmayacağı konusunda uyuşmazlık bulunmaktadır.
+
+Somut olayda, davacı 23.09.2014 tarihli ıslah dilekçesi ile talep miktarını bilirkişi raporuna göre artırmış fakat ıslah edilen kısımlara ilişkin olarak faiz talebinde bulunmamıştır. Islaha konu usul işlemi dava dilekçesi olup, davacının dava dilekçesindeki diğer unsurların aynen devam ettiği yönünde iradesinin mevcut olduğu, bunun ayrıca ve özel olarak belirtilmesinin gerekmediği kabul edilmelidir. Dava konusu miktarın artırılması suretiyle davanın kısmen ıslahı ile ek dava bazı yönlerden benzerlik gösterse de, esas itibariyle farklı müesseseler olduklarından ıslahla ilgili sorunların yine ıslah müessesi çerçevesinde çözümlenmesi gerekir. Başka bir anlatımla kısmi ıslahla ortaya çıkan hukuki sorunların ek dava müessesi ile çözümlenmesi her zaman doğru olmaz. Bu bağlamda temerrüt dolayısıyla faizin başlangıcı ve zamanaşımına ilişkin sorunların çözümü yönünden kısmi ıslah ile ek dava paralellik göstermekte ise de ek davada faize karar vermek için gereken talep şartı kısmi ıslahta aranmamalıdır. Başka bir anlatımla, dava dilekçesinde faiz istenmiş olması kaydıyla miktar artırmak suretiyle yapılan kısmi ıslahta ayrıca faiz istenmesi gerekmez. Hal böyle olunca, ıslah edilen alacak miktarları yönünden de faiz yürütülmesine karar verilmesi gerekirken hatalı değerlendirme ile yazılı şekilde karar verilmesi yanlış olmuştur.
+
+UYARI

@@ -1,0 +1,72 @@
+Ticarî Sır, Bankacılık Sırrı veya Müşteri Sırrı Niteliğindeki Bilgi veya Belgelerin Açıklanması Suçu
+
+TCK Madde 239
+
+TCK Madde 239 Gerekçesi
+
+TCK 239 (Ticarî Sır, Bankacılık Sırrı veya Müşteri Sırrı Niteliğindeki Bilgi veya Belgelerin Açıklanması Suçu) Emsal Yargıtay Kararları
+
+(1) Sıfat veya görevi, meslek veya sanatı gereği vakıf olduğu ticari sır, bankacılık sırrı veya müşteri sırrı niteliğindeki bilgi veya belgeleri yetkisiz kişilere veren veya ifşa eden kişi, şikayet üzerine, bir yıldan üç yıla kadar hapis ve beşbin güne kadar adlî para cezası ile cezalandırılır. Bu bilgi veya belgelerin, hukuka aykırı yolla elde eden kişiler tarafından yetkisiz kişilere verilmesi veya ifşa edilmesi halinde de bu fıkraya göre cezaya hükmolunur.
+
+(2) Birinci fıkra hükümleri, fenni keşif ve buluşları veya sınai uygulamaya ilişkin bilgiler hakkında da uygulanır.
+
+(3) Bu sırlar, Türkiye’de oturmayan bir yabancıya veya onun memurlarına açıklandığı takdirde, faile verilecek ceza üçte biri oranında artırılır. Bu halde şikayet koşulu aranmaz.
+
+(4) Cebir veya tehdit kullanarak bir kimseyi bu madde kapsamına giren bilgi veya belgeleri açıklamaya mecbur kılan kişi, üç yıldan yedi yıla kadar hapis cezasıyla cezalandırılır.
+
+5237 sayılı Türk Ceza Kanunu (TCK) Tam Metin
+
+Makale :Ticari Sır, Bankacılık Sırrı veya Müşteri Sırrının Açıklanması Suçu
+
+Maddenin birinci fıkrasında ticari sır, bankacılık sırrı veya müşteri sırrı niteliğindeki bilgi veya belgelerin yetkisiz kişilere verilmesi veya ifşa edilmesi, suç olarak tanımlanmıştır. Bir bilgi veya belgenin bu nitelikte olup olmadığı, ilgili kanunda belirlenen bu hususa ilişkin ölçütler göz önünde bulundurularak hâkim tarafından belirlenir.
+
+Maddenin ikinci fıkrasında, fennî keşif ve buluşlar ile sınaî uygulamaya ilişkin bilgiler koruma altına alınmıştır. Genel anlamda fennî veya sınaî sır, sanayicinin işletmesinin yararı gereği gizli tutmak istediği hususlardır.
+
+Üçüncü fıkrada, sırrın Türkiye’de oturmayan bir yabancıya veya memurlarına açıklanması hâlinde daha ağır ceza öngörülmüştür.
+
+Maddenin dördüncü fıkrasında, bir kimsenin cebir veya tehditle bu madde kapsamına giren bir sırrı açıklamaya mecbur edilmesi, ayrı bir suç olarak tanımlanmıştır.
+
+YARGITAY 5. CEZA DAİRESİ 
+Esas : 2014/7809 Karar : 2017/118Tarih : 12.01.2017
+
+TCK 239. Madde
+
+Ticarî Sır, Bankacılık Sırrı veya Müşteri Sırrı Niteliğindeki Bilgi veya Belgelerin Açıklanması Suçu
+
+Ticarisır, bankacılık sırrı veya müşteri sırrı niteliğindeki bilgi veya belgelerin açıklanması ile sistemi engelleme, bozma, verileri yok etme veya değiştirme suçlarından açılan kamu davasında eylemin bir bütün olarak TCK`nın 239. maddesindeki ticarî sır, bankacılık sırrı veya müşteri sırrı niteliğindeki bilgi veya belgelerin açıklanması suçunu oluşturduğu kabul edilerek kurulan hükmün katılan vekili tarafından temyiz edildiği anlaşılmakla tebliğnamedeki temyiz isteminin reddini isteyen düşünceye iştirak edilmeyerek sanık müdafii ve katılan vekilinin temyiz itirazlarına hasren inceleme yapılmasına karar verildikten sonra gereği düşünüldü:
+
+Suç tarihinde, katılan şirket bünyesinde mühendis olarak çalışmakta olan sanığın, şirketin ana bilgisayara güvenlik sistemini devre dışı bırakıp uzaktan girerek kendi bilgisayarına veri transferi yaptığı ve 2490 adet dosyayı şifreleyerek ZIP formatında harici belleğe kopyalayıp yeni işe başladığı firmanın ana bilgisayarına aktardığı iddia edilen olayda sanık ve müdafiin, kopyalandığı iddia edilen verilerin ticari sır veya müşteri sırrı niteliğinde olmadığını beyan ederek atılı suçlamayı kabul etmedikleri, katılan tarafın ise söz konusu bilgilerin ticari sır niteliğinde olduğunu beyan ettikleri, dosya arasında mevcut kayıtların teknik bilgi ve tecrübeyi gerektiren konulara ilişkin olduğu nazara alınarak; kopyalanan kayıtlarda yer alan bilgilerin ticari sır veya müşteri sırrı niteliğinde olup olmadığı hususlarında konusunda uzman bilirkişilerden rapor alınması ve hasıl olacak sonuca göre sanığın hukuki durumunun tayin ve takdiri gerekirken eksik inceleme ve yetersiz bilirkişi raporuna dayanılarak yazılı şekilde hüküm kurulması,
+
+Kanuna aykırı, sanık müdafii ve katılan vekilinin temyiz itirazları bu itibarla yerinde görüldüğünden hükmün 5320 sayılı Kanunun 8/1. maddesi de gözetilerek CMUK`nın 321 maddesi uyarınca BOZULMASINA, 12/01/2017 tarihinde oybirliğiyle karar verildi.
+
+YARGITAY 5. CEZA DAİRESİ 
+Esas : 2013/14327 Karar : 2015/16810Tarih : 30.11.2015
+
+TCK 239. Madde
+
+Ticarî Sır, Bankacılık Sırrı veya Müşteri Sırrı Niteliğindeki Bilgi veya Belgelerin Açıklanması Suçu
+
+Yargıtay Ceza Genel Kurulunun Dairemizce de benimsenen 10/06/2014 gün 2012/6-1336 E. 2014/323 K. sayılı ilamında da belirtildiği gibi, suç oluşturan bir eylemin aynı anda birden fazla kanundaki düzenlemeleri ihlal etmiş olması durumunda “kanunların içtimaı” söz konusu olmaktadır. Bu hallerde görünüş itibariyle suçların çokluğundan bahsedilebilirse de, eyleme gerçekte karşılaşan normlardan sadece birisi uygulanabileceğinden buna “görünüşte içtima” da denilmektedir. Böyle durumlarda hangi kanunun uygulanması gerektiği, “özel normun önceliği”, “tüketen-tüketilen norm ilişkisi” ve “yardımcı (tali) normun sonralığı” gibi ilkelere göre belirlenmelidir. Genel norm ile aynı hukuki yararı koruyan özel norm, genel normun tüm unsurlarını taşımakla birlikte genel normda yer almayan özel bazı unsurları da ihtiva etmektedir. Böyle bir durumda “özel normun önceliği” ilkesi uyarınca olaya genel norm değil özel norm uygulanacaktır.
+
+5237 sayılı Kanunda “ticari sır, bankacılık sırrı veya müşteri sırrı niteliğindeki bilgi veya belgelerin açıklanması” suçunu düzenleyen 239. madde hükmü genel norm niteliğinde iken 5411 sayılı Bankacılık Kanunun 73/3, 159. maddelerinde düzenlenmiş olan “sıfat ve görevleri dolayısıyla öğrenilen bankalara veya müşterilerine ait sırların açıklanması” suçu özel norm niteliği taşıdığından, özel normun önceliği ilkesi gereğince 5237 sayılı TCK`nun 239/1. maddesi değil Bankacılık Kanununun 73/3. maddesi delaletiyle aynı Kanunun 159. maddesi uygulanmalıdır.
+
+Bu açıklamalar ışığında somut olay değerlendirildiğinde; katılan bankada ticari portföy yönetmeni olarak görevli olan sanığın, görevi dolayısıyla öğrendiği 1.196 banka müşterisine ait müşteri sırrı niteliğindeki mevduat bakiyesi, vade tarihi ve faiz oranı bilgileri içeren listeyi suç tarihinde başka bir bankada görev yapan eşine elektronik posta yoluyla göndererek açıkladığı, bu suretle 5411 sayılı Bankacılık Kanununun 73/3. maddesi delaletiyle 159. maddesinde yazılı suçun tüm unsurlarıyla oluştuğu gözetilmeden dosya kapsamı ve oluşa uygun düşmeyen gerekçelerle mahkumiyeti yerine yazılı biçimde beraatine karar verilmesi,
+
+Kabule göre de;
+
+TCK’nın 239/1. maddesinde yazılı suç şikayete bağlı olup, CMK`nın 253/1-a maddesi gereğince uzlaşma kapsamında bulunmasına rağmen uzlaşma hükümlerinin uygulanmaması,
+
+Kanuna aykırı, katılan vekilinin temyiz itirazları bu itibarla yerinde görülmüş olduğundan hükmün 5320 sayılı Kanunun 8/1. maddesi de gözetilerek CMUK`nın 321. maddesi uyarınca ( BOZULMASINA ),  oybirliğiyle karar verildi.
+
+YARGITAY 12. CEZA DAİRESİ 
+Esas : 2017/12341 Karar : 2018/5844Tarih : 23.05.2018
+
+TCK 239. Madde
+
+Ticarî Sır, Bankacılık Sırrı veya Müşteri Sırrı Niteliğindeki Bilgi veya Belgelerin Açıklanması Suçu
+
+Sanığın, TCK’nın 239. maddesindeki ticarî sır, bankacılık sırrı veya müşteri sırrı niteliğindeki bilgi veya belgelerin açıklanması, TCK’nın 136. maddesindeki verileri hukuka aykırı olarak verme veya ele geçirme ve TCK’nın 106. maddesindeki tehdit suçlarından dolayı cezalandırılmasının talep edildiği 07.05.2013 tarihli iddianamede; sanığın, katılanlara ait holdinge bağlı bir şirkette muhasebeci olarak çalıştığı esnada, katılanların şirketinin mali ve ticari sırları ile başka şirketlerle olan hukuki ihtilaf ve davalarını kendi bilgisayarına hukuka aykırı olarak kaydettiği, işten ayrıldıktan sonra, katılanların eski ortağı olup, aynı işi yapmalarından dolayı katılanlarla aralarında ticari rekabet bulunan Matodzi adındaki kişiye, ele geçirdiği ticari ve mali sırların bir kısmını haksız çıkar karşılığı verdiği, katılan …‘ı da telefonla arayıp, “Kişisel ve ailevi sırlarını da biliyorum, burada parasız kaldım, mağdur durumdayım, 6000 Dolar göndermezsen ailevi ve mali sırlarını açıklayacağım, beni Matodzi’nin eline bırakmayın, yoksa sonu sizin için iyi olmaz.” biçimindeki sözlerle tehdit ettiği iddia edilmiş, yapılan yargılama sonunda sanık hakkında TCK’nın 239. maddesindeki ticarî sır, bankacılık sırrı veya müşteri sırrı niteliğindeki bilgi veya belgelerin açıklanması, TCK’nın 135. maddesindeki kişisel verilerin kaydedilmesi ve TCK’nın 106. maddesindeki tehdit suçlarından dolayı beraat kararı verilmiş olup, TCK’nın 135 ve 136. maddelerindeki suçların maddi konusunu oluşturan “kişisel veri” kavramından, gerçek kişiye ait her türlü bilginin anlaşılması gerektiği, şikayet dilekçesinde söz edilen “Sanığın, şirketin mali sırlarının yanında katılanların şahsi sırlarını da kişisel veri olarak kaydettiği” ne dair bir anlatımın iddianamede yer almadığı, firmaya ait bilgi ve belgelerin “kişisel veri” kapsamında değerlendirilemeyeceği dikkate alındığında, iddianamedeki anlatımın içeriğinden sanığa yüklenen eylemlerin TCK’nın 239. maddesindeki ticarî sır, bankacılık sırrı veya müşteri sırrı niteliğindeki bilgi veya belgelerin açıklanması ve TCK’nın 106. maddesindeki tehdit suçlarından ibaret olduğu, yerel mahkemenin kabulünde olduğu gibi, TCK’nın 135. maddesindeki kişisel verilerin kaydedilmesi suçundan dava açıldığı sonucuna varılsa dahi TCK’nın 239. maddesindeki ticarî sır, bankacılık sırrı veya müşteri sırrı niteliğindeki bilgi veya belgelerin açıklanması suçunun cezasının TCK’nın 135. maddesindeki kişisel verilerin kaydedilmesi ve TCK’nın 106. maddesindeki tehdit suçlarının cezalarından daha ağır olduğu anlaşılmakla,
+
+Katılanlar vekili tarafından temyiz incelemesine konu edilen eylemlere ilişkin iddianamedeki anlatıma, 28.06.2014 tarihli ve 29044 sayılı Resmi Gazete’de yayımlanarak yürürlüğe giren 6545 sayılı Kanun’un 31. maddesi ile değişik Yargıtay Kanunu’nun 14. maddesindeki; “Ceza dairelerinde: a) Daireler arasındaki iş bölümünün belirlenmesinde mahkeme kararındaki nitelendirme, mahkûmiyet dışındaki kararlarda ise iddianamede veya iddianame yerine geçen belgedeki nitelendirme esas alınır. b) Çeşitli suçlara ait davalarda, suçların en ağırını incelemeye yetkili olan daire görevlidir.” hükmüne göre, 27.01.2017 tarihli ve 29961 sayılı Resmi Gazetede yayımlanarak, 01.02.2017 günü yürürlüğe giren ve 14.12.2017 olan tebliğname tarihine nazaran uygulanması gereken 20.01.2017 tarihli ve 2017/1 sayılı Yargıtay Büyük Genel Kurul kararı gereğince temyize konu beraat hükümlerinin incelenmesi görevi Yargıtay 5. Ceza Dairesine ait bulunduğundan, Dairemizin GÖREVSİZLİĞİNE, dosyanın görevli Daireye GÖNDERİLMESİNE, 23.05.2018 tarihinde oybirliğiyle karar verildi.
+
+UYARI

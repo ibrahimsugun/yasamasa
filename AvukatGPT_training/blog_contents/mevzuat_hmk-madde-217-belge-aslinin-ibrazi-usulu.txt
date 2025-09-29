@@ -1,0 +1,44 @@
+Belge Aslının İbrazı Usulü
+
+HMK Madde 217
+
+HMK Madde 217 Gerekçesi
+
+HMK 217 (Belge Aslının İbrazı Usulü) Emsal Yargıtay Kararları
+
+(1) Bir kişi veya kurumun elinde bulunup mahkemeye teslim edilmesi gereken belgenin aslı istendiğinde, kişi veya kurumun bulunduğu ya da belgenin teslim edileceği yerdeki asliye mahkemesi tarafından örneği onaylanarak aslı mahkemeye gönderilir yahut teslim edilir.
+
+(2) Mahkemece onaylanmış belge örneği, aslı gibi hüküm ifade eder.
+
+Madde, 1086 sayılı Kanundaki 311 inci maddenin yeniden düzenlenmiş hâlidir.
+
+Bir kişi ya da kurumun elindeki belgenin aslını mahkemeye teslimi gereken durumlarda, belgeyi teslim edenin bulunduğu ya da belgenin teslim edileceği yerdeki asliye mahkemesine bir örneği tasdik ettirilerek, aslı belgeyi isteyen mahkemeye gönderilecek veya teslim edilecektir. Burada yeni olan husus, belgenin aslını tasdik edecek mahkemenin asliye mahkemesi olduğudur. Bu düzenleme ile, görevli mahkeme konusundaki tereddüt ortadan kaldırılmıştır. Maddenin ikinci fıkrasında, mahkemece tasdik edilen örneğin aslı gibi hüküm ifade edeceği de açıkça belirtilmiştir.
+
+1086 sayılı Kanunun 324 üncü maddesinde belirtilen, resmî kurumlar elinde bulunan senetler de, bu madde kapsamında olduğundan, söz konusu 324 üncü maddeye ilişkin hükme bu Tasarıda yer verilmemiştir.
+
+YARGITAY 12. HUKUK DAİRESİ
+Esas : 2016/30796 Karar : 2017/3472Tarih : 9.03.2017
+
+HMK 217. Madde
+
+Belge Aslının İbrazı Usulü
+
+Alacaklı tarafından çeke dayalı olarak kambiyo senetlerine mahsus haciz yolu ile başlatılan icra takibine karşı, borçlu şirket vekilinin icra mahkemesine yaptığı başvuruda, takip konusu çekteki imzaya itiraz ettiği, mahkemece; İİK’nun 68/a-5. maddesinde yazılı meşruhatı taşıyan davetiyenin borçlu şirket yetkilisine tebliğine rağmen duruşmaya katılmadığı gerekçesiyle itirazın reddine karar verildiği görülmektedir.
+
+Kambiyo senetlerine dayalı olarak haciz yolu ile başlatılan takiplerde imzaya itiraz, İİK’nun 170. maddesinde düzenlenmiş olup, bu maddenin üçüncü fıkrasında, icra mahkemesince imza incelemesinin aynı kanunun 68/a maddesinin dördüncü fıkrasına göre yapılması gerektiğine işaret edilmiştir. İİK’nun 68/a maddesinin dördüncü fıkrasında “İmza tatbikında Hukuk Usulü Muhakemeleri Kanununun bilirkişiye ait hükümleri ile 309. maddesinin 2., 3. ve 4. fıkraları ve 310, 311 ve 312. maddeleri (şimdi ise HMK madde 211/b, 208/2, 217) hükümleri uygulanır” düzenlemesi öngörülmüştür.
+
+6100 sayılı Hukuk Muhakemeleri Kanunu’nun 447/2. maddesi ise; “Mevzuatta, yürürlükten kaldırılan 18.6.1927 tarihli ve 1086 sayılı Hukuk Usulü Muhakemeleri Kanununa yapılan yollamalar, Hukuk Muhakemeleri Kanununun bu hükümlerin karşılığını oluşturan maddelerine yapılmış sayılır” şeklinde düzenlenmiştir.
+
+Görüldüğü üzere, İİK’nun 68/a-4 maddesinde, 1086 sayılı Hukuk Usulü Muhakemeleri Kanunu’nun 309/1. (6100 sayılı HMK’nun 211/1-a) maddesine atıfta bulunulmadığından, icra mahkemesince, öncelikle borçlunun isticvabına ve duruşmada imzalarının alınması yoluna gidilemeyeceğinin kabulü gerekir.
+
+İİK’nun 68a/4. maddesi göndermesiyle ve HMK’nun 447/2. maddesi uyarınca uygulanması gereken 6100 sayılı HMK’nun 211/b maddesinde; imza incelemesinin yöntemi gösterilmiş olup, buna göre, hakim, bilirkişi incelemesine karar verir ise; ‘‘….önce, mevcutsa, o tarafa ait olan karşılaştırma yapmaya elverişli yazı ve imzalar, ilgili yerlerden getirtilir. Bilirkişi, bu yazı ve imzalarla, o mahkemede elde edilen yazı ve imzaları esas alarak inceleme yapar. Bilirkişi, inceleme için gerekli görürse, kendi huzurunda tarafın yeniden yazı yazması veya imza atmasını mahkemeden talep edebilir’’ hükmü gereğince işlem yapar.
+
+Somut olayda, borçlu şirket vekili 04.09.2015 tarihli dilekçesinde, senet üzerindeki imzanın şirket yetkilisine ait olmadığını ileri sürmüş, 15.10.2015 tarihli dilekçesinde de imza incelemesine esas olacak imza örneklerinin bulundukları resmi mercileri bildirmiştir.
+
+O halde mahkemece, öncelikle borçlunun belirttiği karşılaştırma yapmaya elverişli imzaların ilgili yerlerden getirtilerek, usulünce bilirkişi incelemesi yaptırılması, bilirkişi tarafından borçlunun bildirmiş olduğu imza örneklerinin rapor tanzimine yeterli görülmediğinin belirtilmesi durumunda ise borçluya İİK’nun 68a/5. maddesi uyarınca meşruhatlı davetiye tebliğ edilerek, geldiğinde, imza ve yazı örnekleri alınıp bilirkişi incelemesi yaptırılmak sureti ile sonuca gidilmesi gerekirken, mahkemece yasanın öngördüğü bu usule uyulmadan doğrudan borçlu şirket yetkilisine meşruhatlı davetiye gönderilerek gelmediğinden bahisle istemin reddi isabetsizdir. Kaldı ki, mahkemece düzenlenen 02.12.2015 tarihli ön inceleme hazırlık tutanağının “4” nolu bendinde ilgili yerlerden müzekkere cevapları geldiğinde dosyanın bilirkişiye tevdi edilmesine karar verildiği halde, söz konusu ara karara uyulmadan sonuca gidildiği anlaşılmaktadır.
+
+Öte yandan, takip şekli kambiyo senetlerine mahsus haciz yolu ile takip olup, İİK’nun 170/3. maddesi uyarınca imza itirazı kabul edildiği takdirde, takibin durdurulmasına; imzanın borçluya ait olduğunun anlaşılması halinde ise itirazın reddine karar verilmesi gerekir. Genel haciz yolu ile ilamsız takipte olduğu gibi imzaya ilişkin itirazın icra müdürlüğüne yapılması hali söz konusu olmadığından “itirazın geçici kaldırılması” şeklinde hüküm tesisi de yerinde değildir.
+
+SONUÇ : Borçlunun temyiz itirazlarının kabulü ile mahkeme kararının yukarıda yazılı nedenlerle İİK’nun 366 ve HUMK’nun 428. maddeleri uyarınca (BOZULMASINA), peşin alınan harcın istek halinde iadesine, ilamın tebliğinden itibaren 10 gün içinde karar düzeltme yolu açık olmak üzere, 09.03.2017 gününde oybirliğiyle karar verildi.
+
+UYARI

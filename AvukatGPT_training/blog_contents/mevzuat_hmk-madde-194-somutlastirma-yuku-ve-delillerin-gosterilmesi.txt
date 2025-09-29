@@ -1,0 +1,527 @@
+Somutlaştırma Yükü ve Delillerin Gösterilmesi
+
+HMK Madde 194
+
+HMK Madde 194 Gerekçesi
+
+HMK 194 (Somutlaştırma Yükü ve Delillerin Gösterilmesi) Yargıtay Kararları
+
+(1) Taraflar, dayandıkları vakıaları, ispata elverişli şekilde somutlaştırmalıdırlar.
+
+(2) Tarafların, dayandıkları delilleri ve hangi delilin hangi vakıanın ispatı için gösterildiğini açıkça belirtmeleri zorunludur.
+
+Bu madde yeni bir düzenlemedir. Maddenin amacı, bir yandan ispatın genel hükümleri çerçevesinde temel bir kavrama yer vermek iken, diğer yandan da uygulamada genel geçer ifadelerle somut vakıalara dayanmadan davaların açılıp yürütülmesinin önüne geçmektir.
+
+Birinci fıkrada, somutlaştırma yükü düzenlenmiştir. Bir davada, ispat faaliyetinin tam olarak yürütülebilmesi, mahkemenin uyuşmazlığı doğru tespit ederek yargılama yapabilmesi, karşı tarafın ileri sürülen vakıalara karşı kendini savunabilmesi için, iddia edilen vakıaların açık ve somut olarak ortaya konulması gerekir. Genel geçer ifadelerle, somut bir şekilde ortaya koymadan iddia veya savunma amacıyla vakıaların ileri sürülmesi durumunda, yargılamanın sağlıklı bir şekilde yürütülmesi mümkün olmayacağı gibi, vakıaların anlaşılması için ayrıca bir araştırma yapılması ve zaman kaybedilmesi söz konusu olacaktır. Taraflar, haklarını dayandırdıkları hukuk kuralının aradığı koşul vakıalara uygun, somut vakıaları açıkça ortaya koymalıdırlar. Bu vakıaların somut olarak ileri sürülmesi, ilgili taraf için bir yüktür; bu yükü yerine getirmeyen sonuçlarına katlanacaktır.
+
+İkinci fıkrada, somutlaştırma yükünün delillerle ilişkisi ortaya konulmuştur. Dava açılırken ve cevap dilekçesi verilirken taraflar, dayandıkları vakıaların hangi delillerle ispat edileceğini de belirtmek zorundadırlar. Delil bir ispat aracı olarak, ileri sürülen bir vakıanın doğruluğunu ispat etmeye yarar. Dolayısıyla her bir vakıa bakımından o vakıayı ispata yarayan ispat araçlarının da belirtilmesi önemlidir. Uygulamada, tarafların iddia veya savunmada bulunurken yeterli araştırma yapmadan vakıalar ileri sürdükleri veya bunların delillerini ortaya koymadan dilekçeler verdikleri görülmektedir. Özellikle taraflarca hazırlama ilkesinin geçerli olduğu davalarda, mahkemenin yargılamayı doğru yürütebilmesi ve makul bir sürede karar verebilmesi için, delillerin vakıalarla bağlantısı kurularak mahkeme önüne getirilmiş olması gerekir. Bu da tarafların dayandıkları delilleri ve her bir delilin hangi vakıanın ispatı için kullanılacağını belirtmeleriyle mümkündür.
+
+Hukuk Genel Kurulu         2020/242 E.  ,  2020/712 K.
+
+Taraflarca getirilme ilkesinin bir sonucu olarak davacının iddiasının dayanağı olan bütün vakıaları dava dilekçesinde bildirmesi gerekir. Kanun (m. 194) buna (vakıaları) somutlaştırma yükü demektedir. Bir davada, ispat faaliyetinin tam olarak yürütülebilmesi, mahkemenin uyuşmazlığı doğru tespit ederek yargılama yapabilmesi, karşı tarafın ileri sürülen vakıalara karşı kendini savunabilmesi için, iddia edilen vakıaların açık ve somut olarak ortaya konulması gerekir. Bu şekilde somutlaştırma yükü (HMK m. 194) yerine getirileceği gibi davalı da bu vakıalara göre savunmasını yapacaktır. Dayanılan vakıalara uygulanacak hukuki sebepler de dava dilekçesinin zorunlu olmayan unsurları arasında sayılmıştır. Türk hukukunu resen uygulamakla görevli olan hâkim (HMK m. 33) için gösterilen hukuki sebepler bağlayıcı değildir. Buna karşılık, hâkim, davacının dava dilekçesinde bildirdiği vakıalarla bağlı olup, davacının bildirmediği vakıaları kendiliğinden inceleyemez ve onları hatırlatabilecek hâllerde dâhi bulunamaz (HMK m. 25). Davacının dava dilekçesinde bildirdiği vakıalar davanın temelidir. Çünkü, sadece bu vakıalar davanın sınırını çizmekte, hâkim ancak bu vakıalar hakkında inceleme yapabilmektedir. Davacının dava dilekçesinde bildirdiği vakıaların doğru olduğu, yargılama sırasında ispat edilirse ve bu vakıalar, davacıyı talep sonucunda haklı gösteriyorsa, mahkeme davacının davasını kabul ederek, davayı davacı lehine karara bağlar.
+
+Talep sonucu kısmında ise talebin ne olduğu açık bir şekilde belirtilmelidir. Çünkü, taleple bağlılık ilkesi gereğince hâkim talep sonucuyla bağlı olup, ondan fazlasına veya başka bir şeye karar veremez (HMK m. 26). Bu ilke uyarınca davacının talep etmediği bir şey hakkında karar verilemez. Dava sonucunda kurulacak hükmün sınırını, tarafların karara bağlanmasını istediği talep sonucu belirler. Bu nedenle talep sonucu yeterince açık değilse hâkimin davayı aydınlatma ödevi (HMK m. 31) kapsamında açık olmayan talep sonucunu açıklatması gerekir.
+
+YARGITAY 2. HUKUK DAİRESİ
+Esas : 2016/19793 Karar : 2018/7457Tarih : 7.06.2018
+
+HMK 194. Madde
+
+Somutlaştırma Yükü ve Delillerin Gösterilmesi
+
+Hukuk Muhakemeleri Kanunu’nun 119. maddesinde dava dilekçesinde bulunması gereken hususlar tek tek sayılmıştır. 119. maddenin (1.) fıkrasının e bendinde “davacının iddiasının dayanağı olan bütün vakıaların sıra numarası altında açık özetlerinin”, f bendinde ise, “iddia edilen her bir vakıanın hangi delillerle ispat edileceğinin” belirtilmesi gerektiği düzenlenmiştir. Tarafların dayandıkları vakıaları, ispata elverişli şekilde somutlaştırmaları gerekir. Tarafların, dayandıkları delilleri ve hangi delilin hangi vakıanın ispatı için gösterildiğini açıkça belirtmeleri zorunludur (HMK m.194). Somut olayda davacı kadın dava dilekçesinde iddialarını ispata yarayacak hiçbir delil bildirmediği gibi, tanık deliline de dayanmamıştır. Bu sebeple davacı kadının tanıklarının beyanlarına itibar edilerek hüküm kurulamaz. Açıklanan sebeplerle davacı kadının boşanma davasının reddi gerekirken, kabulü doğru olmamış ve bozmayı gerektirmiştir.
+
+SONUÇ: Temyiz edilen hükmün yukarıda gösterilen sebeple BOZULMASINA, temyiz peşin harcının istek halinde yatırana geri verilmesine, işbu kararın tebliğinden itibaren 15 gün içinde karar düzeltme yolu açık olmak üzere oybirliğiyle karar verildi. 07.06.2018 (Prş.)
+
+YARGITAY 2. HUKUK DAİRESİ 
+Esas : 2016/8563 Karar : 2017/15151Tarih : 21.12.2017
+
+HMK 194. Madde
+
+Somutlaştırma Yükü ve Delillerin Gösterilmesi
+
+Hukuk Muhakemeleri Kanunun`nun 119. maddesinde dava dilekçesinde bulunması gereken hususlar tek tek sayılmıştır. 
+119.maddenin (1.) fıkrasının e bendinde “davacının iddiasının dayanağı olan bütün vakıaların sıra numarası altında açık özetlerinin”, 
+f bendinde ise, “iddia edilen her bir vakıanın hangi delillerle ispat edileceğinin” belirtilmesi gerektiği düzenlenmiştir.
+
+Tarafların dayandıkları vakıaları, ispata elverişli şekilde somutlaştırmaları gerekir.
+
+Tarafların, dayandıkları delilleri ve hangi delilin hangi vakıanın ispatı için gösterildiğini açıkça belirtmeleri zorunludur (HMK m.194).
+
+Somut olayda davacı erkek dava dilekçesinde iddialarını ispata yarayacak hiçbir delil bildirmediği gibi, tanık deliline de dayanmamıştır. Bu sebeple davacı erkeğin tanıklarının beyanlarına itibar edilerek hüküm kurulamaz. Açıklanan sebeplerle davacı erkeğin boşanma davasının reddi gerekirken kabulü doğru olmayıp, bozmayı gerektirmiştir.
+
+SONUÇ: Temyiz edilen hükmün yukarıda gösterilen sebeple BOZULMASINA, temyiz peşin harcının istek halinde yatırana geri verilmesine, işbu kararın tebliğinden itibaren 15 gün içinde karar düzeltme yolu açık olmak üzere oybirliğiyle karar verildi. 21.12.2017 (Prş.)
+
+YARGITAY 1. HUKUK DAİRESİ 
+Esas : 2016/15116 Karar : 2017/3542Tarih : 15.06.2017
+
+HMK 194. Madde
+
+Somutlaştırma Yükü ve Delillerin Gösterilmesi
+
+Dava, muris muvazaası hukuksal nedenine dayalı tapu iptali ve tescil isteğine ilişkindir.
+
+Mahkemece, muvazaa iddiasının kanıtlanamadığı gerekçesiyle davanın reddine karar verilmiştir.
+
+Dosya içeriğinden ve toplanan delillerden; davacıların ve birleşen davacının miras bırakan babaları…‘ın kayden paydaşı bulunduğu 17 ada 1 parsel sayılı taşınmazdaki 1/2 oranındaki payını davalı …‘e satış suretiyle temlik ettiği anlaşılmaktadır.
+
+Davacılar, dava ve birleştirilen davalarında miras bırakanlarının yapmış olduğu temliklerin kendilerinden mal kaçırma amaçlı ve muvazaalı olduğunu ileri sürerek eldeki davayı açmışlardır.
+
+Davalı ise; satış işleminin gerçek olduğunu ve bedeli ödenmek suretiyle çekişmeli payı satın aldığını savunmuştur.
+
+Bilindiği üzere; 6100 ayılı Hukuk Usulü Muhakemeleri Kanunu’nun “dava dilekçesinin içeriği” başlıklı 119/1. fıkrasının f bendinde; “iddia edilen her bir vakıanın hangi delillerle ispat edileceği”nin dava dilekçesinde; ‘’ cevap dilekçesinin içeriği’’ başlığını taşıyan 129. maddesinin 1. fıkrasının e bendinde de; ‘‘savunmanın dayanağı olarak ileri sürülen her bir vakıanın hangi delillerle ispat edileceği’‘nin cevap dilekçesinde gösterileceği hükümlerine yer verilmiştir. Anılan Kanun’un “somutlaştırma yükü ve delillerin gösterilmesi” başlıklı HMK’nun 194/2. fıkrasında da“tarafların, dayandıkları delilleri ve hangi delilin hangi vakıanın ispatı için gösterildiğinin açıkça belirtmeleri zorunludur” denilmiştir. Görüldüğü gibi; 6100 sayılı HMK’nun 119/1-f bendi davacının; aynı Kanun’un 129/1-e bendi ise ;davalının delillerinin nelerden ibaret olduğunun belirtilmesini zorunlu kılmış olup;aynı doğrultuda HMK.’nun 194. maddesinde de tarafların hangi delillere dayandığının dilekçeden anlaşılması gerektiği ifade edilmiştir.
+
+Yine, HMK.’nun 240/2. maddesinde ‘‘Tanık gösteren taraf, tanık dinletmek istediği vakıayı ve dinlenilmesi istenen tanıkların adı ve soyadı ile tebliğe elverişli adreslerini içeren listeyi mahkemeye sunar. Bu listede gösterilmemiş olan kimseler tanık olarak dinlenemez ve ikinci bir liste verilemez. ‘’ düzenlemesi öngörülmüştür.
+
+Ayrıca, HMK.’nun 24. maddesinin 1. fıkrası uyarınca ‘‘Hakim, iki taraftan birinin talebi olmaksızın, kendiliğinden bir davayı inceleyemez ve karara bağlayamaz. ‘’ Anılan maddenin 2. fıkrasına göre de;’’ Kanunda açıkça belirtilmedikçe, hiç kimse kendi lehine olan davayı açmaya veya hakkını talep etmeye zorlanamaz.’’
+
+Burada ifade edilen, tasarruf ilkesidir. Hiç kimse, kanunda açıkça belirtilmedikçe kendi lehine olan bir davayı açmaya veya hakkını talep etmeye zorlanamaz. Mahkemeler, özel hukuka ilişkin bir uyuşmazlığı kendiliklerinden çözmeye çalışmazlar. Taraflar özel hukuktan kaynaklanan menfaatlerinin korunması için isterlerse yargı organlarına başvurarak hukuki korunma talep edebilirler. Taraf iradesine öncelik verilmesi ve tarafın talebinin esas alınması sadece davanın açılmasında değil, yargılama sırasında taraflara ait bir çok usul işleminde de kendisini gösterir.
+
+Diğer yandan, HMK.’nun 25/2 maddesinde de ‘‘Kanunla belirtilen durumlar dışında, hakim, kendiliğinden delil toplayamaz. ‘’ hükmü yer almaktadır.
+
+Buna göre, re’sen araştırma ilkesinin geçerli olmadığı davalarda dava malzemelerinin toplanması ve mahkeye sunulması taraflara aittir. Hakim kendiliğinden taraflarca ileri sürülmemiş vakıaları araştıramaz, hükmüne esas alamaz. Mahkeme, sadece tarafların getirdiği, yada masrafını verip getirilmesini istediği delillere dayalı olarak hükmünü kurabilir.
+
+Medeni usul hukukunun, özel hukuk olmasının bir yansıması ve irade serbestisinin bir gereği olarak, taraflarca hazırlama ilkesi geçerlidir. Dava malzemelerinin mahkemeye tam olarak getirilmemesinin sorumluluğunu taraflar üstlenmiştir. Davada taraf maddi hukuka göre ne kadar haklı olursa olsun, talep sonucunun dayandığı vakıaları ve dolayısı ile delillerini mahkemeye sunmamış ise talebi reddedilecektir.
+
+Bu ilkenin bir sonucu olarak hakim, kural olarak tarafların ileri sürmediği vakıaları ve belirli bir delili kendiliğinden araştıramaz ve taraflara hatırlatamaz.
+
+Taraflarca getirilme ilkesinin istisnaları, kamu düzenini ilgilendiren davalardır. Bu davalarda kendiliğinden araştırma ilkesi uygulanır. (Prof.Dr.Hakan Pekcanıtez, Prof. Dr.Oğuz Atalay, Prof. Dr.Muhammet Özekes, Medeni Usul Hukuku, … 2011, s. 251 vd.)
+
+Ancak, eldeki dava kendiliğinden araştırma ilkesinin uygulandığı, kamu düzenini ilgilendiren bir dava değildir.Zira, muris muvazaası hukuksal nedenine dayalı açılan davada ; iddia, savunma ve tarafların gösterdikleri deliller değerlendirilerek uyuşmazlığın çözümlenmesi gerekeceği kuşkusuzdur. Ne var ki, değinilen ilkeler ile sözü edilen maddelerin açıklanan fıkra ve bendlerin kapsamlarından da anlaşıldığı üzere mahkeme tarafından bu maddelerin gereklerinin yerine getirilmediği dosya kapsamıyla sabittir.
+
+Nitekim, mahkemece, tapu müdürlüğüne müzekkere yazılarak dava konusu taşınmazlara komşu en az 10 adet taşınmazın sahibini gösterir tapu kayıt malikinin bildirilmesinin istendiği, isimleri bildirilenlerin kamu tanığı sıfatıyla dinlenilmelerine karar verildiği, taraflarca tanık olarak gösterilmedikleri halde mahkeme tarafından …, …, …‘ın re’sen tanıklıklarına başvurulduğu ve adı geçenlerden …‘ın ifadesine dayanarak muvazaa iddiasının kanıtlanamadığı gerekçesiyle davanın reddi şeklinde hüküm kurulduğu görülmektedir.
+
+Bu durumda, re’sen araştırma ilkesinin de geçerli olmadığı eldeki davada hakimin tarafların yerine geçerek davanın yanlarınca getirilmeyen delilleri toplaması özellikle de gerekçesini ve hükmünü söz konusu delillere dayandırması tasarruf ilkesi, taraflarca hazırlanma ilkesi ile davanın ve delillerin somutlaştırma yüküne açıkça aykırıdır.
+
+Hal böyle olunca, yukarıda belirtilen ilkeler ve yasal düzenlemeler çerçevesinde iddia, savunma ve tarafların dayandıkları delillerin birlikte incelenmesi ve değerlendirilmesi suretiyle varılacak sonuç bir karar verilmesi gerekirken; medeni usul hukukunun temel ilkelerine ve yasal düzenlemelere aykırı olarak yazılı şekilde karar verilmiş olması doğru değildir.
+
+Davacılar ve birleştirilen davanın davacısının temyiz itirazları yerindedir. Kabulüyle, hükmün açıklanan nedenlerle (6100 sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK’un 428.maddesi gereğince BOZULMASINA, alınan peşin harcın temyiz edene geri verilmesine, 15.06.2017 tarihinde oybirliğiyle karar verildi.
+
+YARGITAY 13. HUKUK DAİRESİ
+Esas : 2016/13662 Karar : 2016/18429Tarih : 13.10.2016
+
+HMK 194. Madde
+
+Somutlaştırma Yükü ve Delillerin Gösterilmesi
+
+Davacı, davalı firmadan 20/03/2011 tarihinde devremülk satın aldığını, sözleşmedeki haklarını 2011 ve 2012 yılları için kullandığını, ancak 2013 ve 2014 yıllarında ise devremülkü ne zaman kullanabileceğine dair bir haber verilmediğini, davalı tarafa bu konuda telefonla da ulaşılamadığını belirterek sözleşmeye aykırı hareket ederek 2 yıl kullanamadığı hakların iadesi ile zararı olan 5.000 TL bedelin tahsiline karar verilmesini istemiştir.
+
+Davalı, davanın reddini dilemiştir.
+
+Mahkemece, Davanın kabulü ile; 5000 TL`nin dava tarihinden itibaren işleyecek yasal faizi ile birlikte davalıdan alınarak davacıya ödenmesine, karar verilmiş; hüküm, davalı tarafından temyiz edilmiştir.
+
+1-Dava, davacı tarafından imzalanan devremülk satış sözleşmesinin kullanılamamasından kaynaklanan zarar tazmine ilişkindir. Mahkemece, davanın kabulü ile 5.000 Tl nin dava tarihinden itibaren işleyecek yasal faizi ile birlikte davalıdan tahsiline karar verilmiştir.
+
+Davacı, dava açarken devremülkün 2 yıl kullanılmamasından doğan zararın tazminin istemiş; 3. celse beyanında ise, sözleşmenin iptali ile kaybettiği miktar olan 5.000 TL nin tahsilini istemiştir. Taraflar arasında 20.03.2011 tarihli 6.700 TL bedelli devremülk satış sözleşmesinin imzalandığı ve söz konusu sözleşme incelendiğinde tapuda pay devrini içeren bir sözleşme olduğu anlaşılmaktadır. Davacı tarafından davalıya bu sözleşme kapsamında 5.500 TL ve 100 TL olmak üzere toplamda 5.600 TL ödeme yapılmıştır. Davacının talebi incelendiğinde devremülkün kullanılmamasından kaynaklı zarar tazminin mi yoksa sözleşmenin iptalinin mi talep edildiği anlaşılamamaktadır.
+
+HMK’nın 26/1. maddesinde “ Hâkim, tarafların talep sonuçlarıyla bağlıdır; ondan fazlasına veya başka bir şeye karar veremez. Duruma göre, talep sonucundan daha azına karar verebilir.” ve yine Hâkimin davayı aydınlatma ödevi başlıklı HMK`nın 31/1. maddesinde “Hâkim, uyuşmazlığın aydınlatılmasının zorunlu kıldığı durumlarda, maddi veya hukuki açıdan belirsiz yahut çelişkili gördüğü hususlar hakkında, taraflara açıklama yaptırabilir; soru sorabilir; delil gösterilmesini isteyebilir.” düzenlemesi mevcuttur. Söz konusu düzenlemeye göre, hakim tarafından öncelikle davacının talep sonucu açıklattırılmalı ve daha sonra HMK 194. maddesi gereğince tarafların ileri sürdüğü iddia ve savunmaların somutlaştırılması istenilmelidir. Bu bağlamda davacının talebine ve davalının savunmasına göre tüm deliller toplanıp, gerektiğinde uğradığı zararın belirlenmesi için açık hesabı içerir Yargıtay, mahkeme ve taraf denetimine açık bilirkişi raporu alınıp sonuca göre karar verilmesi gerekirken bu hususlar göz ardı edilerek davanın kabulüne karar verilmesi usul ve yasaya aykırı olup bozmayı gerektirir.
+
+2-Bozma nedenine göre davalının birinci bent kapsamı dışında kalan sair itirazlarının incelenmesine bu aşamada gerek görülmemiştir.
+
+SONUÇ: Yukarıda birinci bentte açıklanan nedenlerle temyiz olunan hükmün davalı yararına BOZULMASINA, ikinci bentte açıklanan nedenlerle davalının sair itirazlarının incelenmesine yer olmadığına, peşin alınan harcın istek halinde iadesine, 13/10/2016 gününde oybirliğiyle karar verildi.
+
+YARGITAY İÇTİHADI BİRLEŞTİRME GENEL KURULU
+Esas: 2015/2 Karar: 2017/1Tarih: 03.03.2017
+
+HMK 194. Madde
+
+Somutlaştırma Yükü ve Delillerin Gösterilmesi
+
+I. GİRİŞ
+
+A. İÇTİHATLARI BİRLEŞTİRME KONUSUNDAKİ BAŞVURU
+
+Av. Fatih Karamercan 19.11.2014 tarihli dilekçesi ile 6100 sayılı Hukuk Muhakemeleri Kanunu’nun ( HMK. ) yürürlüğe girmesinden sonra açılmış olan davalarda “sair deliller-her türlü delil -vs. deliller” ibarelerinin kullanılması halinde tarafların “yemin” deliline de dayandıklarının kabul edilip edilemeyeceği, bu kapsamda hâkimin ispat yükü üzerinde olan tarafa yemin teklif etme hakkını hatırlatmasının gerekip gerekmediği konusunda Daireler arasında ortaya çıkan görüş ayrılıklarının birleştirilmesini istemiştir.
+
+B. YARGITAY BİRİNCİ BAŞKANLIK KURULUNUN KARARI VE İÇTİHADI BİRLEŞTİRMENİN KONUSU
+
+Yargıtay Birinci Başkanlık Kurulunun 10.12.2015 tarih ve 215/a sayılı Kararı ile;
+
+Aşağıda I-C’de belirtilen kararlar arasında görüş aykırılığı bulunduğu ve farklı uygulamaların sürdürüldüğü sonucuna varıldığından; aykırılığın Hukuk İçtihatları Birleştirme Genel Kurulunca giderilmesi gerektiğine, görüşme tarihi daha sonra Birinci Başkanlıkca belirlenmek üzere, raportör üye olarak Adem Albayrak’ın görevlendirilmesine karar verilmiştir.
+
+İçtihadı Birleştirme konusu ise “6100 sayılı Hukuk Muhakemeleri Kanunu’nun yürürlüğe girmesinden sonra açılmış olan davalarda tarafların dava ve cevap dilekçeleri ile delil listelerinde “sair deliller, her türlü delil ve sair deliller” gibi ibarelerin bulunması halinde tarafların yemin deliline başvurmuş sayılıp sayılamayacakları ve bu kapsamda hâkimin ispat yükü kendisine düşen tarafa ‘yemin teklifinde bulunma hakkı’nı hatırlatıp hatırlatamayacağı” olarak belirlenmiştir.
+
+C. GÖRÜŞ AYKIRILIĞININ GİDERİLMESİ İSTEMİNE KONU KARARLAR
+
+İkinci Hukuk Dairesinin 22.01.2014 gün ve E: 2013/18501 K: 09.07.2014 gün ve E: 2014/1250 K:2014/15971; Üçüncü Hukuk Dairesinin 13.01.2014 gün ve E: 2013/15600 K: 17.03.2014 gün ve E: 2013/20098 K:2014/4088,06.05.2014 gün ve E: 2013/21392 K: 02.06.2014 gün ve E: 2014/778 K:2014/8653, 09.06.2014 gün ve E: 2014/8565 K: 16.06.2014 gün ve E: 2014/8179 K:2014/9604; Altıncı Hukuk Dairesinin 03.04.2014 gün ve E: 2013/12712 K:2014/4351, 13.05.2014 gün ve E: 2014/3745 K.2014/6156, 22.05.2014 gün ve E: 2014/4790 K:20I4/6638, 26.05.2014 gün ve E: 2013/15347 K:2014/6797, 12.06.2014 gün ve E: 2013/15109 K:2014/7768, 18.06.2014 gün ve E; 2014/5796 K:2014/8060, 30.06.2014 gün ve E: 2014/7009 K:2014/8663,25.09.2014 gün ve E:2014/8874 K:2014/10427; Onüçüncü Hukuk Dairesinin 12.03.2014 gün ve E: 2013/28263 K:2014/6977, 09.04.2014 gün ve E: 2013/2811 K: 27.05.2014 gün ve E: 2014/2672 K;2014/16451, 05.06.2014 gün ve E: 2014/12325 K; 2014 gün ve E: 2014/8855 K: 2014/27028; Ondokuzuncu Hukuk Dairesinin 24.04.2013 gün ve E: 2013/4822 K: 12.05.2014 gün ve E:2014/4906 K:2014/9037, 02.06.2014 gün ve E: 2014/6872 K:2014/I0385,05.06.2014 gün ve E: 2014/7406 K: 22.09.2014 gün ve E: 2014/9471 K: 2014/13860; Yirmiüçüncü Hukuk Dairesinin 04.02.2014 gün ve E: 2013/6432 K: 01.04.2014 gün ve E: 2013/8570 fi: 2014/2465 sayılı kararları.
+
+D. GÖRÜŞ AYKIRILIĞININ GİDERİLMESİ İSTEMİNE KONU KARARLARDA BELİRTİLEN GÖRÜŞLERİN ÖZETLERİ
+
+Üçüncü Hukuk Dairesi, Altıncı Hukuk Dairesi ve Onüçüncü Hukuk Dairesi konuyla ilgili olarak Yargıtay Birinci Başkanlığına bildirdikleri görüşlerinde özetle içtihadı birleştirme konusu edilen hususta tarafların dilekçelerinde “sair deliller-her türlü delil-vs. deliller” gibi ibareleri kullanmalarının “delillerin hasredilmesi” kuralına aykırı olmadığı, bu çerçevede hâkimin ilgili tarafa yemin teklif etme hakkını hatırlatmasının davayı aydınlatma ödevi ( HMK. m.31 ) içinde kaldığı ve bu suretle savunma hakkının kısıtlanması ve daraltılması suretiyle hak kaybına sebebiyet verilmemiş olacağı belirtilmiştir.
+
+İkinci Hukuk Dairesi, Ondokuzuncu Hukıık Dairesi ve Yirmiüçüncü Hukuk Dairesi konuyla ilgili olarak Yargıtay Birinci Başkanlığına bildirdikleri görüşlerinde özetle içtihadı birleştirme konusu edilen hususta tarafların dilekçelerinde “sair deliller-her türlü delil-vs. deliller” gibi ibareleri kullanmalarının dava dilekçesinin içeriğine ilişkin Hukuk Muhakemeleri Kanunu’nun “iddia edilen her bir vakıanın hangi delillerle ispat edileceği”, cevap dilekçesinin içeriğine ilişkin “savunmanın dayanağı olarak ileri sürülen her bir vakıanın hangi delillerle ispat edileceğinin gösterilmiş olmasına ilişkin düzenlemeler ile cevaba cevap ve ikinci cevap dilekçeleri hakkında, dava ve cevap dilekçesine ilişkin hükümlerin niteliğine aykırı düşmedikçe kıyasen uygulanacağına ilişkin kapsamında yemin deliline başvurulduğu anlamının çıkartılamayacağı; tarafların kapsamında artık iddia ve savunmalarını ispat için gerektiğinde yemin deliline başvurmak istiyorlarsa bunu açıkça bildirmek zorunda oldukları belirtilmiştir.
+
+II. ÖNSORUN
+
+Yargıtay İçtihatları Birleştirme Hukuk Genel Kurulundaki görüşmeler sırasında esasa geçilmeden önce konu ile ilgili olarak çeşitli Dairelerce münferit kararlar verildiği ve bu kararların “yerleşik hal” almadığı, diğer bir deyişle müstakar uygulama haline gelmediği; Yargıtay İçtihadı Birleştirme İlke Kararı ( RG. 13.07.1974 gün ve 15294 s. ) uyarınca içtihatları birleştirme için gereken önşartın henüz oluşmadığı belirtilerek içtihatların birleştirilmesine gerek olup olmadığı hususu önsorun olarak gündeme getirilmiştir.
+
+Önsoruna ilişkin olarak yapılan değerlendirmede Yargıtay Kanunu’nun “Hukuk ve Ceza Genel Kurullarının Görevleri” kenar başlıklı 2 nci bendine göre Yargıtay kararları ile sınırlı olmak üzere iki halde içtihatların birleştirilmesinin söz konusu olduğu ve bunların:
+
+Hukuk daireleri arasında veya ceza daireleri arasında içtihat uyuşmazlıkları bulunması,
+
+Yargıtay dairelerinden birinin yerleşmiş içtihadından dönmek istemesi ve benzer olaylarda birbirine uymayan kararlar vermiş bulunması,
+
+olarak gösterildiği hususu dikkate alındığında eldeki içtihadı birleştirme konusunda başvurucunun dilekçesinde gösterilenden daha fazla karar bulunduğu ve Daireler bakımından kararlı ve sürekli uygulamanın ve dolayısıyla içtihatların birleştirilmesine ilişkin olarak aranan önşartın sağlanmış olduğuna oyçokluğu ile karar verilmiştir.
+
+III. İÇTİHADI BİRLEŞTİRMEYLE İLGİLİ KAVRAM, KURUM VE YASAL DÜZENLEMELER
+
+A. İÇTİHADI BİRLEŞTİRMEYLE İLGİLİ KAVRAMLAR VE KURUMLAR
+
+a ) Kavramsal Olarak Yemin
+
+Sözlük anlamıyla yemin ( ant ) “Tanrı’yı veya kutsal bilinen bir kişiyi, bir şeyi tanık göstererek bir olayı doğrulamak” demektir ( Türk Dil Kurumu, Güncel Türkçe Sözlük ). Hukuk terminolojisinde ise “bir kimsenin verdiği sözü temin veya sözünün doğruluğunu tasdik için kanun ile muayyen sözleri söylemesi veya hareketleri yapması” ( Türk Hukuk Lügati, 3.b., Ankara s.363 ) olarak tanımlanmıştır.
+
+Hukuk Muhakemeleri Kanununda tanık, bilirkişi ve taraf yeminleri ayrı müesseseler olarak düzenlenmiş fakat yeminin bir tanımı verilmemiştir. Tanık ve bilirkişi yeminleri ilgililerini doğru söylemeye yönelten birer vasıta iken, taraf yemini bir delil olarak kabul edilmiştir.
+
+Öğretide benimsenen tanıma göre taraf yemini “taraflardan birinin, bir vakıanın doğru olup olmadığı hakkında, mahkeme önünde ve kanunun belirlediği şekilde beyanda bulunmasıdır ( Yılmaz, E.: Medenî Yargılama Hukukunda Yemin, 2.b., Ankara s.25 ).
+
+b ) İspat, Vakıa ve Delil Kavramları
+
+Dava konusu yapılan, bir diğer ifade ile davada talep sonucu olarak varlığı ileri sürülen sübjektif bir hakkın var olup olmadığının anlaşılması, maddi hukukun o hakkın doğumunu veya sona ermesini kendisine bağladığı vakıaların doğru olup olmadığının tespit edilmesi sonucunda mümkün olur. Dava konusu hakkın ve buna karşı yapılan savunmanın dayandığı vakıaların var olup olmadıkları hakkında mahkemeye kanaat verilmesi işlemine ispat denir ( Kuru, B.: Hukuk Muhakemeleri Usulü, C.II, İstanbul s. 6196; Postacıoğlu, İ. E./Altay, S.: Medenî Usul Hukuku Dersleri. 7.b, s. n. 1069; Üstündağ, S.: Medeni Yargılama Hukuku, C.I-II, İstanbul s.612; Tanrıver, S.: Medenî Usûl Hukuku, C.I, Ankara s.741; Pekcanıtez. H./Atalay. O./Özekes, M.: Medenî Usûl Hukuku, 13.b., Ankara s.538 ).
+
+Vakıa ( olgu ) kendisine hukuki sonuç bağlanmış olaylardır. Bir vakıanın ispatı için başvurulan araçlara ise delil ( kanıt ) denir.
+
+Hukuk Muhakemeleri Kanunu delilleri senet, yemin, tanık, bilirkişi, keşif ve uzman görüşü olarak sıralamıştır. Bu sayma sınırlayıcı ( tahdidi ) olmayıp, kanunun belirli bir delille ispat zorunluluğu getirmediği hallerde taraflar kanunda düzenlenmemiş diğer delillere de dayanabilirler ( Tanrıver, s.799 ). Öte yandan öğretide deliller “kesin” ve “takdiri” olarak iki grup altında mütalaa edilmektedir ( Kuru, II, s.2032 vd.; Pekcanıez/Atalay/Özekes, s.606 vd.; Tanrıver, s.817 ). Bu kapsamda yemin, kesin delillerdendir; bir başka anlatımla yemin hakkındaki hükümlere uyulmasıyla o vakıa kesin biçimde kanıtlanmış olur.
+
+İspat bir yükümlülük olmayıp, bir yüktür. Yük ( külfet ) hukuk düzeninin bir kimseye, diğer bir kimse karşısında yüklemiş olduğu davranış olup, külfet üzerine yüklenen kişi bu davranışı yerine getirmediği takdirde ya elde etmesi mümkün olan bir hakkı kazanamaz ya da böyle bir hakkı kaybeder ( Eren, F.: Borçlar Hukuku, Genel Hükümler, 16.b., Ankara s.45 ). Buna göre ispat yükü kendisine düşen taraf bunu yerine getirmek zorunda değildir fakat bunun yerine getirilmemesi halinde dava sonucunda ulaşılmaya çalışılan hakka ulaşılamayacak ( Börü. L.: Medeni Usul Hukukunda İddia ve Somutlaştırma Yükü, Ankara s.66 vd. ); üst paragrafta kullanılan ifade ile mahkemede bu yönde bir kanaat oluşturmak mümkün olmayacaktır.
+
+c ) Yeminin Delil Niteliği
+
+Yukarıdaki açıklamalar ışığında değerlendirildiğinde yemin, taraflardan birinin davanın çözümünü ilgilendiren bir olayın doğru olup olmadığı konusunu, kanunda belirtilen usule uyarak, mahkeme önünde, kutsal sayılan değerlerle teyit eden ve kendisine kesin delil vasfı yüklenmiş sözlü açıklamalardır.
+
+Bütün ispat vasıtalarında olduğu gibi yeminin de konusu davanın çözümü bakımından önem taşıyan, çekişmeli olan ve kişinin kendisinden kaynaklanan vakıalardır ( HMK.m.225/1 ).
+
+Bir kimsenin bir hususu bilmesi onun kendisinden kaynaklanan vakıa sayılırken ( HMK.m.225/2 ); tarafların üzerinde serbestçe tasarruf edemeyeceği vakıalar, bir işlemin geçerliliği için, kanunen iki taraflı irade açıklamalarının yeterli görülmediği haller, yemin edecek kimsenin namus ve onurunu etkileyecek veya onu ceza soruşturması ya da kovuşturması ile karşı karşıya bırakacak vakıalar yeminin konusu olamaz ( HMK.m.226 ).
+
+Yemini, kendisine ispat yükü düşen taraf teklif edebilir. Kendisine ispat yükü düşmeyen tarafın, yemin teklif etmesinin hiçbir hukuki sonucu yoktur.
+
+İçtihadı birleşleştirmeye konu olan husus taraf yeminine ilişkindir. Bu anlamda tarafın bir delili kullanabilmesi için o delile usulüne uygun şekilde dayanmış olması gerekir.
+
+Değerlendirilmesi gereken konu, yemin deliline açıkça dayanılması gerekip gerekmediği bir başka deyişle “sair deliller”, “her türlü delil”, ve “vesair deliller” ibaresinin kullanılması halinde yemin deliline dayanıldığının kabul edilip edilemeyeceği ve yemin deliline dayanılmış olması durumunda bu hakkın hâkim tarafından tarafa hatırlatılıp hatırlatılamayacağı noktasındadır.
+
+a ) Delillerin Gösterilmesi ve İbrazı
+
+Hukuk Muhakemeleri Kanunu 1 inci bendinin ( e ) alt bendinde davacıya, iddiasının dayanağı olan bütün vakıaların sıra numarası altında açık özetlerini ve ( f ) alt bendinde de iddia ettiği her bir vakıayı hangi delillerle ispat edeceğini göstermek yükümlülüğü getirmiş; bu ilkeyi 2 sayılı bendinde ve ( basit yargılama usulü bakımından ) 1 inci bendinde de tekrarlamıştır.
+
+Benzer bir yük I inci bendinin ( d ) ve ( e ) alt bentleri ile savunma sebep ve vasıtaları bakımından davalıya da yüklenmiştir.
+
+Bu külfet, iddia ve savunma sebeplerinin yargılamanın belirli bir aşamasına kadar ileri sürülmesini, bundan sonra ileri sürülen iddia ve savunma sebeplerinin mahkemece dikkate alınamayacağını ifade eden “teksif ilkesi” ile de ilişkilidir ( Tanrıver, s.362 vd.; Pekcanıtez/Atalay/Özekes, s.305 vd. ).
+
+b ) Hâkimin Davayı Aydınlatma Ödevi
+
+Hâkimin, uyuşmazlığın aydınlatılmasının zorunlu kıldığı durumlarda, maddi veya hukuki açıdan belirsiz yahut çelişkili gördüğü hususlar hakkında taraflara açıklama yaptırabilmesine, soru sorabilmesine ve delil gösterilmesini isteyebilmesine “hâkimin davayı aydınlatma ödevi” denir ( HMK.m.31 ).
+
+Taraflarca getirilme ilkesi ( HMK.m.25 ) ile bağlantılı bir kurum olan hâkimin davayı aydınlatması ödevi, hâkimin iddia ve savunma ile sınırlı olarak belirsizlik ve çelişkilerin giderilmesi için öngörülmüş ve doğruya ulaşmak noktasında hâkime yüklenmiş bir görevdir ( Tanrıver. s.365 vd.; Pekcanıtez/Atalay/Özekes, s.310 vd. ).
+
+6100 sayılı Hukuk Muhakemeleri Kanunu’nun yürürlüğe girmesinden sonra açılmış olan davalarda tarafların dava ve cevap dilekçeleri ile delil listelerinde “sair deliller, her türlü delil, ve sair deliller” gibi ibarelerin bulunması halinde tarafların yemin deliline başvurmuş sayılamayacakları ve bu kapsamda hâkimin ispat yükü kendisine düşen tarafa “yemin teklifinde bulunma hakkı”nı hatırlatamayacağı hususundadır.
+
+Yukarıda açıklanan ilkeler çerçevesinde gerek davacı gerek davalı iddia ya da savunmasını ispatlamak bakımından vakıa ve delil ilişkisini net biçimde kurmalıdır. Bu bağlamda tarafın ( diğer delillerde olduğu gibi ) açıkça yemin deliline başvurması mümkündür.
+
+Çözümlenmesi gereken sorun açıkça yemin deliline başvurmayan tarafın dilekçesinde “sair deliller, her türlü delil, ve sair deliller” gibi ibarelere yer vermesi halinde, bu ibarelerin ilgilinin yemin deliline başvurmuş sayılıp sayılamayacağı ve bu kapsamda hâkimin ispat yükü kendisine düşen tarafa “yemin teklifinde bulunma hakkı”nm hatırlatıp hatırlatamayacağı noktasında toplanmaktadır.
+
+Konu ile ilgili olarak öğretide çeşitli görüşler ileri sürülmüştür.
+
+Pekcanıtez/Atalay/Özekes konu hakkındaki görüşlerini şu şekilde ifade etmektedirler: “Uygulamada Yargıtay, hakimin davayı aydınlatma ödevi çerçevesinde belli bir delili hatırlatma yetkisi bulunmadığım, ancak taraf delilleri arasında yemin deliline dayanmışsa, açıkça- yemine dayanmasa dahi en azından “sair deliller” demişse sair deliller içinde yemin de yer aldığından, hakimin bu tarafa yemin teklif etme hakkı olduğunu hatırlatması gerektiği görüşündedir. Bu hatırlatmanın yapılmaması bozma sebebi sayılmıştır. Ancak gerek sair deliller ibaresinin doğuracağı sonuç, gerekse hakimin yemin hakkını hatırlatma zorunluluğunda olması artık Hukuk Muhakemeleri Kanunu düzenlemesi çerçevesinde geçerli sayılamaz. Çünkü taraf dayandığı delilleri açıkça göstermek durumundadır” ( s.642 ).
+
+Arslan/Yılmaz/Taşpınar Ayvaz, tarafların yemin deliline başvuracaklarını dilekçelerinde belirtmeleri gerektiğini vurgulamış ve ( HMK.m. 119/1 -f, 129/1 -e ) mahkemenin ancak bu ihtimalde yemin teklif etme yükümlülüğünde olduklarına dair kanaat açıklamışlardır ( Arslan, R./Yılmaz. E./Taşpınar Ayvaz, S.: Medeni Usul Hukuku, Ankara s.428 vd. ).
+
+Tanrıver, tarafların dilekçelerinde yemin deliline dayandıklarını açıkça bildirmek zorunda olduğunu, aksi takdirde hâkimin tarafa herhangi bir hatırlatmada bulunamayacağını belirtmektedir ( s.864-865 ).
+
+Karslı, davacının dava dilekçesinde dayandığı vakıaları ispat için delilerinin de neler olduğunu yazması gerektiğini, delillerin genel ifadelerle belirtmesinin yeterli olmadığını ve hangi delillere dayanıldığının da dava dilekçesinde belirtilmesi gerektiğini söylemektedir. Yazar somutlaştırma yükünün ( HMK.m. 194 ) de bu unsuru tamamladığı görüşündedir ( Karslı, A.: Medeni Muhakeme Hukuku -6100 Sayılı Hükümlerine Göre Yargıtay Kararları İşlenmiş ve Gözden Geçirilmiş-, 3. b., İstanbul s.488 ).
+
+Bolayır da Hukuk Muhakemeleri Kanunu’nun 119/1 -f ve 129/1 -e hükümlerinden bahisle, tarafların dava ve cevap dilekçelerinde dayandıkları delilerin hangi vakıanın ispatı için gösterildiğini açıkça belirtmelerini zorunlu kıldığını; bu düzenlemelerin ilgili tarafın açıkça yemine dayanmamış olmakla birlikte dilekçesinde “sair deliller”, “her türlü deliller” ve “diğer deliller” gibi ifadelere yer vermiş olması halinde, hâkimin tarafa yemin teklif etme hakkı olduğunu hatırlatması gerektiğine ilişkin olarak Yargıtay tarafından Hukuk Usulü Muhakemeleri Kanunu’nun yürürlükte olduğu dönemde geliştirilmiş uygulamayı ortadan kaldırdığını, buna rağmen Yargıtay’ın önceki uygulamayı sürdürdüğünü ve bunun isabetli olmadığını belirtmektedir ( Bolayır, N.: Hukuk Yargılanmasında Delillerin Toplanmasında Tarafların ve Hâkimin Rolü, İstanbul s. 382-385 ).
+
+Börü, somutlaştırma yükü gereği tarafların vakıaların ispatı için dayandıkları delilleri salt dilekçelerinde göstermelerinin yeterli olmadığını; hangi delilin, hangi vakıanın ispatı için gösterildiğinin açıkça belirtilmesi gerektiğini ( s.208 ); 1086 sayılı Hukuk Usulü Muhakemeleri Kanunu dönemindeki “sair deliller” benzeri ibarelerin yemin ve tanık deliline de dayanıldığının kabulü şeklindeki uygulamanın 6100 sayılı Hukuk Muhakemeleri Kanunu’ndaki somutlaştırma yüküne ilişkin düzenleme çerçevesinde artık benimsenemeyeceğini; bu tür ibarelerin dilekçelerde yer alması halinde yemin deliline açıkça dayanıldığının kabul edilemeyeceğini ( s.209 ) ifade etmektedir.
+
+B. KONU İLE İLGİLİ YASAL DÜZENLEMELER
+
+6100 sayılı Hukuk Muhakemeleri Kanunu
+
+Taraflarca getirilme ilkesi
+
+MADDE 25- ( 1 ) Kanunda öngörülen istisnalar dışında, hâkim, iki taraftan birinin söylemediği şeyi veya vakıaları kendiliğinden dikkate alamaz ve onları hatırlatabilecek davranışlarda dahi bulunamaz.
+
+( 2 ) Kanunla belirtilen durumlar dışında, hâkim, kendiliğinden delil toplayamaz.
+
+Hâkimin davayı aydınlatma ödevi
+
+MADDE 31- ( 1 ) Hâkim, uyuşmazlığın aydınlatılmasının zorunlu kıldığı durumlarda, maddi veya hukuki açıdan belirsiz yahut çelişkili gördüğü hususlar hakkında, taraflara açıklama yaptırabilir; soru sorabilir; delil gösterilmesini isteyebilir.
+
+Dava dilekçesinin içeriği
+
+MADDE 119- ( 1 ) Dava dilekçesinde aşağıdaki hususlar bulunur:
+
+a ) Mahkemenin adı.
+
+b ) Davacı ile davalının adı, soyadı ve adresleri.
+
+c ) Davacının Türkiye Cumhuriyeti kimlik numarası.
+
+ç ) Varsa tarafların kanuni temsilcilerinin ve davacı vekilinin adı, soyadı ve adresleri.
+
+d ) Davanın konusu ve malvarlığı haklarına ilişkin davalarda, dava konusunun değeri.
+
+e ) Davacının iddiasının dayanağı olan bütün vakıaların sıra numarası altında açık özetleri.
+
+f ) İddia edilen her bir vakıanın hangi delillerle ispat edileceği.
+
+g ) Dayanılan hukuki sebepler.
+
+ğ ) Açık bir şekilde talep sonucu.
+
+h ) Davacının, varsa kanuni temsilcisinin veya vekilinin imzası.
+
+( 2 ) Birinci fıkranın ( a ), ( d ), ( e ), ( f ) ve ( g ) bentleri dışında kalan hususların eksik olması hâlinde, hâkim davacıya eksikliği tamamlaması için bir haftalık kesin süre verir. Bu süre içinde eksikliğin tamamlanmaması hâlinde dava açılmamış sayılır.
+
+Cevap dilekçesinin içeriği
+
+MADDE 129- ( 1 ) Cevap dilekçesinde aşağıdaki hususlar bulunur:
+
+a ) Mahkemenin adı.
+
+b ) Davacı ile davalının adı, soyadı ve adresleri; davalı yurt dışında ise açılan dava ile ilgili işlemlere esas olmak üzere yurt içinde göstereceği bir adres.
+
+c ) Davalının Türkiye Cumhuriyeti kimlik numarası.
+
+ç ) Varsa, tarafların kanuni temsilcilerinin ve davacı vekilinin adı, soyadı ve adresleri.
+
+d ) Davalının savıınmasının dayanağı olan bütün vakıaların sıra numarası altında açık özetleri.
+
+e ) Savunmanın dayanağı olarak ileri sürülen her bir vakıanın hangi delillerle ispat edileceği.
+
+f ) Dayanılan hukuki sebepler.
+
+g ) Açık bir şekilde talep sonucu.
+
+ğ ) Davalının veya varsa kanuni temsilcisinin yahut vekilinin imzası.
+
+( 2 ) hükmü cevap dilekçesi hakkında da uygulanır.
+
+Somutlaştırma yükü ve delillerin gösterilmesi
+
+MADDE 194- ( 1 ) Taraflar, dayandıkları vakıaları, ispata elverişli şekilde somutlaştırmalıdırlar.
+
+( 2 ) Tarafların, dayandıkları delilleri ve hangi delilin hangi vakıanın ispatı için gösterildiğini açıkça belirtmeleri zorunludur.
+
+Yeminin konusu
+
+MADDE 225- ( 1 ) Yeminin konusu, davanın çözümü bakımından önem taşıyan, çekişmeli olan ve kişinin kendisinden kaynaklanan vakıalardır. Bir kimsenin bir hususu bilmesi onun kendisinden kaynaklanan vakıa sayılır.
+
+Delillerin ikamesi
+
+MADDE 318- ( 1 ) Taraflar dilekçeleri ile birlikte, tüm delillerini açıkça ve hangi vakıanın delili olduğunu da belirterek bildirmek; ellerinde bulunan delillerini dilekçelerine eklemek ve başka yerlerden getirilecek belge ve dosyalar için de bunların bulunabilmesini sağlayan bilgilere dilekçelerinde yer vermek zorundadır.
+
+IV. GEREKÇE
+
+İçtihadı birleştirmenin konusu; 6100 sayılı Hukuk Muhakemeleri Kanunu’nun yürürlüğe girmesinden sonra açılmış olan davalarda tarafların dava ve cevap dilekçeleri ile delil listelerinde “sair deliller, her türlü delil, ve sair deliller” gibi ibarelerin bulunması halinde tarafların yemin deliline dayandıklarının kabul edilip edilemeyeceği, bu kapsamda hakimin, ispat yükü üzerinde olan tarafa, yemin teklif etme hakkını hatırlatmasının gerekip gerekmediği hususundadır.
+
+Hııkuk Muhakemeleri Kanunu’nun “dava dilekçesinin içeriği” kenar başlıklı 1 inci fıkrasının ( c ) bendinde “davacının iddiasının dayanağı olan bütün vakıaların sıra numarası altında açık özetleri”nin, ( f ) fıkrasında ise “iddia edilen her bir vakıanın hangi deliller ile ispat edileceğinin” dava dilekçesinde; aynı şekilde 1 inci fıkrasının ( d ) bendinde “davalının savunmasının dayanağı olan bütiin vakıaların sıra numarası altında açık özetleri”nin ve ( e ) fıkrasında da “savunmanın dayanağı olarak ileri sürülen her bir vakıanın hangi delillerle ispat edileceğinin cevap dilekçesinde gösterilmesi gerektiği düzenlenmiş bulunmaktadır.
+
+Öte yandan Hukuk Muhakemeleri Kanunu’nun 2 nci fıkrasında davacının cevaba cevap dilekçesi hakkında dava dilekçesine, davalının ikinci cevap dilekçesi hakkında da cevap dilekçesine ilişkin hükümlerin, niteliğine aykırı düşmediği sürece kıyasen uygulanacağı ilkesi getirilmiştir. Her bir vakıanın hangi delille ispat edileceğinin gösterilmesi zorunluluğu cevaba cevap ve ikinci cevap dilekçeleri için de geçerlidir.
+
+Hukuk Muhakemeleri Kanunu’nun “somutlaştırma yükü ve delillerin gösterilmesi” kenar başlıklı dayandıkları vakıaların, ispata elverişli şekilde somutlaştırması gerekliliği taraflara yüklenmiştir. Somutlaştırma yükü ile taraflardan, dayandıkları delilleri göstermeleri beklendiği gibi hangi delilin hangi vakıanın ispatı için gösterildiğini de açıkça göstermeleri beklenmektedir.
+
+Mülga 1086 sayılı Hukuk Usulü Muhakemeleri Kanunu’nda bulunmayan bu kural Hukuk Muhakemeleri Kanunu ile getirilmiştir. Nitekim maddenin gerekçesinde de “maddenin yeni düzenleme olduğu, maddenin amacının bir yandan ispatın genel hükümleri çerçevesinde temel bir kavrama yer vermek iken, diğer yandan da uygulamada genel geçer ifadelerle somut vakıalara dayanmadan davaların açılıp yürütülmesinin önüne geçilmeye çalışıldığı vurgulanmıştır. Aynı şekilde somutlaştırma yükümlülüğünün yargılamanın sağlıklı bir şekilde yürütülmesi için zorunlu olduğu vakıaların anlaşılması için ayrıca bir araştırma yapılması ya da zaman kaybının önlenmesinin hedef alındığı,vakıaların somut olarak ileri sürülmesinin taraflar için bir yük olduğu, bu yükümlülüp yerine getinneyen tarafın sonuçlarına katlanacağı” hususu belirtilmiştir. Yukarıda yük ( külfet ) konusunda yapılan açıklamalardan da anlaşılacağı gibi somutlaştırma bir yükümlülük değil fakat bir yüktür. Taraflar vakıa ve delil ilişkisini kurmak zorunda değildirler fakat bundan kaçınmaları dava ile elde etmeyi umdukları hukuki korumadan mahrum kalmaları sonucunu doğurur.
+
+Bu yasal düzenlemeler ve açıklamalar birlikte değerlendirildiğinde, taraflarca hazırlama ilkesinin geçerli olduğu davalarda yasa koyucunun taraflara hangi delilin, hangi vakıanın ispatı için gösterildiğini açıkça belirtme, yani somutlaşma külfeti getirdiğini, bu düzenlemeye göre de açıkça yemin deliline dayanılmadığı takdirde, tarafın yemin teklif etme hakkının bulunmadığı sonucuna ulaşmak gerekmektedir. Tarafın “sair deliller, her türlü delil, ve sair deliller” gibi ibareleri kullanmış olması yemin deliline açıkça dayanmış olduğu biçiminde yorumlanamaz.
+
+Bu çerçevede tarafın “sair deliller, her türlü delil, ve sair deliller” gibi ibareleri kullanmış olması halinde hâkimin taraflara yemin teklif etme hakkını hatırlatmasının mümkün bulunmadığı sonuç ve kanaatine varılmıştır.
+
+V. SONUÇ : 6100 sayılı Hukuk Muhakemeleri Kanunu’nun yürürlüğe girmesinden sonra açılmış olan davalarda tarafların dava ve cevap dilekçeleri ile delil listelerinde “sair deliller, her türlü delil, ve sair deliller” gibi ibarelerin bulunması halinde tarafların yemin deliline başvurmuş sayılamayacakları ve bu kapsamda hâkimin ispat yükü kendisine düşen tarafa “yemin teklifinde bulunma hakkı”nı hatırlatamayacağına, 03.03.2017 günlü oturumda gerek önsorun gerek esas hakkında üçte ikiyi aşan oyçokluğu ile karar verilmiştir.
+
+KARŞI OY :
+
+Yargıtay İçtihatları Birleştirme Hukuk Genel Kurulunun; tarafların dilekçelerinde “sair deliller, her türlü delil, vs. deliller” tabirini kullanmasının, 6100 sayılı döneminde, “yemin delilini” de kapsayıp kapsamayacağı hususuna ilişkin 03.00.01.2017 tarihli toplantısında, tarafların delil listesinde ayrıca ve açıkça “yemin” deliline dayanmamaları halinde, “sair deliller, her türlü delil, vs. deliller” sözcüklerinin kullanmalarının “yemin” delilini kapsamayacağına oyçokluğu ile karar verilmiştir.
+
+1086 sayılı döneminde açılan davalar yönünden, “sair deliller, her türlü delil, vs. deliller” ibarelerinin “yemin” delilini de kapsayacağı hususunda Yargıtay Hukuk Daireleri arasında bir görüş ayrılığı bulunmamaktaydı.
+
+Sayın çoğunluk bir takım gerekçelerle 6100 sayılı döneminde, “sair deliller, her türlü delil, vs. deliller” tabirinin “yemin” delilini içermediğine karar vermiş ise de çoğunluğun bu görüşlerine katılmıyoruz. Şöyle ki;
+
+1- Sayın Çoğunluk, 119/1 -e, -f bentlerinde yer alan;
+
+” ( 1 ) Dava dilekçesinde aşağıdaki hususlar bulunur:
+
+e ) Davacının iddiasının dayanağı olan bütün vakıaların sıra numarası altında açık özetleri.
+
+f ) İddia edilen her bir vakıanın hangi delillerle ispat edileceği.
+
+( 2 ) Birinci fıkranın ( a ), ( d ), ( e ), ( f ) ve ( g ) bentleri dışında kalan hususların eksik olması halinde, hakim davacıya eksikliği tamamlaması için bir haftalık kesin süre verir. Bu süre İçinde eksikliğin tamamlanmaması halinde dava açılmamış sayılır”.
+
+hükümleri uyarınca dava dilekçesinde, 129’da yer alan mümasil hükümler uyarınca da cevap dilekçesinde, tarafların, hangi maddi vakıayı hangi delillerle ispat edileceğini, dava ve cevap dilekçlcrinde belirtmek zorunda olduklarını ifade etmişlerdir. Bununla birlikte, 119/1 ( e ) ve ( f ) bentleri ile mümasil hükümde, anılan zorunluluğa uyulmamasının müeyyidesi bulunmamaktadır.
+
+2- Sayın çoğunluk, 194’ te yer alan
+
+” ( 1 ) Taraflar, dayandıkları vakıaları, ispata elverişli şekilde somutlaştırmalıdırlar.
+
+( 2 ) Tarafların, dayandıkları delilleri ve hangi delilin hangi vakıanın ispatı için gösterildiğini açıkça belirtmeleri zorunludur” hükmü ile,
+
+HMK 318’de yer alan;
+
+” ( 1 ) Taraflar dilekçeleri ile birlikte, tüm delillerini açıkça ve hangi vakıanın delili olduğunu da belirterek bildirmek; ellerinde bulunan delillerini dilekçelerine eklemek ve başka yerlerden getirilecek belge ve dosyalar için de bunların bulunabilmesini sağlayan bilgilere dilekçelerinde yer vermek zorundadır.”
+
+hükümleri uyarınca, somutlaştırma yükümlülüğü çerçevesinde, tarafların yargılamada, İspata elverişli şekilde dayandıkları maddi vakıaları somutlaştırmaları, dayandıkları delilleri ve hangi delilin hangi vakıanın ispatı için gösterildiğini açıkça belirtmeleri gerektiği, bu bağlamda delil listesinde yer alan “sair deliller, her türlü delil, vs. deliller” kavramlarının kullanılmasının somutlaştırma yükümlülüğünü yerine getirmeyeceğini savunmuştur.
+
+Herşeyden önce, yemin m, 225 te kesin deliller arasında sayılmıştır. Bununla birlikte, yemin delili, davanın taraflarınca delil olarak dayanılsa bile hemen ileri sürülmemekte, diğer delillerle ispat edilememesi ve hakim tarafından da bunun ifade edilmesi ve hatırlatılması halinde delil olarak dayanılmaktadır. Bu yüzden, tarafların yargılamanın başında, yemin deliliyle hangi maddi vakıayı ispat edeceklerini söylemeleri gerekmez. Anılan nedenlerle, 194 ve , yemin dışındaki deliller yönünden geçeriidir. Zaten çoğunluk da, delil listesinde yemin deliline açıkça dayanılmış olmasını yeterli görmekte, tarafların ayrıca dayanılan yemin deliliyle hangi maddi vakıayı ispat edeceğini son delil bildirme aşamasında mahkemeye bildirmesi gerektiğini düşünmemektedir. Şayet, 194 ve 318 de yer alan somutlaştırma yükümünün yemin delili bakımından da geçerli olduğu düşünülecek olursa, tarafların açıkça yemin deliline dayanması yeterli olmayacak, ayrıca ve açıkça, dilekçesinde yer alan hangi maddi vakıaları yemin ile ispat etmek istediğini de belirtmesi zorunluluğu ortaya çıkacaktır. Oysa Türk hukukunda, yemin kesin delillerden olmakla birlikte, yüksek riski nedeniyle, diğer delillerle ispat edilememesi halinde, İkame delil ve yedek ispat vasıtası niteliğinde bir delil türüdür. Daha başlangıçta, tarafın yemin ile maddi vakıaları ispat edeceğini söylemesi halinde, mahkeme hakiminin, tanık, keşif, bilirkişi vs. takdiri delil yerine, kesin delil türü olan yemin deliline başvurması riski doğacağı gibi, taraflar yönünden de savunma hakkının kısıtlanması mahiyetine bürünecektir. Ayrıca, diğer delillerle ispat edilen ve edilmeyen maddi vakıalar, diğer delillerin toplanmasından sonra hakim tarafından belirleneceğinden daha yargılamanın başında hangi maddi vakıanın yemin deliliyle ispat edileceğinin delil listesinde somutlaştırılması da mümkün değildir. Diğer delillerle esasa girilmesinden sonra; hangi maddi vakıa için yemin deliline sıra geldiğini, diğer delilleri değerlendiren hakim saptayacak, taraflara bu saptadığı konularda yemin teklif edip etmeyeceklerini soracaktır. İşte bu aşamada delil listesinde “vesair delil, her türlü delil …” biçiminde delil de bildiren tarafa yemini hatırlatabilmelidir. 194 ve Hükümleri yemin delili konusunda uygulanamaz olduğundan, delil gösterilmesi zorunluluğuna ilişkin , hükümleri, 6100 sayılı HUMK’nun m 179., 201. maddelerine paralel düzenlenmiş olmakla ve yürürlüğü zamanında yerleşmiş Yargıtay içtihatlarıyla uygulanan ve bu içtihatları birleştirmeye konu olan hususun yürürlüğe girmesinden soma uygulanmayacağı görüşünün dayanağı bulunmamaktadır.
+
+3- Tarafların, delil listelerinde, yemin delili yerine, her türlü kanunî/hukuki delil kavramını kullanmalarına mani yoktur. Zira, yemin dışındaki diğer kanuni delillerini zaten 194, 318. md. hükümleri kapsamında somutlaştırarak bildireceklerdir, “Çoğun içinde azı da vardır” tabiri hukukun genel ilkeleri arasına girmiştir. Nitekim, Yargıtay hukuk dairelerinin yanında, HGK da bir çok kararında bu ilkeye açıkça değinmiştir. Bu ilke bir HGK kararında “… Bu cümleden olarak, çoğun içinde azı da vardır ilkesi gereğince, tapuda tescil talebi, tapu iptali talebini de içermekle birlikte; salt iptal istemi tescil talebini kapsamadığından, tescil İsteminin bulunmadığı böyle bir durumda, mahkemece tescile karar verilmesi ya da esasa ilişkin nedenlerle davanın reddedilmesi olanaklı değildir” ( 06.05.2009 T. 2009/1 -82 E. -161 K, ), yine bir başka HGK kararında da “tapu kütüğünde veya dayanak kayıtlarında doğum tarihi yazılmış ve bu tarihte yanlışlık varsa, tapu kayıl maliki ile davacının veya murisinin aynı kişi olduğuna ilişkin açılan bu davaların “çoğun içinde azı da vardır” kuralı gereğince dinlenmesi ve tespit kararı verilmesi gerekir” ( HGK 09,05.2013 T. 2012/14-1517 E.-2013/781 K. ) şeklinde yansımıştır. Sonuç olarak, “her türlü hukuki delil, her türlü kanuni delil, her türlü yasal delil, sair deliller” kavramı da “yemin” delilini kapsayacak ve hakim yemin deliline sıra geldiğinde, detil listesinde bu şekilde delil bildiren tarafa yemin teklif edip etmeyeceğini hatırlatacaktır.
+
+Yukarıda anılan sebeplerle, Yargıtay İçtihatları Birleştirme Hukuk Genel Kurulu’nun sayın çoğunluğunun görüşlerine katılmıyoruz.
+
+YARGITAY 22. HUKUK DAİRESİ
+Esas: 2016/11089 Karar: 2016/12255Tarih: 25.04.2016
+
+HMK 194. Madde
+
+Somutlaştırma Yükü ve Delillerin Gösterilmesi
+
+Davacı vekili müvekkilinin davalı idareye bağlı Ankara kargo işlem merkezinde alt işveren işçisi olarak çalıştığını belirterek ücret farkı, yıpranma prim farkı, sözleşmeli ücretler ( yemek ücreti, yol ücreti ve benzeri ), yıllık izin ücreti, fazla çalışma ücreti alacaklarının hüküm altına alınmasını istemiştir.
+
+Davalılar, davanın reddine karar verilmesini talep etmişlerdir.
+
+Mahkemece, davanın usulden reddine karar verilmiştir.
+
+Karar, süresi içinde davacı tarafından temyiz edilmiştir.
+
+1- )Davacı ve davalılar arasındaki ilk sorun davanın somutlaştırılması yükümlülüğünün yerine getirilip getirilmediği konusundadır.
+
+6100 Sayılı Hukuk Muhakemeleri Kanunu’nun 194. maddesinde, somutlaştırma yükü düzenlenmiş olup, maddenin birinci fıkrası uyarınca, taraflar dayandıkları vakıaları, ispata elverişli bir şekilde somutlaştırmakla yükümlüdür. Madde gerekçesinde, maddenin ihdas amacının, uygulamada genel geçer ifadelerle somut vakıalara dayanmadan davaların açılıp yürütülmesinin önüne geçmek olduğu belirtilmiştir. Gerekçenin devamında, “Bir davada, ispat faaliyetinin tam olarak yürütülebilmesi, mahkemenin uyuşmazlığı doğru tespit ederek yargılama yapabilmesi, karşı tarafın ileri sürülen vakıalara karşı kendini savunabilmesi için, iddia edilen vakıaların açık ve somut olarak ortaya konulması gerekir. Genel geçer ifadelerle, somut bir şekilde ortaya koymadan iddia veya savunma amacıyla vakıaların ileri sürülmesi durumunda, yargılamanın sağlıklı bir şekilde yürütülmesi mümkün olmayacağı gibi, vakıaların anlaşılması için ayrıca bir araştırma yapılması ve zaman kaybedilmesi sözkonusu olacaktır. Taraflar, haklarını dayandırdıkları hukuk kuralının aradığı koşul vakıalara uygun, somut vakıaları açıkça ortaya koymalıdırlar. Bu vakıaların somut olarak ileri sürülmesi, ilgili taraf için bir yüktür; bu yükü yerine getirmeyen sonuçlarına katlanacaktır.” şeklindeki ifadelere yer verilerek somutlaştırma yükünün anlam ve önemi vurgulanmıştır.
+
+6100 Sayılı Kanun’un 119/1-e. maddesi6100 Sayılı Kanun’un 119/1-e. maddesi uyarınca da, davacının iddiasının dayanağı olan bütün vakıaların sıra numarası altında açık özetlerinin dava dilekçesinde yer alması zorunludur. Hukuk Muhakemeleri Kanunu’nun 25. maddesi gereğince de hâkim, tarafların ileri sürmediği vakıaları ve söylemediği bir şeyi dikkate alamaz, hatırlatmada dahi bulunamaz ve hâkimin kendiliğinden delil toplaması da mümkün değildir. Kanunda vakıaların açık ve somut olarak gösterilmesi yeterli görülmemiş, 6100 Sayılı Kanun’un 119 /1-f. hükmünde ayrıca, açık ve somut olarak gösterilmesi gereken her bir vakıanın hangi delille ispat edileceğinin de belirtilmesi aranmıştır. Keza, bu durum, yukarıda açıklanan 194. maddenin ikinci fıkrasının da tereddüt uyandırmayacak derecede açık hükmünün bir gereğidir.
+
+Bu hükümler birlikte değerlendirildiğinde, davacı, dilekçesinde talebinin dayanağı olan vakıaları tek tek, açık ve somut olarak göstermek ve her bir vakıanın hangi delillerle ispat edileceğini de somut olarak belirtmek durumundadır. Bu eksiklikleri gidermenin yolu, 119. maddenin 2. fıkras 2. fıkrasındaki süre vermek değildir. Zira, 6100 Sayılı Kanun’un 119. maddesinde dilekçedeki eksiklik halinde ne yapılması gerektiği maddenin 2. fıkrasında belirtilmiştir. Bu fıkraya ve maddenin gerekçesine bakıldığında, Kanun koyucunun, dilekçedeki bazı eksikliklerin bir haftalık süre verilerek tamamlanması, tamamlanmadığı takdirde de davanın açılmamış sayılması gerektiğini kabul ettiği görülmektedir. Bunlar, 119. maddenin 1. fikras 1. fikrasının ( b ), ( c ), ( ç ), ( ğ ), ( h ) bentlerindeki hallerdir. Bunun dışındaki hallerde ne yapılacağı 119. maddede belirtilmeyip ya ilgili özel kanun hükmüne ( örneğin, dava değerinin gösterilmemesi halinde Harçlar Kanunu hükümleri ) veya diğer hükümlere başvurulması gerekmektedir. Dilekçede vakıaların hiç ya da somut olarak gösterilmemesi ve delillerle bağlantı kurulmaması halindeki özel düzenleme ise 194. maddedir. Dolayısıyla bu hükümden hareketle sorun çözülmelidir.
+
+Daha önce doktrinde ve kısmen yargı kararlarında zikredilen somutlaştırma yükü, 6100 Sayılı Kanun ile birlikte açık bir kanunî düzenlemeye kavuşmuştur. Ancak, bu noktada iddia yükü ile somutlaştırma yükünü birbirinden ayırdetmek de gerekir. Dilekçede hiçbir vakıaya veya hukukî nitelikte vakıa sayılacak iddialara yer verilmemişse, o zaman “iddia yükünün” yerine getirilmemesinden; belirli vakıa iddiaları mevcut olmakla birlikte, bunların somut ve açık şekilde gösterilmemesi ( ve delillerle bağlantı kurulmaması ) halinde ise, somutlaştırma yükünün yerine getirilmemesinden söz edilir. Bu her iki yük de usûlî yükler olmakla birlikte, sonuçları ayrı değerlendirilmelidir. İddia yükünün yerine getirilmemesi halinde, gerçek anlamda bir vakıa iddiası mevcut değildir ve 6100 Sayılı Kanun’un 25. maddesi gereğince hâkimin mevcut olmayan bir vakıaya dayanması, hatta bunu hatırlatması mümkün olmayacaktır. İddia edilmeyen bir şeyin ispatına yönelik faaliyetten de söz edilemez. Kısaca, iddia yoksa, ispat da yoktur. Bu sebeple, iddia yükünün yerine getirilmemesi halinde, dilekçeler teatisi aşamasında bu eksiklik tamamlanmamışsa ( ki iş yargılamasında basit yargılama usûlü uygulandığından dilekçeler teatisi olarak ancak birer defa dilekçe vermek mümkündür ), bu aşamadan sonra başkaca bir inceleme yapmadan, işin esasına girmeden, davanın “iddia yükü yerine getirilmediğinden usûlden reddi” gerekir. Çünkü, esasa girip ne ön inceleme ne tahkikat konusu yapılacak bir vakıa mevcuttur.
+
+Davacının dilekçesinde talebine dayanak yaptığı bazı iddialar ( vakıalar ) olmakla birlikte, bunlar somut ve açık değilse, o zaman somutlaştırma yükünün yerine getirilmemesinden söz edilmelidir. Somutlaştırma yükü yerine getirilmeden ne karşı tarafın sağlıklı savunma yapması ne de sağlıklı bir hüküm verilmesi mümkündür. Çünkü, karşı tarafın hukukî dinlenilme hakkının gereği olarak açıklama ve ispat hakkını kullanabilmesi için, öncelikle kendisine yöneltilen iddialar hakkında tam olarak bilgilenmesi zorunludur ( m. 27 ). Keza, hükümde nelerin yer alması gerektiğini belirten 6100 Sayılı Kanun’un 297. maddesi gereğince, tarafların iddia ve savunmalarının, uyuşmazlık noktalarının, hükmün dayandığı ve sabit görülen vakıların, tam olarak gösterilmesi aranmaktadır ( m. 297/1-c ). Somut vakıalar olmadan, hâkimin sağlıklı ve somut bir karar vermesi de mümkün değildir.
+
+Davanın dayanağı olan vakıaların soyut olarak gösterilmesi yetmez, bu vakıaların ispata elverişli şekilde zaman, mekan ve içerik olarak somutlaştırılması zorunludur. Somutlaştırmak, bir iddiayı, zaman, mekân, kişi, oluş şekli gibi unsurlarıyla algılamaya, anlamaya, tartışmaya, ispata elverişli şekilde ortaya koymaktır. Vakıaların somutlaştırılmasından sonra, karşı tarafça savunma yapılabilir ve mahkemece bir vakıa tam olarak algılanabilir, ispat faaliyeti yürütülebilir ve vakıa üzerinde inceleme ve tartışma yapılarak karar verilebilir. Soyut ve genel ifadelerle dilekçe yazmak, tarafın kendi bilmediği bir şeyi karşı tarafın bilmesini ve mahkemenin de talepte dahi bulunanın bilmediği, somut olarak ileri sürmediği, belirsiz bir şeyden sonuç çıkarmasını beklemek anlamına gelir ki, bu durum hukuk kuralları bir yana mantık kurallarıyla da bağdaşan bir durum değildir. Yargıtayın yerleşik kararlarında da belirtildiği üzere, dava malzemesini getirmek tarafların, hukuku uygulamak mahkemenin işidir. Taraflar dava malzemesini eksik değil, tam olarak getirmek durumundadırlar. Unutmamak gerekir ki, talebin tam tespit edilemediği belirsiz alacak davasında dahi, talep konusu belirsiz olsa dahi, Kanun hukuki ilişkinin belirtilmesini zorunlu kılmıştır ( m. 107 ). Çünkü, kişi, belirsiz ve bilinmeyen bir hukukî ilişki ve vakıadan hareketle bir talepte bulunamaz.
+
+Somutlaştırma yükü de iddia yükü gibi usûlî bir yük olmakla birlikte, sonucu iddia yükünden farklıdır. İddia yükünde ortada bir vakıa yokken, somutlaştırma yükünde bir vakıa mevcut, ancak kanunun aradığı şekilde açık ve somut değildir. Bu durumda, özellikle hâkimin davayı aydınlatma ödevi ( m. 31 ) ile ön inceleme hükümleri ( m. 320,, 137, 140 ) dikkate alınmalıdır. Çünkü, “maddi ve hukuk açıdan belirsiz yahut çelişkili” hususlarda hâkim davayı aydınlatmak durumundadır. Somut olmayan vakıalarda, maddi ve belirli ölçüde hukuki belirsizlik mevcuttur, bu belirsizliğin giderilmesi gerekir. Bu belirsizlik dilekçelerin verildiği aşamada giderilebileceği gibi, özellikle gerek 6100 Sayılı Kanun madde 320 gerekse madde 137 ve 140 hükümleri gereğince, hâkim tarafından bu konuda çaba gösterilmesi gerekir. Çünkü, ön ncelemede tarafların iddia ve savunmalarının tespit edilmesi, anlaştıkları ve anlaşamadıkları noktaların tek tek belirlenmesi gerekli ve zorunlu olup bu aynı zamanda hâkimin ödevidir. Bu çerçevede hâkimin ön incelemede mutlaka somutlaştırmayı sağlaması gerekir. Bu sebeple, sadece tarafların dilekçelerini tekrar ettikleri yönündeki beyanların tutanağa geçirilmesi veya soyut ifadelerle tespit yapılması yeterli değildir. Bu, mahkemenin yargılamayı yürütmesi bakımından sağlıklı olmayacağı ve Kanuna aykırı olacağı gibi, Yargıtay denetimine elverişli bir durum da oluşturmayacaktır. Bunun gibi, tarafların üzerinde bulunan yükleri ( iddi, somutlaştırma ve ispat yükü ) ve hâkimin görevi ve ödevini bilirkişinin üzerine yıkarak, bilirkişinin bu tespitleri yapması da beklenemez ve bu tespitlere göre de dava yürütülemez. Zira, tarafın iddiası olmayan veya somutlaştırmadığı bir hususu, bilirkişi incelemez, değerlendiremez; bilirkişi hâkimin yerine de geçerek davayı aydınlatamaz, uyuşmazlık ve vakıa belirlemesinde bulunamaz. Bilirkişi ancak, varolanı inceleyebilir, açıklayabilir, teknik bilgisiyle istenen hususu tespit edebilir. Başlangıçta taraflarca ve hâkim tarafından gerçekleştirilmeyen bu işlemlerin sonradan bilirkişi marifetiyle giderilmesi usûlen mümkün değildir.
+
+Eğer somutlaştırma yükü, hâkimin davayı aydınlatma ödevi ve ön incelemedeki görevine rağmen, davacı tarafından yerine getirilmemişse, o zaman bu yüke bağlanan yaptırım ortaya çıkacaktır. Somutlaştırma yükünün yerine getirmemenin yaptırımı, ispat yükünü yerine getirmemektir. Bu ise, aslında vakıanın ispata elverişli kabul edilememesi ve bunun sonucu olarak da belirsizlik rizikosuna katlanma şeklinde gerçekleşecektir. Böyle bir durumda, somutlaştırma yükü ve dolayısıyla ispat yükü yerine getirmediğinden, ispat edilemeyen davanın reddi sonucu doğacaktır ki, bu da davanın esastan reddi olup işin esası bakımından kesin hüküm oluşturacaktır.
+
+Sonuç olarak dava dilekçesinde, gerek 6100 Sayılı Kanun madde 119/1-e. gerekse madde 194 gereğince somutlaştırma yükünün yerine getirilmemiş olması halinde, önce hâkim davayı aydınlatma ödevi ve ön incelemdeki görevi gereği, somut olmayan hususların belirlenmesini ( yeni bir vakıa meydana getirmeden, sadece mevcut vakıa kapsamında ) davacıdan istemeli, bu eksiklik tamamlanırsa yargılamaya devam edilerek karar verilmeli, bu eksiklik tamamlanmaz, somutlaştırma gerçekleşmezse, ispatsız kalan davanın reddine karar verilmesi gereklidir.
+
+Anılan Kanun’un Anılan Kanun’un 90. maddesi; “Süreler, kanunda belirtilir veya hâkim tarafından tespit edilir. Kanunda belirtilen istisnai durumlar dışında, hâkim kanundaki süreleri artıramaz veya eksiltemez. Hâkim, kendisinin tespit ettiği süreleri, haklı sebeplerle artırabilir veya eksiltebilir; gerekli gördüğü takdirde, bu konudaki kararından önce tarafları da dinler.”
+
+94.maddesi ise;” Kanun’un belirlediği süreler kesindir. Hâkim, tayin ettiği sürenin kesin olduğuna karar verebilir. Aksi hâlde, belirlenen süreyi geçirmiş olan taraf yeniden süre isteyebilir. Bu şekilde verilecek ikinci süre kesindir ve yeniden süre verilemez. Kesin süre içinde yapılması gereken işlemi, süresinde yapmayan tarafın, o işlemi yapma hakkı ortadan kalkar.” düzenlemesini içermektedir.
+
+Dosya içeriğine göre, mahkemece, tensip ara kararı ile davacıya, davalı … bünyesinde çalıştığı süreleri açıklaması için iki haftalık süre verilmiştir. Davacı vekili, belirtilen süre içerisinde bu konuda bir açıklama dilekçesi sunmamış ve mahkemece bu sebeple dava usulden reddedilmiştir. 6100 Sayılı Kanun’un 194. maddesi gereğince somutlaştırma yükümlülüğünün yerine getirilmesi için anılan Kanun’un 90 ve 94. maddeleri kapsamında hakim tarafından ilk defa verilen ve kesin olduğu ara kararda belirtilmeyen bu süre kesin sürenin sonuçlarını doğurmaz. Bu durumda mahkemece, kesin sürenin sonuçları da hatırlatılarak davacının, davalı … bünyesindeki çalışma süresi ve hangi tarihler arası talep konusu alacakların hesaplanmasını istediğini açıklanması istenilmeli, oluşacak sonuç dairesinde hüküm kurulmalıdır. Yazılı gerekçe ile davanın usulden reddedilmesi hatalı olup bozmayı gerektirmiştir.
+
+2- )Taraflar arasındaki diğer sorun maddi bir hatadan kaynaklanan ya da dürüstlük kuralına aykırı olmayan, hakim tarafından da kabul edilen taraf değişikliği talebinin yeni bir dava dilekçesi verilmesini gerektirip gerektirmeyeceği konusundadır.
+
+6100 Sayılı Kanun’un 124. maddesi6100 Sayılı Kanun’un 124. maddesi; “Bir davada taraf değişikliği, ancak karşı tarafın açık rızası ile mümkündür.
+
+Bu konuda kanunlarda yer alan özel hükümler saklıdır.
+
+Ancak, maddi bir hatadan kaynaklanan veya dürüstlük kuralına aykırı olmayan taraf değişikliği talebi, karşı tarafın rızası aranmaksızın hâkim tarafından kabul edilir.
+
+Dava dilekçesinde tarafın yanlış veya eksik gösterilmesi kabul edilebilir bir yanılgıya dayanıyorsa, hâkim karşı tarafın rızasını aramaksızın taraf değişikliği talebini kabul edebilir. Bu durumda hâkim, davanın tarafı olmaktan çıkarılan ve aleyhine dava açılmasına sebebiyet vermeyen kişi lehine yargılama giderlerine hükmeder.” düzenlemesini içermektedir.
+
+Dosya içeriğine göre, dava dilekçesinde davalı şirket ismi ve unvanı … olarak bildirilmiştir. Dava dilekçesinin anılan şirkete tebliği için dilekçede bildirilen adreste çıkartılan tebligat, bir başka adrese sevk edilmiş ve … isim ve ünvanı ile tebliğ edilmiştir. Şirket vekilinin tebliğ edilen dava dilekçesinde şirket unvanı ve isminin yazmadığı yönündeki itirazı üzerine, mahkemece, davacı tarafa, dava dilekçesini ikinci sıradaki davalı ismi yönünden düzelterek yeniden sunması için iki haftalık kesin süre verilmiştir. Davacı vekili 17.12.2014 tarihli düzeltme dilekçesini sunmuştur. Mahkemece verilen kesin süre içerisinde ara kararda belirtildiği şekilde yeni bir dava dilekçesi verilmediği gerekçesi ile dava usulden reddedilmiştir.
+
+Dava dilekçesinde tarafın yanlış gösterilmesi kabul edilebilir bir yanılgıya dayanıyorsa, hâkim karşı tarafın rızasını aramaksızın taraf değişikliği talebini kabul edebilir. Mahkemece, davalı şirketin isim ve unvanında kabul edilebilir yanılgı sebebi ile taraf değişikliği talebinin kabul edilmiş olması isabetlidir. Ancak bu işlem yeni bir dava dilekçesi verilmesini gerektirmeyip düzeltme dilekçesinin verilmesi ve dava dilekçesi ile birlikte anılan dilekçenin taraflara tebliği yeterli olup, davalı şirketin isim ve unvanındaki değişikliği içeren yeni bir dava dilekçesinin verilmemesi sebebi ile davanın usulden reddedilmesi hatalıdır.
+
+Ayrıca, mahkeme gerekçesinde, dava dilekçesinde … olarak bildirilen davalının ünvanının davanın açılmasından önce … olarak değiştiği, anılan davalının bu unvan ile cevap dilekçesi ve vekaletname sunduğu, bu yanılgının maddi hataya dayandığı belirtilmiştir. 6100 Sayılı Kanun’un 124 /3. maddesi gereğince taraf değişikliğinin UYAP üzerinden mahkemece resen gerçekleştirildiği açıklandıktan sonra, kanuna uygun olarak yapılan bu işlemin, davanın usulden reddi için gerekçe yapılması doğru olmamıştır.
+
+SONUÇ : Hükmün yukarıda açıklanan sebepten BOZULMASINA, peşin alınan temyiz harcının istenmesi halinde ilgiliye iadesine, 25.04.2016 tarihinde oybirliğinde karar verildi.
+
+YARGITAY HUKUK GENEL KURULU
+Esas: 2014/2-693 Karar: 2016/499Tarih: 13.04.2016
+
+HMK 194. Madde
+
+Somutlaştırma Yükü ve Delillerin Gösterilmesi
+
+Taraflar arasındaki “boşanma ve tazminat” davasından dolayı yapılan yargılama sonunda; İzmir 10. Aile Mahkemesince asıl ve birleşen davanın kısmen kabulüne dair verilen 11.10.2012 gün ve 2011/1052 E., 2012/798 K. sayılı kararın incelenmesi tarafların vekilleri tarafından istenilmesi üzerine, Yargıtay 2. Hukuk Dairesinin 13.05.2013 gün ve 2013/730 E., 2013/13537 K. sayılı ilamı ile;
+
+( … 1- )Dosyadaki yazılara, kararın dayandığı delillerle kanuni gerektirici sebeplere ve özellikle, koca tarafından açılan boşanma davasında Türk Medeni Kanununun 166/ son maddesindeki sebebe dayanılmış olup, toplanan delillerle, daha önceki boşanma davasının reddine dair kararın kesinleşmesinden sonra geçen üç yıllık süre zarfında ortak hayatın yeniden kurulamadığının gerçekleşmiş bulunmasına, bu sebeple kocanın boşanma davasının kabulünde bir isabetsizlik görülmemesine, davalı-davacı ( kadın )’ın yoksulluk nafakası isteğinin de, asgari yaşam gereksinimlerini karşılamaya yeterli, düzenli ve sürekli gelirinin bulunması sebebiyle reddedilmiş bulunmasına göre, davalı-davacı ( kadın )’ın bu yönlere dair temyiz itirazları ile aşağıdaki bendin kapsamı dışında kalan yönlere dair temyiz itirazları yerinde görülmemiştir.
+
+2- )Mahkemece, davalı-davacı ( kadın )’ın gösterdiği deliller toplanmadan sonuca gidilmiş, delillerin toplanmamasının gerekçesi olarak; verilen kesin süre zarfında davalı-davacı ( kadın ) vekilinin, tanıklarını hangi vakıalar için dinletmek istediğine dair açıklamada bulunmamış olması gösterilmiştir.
+
+Davalı, birleştirilen boşanma davasına dair 27.01.2012 tarihli dava dilekçesinde; boşanma sebebi olarak iddiasını dayandırdığı vakıaları göstermiş, iddia edilen vakıaların hangi delillerle ispat edileceğini de aynı dilekçesinde belirtmiştir. Vakıa olarak karşı tarafın sadakat yükümlülüğüne aykırı davrandığına, fiziki şiddet uyguladığına ve birlik görevlerini yerine getirmemiş olmasına dayanmıştır. Hukuk Muhakemeleri Kanununun gereğince, taraflar dayandıkları vakıaları ispata elverişli olacak şekilde somutlaştırmalılar ve hangi delilin hangi vakıanın ispatı için gösterildiğini açıkça belirtmeleri zorunludur. Maddede sözü edilen somutlaştırma yükünün amacı, mahkemenin uyuşmazlığı doğru saptayıp, yargılamayı doğru ve sağlıklı bir şekilde yürütebilmesi ve makul sürede sonuçlandırmasını sağlamaktır. Somutlaştırma yükü, dava açılırken veya cevap dilekçesi verilirken iddia ve savunmanın dayandırıldığı vakıaların ve hangi vakıanın hangi delillerle ispat edileceğinin belirtilmemiş olması halinde söz konusudur. Vakıalar belirli ve hangi delillerle ispat edileceği belirtilmiş ise, artık somutlaştırma yükümlülüğüne ihtiyaç yoktur. Davalı-davacı ( kadın ) birleştirilen boşanma davasında; iddiasını dayandırdığı vakıaları göstermiş ve bu vakıaları hangi delillerle kanıtlayacağının da, diğer bir ifade ile dayandığı delilleri belirtmiş, ön inceleme duruşmasından önce de ( 09.05.2012 tarihinde ) tanıklarının isim ve adreslerini gösteren listeyi mahkemeye vermiştir. Bu durumda gösterilen tanıkların, dava dilekçesinde yer alan vakıalar konusunda dinletilmek istendiği açıktır. Hal böyleyken davalı-davacı ( kadın ) vekilinden, gerekmediği halde, Hukuk Muhakemeleri Kanununun gereğince “hangi tanığın hangi vakıanın ispatı için gösterildiğini belirtmesinin” istenmesi ve bu yönde açıklamada bulunması için süre verilmesi hukuki sonuç doğurmaz. Bu bakımdan, davalı-davacı ( kadın ) vekilinin gösterdiği tanıklar usulünce dinlenmeli ve tüm delilleri birlikte değerlendirilerek tarafların kusurları saptanmalı ve tazminat talepleri buna göre sonuca bağlanmalıdır. Bu yapılmadan tazminatlar hakkında eksik inceleme ile hüküm kurulması doğru bulunmamıştır.
+
+Temyiz edilen hükmün yukarıda ( 2. ) bentte gösterilen sebeple bozulmasına, bozma sebebine göre, davalı-davacı ( kadın )’ın maddi tazminatın miktarına ve manevi tazminata dair temyiz itirazları ile davacı-davalı ( koca )’nın kusura ve kadın lehine hükmolunan maddi tazminata dair temyiz itirazlarının incelenmesine yer olmadığına, hükmün bozma kapsamı dışında ve incelenmeyen yönler haricindeki temyize konu bölümlerinin ise yukarıda ( 1. ) bentte gösterilen sebeple onanmasına… ),
+
+Gerekçesiyle oyçokluğu ile kısmen bozularak dosya yerine geri çevrilmekle yeniden yapılan yargılama sonunda, mahkemece önceki kararda direnilmiştir.
+
+Hukuk Genel Kurulunca incelenerek direnme kararının süresinde temyiz edildiği anlaşıldıktan ve dosyadaki kağıtlar okunduktan sonra gereği görüşüldü:
+
+KARAR : Tarafların karşılıklı iddia ve savunmalarına, dosyadaki tutanak ve kanıtlara, bozma kararında açıklanan gerektirici nedenlere ve davalı-davacı ( kadın ) vekilinden, gerekmediği halde, 6100 Sayılı Hukuk Muhakemeleri Kanununun ( ) gereğince hangi tanığın hangi vakıanın ispatı için gösterildiğini belirtmesinin istenmesi ve bu yönde açıklamada bulunması için süre verilmesinin hukuki sonuç doğurmayacak olmasına göre, Hukuk Genel Kurulu çoğunluğunca benimsenen Özel Daire bozma kararına uyulmak gerekirken, önceki kararda direnilmesi yerinde değildir.
+
+Hukuk Genel Kurulundaki görüşmelerde azınlıkta kalan üyelerce; davalı-davacı ( kadın ) vekilinin kendisine tanınan kesin süre içerisinde hangi tanığı hangi iddia yönünden dinletmek istediğini açıklamasının istenmesinin 194. maddesine uygun olduğu belirtilmiş, bazı üyelerce de yerel mahkemece verilen kesin süre sonunun adli tatil içerisine denk gelmesi sebebiyle somutlaştırma yükümlülüğü için verilen sürenin yeterli olmadığı belirtilerek kararın bu sebeple bozulması gerektiği ileri sürülmüş ise de, Kurul çoğunluğunca bu görüşler kabul edilmemiştir.
+
+O halde, Hukuk Genel Kurulu çoğunluğunca benimsenen Özel Daire bozma kararına uyulmak gerekirken, önceki kararda direnilmesi usul ve yasaya aykırıdır.
+
+Bu sebeple direnme kararı bozulmalıdır.
+
+SONUÇ : Davalı-davacı ( kadın ) vekilinin temyiz itirazlarının kabulüyle direnme kararının Özel Daire bozma kararında gösterilen nedenlerden dolayı BOZULMASINA, istenmesi halinde temyiz peşin harcının yatırana iadesine, 13.04.2016 gününde yapılan ikinci görüşmede oyçokluğu ile karar verildi.
+
+KARŞI OY :
+
+HMK.194 maddede sözü edilen “somutlaştırma yükü” nün usul hukukuna dair bir kavram olarak iki yönü vardır. Birincisi vakıaya dair yönü,ikincisi delile dair yönüdür. Bir davada “vakıa”, davada ile elde edilmek isten ve “Sonuç talep ( neticei talep ) olarak ifade edileni elde etmek için dayanılan hayat olayı veya hayat olaylarıdır. Delil ise bu hayat olaylarının gerçekleşmiş olduğunu ispata yarayan ispat araçlarıdır.Somut davada, sonuç talep, boşanmaya ve boşanmanın eki olarak yoksulluk nafakası ile maddi ve manevi tazminata karar verilmesidir.Bu amaçla birleşen davada vakıalar ise, birer hayat olayı olan, “sadakat yükümlülüğüne aykırı davranış”,fiziki şiddet uygulanması”, “ hakaret edilmesi” ve “birlik görevlerinin yerine getirilmemesi” vakıalarıdır.Birleşen dava davacısı ( kadın ) bu vakıaların ispatı için delil olarak dört tanık bildirmiştir.Mahkeme hakimi somutlaştırma yükünün gereği olarak “hangi tanığın hangi vakıanın ispatı için dinleneceğini açıklamak üzere kesin süre” vermiş; süreye uyulmadığında gösterilen tanıkların dinlenmeyeceği sonucuna davacının katlanmak durumunda kalacağını ihtar etmiştir.
+
+Direnme kararına konu uyuşmazlık , somutlaştırmanın vakıalara dair yönüyle ilgli olmayıp, delillere dair yönündedir.
+
+Somutlaştırma yükü, tasarruf ilkesinin bir başka söyleyişle dava malzemesinin taraflarca getirlmesi ilkesinin geçerli olduğu davalarda söz konusudur.Somutlaştırma yükünün ayrıca,usuli ilkelerden” teksif ilkesi ( m.141 )”,”usul ekonomisi ilkesi ( m.30 ) “ , “hakimin davayı aydınlatma ödevi ( m.31 )” ve “hukuki dinlenilme hakkı ( m.37 )” ile yakın ilişkisi vardır.
+
+Hemen belirtmek gerekir ki; somutlaştırma yükünü düzenleyen 194.maddesinin madde başlığından da anlaşılacağı gibi; somutlaştırma taraflar için bir yükümlülük niteliğinde olmayıp, bir “ usuli yük”; somutlaştırma yükü açıklaması istemek de hakim için bur “usuli yetki” niteliğindedir.Bu niteliğin soncu olarak tarafın somutlaştırma yükünün gereğini yerine getirmemiş olmaması; bir hukuk ihlali sonucunu yaratmaz.Bu nedenle, tarafın bunu yerine getirmemesi, temyiz incelemesinde tek başına bir bozma sebebi teşkil etmez. Somutlaştırma yükünün gereğini yerine getirmeyen taraf,sadece bunun sonuçlarına katlanır.Bu da, delil yönünden,gösterilen delil ( ler )in yargılamada dikkate alınmaması sonucudur.
+
+Delillere dair somutlaştırma yükünün uygulama alanı HMK.194. madde gerekçesinin 2.fıkrasında ““… İkinci fıkrada, somutlaştırma yükünün delillerle ilişkisi ortaya konulmuştur. Dava açılırken ve cevap dilekçesi verilirken taraflar, dayandıkları vakıaların hangi delillerle ispat edileceğini de belirtmek zorundadırlar. Delil bir ispat aracı olarak, ileri sürülen bir vakıanın doğruluğunu ispat etmeye yarar. Dolayısıyla her bir vakıa bakımından o vakıayı ispata yarayan ispat araçlarının da belirtilmesi önemlidir. Uygulamada, tarafların iddia veya savunmada bulunurken yeterli araştırma yapmadan vakıalar ileri sürdükleri veya bunların delillerini ortaya koymadan dilekçeler verdikleri görülmektedir. Özellikle taraflarca hazırlama ilkesinin geçerli olduğu davalarda, mahkemenin yargılamayı doğru yürütebilmesi ve makul bir sürede karar verebilmesi için, delillerin vakıalarla bağlantısı kurularak mahkeme önüne getirilmiş olması gerekir. Bu da tarafların dayandıkları delilleri ve her bir delilin hangi vakıanın ispatı için kullanılacağını belirtmeleriyle mümkündür…” şeklinde açıklanmıştır.Bunun anlamı; tarafın dayanılan vakıalarla gösterilen deliller arasında bağlantı kurması ( eşleştirme yapması ); bir başka anlatımla hangi delille hangi vakıanın kanıtlanmak istendiğinin açıklanmasıdır.
+
+İlgili taraf dilekçeler değişimi aşamasında delilerle ilgili belirtilen bu yükü konusunda bir açıklama yapmamış ise ne olacaktır,sorusu cevaplanmalıdır.
+
+Yine madde gerekçesinde de anlaşılabileceği gibi; somutlaştırma yükü, hakimin yargılamayı doğu bir şekilde yürütebilmesi ve makul sürede sonuçlandırabilmesine hizmet etmektedir.Öz deyişle, somutlaştırma yüküyle ilgli taraf açıklamaları; hakimin tahkikatla ilgli “yol haritası ( tahkikat planlaması )” nı oluşturmaktadır. Bu harita veya plan mevcut ve iyi düzenlenmiş ise; hedefe en kısa sürede ve en sağlıklı bir şekilde ulaşabilme imkanı olacaktır.
+
+Bu amaçla; konuyu düzenleyen HMK.194.maddeyi, dellilerin dilekçeye eklenmesine dair ve bu yükmülülüğün yerine getirilmemesi halinde yapılması gerekeni açıklayan 140/5.maddeler birlikte ele alındığında: somutlaştırma yükü açıklamasına gerek duyulduğunu saptayan hakimin; makul süre içinde, kendi yetkisi dahilinde olmak ve davayı aydınlatma ödevi ( m.31 ) çerçevesinde eksikliği tamamlatması gerekir. Bu eksiklik takdirde hakim,eşleşmede her bir delilin vakıaların tamamı için İspat aracı olduğu gerçeğiyle yargılamayı yürütme zorunluluğuyla karşılaşacak; belki de bu durum uyuşmazlığın çözümünü güçleştirecek, davanın da makul sürede bitirilememesi sonucuna da yol açabilecektir.Somutlaştırma yükünün yaptırımı kanunda gösterilmemiştir.Bu sebeple öğretide özellikle hakimin madde düzenlenen “hakimin davayı aydınlatma ödevi” çerçevesinde inisiyatif alacağı, kendi yargılama yol haritasını bilirlemek için ilgili tarafa somutlaştırmayı yapması için kesin nitelikte makul süre vereceği, süreye uyulmadığında özellkle uygun şeklde gösterilmeyen delili göz önüne almadan, mevcut delil çerçevesinde bir karar vermek durumunda olduğu; bunun hakimin davayı yürütme yetkisinin bir parçası olduğu belirtilmektedir ( Do.Dr.Güray Erdönmez:Hukuk Muhakemeleri Kanunu’na Göre Delillerin Gösterilmes Ve İbrazı: İstanbul Barosu Dergisi, 2013/5, s.21;Dr.Cenk Akil: 6100 Sayılı Hukuk Muhakemeleri Kanunun’nda Dava Dilyekçesinin Unsurları Bağlamında Somutlaştırma Yükü,Maltepe Üniversitesi Hukuk Fakültesi Dergisi,2012/1,98 ).
+
+Somut olayda, ilgili davacı dört ayrı vakıaya dayanmış, bunun ispatı için dört ayrı tanık bildirmiştir.Dilekçelerde özellikle dellerle ilgili somutlaştırma yapılmadığı görülmektedir.Bunu tespit eden ve her bir tanığı vakıaların tamamı için dinlemenin yargılmayı makul sürede bitirilmesini ve uyuşmazlığın sonuçlandırılmasını tehlikeye atacağını tespit eden hakim; HMK:31 .madde çerçevesinde insiyatif alarak,yol haritasını çizmek için ilgili tarafa delillerle ilgili somutlaştırma yükü konusunda açıklama yapması için iki haftalık kesin süre vermiştir. İlgili tarafın verilen kesin süreden sonra somutlaştırma açıklaması yapması karşısında, hakim gösterilen bu delilleri göz ardı ederek, mevcut delillere göre davayı karara bağlamıştır.
+
+Kuşkusuz, hakimin somutlaştırma yükümlülüğünü yerne getirme açıklaması ihtarı yapması gereğinin bulunup bulunmadığı temyizen denetlenebilir. İhtardan önceki dilekçelerde ve sözlü açıklamalarda bu yönde yeterli açıklama varsa veya tek bir vakıaya dayanılmış ve sadece bir delil gösterilmiş ise; somutlaştırma yükü ihtarı yapılmasına bir ihtiyaç olduğu söylenemez. Böyle bir durumda yapılacak hakim ihtarı bir sonuç doğrmayacaktır.Aksi durumda; yani dayanılan birden fazla vakıa , birden faza delil ( özellikle birden fazla tanık bildirilmiş ise ) delil gösterilmişse, hakimin yetkisi dahilinde somutlaştırma yükü açıklaması yapılması ihtarına başvurması usulen geçerli olacak; ihtar ve süre verilmesi usulünce yapıldığı takdirde de, davada o deliller göz ardı edilerek karar verilmesi gereği oluşacaktır.
+
+Bu bakımdan; Yüksek Genel Kurul ve Y. 2.Hukuk Dairesi çoğunluk üyelerinin somutlaştırma yükü açıklaması ihtarı gerekmediği şeklindeki kabulü, hakime kanunen tanınan yargılamayı yönetme yetkisini dikkate almamaktadır.Bu şekilde içtihat oluştuğu takdirde; çoklu vakıaya dayanılan,çoklu delil bildirilen bütün davalarda, hakimin davayı makul sürede bitirme görevi tehlikeye girecek; karmaşa sebebiyle uyuşmazlığın çözümü, hatta kanun yolu denetimi de güçleşecektir. Bu şekilde kompleks vakıa ve delil içeren davalarda, ilgili tarafca somutlaştırma yükü gereği yapılmadığı ve hakim tarafından somutlaştırmanın yapılması ihtar edilmediğinde ise; hakim delillerin tamamını tüketmek,eş söyleyişle , her bir delili tüm vakılar için toplamak ve incelemek zorunda kalacaktır. Böylece hakim kendi işini zorlaştırmış olacağı gibi, belki de davayı makul sürede sonuçlandıramayacak ve kanun yolu denetimi de zorlaşacaktır. Bu sebeple Sayın Daire bozma ilamındaki “somutlaştıma yükü açıklamasına ihtiyaç yoktur” şeklindeki bozma gerekçesine katılmıyorum.
+
+Somut davada delillere dair olarak, ilgili tarafın somutlaştırma yükü açıklaması yapmasına ihtiyaç vardır ve bu sebeple hakimin ilgili taraftan açıklama istemesi de kanuna uygundur.
+
+Ne varki, usul kanununda kanunun öngördüğü süreler dışında, hakim tarafından verilen süreler Adli tatilde de işleyeceğinden ( Ejder Yılmaz : Hukuk Muhakemeleri Kanunu Şerhi,Ankara 2012,sh.728 ) temyiz edenin bu yöne dair savunmaları geçersiz ise de; hakimin somutlaştırma yükü açıklaması için verdiği iki haftalık süre makul bir süre değildir.Tarafların yapması gereken işlemler için hakim tarafından süre belirlenirken; süre takdirinde usul ekonomisi ilkesi ve hukuki dinlenilme hakkı arasında bir denge gözetmeli; bir başka anlatımla verilen süre ölçülülük ilkesine uygun olmalıdır.Ölçülü olmayan, örneğin yapılması güçlük taşıyan bir işlem için çok kısa bir süre verilmesi ve bu sürede tarafın işlemi yapamaması hakkın yitirilmesine yol açıyorsa; bu sonuç adil yargılanma hakkı kapsamındaki hukuki dinlenilme hakkına ( HMK.m.27 ) aykırılık oluşturacaktır ki, bu durum tek başına bir bozma sebebi olacaktır.Bu açıklamalar göz önüne alındığında somut davada yargısal süreç şu şekilde gerçekleşmiştir:Temmuz ayı ortasında yapılan duruşma sonunda hakimin verdiği sürenin son günü Adli tatil içinde bitmektedir.Adli tatil, sadece adli birimde görevli hakim ve savcılar için getirilmemiştir. Adliyedeki diğer çalışanlar, davanın tarafları ve onların avukatları için de yasal bir imkandır.Temyiz eden vekilinin de bu dönemde tatilde olabileceği göz önüne alındığında; bir sonraki duruşma gününün hemen Adli tatil bitimine bırakılmayarak Ekim ayı ortalarına bırakılmış olması ve duruşmadan önceki makul bir sürede somutlaştırma yükü açıklaması yapılıp, Gerekli dinleme giderinin de yatırılması suretiyle tanık ( lar )ın dinlenmesinin mümkün olması karşısında; tanınan iki haftalık kesin süre makul olmayıp,; hukuki dinlenilme hakkına aykırıdır ve bu sebeple hukuki sonuç doğurmayacaktır.
+
+Açıkladığım nedenlerle; her ne kadar Sayın Daire bozma ilamındaki karşı oyumda; temyiz edilen hükmün onanması gerektiği görüşünü belirtmişsem de; o zamanki incelemede hakimin verdiği sürenin makul süre olup olmadığı yönünden bir değerlendirme yapılmadığından; şimdi direnme kararının açıkladığım değişik bu gerekçeyle bozulması gerektiğini düşünüyor; Değerli çoğunluğun bozma soncuna katılmakla birlikte, bozma gerekçesine katılmıyorum.
+
+YARGITAY 22. HUKUK DAİRESİ
+Esas: 2015/6809 Karar: 2016/10353Tarih: 11.04.2016
+
+HMK 194. Madde
+
+Somutlaştırma Yükü ve Delillerin Gösterilmesi
+
+Davacı, malulen emekli olması sebebiyle iş sözleşmesini haklı sebeple feshettiğini kıdem tazminatı, ücret ve asgari geçim indirimi, fazla çalışma ücreti ve ulusal bayram genel tatil günleri çalışmasına dair alacakları bulunduğunu bu alacaklarının kendisine ödenmediğini alacaklarının net olarak hesaplanmak suretiyle davalı işverenden tahsiline karar verilmesini istemiştir.
+
+Davalı Cevabının Özeti:
+
+Davalı, davanın reddini istemiştir.
+
+Mahkeme Kararının Özeti:
+
+Mahkemece, davacı tarafa dilekçesinde eksiklikler sebebiyle 10.12.2014 tarihli ilk inceleme tutanağında uyarınca hangi vakıanın hangi delillerle ispat edileceğinin açıkça belirtilmesi suretiyle eksiklikleri gidermek için iki hafta kesin süre verildiği, verilen kesin süreye rağmen hangi vakıanın hangi delillerle ispat edileceği belirtilmediği anlaşıldığından davanın usulden reddine karar verilmiştir.
+
+Temyiz:
+
+Kararı davacı vekili temyiz etmiştir.
+
+Gerekçe:
+
+1- )Taraflar arasındaki uyuşmazlık davacının somutlaştırma yükünü yerine getirip getirmediği noktasında toplanmıştır. Davacının temyiz itirazlarının kabulü ile aşağıdaki gibi karar verilmiştir.
+
+2- )6100 Sayılı Hukuk Muhakemeleri Kanunu’nun 194. maddesinde, somutlaştırma yükü düzenlenmiş olup, maddenin birinci fıkrası uyarınca, taraflar dayandıkları vakıaları, ispata elverişli bir şekilde somutlaştırmakla yükümlüdür. Madde gerekçesinde, maddenin ihdas amacının, uygulamada genel geçer ifadelerle somut vakıalara dayanmadan davaların açılıp yürütülmesinin önüne geçmek olduğu belirtilmiştir. Gerekçenin devamında, “Bir davada, ispat faaliyetinin tam olarak yürütülebilmesi, mahkemenin uyuşmazlığı doğru tespit ederek yargılama yapabilmesi, karşı tarafın ileri sürülen vakıalara karşı kendini savunabilmesi için, iddia edilen vakıaların açık ve somut olarak ortaya konulması gerekir. Genel geçer ifadelerle, somut bir şekilde ortaya koymadan iddia veya savunma amacıyla vakıaların ileri sürülmesi durumunda, yargılamanın sağlıklı bir şekilde yürütülmesi mümkün olmayacağı gibi, vakıaların anlaşılması için ayrıca bir araştırma yapılması ve zaman kaybedilmesi sözkonusu olacaktır. Taraflar, haklarını dayandırdıkları hukuk kuralının aradığı koşul vakıalara uygun, somut vakıaları açıkça ortaya koymalıdırlar. Bu vakıaların somut olarak ileri sürülmesi, ilgili taraf için bir yüktür; bu yükü yerine getirmeyen sonuçlarına katlanacaktır.” şeklindeki ifadelere yer verilerek somutlaştırma yükünün anlam ve önemi vurgulanmıştır.
+
+Dava dilekçesinde, gerek 6100 Sayılı Kanun’un m. 119/1-e gerekse madde 194 gereğince somutlaştırma yükünün yerine getirilmemiş olması halinde, önce hâkim davayı aydınlatma ödevi ve ön incelemdeki görevi gereği, somut olmayan hususların belirlenmesini ( yeni bir vakıa meydana getirmeden, sadece mevcut vakıa kapsamında ) davacıdan istemeli, bu eksiklik tamamlanırsa yargılamaya devam edilerek karar verilmeli, bu eksiklik tamamlanmaz, somutlaştırma gerçekleşmezse, ispatsız kalan davanın reddine karar verilmesi gereklidir. Davacının dava dilekçesinde belirtilen eksikliklerin bulunmaması halinde işin esasına girilerek yargılama yapılmalıdır.
+
+Somut olayda, dava dilekçesinde, davacı kıdem tazminatı, ödenmeyen ücret ve asgari geçim indirimi, fazla çalışma ücreti ve ulusal bayram genel tatil ücreti alacaklarının hüküm altına alınması talep edilmiştir. Davacı dava dilekçesinde 2014 yılı Kasım ayında çalışmasının bulunduğunu ücret ve asgari geçim indirimi alacaklarının ödenmediği, evli ve bir çocuklu olduğu, malulen emekli olması sebebiyle kıdem tazminatının ödenmediği, fazla çalışma yapmasına ve ulusal bayram genel tatil günlerinde çalışmasına rağmen karşılığının ödenmediği belirtilmiştir.
+
+Davacının dava dilekçesi ile hangi vakıayı hangi delille ispatlayacağı açık olmadığından red kararı verilmesi doğru değildir. Dosyanın sistem üzerinden yapılan incelemesinde iki tane dava dilekçesi kaydı olduğu 2014/6207 Sayılı muhabere evrakı kaydı incelendiğinde, 09.12.2014 tarihli taşra dava açılış dilekçesi olarak kayıt yapıldığı, dilekçe ekinde delil listesi ile delillerin bildirildiği, delil olarak işyeri kayıtlarına, Sosyal Sigorta Kurumu kayıtlarına ve ücret ödemelerinin yapıldığı banka kayıtlarına dayanılmış, gerekiğinde dinlenilmek ve isimleri bildirilmek üzere tanık delili ile bilirkişi incelemesine dayanılmıştır. Davacının alacağı kıdem tazminatı ve işçilik alacaklarına ilişkindir. Bu alacakların ödendiği davalı işveren tarafından ibraneme, imzalı bordro ve banka kayıtları ile ispatlanmalıdır. Anılan sebeple, dava açılırken, somutlaştırma yükümlülüğünün yerine getirildiği anlaşılmıştır.
+
+Mahkemece tensip tutanağının davacıya tebliği ile hangi vakıayı hangi delille ispatlayacağı hususu 22.12.2014 tarihinde tebliğ edilerek ihtar edilmiştir. Dosyanın incelenmesinde davacının alacağı olan tutarlara dair dava dilekçesi ve ekinde bulunan delillerde ispat bakımından açıklayıcı beyanlarının olduğu görülmektedir. Bu durumda işin esasına girilerek ve tüm deliller toplanarak davacının alacağı olup olmadığı hususunun aydınlatılması gerekmektedir. Hal böyle iken davacının somutlaştırma yükünün yerine getirilmediğinden bahisle yazılı şekilde usuli eksiklik sebebiyle davanın reddine karar verilmesi usul ve kanuna aykırı olup, bozmayı gerektirmiştir.
+
+SONUÇ : Temyiz olunan kararın yukarıda yazılı sebepten BOZULMASINA, peşin alınan temyiz harcının istenmesi halinde ilgiliye iadesine, 11.04.2016 tarihinde oybirliği ile karar verildi.
+
+UYARI

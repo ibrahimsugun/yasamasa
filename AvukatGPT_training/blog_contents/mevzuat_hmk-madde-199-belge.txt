@@ -1,0 +1,222 @@
+Belge
+
+HMK Madde 199
+
+HMK Madde 199 Gerekçesi
+
+HMK 199 (Belge Delili) Emsal Yargıtay Kararları
+
+Bankanın Elektronik Kayıtları Belge Delili Niteliğindedir
+
+Bazı Protokol Hükümleri Belge Delili Mahiyetindedir
+
+E-Mail (E-posta) Belge Delilidir
+
+Cari Hesap Raporu Belge Delilidir
+
+HMK 199 (Belge Delili) Yargıtay Kararları
+
+Polis İfade Tutanağı Kesin Delil Mahiyetinde Belge Delilidir
+
+Facebook Kayıtları Belge Delilidir
+
+Elektronik Posta Belge Delili Niteliğindedir
+
+E-mail Üzerinden Düzenlenen Sözleşmeler Belge Delilidir
+
+Elektronik Veriler Belge Delili Niteliğindedir
+
+(1) Uyuşmazlık konusu vakıaları ispata elverişli yazılı veya basılı metin, senet, çizim, plan, kroki, fotoğraf, film, görüntü veya ses kaydı gibi veriler ile elektronik ortamdaki veriler ve bunlara benzer bilgi taşıyıcıları bu Kanuna göre belgedir.
+
+1086 sayılı Kanundan farklı olarak, belge kavramına da bu Tasarıda yer verilmiştir.
+
+Belge, bir üst kavram olarak kabul edilmiştir. Belge kavramının, hukukumuzda yeni yer alması sebebiyle ayrıca tanımı da yapılmıştır.
+
+Belge tanımlanmakla birlikte, senedin tanımlanmasından özel olarak kaçınılmıştır. Bunun bir sebebi, senedin öteden beri kanunda yer alması, bu konuda doktrinde ve yargı uygulamasında ciddi bir tereddüdün mevcut olmamasıdır. Ayrıca, senedin kesin delil olarak kabulü sebebiyle, yapılacak bir tanım, bazı sınırlamaları da içereceğinden, ortaya çıkacak gelişmelere engel olmamak bakımından tanımı yapılmamıştır.
+
+Belge konusunda sınırlayıcı bir tanım yapmak yerine, belgenin ne olduğunu belirten bir çerçeve çizilmiştir. Böylece bu Tasarıda yer alan kavram konusundaki tereddütlerin ortadan kaldırılması ve senet kavramı ile karıştırılmaması mümkün olacaktır. Maddede verilen tanıma göre, uyuşmazlık konusu vakıaları ispata elverişli, yazılı veya basılı metin, senet, çizim, plân, kroki, fotoğraf, film, görüntü veya ses kaydı gibi veriler ile elektronik ortamdaki veriler ve bunlara benzer bilgi taşıyıcıları belgedir. Belgenin tanımı yapılırken, hukuk sistemimiz içinde bütünlüğün korunması ve aynı kavramın farklı şekillerde anlaşılmaması için, Bilgi Edinme Hakkı Kanununun “Tanımlar” başlığını taşıyan 3 üncü maddesinde yer alan belge tanımından da yararlanılmıştır.
+
+Maddedeki belge tanımında, iki unsur önemlidir. Belge bir “bilgi taşıyıcısı”dır. Ancak, her bilgi taşıyıcısı değil, uyuşmazlık konusu vakıaları ispata elverişli olanlar, yargılama hukuku anlamında belge sayılmıştır. Tanımda belge sayılacak bilgi taşıyıcılarının bir kısmı örnek olarak sayılmış olmakla beraber, tüm belgeler bu sayılanlardan ibaret değildir. Ancak, sayılan bilgi taşıyıcıları farklı niteliklere sahip olanlardan en tipikleridir. Örneğin, sadece yazılı ve basılı metinler değil, çizim, kroki gibi yazı dışındaki resim, plân vesaire belge olarak sayılmış, görüntüyü anlık ya da hareketli taşıma niteliğine sahip fotoğraf veya film de ayrıca belirtilmiştir. Görüntü ya da ses kayıtları bilgi taşımaya elverişli olduğu gibi, elektronik ortamdaki veriler de bilgi taşıyabilmektedir. Görüldüğü üzere, farklı bilgi taşıyıcıları belirtilmek suretiyle bu konudaki gelişmelere imkân tanıyacak bir tanımlama yapılmıştır.
+
+Bu maddede belge tanımlanmakla yetinilmiş, belgenin türüne göre delil kuvveti takip eden maddelerde düzenlenmiştir.
+
+Hukuk Genel Kurulu         2017/50 E.  ,  2021/33 K.
+
+Davalı banka davacının mevduat hesabına paranın geldiğini, ancak paranın davacı tarafından çekildiğini savunduğuna göre ispat yükü davalı banka üzerindedir. Her ne kadar Özel Daire bozma kararında, mahkemece ispat yükünün ters çevrildiğinden bahsedilmiş ise de esasen ispat yükünün davalı banka üzerinde olduğu hususunda Mahkeme ile Özel Daire arasında uyuşmazlık bulunmamaktadır. Bu durumda davalı banka tarafından paranın davacıya ödendiğinin davacının imzasını taşıyan belgeler ile ispatlanması gerekir. Yukarıda bahsedildiği üzere taraflar arasında mevduat ilişkisi hâlen devam ettiğinden davalı bankanın belgeleri saklama yükümlülüğü de devam etmekte olup; davalı bankanın ödeme fişlerinin, belgelerin on yıllık saklama süresinin dolması nedeniyle imha edildiği yönündeki savunmasının dinlenmesi mümkün değildir.
+
+Öte yandan mahkemece direnme kararında bankanın bilgisayar kayıtlarının HMK’nin 199. maddesi gereğince belge niteliğinde olduğu, davalı bankanın davacıya ödeme yaptığını yazılı belgeyle ispat ettiği belirtilmiştir. Oysa HMK’nın 199. maddesi gereğince belge kavramından bahsedilebilmesi için belgenin ispatı gereken vakıalar hakkında bir bilgi taşıyıcısı olması gerekir. Bununla birlikte her bilgi taşıyıcısı değil sadece uyuşmazlık konusu vakıaları ispata elverişli olanlar yargılama hukuku anlamında belge sayılmıştır. Ayrıca bu şartları sağlasa dahi her belge HMK’nın 200. maddesi anlamında senet sayılmaz. Başka bir deyişle bir yargılama hukuku anlamında bir belgenin kesin veya takdiri delil vasfını haiz olup olmadığı, düzenleyene, belgenin içeriğine ve taşıdığı diğer unsurlara (imza gibi) bağlı olarak değişecektir. Bu itibarla davalı bankanın tek taraflı olarak düzenlediğikendi elektronik kayıtları HMK’nın 199. maddesi anlamında belge niteliği taşısa dahi senet olarak kabul edilemeyeceği için davalı bankanın savunmasını tek başına bu belgeyle ispat ettiği hususunun kabulü mümkün değildir.
+
+Yargıtay 13. Hukuk Dairesi         2018/2478 E.  ,  2020/3182 K.
+
+02.03.2010 tarihli belge incelendiğinde belgenin başlığında “protokol” yazılı olduğu, belgenin altında davacının ortağı olduğu şirketin ve davalının isimlerinin yazılı olduğu anlaşılmaktadır. Taraflar arasında düzenlendiği iddia edilen 02.03.2010 tarihli protokolde “… 1-Kiralanan mülk … İli, Şişli İlçesi, Teşvikiye Mahallesi, 99 pafta, 830 ada, 34 parseldeki dükkan niteliğindeki 4 nolu bağımsız bölümdür. 2-Kiracı yukarıda bilgileri verilen bağımsız bölümü -1-yıl süreyle kiralamıştır… 3-Kiracı ile kiralayan bir yıllık kira süresi için 110.000TL (yüzonbintürklirası) bedelle anlaşmışlardır.Bu bedelin 50.000TL’si(ellibintürklirası) sözleşme imzasında kiralayanın banka hesabına yatırılacaktır…” denilmektedir. Davalı, davaya konu paranın bu protokolün 3.maddesi gereği kendisine gönderildiğini, taraflar arasında kiracı-kiralayan ilişkisi olduğunu savunmuştur.
+
+Gerçekten de paranın protokolle aynı gün davacının şahsi hesabından davalıya gönderildiği sabittir. HMK 199. maddesinde “ uyuşmazlık konusu vakıaları ispata elverişli yazılı veya basılı metin, senet, çizim, plan, kroki, fotoğraf, film, görüntü veya ses kaydı gibi veriler ile elektronik ortamda ki veriler ve bunlara benzer bilgi taşıyıcıları bu Kanuna göre belgedir.” şeklinde düzenleme gereğince davalı tarafın dayandığı 02.03.2010 tarihli protokolün HMK’nun 199. Maddesi anlamında belge niteliğinde olduğunun kabulü gerekir. Nitekim mahkemece “Somut olayda davacı tarafın göndermiş olduğu havalenin açıklama kısmında paranın borç olarak gönderildiğinin belirtildiği, davalı tarafın iddia ettiği gibi protokol kapsamında bir kira ödemesinin olduğuna ilişkin bir açıklamanın bulunmadığı, davalı taraf her ne kadar bu hususta tanık dinletmek istemiş ise de, gerek davanın sınırı gerekse niteliği gereği tanık dinlenmesinin ve tanıkla ispatın mümkün olmadığı, bu hali ile paranın borç olarak gönderildiğinin dosyaya sunulan EFT dekontu ile sabit olduğu” gerekçesiyle davanın kabulüne karar verilmiş olması doğru değildir.
+
+Yargıtay 23. Hukuk Dairesi         2016/3531 E.  ,  2019/643 K.
+
+26.03.2015 tarihli bilirkişi raporuna göre takibe konu ilk fatura ile son fatura arasında 21 adet fatura düzenlendiği, davalı borçlu tarafça gerek nakit, gerek banka kanalıyla ve gerekse davalının gönderdiği masraf faturaları ile ödemeler yapıldığı, davalı tarafça yapılan ödemenin hangi faturaya karşılık yapıldığı açıklanmadan ödendiği ve davalı takibe itirazında davacıya olan borcunu ödediğini bildirdiğine göre ödemenin hangi alacağa mahsup edileceği hususunun BK.nun 101 ve 102 maddelerine göre tayin edilmesi gerekirken yazılı şekilde karar verilmesi doğru görülmemiştir.
+
+Öte yandan 09.04.2013 tarihli mail de davacı şirket yetkilisi Kadri Yamaçlı davalı şirkete gönderdiği, 4.623,03 USD daha ödendiği takdirde cari hesabın sıfırlanacağının bildirdiği, takip konusu faturaların tarihlerinin bu yazışmadan önce olduğu ve HMK 199 maddesi gereğince elektronik maillerin yazılı delil başlangıcı kabul edildiğine göre davacı şirket yetkilisinin isticvabına karar verilerek hesap mutabakatı bulunup bulunmadığı belirlenip sonucuna göre bir karar verilmesi gerekirken yeterince araştırma yapılmadan eksik inceleme ile yazılı şekilde karar verilmesi doğru olmamıştır.
+
+Yargıtay 15. Hukuk Dairesi         2015/6113 E.  ,  2017/1002 K.
+
+6100 sayılı HMK hükümlerine göre; uyuşmazlık konusu vakıaları ispata elverişli yazılı veya basılı metin, senet, çizim, plan, kroki, fotoğraf, film, görüntü veya ses kaydı gibi veriler ile elektronik ortamdaki veriler ve bunlara benzer bilgi taşıyıcıları bu Kanun’a göre belgedir (HMK 199/1). Belgenin sadece örneğinin mahkemeye verildiği durumlarda, mahkeme kendiliğinden veya taraflardan birinin talebi üzerine belgenin aslının verilmesini de isteyebilir (216/1). Belgenin aslını elinde bulunduran taraf, üçüncü kişi veya resmî makamlar, istenmesi hâlinde bunu mahkemeye vermek zorundadır (216/2). Taraflar, kendilerinin veya karşı tarafın delil olarak dayandıkları ve ellerinde bulunan tüm belgeleri mahkemeye ibraz etmek zorundadırlar. Elektronik belgeler ise belgenin çıktısı alınarak ve talep edildiğinde incelemeye elverişli şekilde elektronik ortama kaydedilerek mahkemeye ibraz edilir (219/1).
+
+Yukarıda yapılan açıklama ve sözü edilen kurallarla birlikte somut olay değerlendirildiğinde; davalı cevap dilekçesinin ekinde “cari ayrıntılı hareket raporu” başlıklı belgeye dayanmış olup mahkemece bu belge yeterince araştırılıp değerlendirilmemiştir. 6100 sayılı HMK’nın 199. maddesi gereğince belge niteliğinde olan bu kaydın sıhhatı araştırılıp ödemenin buna göre belirlenmesi zorunludur. Aynı şekilde bu belgede yer alan 19.01.2013 tarihli çekle 30.000,00 TL ödeme yapıldığı davalı tarafından savunulmuş olup bu çekin ödenip ödenmediği hususunun da araştırılmaması yasaya uygun olmayıp kararın temyiz eden davalı yararına bozulması gerekmiştir.
+
+Yargıtay 15. Hukuk Dairesi         2018/4115 E.  ,  2018/4805 K.
+
+Davalının resmî bir makam olan Polis Merkezindeki beyanı mahkeme dışı ikrar niteliğinde olup, düzenlenen ifade tutanağının yazılı olması nedeniyle HMK 199. maddesi kapsamında ödeme vakıasına ispata yarayan belge niteliğinde sayılacağından 10.000,00 TL ödeme vakıası artık çekişmeli olmaktan çıkmıştır. Bir başka deyişle davalının ikrarı ve Cumhuriyet savcılığının başlattığı soruşturma kapsamında polis tarafından alınan bu ifade mahkeme dışı ikrar olup, bu belgeye göre ödemenin yapıldığının kabulünü gerektirir. Kaldı ki bu beyanın iradeyi sakatlayan bir şekilde verildiği ve doğru olmadığı hususu da savunulmamıştır. Aksine düşünmek aksi savunulmayan bir ifadenin hukuken geçersiz olduğu sonucunu doğurur ki bu hususta hukuk güvenliğini ve resmi kurumlara olan güven duygusunu zedeler. Dairemizin yerleşmiş içtihatları da bu yöndedir (15.H.D.’nin 13.10.2014 tarih, 2014/3691 Esas, 2014/5677 karar, 15.H.D.’nin 16.06.2014 tarih, 2013/6457 Esas,2014/4120 karar, 15.H.D.’nin 02.03.2010 tarih, 2009/3691 Esas, 2010/1159 karar ).
+
+YARGITAY 13. HUKUK DAİRESİ
+Esas : 2018/406 Karar : 2018/7889Tarih : 12.07.2018
+
+HMK 199. Madde
+
+Belge
+
+Davacı, 29.08.2006 tarihli Gayrimenkul Satış Sözleşmesi başlıklı sözleşme ile 70.000,00 TL’si peşin, 40.000,00 TL’si tapu devrinden itibaren 2 ay içerisinde ödenmek üzere toplam 110.000,00 TL bedelle adına kayıtlı 10 numaralı bağımsız bölümü davalıya sattığını, bilahare tapu devri yapıldığı halde, sözleşme kapsamında 2 ay içerisinde ödenmesi gereken bakiye 40.000,00 TL’nin ödenmediğini, 40.000,00 TL asıl alacak ve 31.460,00 TL işlemiş faiz alacağı olmak üzere toplam 71.460,00 TL’nin tahsili için başlattığı takibe davalının itiraz ettiğini ileri sürerek; itirazın iptali ile takibin devamına karar verilmesini istemişir.
+
+Davalı, taşınmaz bedelinin tamamının ödendiğini, resmi senette satış bedelinin tamamen ödendiğinin yazılı olduğunu savunmuş, görevli mahkemeye vermiş olduğu 01.02.2017 tarihli cevap dilekçesinde bunlara ilaveten, davacının internet ortamında kendisine gönderdiği mesajda evin kalan borcunun 5.000,00 TL olduğunu bildirdiğini ve bu miktarı kendisinden istediğini beyan etmiştir.
+
+Yerel mahkemece, resmi senette satış bedelinin tamemen ve nakden ödenmiş olduğunun yazılı olduğu, resmi senetteki bu beyanın aksinin aynı güçte başka bir delil ile ispatlanamadığı gerekçesi ile davanın reddine karar verilmiş; davacının istinaf talebi üzerine BAM ilgili dairesince “alıcının bedelden doğan borcunun tümüyle yerine getirmemiş olması resmi sözleşme ile doğan hukuki sonucu değiştiremez. Adi yızılı senetteki gerçek bedelden bir kısmının ödenmemesi satıcıya, bedelin ödenmeyen bölümünün tahsilini isteme hakkı verecektir. Bu bedeli ödediğini kanıtlama külfeti ise davalıya ait olup, bakiye satış bedelinin ödendiğini yasal kanıtlarla kanıtlayamamıştır.” gerekçesi ile ilk derece mahkemesi kararının kaldırılmasına, davanın kabulü ile itirazın iptaline, takibin devamına karar verilmiş; hüküm, davalı tarafından temyiz edilmiştir.
+
+Dava, harici satış sözleşmesi ile satışı yapılıp, bilahare tapu devri yapılan taşınmazın ödenmeyen bakiye bedelinin tahsili için başlatılan takibe vaki itirazın iptali isteğine ilişkin olup, davalı taraf, görevli mahkemeye sunduğu 01.02.2017 havale tarihli dilekçesinde, davacının 07.04.2016 tarihli sosyla medya (Facebook) üzerinden gönderdiği mesajda “… bey daireyi satmışsın. 105 bin lira verdin halen bana 5 bin lira borcun var. Ödemezsen elimdeki evrağı avukata verecem. Telefonum 0532 … “ şeklinde mesaj gönderdiğini bildirmiş, dilekçesinin ekinde de anılan mesaj içeriklerini dosyaya sunmuştur. Dosya kapsamından, gerek ilk derece mahkemesince, gerekse istinaf mahkemesince sunulan bu mesajlar üzerinde durulmadığı, diğer deliller kapsamında dosyanın ele alınıp sonuçlandırıldığı anlaşılmaktadır. 6100 sayılı HMK’nun 199.maddesinde belge kavramı ‘‘Uyuşmazlık konusu vakıaları ispata elverişli yazılı veya basılı metin, senet, çizim, plan, kroki, fotoğraf, film,görüntü veya ses kaydı gibi veriler ile elektronik ortamdaki veriler ve bunlara benzer bilgi taşıyıcıları bu Kanuna göre belgedir.’’ şeklinde düzenlenmiştir.Bu halde davacı yanca delil olarak dayanılanfacebook kayıtlarının 6100 sayılı HMK’nun 199. maddesi anlamında belge niteliğinde olduğunun kabulü gerekir.HMK’nun 202.maddesinde de (1)Senetle ispat zorunluluğu bulunan hallerde delil başlangıcı bulunursa tanık dinlenebilir. (2) Delil başlangıcı, iddia konusu hukuki işlemin tamamen ispatına yeterli olmamakla birlikte, söz konusu hukuki işlemi muhtemel gösteren ve kendisine karşı ileri sürülen kimse veya temsilcisi tarafından verilmiş veya gönderilmiş belgedir.”şeklinde düzenleme getirilerek bu tür belgeler delil başlangıcı olarak kabul edilmiştir. Davalı delil olarak davacı tarafından internet ortamından gönderilen mesajlara da dayandığından, az yukarıda açıklanan ilke ve esaslar doğrultusunda inceleme ve araştırma yapılarak, sonucuna göre karar verilmesi gerekirken yazılı şekilde eksik inceleme ile hüküm tesisi usul ve yasaya aykırı olup bozmayı gerektirir. Kabule göre de, bir temerrüt ihtarı olmadığı halde, takip dosyasına konu işlemiş faiz alacağı yönünden kabul kararı verilmiş olması doğru olmamıştır. Açıklanan nedenlerle, davalının bu yöne ilişkin temyiz itirazlarının kabulü ile Bölge Adliye Mahkemesinin kararının bozulmasına karar vermek gerekmiştir.
+
+Sonuç: Yukarıda açıklanan nedenlerle Bölge Adliye Mahkemesi kararının BOZULMASINA, HMK’nın 373/1. maddesi uyarınca dava dosyasının Bölge Adliye Mahkemesine gönderilmesine, 12/07/2018 gününde oybirliğiyle karar verildi.
+
+YARGITAY 9. HUKUK DAİRESİ 
+Esas : 2015/5593 Karar : 2016/20624Tarih : 22.11.2016
+
+HMK 199. Madde
+
+Belge
+
+A) Davacı İsteminin Özeti:
+
+Davacı vekili, davacının davalı bankada 01.05.2000-30.11.2010 tarihleri arasında çalıştığını son olarak Yasal Takip Müdür Yardımcısı ünvanı ile görev yaptığını, iş sözleşmesinin haksız olarak feshedildiğini, davacının başarı primine hak kazanmasına rağmen ödenmediğini iddia ederek, bu alacağın tahsiline karar verilmesini talep etmiştir.
+
+B) Davalı Cevabının Özeti:
+
+Davalı vekili, bankada herhangi bir konuda başarı primi yapılabilmesi için ödüllendirme komitesinin bu konuda bir karar vermesi, yönetim kurulunun da bir karar alması gerektiğini, dava konusu primin bu süreçleri tamamlamadığını, davacı tarafından sunulan belgenin en az iki imza yetkilisi tarafından imzalanmış ve yönetim kurulunun onayından geçmesi gerektiğini savunarak, davanın reddini talep etmiştir.
+
+C) Yerel Mahkeme Kararının Özeti:
+
+Mahkemece yapılan yargılama sonunda alınan bilirkişi raporuna itibar edilerek, başarı priminin ödenmesine ilişkin alınmış bir yönetim kurulu kararı veya genel müdürlük makam onayının bulunmadığı, bu nedenle davacının alacağının ispat edilemediği gerekçesi ile davanın reddine karar verilmiştir.
+
+D) Temyiz:
+
+Kararı davacı vekili temyiz etmiştir.
+
+E) Gerekçe:
+
+Taraflar arasındaki uyuşmazlık, davacıya başarı primi ödeneceği hususunda yazılı iş sözleşmesi hükmü bulunmamasına rağmen, işyeri içi yazışması veya işyeri uygulaması ile bu ödemenin yapılacağı yönünde işveren tarafından taahhütte bulunulup bulunulmadığı ve bu beyana güven ile çalışan davacının anılan işçilik alacağına hak kazanıp kazanamayacağı noktasında toplanmaktadır.
+
+Öncelikle, taraflar arasındaki somut uyuşmazlığın çözümünde etkili olduğu düşünülen “güven ilkesi”, “güven kavramı” ve “güven sorumluluğu” hakkında açıklamalarda bulunulması yararlı görülmüştür.
+
+Hukukun evrensel ve genel ilkelerinden olan “dürüstlük ilkesi” (Türk Medeni Kanunu m.2), bazı alt ilkelerin doğmasına sebep olmuştur. Bu ilkelerden birisi “ahde vefa ilkesi”, bir diğeri de “güven ilkesi”dir. Yine dürüstlük ilkesini temel alan bir akım da, irade beyanlarının yorumunda ve dolayısıyla sözleşmelerin kurulup kurulmadığını tespitte “korunmaya layık haklı güveni” esas alan “güven ilkesi” dir. Bu güven ilkesi de, “hukuki görünüşe güvenin korunması” alt ilkesini doğurmuştur (Oğuztürk, Burcu (Kalkan): Güven Sorumluluğu, Vedat Kitapçılık, 1. Bası, İstanbul 2008, sahife 1). Güven kavramı, anlam itibariyle sadece, etik ve moral beklentilerin mevcut olduğu bir kavram değildir. O, aynı zamanda, toplum içerisindeki bireylerin iletişiminde çok ciddi rol oynayan ve bazı durumlarda eksik kalmış, tamamlanamamış ya da üstü kapalı olarak geçirilmiş, bazı irade beyanlarının yorumlanması vc tamamlanmasında önemli derecede etkisi olan psikolojik-sosyolojik bir kavramdır. Bilgilendirme gereksinimi içinde, güven kavramının, ekonomik, sosyal ve kültürel anlamları da mevcuttur. Bir görüşe göre güven kavramı, toplum içerisinde, bir bireyin diğer bireylerle olan ilişkilerini tamamlayan; bu ilişkilerin yorumlanmasında kullanılan; ya da o bireyin geleceği ile ilgili olan olaylarda yol gösterici bir rol oynayan, tamamen insanın kendi iç dünyasıyla ilgili bir davranış, bir ruh hali, bir zihniyet, bir anlayıştır (Oğuztürk, Burcu(Kalkan): a.g.e., s.4).
+
+Güven kavramının temelinde; doğruluk, dürüstlük, açık sözlülük, içtenlik, gerçeklik, haklılık gibi anlamlar yatmakta; güven kavramının anlamı da sayılan bu ilkelere dayanmaktadır. Bu anlamda güven, iki taraflıdır. Bir birey, ya karşısındakine güvenir, ya da karşısındaki, o bireye güven verir. Bir kimsenin, çevresine verdiği güven, aynı derecede bir karşılık ve hukuki olarak korunma gerektirmektedir (Oğuztürk, Burcu (Kalkan): a.g.e., s.4).
+
+Özel bir ilişkiye girmiş taraflardan biri, hukuka ve güven ihlali söz konusu olduğunda da hukukun öngördüğü yaptırıma güvenerek karşı tarafa güvenmiştir. Karşı taraf omuzlarına da bu güvenden dolayı, doğru ve dürüst davranmak ve sadakatli olmak yükümlülüğü yüklenmiştir. Kendisine güvenilen taraf da yapmış olduğu kendi davranışları ile bu güven olgusunu meydana getirdiği için, güvenen tarafa kendisine neden güvendiği hususunda bir itiraz hakkı söz konusu olmayacağı öğretide ileri sürülmüştür (Oğuztürk, Burcu (Kalkan): a.g.e., s.9).
+
+Gerçekten de, her iki tarafın menfaatlerini korumak ve dengelemek için ileri sürülen güven ilkesine göre, bir irade beyanını anlamak ve değerlendirmek için, beyan muhatabınca bilinen ve bilinmesi gereken bütün hal ve şartları Medeni Kanun m.2’de düzenlenen dürüstlük ilkesi gereğince değerlendirmek gerekecektir. Böylece, beyana ne anlam verilmesi gerektiği ortaya çıkacaktır. Bu ilkeye göre, korunan karşı tarafın-beyan muhatabının- “haklı güven”idir. Beyan muhatabının gerekli dikkat ve özeni göstermeksizin, beyanı nasıl anladığına bakamayacaktır. Beyan muhatabı, kendisine ulaşan beyanı, dürüstlük ilkesi gereği, bildiği veya bilmesi gereken tüm unsurları dikkate alarak anlamalıdır. Yani, onun bu beyanı o şekilde anlaması MK. m.2 uyarınca haklı görünmelidir. İşte bu ilke, meydana gelen adaletsizliği ve taraflar arasında gerçekleşen sorunu çözmüş olmaktadır. Zira, güven ilkesi “karşılıklı birbirini gözetme” ve “bağlılık” esaslarına dayanmaktadır. Bu ilkeye göre, hem beyan sahibinin hem de beyan muhatabının menfaatleri dengede tutulmuş olmakladır. Bir yandan beyan muhatabının, dürüstlük kuralına (objektif iyiniyet) göre, bildiği ve bilebileceği bütün olguları değerlendirerek beyana vermesi gereken anlama olan haklı güveni korunmakta; diğer yandan ise, beyan sahibinin yaptığı beyanının, makul ve dürüst bir sözleşen insan tarafından anlaşılması olağan biçimde anlaşılacağına dair haklı güveni teminat altına alınmaktadır (Oğuztürk, Burcu (Kalkan): a.g.e., s.37-38).
+
+Güven sorumluluğunun gerçekleşebilmesi için, bir kimsede hukuken korunmaya layık bir güvenin olması, bu güvene dayanılarak bir tasarruf işleminde bulunulması, tüm bunların da bir kişiye isnat edilebilmesi gerekir.
+
+Yukarıda güven sorumluluğuna ilişkin belirtilen genel şartlar, aynı zamanda Alman Hukukunda da aranmaktadır (Oğuztürk, Burcu (Kalkan): a.g.e., s. 128).
+
+Öte yandan, güven sorumluluğu kavramı, 90’lı yılların ortalarına doğru, İsviçre Federal Mahkemesi kararlarına da konu olacak şekilde uygulama içerisinde, ciddi biçimde ağırlığını göstermeye başlamış, bu kavramın hukuk biliminde yer almasını sağlamıştır (Oğuztürk, Burcu (Kalkan): a.g.e., s. 166). İsviçre Federal Mahkemesinin kararları ve İsviçre Hukuk uygulaması, özellikle, bir kimsenin, karşı tarafta oluşturduğu güveni daha sonraki davranışlarıyla hayal kırıklığına dönüştürmesini, yani söz konusu olan çelişkili davranışları korumadığı anlaşılmaktadır (Oğuztürk, Burcu (Kalkan): a. g.e., s. 193; Kararlar için bak. s. 184 vd.).
+
+Güven sorumluluğunun Türk Pozitif Hukuku’nda özel bir kanuni düzenlemesi bulunmamakla birlikte; Türk Hukuk Öğretisinde dürüstlük kuralından hareketle bir olayda güven sorumluluğunun gerçekleşebilmesi için şu şartlar aranmaktadır: Olayda bir “güven” unsuru bulunmalı, zarar gerçekleşmeli, yaratılan hukuki görünüme güvenin pozitif olarak korunması anlamında geçerlilik sonucu bağlanmamak, zarar ile yaratılan hukuki görünüş arasında nedensellik bağı söz konusu olmalı, başka hukuki kuramların uygulama alanına giren herhangi bir durum söz konusu olmamalı, hukuki görünüşü yaratan kimse kusurlu olmalı, kişinin haklı güveni, yani olayda iyiniyeti bulunmalıdır (Oğuztürk, Burcu(Kalkan): a.g.e., s.268). Güven sorumluluğu olabilmesi için, BK. 36/2.maddesinde olduğu gibi, bir “hukuki görünüşe haklı güven olgusu-Rechtsscheinhaftung” söz konusu olmalıdır) Oğuztürk, Burcu (Kalkan): s.271).
+
+Belirtmek gerekir ki 4857 sayılı İş Kanunu`nun 2. maddesinde “İşyerinde işveren adına hareket eden ve işin ve işyerinin ve işletmenin yönetiminde görev alan kimselere işveren vekili denir. İşveren vekilinin bu sıfatla işçilere karşı muamele ve yükümlülüklerinden doğrudan işveren sorumludur.
+
+Ayrıca, 6100 sayılı HMK.’un 199. Maddesi uyarınca “Uyuşmazlık konusu vakıaları ispata elverişli yazılı veya basılı metin, senet, çizim, plan, kroki, fotoğraf, film, görüntü veya ses kaydı gibi veriler ile elektronik ortamdaki veriler ve bunlara benzer bilgi taşıyıcıları bu Kanuna göre belgedir. Bu anlamda elektronik posta işyerinde iç yazışmalarda kullanılması ve çalışan ait olması halinde belgedir. Kısaca elektronik postanın gönderildiği kişi kesin bir şekilde belli ise bu elektronik posta delil olarak kabul edilmelidir.
+
+Dosya içeriğine göre işyerinde başarı prim uygulaması vardır ve bu işverenin kabulündedir.
+
+Davacı 2009 yılı için bu primin ödenmediğini belirterek, işverenden sadır 2009 yılı ödüllendirme belgesine, davacı ile davalı işyerinde işveren vekili konumunda olan Genel Müdür Yardımcısı arasındaki elektronik posta yazışmalarına dayanmıştır. Anılan belgede elektronik yazışma yapan işveren vekilinin imzası vardır. Elektronik postalarda prim alacak kişilerin bildirildiği, işveren vekilinin resmin ortaya çıkmasını beyan ettiği, CEO’nun değerlendirdiği, ancak % 20 olmasının olası görünmediğini, aciz vesikalı avukata % 20 verdiklerini, takımında aynı olmasının makul geldiğini beyan etmiştir. Ödüllendirme belgesinde ise 01.01.2010’a kadar 33 mYTL yi aşan tutarın % 20’si ilgili işkolunu takip eden ayın başında ödeneceği ve tutarın departman içindeki dağıtımının da CCO yetkisinde olduğu belirtilmiştir. Bu ödüllendirme belgesinde davacının da müdür olarak imzası vardır. Bu belge ve elektronik yazışmalara göre davacıya başarı primi verileceği yolunda bir güven verilmiştir. Belgede imzası bulunan ve davacı ile elektronik ortamda yazışmalar yapan Genel Müdür Yardımcısı, 4857 sayılı İş Kanunu’nun 2. Maddesi uyarınca işveren vekili olup, işlemleri işvereni bağlar. Mahkemece davacının prim alacağı ile ilgili mailde adı geçen diğer çalışanlara ödeme yapılıp yapılmadığı, yapılmamış ise nedenleri araştırılarak alınan bilirkişi ESAS NO : 2015/5593
+
+hesap raporu bir değerlendirmeye tabi tutularak prim alacağı hakkında karar verilmesi gerekirken yazılı gerekçe ve eksik inceleme ile sonuca gidilmesi hatalı olup, bozmayı gerektirmiştir.
+
+F) SONUÇ:
+
+Temyiz olunan kararın, yukarıda yazılı sebepten dolayı BOZULMASINA, peşin alınan temyiz harcının istek halinde ilgiliye iadesine, 22.11.2016 tarihinde oybirliğiyle karar verildi.
+
+YARGITAY 6. HUKUK DAİRESİ 
+Esas : 2015/9617 Karar : 2016/4542Tarih : 9.06.2016
+
+HMK 199. Madde
+
+Belge
+
+Dava, kira alacağının tahsili istemine ilişkindir. Mahkeme, davanın reddine karar vermiş, hüküm davacı vekili tarafından temyiz edilmiştir.
+
+Davacı vekili, müvekkilinin kiray veren olarak, … kapı güneşten koruma sistemleri fuarını 7-10 kasım 2013 tarihleri arasında düzenlediğini; taraflar arasında fuar katılım sözleşmesinin 31/03/2013 tarih ve 12.319,20 Euro bedelli olarak imzalandığını müvekkili tarafından davalı adına düzenlenen 11/11/2013 tarih ve … seri nolu KDV dahil 33.504,53 TL meblağlı katılım bedeli açıklamalı faturanın davalıya gönderildiğini, faturanın teslim alınmayarak iade edildiğini; müvekkilinin düzenlediği fuar da yer kiraladığını, sözleşmede katılım bedelini 5 adet çek ile ödeneceği kararlaştırıldığı halde hiçbir ödeme yapılmadığı bu sebeplerle KDV dahil toplam 33.504,53 TL tutarındaki kiralama bedeli alacağının dava tarihinden itibaren işleyecek reeskont avans faizi ile birlikte davalıdan tahsiline karar verilmesini istemiştir. Davalı vekili, davaya konu sözleşmeyi imzalamadıklarını, taraflar arasında sözleşme ilişkisi kurulmadığını belirterek davanın reddini savunmuştur. Mahkemece sözleşmeyi davalı yetkilisi imzalamadığı, davacının sözleşme ilişkisini ispat edemediği gerekçesiyle davanın reddine karar verilmiştir.
+
+6098 sayılı Türk Borçlar Kanunu` nun 4. maddesinde “Kabul için süre belirlenmeksizin hazır olan bir kişiye yapılan öneri hemen kabul edilmezse; öneren, önerisiyle bağlılıktan kurtulur. Telefon, bilgisayar gibi iletişim sağlayabilen araçlarla doğrudan iletişim sırasında yapılan öneri, hazır olanlar arasında yapılmış sayılır.”, hazır olmayanlar arasında kurulan sözleşmenin hüküm anı başlıklı 14. maddesinin 1.fıkrasında Yazılı şekilde yapılması öngörülen sözleşmelerde borç altına girenlerin imzalarının bulunması zorunludur. 2.fıkrasında Kanunda aksi öngörülmedikçe, imzalı bir mektup, asılları borç altına girenlerce imzalanmış telgraf, teyit edilmiş olmaları kaydıyla faks veya buna benzer iletişim araçları ya da güvenli elektronik imza ile gönderilip saklanabilen metinler de yazılı şekil yerine geçer. “ düzenlemesi bulunmaktadır. Yasanın 14/2 fıkrasında sözleşmenin oluşması için unsurlar açıklanmıştır.
+
+6100 sayılı Hukuk Muhakemeleri Kanunu 199. maddesinde “Uyuşmazlık konusu vakıaları ispata elverişli yazılı veya basılı metin, senet, çizim, plan, kroki, fotoğraf, film,görüntü veya ses kaydı gibi veriler ile elektronik ortamdaki veriler ve bunlara benzer bilgi taşıyıcıları bu Kanuna göre belgedir.” düzenlemesi bulunmaktadır.
+
+Dava dilekçesinin ekinde sunulan e-posta yazışmalarının incelenmesinden davalıya ait e-posta adresine 10.01.2013 tarihinde 96 m2 yer rezervasyon yapıldığının bildirildiği, karar verildiğinde ekteki sözleşmenin imzalanıp faks ile gönderilmesi istenmiştir. Davalıya ait e-posta adresinden 21.09.2013 tarihinde davacıya gönderilen e-postada fiyatta indirim istendiği, davacı taraftan cevaben 23.09.2013 tarihli e-postada indirim yapılamayacağı ancak çekle ödeme yapılabileceği, davalı tarafından gönderilen 27.09.2013 tarihli e-postada ise fuara katılmaktan vazgeçildiği beyan edilmiştir. Sözleşmenin faks ile gönderildiğine dair alt kısmında kayıt olduğu ve faksın 31.01.2013 tarihinde gönderildiği yazmaktadır. Ancak bu faksın davalıya ait fakstan gönderilip gönderilmediği dosyadaki bilgilerden anlaşılamamaktadır.
+
+Tüm dosya kapsamından uyuşmazlığa konu Fuar Katılım Sözleşmesi hakkında taraflar arasında önce telefon görüşmelerinin yapıldığı, ardından Fuar Katılım Sözleşmesinin e-mail elektronik posta vasıtasıyla internet üzerinden davalının elektronik posta adresine gönderildiği, bunun üzerine gönderilen iletinin eki sözleşmenin imzalanarak faks yolu ile davacıya ulaştırıldığı anlaşılmaktadır.
+
+Taraflar arasındaki iletişim, telefon, elektronik posta ve faks vasıtasıyla gerçekleştirilmiştir. Elektronik posta iletişiminin işleyişinde taraflar arasında doğrudan doğruya bir iletişim bulunmadığından elektronik posta ile yapılan irade beyanı hazır olmayanlar arasında yapılmış bir irade beyanıdır. Elektronik posta vasıtasıyla iletişimde yazılı metnin muhatabın elektronik posta adresine gönderilip muhatabın elektronik posta kutusuna kaydedilmekle öneri (irade beyanı) muhatabın hakimiyet alanına girmiş sayılır. Öneriyi kabul beyanı elektronik posta veya onun hızına eş değer bir iletişim yolu ile telefon, faks veya teleks yolu ile de yapılabilir. Öte yandan bu iletişim yolları ile kurulan kira sözleşmesinde kabul ve sözleşmenin kurulduğu anın kullanılan iletişim yollarının özelliğine göre Borçlar Kanun`unun konuyu düzenleyen ilgili maddeleri çerçevesinde değerlendirilmesi gerekir. Bu bağlamda davacı ve davalı şirketlerin e-posta adresleri, faks numaraları ve bu yerlere gönderilen postalar ve diğer yazışmalar üzerinde inceleme yapılarak sonucuna göre bir karar vermek gerekirken, yazılı şeklide karar verilmesi usul ve yasaya aykırıdır.
+
+Hüküm bu nedenle bozulmalıdır.
+
+SONUÇ:Yukarıda açıklanan nedenlerle temyiz itirazlarının kabulü ile 6100 sayılı HMK.ya 6217 Sayılı Kanunla eklenen geçici 3.madde hükmü gözetilerek HUMK.nın 428.maddesi uyarınca hükmün BOZULMASINA, istek halinde peşin alınan temyiz harcının temyiz edene iadesine, 09.06.2016 tarihinde oybirliğiyle karar verildi.
+
+YARGITAY 19. HUKUK DAİRESİ 
+Esas : 2015/14813 Karar : 2016/2351Tarih : 15.02.2016
+
+HMK 199. Madde
+
+Belge
+
+Davacı vekili, taraflar arasında ticari ilişki olduğunu, davalının fatura bedelinin bir kısmını ödediğini, bakiye alacağın tahsili amacıyla başlatılan takibin davalının itirazı üzerine durduğunu ileri sürerek, itirazın iptaline ve icra inkar tazminatına karar verilmesini talep ve dava etmiştir.
+
+Davalı vekili, faturada müvekkilinin imzasının bulunmadığını savunarak, davanın reddine karar verilmesini istemiştir.
+
+Davalı asil duruşmada, malların teslim edilmediğini, Facebook mesajlarının kendisine ait olduğunu, mesajlarda geçen 11.000,00 TL`den borçlu olduğunu kabul yönünde beyanının bulunmadığını, davacının alacağını mahkemede ispatlaması halinde ödeyeceğini söylediğini beyan etmiştir.
+
+Mahkemece toplanan delillere göre; dava konusunun miktarı itibariyle davacının teslim olgusunu kesin delille ispatlaması gerektiği, bu nitelikte bir delil bildirmediği, yemin teklifinde de bulunmadığı, davacının teslim olgusunu kanıtlayamadığı gerekçesiyle davanın reddine karar verilmiş, hüküm davacı vekili tarafından temyiz edilmiştir.
+
+Davalı tarafça gönderilen 01.11.2013 tarihli Facebook mesajlarında davalının “11.000,00 TL’lik borcuma ödeme planı çıkarsınlar ve ben de ödemeye başlayayım.” şeklindeki beyanları açıkça borcu kabul anlamında yorumlanmalıdır. Davalı anılan mesajların kendisi tarafından çekildiğini inkar etmediğine göre 6100 sayılı HMK`nun 199. maddesi anlamında belge niteliğinde kabulü gereken mesajlar doğrultusunda akdi ilişkiyi de inkar etmeyen davalının borcu açıkça kabul ettiği gözetilerek sonucuna göre bir karar verilmesi gerekirken yanılgılı değerlendirme ile yazılı şekilde hüküm kurulması doğru görülmemiştir.
+
+SONUÇ: Yukarıda açıklanan nedenlerle hükmün BOZULMASINA, peşin harcın istek halinde iadesine, 15.02.2016 gününde oybirliğiyle karar verildi.
+
+YARGITAY 9. HUKUK DAİRESİ
+Esas: 2014/37491 Karar: 2016/8497Tarih: 05.04.2016
+
+HMK 199. Madde
+
+Belge
+
+A- ) Davacı İsteminin Özeti:
+
+Davacı, davalıya ait iş yerinde 29.02.2012-15.04.2013 tarihleri arasında finans müdürü olarak ayda en son net 3.000,00 TL ücret ile çalıştığını, iş akdinin davalı tarafından haksız ve hiçbir sebep gösterilmeksizin feshedildiğini ileri sürerek kıdem tazminatı ile ihbar tazminatı, bayram ikramiyesi ve yıllık izin ücreti alacağını istemiştir.
+
+B- ) Davalı Cevabının Özeti:
+
+Davalı, davacının davalı şirkette hizmet akti ile çalışmadığını, bankalar nezdindeki iyi ilişkileri sebebiyle finans konusunda danışmanlık hizmeti verilmesi konusunda anlaşıldığını, danışmanlık ücretlerinin ödendiğini, davacının öğleye yakın 2-3 saat davalı iş yerinde bulunarak ayrıldığını, haftanın 3-4 günü davalı iş yerine uğradığını, danışmanlık hizmeti karşılığında aylık 1.500,00 TL ücreti olduğunu, bir yıldan kısa bir süre danışmanlık hizmeti verdiğini, davalı tarafından herhangi bir fesih yapılmadığını, iş yerinde bayram ikramiyesi verilmediğini, bayram ve genel tatil günlerinde çalışılmadığını, bu sebeple açılan davanın reddini istemiştir.
+
+C- ) Yerel Mahkeme Kararının Özeti ve Yargılama Süreci:
+
+Mahkemece, toplanan kanıtlar ve bilirkişi raporuna dayanılarak, davacının davalı şirketle ilgili olarak mail adresinden 30.03.2012 tarihinden itibaren üçüncü kişilerle yazışmalar yaptığı görünüyor ise de, bu mail çıktılarının hizmet süresinin tespitinde tek başına yeterli delil teşkil etmeyeceği, davalı tanığı ……. davacının 1 yıl çalışmadığını, ancak kaç ay çalıştığını bilmediğini beyan ettiği, diğer tanık beyanlarına göre de davacının 1 yıl ve üzerinde çalıştığı iddiasını ispatlayamadığı, iş akdinin davalı tarafından haklı nedene dayanılmaksızın feshedildiği, davalı şirketteki çalışması 1 yılı bulmayan davacının kıdem tazminatı ve yıllık ücretli izin alacağına hak kazanamayacağı, genel tatil günlerinde çalıştığı iddiasının davacı tarafından ispat edilemediği gerekçesiyle kıdem tazminatı, yıllık izin ücreti alacağı ve genel tatil ücreti alacağı taleplerinin reddine, ihbar tazminatı talebinin kısmen kabulüne karar verilmiştir.
+
+D- ) Temyiz:
+
+Kararı davacı vekili ve davalı vekili temyiz etmiştir.
+
+E- ) Gerekçe:
+
+1- ) Dosyadaki yazılara, toplanan delillerle kararın dayandığı kanuni gerektirici sebeplere göre, davalı vekilinin tüm davacının aşağıdaki bendin kapsamı dışında kalan temyiz itirazları yerinde değildir.
+
+2- ) 6100 Sayılı Hukuk Muhakemeleri Kanununun 199. maddesiyle belge kavramı içerisine elektronik ortamdaki veriler ve bunlara benzer bilgi taşıyıcıları da alınmıştır. Mahkemece hizmet süresi yönünden davacının üstelik davalıya ait network ağından mail kullanmasına rağmen bu elektronik nitelikteki belgeye itibar edilmemesi hatalıdır. Davacı elektronik verilerle davalı yanında 30.03.2012-15.04.2013 tarihleri arasında 1 yıl 13 gün çalıştığını kanıtlamıştır. Buna göre davacının kıdem tazminatı ve ihbar tazminatı talebinin kabulü gerekirken hizmet süresinin bir yıldan az olduğu gerekçesiyle bu alacakların reddi hatalı olup, bozmayı gerektirmiştir.
+
+SONUÇ : Temyiz olunan kararın, yukarıda yazılı sebepten dolayı BOZULMASINA, peşin alınan temyiz harcının istenmesi halinde ilgiliye iadesine, 05.04.2016 tarihinde oybirliğiyle karar verildi.
+
+UYARI

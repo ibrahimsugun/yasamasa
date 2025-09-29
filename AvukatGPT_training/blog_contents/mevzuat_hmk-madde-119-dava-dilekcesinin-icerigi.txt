@@ -1,0 +1,682 @@
+Dava Dilekçesinin İçeriği
+
+HMK Madde 119
+
+HMK Madde 119 Gerekçesi
+
+HMK 119 (Dava Dilekçesinin İçeriği) Emsal Yargıtay Kararları
+
+(1) Dava dilekçesinde aşağıdaki hususlar bulunur:
+
+a) Mahkemenin adı.
+
+b) Davacı ile davalının adı, soyadı ve adresleri.
+
+c) Davacının Türkiye Cumhuriyeti kimlik numarası.
+
+ç) Varsa tarafların kanuni temsilcilerinin ve davacı vekilinin adı, soyadı ve adresleri.
+
+d) Davanın konusu ve malvarlığı haklarına ilişkin davalarda, dava konusunun değeri.
+
+e) Davacının iddiasının dayanağı olan bütün vakıaların sıra numarası altında açık özetleri.
+
+f) İddia edilen her bir vakıanın hangi delillerle ispat edileceği.
+
+g) Dayanılan hukuki sebepler.
+
+ğ) Açık bir şekilde talep sonucu.
+
+h) Davacının, varsa kanuni temsilcisinin veya vekilinin imzası.
+
+(2) Birinci fıkranın (a), (d), (e), (f) ve (g) bentleri dışında kalan hususların eksik olması hâlinde, hâkim davacıya eksikliği tamamlaması için bir haftalık kesin süre verir. Bu süre içinde eksikliğin tamamlanmaması hâlinde dava açılmamış sayılır.
+
+1086 sayılı Kanunun 179 uncu maddesindeki düzenlemeye karşılık gelen bu madde ile, dava dilekçesinde bulunması gereken hususların neler olduğu, ilâve unsurlarla birlikte ve daha geniş olarak düzenlenmiştir.
+
+Mahkemenin adının dava dilekçesinde gösterilmesiyle, davacının dilekçeyi vereceği görevli ve yetkili mahkeme belirlenmiş olmaktadır. Davacı ve davalı gerçek kişi ise ad, soyadı ve adresleri; tüzel kişi ise bu takdirde tüzel kişinin türü, unvanı ve adresi belirtilecektir.
+
+Maddeyle davacının gerçek kişi ve Türk vatandaşı olması hâlinde Türkiye Cumhuriyeti Kimlik Numarasının da dava dilekçesinde belirtilmesi esası getirilmiştir.
+
+Malvarlığı haklarına ilişkin ve konusu para alacağı olmayan davalarda, harca esas miktarın belirlenebilmesi bakımından, dava konusunun değerinin gösterilmesi esası da dava dilekçesinde bulunması gereken zorunlu unsurlardan biri hâline getirilmiştir.
+
+“Somutlaştırma yükü ve delillerin gösterilmesi” başlıklı 198 inci madde ile, tarafların, hangi delilin hangi vakıanın ispatı için gösterildiğini açıkça belirtme zorunluluğu, yani somutlaştırma yükü getirilmiş olduğundan, bu yükümlülük gereği, davacının iddia ettiği her bir vakıanın hangi delille ispat edileceğini, dava dilekçesinde belirtmesi esası da bir yenilik olarak maddede düzenlenmiştir. Böylece, özellikle ispat konusunda davaların usul ekonomisi ilkesine uygun bir biçimde, makul bir sürede sonuçlanması hedeflenmiştir.
+
+Tarafların kanunî temsilcilerinin ve davacı vekilinin kimlik ve adres bilgilerinin bulunması, davanın konusunun ne olduğu, davacının iddiasının dayanağı olan vakıaların neler olduğu, davanın hukukî sebepleri, açık bir şekilde istem sonucunun ve davacının varsa kanunî temsilcisinin veya
+vekilinin, dava açma iradesini ortaya koyan imzasının dava dilekçesinde bulunması esası 1086 sayılı Kanunun konuya ilişkin düzenlemesi, yerleşik uygulama ve anlayışa uygun olarak muhafaza edilmiştir.
+
+Cevap dilekçesi verme süresi 132 nci maddede düzenlendiğinden ve bu nedenle davacının cevap süresini belirtme yetkisi kalmadığından, cevap süresi, dava dilekçesinde bulunması gereken unsurlar arasında sayılmamıştır.
+
+Maddenin ikinci fıkrasında, birinci fıkranın (b), (c), (ç), (ğ) ve (h) bentlerindeki hususlardan birinin veya birkaçının eksik olması durumunda, mahkemece davacıya eksikliği tamamlaması için kesin süre verileceği, bu süre içinde eksikliğin tamamlanmaması hâlinde, davanın açılmamış sayılacağı düzenlenmiştir.
+
+YARGITAY 13. HUKUK DAİRESİ 
+Esas : 2015/43240 Karar : 2018/7752Tarih : 5.07.2018
+
+HMK 119. Madde
+
+Dava Dilekçesinin İçeriği
+
+Davacı, davalılar ile imzalanan 15.12.2005 tarihli sözleşme ile davalılardan daire satın aldığını, 40.000 USD peşin ödediğini ve bakiyesinin banka kredisi ile ödenmesinin kararlaştırıldığını, davalıların sonradan projenin mevcut hali ile yapı ruhsatı alınamadığı için yapı ruhsatı alacak şekle göre yeniden düzenlendiği ve dairenin metrekaresinin arttırıldığı gerekçesi ile 35.000 USD fark istediklerini, bunun üzerine ek bir sözleşme yapılarak bu hususların düzenlendiğini, satış bedelinin davalılara tamamen ödenmesine rağmen sözleşme uyarınca dairenin 31.12.2007 tarihinde teslimi gerekirken inşaatın tamamlanamadığını ve teslim edilemediğini, ek sözleşme ile dairenin 40 metrekare daha büyük olacağı taahhüt edilmesine karşın ancak 16 metrekare büyüme yapıldığını, ayrıca bina dışı donanımda ve dairede eksiklikler bulunduğunu ileri sürerek ve fazlaya ilişkin hakları saklı kalmak kaydı ile eksik ve ayıplı işler nedeni ile ayıp oranında indirim tutarının ihtar tarihinden işleyecek en yüksek faiziyle ve 31/12/2007 tarihinden itibaren dava tarihine kadar hesaplanacak kira alacağının uygulanacak en yüksek faizi ile birlikte davalılardan müştereken ve müteselsilen tahsiline karar verilmesini istemiştir.
+
+davalılar, davanın reddini dilemiştir.
+
+Mahkemece, davanın kısmen kabulü ile 10.000,00 TL maddi tazminatın dava tarihinden itibaren değişken yasal faiz oranı uygulanmak sureti ile hesaplanacak işlemiş faizi ile birlikte davalılardan müteselsilen tahsiline, fazlaya yönelik istemin reddine karar verilmiş; hüküm, taraflarca temyiz edilmiştir.
+
+1-Davacı eldeki dava ile davalılardan satın aldığı dairenin ayıplı ve geç teslim edildiğini ileri sürerek ayıp oranında bedelde indirim ve kira tazminatı talep etmiştir. davalılar davanın reddini dilemiş; Mahkemece, davanın kısmen kabulüne karar verilmiştir. Ne var ki; dava dilekçesinde dava değeri 10.000,00 TL olarak gösterilmesine rağmen ne kadarının kira tazminatı ne kadarının ayıp oranında bedel indirimi karşılığı olarak istenildiği gösterilmediği gibi mahkemece, davacıya bu yönde bir açıklama da yaptırılmamıştır. HMK’nın 26/1. maddesinde “Hakim, tarafların talep sonuçlarıyla bağlıdır; ondan fazlasına veya başka bir şeye karar veremez. Duruma göre, talep sonucundan daha azına karar verebilir.” ve yine Hakimin davayı aydınlatma ödevi başlıklı HMK’nın 31/1. maddesinde “Hakim, uyuşmazlığın aydınlatılmasının zorunlu kıldığı durumlarda, maddi veya hukuki açıdan belirsiz yahut çelişkili gördüğü hususlar hakkında, taraflara açıklama yaptırabilir; soru sorabilir; delil gösterilmesini isteyebilir.” düzenlemesi mevcuttur. HMK 119/ğ. maddesinde de talep sonucunun açık bir şekilde yazılması gerektiğine değinilmiştir. Söz konusu düzenlemelere göre, hakim tarafından öncelikle davacının talep sonucu açıklattırılmalıdır. Mahkemece, 10.000,00 TL’lik dava değerinin hangi talep için ne miktarda olduğu açıklatılmaksızın hüküm kurulması usul ve yasaya aykırı olup, bozmayı gerektirir.
+
+2-Yargıtay Hukuk Genel Kurulu’nun 2009/19-109 Esas ve 2009/123 Karar sayılı ilamında değinildiği üzere, 10.04.1992 tarih, 1991-7 Esas 1992-4 Karar Sayılı İçtihadı Birleştirme Kararı, hakimin tefhim etmiş olduğu kısa kararla gerekçeli kararın uyum içinde olması gerektiğini öngörmektedir. Yargı erkinin görev ve yetkisi, Anayasa ile yasaları amaçlarına uygun olarak yorumlayıp uygulamak, keza İçtihadı Birleştirme Kararlarının bağlayıcılığını gözetmekten ibarettir. Kısa kararla gerekçeli karar arasındaki çelişkiye cevaz verilmemesinin amacı, kamunun mahkemelere olan güveninin sarsılmamasına yöneliktir. Tefhim edilen hüküm başka, gerekçeli karardaki hüküm başka ise bu durumun mahkemelere olan güveni sarsacağı tartışmasızdır.
+
+Öyle ki, İçtihadı Birleştirme Kararında bu konuya çok büyük bir önem verilmiş, çelişkinin varlığı tespit edildiği takdirde, başka hiçbir incelemeye gerek görülmeksizin ve tarafların bu konuyu temyiz sebebi yapıp yapmadıklarına bakılmaksızın kararın salt bu nedenle bozulması gerektiğine işaret edilmiştir. Ayrıca 01.10.2011 tarihinde yürürlüğe giren 6100 sayılı Hukuk Muhakemeleri Kanunu’ nun 297. maddesinde hüküm fıkrasında nelerin yer alacağı açıklanmış; 297. maddenin 2. fıkrası ile “Hükmün sonuç kısmında gerekçeye ait herhangi bir söz tekrar edilmeksizin, taleplerden her biri hakkında verilen hükümle, taraflara yüklenen borç ve tanınan hakların, sıra numarası altında; açık, şüphe ve tereddüt uyandırmayacak şekilde gösterilmesi gereklidir” hükmü getirilmiştir.
+
+Somut uyuşmazlıkta, davacı kira tazminatı ve ayıp oranında bedel indirimi talep etmiş, bilahare talebini 39.242,00 TL olarak ıslah etmiştir. Mahkemece, gerekçe kısmında davacının kira tazminatının reddine, davacının mahkemece tayin edilen 2 haftalık kesin süreden sonra ıslah dilekçesi sunduğundan ıslah işlemi yapma hakkının ortadan kalktığı, dava dilekçesinde gösterilen değer üzerinden ve istemle bağlı kalınarak 10.000,00 TL maddi tazminatın faizi ile davalılardan müteselsilen davalılardan tahsiline karar verildiği belirtilmesine rağmen hüküm fıkrasında davanın kısmen kabulü ile 10.000,00 TL maddi tazminatın faizi ile davalardan müteselsilen tahsiline, davacının fazlaya ilişkin isteminin reddine karar verilerek gerekçe ile hüküm fırkası arasında çelişki oluşturulmuştur. Mahkemece, açıklanan yasal düzenleme gözetilmeyerek gerekçe ile hüküm fıkrası arasında çelişki oluşturulması usul ve yasaya aykırı olup, bozmayı gerektirir.
+
+3-Bozma nedenine göre tarafların sair temyiz itirazlarının bu aşamada incelenmesine gerek görülmemiştir.
+
+SONUÇ: Yukarıda 1 ve 2 nolu bentte açıklanan nedenlerle kararın BOZULMASINA, 3 nolu bentte açıklanan nedenlerle tarafların temyiz itirazlarının bu aşamada incelenmesine yer olmadığına, peşin alınan 170,78 TL harcın istek halinde davalı … Tekstil San. Tic. Ltd. Şti’ne, 171,00 TL harcın davalı … … Teks. Tic. Ltd. Şti’ne, 170,78 TL harcın davalı …-…Teşebbüsü’ne, 171,00 TL harcın davalı … İnş. Yat. San. Tic. A.Ş.’ye iadesine, HUMK’nun 440/I maddesi uyarınca tebliğden itibaren 15 gün içerisinde karar düzeltme yolu açık olmak üzere, 05/07/2018 gününde oybirliğiyle karar verildi.
+
+YARGITAY 2. HUKUK DAİRESİ 
+Esas : 2016/21429 Karar : 2018/8523Tarih : 4.07.2018
+
+HMK 119. Madde
+
+Dava Dilekçesinin İçeriği
+
+1-Dosyadaki yazılara, kararın dayandığı delillerle kanuna uygun sebeplere ve özellikle delillerin takdirinde bir yanlışlık görülmemesine göre, davalı erkeğin aşağıdaki bent kapsamı dışında kalan temyiz itirazları yersizdir.
+
+2-Dava ve karar tarihinde yürürlükte bulunan 6100 sayılı Hukuk Muhakemeleri Kanunun 119/1-e maddesi uyarınca davacı, dava dilekçesinde davanın dayanağı olan bütün vakıaları sıra numarası altında ve açık özetleriyle birlikte, davalı da aynı Kanunun 129/1-d maddesi gereğince savunmasının dayanağı olan bütün vakıaları sıra numarası altında ve açık özetleriyle birlikte cevap dilekçesinde göstermek zorundadırlar. Bunlar, dava ve cevap dilekçelerindeki talep sonucunun dayanağı olan ve bu talep sonucunu haklı göstermeye yarayan vakıalardır. Ön inceleme aşaması tamamlanıncaya kadar usulüne uygun biçimde bildirilen vakıaların doğru olduğu yargılama sırasında ispat edilirse, tarafların talep sonuçları da bu duruma göre kabul veya reddedilecektir. Kanunda öngörülmüş istisnalar dışında hakim, iki tarafın birinin söylemediği şeyi veya vakıaları kendiliğinden dikkate alamaz ve onları hatırlatabilecek davranışlarda dahi bulunamaz (HMK m.25/1). Mahkemece ancak tarafların dilekçelerinde dayandıkları vakıalar hakkında inceleme ve değerlendirme yapılabilir.
+
+4721 sayılı Türk Medeni Kanununun 184. maddesinde “Boşanmada yargılama usulü” ayrıca düzenlenmiş; anılan maddenin ilk fıkrasında “Boşanmada yargılama, aşağıdaki kurallar saklı kalmak üzere Hukuk Usulü Muhakemeleri Kanununa tabidir” hükmüne yer verilerek, maddede sayılan istisnalar dışında, boşanma davalarının genel yargılama usulüne tabi olduğu belirtilmiştir. Boşanmada genel yargılama usulünün uygulanmasına ayrık olan kurallar ve uygulanması gereken özel usuller Türk Medeni Kanunu’nun 184. maddesinde sınırlı olarak belirtilmiş olmasına karşın; bu sınırlamalar ve istisnalar dışında, tarafların dayanmadığı vakıaların değerlendirmede esas alınacağına dair özel bir düzenlemeye yer verilmemiştir.
+
+Somut olayda, mahkemece, gerekçeli kararda davalı erkeğe yüklenen sadakatsizlik vakıasına davacı kadın dava dilekçesinde ve cevaba cevap dilekçesinde dayanmamıştır. Mahkemece, usulüne uygun şekilde ileri sürülmeyen ve dayanılmayan vakalar davalı erkeğe kusur olarak yüklenemez. Gerçekleşen olaylara göre davalı erkeğin birlik görevlerini yerine getirmediği ve yerine getirmekten kaçındığı ispatlanmış olup, boşanmaya sebep olan olaylarda davalı erkek tamamen kusurludur. Ne var ki salt evlilik birliğinden kaynaklanan görevlerini yerine getirmeme ve bu görevlerden kaçınma kişilik haklarına saldırı teşkil etmez. Türk Medeni Kanunun 174/2. maddesi koşulları davacı kadın lehine gerçekleşmemiştir. O halde davacı kadının manevi tazminat isteğinin reddine karar verilecek yerde yazılı şekilde isteğin kabulü doğru olmayıp, bozmayı gerekmiştir.
+
+SONUÇ: Temyiz edilen hükmün yukarıda 2. bentte gösterilen sebeple BOZULMASINA, bozma kapsamı dışında kalan temyize konu bölümlerin yukarıda 1. bentte gösterilen sebeple ONANMASINA, temyiz peşin harcının istek halinde yatırana geri verilmesine, işbu kararın tebliğinden itibaren 15 gün içinde karar düzeltme yolu açık olmak üzere oybirliğiyle karar verildi. 04.07.2018(Çrş.)
+
+YARGITAY 1. HUKUK DAİRESİ
+Esas : 2018/249 Karar : 2018/11336Tarih : 20.06.2018
+
+HMK 119. Madde
+
+Dava Dilekçesinin İçeriği
+
+Dava, yolsuz tescil hukuksal nedenine dayalı tapu iptal ve tescil isteğine ilişkindir.
+
+Davacı, davalıdan 2009 yılında borç para aldığını, bu borca karşılık kendisine boş senet imzalatıldığını, borcunu ödemesine rağmen davalının bu senedi 60.000,00-TL bedelli olarak doldurup takibe koyduğunu, bu takibe karşı şikayet yoluna başvurduğunu, şikayet dosyasındaki duruşma gününün tarafına usulsüz olarak tebliğ edildiğini, icra takibinin hukuka aykırı şekilde kesinleşmesi sonucu maliki olduğu 7 adet taşınmazın ihale ile davalı tarafından alındığını, icra süreci devam etmekte iken tarafından yapılan şikayet üzerine … Asliye Ceza Mahkemesinde davalı hakkında tefecilik suçu nedeniyle mahkumiyet kararı verildiğini ileri sürerek dava konusu taşınmazların tapu kaydının iptali ile adına tesciline karar verilmesini, yargılama sırasında yapılan ıslah ile tapu iptal tescil istemine ek olarak borçlu olmadığının tespiti ile … İcra Müdürlüğünün 2009/13 sayılı dosyasındaki takibin iptaline karar verilmesini istemiştir.
+
+Davalı davanın reddini savunmuştur.
+
+Mahkemece, iddianın sabit olduğu gerekçesiyle davanın dava konusu 6 adet taşınmaz bakımından kabulüne, davacının borçlu olmadığının tespitine, … İcra Müdürlüğü’nün 2009/13 takip sayılı dosyasındaki takibinin iptaline, … parsel sayılı taşınmazın davacı ile bir ilgisinin bulunmadığı gerekçesiyle bu taşınmaza yönelik davanın reddine karar verilmiştir.
+
+Dosya içeriği ve toplanan dellillerden; davalının, borçlusu davacı olan 10.10.2007 keşide, 10.10.2008 vade tarihli senet bakımından icra takibi başlattığı borcun ödenmemesi üzerine dava konusu … , … , … , … , … ve … parsel sayılı taşınmazların … İcra Dairesinin 2009/13 takip sayılı dosyasında yapılan 05.04.2010 tarihli ihale ile davalı tarafından alacağına mahsuben edinildiği ve 20.04.2010 tarihinde taşınmazların tapuda davalı adına tescil edildiği dava konusu … parsel sayılı taşınmazın ise ½ payının davacı, kalan ½ payının da dava dışı … adına kayıtlı olduğu anlaşılmaktadır.
+
+Hemen belirtmek gerekir ki; borçlu taraf İcra İflas Kanunu’nun 72. maddesi hükmü çerçevesinde; icra takibi öncesinde ve icra takibi sırasında borçlu bulunmadığını ispat için menfi tespit davası açabilir.
+
+Öte yandan, HMK’nın 176 ve devam maddelerinde düzenlenmiş olan ıslah müessesesi, mahkemeye yöneltilmesi gereken tek taraflı ve açık bir irade beyanı ile tarafların dilekçelerinde belirttikleri vakıaları, dava konusunun veya istem sonucunun değiştirebilmesi imkanı sağlamaktadır. Usule ilişkin işlemlerin tamamen ya da kısmen ıslahı mümkündür. Ancak, her iki durumda da usulüne uygun açılmış bir davanın bulunması şarttır. Bu hale göre yargılaması devam eden bir dava içinde ıslah ile ikinci bir talepte bulunma olanağı bulunmamaktadır. Davacı isterse dava dilekçesini tamamen ıslah ederek dava konusunu değiştirebilirse de, yeni dava konusu önceki dava konusunun yerine geçer ve yine tek bir dava söz konusu olur. Islahta dava konusu olmayan bir istemin dava kapsamına alınması mümkün olmayıp başından beri dava konusu edilmeyen bir şeyin ıslah yoluyla dava konusuna dahil edilmesine yasal açıdan olanak bulunmamaktadır. (HGK’nın 29.06.2011 gün, 2011/1-364 E.-2011/453 K., 15.06.2016 gün, 2014/4-1193 E.-2016/800 ve 2015/7-917 E-2017/265 K. sayılı İlâmları)
+
+Somut olaya gelince, davacı vekilinin 08.12.2015 tarihli ıslah dilekçesi ile; tapu iptal ve tescil talebinin yanında dava dilekçesinde dile getirilmeyen menfi tespit ve takibin iptali isteklerinin de hükme bağlanmasını istediği, mahkemece davacının menfi tespit ve takibin iptali istemleri de kabul edilmek suretiyle tapu iptal ve tescil hükmü kurulduğu anlaşılmaktadır.
+
+Eldeki davada, davacı, takibe konulan 60.000-TL bedelli senedin davalı tarafından sonradan doldurulduğunu, davalıya olan borcunu ödemesine rağmen senedin takibe koyularak maliki olduğu taşınmazların cebri satış suretiyle usulsüz olarak edinildiği iddiasını ileri sürmüş, davalı taraf ise davacının borcunu ödemediği savunmasına bulunmuştur.
+
+Bu durumda, uyuşmazlığın davacının davalıya borcu bulunup bulunmadığı noktasında toplandığı açık olup, bu hususun da ancak usulüne uygun olarak açılmış bir menfi tespit davası ile çözümleneceğin de kuşku yoktur.
+
+Hal böyle olunca; davacı vekilinin 08.12.2015 tarihli ıslah dilekçesi ile ileri sürdüğü yeni istekler ıslah kapsamında değerlendirilemeyeceği gibi 6100 sayılı Hukuk Muhakemeleri Kanununun 119 vd. maddelerinde düzenlenen dava açma prosedürüne ilişkin usuli şartları taşımaması nedeniyle ek dava olarak da kabul edilemeyeceğinden davacı tarafa menfi tespit davası açması için süre verilmesi ve bu davanın sonucuna göre tapu iptal ve tescil istekli eldeki davanın çözüme kavuşturulması gerekirken yanılgılı değerlendirme ile yazılı şekilde karar verilmesi doğru değildir.
+
+Davalının yerinde bulunan temyiz itirazlarının kabulü ile, hükmün açıklanan nedenlerden ötürü (6100 sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK’un 428.maddesi gereğince BOZULMASINA, alınan peşin harcın temyiz edene geri verilmesine, 20/06/2018 tarihinde oybirliğiyle karar verildi.
+
+YARGITAY 2. HUKUK DAİRESİ
+Esas : 2016/19522 Karar : 2018/7070Tarih : 31.05.2018
+
+HMK 119. Madde
+
+Dava Dilekçesinin İçeriği
+
+Hukuk Muhakemeleri Kanununun 119/l-(f) hükmü uyarınca, gerek yazılı gerekse basit yargılama usulünde, iddia edilen her bir vakıanın hangi delillerle ispat edileceğinin, dava dilekçesinde belirtilmesi gerekir. Delillerin bildirilmesi hakkındaki bu düzenleme, Hukuk Muhakemeleri Kanunun’da kabul edilen somutlaştırma yükünün de bir gereğidir. Ön inceleme duruşmasında, taraflara dilekçelerinde gösterdikleri, ancak henüz sunmadıkları belgeleri mahkemeye sunmaları veya başka yerden getirtilecek belgelerin getirtilebilmesi amacıyla gereken açıklamayı yapmaları iki haftalık kesin süre verilir. Bu hususların verilen kesin süre içinde tam olarak yerine getirilmemesi hâlinde, o delile dayanmaktan vazgeçilmiş sayılmasına karar verilir (HMK m.140/5). Bu madde metninde vurgulanması gereken husus ‘dilekçelerinde gösterdikleri” ibaresinin kullanılmış olmasıdır. Taraflar, Kanunda belirtilen süreden sonra delil gösteremezler (HMK m. 145).
+
+Dava dilekçesinde davacı karşı davalı erkek, tanık delilline dayanmamış, nüfus kaydını delil olarak göstermiş, 09.12.2015 tarihli dilekçesi ile tanık bildirmiş, bildirilen bu tanıklar dinlenilerek davacı karşı davalı erkeğin davasının kabulü ile tarafların boşanmalarına karar verilmiştir. Davacı karşı davalı erkek, dava dilekçesinde tanık deliline dayanmadığına göre dayanılmayan delilin bildirilmesi için ön inceleme aşamasında verilen süre sonuç doğurmaz ve bu tanıkların beyanları kusur belirlemesinde dikkate alınamaz (HGK 20.04.2016 tarih, 2014/695 ve 2016/522 karar sayılı kararı). Gerçekleşen bu durum karşısında mahkemece; yukarıda açıklanan sebeplerle,davalı-karşı davacı kadına yüklenecek kusurlu bir davranış ispatlanamadığından davacı-karşı davalı erkeğin davasının reddine karar verilmesi gerektiği halde, boşanma davasının kabulüne karar verilmesi usul ve kanuna aykırı olup, bozmayı gerektirmiştir.
+
+SONUÇ: Temyiz edilen hükmün yukarıda gösterilen sebeple BOZULMASINA, bozma sebebine göre sair yönlerin şimdilik incelenmesine yer olmadığına, temyiz peşin harcının istek halinde yatırana geri verilmesine, işbu kararın tebliğinden itibaren 15 gün içinde karar düzeltme yolu açık olmak üzere oybirliğiyle karar verildi. 31.05.2018 (Prş.)
+
+YARGITAY 2. HUKUK DAİRESİ
+Esas : 2016/16013 Karar : 2018/5196Tarih : 18.04.2018
+
+HMK 119. Madde
+
+Dava Dilekçesinin İçeriği
+
+1-Dava ve karar tarihinde yürürlükte bulunan 6100 sayılı Hukuk Muhakemeleri Kanunun 119/1-e maddesi uyarınca davacı, dava dilekçesinde davanın dayanağı olan bütün vakıaları sıra numarası altında ve açık özetleriyle birlikte, davalı da aynı Kanunun 129/1-d maddesi gereğince savunmasının dayanağı olan bütün vakıaları sıra numarası altında ve açık özetleriyle birlikte cevap dilekçesinde göstermek zorundadırlar. Bunlar, dava ve cevap dilekçelerindeki talep sonucunun dayanağı olan ve bu talep sonucunu haklı göstermeye yarayan vakıalardır. Ön inceleme aşaması tamamlanıncaya kadar usulüne uygun biçimde bildirilen vakıaların doğru olduğu yargılama sırasında ispat edilirse, tarafların talep sonuçları da bu duruma göre kabul veya reddedilecektir. Kanunda öngörülmüş istisnalar dışında, hakim, iki tarafın birinin söylemediği şeyi veya vakıaları kendiliğinden dikkate alamaz ve onları hatırlatabilecek davranışlarda dahi bulunamaz (HMK m.25/1). Mahkemece ancak tarafların dilekçelerinde dayandıkları vakıalar hakkında inceleme ve değerlendirme yapılabilir.
+
+4721 sayılı Türk Medeni Kanununun 184. maddesinde “Boşanmada yargılama usulü” ayrıca düzenlenmiş: anılan maddenin ilk fıkrasında “Boşanmada yargılama, aşağıdaki kurallar saklı kalmak üzere Hukuk Usulü Muhakemeleri Kanununa tabidir.” hükmüne yer verilerek, maddede sayılan istisnalar dışında, boşanma davalarının genel yargılama usulüne tabi olduğu belirtilmiştir. Boşanmada genel yargılama usulünün uygulanmasına ayrık olan kurallar ve uygulanması gereken özel usuller. Türk Medeni Kanunu’nun 184. maddesinde sınırlı olarak belirtilmiş olmasına karşın; bu sınırlamalar ve istisnalar içinde, tarafların dayanmadığı vakıaların değerlendirmede esas alınacağına dâir özel bir düzenlemeye yer verilmemiştir.
+
+Eldeki davada mahkemece, gerekçeli kararda davalı erkeğe izafe edilen kusurlu davranışlara davacı kadın dava dilekçesinde vakıa olarak dayanmamıştır. Mahkemece, usulüne uygun şekilde ileri sürülmeyen ve dayanılmayan vakıalar davalı erkeğe kusur olarak yüklenemez. Bu durumda davacı kadının davasının reddi gerekirken, kabulü hatalı olup bozmayı gerektirmiştir.
+
+2-Kanunda aksine bir hüküm bulunmadıkça, taraflardan her biri hakkını dayandırdığı olguların varlığını ispatla yükümlüdür (TMK m. 6, 6100 s. HMK m. 190/l).Davacı kadın dava dilekçesinde erkeğin düğünde takılan ziynetleri aldığını ve iade etmediğini iddia etmiş, davalı erkek ise bu iddianın doğru olmadığını, ziynetleri kadının giderken yanında götürdüğünü savunmuştur. Davacı kadın ziynet eşyasının erkek tarafından götürüldüğünü veya zorla alındığını ispat yükü altındadır. Ziynet eşyalarının niteliği gereği, kadının ortak konuttan ayrılırken yanında götürmesi hayatın olağan akışına uygun düşer. Davacı kadının tanıklarının iddia edilen vakıayla ilgili somut, görgüye dayalı bir bilgileri yoktur. Dosyada iddiayı kanıtlamaya elverişli başkaca bir delil de bulunmamaktadır. Davacı kadın yemin deliline dayanmamış, gösterdiği diğer delillerle de dava konusu ziynet eşyalarının erkek tarafından elinden zorla alındığını ve iade edilmediğini ispat edememiştir. Bu durumda mahkemece, davacı kadının ziynet alacağı talebinin reddi gerekirken kabulü doğru olmayıp, bozmayı gerektirmiştir.
+
+SONUÇ: Temyiz edilen hükmün yukarıda 1. ve 2. bentlerde gösterilen sebeplerle BOZULMASINA, temyiz peşin harcının istek halinde yatırana geri verilmesine, işbu kararın tebliğinden itibaren 15 gün içinde karar düzeltme yolu açık olmak üzere oybirliğiyle karar verildi. 18.04.2018
+
+YARGITAY 1. HUKUK DAİRESİ
+Esas : 2018/1446 Karar : 2018/8626Tarih : 2.04.2018
+
+HMK 119. Madde
+
+Dava Dilekçesinin İçeriği
+
+Taraflar arasında görülen davada;
+
+Davacı, mirasbırakan babası adına kayıtlı 253 parsel sayılı taşınmazı davalının kadastro tespiti sırasında hukuka aykırı yollarla adına kaydettirdiğini ileri sürerek, anılan taşınmazın kime ait olduğunun tespiti ile önceden babası adına kayıtlı ise tapu iptal ve tescile karar verilmesini istemiştir.
+
+Davalı, savunma getirmemiştir.
+
+Mahkemece, davacıya, davalının T.C. Kimlik numarası ve adres bilgilerini bildirmek üzere kesin süre verildiği halde bildirmediği gerekçesi ile HMK’nın 119/b ve 2. fıkrası gereği davanın açılmamış sayılmasına ilişkin olarak verilen karar Dairece “… davalının açık adresi araştırılarak tespit edilmesi, gerekli araştırma yapılmasına rağmen adresinin tespit edilememesi halinde ise, 6099 sayılı Yasa ile değiştirilen 7201 sayılı Tebligat Kanunu’nun 21., 28. ve 35. maddeleri dikkate alınarak taraf teşkilinin sağlanması ve hasıl olacak sonuca göre bir karar verilmesi gerekirken, yanılgılı değerlendirme ile yazılı olduğu üzere karar verilmiş olması doğru değildir.” gerekçesi ile bozulmuş, bozma ilamına uyularak yapılan yargılama sonucunda “dava konusu taşınmaza ilişkin kadastro tutanağının 22.01.1978 tarihinde kesinleşmiş olması dikkate alınarak 3402 sayılı Kadastro Kanunu’nun 12/3 maddesi gereğince kadastro tutanaklarının kesinleştiği tarihten itibaren 10 yıl geçtikten sonra, kadastrodan önceki hukuki sebebe dayanarak dava açılamayacağı” gerekçesi ile davanın reddine karar verilmiştir.
+
+Karar, davacı tarafından süresinde temyiz edilmiş olmakla; Tetkik Hakimi … ‘ın raporu okundu, düşüncesi alındı. Dosya incelendi, gereği görüşülüp düşünüldü.
+
+Dosya içeriğine, toplanan delillere, hükmün dayandığı yasal ve hukuksal gerekçeye ve özellikle delillerin takdirinde bir isabetsizlik bulunmamasına göre; davacının yerinde bulunmayan temyiz itirazının reddiyle usul ve yasaya uygun olan hükmün ONANMASINA, aşağıda yazılı 4.50 .-TL. bakiye onama harcının temyiz eden davacıdan alınmasına, 02/04/2018 tarihinde oybirliğiyle karar verildi.
+
+YARGITAY 22. HUKUK DAİRESİ 
+Esas : 2017/8724 Karar : 2018/1047Tarih : 23.01.2018
+
+HMK 119. Madde
+
+Dava Dilekçesinin İçeriği
+
+Davacı İsteminin Özeti:
+
+Davacı, davalıya ait işyerinde 02.05.1994 – 19.07.2010 tarihleri arasında asgari ücretle çalıştığını ve emeklilik nedeniyle işten ayrıldığını, kıdem tazminatı ile ilgili olarak dava açtığını ve davanın kabul edilerek kesinleştiğini, izin ücretlerinin ise şirket tarafından ödeneceği düşünülerek, sözü edilen davada talep edilmediğini, ancak izin ücretinin ödenmemesi nedeniyle bu ek davayı açmak zorunda kaldıklarını beyanla fazlaya ilişkin hakları saklı kalmak kaydıyla yıllık izin ücreti alacağının davalıdan tahsiline karar verilmesini talep etmiştir.
+
+Davalı Cevabının Özeti:
+Davalı, davanın reddini istemiştir.
+
+Mahkeme Kararının Özeti:
+
+Mahkemece, toplanan deliller ve bilirkişi raporuna dayanılarak, davanın kısmen kabulüne karar verilmiştir.
+
+Temyiz:
+
+Kararı davalı taraf temyiz etmiştir.
+
+Gerekçe:
+
+Taraflar arasında öncelikle çözümlenmesi gereken uyuşmazlık, davanın belirsiz alacak davası türünde açılabilmesi için gerekli şartları taşıyıp taşımadığı noktasındadır
+
+01.10.2011 tarihinde yürürlüğe giren 6100 sayılı Hukuk Muhakemeleri Kanunu’nun 107. maddesiyle, mülga 1086 sayılı Hukuk Usulü Muhakemeleri Kanunu`nda yer almayan yeni bir dava türü olarak belirsiz alacak ve tespit davası kabul edilmiştir.
+
+6100 sayılı Kanun`un 107. maddesine göre,
+“(1) Davanın açıldığı tarihte alacağın miktarını yahut değerini tam ve kesin olarak belirleyebilmesinin kendisinden beklenemeyeceği veya bunun imkânsız olduğu hâllerde, alacaklı, hukuki ilişkiyi ve asgari bir miktar ya da değeri belirtmek suretiyle belirsiz alacak davası açabilir.
+(2) Karşı tarafın verdiği bilgi veya tahkikat sonucu alacağın miktarı veya değerinin tam ve kesin olarak belirlenebilmesinin mümkün olduğu anda davacı, iddianın genişletilmesi yasağına tabi olmaksızın davanın başında belirtmiş olduğu talebini artırabilir.
+(3) Ayrıca, kısmi eda davasının açılabildiği hâllerde, tespit davası da açılabilir ve bu durumda hukuki yararın var olduğu kabul edilir.”
+
+Hükümet tasarısında yer almayan bu madde, Türkiye Büyük Millet Meclisi Adalet Komisyonu tarafından, esasen baştan miktar veya değeri tam tespit edilemeyen bir alacakla ilgili hak arama durumunda olan kişinin, hukuk sisteminde karşılaştığı güçlüklerin bertaraf edilerek hak arama özgürlüğü çerçevesinde mümkün olduğunca en geniş şekilde korunmasının sağlanması gerekçesi üzerinde durularak ihdas edilmiş ve nihayetinde kanunlaşmıştır.
+
+Davanın belirsiz alacak davası türünde açılabilmesi için, davanın açıldığı tarih itibariyle uyuşmazlığa konu alacağın miktar veya değerinin tam ve kesin olarak davacı tarafça belirlenememesi gereklidir. Belirleyememe hali, davacının gerekli dikkat ve özeni göstermesine rağmen miktar veya değerin belirlenmesinin kendisinden gerçekten beklenilmemesi durumuna ya da objektif olarak imkansızlığa dayanmalıdır.
+
+Madde gerekçesinde 
+“ Alacaklının bu tür bir dava açması için, dava açacağı miktar ya da değeri tam ve kesin olarak gerçekten belirlemesi mümkün olmamalı ya da bu objektif olarak imkânsız olmalıdır. Açılacak davanın miktarı biliniyor yahut tespit edilebiliyorsa. böyle bir dava açılamaz. Çünkü, her davada arandığı gibi, burada da hukukî yarar aranacaktır, böyle bir durumda hukukî yararın bulunduğundan söz edilemez. Özellikle, kısmî davaya ilişkin yeni hükümler de dikkate alınıp birlikte değerlendirildiğinde, baştan tespiti mümkün olan hâllerde bu yola başvurulması kabul edilemez.”     şeklindeki açıklamayla, alacağın belirli veya belirlenebilir nitelikte olması durumunda, belirsiz alacak davası açılarak bu davanın sağladığı imkanlardan yararlanmanın mümkün olmadığına işaret edilmiştir.
+
+Alacağın hangi hallerde belirsiz, hangi hallerde belirli veya belirlenebilir olduğu hususunda kesin bir sınıflandırma yapılması mümkün olmayıp, her bir davaya konu alacak bakımından somut olayın özelliklerinin nazara alınarak sonuca gidilmesi gereklidir.
+
+6100 sayılı Kanun`un 107/2. maddesinde, 
+sorunun çözümünde yol gösterici mahiyet kriterlere yer verilmiştir. Anılan madde fıkrasında, karşı tarafın verdiği bilgi veya tahkikat sonuç alacağın miktarı veya değerinin tam ve kesin olarak belirlenebilmesinin mümkün olduğu anda davacının, iddianın genişletilmesi yasağına tâbi olmaksızın davanın başında belirtmiş olduğu talebini artırabileceği hüküm altına alınmış,    madde gerekçesinde de “karşı tarafın verdiği bilgiler ve sunduğu delillerle ya da delillerin incelenmesi ve tahkikat işlemleri sonucu (örneği bilirkişi ya da keşif incelemesi sonucu)” belirlenebilme hali açıklanmıştır.
+
+Davacının alacağının miktar veya değerini belirleyebilmesi için elinde bulunması gerekli bilgi ve belgelere sahip olmaması ve bu belgelere dava açma hazırlığı döneminde ulaşmasının da (gerçekten) mümkün olmaması ve dolayısıyla alacağın miktarının belirlenmesinin karşı tarafın elinde bulunan bilgi ve belgelerin sunulmasıyla mümkün hale geleceği durumlarda alacak belirsiz kabul edilmelidir.
+
+Sırf taraflar arasında alacak miktarı bakımından uyuşmazlık bulunması, talep sonucunun belirlenmesinin davacıdan beklenemeyecek olması anlamına gelmez. Önemli olan objektif olarak talep sonucunun belirlenmesinin davacıdan beklenemeyecek olmasıdır. Sadece alacak miktarının taraflar arasında uyuşmazlık bulunması ya da tartışmalı olmasının belirsiz alacak davası açılması için yeterli sayılması halinde, neredeyse tüm davaların belirsiz alacak davası olarak kabulü gerekir ki, bu da kanunun amacına aykırıdır. 
+Çünkü, zaten uyuşmazlık bulunduğu için dava açılmakta ve uyuşmazlık mahkeme önüne gelmektedir. Önemli olan davacının talebini belirli kılacak imkâna sahip olup olmadığıdır.
+
+Burada, alacağın belirlenebilir olması ile ispat edilebilirliğinin de ayrıca değerlendirilmesi gerektiği unutulmamalıdır. Davacının talep ettiği alacağı belirlenmesi objektif olarak mümkün, ancak belirleyebildiği alacağını ispat etmesi, kanunun öngördüğü şekilde ispatı (elindeki delillerle) mümkün değilse, burada da belirsiz alacak davası açılacağından söz edilemez. 
+Çünkü, bir alacağın belirlenmesi ile onun ispâtı ayrı şeylerdir. Davacı, talep konusu yaptığı alacağını çok net şekilde belirleyebilir; ancak her zaman onu ispat edecek durumda olmayabilir. Aksinin kabulü, her ispat güçlüğü olan alacağı belirsiz alacağa dönüştürmek gibi, hem kanunun amacına hem de genel ilkelere aykırı bir durumu ortaya çıkartabilir.
+
+Alacağın miktarının belirlenebilmesinin, tahkikat aşamasında yapılacak delillerin incelenmesi, bilirkişi incelemesi veya keşif gibi sair işlemlerin yapılmasına bağlı olduğu durumlarda da belirsiz alacak davası açılabileceği kabul edilmelidir. Ne var ki, bir davada bilirkişi incelemesine gidilmesi belirsiz alacak davasının açılabilmesi için yeterli değildir. Bir davada bilirkişiye başvurulmasına rağmen davacı dava açarken alacak miktarını belirleyebiliyorsa, belirsiz alacak davası açılamaz.
+
+Kategorik olarak, belirli bir tür davanın veya belirli kişilerin açtığı davaların baştan belirli veya belirsiz alacak davası olduğundan da söz edilemez. Belirsiz alacak davası, bu davaya ilişkin ölçütlerin somut olaya uygulanarak belirlenmesi gerekir.
+
+Hakime alacak miktarının tayin ve tespitinde takdir yetkisi tanındığı hallerde (Örn:6098 sayılı Türk Borçlar Kanunu md 50, 51,56), hakimin kullanacağı takdir yetkisi sonucu alacak belirli hale gelebileceğinden, davacının davanın açıldığı tarih itibariyle alacağın miktarını yahut değerini tam ve kesin olarak belirleyebilmesinin imkansız olduğu kabul edilmelidir. 
+Örneğin, iş hukuku uygulamasında, Yargıtayca, fazla çalışma, hafta tatili, ulusal bayram ve genel tatil ücreti alacaklarının yazılı belgelere ve işyeri kayıtlarına dayanmayıp, tanık anlatımlarına dayanması halinde, hesaba esas alınan süre ve alacağın miktarı nazara alınarak takdir edilecek uygun oranda takdiri indirim yapılması gerekliliği kabul edilmektedir. Bu halde, tanık anlatımlarına dayanılarak hesaplanan alacak miktarından hakimin takdir yetkisine bağlı olarak yapılacak indirim oranı baştan belirli olmadığından, alacak belirsiz kabul edilmelidir.
+
+6100 sayılı Kanun ile birlikte, yukarıda belirtilen çerçevede belirsiz alacak davası açma imkanı tanınarak belirsiz alacaklar bakımından hak arama özgürlüğü genişletilmiş; bununla bağlantılı olarak da hukuki yarar bulunmadan kısmi dava açma imkanı sınırlandırılmakla birlikte tamamen kaldırılmamıştır.
+
+Zaman zaman, 6100 sayılı Kanun ile birlikte kabul edilen belirsiz alacak davası ile kısmi davaya ilişkin yeni düzenlemedeki sınırın tam olarak tespit edilemediği, birinin diğeri yerine kullanıldığı görülmektedir. Oysa bu iki davanın amacı ve niteliği ayrıdır. Alacak, belirli veya belirlenebilir ise, belirsiz alacak davası açılamaz; ancak şartları varsa kısmi dava açılması mümkündür.
+
+Kanun`un kısmi dava açma imkanını sınırlamakla birlikte tamamen ortadan kaldırmadığı da gözetildiğinde, belirli alacaklar için, belirsiz alacak davası açılamasa da, şartları oluştuğunda ve hukuki yarar bulunduğunda kısmi dava açılması mümkündür.
+
+Aksi halde, sadece ya belirsiz alacak davası açma veya belirli tam alacak davası açma şeklinde iki imkandan söz edilebilir ki, o zaman da kısmi davaya ilişkin 6100 sayılı Kanun’un 109. maddesindeki hükmün fiilen uygulanması söz konusu olamayacaktır. 
+Çünkü, belirsiz alacak davasında zaten belirsiz alacak davasının sağladığı imkanlardan yararlanarak dava açılabilecek; şayet alacak belirli ise de, o zaman sadece tam eda davası açılabilecektir. Oysa kanun koyucunun abesle iştigal etmeyeceği prensibi gereği, anılan maddeyle kısmi davaya ilişkin düzenleme yapıldığı düşünülerek ve Kanun`daki sınırlamalara dikkat edilerek kısmi dava açılabilecektir.
+
+Bu noktada şu da açıklığa kavuşturulmalıdır ki, şartları bulunmadığı halde dava dilekçesinde davanın belirsiz alacak davası olarak açıldığı durumda davacıya herhangi bir süre verilmeden hukuki yarar yokluğundan davanın reddi yoluna gidilmelidir. Çünkü, alacağın belirlenebilmesi mümkün iken, böyle bir davanın açılmasına Kanun izin vermemiştir. 
+Böyle bir durumda, belirsiz alacak davası açmakta hukuki yarar yokluğundan dava reddedilmeli, ek bir süre verilmemelidir. 
+Zira, burada talep açıktır, bu sebeple 6100 sayılı Kanun`un 119/1-ğ. maddesinin uygulanarak süre verilmesi mümkün değildir; 
+aslında açılmaması gerektiği halde belirsiz alacak davası açılmış olduğundan, bu konudaki eksiklik de süre verilerek tamamlanamayacağından, dava hukuki yarar yokluğundan reddedilmelidir.
+
+Buradaki hukuki yarar, sonradan tamamlanacak nitelikte bir hukuki yarar değildir. Çünkü, dava açıldığında o sırada mevcut olmayan hukuki yarar, bunun da açıkça mahkemece bilindiği bir durumda, tamamlanacak bir hukuki yarar değildir. Aksinin kabulü, aslında açık olan talep sonucunun süre verilerek davacı tarafından değiştirilmesi ve bulunmayan hukuki yararın sağlanması için davacıya ek imkan sağlanması anlamına gelecektir ki, buna usûl bakımından imkan yoktur, böyle bir durum taraflar arasındaki eşitlik ilkesine de aykırı olacaktır.
+
+Bunın yanında, 
+Şayet açılan davada asgari bir miktar gösterilmişse ve bunun alacağın bir bölümü olduğu anlaşılmakla birlikte, belirsiz alacak davası mı yoksa belirli alacak olmakla birlikte kısmi dava mı olduğu anlaşılamıyorsa, bu durumda 6100 sayılı Kanun`un 119/1-ğ. maddesinin aradığı şekilde açıkça talep sonucu belirtilmemiş olacaktır.
+
+Talep, talep türü ve davanın niteliği açıkça anlaşılamıyorsa, talep muğlaksa, aynı Kanun`un 119/2. maddesi gereğince, davacıya bir hafta kesin süre verilerek talebinin belirsiz alacak davası mı, yoksa kısmi dava mı olduğunun belirtilme istenmelidir. 
+Verilen bu süreden sonra, davacının talebini açıklamasına göre bir yol izlenmelidir. Eğer talep, davacı tarafından belirsiz alacak davası şeklinde açıklanmış olmakla birlikte, gerçek belirsiz alacak davası şartlarını taşımıyorsa, o zaman yukarıdaki şekilde hareket edilmeli, hukuki yarar yokluğundan dava reddedilmelidir. Açıklamadan sonra talep belirsiz alacak davası şartlarını taşıyorsa, bu davanın sonuçlarına göre, talep kısmi davanın şartlarını taşıyorsa da kısmi davanın sonuçlarına göre dava yürütülerek karar verilmelidir (Dairemizin 31.12.2012 tarih 2012/30463 esas 2012/30091 karar sayılı kararı).
+
+6100 sayılı Kanun’un 110. maddesinde düzenlenen, davacının aynı davalıya karşı birbirinden bağımsız birden fazla asli talebini aynı dava dilekçesinde ileri sürmesi olarak tanımlanan davaların yığılması (objektif dava birleşmesi) halinde, talep sayısı kadar dava bulunduğu kabul edildiğinden ve aynı Kanun`un 297/2. maddesi uyarınca da her bir talep bakımından ayrı ayrı hüküm verilmedi gerektiğinden, bu durumda da dava dilekçesinde ileri sürülen taleplerin belirsiz alacak olup, olmadığının her bir talep bakımından ayrı ayrı değerlendirilmesi gerekecektir.
+
+Tüm bu açıklamalar sonucunda şunu belirtmek gerekir ki,
+
+İş hukukundan kaynaklanan alacaklar bakımından baştan belirli veya belirsiz alacak davası şeklinde belirleme yapmak kural olarak doğru ve mümkün değildir. 
+Bu sebeple iş hukukunda da belirsiz alacak davasının açılabilmesi, bu davanın açılması için gerekli şartların varlığına bağlıdır. Eğer bu şartlar varsa, iş hukukunda da belirsiz alacak davası açılabilir, yoksa açılamaz. Keza aynı şey kısmî dava için söz konusudur.
+
+Yukarıda yapılan açıklamalar ışığında eldeki davaya konu somut olayın özellikleri dikkate alınarak belirsiz alacak davası yönünden yapılan değerlendirmede;
+
+Davanın belirsiz alacak davası olarak açıldığı şüphesizdir. Oysa yukarıda açıklandığı üzere somut olay bakımından davacının yıllık izinleri talepleri, belirsiz alacak davasının konusunu oluşturmayacağından davanın hukuki yarar yokluğundan reddine karar verilmesi gerekirken söz konusu taleplerin hüküm altına alınması hatalıdır.
+
+Sonuç:
+
+Temyiz olunan kararın yukarıda yazılı sebeplerden BOZULMASINA, peşin alınan temyiz harcının isteği halinde ilgilisine iadesine, 23.1.2018 gününde oybirliğiyle karar verildi.
+
+YARGITAY 11. HUKUK DAİRESİ 
+Esas : 2016/721 Karar : 2017/4010Tarih : 22.06.2017
+
+HMK 119. Madde
+
+Dava Dilekçesinin İçeriği
+
+Davacı vekili, … tarafından 17.01.2003 tarihinde kurulmuş olan … Yönetim Org. San. Tic. Ltd. Şti ‘den … % 40 ve kendisinin % 10 olmak üzere hisse devirlerini aldıklarını, aynı tarihte 001862 yevmiye nosu ile … ile … Yapı Ltd. Şti’nin Kat Karşılığı İnşaat ve Gayrimenkul Şirketinin Satış Vaadi sözleşmesi de imzalandıktan sonra 30.01.2008 tarihinde esas ortaklar tarafından protokolü imzaladıklarını, her ne kadar … Yapı Ltd. Şti’ndeki ortaklık hisse oranının %10 olsa da, söz konusu protokolde işletmelerdeki ortaklık payının 1/3 olarak belirlendiğini, …‘a ait mevcut arsalar üzerinde yapılması planlanan 61 adet villa dışında toplamda 6000 m2 kulanım alanlı inşaat projeleri tasdik edilip ruhsatlarının alındığını, ruhsat işlemlerinin bitirilip belediye arazisi ile ilgili kira sözleşmesi de imzalandıktan sonra 25.03.2009 tarihinde protokolün ortaklar tarafından imza altına alındığını, ortağı olduğu … Yönetim Organizasyon San. Tic. Ltd. Şti. için hazırlanan projelerin tamamının diğer iki büyük ortak tarafından … Yapı Sanayi Tic Ltd Şti. üzerinden uygulamaya konulduğunu, projedeki fikirlerin bir çoğunun tarafına ait olduğunu, ortaklarının kendine ait olan projeyi çalarak … Yapı Sanayi Tic. Ltd. Şti. üzerinden projeyi uygulama yoluna gittiklerini, kendi emeğinin bulunduğu projeyi kullandıklarını belirterek, … Yapı Sanayi Tic. Ltd. şirketinin yapmış olduğu işlemlerin … Yönetim Organizasyon San. Tic. Ltd. Şti. hesabına yapılmış sayılmasına karar verilmesini, bunun mümkün olmaması halinde, ortaklar arasında yapılan protokoller ve sözleşmeler gereği bilirkişi incelemesi yaptırılarak tespit edilecek hakkının tarafına ödettirilmesine karar verilmesini talep etmiştir.
+
+Davalı …, davacı …‘ı diğer davalı …‘ın tanıştırma ve tavsiyesiyle tanıdığını, tavsiye çerçevesinde kendisine, …‘de kendisinin yaptığı bir otel inşaatında saha çavuşu olarak iş verdiğini, ayrıca …‘de yapmayı tasarladıkları bir projeye de yapacağı hizmetler ve emeği karşılığı yüzde 10 hisse ile taltif ettiklerini, emrine araç ve lojman tahsis edildiğini, davacı …‘ın, otel inşaatında işe başladıktan kısa bir süre sonra taşeronlara sözleşme karşılığı vermesi için kendisine bir tutanakla güven içinde teslim edilen 3’ü açığa imzalı 10 adet çekten birinde tahrifatla zimmetine para geçirdiğini ve çeklerden 8’ ini de güveni kötüye kullanarak çıkar amaçlı dağıttığını, kendisine tahsis edilen 34 FK 1818 plakalı binek aracını çaldığını, ardında telafisi pahalı görev kusurları bırakarak izini kaybettirdiğini, …‘ın kayıplara karıştığı bir yılı aşkın süre içinde, kendisine noter vasıtasıyla yapılan hiçbir uyarı ve çağrıya cevap vermediği gibi, kayıp olduğu bu sürede … Cumhuriyet Savcılığı’nın ve polisin şüpheli olarak tüm aramalarına rağmen, ortaya çıkmadığını, zikredilen suçlardan şüpheli olarak … 9. Asliye Ceza Mahkemesi’nde yargılanmasının başladığını, … Projesi arazisinin …’ dan önceki sahibi, tüm fikirler ve projelerin kendisi tarafından tasarlandığını ve projeleri oğlu mimar … tarafından çizildiğini, söz konusu projeler yapıldığında davacı …‘ın henüz tanımadıkları bir kişi olduğunu, bu nedenle projeye herhangi bir dahlinin söz konusu olamayacağını, davacı tarafından öne sürülen iddia ve taleplerin tamamının kötü niyetli olduğunu savunarak, davanın reddini talep etmiştir.
+
+Davalı … Yapı Satı. ve Sti. adına yetkili …, davacının dava dilekçesinde projenin kendisine ait olduğunu ve bu projenin … Şirketi tarafından çalınarak uygulamaya konduğunu ve kullanılmış olduğunun belirtildiğini, ne ayni ne de bir şahsi hak sahibi bulunmayan ve proje üzerinde de herhangi bir telif hakkı olmadığını, huzurdaki davada mülkiyeti devir ve temlikine engel olabilecek şekilde tedbir talebinin de yasal dayanağının olmadığını belirterek davanın reddini talep etmiştir.
+
+Davalı …, davacının tarafına yöneltmiş olduğu tüm iddiaların gerçek dışı, kötü niyetli, maksatlı ve şahsına daha fazla zarar verme amaçlı beyanlar olduğunu, davanın reddini talep etmiştir.
+
+Mahkemece, davacılardan … Gıda Yön. Org. San. Tic. Ltd. Şti. yönünden sehven davacı olarak gösterildiğinden karar verilmesine yer olmadığına, davalı … yönünden, bu davalı dava açıldıktan sonra vefat etmiş, davacıya bu davalının mirasçılarını davaya dahil etmek için kesin süre verilmiş davacı vekili mirasçıları tespit edemediklerini , davacı tarafça adreslerinin bildirilmeyeceği belirtildiğinden bu davalı yönünden davanın HMK 119/2 maddesi gereği açılmamış sayılmasına, davalı … San. Tic. Ltd. Şti. Yönünden, bu şirketin 9/9/2008 tarihinde kurulduğu, şirketin tüm kurucu üye ve yetkililerinin …, … ve … olduğu, davacı ile ..Ltd Şti’ nin bu şirkette payı ve ortaklığı olmadığı, hukuki ve fiili bağı olmadığı, bu şirketin davada pasif husumet ehliyeti bulunmadığı anlaşılmakla, pasif husumet yokluğu nedeniyle davanın reddine, davalı … yönünden, dava konusu projelerin davacı tarafından yapıldığı hususunun dosya münderecatına göre ispat edilemediği, davacının proje üzerinde hak sahibi olduğu iddiasının taraflar arasında yapılan ve davacının da imzasının bulunduğu protokole göre kabul edilemeyeceği, davacı …‘ın söz konusu projeleri kendisinin geliştirdiği hususunda dayanak herhangi kanaat verici bir belgeye dayanmadığı, davanın ispatlanamadığı anlaşılmakla davanın reddine karar verilmiştir.
+
+Kararı davacı … vekili temyiz etmiştir.
+
+1-Davacı tarafça, davalı şirket tarafından uygulamaya konulan toplam 61 adet villanın projesi üzerindeki telif haklarının kendilerine ait olduğu iddiasıyla açılan davada mahkemece işin esasına girilerek karar verilmiş ise de, 5846 sayılı Yasa’nın 2/3 fıkrasında yer aldığı üzere her nevi projeler, ilim ve edebiyat eserleri arasında sayılmış olup davacı taraf projeden kaynaklanan mali haklarını ileri sürmekte olduğundan, davacı tarafın iddiayı ileri sürüş şekli itibariyle, davaya bakma görevinin 5846 sayılı Yasa’nın 76. maddesi uyarınca Fikri Sınai Haklar Hukuk Mahkemesi’ne ait olduğu, bu itibarla görevsizlik kararı verilmesi gerekirken, işin esasına girilmesi doğru görülmemiş karar bu sebeple davacı taraf yararına bozmayı gerektirmiştir.
+
+2-Bozma sebep ve şekline göre davacı vekilinin temyiz itirazlarının bu aşamada incelenmesine gerek görülmemiştir.
+
+SONUÇ: Yukarıda (1) numaralı bentte açıklanan nedenlerle hükmün resen BOZULMASINA, (2) numaralı bentte açıklanan nedenlerle davacı vekilinin temyiz itirazlarının şimdilik incelenmesine yer olmadığına, ödediği peşin temyiz harcının isteği halinde temyiz edene iadesine, 22/06/2017 tarihinde oyçokluğuyla karar verildi.
+
+(M)
+
+KARŞI OY
+
+Davacının talepleri iki ayrı protokole dayalı olup, 10/01/2012 tarihli protokolde projenin açıkca davalı …‘e ait olduğu davacı tarafından kabul edilmiştir. Proje muellifliğine dayalı bir takip söz konusu olmadığından işin esas açısından temyiz incelemesi yapılması gerekirken görevsizlik yönünde bozma yapılması görüşüne katılmıyorum.
+
+YARGITAY 12. HUKUK DAİRESİ 
+Esas : 2017/3703 Karar : 2017/9376Tarih : 15.06.2017
+
+HMK 119. Madde
+
+Dava Dilekçesinin İçeriği
+
+Borçlu … Ltd. Şti. vekili icra mahkemesine başvurusunda; borçlu şirkete 7201 sayılı Tebligat Kanunu’nun 35. maddesi gereğince yapılan satış ilanı tebliğ işleminin usulsüz olduğunu ve sair fesih iddialarını ileri sürerek ihalenin feshini talep etmiş, mahkemece, iddiaların yerinde olmadığından bahisle şikayetin reddine karar verilmiş, kararın şikayetçi borçlu tarafından temyizi üzerine Dairemizin 14.02.2017 tarih ve 2016/24526 E., 2017/1967 K. sayılı ilamı ile borçlunun vekiline yapılan satış ilanı tebliğ işleminin Tebligat Kanunu`nun 17. maddesine göre usulsüz olduğu gerekçesiyle mahkeme kararı bozulmuştur.
+
+HMK’nun 119/1-e maddesi uyarınca; şikayetçi, iddiasının dayanağı olan bütün vakıaları şikayet dilekçesinde göstermek zorundadır. Aynı Kanun`un 25. maddesi hükmüne göre de; hakim, şikayet dilekçesinde bildirilen vakıalarla bağlı olup, ileri sürülmeyen maddi olayları kendiliğinden gözetemez.
+
+Somut olayda; şikayetçi borçlunun 09.3.2016 tarihli şikayet dilekçesinde, vekiline yapılan satış ilanı tebliğ işleminin usulsüz olduğunu açıkça ileri sürmediği görülmüştür. Bu durumda, kamu düzeniyle ilgili olmayan, re`sen dikkate alınacak hususlar kapsamında da bulunmayan; borçlu vekiline yapılan satış ilanı tebliğ usulsüzlüğü nedenine dayalı olarak ihalenin feshine karar verilmesi gerektiğinden bahisle kararın bozulması yerinde olmayıp, ihalenin feshini gerektirecek başkaca bir fesih sebebi de bulunmadığından, mahkemece verilen şikayetin reddine ilişkin kararın onanmasına karar vermek gerekmiştir.
+
+SONUÇ:
+
+İhale alıcısının karar düzeltme isteminin kabulü ile ( ONANMASINA ), oybirliğiyle karar verildi.
+
+YARGITAY 20. HUKUK DAİRESİ
+Esas : 2015/17088 Karar : 2017/5289Tarih : 12.06.2017
+
+HMK 119. Madde
+
+Dava Dilekçesinin İçeriği
+
+Davacı 23.11.2011 havale tarihli dilekçesi ile davacıların murislerinin 1934 tarih ve 2510 sayılı iskan tapusuna istinaden … ilçesi … mevki Cilt 31 Sayfa 75 ve 76’da kayıtlı iki taşınmazın maliki olduklarını, murislerden …`un … Asliye Hukuk Mahkemesinin 1964/433 Esas sayılı dosyasında 1954 tarih ve 40 ve 41 sıra sayılı tapuları kapsayan taşınmazların … sayılan yerlerden olmadığı iddiasıyla dava açtığını, mahkemece davanın kabulüne karar verildiğini ancak hükmün Yargıtay 1. Hukuk Dairesince diğer murisin muvafakatının alınmadığı gereğine değinilerek bozulduğunu belirterek taşınmazların yeni ada ve parsel numaralarının tespiti ile Sarıyer Asliye Hukuk Makemesince karar verildiği üzere taşınmazların … sayılmayan yerleden olduğunun tespiti ile davacılar adına tapuya tescilini talep etmiş, mahkemece davacı vekiline dava konusu taşınmazların ada, pafta ve parsel bilgilerinin tespit edilerek bildirilmesi için süre verildiği ve davacı vekilinin verilen kesin süreye rağmen taşınmazların ada, pafta ve parsel numaralarının dosyaya sunulmadığı gerekçesiyle ispat edilmeyen davanın reddine karar verilmiş, hüküm davacılar vekili tarafından temyiz edilmiştir.
+
+Dava, … kadastrosuna itiraza ve tapu iptali ve tescil talebine ilişkindir.
+
+Çekişmeli taşınmazın bulunduğu yörede 1938 yılında 3116 sayılı Kanun gereğince … kadastrosu yapılmış, 03/03/1938 tarihinde ilan edilerek kesinleşmiştir.
+
+İncelenen dosya kapsamına, kararın dayandığı gerekçeye ve davacı vekilinin verilen kesin süre içerisinde davanın konusunu oluşturan taşınmazın tespite yarayacak ada, pafta ve parsel numaralarını bildirmemesi şeklindeki eylemin 6100 sayılı Kanunun 119/1-d maddesine aykırılık teşkil ettiğinin kabulünde bir isabetsizlik bulunmamaktadır.
+
+Bununla birlikte, dava dilekçesinin kapsamını belirleyen HMK’nun 119/1-d bendinde; “davanın konusu ve mal varlığı haklarına ilişkin davalarda, dava konusunun değerinin” dava dilekçesinde gösterilmesi zorunludur. Aynı maddenin ikinci fıkrasında ise, birinci fıkranın a, d, e, f ve g bentleri dışında kalan hususların eksik olması halinde, hakim davacıya eksikliği tamamlaması için bir haftalık kesin süre verir denilmiştir. Bu süre içinde eksikliğin tamamlanmaması halinde davanın açılmamış sayılır, amir hükmü yer almaktadır. Görüldüğü gibi, HMK`nun 119/1-d bendi süre verilmesi gereken bentler kapsamı dışında bırakılmıştır. Aynı maddenin b, c, ç, ğ ve h bentlerinde birinin ve bir kaçının eksik olması halinde, aynı maddenin 2 madde ve fıkrası uyarınca süre verilmesi hüküm altına alınmıştır.
+
+492 sayılı Harçlar Kanunun 16/3. maddesine göre; “değer tayini mümkün olan hallerde dava dilekçelerinde değer gösterilmesi mecburidir. Gösterilmemiş ise davacıya tespit ettirilir. Tespitten kaçınma halinde dava dilekçesi muameleye konmaz.” Her ne kadar anılan maddenin 3. fıkrasında dava dilekçesi muameleye konulmaz denilmekte ise de, dava dilekçesi verilmek, esas defterine kaydedilmek ve bundan ayrı harca tabi ise harcını yatırmak suretiyle muameleye konulduğu konusunda bir duraksama olmamalıdır. Yani dava dilekçesi verilip kayıt numarası alındıktan sonra işleme konulmadığından söz edilemez. Bu nedenle, bu hükmün dava dilekçesinin reddi şeklinde yorumlanması ve bu biçimde anlaşılması gerekmektedir.
+
+Mahkemece, her ne kadar davanın reddine karar verilmiş ise de, bu husus HMK’nın 370/2. maddesi uyarınca yeniden yargılamayı gerektirmediğinden hükmün 1 nolu bendinde yer alan “davanın reddine” ibaresinin hüküm fıkrasından çıkartılmasına, bunun yerine “HMK`nın 119/1 -d bendi ile 492 sayılı Harçlar Kanunun 16/3. fıkrası gereğince dava dilekçesinin reddine” ibaresinin yazılmasına ve hükmün 6100 sayılı Kanunun geçici 3. maddesi atfıyla HUMK’nın 438/7. maddesine göre düzeltilmiş bu şekliyle ONANMASINA, temyiz harcının istek halinde iadesine 12/06/2017 günü oy birliği ile karar verildi.
+
+YARGITAY 13. HUKUK DAİRESİ 
+Esas : 2016/25856 Karar : 2017/6256Tarih : 24.05.2017
+
+HMK 119. Madde
+
+Dava Dilekçesinin İçeriği
+
+Davacı, dava dışı işçi tarafından işçilik alacaklarının tahsili için açılan dava sonucu ödemek zorunda kaldıkları 21.700 TL tazminatın, hizmet sözleşmesi ile sorumlu olduklarını ileri sürdüğü davalı yüklenicilerden tahsiline karar verilmesini istemiştir.
+
+Davalılara tebliğ yapılamamıştır.
+
+Mahkemece, davacı tarafça davalılara ait tebliğe yarar adresler kesin sürede bildirilmediğinden, HMK 119/son uyarınca davanın açılmamış sayılmasına karar verilmiş, hüküm davacı vekili tarafından süresinde temyiz edilmiştir.
+
+6100 sayılı Hukuk Muhakemeleri Kanunu’nun 119. maddesinde dava dilekçesinde bulunması gereken hususlar sayılmıştır. Anılan maddenin ikinci fıkrasında ise, dava dilekçesinde bulunması gereken bu unsurlardan mahkemenin adı, dava konusu ve değeri, vakıalar, deliller ve hukuki sebepler dışında kalanlardan herhangi birinin eksik bırakılmış, yazılmamış olması durumunda hakimin davacıya eksikliğin tamamlanması için kesin süre vermesi gerektiği belirtilmiştir. Hukuk Muhakemeleri Kanununun 119. maddede verilen kesin sürenin bir haftalık süre olacağı da belirtilmiştir. Bu süre içinde eksikliğin tamamlanmaması halinde dava açılmamış sayılır(HMK.md.119/2).
+
+Davacı tarafından mahkemeye verilen dava dilekçesinde, davalılara ait adreslerin gösterilmiş olduğu, dava dilekçesinde belirtilen davalılar adresine çıkartılan dava dilekçesi ekli duruşma gününü bildirir davetiyelerin ise bila ikmal iade olunduğu anlaşılmaktadır. Mahkemece, davalıların bildirilen adresine çıkartılan dava dilekçesinin bila ikmal dönmüş olması nedeniyle bir hafta içinde davalılarn açık adresinin bildirilmesi aksi halde davanın açılmamış sayılacağı hususunu içerir ara kararın davacı tarafa 03/02/2016 da tebliğ edildiği ancak bu ihtara cevap verilmediği gerekçesiyle HMK 119/2 uyarınca davanın açılmamış sayılmasına karar verildiği görülmektedir.
+
+Her ne kadar mahkemece, HMK 119 maddesinde belirtilen dava dilekçesinde bulunması, bulunmaması halinde tamamlanması zorunlu unsurlardan olan davalının açık adresinin bildirilmemiş olduğu gerekçesi ile yazılı şekilde hüküm kurma yoluna gidilmiş ise de, anılan kanunun 119. maddesinde belirtilen husus, dava dilekçesinde davalı tarafın adresinin hiç yazılmamış, bildirilmemiş olması durumunda davacı tarafa verilecek bir haftalık kesin süre içinde bu eksikliğin tamamlanmasının istenmesi, tamamlanmaması halinde uygulanacak yaptırımın karşı tarafa ihtar edilmesidir. Aksine düşünce, gerek Tebligat Kanunun tebligata ilişkin ilgili hükümlerini (Teb.K. Md 21- 25-28) gerekse Tebligat Kanununun Uygulanmasına dair Yönetmeliğinin ilanen tebliğ ile ilgili 48 ve devamı maddelerini işlevsiz hale getirecektir.
+
+Bu itibarla, davacı tarafın dava dilekçesinde, davalıların adresini göstermiş olması bu nedenle dava dilekçesinde bulunması zorunlu unsurun dilekçede belirtilmiş olduğu göz önüne alınarak davalının tebligata yarar açık adresinin mahkemece araştırılması, davalının tespit edilen adresine tebligat yapılması ve sonucu dairesinde hüküm kurulması gerekirken yazılı şekilde hüküm tesisi doğru görülmemiş, bozmayı gerektirmiştir.
+
+SONUÇ: Yukarıda açıklanan nedenle kararın davacı yararına BOZULMASINA, HUMK’nun 440/1 maddesi uyarınca tebliğden itibaren 15 gün içerisinde karar düzeltme yolu açık olmak üzere, 24/05/2017 gününde oybirliğiyle karar verildi.
+
+YARGITAY 21. HUKUK DAİRESİ 
+Esas : 2016/15346 Karar : 2017/2332Tarih : 23.03.2017
+
+HMK 119. Madde
+
+Dava Dilekçesinin İçeriği
+
+Davacı, işverenler tarafından hizmet sürelerinin bildirilmemesi nedeniyle emekli olmadığını bildirerek çalıştığı sürelerin tespitine karar verilmesini istemiştir.
+
+Mahkeme ilamında belirtildiği şekilde, HMK’nun 119/2. maddesi gereğince davanın açılmamış sayılmasına karar vermiştir.
+
+Hükmün, davacı vekili tarafından temyiz edilmesi üzerine temyiz isteğinin süresinde olduğu anlaşıldıktan ve Tetkik Hakimi … tarafından düzenlenen raporla dosyadaki kağıtlar okunduktan sonra işin gereği düşünüldü ve aşağıdaki karar tespit edildi.
+
+Dava, hizmet tespiti istemine ilişkin olup mahkemece HMK’nun 119/2. maddesi gereğince davanın açılmamış sayılmasına karar verildiği, Hükmün Dairemizce 18/02/2016 gün ve 2015/21507 Esas, 2016/2378 Karar sayılı ilamı ile Bozulduğu, 05/07/2012 gün ve 6352 sayılı Yasa ile 5521 sayılı Yasaya eklenen geçici 2.maddesi uyarınca yapılan incelemeye ve mahkemenin direnme hükmünde dayandığı gerekçeye göre Dairemize ait anılan bozma ilamının ortadan kaldırılması gerektiği anlaşılmıştır.
+
+SONUÇ:1-Mahkemece verilen direnme hükmünün yerinde bulunduğu anlaşıldığından Dairemizin mahkemenin anılan kararının bozulmasına ilişkin 18/02/2016 gün ve 2015/21507 Esas, 2016/2378 sayılı ilamının KALDIRILMASINA,
+
+2-Dosyadaki yazılara, hükmün Dairemizce de benimsenmiş bulunan yasal ve hukuksal gerekçeleriyle dayanağı maddi delillere ve özellikle bu delillerin takdirinde bir isabetsizlik görülmemesine göre, davacı vekilinin yerinde bulunmayan bütün temyiz itirazlarının reddiyle usul ve kanuna uygun olan hükmün ONANMASINA, aşağıda yazılı temyiz harcının davacıya yükletilmesine, 23/03/2017 gününde oybirliğiyle karar verildi.
+
+YARGITAY 14. HUKUK DAİRESİ
+Esas : 2017/883 Karar : 2017/2532Tarih : 30.03.2017
+
+HMK 119. Madde
+
+Dava Dilekçesinin İçeriği
+
+Yapılan yargılamaya, toplanan delillere ve dosya içeriğine göre, mahkeme kararı ve dayandığı gerekçeler usul ve yasaya uygun bulunduğundan yerinde olmayan temyiz itirazlarının reddiyle hükmün ONANMASINA, aşağıda yazılı onama harcının temyiz edene yükletilmesine, kararın tebliğinden itibaren 15 gün içinde karar düzeltme yolu açık olmak üzere, 30.03.2017 tarihinde oyçokluğu ile karar verildi.
+
+KARŞI OY
+
+… İli, … İlçesi, … Mahallesi, 2471 Ada, 20 nolu Parselde paydaşlardan … payını 01.04.2011 tarihinde …`a satmış, davacılar … 4. Asliye Hukuk Mahkemesinde önalım hakkına dayalı tapu iptal ve tescil davası açmışlardır.
+
+Mahkemece, tensip tutanağının 14. maddesi gereğince hangi davacı için kaç pay istenildiğinin açıklanması için verilen bir haftalık sürede bir açıklama yapılmadığı gerekçesiyle davanın Hukuk Muhakemeleri Kanununun 119/1-ğ ve 119/2 maddesi gereğince davanın açılmamış sayılmasına karar verilmiştir.
+
+Davacılar bu kez … 7. Asliye Hukuk Mahkemesinde açtıkları dava ile önalım hakkı nedeniyle satışa konu payın adlarına tescilini talep etmişlerdir
+
+… İli, … İlçesi, … Mahallesi, 2471 Ada, 20 nolu Parselde paydaşlardan … payını 01.04.2011 tarihinde …`a satmış, davacılar yasada belirtilen süre içerisinde … 4.Asliye Hukuk Mahkemesinde önalım hakkına dayalı tapu iptal ve tescil davası açmışlardır. Mahkemece davanın açılmamış sayılmasına karar verildiğinden, davacılar bu kez … 7. Asliye Hukuk Mahkemesinde açtıkları dava da Türk Medeni Kanununun 733/4 maddesinde belirtilen üç aylık hak düşürücü süre nedeniyle davanın reddine karar verilmiştir.
+
+Dava veya def`i; mahkemenin yetkili veya görevli olmaması veya düzeltilebilecek bir yanlışlık yapılması ya da vaktinden önce açılmış olması nedeniyle reddedilmiş olupta, o arada zamanaşımı veya hak düşürücü süre dolmuşsa alacaklı altmış günlük ek süre içinde haklarını kullanabilir. (TBK m.158)
+
+Davacılar, … 4. Asliye Hukuk Mahkemesinin 2013/125 Esas sayılı kararın kesinleştiği 10.09.2013 tarihinden sonra altmış günlük süre içerisinde 04.11.2013 tarihinde bu davayı açtıklarından Borçlar Kanununun 158. maddesi gereğince davanın süresi içerisinde açıldığının kabul edilmesi gerekir ( HGK 17.2.1954, 1/16-18 ).
+
+Mahkemenin, davanın hak düşürücü süre nedeniyle reddine karar verilmiş olması isabetsiz olup, dairemizin bozma kararı doğrudur. Sayın çoğunluğun onama kararına katılamamaktayım.
+
+YARGITAY 23. HUKUK DAİRESİ
+Esas : 2016/1704 Karar : 2017/710Tarih : 8.03.2017
+
+HMK 119. Madde
+
+Dava Dilekçesinin İçeriği
+
+Kendisine asaleten diğer davacıya vekaleten davacı vekili, sahibi bulundukları gayrimenkulün tapu kaydındaki arsa payı karşılığı inşaat yapım ve taşınmaz satış vaadi sözleşmeleri nedeniyle varolan şerhin kaldırılmasını talep ve dava etmiştir.
+
+Davalı şirket ve Tapu Müdürlüğü vekilleri, davanın reddini talep etmişlerdir.
+
+Mahkemece davanın açılmamış sayılmasına dair verilen kararın taraflar vekillerince temyizi sonucu Dairemiz’in 12.06.2013 tarih ve 2013/2533 E., 3995 K. sayılı ilamıyla, ‘’ HMK’nın 119. maddesi uyarınca karar verilmesinin usul ve yasaya aykırı olduğu ve diğer temyiz itirazlarının şimdilik incelenmesine yer olmadığı’’ gerekçesiyle karar bozulmuştur. Mahkemece, bozma ilamına uyularak yapılan yargılama, deliller ve tüm dosya kapsamından; arsa payı karşılığı inşaat sözleşmesine ilişkin şerhin tapu kaydındaki süresinin yasal olarak beş yıl olduğu, bu süreden sonra şerhin re’sen tapu müdürlüğünce silinmesi gerektiği, diğer davalı yararına konulan şerhin taraflar arasındaki sözleşmenin feshi nedeniyle artık hukuki geçerliliğinin kalmadığı gerekçesiyle davanın kabulü ile tapu kaydındaki arsa payı karşılığı inşaat sözleşmesine ilişkin şerhin kaldırılmasına karar verilmiştir.
+
+Kararı, davalılar vekilleri temyiz etmiştir.
+
+1-Dosyadaki yazılara, kararın dayandığı delillerle gerektirici sebeplere, delillerin takdirinde bir isabetsizlik bulunmamasına göre, davalı … Gayrimenkul Yatırım Ortaklığı A.Ş. vekilinin tüm temyiz itirazlarının reddi gerekmiştir.
+
+2-Davalılardan Tapu ve Kadastro Müdürlüğü’nün temyiz itirazlarına gelince; Mahkemece, davalı … ve Kadastro Müdürlüğü yasal hasım konumunda olduğundan aleyhine yargılama giderleri ve vekalet ücretine hükmedilmemesi gerekirken mahkemece yanılgılı değerlendirme ile davalı … ve Kadastro Müdürlüğü aleyhine yargılama gideri ve vekalet ücretine hükmedilmiş olması doğru olmamış, kararın bu davalı yararına bozulması gerekmiş ise de, yapılan yanlışlığın düzeltilmesi yeniden yargılamaya gereksinim göstermediğinden, HUMK’nın 438/7. madde uyarınca kararın, aşağıda yazılı olduğu şekilde düzeltilerek onanması gerekmiştir.
+
+SONUÇ: Yukarıda (1) no’lu bentte açıklanan nedenle, davalı … Gayrimenkul Yatırım Ortaklığı A.Ş. vekilinin tüm temyiz itirazlarının reddine, (2) no’lu bentte açıklanan nedenle, davalı … ve Kadastro Müdürlüğü vekilinin temyiz itirazlarının kabulü ile kararın “HÜKÜM” bölümünün 3. satırında yer alan “….A.A.Ü.T. göre hesaplanan 1.500,00 TL vekalet ücretinin davalılardan alınarak davacılara verilmesine,” bölümünündeki ‘‘davalılar’’ kelimesinin çıkartılarak yerine “davalı şirketten” kelime grubunun eklenmesine ve yine hüküm bölümün 4. satırındaki ‘‘Davacılar tarafından yapılan toplam 68,00 TL yargılama giderinin davalılardan alınarak davacılara verilmesine’’ cümlesindeki ‘‘davalılar’’ kelimesinin çıkartılarak yerine ‘‘davalı şirketten’’ kelime grubunun eklenmesine ve hükmün düzeltilmiş bu şekliyle ONANMASINA, aşağıda yazılı onama harcının temyiz eden davalı … Gayrimenkul Yatırım Ortaklığı A.Ş.’den alınmasına, davalı … Müdürlüğü’nden alınan harcın istek halinde iadesine, 1.480,00 TL duruşma vekalet ücretinin davacıdan alınarak davalı … ve Kadastro Müdürlüğü’ne, davalı … Gayrimenkul Yatırım Ortaklığı A.Ş.’den alınarak davacıya verilmesine, kararın tebliğinden itibaren 15 gün içerisinde karar düzeltme yolu açık olmak üzere, 08.03.2017 tarihinde oybirliğiyle karar verildi.
+
+YARGITAY 8. HUKUK DAİRESİ
+Esas : 2015/10177 Karar : 2017/2755Tarih : 2.03.2017
+
+HMK 119. Madde
+
+Dava Dilekçesinin İçeriği
+
+Davacı … vekili, dava dilekçesinde belirtilen taşınmazlar nedeniyle mal rejiminin tasfiyesi ile tapu iptal-tescil, olmadığı takdirde alacak isteğinde bulunmuştr.
+
+Davalı … vekili, davanın reddini savunmuştur.
+
+Mahkemece, davacının davasının kesin sürenin sonuçlarına uymamazlık nedeni ile reddine karar verilmesi üzerine; hüküm davacı vekili tarafından temyiz edilmiştir.
+
+Mahkemece, 17.02.2014 tarihli yargılama oturumunda davacı tarafa HMK 119/1-ğ maddesi gereğince davaya konu her bir taşınmaz için ayrı ayrı; hangi taşınmazdan hangi hukuki nedene dayalı olarak (katkı payı, katılma alacağı, değer artış payı v.s) ve ne miktarda alacak talep edildiğini açıklamak üzere bir haftalık kesin süre verilmesine, açıklama yapılmadığı takdirde HMK 119/2-son cümlesi gereğince davanın açılmamış sayılmasına karar verileceğinin ihtarına, (ihtarın tutanağın tebliği ile birlikte yapılmış sayılmasına) karar verilmiş, bir sonraki 24.04.2014 tarihli yargılama oturumunda davacı tarafa yapılan tebligatın yanlış adrese gönderildiği anlaşıldığından önceki 17.02.2014 tarihli inceleme tutanağındaki 3 nolu ara kararının sonuçlarından vazgeçilmesine, davacı tarafa aynı ara kararı doğrultusunda beyanda bulunmak üzere bir haftalık kesin süre verilmesine (kesin sürenin sonuçları ihtar edildi ) karar verilmiştir. 22.04.2009 tarihinde TBMM’de kabul edilen 5892 sayılı Ulusal Bayram ve Genel Tatiller Hakkında Kanunda Değişiklik Yapılmasına Dair Kanun ile 1 Mayıs gününün resmi tatil olduğu kabul edilmiştir. Mahkemece 24.04.2014 tarihli yargılama oturumunda verilen bir haftalık kesin sürenin son günün 01.05.2014 tarihi olduğu anlaşılmaktadır. Davacı vekili tarafından uyaptan e-imzalı olarak gönderilen açıklama dilekçesinin tatil sonrası mesai günü olan 02.05.2014 tarihinde mahkeme tarafından havale edildiği anlaşıldığına göre davacı tarafından sürelere uyulmadığı ve sürenin kaçırılmasından sonra açıklama dilekçesi verildiği hususu dosya kapsamı ve yukarıda yazılı kanuna göre yerinde görülmediğinden mahkemece kesin sürenin sonuçlarına uymamazlık nedeni ile davanın reddine karar verilmesi doğru olmadığından bozmayı gerektirmiştir.
+
+SONUÇ: Davacı vekilinin temyiz itirazlarının yukarıda açıklanan nedenlerle kabulüyle hükmün 6100 sayılı HMK’nun Geçici 3. maddesi yollamasıyla 1086 sayılı HUMK’nun 428. maddesi uyarınca BOZULMASINA, taraflarca HUMK’nun 440/I maddesi gereğince Yargıtay Daire ilamının tebliğinden itibaren ilama karşı 15 gün içinde karar düzeltme isteğinde bulunulabileceğine ve peşin harcın istek halinde temyiz edene iadesine 02.03.2017 tarihinde oybirliğiyle karar verildi.
+
+YARGITAY 13. HUKUK DAİRESİ 
+Esas : 2016/28425 Karar : 2017/1470Tarih : 7.02.2017
+
+HMK 119. Madde
+
+Dava Dilekçesinin İçeriği
+
+Davacı vekili; müvekkilinin davalı donatan ile imzaladığı iş akdi ile güverte lostromosu olarak 03/06/2013 tarihinde işe başladığını, 1.600 USD maaş aldığını, görevini en iyi şekilde yerine getirmesine rağmen 25/07/2013 tarihinde iş akdinin süresinden önce haksız feshedildiğini ve müvekkilinin işine son verildiğini, müvekkilinin iş akdinin süresinden önce tek taraflı feshedilmesinden dolayı … IMO numaralı … … … Sea … … Ltd’e İzafeten Kendi Adına Asaleten İşleteni/İşvereni … … Ltd Şti aleyhine … …. …. İcra Müdürlüğünün 2013/4289 sayılı dosyası ile menkul rehninin paraya çevrilmesi yoluyla icra takibi başlatıldığını, borçlunun takip alacağına ve fer’ilerin yapmış olduğu itiraz neticesinde takibin durduğunu belirterek borca yapılan itirazın iptali ile takibin devamına talep etmiştir.
+
+Davalı davanın reddini dilemiştir.
+
+Mahkemece, davanın HMK 119/1-ğ, 2. Maddesi gereğince açılmamış sayılmasına, karar verilmiş; hüküm, davacı tarafından temyiz edilmiştir.
+
+HMK 31.madde uyarınca hakimin davayı aydınlatma ödevi olup, bu doğrultuda Hâkim, uyuşmazlığın aydınlatılmasının zorunlu kıldığı durumlarda, maddi veya hukuki açıdan belirsiz yahut çelişkili gördüğü hususlar hakkında, taraflara açıklama yaptırabilir; soru sorabilir; delil gösterilmesini isteyebilir.
+
+Eldeki davada, mahkemece; “Davacı vekiline tensip zaptı 9. Numaralı ara kararı gereğince talep edilen alacaklar ve karşılığı değerler hususunda açıklamada bulunmasına ilişkin davetiyenin 01/07/2015 tarihinde tebliğ edildiği halde HMK 119/1-ğ, 2. Maddesinde belirtilen 1 haftalık kesin süreden sonra 14/07/2015 tarihinde dilekçe sunduğu gibi dilekçesinde bu defa takip talebinde olmayan ambar temizliği alacağını eklediği ancak takip talebinde belirtilen prim, fazla çalışma ve diğer alacaklar hakkında bir açıklama da bulunmadığı anlaşıldığından, talep sonucu açık olmaması” gerekçesiyle davanın açılmamış sayılmasına karar verilmişse de, mahkemece ön inceleme duruşması yapılmamış olup, HMK 31.maddesindeki hâkimin davayı aydınlatma ödevi doğrultusunda, talep açıklanmasına ilişkin söz konusu mehilin ön inceleme aşamasında davacıya verilebileceği, süreye uyulmaması durumunda bu halde yaptırımın uygulanması gerekirken, bu sürece uyulmadan yazılı şekilde hüküm tesisi usul ve yasaya aykırı olup, bozmayı gerektirir.
+
+SONUÇ: Yukarıda açıklanan nedenlerle temyiz edilen hükmün BOZULMASINA, peşin alınan harcın istek halinde iadesine, HUMK’nun 440/III-3 maddesi uyarınca karar düzeltme yolu kapalı olmak üzere, 07/02/2017 gününde oybirliğiyle karar verildi.
+
+YARGITAY 22. HUKUK DAİRESİ
+Esas : 2017/760 Karar : 2017/684Tarih : 23.01.2017
+
+HMK 119. Madde
+
+Dava Dilekçesinin İçeriği
+
+Davacı İsteminin Özeti:
+
+Davacı vekili, müvekkilinin davalı … tesislerinde yine Perenco’ya bağlı olan… ile 31.08.2015 tarihleri arasında hizmet verdiğini, 31.08.2015 tarihinde müvekkilinin iş yerinin kapatıldığı gerekçesiyle işten çıkarıldığını, Perenco’nun kendisine bağlı olarak çalışan işçilerin tazminatlarından kurtulmak amaçlı kendi sosyal tesislerinde çalışan işçileri bir başka taşeron firma altında göstererek muvazaa işlemi yapıldığını ileri sürerek feshin geçersizliğini, davacının eski işine iadesini ve işe iade kararına kadar geçeçek süre için dört aylık süreye ilişkin ücret ve diğer haklarının ve işe iade kararına davalılar tarafından uyulmaması halinde sekiz aya kadar ücreti tutarında tazminatın ödenmesini talep etmiştir.
+
+Davalı Cevabının Özeti:
+
+Davalı … vekili, dava dilekçesinin Hukuk Muhakemeleri Kanunu’nun 119. maddesine uygun olmadığını, davacının iş güvencesi kapsamında olmadığını, davacının akçalı haklarını ve hak ettiği tazminatlarını eksiksiz olarak aldığını, muvazaa iddiasının gerçek dışı olduğunu ileri sürerek davanın öncelikle dava şartı yokluğu nedeniyle usulden reddini, mümkün olmadığı takdirde takdirde esastan reddini talep etmiştir.
+
+Davalı … Ltd. Şti. vekili, müvekkili şirketin diğer davalı şirkete bağlı bir şirket olmadığını, muvazaalı anlaşma yapıldığı yönündeki iddiaların gerçek dışı olduğunu, müvekkili şirketin ticari faaliyetlerinin son bulduğunu, iş sözleşmesinin feshinin sebebinin diğer davalı şirket ile olan hizmet sözleşmesinin sonlandırılması olduğunu ileri sürerek davanın öncelikle dava şartı yokluğu nedeniyle usulden reddini, usulden reddedilmediği takdirde esastan reddini talep etmiştir.
+
+Mahkeme Kararının Özeti:
+
+Mahkemece, davalının ibraz etmiş olduğu belgeler ve … kayıtlarına göre davalı … Ltd. Şti. bünyesinde çalışan işçi sayısının 30’dan az olması nedeniyle davacının davalıya karşı işe iade davası açamayacağı gerekçesi ile davanın reddine karar verilmiştir.
+
+Temyiz:
+
+Kararı davacı vekili temyiz etmiştir.
+
+Gerekçe:
+
+Taraflar arasındaki uyuşmazlık, davacının iş sözleşmesinin haklı ve geçerli sebeple feshedilip edilmediği ile davalılar arasındaki hukuki ilişkinin asıl işveren-alt işveren ilişkisi olup olmadığı, muvazaaya dayanıp dayanmadığı noktasındadır.
+
+4857 sayılı İş Kanunu’nun 18. maddesine göre otuz veya daha fazla işçi çalıştıran işyerlerinde en az altı aylık kıdemi olan işçinin belirsiz süreli iş sözleşmesini fesheden işveren, işçinin yeterliliğinden veya davranışlarından ya da işletmenin, işyerinin veya işin gereklerinden kaynaklanan geçerli bir sebebe dayanmak zorundadır. 4857 sayılı Kanun’un 19. maddesi uyarınca aynı Kanun’un 18. maddesi kapsamında kalan işçinin iş sözleşmesinin geçerli sebeple feshetmek isteyen işveren, fesih bildirimini yazılı olarak yapmak ve fesih sebebini açık ve kesin bir şekilde belirtmek zorundadır.
+
+Yazılı fesih bildiriminin de, fesih sebebini açık ve kesin bir şekilde içermesi zorunludur. Yazılı şekil şartına uymamak ve yazılı fesih bildiriminde, fesih sebebinin açık ve kesin olarak gösterilmemesi, 4857 sayılı Kanun’un 20. maddesi anlamında feshin geçersizliği sonucunu doğurur.
+
+Yine aynı Kanun’un 20. maddesinin ikinci fıkrasına göre feshin geçerli sebebe dayandığını ispat yükümlülüğü işverene aittir. İşçi, feshin başka bir sebebe dayandığını iddia ettiği takdirde, bu iddiasını ispatla yükümlüdür.
+
+4857 sayılı İş Kanunu’nun 2. maddesinin altıncı fıkrasında ise asıl işveren-alt işveren ilişkisi; “bir işverenden, işyerinde yürüttüğü mal veya hizmet üretimine ilişkin yardımcı işlerinde veya asıl işin bir bölümünde işletmenin ve işin gereği ile teknolojik nedenlerle uzmanlık gerektiren işlerde iş alan ve bu iş için görevlendirdiği işçilerini sadece bu işyerinde aldığı işte çalıştıran diğer işveren ile iş aldığı işveren arasında kurulan ilişki” olarak tanımlanmış; aynı maddenin yedinci fıkrasında “Asıl işverenin işçilerinin alt işveren tarafından işe alınarak çalıştırılmaya devam ettirilmesi suretiyle hakları kısıtlanamaz veya daha önce o işyerinde çalıştırılan kimse ile alt işveren ilişkisi kurulamaz. Aksi halde ve genel olarak asıl işveren alt işveren ilişkisinin muvazaalı işleme dayandığı kabul edilerek alt işverenin işçileri başlangıçtan itibaren asıl işverenin işçisi sayılarak işlem görürler. İşletmenin ve işin gereği ile teknolojik nedenlerle uzmanlık gerektiren işler dışında asıl iş bölünerek alt işverenlere verilemez” kuralına yer verilmiştir.
+
+Asıl işveren-alt işveren ilişkisinin geçerli olarak kurulabilmesi için iki işverenin bulunması, mal veya hizmet üretimine ilişkin bir işin varlığı ve asıl işin bölünerek alt işverene verilmesi halinde “işletmenin ve işin gereği ile teknolojik nedenlerle uzmanlık gerektirme” unsurunun gerçekleşmiş olması gerekir. Bundan başka asıl işverenin işçilerinin alt işveren tarafından işe alınarak çalıştırılmaya devam ettirilmesi suretiyle haklarının kısıtlanması veya daha önce asıl işveren tarafından o iş yerinde çalıştırılan kimse ile alt işveren ilişkisi kurulması gibi muvazaa kriterlerinin bulunmaması icap eder. Aksi halde alt işveren işçisi başlangıçtan itibaren asıl işverenin işçisi sayılarak işlem görecektir.
+
+İşverenler arasında muvazaalı biçimde asıl işveren alt işveren ilişkisi kurulmasının önüne geçilmek istenmiş ve 4857 sayılı Kanun’un 2. maddesinde bu konuda bazı muvazaa kriterlerine yer verilmiştir.
+
+Muvazaa Borçlar Kanun’da düzenlenmiş olup, tarafların üçüncü kişileri aldatmak amacıyla ve kendi gerçek iradelerine uymayan ve aralarında hüküm ve sonuç meydana getirmesini arzu etmedikleri görünüşte bir anlaşma olarak tanımlanabilir. Üçüncü kişileri aldatmak kastı vardır ve sözleşmedeki gerçek amaç gizlenmektedir. Muvazaanın ispatı genel ispat kurallarına tabidir. Bundan başka 4857 sayılı Kanun’un 2. maddesinin 7. fıkrasında sözü edilen hususların adi kanuni karine olduğu ve aksinin ispatlanmasının mümkün olduğu kabul edilmelidir.
+
+Somut olayda, dosyaya celbedilen … kayıtlarına göre son işvereni … olmakla birlikte davacının 2008 yılı öncesinde davalı …. … şirketinde çalıştığı görülmektedir. Bu sebeple, davacının iddiaları doğrultusunda davalı olan her iki şirket arasındaki hukuki ilişkinin tespiti için tüm sicil dosyaları ve davalı şirketler arasındaki tüm ihale sözleşmeleri celbedilerek taraf tanıkları da dinlenilmek suretiyle davalı …. Turkse Perenco ile diğer davalı … Ltd. Şti. arasındaki hukuki ilişkin ne olduğu, muvazaa ya da asıl işveren-alt işveren ilişkisi bulunup bulunmadığı tespit edildikten sonra karar verilmesi gerekirken bu hususların gözetilmemesi bozmayı gerektirmiştir.
+
+SONUÇ : Temyiz olunan kararın yukarıda yazılı sebeplerden BOZULMASINA, peşin alınan temyiz harcının istek halinde ilgiliye iadesine, 23.01.2017 tarihinde oybirliğiyle kesin olarak karar verildi.
+
+YARGITAY 14. HUKUK DAİRESİ
+Esas : 2015/7295 Karar : 2017/277Tarih : 16.01.2017
+
+HMK 119. Madde
+
+Dava Dilekçesinin İçeriği
+
+Dava, önalım hakkına dayalı tapu iptali ve tescil istemine ilişkindir.
+
+Mahkemece, davacı vekili tarafından kesin süre içinde bildirilen adreste, davalı Temuçin Kalkan’ın taşındığından bahisle tebligat evrakının iade edilmesi nedeniyle davanın açılmamış sayılmasına karar verilmiştir.
+
+Hükmü, davacı vekili temyiz etmiştir.
+
+7201 Tebligat Kanununda 6099 sayılı Kanun ile yapılan ve 19.01.2011 tarihinde yürürlüğe giren değişiklik uyarınca; “Tebligat, tebliğ yapılacak şahsa bilinen en son adresinde yapılır. Şu kadar ki; kendisine tebliğ yapılacak şahsın müracaatı veya kabulü şartıyla her yerde tebligat yapılması caizdir. Bilinen en son adresin tebligata elverişli olmadığının anlaşılması veya tebligat yapılamaması halinde, muhatabın adres kayıt sisteminde bulunan yerleşim yeri adresi, bilinen en son adresi olarak kabul edilir ve tebligat buraya yapılır.” (m. 10)
+
+Tebligat Kanununun değişik 21/2. maddesi gereğince; “Gösterilen adres muhatabın adres kayıt sistemindeki adresi olup, muhatap o adreste hiç oturmamış veya o adresten sürekli olarak ayrılmış olsa dahi, tebliğ memuru tebliğ olunacak evrakı, o yerin muhtar veya ihtiyar heyeti azasından birine veyahut zabıta amir veya memurlarına imza karşılığında teslim eder ve tesellüm edenin adresini ihtiva eden ihbarnameyi gösterilen adresteki binanın kapısına yapıştırır. İhbarnamenin kapıya yapıştırıldığı tarih, tebliğ tarihi sayılır.”
+
+Aynı Kanunun 35. maddesi gereğince; “Kendisine veya adresine kanunun gösterdiği usullere göre tebliğ yapılmış olan kimse, adresini değiştirirse, yenisini hemen tebliği yaptırmış olan kaza merciine bildirmeye mecburdur. Bu takdirde bundan sonraki tebliğler bildirilen yeni adrese yapılır.” (m. 35/1)
+
+“Adresini değiştiren kimse yenisini bildirmediği ve adres kayıt sisteminde yerleşim yeri adresi de tespit edilemediği takdirde, tebliğ olunacak evrakın bir nüshası eski adrese ait binanın kapısına asılır ve asılma tarihi tebliğ tarihi sayılır.” (m. 35/2)
+
+“Daha önce tebligat yapılmamış olsa bile, tüzel kişiler bakımından resmi kayıtlardaki adresleri esas alınır ve bu madde hükümleri uygulanır.” (m. 35/4)
+
+Tebligatın nasıl ve kimlere yapılacağı, adresi meçhul olanlara nasıl tebligat yapılacağı, adres araştırması ve tespiti yöntemi 7201 sayılı Tebligat Kanununda gösterilmiş, 5490 sayılı Nüfus Hizmetleri Kanununun 48 ve devamı maddelerinde de adres bilgilerinin tutulması, güncellenmesi ve kullanılması ile ilgili hükümlere yer verilmiştir. Mahkemece, 7201 sayılı Tebligat Kanununun 10. ve 35. maddelerindeki düzenlemeler gözetilerek öncelikle davalıların adres kayıt sistemine yazılı adresleri araştırılarak buradaki adreslerine tebligat yapılması sağlanmalıdır. Adres kayıt sisteminde adresleri bulunmadığı takdirde, adres araştırması yapılarak adres tespiti yoluna gidilmeli ve tespit edilecek adreslerine tebligat yapılmalıdır. Tüm bu araştırmalar ile de bir sonuca varılamadığı takdirde anılan davalılara ilanen tebligat yapılmak suretiyle taraf teşkili sağlanıp işin esası hakkında bir karar verilmesi gerekir.
+
+Hukuk Muhakemeleri Kanunu`nun 94. maddesi uyarınca, kesin süreye ilişkin ara kararının hiçbir duraksamaya yer vermeyecek biçimde açık olması, taraflara yüklenen yükümlülüklerin, yapılması gereken işlemin neler olduğunun ve her iş için yatırılacak ücretin hiçbir şüpheye yer vermeyecek şekilde açıklanması gerekir. Geciken adaletin adaletsizlik olduğu düşünülerek, davaların uzamasını veya uzatılmak istenmesini engellemek üzere getirilen kesin süre kuralı, kanunun amacına uygun olarak kullanılmalı, davanın reddi için bir araç sayılmamalıdır.
+
+Somut olayda mahkemece, davalı Temuçin Kalkan’a çıkartılan tebligatın, adres bırakmadan taşındığından bahisle iade edilmesi üzerine davacı vekiline davalının adresini bildirmesi için bir haftalık kesin süre verilmiş, kesin süre içinde bildirilen adreste davalı Temuçin Kalkan’a çıkartılan tebligatın, davalının adres bırakmadan taşındığından bahisle iade edildiği anlaşıldığından Hukuk Muhakemeleri Kanunu`nun 119/2. maddesi gereğince davanın açılmamış sayılmasına karar verilmiştir.
+
+Dosya incelendiğinde, davacı vekilinin bildirdiği adreste davalı Temuçin Kalkan’ın adres bırakmadan taşındığından bahisle iade edildiği, mahkemece verilen kesin süre içerisinde davacı vekilinin belirtilen hususları yerine getirmediği gerekçesiyle davanın reddine karar verilmesi doğru görülmemiştir.
+
+Davacı tarafından HMK 119/b maddesindeki noksanlıkların yerine getirildiği anlaşıldığından mahkemece, taraf teşkiline ilişkin başkaca noksanlıklar giderilerek taraf teşkili tamamlandıktan sonra davanın esasına girilerek bir karar verilmesi gerekirken yazılı şekilde hüküm kurulması doğru görülmemiş, bu nedenle kararın bozulması gerekmiştir.
+
+SONUÇ: Yukarıda açıklanan nedenlerle davacı vekillerinin temyiz itirazlarının kabulü ile hükmün BOZULMASINA, bozma kararının niteliğine göre sair hususların incelenmesine şimdilik yer olmadığına, peşin yatırılan harcın istek halinde yatırana iadesine, kararın tebliğinden itibaren 15 gün içinde karar düzeltme yolu açık olmak üzere,
+
+16.01.2017 tarihinde oybirliği ile karar verildi.
+
+YARGITAY 9. HUKUK DAİRESİ 
+Esas : 2015/35475 Karar : 2016/18794Tarih : 31.10.2016
+
+HMK 119. Madde
+
+Dava Dilekçesinin İçeriği
+
+A) Davacı İsteminin Özeti:
+
+Davacı vekili, davacının alt işveren-üst işveren hukuki ilişkisi çerçevesinde davalı şirketler nezdinde 08/07/2007 tarihinden itibaren temizlik şefi olarak çalışmaya başladığını, davacı hakkında “şirket bilgilerine izinsiz erişim, çalışanların ve kendisinin ücret bilgilerini diğer kişilerle izinsiz paylaşma” ile ilgili tutanak tutulduğu, yaptığı savunma yetersiz görülerek iş akdinin 05/05/2015 tarihinde 4857 sayılı İş Kanunu` nun 25/II-e maddesine istinaden alt işveren …. tarafından haksız ve tazminatsız olarak feshedildiğini, davacının iş akdinin haksız şekilde feshedildiğini, feshin geçerli olmadığını iddia ederek feshin geçersizliğine, davacının işe iadesine, kararın kesinleşmesine kadar çalıştırılmayan süre nedeniyle 4 aylık ücret tutarının ve feshin geçersizliği ile işe iadeye karar verilip de başvuruya rağmen işverence süresi içinde davacının işe başlatılmaması halinde 8 aylık ücret tutarında tazminatın ödenmesi gerektiğinin tespitine karar verilmesini talep etmiştir.
+
+B) Davalı Cevabının Özeti:
+
+Davalı …. vekili cevap dilekçesinde; Davacının izinsiz olarak, şirket yetkilisinin olmadığı bir zamanda veri araştırması yaptığını, bu veri araştırması sonucunda öğrenmiş olduğu maaş bilgilerini 3. kişilerle paylaştığını, dava dilekçesinde bu durumun kısmen kabul edildiğini, bu durumun işyerinin prensiplerine ve davacının imzalamış olduğu iş sözleşmelerine aykırı olduğunu, belirli süreli iş sözleşmesinin 10. Maddesinde “işyeri çalışma ve prensiplerine uyma ve şirket gizli bilgilerine ulaşmama, bunları 3. kişilerle paylaşmama “ yükümlülüklerine aykırı davrandığını, savunmasının alındığını, davacı geçerli bir sebep gösteremediği için iş akdinin haklı nedenle sonlandırıldığını, savunarak davanın reddini talep etmiştir.
+
+Davalı …. vekili cevap dilekçesinde; davanın belirsiz alacak davası olarak açılmaması gerektiğini, talep sonucunun dava dilekçesinde HMK nun 119/1-ğ maddesine göre açıkça bildirmesi, yani somutlaştırılması gerektiğini, davacının iş akdinin …. tarafından feshedildiğini, fesih ile ilgilerinin olmadığını, zira iş akdinin feshi konusunda da bir talimat vermediklerini iş akdinin feshinden sorumlu tutulmalarının haksız ve hukuki dayanaktan yoksun olduğunu, davacı ile davalı … şirketi arasında hizmet sözleşmesinin imzalanmış olduğunu, dolayısıyla kendilerinin işçilerin işe alım-çıkarılması konusunda herhangi bir yetkilerinin olmadığını, savunarak kendileri aleyhine ikame olunan davanın reddine karar verilmesini talep etmiştir.
+
+C) Yerel Mahkeme Kararının Özeti:
+
+Mahkemece, davalı işveren tarafından yapılan feshin geçerli olmadığı gerekçesi ile davanın kabulü ile feshin geçersizliğine, davacının işe iadesine karar verilmiştir.
+
+D) Temyiz:
+
+Kararı davalılar yasal süresi içinde temyiz etmiştir.
+
+E) Gerekçe:
+
+Mahkemenin davalı işverenlik tarafından yapılan feshin geçerli olmadığına dair tespiti isabetlidir ancak iki davalı olmasına rağmen gerekçeli kararda davalılar arasındaki hukuki ilişkinin niteliği değerlendirilmeden ve kurulan hükümde sorumlulukları açık şekilde tayin edilmeden sonuca gidilmiştir. Davalılara ait iş yeri kayıtları ve ücret bordrolarının incelenmesinden; davalılar arasında asıl – alt işveren ilişkisi kurulduğu ve davacının alt işveren olan davalı ….’deki işine iadesine ve işe başlatmamanın mali sonuçlarından her iki davalının müşterek ve müteselsilen sorumlu tutulmalarının gerektiği anlaşılmış olup, mahkemenin hatalı kararının bu nedenle bozulması gerekmiştir.
+
+4857 sayılı İş Yasasının 20/3 maddesi uyarınca Dairemizce aşağıdaki şekilde karar verilmiştir.
+
+HÜKÜM:
+
+Yukarda açıklanan gerekçe ile;
+
+Mahkemenin kararının BOZULARAK ORTADAN KALDIRILMASINA,
+
+Davacının iş sözleşmesinin feshinin GEÇERSİZLİĞİNE ve davacının ….’deki İŞİNE İADESİNE,
+
+Davacının yasal süre içerisinde başvurusuna rağmen işverence süresi içinde işe başlatılmaması halinde, ödenmesi gereken tazminat miktarının davacının kıdemi, fesih nedeni dikkate alınarak, davalıların müştereken ve müteselsilen sorumlu olmaları kaydıyla takdiren 5 aylık ücreti tutarı olarak belirlenmesine,
+
+Davacının işe iadesi için süresi içinde işverene başvurması halinde, kararın kesinleşmesine kadar en çok 4 aylık ücret ve diğer haklarının davalılardan müşterek ve müteselsilen alınarak, davacıya ödenmesi gerektiğinin tespitine,
+
+Harç peşin alındığından yeniden alınmasına yer olmadığına,
+
+Davacının yapmış olduğu 291.50 TL yargılama giderinin davalılardan müştereken ve müteselsilen tahsili ile davacıya verilmesine, davalının yaptığı yargılama giderinin üzerinde bırakılmasına,
+
+Karar tarihinde yürürlükte bulunan tarifeye göre belirlenen 1.800 TL ücreti vekaletin davalılardan müştereken ve müteselsilen alınarak davacıya verilmesine,
+
+Peşin alınan temyiz harcının isteği halinde ilgilisine iadesine,
+
+Kesin olarak oybirliği ile 31.10.2016 tarihinde karar verildi.
+
+YARGITAY 11. HUKUK DAİRESİ 
+Esas : 2015/15101 Karar : 2016/6895Tarih : 22.06.2016
+
+HMK 119. Madde
+
+Dava Dilekçesinin İçeriği
+
+Davacı vekili, müvekkili firma tarafından davalı firmaya ait … ve … markalı ürünlerinin Türkiye’de üçüncü kişilere satışının yapıldığını, …‘in kendi şirketini kurarak Türkiye’deki satış faaliyetlerini bu firma üzerinden yapmayı planladığı gerekçesiyle taraflar arasındaki ticari tek satıcılık sözleşmesinin feshedildiğinin bildirildiğini, ihtarname ile yapılan bildirime müvekkili tarafından ihtarname ile cevap verildiğini, davalı firma tarafından tek satıcılık sözleşmesi feshedilmeden, müvekkili firmanın dava dışı bir firmadan … ve … markalı ürünleri satın almak zorunda kaldığını ve bu nedenle müvekkili firmanın 300.000 TL maddi zarara uğradığını, bu zararın tazmin edilmesi gerektiğini, yine haksız fesih nedeniyle müvekkili firmanın uzun yıllar davalı firmaya … ve … markalarının tanıtımı ve bu surette müşteri portföyü yaratmış olması sebebiyle müşteri tazminatı çerçevesinde 300.000,00 TL tazminatın davalı tarafından ödenmesi gerektiğini, yine belirsiz süreli tek satıcılık sözleşmesinin haksız surette feshi nedeniyle 200.000,00 TL kazanç kaybının davalı firma tarafından tazmini gerektiğini, yine tek satıcılık sözleşmesi devam edeceğinden bahisle alınan işçilerin iş sözleşmelerinin feshedilmesi, daha büyük bir depo ve ofise taşınmak amaçlı kira sözleşmeleri yapılması, muhasebe yazılım programı alınması ve kiralanan ofis için boya ve tamirat işleri yaptırılması, işçilerin iş sözleşmelerinin feshedilmesi sebebiyle ödenen kıdem ve ihbar tazminatları sebebiyle oluşan maddi zararın 6100 sayılı HMK’nın 107. maddesi uyarınca bilirkişiler marifetiyle tespit edilerek 40.000,00 TL`nin 07.09.2012 tarihinden itibaren işleyecek ticari faizi ile birlikte davalıdan tahsiline karar verilmesini talep ve dava etmiştir.
+
+Davalı vekili, davanın reddini istemiştir.
+
+Mahkemece, iddia, savunma, bilirkişi raporu ve tüm dosya kapsamına göre; taraflar arasında hukuken geçerli bir acentecilik (tek satıcılık) sözleşmesinin bulunmadığı gerekçesiyle, davanın reddine karar verilmiştir.
+
+Karar, davacı vekili tarafından temyiz edilmiştir.
+
+01.10.2011 tarihinde yürürlüğe giren 6100 sayılı Hukuk Muhakemeleri Kanunu’nun (HMK) 107. maddesiyle, mülga 1086 sayılı Hukuk Usulü Muhakemeleri Kanunu`nda yer almayan yeni bir dava türü olarak belirsiz alacak ve tespit davası kabul edilmiştir. 6100 sayılı HMK’nın 107. maddesi;
+
+1-Davanın açıldığı tarihte alacağın miktarını yahut değerini tam ve kesin olarak belirleyebilmesinin kendisinden beklenemeyeceği veya bunun imkânsız olduğu hâllerde, alacaklı, hukuki ilişkiyi ve asgari bir miktar ya da değeri belirtmek suretiyle belirsiz alacak davası açabilir.
+
+2- Karşı tarafın verdiği bilgi veya tahkikat sonucu alacağın miktarı veya değerinin tam ve kesin olarak belirlenebilmesinin mümkün olduğu anda davacı, iddianın genişletilmesi yasağına tabi olmaksızın davanın başında belirtmiş olduğu talebini artırabilir. 3-Ayrıca, kısmi eda davasının açılabildiği hâllerde, tespit davası da açılabilir ve bu durumda hukuki yararın var olduğu kabul edilir.” hükmünü içermektedir.
+
+Davanın belirsiz alacak davası türünde açılabilmesi için, davanın açıldığı tarih itibariyle uyuşmazlığa konu alacağın miktar veya değerinin tam ve kesin olarak davacı tarafça belirlenememesi gereklidir. Belirleyememe hali, davacının gerekli dikkat ve özeni göstermesine rağmen miktar veya değerin belirlenmesinin kendisinden gerçekten beklenilmemesi durumuna ya da objektif olarak imkansızlığa dayanmalıdır.
+
+Madde gerekçesinde “Alacaklının bu tür bir dava açması için, dava açacağı miktar ya da değeri tam ve kesin olarak gerçekten belirlemesi mümkün olmamalı ya da bu objektif olarak imkânsız olmalıdır. Açılacak davanın miktarı biliniyor yahut tespit edilebiliyorsa, böyle bir dava açılamaz. Çünkü her davada arandığı gibi, burada da hukukî yarar aranacaktır, böyle bir durumda hukukî yararın bulunduğundan söz edilemez. Özellikle, kısmî davaya ilişkin yeni hükümler de dikkate alınıp birlikte değerlendirildiğinde, baştan tespiti mümkün olan hâllerde bu yola başvurulması kabul edilemez.” şeklindeki açıklamayla, alacağın belirli veya belirlenebilir nitelikte olması durumunda, belirsiz alacak davası açılarak bu davanın sağladığı imkanlardan yararlanmanın mümkün olmadığına işaret edilmiştir.
+
+Alacağın hangi hallerde belirsiz, hangi hallerde belirli veya belirlenebilir olduğu hususunda kesin bir sınıflandırma yapılması mümkün olmayıp, her bir davaya konu alacak bakımından, somut olayın özelliklerinin nazara alınarak sonuca gidilmesi gereklidir. 6100 sayılı HMK’nın 107/2. maddesinde, sorunun çözümünde yol gösterici mahiyette kriterlere yer verilmiştir. Anılan madde fıkrasında, karşı tarafın verdiği bilgi veya tahkikat sonucu alacağın miktarı veya değerinin tam ve kesin olarak belirlenebilmesinin mümkün olduğu anda davacının, iddianın genişletilmesi yasağına tâbi olmaksızın davanın başında belirtmiş olduğu talebini artırabileceği hüküm altına alınmış, madde gerekçesinde de “karşı tarafın verdiği bilgiler ve sunduğu delillerle ya da delillerin incelenmesi ve tahkikat işlemleri sonucu (örneği bilirkişi ya da keşif incelemesi sonucu)” belirlenebilme hali açıklanmıştır.
+
+Davacının alacağının miktar veya değerini belirleyebilmesi için elinde bulunması gerekli bilgi ve belgelere sahip olmaması ve bu belgelere dava açma hazırlığı döneminde ulaşmasının da (gerçekten) mümkün olmaması ve dolayısıyla alacağın miktarının belirlenmesinin karşı tarafın elinde bulunan bilgi ve belgelerin sunulmasıyla mümkün hale geleceği durumlarda alacak belirsiz kabul edilmelidir.
+
+Alacağın miktarının belirlenebilmesinin, tahkikat aşamasında yapılacak delillerin incelenmesi, bilirkişi incelemesi veya keşif gibi sair işlemlerin yapılmasına bağlı olduğu durumlarda da belirsiz alacak davası açılabileceği kabul edilmelidir. Ne var ki, bir davada bilirkişi incelemesine gidilmesi belirsiz alacak davasının açılabilmesi için yeterli değildir. Bir davada bilirkişiye başvurulmasına rağmen, davacı, dava açarken alacak miktarını belirleyebiliyorsa, belirsiz alacak davası açılamaz.
+
+Kategorik olarak, belirli bir tür davanın veya belirli kişilerin açtığı davaların baştan belirli veya belirsiz alacak davası olduğundan da söz edilemez. Belirsiz alacak davası, bu davaya ilişkin ölçütlerin somut olaya uygulanarak belirlenmesi gerekir. Hakime alacak miktarının tayin ve tespitinde takdir yetkisi tanındığı hallerde (Örn: 6098 sayılı TBK m. 50, 51, 56), hakimin kullanacağı takdir yetkisi sonucu alacak belirli hale gelebileceğinden, davacının davanın açıldığı tarih itibariyle alacağın miktarını yahut değerini tam ve kesin olarak belirleyebilmesinin imkansız olduğu kabul edilmelidir.
+
+6100 sayılı HMK ile birlikte, belirsiz alacak davası açma imkanı tanınmak suretiyle belirsiz alacaklar bakımından hak arama özgürlüğü genişletilmiş; bununla bağlantılı olarak da hukuki yarar bulunmadan kısmi dava açma imkanı da sınırlandırılmıştır. Zaman zaman, 6100 sayılı HMK ile birlikte kabul edilen belirsiz alacak davası ile kısmi davaya ilişkin yeni düzenlemedeki sınırın tam olarak tespit edilemediği, birinin diğeri yerine kullanıldığı görülmektedir. Oysa, bu iki davanın amacı ve niteliği ayrıdır. Alacak, belirli veya belirlenebilir ise, belirsiz alacak davası açılamaz; ancak şartları varsa kısmi dava açılması mümkündür. Kanunun, kısmi dava açma imkanını sınırlamakla birlikte tamamen ortadan kaldırmadığı da gözetildiğinde, belirli alacaklar için, belirsiz alacak davası açılamasa da, şartları oluştuğunda ve hukuki yarar bulunduğunda kısmi dava açılması mümkündür. Aksi halde, sadece ya belirsiz alacak davası açma veya belirli tam alacak davası açma şeklinde iki imkandan söz edilebilir ki, o zaman da kısmi davaya ilişkin 6100 sayılı Kanunun 109. maddesindeki hükmün fiilen uygulanması söz konusu olamayacaktır. Çünkü belirsiz alacak davası, zaten belirsiz alacak davasının sağladığı imkanlardan yararlanarak açılabilecek; şayet alacak belirli ise de, o zaman sadece tam eda davası açılabilecektir.
+
+Bu noktada şu da açıklığa kavuşturulmalıdır ki, şartları bulunmadığı halde dava dilekçesinde davanın belirsiz alacak davası olarak açıldığı durumda davacıya herhangi bir süre verilmeden hukuki yarar yokluğundan davanın reddi yoluna gidilmelidir. Çünkü, alacağın belirlenebilmesi mümkün iken, böyle bir davanın açılmasına Kanun izin vermemiştir. Böyle bir durumda, belirsiz alacak davası açmakta hukuki yarar yokluğundan dava reddedilmeli, ek bir süre verilmemelidir. Zira, burada talep açıktır, bu sebeple 6100 sayılı Kanun’un 119/1-ğ maddesinin uygulanarak süre verilmesi mümkün değildir; aslında açılmaması gerektiği halde belirsiz alacak davası açılmış olduğundan, bu konudaki eksiklik de süre verilerek tamamlanamayacağından, dava hukuki yarar yokluğundan reddedilmelidir. Buradaki hukuki yarar, sonradan tamamlanacak nitelikte bir hukuki yarar değildir. Çünkü dava açıldığında o sırada mevcut olmayan hukuki yarar, bunun da açıkça mahkemece bilindiği bir durumda, tamamlanacak bir hukuki yarar değildir. Aksinin kabulü, aslında açık olan talep sonucunun süre verilerek davacı tarafından değiştirilmesi ve bulunmayan hukuki yararın sağlanması için davacıya ek imkan sağlanması anlamına gelecektir ki, buna usûl bakımından imkan yoktur, böyle bir durum taraflar arasındaki eşitlik ilkesine de aykırı olacaktır. Bunun yanında, şayet açılan davada asgari bir miktar gösterilmişse ve bunun alacağın bir bölümü olduğu anlaşılmakla birlikte, belirsiz alacak davası mı yoksa belirli alacak olmakla birlikte kısmi dava mı olduğu anlaşılamıyorsa, bu durumda 6100 sayılı Kanun’un 119/1-ğ maddesinin aradığı şekilde açıkça talep sonucu belirtilmemiş olacaktır. Talep, talep türü ve davanın niteliği açıkça anlaşılamıyorsa, talep muğlaksa, aynı Kanun`un 119/2. maddesi gereğince, davacıya bir haftalık kesin süre verilerek talebinin belirsiz alacak davası mı, yoksa kısmi dava mı olduğunun belirtilmesi istenmelidir. Verilen bu süreden sonra, davacının talebini açıklamasına göre bir yol izlenmelidir. Eğer talep, davacı tarafından belirsiz alacak davası şeklinde açıklanmış olmakla birlikte, gerçekte belirsiz alacak davası şartlarını taşımıyorsa, o zaman yukarıdaki şekilde hareket edilmeli, hukuki yarar yokluğundan dava reddedilmelidir. Açıklamadan sonra talep belirsiz alacak davası şartlarını taşıyorsa, bu davanın sonuçlarına göre, talep kısmi davanın şartlarını taşıyorsa da kısmi davanın sonuçlarına göre dava yürütülerek karar verilmelidir.
+
+Yukarıda yapılan açıklamalar ışığında, eldeki davaya konu somut olayın özellikleri dikkate alınarak, belirsiz alacak davası yönünden yapılan değerlendirmede;
+
+Davacı, davalı tarafından tek satıcılık sözleşmesinin haksız olarak feshedilmesinden önce davalı şirkete ait ilaçları dava dışı firmadan satın alması sebebiyle 300.000,00 TL, ilaçların tanıtımıyla müşteri portföyü oluşturması sebebiyle müşteri tazminatı çerçevesinde 300.000,00 TL, sözleşmenin haksız feshi sebebiyle de 200.000 TL kazanç kaybı ile çeşitli kalemler adı altında yapılan masraf ve ödemelerin 6100 sayılı HMK’nın 107. maddesine dayanarak davalıdan tahsilini talep etmiş ise de davaya konu alacak miktarları açıkça belirli olduğundan işbu davada 6100 sayılı HMK`nın 107. maddesinde belirtilen belirsiz alacak davası açma koşulları oluşmamıştır. Bu durumda, davanın, hukuki yarar bulunmadığından usulden reddi gerekirken, işin esasına girilerek esastan reddine karar verilmesi hatalı ise de sonucu itibariyle doğru olan kararın değişik bu gerekçeyle onanmasına karar vermek gerekmiştir.
+
+SONUÇ: Yukarıda açıklanan nedenlerle, davacı vekilinin temyiz itirazlarının reddi ile sonucu itibariyle doğru olan hükmün açıklanan değişik bu gerekçe ile ONANMASINA, aşağıda yazılı bakiye 01,50 TL temyiz ilam harcının temyiz edenden alınmasına,  oyçokluğuyla karar verildi.
+
+KARŞI OY YAZISI:
+
+Uyuşmazlık, davacı tarafından dava dilekçesinde belirsiz alacak davası olarak nitelendirilen davanın, mahkemece kısmi dava olarak kabulü ve yargılamanın bu nitelemeye uygun sonuçlandırılıp sonuçlandırılamayacağına ilişkindir.
+
+6100 sayılı HMK 33. maddesinde “Hakimin, Türk Hukukunu re`sen uygulayacağı”,
+
+HMK 107/1 maddesinde “Davanın açıldığı tarihte alacağın miktarını yahut değerini tam ve kesin olarak belirleyebilmesinin kendisinden beklenemeyeceği veya bunun imkansız olduğu hallerde alacaklının, hukuki ilişkiyi ve asgari bir miktar yada değeri belirtmek suretiyle belirsiz alacak davası açabileceği”, HMK 109/1 maddesinde “talep konusunun niteliği itibariyle bölünebilir olduğu durumlarda, sadece bir kısmınında dava yoluyla ileri sürülebileceği” düzenlenmiş, Yargıtay İçtihadı Birleştirme Kurulu’nun 04.06.1958 tarih 1958/15-6 sayılı kararında da “…. hakimin bir davada sadece tarafların ileri sürdükleri maddi vakıalar ve netice-i taleplerle bağlı olup dayandıkları kanun hükümleriyle ve onların hukuki tavsifleriyle bağlı olmadığı ve kanunları re`sen tatbik ederek iddia ve müdafaadaki netice-i talepleri karara bağlamakla mükellef bulunduğu …. öngörülmüştür.
+
+Somut uyuşmazlıkta, davacı, aralarında düzenlenen ticari tek satıcılık sözleşmesinin davalı tarafından feshedildiğini, sözleşme feshedilmeden dava dışı firmadan alınan ürünler nedeniyle 300.000,00 TL, portföy tazminatı olarak 300.000,00 TL, haksız fesih nedeniyle 200.000,00 TL ve ayrıca işçilerin iş sözleşmelerinin feshedilmesi, yeni kira sözleşmelerinin yapılması, kiralanan ofis için boya ve tamirat işlerinin yaptırılması nedeniyle zarara uğradığını bildirerek gerçek zarar miktarı mahkemece belirlenmek üzere şimdilik 40.000,00 TL`nin davalıdan tahsiline karar verilmesini istemiştir.
+
+Uyuşmazlıkta davacı, tek satıcılık sözleşmesinin feshinden kaynaklanan zararının tazminini talep etmekte olup, davacı zararını belirleyebilecek durumda olduğundan açılan davanın HMK 107/1. maddesinde ifade edilen Belirsiz alacak davası olarak nitelendirilmesi mümkün değildir.
+
+Davacı dava dilekçesinde maddi vakıaları açıklayarak alacağını şimdilik 40.000,00 TL talep ettiğinden hakim HMK 109/1 maddesine uygun şekilde davayı kısmi dava olarak nitelendirmiş olup mahkemenin kabulü HMK 33. maddesi ile 04.06.1958 tarihli içtihadı birleştirme kararına da uygun bulunmaktadır.
+
+Nitekim HGK 02.03.2016 gün 2014/15-439 E, 2016/207 Karar sayılı kararda da aynı hususa değinilmiştir.
+
+Sonuç olarak hukuki nitelendirmesini hakimin yapacağı, maddi vakıaların davacı tarafından dilekçede açıklandığı eldeki alacak davasının HMK 109/1 maddesinde ifade edilen kısmi dava niteliğinde bulunması nedeniyle davacının diğer temyiz itirazları incelenmek üzere sayın çoğunluğun yazılı değişik gerekçe ile onama görüşüne karşıyım.
+
+KARŞI OY YAZISI:
+
+Dava, davalı tarafından tek satıcılık sözleşmesinin haksız olarak feshedilmesinden önce davalı şirkete ait ilaçları, dava dışı firmadan satın alması sebebiyle 300.000,00 TL, ilaçların tanıtımıyla müşteri portföyü oluşturması sebebiyle müşteri tazminatı çerçevesinde 300.000,00 TL, sözleşmenin haksız feshi sebebiyle de 200.000 TL kazanç kaybı ile çeşitli kalemler adı altında yapılan masraf ve ödemelerin tahsiline ilişkindir.
+
+Dava dilekçesinde dava belirsiz alacak davası olarak nitelendirilmiş ise de, dilekçede talep 40.000,00 TL olarak belirlenip, bu miktar harçlandırılmıştır.
+
+HMK.`nın yürürlüğü ile birlikte, yeni bir dava türü olan belirsiz alacak ve tespit davası da uygulamaya girmiştir. 6100 sayılı HMK’nın 107. maddesi, “Davanın açıldığı tarihte alacağın miktarını yahut değerini tam ve kesin olarak belirleyebilmesinin kendisinden beklenemeyeceği veya bunun imkânsız olduğu hâllerde, alacaklı, hukuki ilişkiyi ve asgari bir miktar ya da değeri belirtmek suretiyle belirsiz alacak davası açabilir. Karşı tarafın verdiği bilgi veya tahkikat sonucu alacağın miktarı veya değerinin tam ve kesin olarak belirlenebilmesinin mümkün olduğu anda davacı, iddianın genişletilmesi yasağına tabi olmaksızın, davanın başında belirtmiş olduğu talebini artırabilir. Ayrıca, kısmi eda davasının açılabildiği hâllerde, tespit davası da açılabilir ve bu durumda hukuki yararın var olduğu kabul edilir.” hükmünü amirdir.
+
+Maddenin birinci fıkrasında belirtilen belirleyememe hali, davanın açıldığı tarih itibariyle uyuşmazlığa konu alacağın miktar veya değerinin tam ve kesin olarak davacı tarafından belirlenememesini ifade eder.
+
+Alacağın, hangi hallerde belirsiz, hangi hallerde belirli veya belirlenebilir olduğu hususu somut olayın özelliklerine göre tespit edilecektir.
+
+Başlangıçta belirsiz olan alacak, karşı tarafın verdiği bilgi veya tahkikat sonucu, alacağın miktarı veya değerinin tam ve kesin olarak belirlenebilmesinin mümkün olduğu anda, davacı HMK’nın 107/2.maddesine göre iddianın genişletilmesi yasağına tâbi olmaksızın, davanın başında belirtmiş olduğu talebini artırabilektir.
+
+Belirsiz alacak davası şartlarının bulunup bulunmadığı, yasal şartların somut olaya uygulanarak belirlenmesi gerektiğinde şüphe yoktur. Ancak yasal, hakkaniyet ve takdiri indirimler uygulanarak davanın kısmen kabul edilmesi hususunun, belirsiz alacak davası ile ilgisi olmadığı kanaatindeyim. Zira, bu indirimler, tahkikat bittikten sonra, ancak esas hakkındaki hükümle birlikte açıklanacağından, hakimin kullanacağı takdir yetkisi sonucu alacak belirli hale gelebileceğinden bahsedilmesi mümkün olmayacaktır.
+
+Bu husus, takdiri indirim sebebiyle reddedilen kısma ilişkin masraf ve vekalet ücretinden kimin sorumlu olacağına, bir başka ifade ile indirimden dolayı reddedilen kısım yönünden, davalı yararına vekalet ücreti takdir edilip edilmeyeceğine ilişkin bir tartışmanın konusu olabilecektir. Dairemizin kararındaki kısmi dava ile ilgili açıklamaların da, HMK`nın 109/2. maddesinin yürürlükten kaldırılması ve bunun sonucu kısmi dava açılmasının mümkün hale gelmesi ile birlikte, yasal dayanağı tartışmaya açık hale gelmiştir.
+
+Belirsiz alacak davası şartlarını taşımayan bir alacakla ilgili olarak, belirsiz alacak davası açılmış ise, buna bağlanacak hukuki sonuç, davacının HMK`nın 107/2. maddesindeki davacı lehine olan hükümlerden yararlanamaması şeklinde olmalıdır. Ancak, başlangıçta davacı tarafından belirlenerek harçlandırılan kısım yönünden, davanın görülmesine engel bir durum söz konusu değildir.
+
+Somut olayda davacı, dava dilekçesinde alacağın 40.000 TL`sini harçlandırmak suretiyle davasını açmıştır. Dolayısıyla, bu kısım yönünden davanın görülmesinde bir isabetsizlik yoktur. Bu nedenle, davacı vekilinin temyiz itirazlarının esastan incelenmesi gerektiği görüşünde olduğumdan, sayın çoğunluğun, davanın hukuki yarar bulunmadığından usulden reddi gerektiğine ilişkin değişik gerekçeyle onanma kararına katılmıyorum.
+
+UYARI

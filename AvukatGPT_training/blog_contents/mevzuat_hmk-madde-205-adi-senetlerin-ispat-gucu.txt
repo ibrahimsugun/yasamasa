@@ -1,0 +1,189 @@
+Adi Senetlerin İspat Gücü
+
+HMK Madde 205
+
+HMK Madde 205 Gerekçesi
+
+HMK 205 Adi Senetlerin İspat Gücü Yargıtay Kararları
+
+(1) Mahkeme huzurunda ikrar olunan veya mahkemece inkâr edenden sadır olduğu kabul edilen adi senetler, aksi ispat edilmedikçe kesin delil sayılırlar.
+
+(2) Usulüne göre güvenli elektronik imza ile oluşturulan elektronik veriler, senet hükmündedir.
+
+(3) Hâkim, mahkemeye delil olarak sunulan elektronik imzalı belgenin, güvenli elektronik imza ile oluşturulmuş olup olmadığını resen inceler
+
+Madde ile, 1086 sayılı Kanunda yer alan adî senetler ile elektronik imzalı belgelerin ispat gücü hakkındaki düzenlemenin özünde bir değişiklik yapılmamış olmakla birlikte günümüz Türkçesine uyarlanmıştır.
+
+Maddenin birinci fıkrasına göre, adî senetler, mahkeme huzurunda ikrar edilmişse (inkâr edilmemişse), aksi ispat edilmedikçe kesin delil olarak kabul edilecektir. Bu açıdan hükmün, 1086 sayılı Kanundaki düzenlemeden farklı bir yanı bulunmamaktadır.
+
+İkinci fıkra ile, güvenli elektronik imzalı belgeler, adî senet niteliğinde kabul edilmiştir.
+
+1086 sayılı Kanunda 5070 sayılı Kanunla yapılan değişiklikle medenî yargılama hukukumuza giren elektronik imzalı belgelerin, delil gücü konusundaki tereddüdün, bu düzenlemeyle ortadan kaldırılması amaçlanmıştır. Ancak, elektronik imzalı belgelerden sadece, güvenli elektronik imza ile oluşturulanlar adî senet kuvvetinde sayılmış, diğer elektronik belgeler ya da güvenli elektronik imza dışında imzalanarak oluşturulmuş elektronik belgeler adî senet olarak kabul edilmemiştir.
+
+Güvenli elektronik imza ile oluşturulan belgeler için doğrudan adî senettir ifadesi yerine, adi senet hükmündedir ifadesi tercih edilmiştir. Zira, güvenli elektronik imza, dar ve teknik anlamda adî senet değildir. Bu tür belgelerin oluşturulması ve ibrazı adî senetlerden farklılık gösterdiği gibi, inkârı hâlinde uygulanacak hükümler de farklıdır. Bu sebeple, adî senetle aynı ispat gücüne sahip olmakla birlikte, doğrudan adî senet olarak kabulü doğru görülmemiştir. Nitekim, adî senetlerin inkârı ile elektronik belgelerin inkârı hâlinde uygulanacak usul ayrı maddelerde düzenlenmiştir.
+
+Üçüncü fıkrada, hâkime bir yetki verilmiştir. Elektronik imzalı belgelerin güvenli elektronik imza ile oluşturulup oluşturulmadığını hâkim kendiliğinden inceleyecektir. Zira, bir elektronik belge, ancak güvenli elektronik imza ile oluşturulması hâlinde adî senet kuvvetinde delil olma niteliğine sahiptir. Bu fıkraya, ispat ve delillere ilişkin genel hükümler içinde yer alan, bir delilin geçerli ve caiz bir delil olup olmadığını inceleme yetkisinin mahkemede olmasının bir sonucu olarak yer verilmiştir.
+
+Yargıtay 11. Hukuk Dairesi - 2017/3500 E.  ,  2019/682 K.
+
+Davacı 03.11.2008 tarihli adi yazılı protokole dayanarak hisse devir bakiye bedelinin ödenmediğini iddia etmiş, mahkemece, hisse devrine ilişkin noterde yapılan sözleşmede hisse devir bedelinin nakten ve tam olarak alındığının yazılı olduğu, resmi belgenin aksinin davacı tarafından ispatlanamadığı gerekçesiyle alacak talebinin reddine karar verilmiştir.
+
+HMK 205/1 madde uyarınca, imzası inkar edilmeyen belge aksi kanıtlanmadığı sürece kesin delil niteliğindedir. Noter devir sözleşmesinden sonra yapılan 03.11.2008 tarihli adi yazılı sözleşme ile taraflar borçların ileri tarihlerde ödenmesi yönünde anlaşmaya varmış olup, davacı iddiasını bu belgeye de dayandırmıştır. Aksi inkar edilmeyen belge davalı bakımından bağlayıcı olup, noter sözleşmesindeki bedelde muvazaa iddiası, bahsi geçen yazılı belge ile ispat edilmiş sayılır. Bu nedenle, hisse devir bakiye bedeline yönelik araştırmanın, 03.11.2008 tarihli protokol hükümleri de dikkate alınarak yapılması gerekir.
+
+YARGITAY 1. HUKUK DAİRESİ
+Esas : 2018/1995 Karar : 2018/11297Tarih : 19.06.2018
+
+HMK 205. Madde
+
+Adi Senetlerin İspat Gücü
+
+Dava, muris muvazaası hukuksal nedenine dayalı tapu iptali ve tescil isteğine ilişkindir.
+
+Davacı, mirasbırakan babası … ’in maliki olduğu … ve … parsel sayılı taşınmazlarını mirasçılarından mal kaçırmak amacıyla davalının kardeşi ara malik … üzerinden davalı gelini … ’e satış yoluyla devrettiğini, yapılan devrin muvazaalı olduğunu ileri sürerek, çekişmeli taşınmazların tapu kayıtlarının iptali ile miras payı oranında adına tescilini istemiştir.
+
+Davalı, ölümüne kadar mirasbırakana baktığını, bakım karşılığı dava konusu taşınmazların kendisine verildiğini, öte yandan davacının da imzasının bulunduğu 17/12/2012 tarihli sözleşme ile mirasçıların doğmuş haklarından feragat ettiklerini belirterek davanın reddini savunmuştur.
+
+İddianın kanıtlandığı gerekçesiyle davanın kabulüne ilişkin verilen karar, Dairece; ‘’… Hemen belirtilmelidir ki, davalının 17/12/2012 tarihli belgeye dayanarak davacının doğmuş hakkından feragat ettiğini ve davanın dinlenme olanağının kalmadığını iddia ettiği, davacının ise okuma yazma bilmediğini ve anılan belge altındaki imzanın kendisine ait olmadığını
+
+savunduğu, ne var ki mahkemece 17/12/2012 tarihli belge altındaki imzanın davacının eli ürünü olup olmadığı hususu araştırılmadan sonuca gidildiği anlaşılmaktadır. Hal böyle olunca, 17/12/2012 tarihli belgenin mirasbırakanın ölümünden sonra düzenlendiği gözetilerek anılan belge altındaki … imzasının davacının eli ürünü olup olmadığının araştırılması, gerekli delillerin toplanarak incelemenin yaptırılması ve sonucuna göre bir karar verilmesi gerekirken eksik araştırma ve inceleme ile yetinilerek yazılı şekilde karar verilmesi hatalıdır. ‘’ gerekçesiyle bozulmuş, Mahkemece bozma ilamına uyularak yapılan yargılama neticesinde davacının okuma yazma bilmemesi ve kanunda aranan şartları taşımaması nedeniyle 17.12.2012 tarihli belgenin geçersiz olduğu, öte yandan yapılan temlikin mal kaçırma amaçlı ve muvazaalı olduğunun kanıtlandığı gerekçesiyle davanın kabulüne karar verilmiştir.
+
+Hemen belirtilmelidir ki, bozma ilamında maddi hata ile davacı … ’in ismi yerine … yazılmış ise de, anılan maddi hatanın her zaman düzeltilmesinin mümkün olduğu açıktır.
+
+6100 sayılı HMK’nın ‘’ Adi senetlerin ispat gücü ‘’ başlığı altında 205/1. maddesinde; ‘’ Mahkeme huzurunda ikrar olunan veya mahkemece inkâr edenden sadır olduğu kabul edilen adi senetler, aksi ispat edilmedikçe kesin delil sayılırlar. ‘’ amir hükmüne yer verilmiştir.
+
+Somut olayda, bozma sonrasında yapılan yargılamada davacı vekilinin 12.09.2017 tarihli dilekçesi ve 12.12.2017 tarihli celsede ilgili belgedeki imzanın müvekkili … ’e ait olduğunu ikrar ettiği, mirasbırakan … ’in ölümünden sonra tanzim edilen 17.12.2012 tarihli adi yazılı belge ile davacının dava konusu taşınmazlarla ilgili dava açmayacağını belirterek miras payından feragat ettiği, bu nedenle eldeki davada davacının muris muvazaasına dayalı tapu iptal ve tescil isteğinin dinlenmeyeceği anlaşılmıştır.
+
+Hal böyle olunca, davanın reddine karar verilmesi gerekirken yanılgılı değerlendirme ile yazılı şekilde karar verilmesi doğru değildir.
+
+Davalı vekilinin yerinde bulunan temyiz itirazlarının kabulü ile, hükmün (6100 sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK’un 428.maddesi gereğince BOZULMASINA, alınan peşin harcın temyiz edene geri verilmesine, 19.06.2018 tarihinde oybirliğiyle karar verildi.
+
+YARGITAY HUKUK GENEL KURULU
+Esas : 2017/619 Karar : 2018/919Tarih : 18.04.2018
+
+HMK 205. Madde
+
+Adi Senetlerin İspat Gücü
+
+Dava itirazın iptali istemine ilişkindir.
+
+Davacı vekili müvekkilinin davalıya borç olarak verdiği 30.000,00 TL’nin geri ödenmemesi üzerine başlatılan takibe davalının haksız şekilde itiraz ettiğini, takip dayanağının davalı imzasını taşıyan ve borç ikrarını içeren 23.07.2007 tarihli belge olduğunu ileri sürerek itirazın iptali ile takibin devamına karar verilmesini talep ve dava etmiştir.
+
+Davalı vekili, davacının, müvekkilinin boşandığı eşinin kardeşi olduğunu, borç iddialarının gerçeği yansıtmadığını, takipte ve dava dosyasında iddiaya konu belgenin sunulmadığını, soyut iddia dışında delilin de mevcut olmadığını savunmuş, belgenin sunulması sonrasında ise söz konusu imzanın müvekkiline ait olmakla birlikte hastanede yattığı sırada eski eşinin telefon hattını kapattırmak bahanesi ile boşa imza attırdığını, borç ilişkisinin söz konusu olmadığını belirterek davanın reddine karar verilmesini istemiştir.
+
+Mahkemece davalının imzasını ikrar ettiği belge metninde bulunan yazıların davalıya ait olduğunun iddia ve ispat edilemediği, borç iddiasının bu belgedeki vade tarihinden iki yıl sonra takibe konu edildiği, yapılan değerlendirmede davalının savunmasının tutarlı olduğu sonucuna varıldığı, olağan biçim ve içeriğe sahip olmayan belgedeki alacak iddiasının davacı tarafça ispat edilmesi gerektiği, bu yönde makul ve mantıklı bir açıklama ve belge ileri sürülmediği, bu nedenle takip dayanağı belgenin sahih sayılamayacağı gerekçesi ile davanın reddine karar verilmiştir.
+
+Davacı vekilinin temyizi üzerine hüküm Özel Dairece yukarıda karar başlığında yazılı gerekçelerle bozulmuştur.
+
+Yerel mahkemece ilk karar gerekçelerinin yanında maddi gerçeğin şekle feda edilmemesi gerektiği yönünde oluşan kanaat de belirtilmek suretiyle direnme kararı vermiştir.
+
+Direnme kararı davacı vekili tarafından temyiz edilmiştir.
+
+Hukuk Genel Kurulunda yapılan görüşmelerde işin esasının incelenmesinden önce,    bozma kararı sonrasında yapılan yargılama sırasında davacı vekilinin hazır olduğu 26.12.2013 tarihli birinci celsede 20.03.2014 tarihine ertelenen ve “ 9. Asliye Hukuk Mahkemesine mahsus duruşma salonunda duruşma yapıldı” açıklaması ile başka bir mahkeme salonunda yapılan duruşmaya davacı tarafın iştirak etmeyip herhangi bir mazeret de bildirmediği, mahkemece davalı vekilinin başka bir duruşma nedeniyle celseye katılamayacağına dair gönderdiği mazeret dilekçesi kabul edilerek duruşmanın ertelendiği olayda, 
+yerel mahkemece 6100 sayılı Hukuk Muhakemeleri Kanunu’nun (HMK) 150’nci maddesi çerçevesinde işlem yapmasının mümkün ve gerekli olup olmadığı hususu ön sorun olarak tartışılmıştır.
+
+Kural olarak HMK’nın 150’inci maddesinin birinci bendi uyarınca, 
+usulüne uygun şekilde davet edilmiş olan tarafların duruşmaya gelmemeleri veya gelip de davayı takip etmeyeceklerini bildirmeleri hâlinde dosyanın işlemden kaldırılmasına karar verilir. Aynı maddenin ikinci bendinde ise usulüne uygun şekilde davet edilmiş olan taraflardan birinin duruşmaya gelip diğer tarafın gelmemesi hâlinde, gelen tarafın talebine göre yargılamaya gelmeyen tarafın yokluğunda devam edileceği veya dosya işlemden kaldırılacağı hükme bağlanmıştır.
+
+Eldeki davada 20.03.2014 tarihli duruşmaya her iki taraf da katılmamış, yalnızca davalı vekili tarafından mazeret dilekçesi gönderilmiş olup, bu dilekçe üzerinden duruşma ileriki tarihe ertelenmiş olmakla birlikte Kanun’un 150’nci maddesinin ikinci bendi hükmü gereğince duruşmaya gelen taraftan yargılamaya devam etmek isteyip istemediği yönünde iradesinin sorulması imkânı bulunmaksızın ertelenen celseye her iki taraf vekili de katılmış olup, bu yönde herhangi bir itirazlarının bulunmadığının da anlaşılması karşısında, tarafların iradelerinin yargılamanın devam etmesi yönünde olduğunun kabulü gerekeceğinden oy birliği ile ön sorunun bulunmadığı sonucuna varılmıştır.
+
+İşin esasının incelenmesinde;
+
+Direnme yolu ile Hukuk Genel Kurulu önüne gelen uyuşmazlık: taraflar arasındaki yazılı ödünç sözleşmesine dayalı borcun ödenmediği iddiası ile başlatılan takibe vaki itirazın iptali davasında ispat yükünün hangi tarafta olduğu, burada varılacak sonuca göre yerel mahkemenin açığa atılan imzanın kötüye kullanıldığı savunmasında bulunan davalının savunmasını dikkate alarak ispat külfetinin davacıda olduğu gerekçesi ile davanın reddine karar vermesinin hukuka uygun olup olmadığı noktasında toplanmaktadır.
+
+Uyuşmazlığın çözümünde ispat ve ispat yükü kavramlarının kısaca açıklanması yerinde olacaktır.
+
+İspat; dava konusu yapılan hakkın gerçekten var olup olmadığının anlaşılması, maddî hukukun o hakkın doğumunu veya sona ermesini kendisine bağladığı vakıaların doğru olup olmadığının tespit edilmesi sonucunda mümkün olur. İşte dava konusu hakkın ve buna karşı yapılan savunmanın dayandığı vakıaların var olup olmadıkları hakkında mahkemeye kanaat verilmesi işlemidir (Kuru, B.: Hukuk Muhakemeleri Usulü, İstanbul 2001,6. b., 2.c., s. 1966).
+
+Hâkim, davada hangi çekişmeli vakıanın ispat edilmesi gerektiğini tespit ettikten sonra bu vakıaların kimin tarafından ispat edilmesi sorusu ile karşılaşır; buna da ispat yükü denir.
+
+İspat yükü, hayatın olağan akışına aykırı iddia ve savunmada bulunana düşer ve yeri gelmişken belirtmek gerekir ki; kendisine ispat yükü düşen taraf için bu bir yükümlülük (mükellefiyet) değil, sadece bir yüktür (külfettir). Zira taraf kendisi tarafından ispatı gereken bir vakıayı ispat edemezse, karşı taraf (ve mahkeme) onu mutlaka ispat etmesini isteyemez (yükümlülük). Bilâkis, kendisine ispat yükü düşen taraf, o vakıayı ispat edememiş sayılır; mesela, kendisine ispat yükü düşen ve fakat bunu yerine getiremeyen taraf davacı ise, davasını ispat edememiş sayılır ve dava bu nedenle reddedilir (Kuru, s.1972).
+
+Konu ile ilgili genel kural 4721 sayılı Türk Medeni Kanunu’nun 6’ncı maddesinde düzenlenmiştir. Buna göre, “Kanunda aksine bir hüküm bulunmadıkça, taraflardan her biri, hakkını dayandırdığı olguların varlığını ispatla yükümlüdür.”
+
+İspat aracı olan ve kendi içinde kesin - takdiri olmak üzere ikiye ayrılan deliller, kendiliğinden araştırma ilkesinin uygulanamayacağı davalarda kural olarak taraflarca ileri sürülmedikleri müddetçe hâkim tarafından resen dikkate alınamaz.
+
+Hâkimi bağlayıcı nitelikteki (kesin) delillerden belki de en önemlisi “senet”tir.
+
+İspat yükü üzerine düşen taraf iddiasını yahut savunmasını adi yazılı senede dayandırır ve bu adi senet altında imzası bulunup senet kendisine karşı delil teşkil edecek olan kimse tarafından ikrar edilirse, o senet kesin delil teşkil edecektir [1086 sayılı Hukuk Usulü Muhakemeleri Kanunu (HUMK), m. 296/2; 6100 sayılı Hukuk Muhakemeleri Kanunu (HMK), m.205/1].
+
+Senetle ilgili ilk kural, kesin delille ispat zorunluluğu veya tanıkla ispat yasağı da denilen, kanun koyucunun bir hakkın doğumu, düşürülmesi, devri, değiştirilmesi, yenilenmesi, ertelenmesi, ikrarı ve itfası amacı ile yapılan hukuki işlemlerin değerinin belli bir miktarın üzerinde olması hâlinde ispatının ancak senetle yapılabileceği kuralıdır (HUMK, m.288/1; HMK, m. 200). Bu husus kısaca ispat sınırı olarak da anılabilir.
+
+Senetle ispat zorunluluğu hakkındaki ikinci kural ise senede karşı senetle ispat zorunluluğudur.
+
+Senede bağlı olan her çeşit iddiaya karşı defi (savunma) olarak ileri sürülen ve senedin hüküm ve kuvvetini ortadan kaldıracak veya azaltacak nitelikte bulunan hukuki işlemler, senetle ispat sınırından az bir miktara ilişkin olsa bile tanıkla ispat olunamaz, ancak ve ancak senet (kesin delil) ile ispat olunabilir (HUMK, m. 290; HMK, m. 201).
+
+Senedin tamamlanmış sayıldığını söyleyebilmek için imza kurucu bir unsurdur. İmzanın senet metni oluşturulmadan da atılabilmesi mümkündür. Bu hâlde “beyaza imza”dan söz etmek gerekir (Yavaş, M.: Senetle İspat ve Senede Karşı Senetle İspat Kuralları ile Bu Kuralların İstisnaları).
+
+Kuşkusuz böyle bir imza onu atan için çok tehlikelidir. Zira genel hayat tecrübesi, imzalı boş kâğıdı karşısındakine veren kimsenin onun üzerine kendisini zararlandırıcı mahiyette ilaveler yapılabileceğini bilmesini gerektirir. Buna rağmen imzalı boş kâğıdı veren kimse, ki imzalı boş belge vermek de bir hukuki işlemdir, tehlikeleri peşinen kabul etmiş sayılacağı gibi, kendisinden beklenen dikkat ve ihtimamı sarf etmediğinden hukukun himayesinden yararlanamaz.
+
+Beyaza imza atan kimse karşı tarafın anlaşmaya uygun olarak daha önceden belirlenen esaslara göre senet metninin oluşturulacağı konusunda bir güvene sahiptir ve senet metnindeki borç kapsamından sorumludur. 
+Bu sorumluluk beyaza imza atan kimsenin sözleşme metnindeki ifadelerin kendi iradesinin ürünü olmadığını ispat yükünü üzerine alması suretiyle tezahür eder. Ancak böyle bir iddia ile senedin hüküm ve kuvveti azalacağından Hukuk Muhakemeleri Kanunu (HMK)’nun 201. (HUMK`nın 290.) maddesi çerçevesinde bu iddianın kesin delille ispat gerekir.
+
+Hukukun amacının maddi gerçeğe ulaşmak olduğu şüphesizdir. Ne var ki bu amacın sağlanmasında hâkimin izleyeceği yol kanun koyucu tarafından sübjektiflikten olabildiğince uzaklaşmış usul hükümleri ile çizilmiş olup, aksi düşünce ile verilecek kararlar uygulayıcı elinde değişkenlik göstererek hukuk güvenliğini ortadan kaldıracaktır.
+
+Somut uyuşmazlıkta da davalı açığa attığı imzanın kötüye kullanıldığı savunmasını, yukarıda yapılan açıklamalar ışığında, ispata yeter güçte belge sunamamıştır.
+
+Sonuç itibariyle, Hukuk Genel Kurulunca da benimsenen Özel Daire bozma kararına uymak gerekirken önceki kararda direnilmesi usul ve yasaya aykırıdır.
+
+Bu nedenle direnme kararı bozulmalıdır.
+
+S O N U Ç: Davacı vekilinin temyiz itirazlarının kabulü ile, direnme kararının Özel Daire bozma kararında gösterilen nedenlerden dolayı 6100 sayılı Hukuk Muhakemeleri Kanunu’nun Geçici 3’üncü maddesine göre uygulanmakta olan 1086 sayılı Hukuk Usulü Muhakemeleri Kanunu`nun 429’uncu maddesi gereğince BOZULMASINA, istek hâlinde temyiz peşin harcının yatırana geri verilmesine, aynı Kanun’un 440’ıncı maddesi uyarınca kararın tebliğinden itibaren on beş gün içerisinde karar düzeltme yolu açık olmak üzere 18.04.2018 gününde oy birliği ile karar verildi.
+
+YARGITAY 3. HUKUK DAİRESİ
+Esas: 2014/2760 Karar: 2014/5376Tarih: 03.04.2014
+
+HMK 205. Madde
+
+Adi Senetlerin İspat Gücü
+
+Davacı, 12/08/2000 tarihlerinde tutulan kaçak elektrik tespit tutanakları ile davalının işyerinde abonesiz kaçak elektrik kullandığının tespit edildiğini, tahakkuk ettirilen kaçak elektrik bedellerinin tahsili için başlatılan takibe davalının haksız olarak itiraz ettiğini öne sürerek, itirazının iptaline, takibin devamına karar verilmesini talep ettiği görülmüştür.
+
+Davalı, davanın reddini savunmuştur.
+
+Mahkemece, tutanaklarına konu olan kaçak elektrik kullanımının davalı tarafından yapılmadığı, davalı tarafından davacı kurumca tutulan kaçak tespit tutanaklarına konu borca ilişkin davacı kuruma kısmi ödeme taahhüdünde bulunulduğu, taahhütte bulunulan kısım yönünden davanın kısmen kabulü ile takibin 06 TL asıl alacak ve 25 TL işlemiş faiz olmak üzere toplam 31 TL üzerinden ve asıl alacağa takip tarihinden itibaren avans faizi işletilmek suretiyle takibin devamına karar verilmiştir.
+
+Kararı, davacı temyiz etmiştir.
+
+1086 sayılı HUMK’nun 295/1 maddesinde, mahkeme ilamlariyle katibiadillerce re’sen tanzim olunan senetlerin sahteliği ve salahiyattar memurların salahiyetleri dahilinde usulüne tevfikan tanzim veya tasdik ettikleri vesikaların hilafı ispat olununcaya kadar delili kati teşkil edeceği açıklanmıştır.
+
+6100 sayılı HMK’nun 204/2.maddesinde ise, yetkili memurların görevleri içinde usulüne uygun olarak düzenledikleri belgelerin, aksi ispatlanıncaya kadar kesin delil sayılacağı açıklanmıştır.
+
+Somut olaya gelince, davacı elemanlarınca yapılan kontroller sırasında, davalının kaçak elektrik kullandığı saptanarak kaçak elektrik tutanakları düzenlenmiştir. Mahkemece bilgisine başvurulan bilirkişi tarafından düzenlen 30.07.2010 tarihli raporda, davalının eyleminin kaçak elektrik kullanma olarak tanımlandığı açıklanarak, tutanak tarihlerindeki yönetmelik hükümlerine göre, kaçak elektrik bedeli ile 3095 sayılı kanun dikkate alınarak işlemiş faiz miktarı hesaplanmıştır. Mahkemece alınan ek raporda ise, davalının kısmi ödeme taahhüdü dikkate alınarak hesaplama yapılmış, mahkemece bu ek rapor benimsenerek hükme esas alınmıştır. Dosya içerisinde bulunan kaçak elektrik tutanaklarında, davalı tarafın kaçak elektrik kullandığı tespit edilmiştir. Kaçak tutanakları aksi sabit oluncaya kadar geçerlidir. Davalı taraf, tutanağın aksini ispat edememiştir. Tutanak düzenleyicileri tarafından da doğrulanan tutanak içerikleri ile davalının kaçak elektrik kullandığı kesin bir biçimde saptandığından, davalının kaçak elekrtik kullanılmadığı yönündeki beyanına itibar edilemez.
+
+Hal böyle olunca, mahkemece davalının kaçak elektrik kullandığının kabul edilmesi, tutanak tarihlerindeki yönetmelik hükümleri ile 3095 sayılı kanuna göre kaçak elektrik bedeli ve işlemiş faiz miktarının hesaplandığı 30.07.2010 tarihli bilirkişi raporu gözönüne alınarak karar verilmesi gerekirken, yersiz gerekçelerle yazılı şekilde hüküm kurulması yasaya aykırı olup bozmayı gerektirmiştir.
+
+SONUÇ : Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün 428.maddesi gereğince BOZULMASINA ve peşin alınan temyiz harcının istek halinde temyiz edene iadesine, 03.04.2014 tarihinde oybirliğiyle karar verildi.
+
+YARGITAY 15. HUKUK DAİRESİ
+Esas : 2016/5214 Karar : 2018/162Tarih : 23.01.2018
+
+HMK 205. Madde
+
+Adi Senetlerin İspat Gücü
+
+Dava, sözleşmeden kaynaklanan alacağın tahsili için yürütülen icra takibine davalı tarafından yapılan itirazın iptali, takibin devamı ve icra inkar tazminatının tahsili istemine ilişkin olup; mahkemece davanın kısmen kabulüne dair verilen karar, davacı vekili tarafından temyiz edilmiştir.
+
+Davacı taraflar arasında 30.06.2012 tarihli “Şeker Pancarı Üretim Sözleşmesi” bulunduğunu, davacının 124 ton pancar üretip teslim etmekle yükümlü olduğunu, verilen ayni ve nakdi avansların toplamının 68.236,73 TL olduğunu, davacının eksik pancar teslim ettiği gibi bakiye kalan 32.745,01 TL’yi de ödenmesi gereken 30.04.2013 tarihinde ödemediğini, bakiye iş bedelinin ödenmediğini ve … . İcra Müdürlüğü’nün 2014/352 Esas sayılı dosyası ile yapılan icra takibinde borca itiraz edildiğini, itirazın haksız olduğunu belirterek itirazın iptaline takibin devamına ve icra inkar tazminatına karar verilmesini istemiş, davalı; davacının edimlerini yerine getirmediğini, tohumları geç teslim ettiğini, ekim istenilen tarihin uygun olmadığı verimin düşeceği bildirilmesine rağmen ekim yapılmasında ısrarcı olduğunu, dilekçede belirtilen bazı kalemlerin kendisine teslim edilmediğini belirterek davanın reddini savunmuş ve kötüniyet tazminatına hükmedilmesini istemiş, mahkemece; davanın kısmen kabulüne karar verilmiş, hüküm davacı tarafından temyiz edilmiştir.
+
+Dava, sözleşmeden kaynaklanan alacağın ödenmediği iddiasıyla yapılan takibe itiraz nedeniyle İİK 67. maddeye göre açılmış itirazın iptali davasıdır.
+
+6100 sayılı HMK hükümlerine göre; mahkeme huzurunda ikrar olunan veya mahkemece inkar edenden sadır olduğu kabul edilen adi senetler, aksi ispat edilmedikçe kesin delil sayılırlar (HMK 205/1). Belgenin sadece örneğinin mahkemeye verildiği durumlarda, mahkeme kendiliğinden veya taraflardan birinin talebi üzerine belgenin aslının verilmesini de isteyebilir (HMK 216/1). Belgenin aslını elinde bulunduran taraf, üçüncü kişi veya resmi makamlar, istenmesi halinde bunu mahkemeye vermek zorundadır (HMK 216/2). Taraflar, kendilerinin veya karşı tarafın delil olarak dayandıkları ve ellerinde bulunan tüm belgeleri mahkemeye ibraz etmek zorundadırlar (HMK 219/1).
+
+HMK 121/1. maddede, dava dilekçesinde gösterilen ve davacının elinde bulunan belgelerin asıllarıyla birlikte harç ve vergiye tabi olmaksızın davalı sayısından bir fazla düzenlenmiş örneklerinin veya sadece örneklerinin dilekçeye eklenerek, mahkemeye verilmesi ve başka yerlerden getirtilecek belge ve dosyalar için de bunların bulunabilmesini sağlayıcı açıklamanın dilekçede yer almasının zorunlu olduğu düzenlenmiştir.
+
+Belgenin aslı sunulmamış, ancak sunulan örneklerine itiraz edilmiş ise belgenin aslı istenerek geçerliliği ve sıhhati konusunda inceleme yapılmalıdır. Bu inceleme yapılırken belge asılları davacıdan istenerek sunulduktan sonra davalının isticvaben beyanı alınmak üzere işlem yapılması, davacıya yapıldığı iddia edilen teslimlerle de ilgili olduğu anlaşılan belge asılları davalıya gösterilerek kendisine atfen atılan imzayı kabul edip etmediğinin sorulması, imzanın kendisine ait olmayıp bir yakınına ait olduğunu bildirmesi halinde TBK 40 ve devamı maddelerde düzenlenen temsil hükümleri de değerlendirilerek davacıyı bağlayıp bağlamadığının incelenmesi, imzanın inkar edilmesi halinde imza incelemesi yapılarak sonuca gidilmesi gerekir.
+
+Yukarıda yapılan açıklama ve sözü edilen kurallarla birlikte somut olay değerlendirildiğinde; davacı davasında, davalı üretici ile yapılan 30.06.2012 tarihli sözleşme uyarınca 1240 ton pancarın teslimi kararlaştırıldığı halde 318 ton pancar teslim edildiğini avans olarak verilen tohum ayni ve nakli verilen yardımlardan toplam 68.236,73 TL verilmesine karşın bakiye 32.745,01 TL’nin ödenmediğini başlatılan takibe de itiraz edildiğini ileri sürmüştür. Mahkemece bir kısım belgelerdeki imzalar gösterilerek davalının beyanı alınmış ise de, belge asılları getirtilip inceleme yapılmadan karar verilmiştir. Davacı tarafından fotokopisi ibraz edilen belge asıllarının getirtilerek yeniden imza konusunda davalının beyanı alınıp belgelerde teslime konu olan şeylerin davalı ya da yakınları tarafından alınıp alınmadığı ve imzalarının olup olmadığı hususları araştırılarak inkar halinde bilirkişi incelemesi yapılması suretiyle sonucuna göre davacı alacağının hesaplanması gerekirken yetersiz bilirkişi raporuyla karar verilmesi doğru olmamış, kararın temyiz eden davacı yararına bozulması gerekmiştir.
+
+SONUÇ: Yukarıda açıklanan nedenlerle davacı vekilinin temyiz itirazlarının kabulü ile hükmün temyiz eden davacı yararına BOZULMASINA, ödediği temyiz peşin harcının istek halinde temyiz eden davacıya geri verilmesine, karara karşı tebliğ tarihinden itibaren 15 gün içinde karar düzeltme isteminde bulunulabileceğine 23.01.2018 gününde oybirliğiyle karar verildi.
+
+YARGITAY 11. HUKUK DAİRESİ
+Esas : 2016/8791 Karar : 2017/7621Tarih : 26.12.2017
+
+HMK 205. Madde
+
+Adi Senetlerin İspat Gücü
+
+Asıl ve birleşen davalar, noter onaylı limited şirket hisse devir sözleşmelerinden kaynaklanan icra takibine vaki itirazın iptaline ilişkindir. Mahkemece asıl ve birleşen davaların reddine karar verilmiştir. Ancak, davacının sunduğu tarafların imzalarını haiz belge yazılı delil başlangıcı niteliğinde olmayıp aksi kanıtlanmadığı sürece HMK 205/1 maddesi uyarınca kesin delil niteliğindedir. Zira, noter devir sözleşmesinden sonra yapılmış olan adi yazılı bu sözleşmede devir bedeli noter sözleşmesindeki devir bedelinden farklı olarak belirtilmiş olup, taraflar arasında imzalanmış olan noter sözleşmesindeki bedelde muvazaa olduğu iddiası bahsi geçen yazılı belge ile ispat edilmiş sayılır. Davacı da bu belgeye dayandığına göre, her iki belge nazara alınarak ödenen ve ödenmeyen hisse devir bedellerinin belirlenerek bir sonuca ulaşılması gerekirken davanın reddi doğru olmamış bozmayı gerektirmiştir.
+
+UYARI

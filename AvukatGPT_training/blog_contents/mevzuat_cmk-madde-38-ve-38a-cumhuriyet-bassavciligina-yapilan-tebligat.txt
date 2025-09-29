@@ -1,0 +1,273 @@
+Cumhuriyet Başsavcılığına Yapılan Tebligat
+
+CMK Madde 38
+
+Elektronik İşlemler
+
+CMK Madde 38/A
+
+CMK Madde 38 Gerekçesi
+
+CMK 38 Cumhuriyet Başsavcılığına Yapılan Tebligat Yargıtay Kararları
+
+(1) Cumhuriyet Başsavcılığına yapılan tebligat, tebliği gereken evrakın aslının verilmesi suretiyle olur. Tebliğ ile bir süre işlemeye başlıyorsa verildiği gün, Cumhuriyet Başsavcılığı tarafından evrakın aslına yazılır.
+
+(1) Her türlü ceza muhakemesi işlemlerinde Ulusal Yargı Ağı Bilişim Sistemi (UYAP) kullanılır. Bu işlemlere ilişkin her türlü veri, bilgi, belge ve karar, UYAP vasıtasıyla işlenir, kaydedilir ve saklanır.
+
+(2) Kanunlarda gösterilen istisnalar hariç olmak üzere, dosyalar güvenli elektronik imza kullanılarak UYAP’tan incelenebilir ve her türlü ceza muhakemesi işlemi yapılabilir.
+
+(3) Bu Kanun kapsamında fiziki olarak hazırlanması öngörülen her türlü belge ve karar elektronik ortamda düzenlenebilir, işlenebilir, saklanabilir ve güvenli elektronik imza ile imzalanabilir.
+
+(4) Güvenli elektronik imza ile imzalanan belge ve kararlar diğer kişi veya kurumlara elektronik ortamda gönderilir. Güvenli elektronik imza ile imzalanarak gönderilen belge veya kararlar, gerekmedikçe fiziki olarak ayrıca düzenlenmez ve ilgili kurum ve kişilere gönderilmez.
+
+(5) Elektronik imzalı belgenin elle atılan imzalı belgeyle çelişmesi halinde UYAP’takayıtlı olan güvenli elektronik imzalı belge geçerli kabul edilir.
+
+(6) Güvenli elektronik imza ile imzalanan belge ve kararlarda, mühürleme işlemi ile kanunlarda birden fazla nüshanın düzenlenmesini öngören hükümler uygulanmaz.
+
+(7) Zorunlu nedenlerle fiziki olarak düzenlenmiş belge veya kararlar, yetkili kişilerce taranarak UYAP’a aktarılır ve gerektiğinde ilgili birimlere elektronik ortamda gönderilir.
+
+(8) Elektronik ortamdan fiziki örnek çıkartılması gereken hallerde tutanak veya belgenin aslının aynı olduğu belirtilerek hâkim, Cumhuriyet savcısı veya görevlendirilen yetkili kişi tarafından imzalanır ve mühürlenir.
+
+(9) Elektronik ortamda yapılan işlemlerde süre gün sonunda biter.
+
+(10) Yargı birimlerinin ihtiyaç duyduğu nüfus, tapu, adlî sicil kaydı gibi dış bilişim sistemlerinden UYAP vasıtasıyla temin edilen bilgi, belge ve kayıtlar, zorunlu olmadıkça ayrıca fiziki olarak istenilmez. UYAP’tan dış bilişim sistemlerine gönderilen bilgi ve belgeler ayrıca zorunlu olmadıkça fiziki ortamda gönderilmez.
+
+(11) Ceza muhakemesi işlemlerinin UYAP’ta yapılmasına dair usul ve esaslar, Adalet Bakanlığı tarafından çıkarılacak yönetmelikle düzenlenir.
+
+Maddeye göre, Cumhuriyet savcılığına yapılacak tebligat, tebliği gereken yazının aslının verilmesi suretiyle yapılacaktır.
+
+Tebliğ ile başlayan sürelerin başladığı tarihe açıklık getirilmesi amacıyla, Cumhuriyet savcılığına verildiği günün, verilen yazının aslına kaydedilmesi zorunluğuna maddede yer verilmiştir.
+
+Yargıtay 8. Ceza Dairesi         2019/6179 E.  ,  2022/4825 K.
+
+UYAP üzerinde yapılan incelemede hükme esas belgelerin UYAP’ta kayıtlı olduğu, dosya içerisinde bulunan evrakların UYAP’tan tarandığı anlaşılmakla, 5271 sayılı CMK’nın 38/A maddesindeki tereddüt halinde UYAP kayıtlarının esas alınacağına ilişkin hüküm karşısında Tebliğnamedeki bozma düşüncesine iştirak edilmemiştir.
+
+Ceza Genel Kurulu - Karar: 2017/283
+
+Yoklukta verilen 17.04.2013 tarihli hükmün 18.06.2013 günü sanık müdafiine usulüne uygun şekilde
+tebliğ edildiği, sanık müdafiinin temyiz süresinin son günü olan 25.06.2013 günü saat 22.16’ da UYAP
+sistemine giriş yaparak temyiz başvuru dilekçesini düzenlediği ancak e-imza ile imzalamadan mahkemeye
+gönderilmek üzere dilekçeyi sistemden havale ettiği olayda; temyiz dilekçesindeki imza, temyiz edenin
+kim olduğu, buna hakkı bulunup bulunmadığı ve temyiz isteminin hangi hususlara yöneldiğini ispata
+yarayan bir koşul olup, sonradan aidiyetin başka bir suretle tahkik edilmesi veya eksikliğin ikmalinin
+mümkün olduğu, sanık müdafiinin temyiz talebinin reddi kararını temyizine ilişkin dilekçesinden de
+25.06.2013 tarihli temyiz dilekçesini kendisinin düzenlediğinin anlaşıldığı, bu noktada e-imza taşımayan
+temyiz dilekçesinin aidiyeti hususundaki şüphenin ortadan kalktığı anlaşıldığından, davaların en az
+giderle ve makul sürede sonuçlandırılması gerektiği ilkesi de dikkate alınarak; sanık müdafii tarafından
+elektronik ortamda oluşturulan ancak e-imza taşımayan temyiz başvuru dilekçesinin yasal süresi
+içinde düzenlenerek mahkemeye gönderilmesi ve temyiz dilekçesinin aidiyetine ilişkin bir tereddüt
+bulunmaması karşısında, temyiz dilekçesinin geçerli olduğunun kabulünde zorunluluk bulunmaktadır.
+
+Yargıtay 19. Ceza Dairesi         2015/14245 E.  ,  2016/189 K.
+
+CMK’nın 38/a-9 bendi uyarınca, elektronik ortamda yapılan işlemlerde sürenin gün sonunda biteceği anlaşılmakla, şikayetçi vekili tarafından yapılan temyiz başvurusu süresinde kabul edilerek yapılan incelemede;
+
+Açılan kamu davasının niteliğine göre, hak sahipliği belgelerini ibraz edememesi nedeniyle kamu davasına katılma ve hükmü temyize yetkisi olmayan şikayetçi şirket vekilinin temyiz isteminin reddine dair yerel mahkemenin 11/11/2014 tarihli ek kararında bir isabetsizlik bulunmadığı cihetle, şikayetçi vekilinin temyiz nedenleri yerinde görülmediğinden ek kararın tebliğnameye aykırı olarak ONANMASINA, 12/01/2016 tarihinde oybirliğiyle karar verildi.
+
+Yargıtay 6. Ceza Dairesi         2021/12075 E.  ,  2022/7735 K.
+
+1412 sayılı CMUK’un 310., 5235 sayılı Kanun’un 20/1, 5271 sayılı CMK’nın 38, 260/3 ve 291. maddeleri gereğince, yokluğunda karar verilen “Görüldü Savcısı’nın, 05.08.2017’den önce verilen o yer veya mülhakat asliye ceza mahkemesi kararlarını temyiz süresinin, kararı temyize hakkı olan diğer sujelerle eşit biçimde ve tebliğden itibaren bir hafta olması ve inceleme konusu olayda, UYAP üzerinden yapılan araştırma sonucunda … 7. Asliye Ceza Mahkemesi’nin 27.05.2016 gün 2015/135 Esas ve 2016/372 sayılı kararının 13.06.2016 tarihinde Hakim tarafından imzalanarak, görüldü savcısının ekranına gönderildiği, o yer Cumhuriyet Savcısı tarafından 23.06.2016 tarihinde temyiz dilekçesi gönderildiğinin anlaşılması karşısında, o yer Cumhuriyet Savcısının temyiz tarihinin CMUK’un 310/1. maddesindeki bir haftalık temyiz süresi geçtikten sonra olduğu anlaşılmakla; temyiz itirazının 5320 sayılı Kanun’un 8/1. maddesi yollamasıyla 1412 sayılı CMUK’un 317. maddesi gereğince tebliğnameye aykırı olarak olarak REDDİNE, 24.05.2022 gününde oy birliğiyle karar verildi.
+
+YARGITAY 4. CEZA DAİRESİ
+Esas: 2016/1149 Karar: 2016/13638Tarih: 21.10.2016
+
+CMK 38.Madde
+
+Cumhuriyet Başsavcılığına Yapılan Tebligat
+
+Tehdit ve konut dokunulmazlığını ihlâl suçlarından sanıkların 5237 sayılı Kanun’un 106/2-a-c,, 106/2-c,, 43/2-1,, 116/4,, 119/1-c maddeleri uyarınca ayrı ayrı birer kez 3 yıl 9 ay hapis, 3 yıl 1 ay 15 gün hapis ve 2 yıl 12 ay hapis cezaları ile cezalandırılmalarına dair Asliye Ceza Mahkemesinin 11.06.2015 tarihli ve 2014/498 esas, 2015/458 sayılı kararı aleyhine Yüksek Adalet Bakanlığı Ceza İşleri Genel Müdürlüğü’nün 26.04.2016 gün ve 94660652-105-01-2567-2016-Kyb sayılı yazılı istemleri ve Yargıtay Cumhuriyet Başsavcılığının 17.05.2016 günlü, 2016/185486 sayılı tebliğnamesiyle bozma düşüncesiyle daireye gönderilmiş olduğu görülmekle dosya incelendi.
+
+Kanun yararına bozma isteyen tebliğnamede,
+
+Dosya kapsamına göre, sanıkların 26.05.2014 tarihinde mağdurları, 28.05.2014 tarihinde ise … ve …‘i birlikte tehdit ettiklerinin kabul edilmesi karşısında, iki gün ara ile işlenen suçlarda, sanığın silah kullandığı kabul edilmediği halde 106/2. maddenin ( a ) bendinin uygulanmış olması, birlikte suç işleme iradesinin ne şekilde oluştuğunun açıklanmaması, iki gün ara ile işlenen suçlarda, mağdur ve suç çokluğu olması karşısında, sanıkların bir kez cezalandırılarak temel cezalarda 5237 sayılı Kanun’un 43/1, 43/2. maddelerinin birlikte uygulanması yerine; zincirleme şekilde oluşmuş birbirinden bağımsız iki ayrı suç işlendiğinin kabul edilmesi, iddianamedeki eylemler ile sabit kabul edilen eylemlerde 5271 sayılı Ceza Muhakemesi Kanunu’nun 225/1. maddesinde yer alan “Hüküm, ancak iddianamede unsurları gösterilen suça ilişkin fiil ve faili hakkında verilir.” şeklindeki hükme aykırılık bulunup bulunmadığı, sabit kabul edilen eylemlerin hangi suçları oluşturduğunun yeterince tartışılmaması, Cumhuriyet Savcısı tarafından iddianameye elle yazılmak sureti ile ilave edilen “birlikte ölüme tehdit ettikleri” şeklindeki suçlamanın, elektronik imzalı iddianamede bulunmamasının 5271 sayılı Kanun’un 38/A-5 maddesinde yer alan “Elektronik imzalı belgenin elle atılan imzalı belgeyle çelişmesi halinde UYAP’ta kayıtlı olan güvenli elektronik imzalı belge geçerli kabul edilir.” şeklindeki düzenlemeye göre geçerli bir suçlama olmadığının anlaşılması karşısında, yazılı şekilde karar verilmesinde isabet görülmediğinden, 5271 Sayılı Ceza Muhakemesi Kanunu’nun 309.maddesi uyarınca anılan kararın bozulması lüzumu kanun yararına bozma talebine dayanılarak ihbar olunduğu görülmekle, gereği görüşüldü:
+
+KARAR VE SONUÇ : Kanun yararına bozmaya atfen düzenlenen ihbarnamedeki düşünce yerinde görüldüğünden Asliye Ceza Ceza Mahkemesi”nin 11.06.2015 tarihli ve 2014/498 esas, 2015/458 sayılı kararının 5271 sayılı CMK”nın 309. maddesi gereğince, BOZULMASINA, bozma nedenine göre müteakip işlemlerin mahallinde mahkemesince yerine getirilmesine, 21.10.2016 tarihinde oybirliğiyle karar verildi.
+
+YARGITAY 10. CEZA DAİRESİ
+Esas: 2016/552 Karar: 2016/1749Tarih: 03.06.2016
+
+CMK 38. Madde
+
+Cumhuriyet Başsavcılığına Yapılan Tebligat
+
+Sanık müdafiinin temyiz incelemesinin duruşmalı olarak yapılmasına dair isteğinin, süresinden sonra olması nedeniyle, 5320 Sayılı Kanun’un 8. maddesinin 1 fıkras 1 fıkrası ile 1412 Sayılı CMUK’nın 318. ve 5271 Sayılı CMK’nın 299. maddeleri uyarınca reddine karar verilerek, duruşmasız olarak inceleme yapılmıştır.
+
+Yargılama sürecindeki işlemlerin kanuna uygun olarak yapıldığı, aşamalarda ileri sürülen iddia ve savunmaların toplanan tüm delillerle birlikte gerekçeli kararda gösterilip tartışıldığı, eylemin sanık tarafından gerçekleştirildiğinin saptandığı, vicdanî kanının dosya içindeki belge ve bilgilerle uyumlu olarak kesin verilere dayandırıldığı, eyleme uyan suç tipi ile aşağıda belirtilenlerin dışında yaptırımların doğru biçimde belirlendiği anlaşıldığından; yerinde görülmeyen temyiz itirazların reddine,
+Ancak;
+
+1- ) 17.11.2015 tarihli duruşma tutanağında, hükmün esasını oluşturan kısa kararın 2. paragrafının ilk cümlesinde yer alan “suça konu uyuşturucu maddenin eroin olduğu” çizilerek, el yazısı ile “Suçun okula 200 metreden yakın mesafe içinde umumi yerde işlendiği anlaşıldığından 6638 Sayılı Kanun ile eklenen 5237 Sayılı 188/4-b” ibaresinin yazılıp imzalandığı, ancak UYAP sisteminden yapılan kontrolde elektronik imza ile imzalanan duruşma tutanağında bu kısımların yer almadığı, 5271 Sayılı CMK’nın 38/A bendinin 5. fıkras 5. fıkrasında yer alan “Elektronik imzalı belgenin elle atılan imzalı belgeyle çelişmesi halinde UYAP’ta kayıtlı olan güvenli elektronik imzalı belge geçerli kabul edilir.” hükmüne göre UYAP sistemine kayıtlı duruşma tutanağının esas alınmasının gerektiği, suça konu uyuşturucu madde de ADB-FUBINACA olduğu halde, hükmün esasını oluşturan kısa kararda sanık hakkında, suça konu uyuşturucu maddenin eroin olduğu gerekçesiyle, 5237 Sayılı TCK.nun 188/4 maddesi uyarınca cezasından yarı oranında artırım yapılarak mahkûmiyet hükmü kurulduğunun belirtildiği; gerekçeli kararda ve gerekçeli kararın hüküm fıkrasında ise suçun okula 200 metreden yakın mesafe içinde umumi yerde işlendiği gerekçesiyle, 5237 Sayılı 188 /4-b maddesi uyarınca cezasından artırım yapılmak suretiyle kısa karar ile gerekçe ve hüküm fıkrası arasında çelişki oluşturulması,
+
+2- ) Hükümden sonra 24.11.2015 tarih ve 29542 Sayılı Resmi Gazete’de yayımlanarak yürürlüğe giren Anayasa Mahkemesi’nin 08.10.2015 tarihli 2014/140 esas ve 2015/85 karar sayılı kararı ile, 5237 Sayılı TCK’nın 53. maddesinin bazı hükümlerinin iptal edilmesi ve hükmün iptal edilen yoksunlukları da kapsaması nedeniyle, sözü edilen maddenin uygulanması açısından, sanığın durumunun yeniden belirlenmesinde zorunluluk bulunması,
+
+SONUÇ : Bozmayı gerektirmiş, sanık ve müdafiinin temyiz itirazları bu sebeplerle yerinde görülmüş olduğundan, hükmün BOZULMASINA, 03.06.2016 tarihinde oy birliğiyle karar verildi.
+
+YARGITAY 6. CEZA DAİRESİ
+Esas: 2015/8053 Karar: 2015/45587Tarih: 03.12.2015
+
+CMK 38. Madde
+
+Cumhuriyet Başsavcılığına Yapılan Tebligat
+
+Yağma suçundan sanık H.. B.. hakkında yapılan duruşma sonunda; mahkumiyetine ilişkin Denizli Ağır Ceza Mahkemesinden verilen 05.03.2009 tarihli hükmün sanık savunmanının temyizi üzerine Dairemizin 19/11/20114 gün ve 2012/12002 Esas ve 2014/20013 Karar sayılı ilamı ile onama yolundaki kararına karşı Yargıtay Cumhuriyet Başsavcılığının 21/10/2015 gün ve 2015/326824 sayılı yazısı ile kararın düzeltilmesi isteminde bulunulması üzerine dosya 26/10/2015 tarihinde Daireye gönderilmekle okunarak gereği görüşülüp düşünüldü:
+
+TÜRK MİLLETİ ADINA
+
+5271 sayılı CMK’nın 6352 sayılı Yasanın 99. Maddesi ile değişik 308. maddesi gereğince yapılan incelemede;
+
+Denizli 2. Ağır Ceza Mahkemesi tarafından, sanık H.. B.. hakkında 05/03/2009 tarih, 2006/134 esas ve 2009/66 karar sayılı ilam ile verilen 2 yıl 7 ay 15 gün hapis cezasına ilişkin mahkumiyet hükmünün, Dairemizin 19/11/2014 tarih, 2012/12002 esas ve 2014/20013 karar sayılı ilamı ile onandığı, Yargıtay Cumhuriyet Başsavcılığı’nın 21/10/2015 tarihli yazısı ile anılan onama kararına itiraz edildiği, incelenmek üzere gönderilen dava dosyası incelendiğinde; onaysız olan dosya evrakının UYAP sistemindeki taralı belgelerden çıkartıldığı, UYAP sistemindeki evrakın ise 5271 sayılı Yasanın 38/A maddesinde belirtilen elektronik işlemlere uygun olarak düzenlenmediği anlaşıldığından, Denizli 2. Ağır Ceza Mahkemesinin 2006/134 esas sayılı dosya aslı veya dosyadaki tüm belge ve dilekçeleri içerecek şekilde onaylı örneğinin Yargıtay denetimine olanak sağlaması bakımından eklenmesinden sonra, itirazın incelenmek üzere Dairemize gönderilmesi için dosyanın Yargıtay Cumhuriyet Başsavcılığına İADESİNE, 03.12.2015 tarihinde oy birliği ile karar verildi.
+
+YARGITAY 10. CEZA DAİRESİ
+Esas: 2007/14011 Karar: 2007/11571Tarih: 08.10.2007
+
+CMK 38. Madde
+
+Cumhuriyet Başsavcılığına Yapılan Tebligat
+
+Kullanmak için uyuşturucu madde bulundurmak suçundan sanık B… H… K… hakkında M… Asliye Ceza Mahkemesince yapılan yargılama sonunda, 01.06.2005 tarihinde 2001/85 esas, 2003/12 karar sayı ile mahkumiyet kararı verildiği; hükmün Dairemizin 10.02.2004 tarihli ve 2003/8795 esas, 2004/1127 karar sayılı ilamı ile verilen düzeltilerek onama kararı ile kesinleştiği; hükmün infazı aşamasında, 5237 sayılı TCK’nın yürürlüğe girmesi nedeniyle, lehe olan kanunun belirlenmesi yönünden C. Savcılığınca yapılan başvuru üzerine, dosya üzerinde yapılan inceleme sonucunda 01.06.2005 tarihinde, aynı sayı ile 1.428.401.520.-TL ağır para cezasının 1.200.-YTL adli para cezası olarak infazına karar verildiği, kararının o yer C. savcısı tarafından temyiz edildiği; Yargıtay C. Başsavcılığınca bozma isteğiyle dava dosyasının tebliğname ekinde 19.09.2007 tarihinde Dairemize gönderildiği anlaşıldı. Dosya incelendi.
+
+Gereği düşünüldü:
+
+KARAR : 5271 sayılı CMK’nın “Cumhuriyet Savcılığına yapılan tebligat” başlıklı 38. maddesinde, “Cumhuriyet Başsavcılığına yapılan tebligat, tebliği gereken evrakın aslının verilmesi suretiyle olur. Tebliğ ile bir süre işlemeye başlıyorsa verildiği gün, Cumhuriyet Başsavcılığı tarafından evrakın aslına yazılır.” hükmü öngörülmekte olup; temyiz isteğine konu ek kararın aslına, o yer C. Başsavcılığına verildiği günün C. Başsavcılığınca yazılmamış olması karşısında, kararın usulüne uygun olarak tebliğ edilmediği; bu nedenle, temyiz dilekçesinin sunulduğu günün, usulsüz tebligattın, öğrenilerek geçerlilik kazandığı gün ve temyiz dilekçesinin de süresinde yapılmış bir temyiz isteği olduğu kabul edilerek yapılan incelemede;
+
+I- Yargıtay Ceza Genel Kurulu’nun 27.12.2005 tarih ve 2005/ 162-173 sayılı kararında belirtildiği üzere; 5252 sayılı Kanun’un 9. maddesi gereğince, lehe kanunun saptanıp uygulanması için; herhangi bir inceleme ve araştırma yapılması, kanıt toplanması, takdir hakkının kullanılması gerekiyorsa ya da cezanın kişiselleştirilmesine veya hapis cezasına seçenek yaptırımlara ilişkin bir hükmün uygulanması olanağını sonraki kanun sağlamışsa, “duruşma yapılması” zorunludur. Sonraki kanunun lehe olduğunun kabul edilerek “derhal uygulanması” ve buna bağlı olarak “duruşma yapılmaksızın da karar verilebilmesi” ancak diğer durumlarda mümkündür.
+
+5237 sayılı TCK’nın lehe kabul edilmesi halinde; anılan Kanun’un 191. maddesi uyarınca, hapis cezasından ayrı olarak denetimli serbestlik tedbiri ve tedaviye hükmedilmesi gerekip gerekmediğinin tartışılmasında ve tedaviye hükmedilebilmesi için de, sanığın suç tarihinde ve öncesinde uyuşturucu madde kullanıp kullanmadığının belirlenmesinde zorunluluk bulunması; böylelikle, anılan maddede hapis cezasına seçenek yaptırımların bulunması ve tedavi uygulanması için belirtilen şekilde inceleme ve duruma göre araştırma yapılmasının gerekmesi nedeniyle, lehe olan hükümlerin derhal uygulanmasının koşulları bulunmadığı halde, duruşma açılması gerekirken duruşmasız olarak yapılan inceleme sonucu karar verilmesi,
+
+II- Kabule göre;
+
+A ) 5252 sayılı Türk Ceza Kanununun Yürürlük ve Uygulama Şekli Hakkında Kanunun 9/3. maddesinin “Lehe olan hüküm, önceki ve sonraki kanunların ilgili bütün hükümleri olaya uygulanarak, ortaya çıkan sonuçların birbirleriyle karşılaştırması suretiyle belirlenir.” hükmüne aykırı olarak, karar gerekçesinde 5237 sayılı Türk Ceza Kanununa göre takdir edilen hapis veya para cezaları ile uygulama sonucu gösterilmeden ve her iki yasaya göre yapılan uygulama sonuçları karşılaştırılıp somutlaştırılmadan, yazılı şekilde karar verilmesi,
+
+B ) 19.12.2006 tarihli Resmi Gazetede yayınlanarak yürürlüğe giren 5560 sayılı “Çeşitli Kanunlarda Değişiklik Yapılmasına İlişkin Kanun”la değiştirilen 5237 sayılı Türk Ceza Kanunu’nun 191. maddesinde, kullanmak için uyuşturucu veya uyarıcı madde satın alan, kabul eden veya bulunduran kişi hakkında;
+
+1- Birinci fıkraya göre cezaya hükmedilmeden önce;
+
+aa ) Uyuşturucu veya uyarıcı madde kullanan kişi hakkında, tedaviye ve denetimli serbestlik tedbirine,
+
+bb ) Kullanmamakla birlikte, kullanmak için uyuşturucu veya uyarıcı madde satın alan, kabul eden veya bulunduran kişi hakkında denetimli serbestlik tedbirine,
+
+Karar verilebileceği,
+
+2- Tedavinin ve denetimli serbestlik tedbirinin gereklerine uygun davranması halinde açılmış olan davanın düşmesine hükmedileceği
+
+Öngörülmüştür.
+
+Belirtilen bu değişiklik karşısında, 5237 sayılı Türk Ceza Kanunu’nun 7. maddesi uyarınca; hükümlünün hukuki durumunun yeniden değerlendirilip belirlenmesinde zorunluluk bulunması,
+
+SONUÇ : Bozmayı gerektirmiş, o yer C. Savcılığının temyiz itirazları bu nedenle yerinde görülmüş olduğundan, hükmün istem gibi BOZULMASINA, 08.10.2007 tarihinde oy birliğiyle karar verildi.
+
+YARGITAY 16. CEZA DAİRESİ
+Esas: 2017/765 Karar: 2017/1165Tarih: 08.03.2017
+
+CMK 38/A. Madde
+
+Elektronik İşlemler
+
+Yargıtay Cumhuriyet Başsavcılığının Dairemizin 09.11.2016 tarih ve 2015/2879 Esas, 2016/6286 Karar sayılı kararına karşı yapılan itirazın incelenmesinden, çözümü gereken sorunun, Cumhuriyet savcısının iştirak etmediği asliye ceza mahkemesi veya çocuk mahkemesi kararlarına karşı Cumhuriyet savcısının temyiz süresinin ne zaman başlayacağı olduğu anlaşılmaktadır.
+
+Somut olayda; atılı suçlardan dolayı suça sürüklenen çocuk hakkında Gaziosmanpaşa Çocuk Mahkemesi tarafından verilmiş olan 22.05.2013 tarih ve 2012/388 Esas, 2013/677 Karar sayılı beraat hükmünün görüldü yapıldığı tarihten bir haftadan fazla süre geçtikten sonra o yer Cumhuriyet savcısı tarafından temyiz edilmesi üzerine, Dairemizin 09.11.2016 tarih ve 2015/2879 Esas, 2016/6286 Karar sayılı kararı ile Cumhuriyet savcısının 1412 Sayılı CMUK’nın 310/1 maddesinde öngörülen bir haftalık temyiz süresi geçtikten sonra hükmü temyiz etmiş olması gerekçesi ile 1412 Sayılı CMUK’nın 317. maddesi uyarınca temyiz isteminin reddine karar verilmiş olduğu anlaşılmıştır.
+
+Yargıtay Cumhuriyet Başsavcılığı ise itirazında özetle; Cumhuriyetsavcısının duruşmalarına iştirak etmediği çocuk mahkemeleri ile ilgili olarak, temyiz süresinin Cumhuriyet savcısı yönünden düzenleyen bir hüküm bulunmadığından, sorunun 1412 Sayılı CMUK’nın “Temyiz talebi ve süresi” başlıklı 310. maddesi kıyasen uygulanarak çözümlenmesi gerektiğini, bu kapsamda o yer Cumhuriyet savcılarının duruşmalarına iştirak etmediği ceza mahkemesi kararlarına yönelik temyiz sürelerinin de CMUK’nın 310/3 maddesinin kıyasen uygulanmak suretiyle tefhim tarihinden itibaren belirlenerek tefhim tarihinden itibaren bir ay olduğunun kabul edilmesi gerektiğini, Ceza Genel Kurulunun da 06.11.2007 tarih ve 167-222 Sayılı kararında da benzer bir yaklaşımı kabul ettiğini ileri sürmüştür.
+
+Dairemizce yapılan incelemelerden, Yargıtay Cumhuriyet Başsavcılığının itirazında belirtmiş olduğu Ceza Genel Kurulu kararının eldeki uyuşmazlık konusu ile aynı konuya dair olmadığı anlaşılmaktadır. Nitekim, Yargıtay Cumhuriyet Başsavcılığı itirazında da Yargıtay Ceza Genel Kurulunun “benzer bir yaklaşımı” kabul ettiği belirtilerek, söz konusu Yargıtay Ceza Genel Kurulu kararının yorum yoluyla kapsamı genişletilmiştir. Oysa söz konusu Yargıtay Ceza Genel Kurulu kararının konusu ile sınırlı ve gerekçesi ile açıklayıcı olarak kabul edilmesi gerekir.
+
+Dairemizce de Yargıtay Cumhuriyet Başsavcılığının itirazında ve söz konusu itirazda anılan Yargıtay Ceza Genel Kurulu kararında belirtilen şu husus aynen kabul edilmektedir: Cumhuriyet savcısının duruşmalarına iştirak etmediği çocuk mahkemeleri ile ilgili olarak, temyiz süresinin Cumhuriyet savcısı yönünden düzenleyen bir hüküm bulunmadığından, sorunun 1412 Sayılı CMUK’nın “Temyiz talebi ve süresi” başlıklı 310. maddesi kıyasen uygulanarak çözümlenmesi gerekir.
+
+Bilineceği üzere, kanun sadece lafzına göre değil, hem lafzına hem de ruhuna göre yorumlanmalı ve kanunun yalnız lafzına dayanılarak hükümlerin konuluş maksatlarına aykırı neticelere varılmasına meydan bırakılmaması, hukuk ilminin ve tatbikatının ana kaidelerindendir.
+
+5320 Sayılı Ceza Muhakemesi Kanununun Yürürlük ve Uygulama Şekli Hakkında Kanunun 8. maddesinin 1. fıkrasına göre; “Bölge Adliye Mahkemelerinin 26.09.2004 tarihli ve 5235 Sayılı Adli Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkındaki Kanunun geçici 2. maddesi uyarınca Resmi Gazete’de ilan edilerek göreve başlama tarihinden önce aleyhine kanun yoluna başvurulmuş olan kararlar hakkında, kesinleşinceye kadar Ceza Muhakemeleri Usulü Kanununun 322. maddesinin dördüncü, beşinci ve altıncı fıkraları hariç olmak üzere, 305, 326. maddeleri uygulanır.” Bu madde hükmüne göre, temyiz ile ilgili olarak 1412 Sayılı CMUK’nın 305, 326. maddelerinin halen yürürlükte olduğu çok açıktır.
+
+Temyize konu hüküm tarihinde istinaf mahkemeleri göreve başlamadığından, 5271 Sayılı CMK’nın 291. maddesi yürürlüğe girmemiştir. Dolayısıyla 1412 Sayılı CMUK’nın 310. maddesi yürürlüğünü devam ettirmektedir.
+
+1412 Sayılı CMUK’nın “Temyiz talebi ve süresi başlıklı 310. maddesi şöyledir:
+
+“Temyiz talebi, hükmün tefhiminden bir hafta içinde hükmü veren mahkemeye bir dilekçe verilmesi veya zabıt katibine yapılacak beyanla olur. Beyan tutanağa geçirilir ve tutanak hakime tasdik ettirilir.
+
+Hükmün tefhimi sanığın yokluğunda olmuşsa bu süre tebliğ tarihinden başlar.
+
+Sulh mahkemelerinin temyizi kabil kararları, yargı çevresi içinde bulundukları asliye ve ağır ceza mahkemeleri nezdindeki Cumhuriyet savcıları tarafından, tefhim tarihinden itibaren bir ay içinde temyiz edilebilir.”
+
+1412 Sayılı CMUK’nın 310/3 maddesine1412 Sayılı CMUK’nın 310/3 maddesine göre sulh ceza mahkemelerinin kararlarına yönelik Cumhuriyet savcılarının temyiz süresinin tefhimden itibaren bir ay olduğu konusunda duraksama bulunmamaktadır. Uyuşmazlık; Cumhuriyet savcılarının asliye ceza mahkemesi veya çocuk mahkemesi kararlarına karşı temyiz sürelerinin tebliğden ya da başka bir ifadeyle görüldü tarihinden itibaren bir hafta mı yoksa tefhimden itibaren başlayarak bir ay mı olduğu noktasında toplanmaktadır.
+
+1412 Sayılı CMUK’nın 310. maddesinin1412 Sayılı CMUK’nın 310. maddesinin birinci fıkrasında, temyiz talebinin hükmün tefhiminden itibaren bir hafta içinde yapılması öngörülmüş; ikinci fıkrasında ise hükmün tefhimi sanığın yokluğunda olmuşsa bu sürenin tebliğden itibaren başlayacağı belirtilerek, sadece sanıkla ilgili olarak bir düzenleme yapılmıştır. Dolayısıyla Cumhuriyet savcılarının duruşmasına katılmadıkları asliye ceza mahkemesi veya çocuk mahkemesi kararlarına yönelik temyiz süresinin tefhimden mi yoksa tebliğden mi başlayacağı hususuna değinilmemiştir. Fakat bu boşluğun 5271 Sayılı CMK’nın 35,, 38, 260. maddeleri ile doldurulmuş olduğu açıkça anlaşılabilmektedir.
+
+5271 Sayılı CMK’nın 260/2 maddesinde5271 Sayılı CMK’nın 260/2 maddesinde, ağır ceza mahkemelerinde bulunan Cumhuriyet savcılarının, ağır ceza mahkemesinin yargı çevresindeki asliye ceza mahkemelerinin kararlarına karşı kanun yollarına başvurabilecekleri hükme bağlanmıştır. “Kanun yolu” ibaresinin temyizi de içerdiği şüphesizdir. Yine, 5271 Sayılı CMK’nın 35/2 maddesine göre; aleyhine kanun yoluna başvurulabilecek hâkim veya mahkeme kararları, hazır bulunamayan ilgilisine tebliğ olunur. Söz konusu hükümdeki “ilgili” kavramına Cumhuriyet savcısının da girdiği tartışmasızdır. 5271 Sayılı CMK’nın “Cumhuriyet Başsavcılığına yapılan tebligat” başlıklı 38. maddesine göre ise; “Cumhuriyet Başsavcılığına yapılan tebligat, tebliği gereken evrakın aslının verilmesi suretiyle olur. Tebliğ ile bir süre işlemeye başlıyorsa verildiği gün, Cumhuriyet Başsavcılığı tarafından evrakın aslına yazılır.” Buna göre, Cumhuriyet savcısına yapılan tebliğ, evrakın aslının verilmesi suretiyle olacaktır. Nihayet, 5271 Sayılı CMK’nın “Elektronik işlemler” başlıklı 38/A maddesine göre de her türlü ceza muhakemesi işlemlerinde Ulusal Yargı Ağı Bilişim Sistemi (UYAP) kullanılır. Bu işlemlere dair her türlü veri, bilgi, belge ve karar, UYAP vasıtasıyla işlenir, kaydedilir ve saklanır. Kanunlarda gösterilen istisnalar hariç olmak üzere, dosyalar güvenli elektronik imza kullanılarak UYAP’tan incelenebilir ve her türlü ceza muhakemesi işlemi yapılabilir. Fiziki olarak hazırlanması öngörülen her türlü belge ve karar elektronik ortamda düzenlenebilir, işlenebilir, saklanabilir ve güvenli elektronik imza ile imzalanabilir.Güvenli elektronik imza ile imzalanan belge ve kararlar diğer kişi veya kurumlara elektronik ortamda gönderilir. Güvenli elektronik imza ile imzalanarak gönderilen belge veya kararlar, gerekmedikçe fiziki olarak ayrıca düzenlenmez ve ilgili kurum ve kişilere gönderilmez.
+
+5271 Sayılı CMK’nın yukarıda anılan maddeleri itiraz, istinaf ve temyiz olmak üzere tüm kanun yollarında uygulanması gereken genel mahiyetteki hükümlerdir. Uyuşmazlık konusu somut davada, 5320 Sayılı Ceza Muhakemesi Kanununun Yürürlük ve Uygulama Şekli Hakkında Kanunun 8/1 maddesi uyarınca temyiz ile ilgili olarak 1412 Sayılı CMUK’nın 305, 326. maddelerinin halen yürürlükte olduğundan, 5271 Sayılı CMK’nın temyizle ilgili olan özel nitelikteki 291. maddesi uygulanamamaktadır. Buna karşılık, 5271 Sayılı CMK’nın tüm kanun yollarına dair olan genel nitelikteki 35,, 38, 260. maddeleri uygulanabilmektedir. Dolayısıyla, 1412 Sayılı CMUK’nın 310. maddesindeki Cumhuriyet savcısının iştirak etmediği asliye ceza mahkemesi veya çocuk mahkemesi kararlarına karşı Cumhuriyet savcısının temyiz süresine dair eksiklik 5271 Sayılı CMK’nın 35,, 38, 260. maddeleri ile doldurulmaktadır.
+
+Eldeki dava açısından yürürlüğe girmemiş olan 5271 Sayılı CMK’nın 291. maddesine göre, temyiz süresi yedi gündür. Eldeki dava açısından yürürlükte olan 1412 Sayılı CMUK’nın 310. maddesine göre ise bir haftadır. Her iki kanunda da Cumhuriyet savcısının temyiz hakkı olup, yoklukta verilen kararların tebliği öngörülmüştür. Eldeki davada hüküm Cumhuriyet savcısına görüldüye gönderilmek suretiyle tebliğ edilmiş ve Cumhuriyet savcısı bir haftalık temyiz süresi geçtikten sonra temyiz talebinde bulunmuştur. Cumhuriyet savcısı, asliye ceza mahkemesindeki veya çocuk mahkemesindeki duruşmaya katılmamaktadır. Şayet duruşmaya katılmış olsaydı, yüzüne karşı verilen kararı bir hafta içinde temyiz edebilecekti. Hal böyle iken, öğrenme tarihi olan görüldü tarihinden itibaren bir hafta içinde hükmü temyiz etmesi gerekir. Kaldı ki, ceza yargılamasında tarafların eşitliği ilkesi kabul edilmiştir. Sanığa ve katılana tanınan bir haftalık sürenin Cumhuriyet savcısı açısından bir ay olarak kabul edilmesi, tarafların eşitliği ilkesinin ihlali olur.
+
+SONUÇ : Tüm bu açıklamalar karşısında; Yargıtay Cumhuriyet Başsavcılığının itirazının yerinde olmadığı ve kararın düzeltilmesini gerektiren bir neden bulunmadığı ve Yargıtay Ceza Genel Kurulunca değerlendirilmesi yerinde olacağı anlaşıldığından; dosyanın Yargıtay Ceza Genel Kuruluna gönderilmesi için Yargıtay Cumhuriyet Başsavcılığına TEVDİİNE, 08.03.2017 tarihinde oy birliğiyle karar verildi.
+
+YARGITAY 4. CEZA DAİRESİ
+Esas: 2016/11490 Karar: 2016/13638Tarih: 21.10.2016
+
+CMK 38/A. Madde
+
+Elektronik İşlemler
+
+Tehdit ve konut dokunulmazlığını ihlâl suçlarından sanıkların 5237 sayılı Kanun’un 106/2-a-c,, 106/2-c,, 43/2-1,, 116/4,, 119/1-c maddeleri uyarınca ayrı ayrı birer kez 3 yıl 9 ay hapis, 3 yıl 1 ay 15 gün hapis ve 2 yıl 12 ay hapis cezaları ile cezalandırılmalarına dair Asliye Ceza Mahkemesinin 11.06.2015 tarihli ve 2014/498 esas, 2015/458 sayılı kararı aleyhine Yüksek Adalet Bakanlığı Ceza İşleri Genel Müdürlüğü’nün 26.04.2016 gün ve 94660652-105-01-2567-2016- Kyb sayılı yazılı istemleri ve Yargıtay Cumhuriyet Başsavcılığının 17.05.2016 günlü, 2016/185486 sayılı tebliğnamesiyle bozma düşüncesiyle daireye gönderilmiş olduğu görülmekle dosya incelendi.
+
+Kanun yararına bozma isteyen tebliğnamede,
+
+Dosya kapsamına göre, sanıkların 26.05.2014 tarihinde mağdurları, 28.05.2014 tarihinde ise … ve …‘i birlikte tehdit ettiklerinin kabul edilmesi karşısında, iki gün ara ile işlenen suçlarda, sanığın silah kullandığı kabul edilmediği halde 106/2. maddenin ( a ) bendinin uygulanmış olması, birlikte suç işleme iradesinin ne şekilde oluştuğunun açıklanmaması, iki gün ara ile işlenen suçlarda, mağdur ve suç çokluğu olması karşısında, sanıkların bir kez cezalandırılarak temel cezalarda 5237 sayılı Kanun’un 43/1, 43/2. maddelerinin birlikte uygulanması yerine; zincirleme şekilde oluşmuş birbirinden bağımsız iki ayrı suç işlendiğinin kabul edilmesi, iddianamedeki eylemler ile sabit kabul edilen eylemlerde 5271 sayılı Ceza Muhakemesi Kanunu’nun 225/1. maddesinde yer alan “Hüküm, ancak iddianamede unsurları gösterilen suça ilişkin fiil ve faili hakkında verilir.” şeklindeki hükme aykırılık bulunup bulunmadığı, sabit kabul edilen eylemlerin hangi suçları oluşturduğunun yeterince tartışılmaması, Cumhuriyet Savcısı tarafından iddianameye elle yazılmak sureti ile ilave edilen “birlikte ölüme tehdit ettikleri” şeklindeki suçlamanın, elektronik imzalı iddianamede bulunmamasının 5271 sayılı Kanun’un 38/A-5 maddesinde yer alan “Elektronik imzalı belgenin elle atılan imzalı belgeyle çelişmesi halinde UYAP’ta kayıtlı olan güvenli elektronik imzalı belge geçerli kabul edilir.” şeklindeki düzenlemeye göre geçerli bir suçlama olmadığının anlaşılması karşısında, yazılı şekilde karar verilmesinde isabet görülmediğinden, 5271 Sayılı Ceza Muhakemesi Kanunu’nun 309.maddesi uyarınca anılan kararın bozulması lüzumu kanun yararına bozma talebine dayanılarak ihbar olunduğu görülmekle, gereği görüşüldü:
+
+KARAR VE SONUÇ : Kanun yararına bozmaya atfen düzenlenen ihbarnamedeki düşünce yerinde görüldüğünden Asliye Ceza Ceza Mahkemesi”nin 11.06.2015 tarihli ve 2014/498 esas, 2015/458 sayılı kararının 5271 sayılı CMK”nın 309. maddesi gereğince, BOZULMASINA, bozma nedenine göre müteakip işlemlerin mahallinde mahkemesince yerine getirilmesine, 21.10.2016 tarihinde oy birliğiyle karar verildi.
+
+YARGITAY 10. CEZA DAİRESİ
+Esas: 2016/552 Karar: 2016/1749Tarih: 03.06.2016
+
+CMK 38/A Madde
+
+Elektronik İşlemler
+
+Sanık müdafiinin temyiz incelemesinin duruşmalı olarak yapılmasına dair isteğinin, süresinden sonra olması nedeniyle, 5320 Sayılı Kanun’un 8. maddesinin 1 fıkras 1 fıkrası ile 1412 Sayılı CMUK’nın 318. ve 5271 Sayılı CMK’nın 299. maddeleri uyarınca reddine karar verilerek, duruşmasız olarak inceleme yapılmıştır.
+
+Yargılama sürecindeki işlemlerin kanuna uygun olarak yapıldığı, aşamalarda ileri sürülen iddia ve savunmaların toplanan tüm delillerle birlikte gerekçeli kararda gösterilip tartışıldığı, eylemin sanık tarafından gerçekleştirildiğinin saptandığı, vicdanî kanının dosya içindeki belge ve bilgilerle uyumlu olarak kesin verilere dayandırıldığı, eyleme uyan suç tipi ile aşağıda belirtilenlerin dışında yaptırımların doğru biçimde belirlendiği anlaşıldığından; yerinde görülmeyen temyiz itirazların reddine,
+
+Ancak;
+
+1- ) 17.11.2015 tarihli duruşma tutanağında, hükmün esasını oluşturan kısa kararın 2. paragrafının ilk cümlesinde yer alan “suça konu uyuşturucu maddenin eroin olduğu” çizilerek, el yazısı ile “Suçun okula 200 metreden yakın mesafe içinde umumi yerde işlendiği anlaşıldığından 6638 Sayılı Kanun ile eklenen 5237 Sayılı 188/4-b” ibaresinin yazılıp imzalandığı, ancak UYAP sisteminden yapılan kontrolde elektronik imza ile imzalanan duruşma tutanağında bu kısımların yer almadığı, 5271 Sayılı CMK’nın 38/A bendinin 5. fıkras 5. fıkrasında yer alan “Elektronik imzalı belgenin elle atılan imzalı belgeyle çelişmesi halinde UYAP’ta kayıtlı olan güvenli elektronik imzalı belge geçerli kabul edilir.” hükmüne göre UYAP sistemine kayıtlı duruşma tutanağının esas alınmasının gerektiği, suça konu uyuşturucu madde de ADB-FUBINACA olduğu halde, hükmün esasını oluşturan kısa kararda sanık hakkında, suça konu uyuşturucu maddenin eroin olduğu gerekçesiyle, 5237 Sayılı TCK.nun 188/4 maddesi uyarınca cezasından yarı oranında artırım yapılarak mahkûmiyet hükmü kurulduğunun belirtildiği; gerekçeli kararda ve gerekçeli kararın hüküm fıkrasında ise suçun okula 200 metreden yakın mesafe içinde umumi yerde işlendiği gerekçesiyle, 5237 Sayılı 188 /4-b maddesi uyarınca cezasından artırım yapılmak suretiyle kısa karar ile gerekçe ve hüküm fıkrası arasında çelişki oluşturulması,
+
+2- ) Hükümden sonra 24.11.2015 tarih ve 29542 Sayılı Resmi Gazete’de yayımlanarak yürürlüğe giren Anayasa Mahkemesi’nin 08.10.2015 tarihli 2014/140 esas ve 2015/85 karar sayılı kararı ile, 5237 Sayılı TCK’nın 53. maddesinin bazı hükümlerinin iptal edilmesi ve hükmün iptal edilen yoksunlukları da kapsaması nedeniyle, sözü edilen maddenin uygulanması açısından, sanığın durumunun yeniden belirlenmesinde zorunluluk bulunması,
+
+SONUÇ : Bozmayı gerektirmiş, sanık ve müdafiinin temyiz itirazları bu sebeplerle yerinde görülmüş olduğundan, hükmün BOZULMASINA, 03.06.2016 tarihinde oy birliğiyle karar verildi.
+
+YARGITAY 6. CEZA DAİRESİ
+Esas: 2015/8053 Karar: 2015/45587Tarih: 03.12.2015
+
+CMK 38/A Madde
+
+Elektronik İşlemler
+
+Yağma suçundan sanık H.. B.. hakkında yapılan duruşma sonunda; mahkumiyetine ilişkin Denizli Ağır Ceza Mahkemesinden verilen 05.03.2009 tarihli hükmün sanık savunmanının temyizi üzerine Dairemizin 19/11/20114 gün ve 2012/12002 Esas ve 2014/20013 Karar sayılı ilamı ile onama yolundaki kararına karşı Yargıtay Cumhuriyet Başsavcılığının 21/10/2015 gün ve 2015/326824 sayılı yazısı ile kararın düzeltilmesi isteminde bulunulması üzerine dosya 26/10/2015 tarihinde Daireye gönderilmekle okunarak gereği görüşülüp düşünüldü:
+
+5271 sayılı CMK’nın 6352 sayılı Yasanın 99. Maddesi ile değişik 308. maddesi gereğince yapılan incelemede;
+Denizli 2. Ağır Ceza Mahkemesi tarafından, sanık H.. B.. hakkında 05/03/2009 tarih, 2006/134 esas ve 2009/66 karar sayılı ilam ile verilen 2 yıl 7 ay 15 gün hapis cezasına ilişkin mahkumiyet hükmünün, Dairemizin 19/11/2014 tarih, 2012/12002 esas ve 2014/20013 karar sayılı ilamı ile onandığı, Yargıtay Cumhuriyet Başsavcılığı’nın 21/10/2015 tarihli yazısı ile anılan onama kararına itiraz edildiği, incelenmek üzere gönderilen dava dosyası incelendiğinde; onaysız olan dosya evrakının UYAP sistemindeki taralı belgelerden çıkartıldığı, UYAP sistemindeki evrakın ise 5271 sayılı Yasanın 38/A maddesinde belirtilen elektronik işlemlere uygun olarak düzenlenmediği anlaşıldığından, Denizli 2. Ağır Ceza Mahkemesinin 2006/134 esas sayılı dosya aslı veya dosyadaki tüm belge ve dilekçeleri içerecek şekilde onaylı örneğinin Yargıtay denetimine olanak sağlaması bakımından eklenmesinden sonra, itirazın incelenmek üzere Dairemize gönderilmesi için dosyanın Yargıtay Cumhuriyet Başsavcılığına İADESİNE, 03.12.2015 tarihinde oybirliği ile karar verildi.
+
+YARGITAY 2. CEZA DAİRESİ
+Esas: 2015/11249 Karar: 2015/17613Tarih: 08.10.2015
+
+CMK 38/A Madde
+
+Elektronik İşlemler
+
+Katılan vekilinin yüzüne karşı verilen 01.04.2014 tarihli kararı yasal bir haftalık süre içinde 08.04.2013 tarihinde saat 17.55’te UYAP sistemi üzerinden temyiz ettiği ve 5271 sayılı CMK’nın 38/A maddesinin 9. fıkrası uyarınca da süre gün sonunda biteceğinden temyiz isteminin süresinde olduğu belirlenerek ve katılan vekilinin temyiz isteminin reddine dair 16/05/2014 gün ve 2011/404 Esas - 2014/30 Karar sayılı ek karar kaldırılarak yapılan incelemede;
+
+1-Fiilin suç oluşturmaması nedeniyle derhal beraat kararı verilmesi dışında, delillerin takdir ve tayini gereken durumlarda sanıkların sorgusu yapılıp savunması saptanmadan beraat kararı verilemeyeceği gözetilmeden, 5271 sayılı CMK’nın 193/2. maddesine yanlış anlam verilerek aynı Kanun’un 191. ve 147. maddeleri gereğince sanıkların sorgusu yapılmadan delil takdiri yapılarak eksik kovuşturma ile yazılı şekilde hüküm kurulması,
+
+2-02.07.2012 tarihinde kabul edilip 28344 sayılı Resmi Gazete’de yayımlanan ve 05.07.2012 tarihinde yürürlüğe giren 6352 sayılı Kanun’un geçici 2. maddesinin 1., 2. fıkras 1. ve 2. fıkrası hükümleri birlikte ele alınıp değerlendirildiğinde, “yapılan değişiklikle amaçlananın bu kapsam dâhilindeki suçlar bakımından kurum zararının ödenmesi halinde, olayın sanık ya da sanıkları hakkında ceza verilmesine yer olmadığı kararı verilerek işin esasına girilmesinin önlenmesi” olduğu değerlendirilip, katılan kurumun cezasız ve vergisiz gerçek zararı bilirkişiye hesaplattırılıp, sanığa miktar da belirtilmek suretiyle “bilirkişinin hesapladığı kurumun cezasız ve vergisiz gerçek zararını gidermesi durumunda 6352 sayılı Kanun’un geçici 2. maddesi gereğince hakkında ceza verilmesine yer olmadığı kararı verileceğine” ilişkin bildirimde bulunulduktan sonra yasal sürenin geçmesi nedeni ile sanıklara makul bir süre de tanınıp bu süre beklenilerek, sonucuna göre sanıkların hukuki durumunun takdir ve tayininin gerektiği gözetilmeden ve ödeme ihtaratı yapılmadan yazılı şekilde karar verilmesi,
+
+Sonuç: Bozmayı gerektirmiş, katılan vekilinin temyiz itirazları bu itibarla yerinde görülmüş olduğundan diğer yönleri incelenmeyen hükmün 1412 sayılı CMUK’nın 321. maddesi uyarınca bu sebeplerden dolayı isteme aykırı olarak BOZULMASINA, 08.10.2015 gününde oy birliğiyle karar verildi.
+
+YARGITAY 11. CEZA DAİRESİ
+Esas: 2012/11103 Karar: 2012/20696Tarih: 30.11.2012
+
+CMK 38/A Madde
+
+Elektronik İşlemler
+
+28.09.2010 ve 09.11.2010 tarihli duruşma tutanakları hakim ve katip tarafından elektronik imza ile imzalanmış ise de; 5271 sayılı CMK’nun 219. maddesi “… tutanak, mahkeme başkanı veya hâkim ile zabıt kâtibi tarafından imzalanır.”, amir hükmünü içermesi, 5070 sayılı Yasanın 5/1. maddesi de “… güvenli elektronik imza, elle atılan imza ile aynı hukuki sonucu doğurur…” ilkesini getirmesi karşısında anılan yasal düzenlemeler dikkate alındığında; hukuki sonuçları bakımından elektronik imza ile ıslak imzanın aynı olduğu, kaldı ki 6352 sayılı Yasanın 95. maddesi ile 02.07.2012 tarihinde yürürlüğe giren 5271 sayılı Yasanın 38/A. maddesi gereğince her türlü ceza muhakemesi işlemlerinde Ulusal Yargı Ağı Bilişim Sistemi ( UYAP ) kullanılmasının zorunlu hale geldiği cihetle tebliğnamedeki bozma düşüncesine iştirak edilmemiştir.
+
+SONUÇ : Toplanan deliller karar yerinde incelenip, sanığın suçunun sübutu kabul, oluşa ve soruşturma sonuçlarına uygun şekilde vasfı tayin olunmuş, savunması inandırıcı gerekçelerle reddedilmiş ve incelenen dosyaya göre verilen hükümde eleştiri dışında bir isabetsizlik görülmemiş olduğundan sanığın yerinde görülmeyen temyiz itirazlarının reddiyle hükmün ONANMASINA, 30.11.2012 gününde oybirliği ile karar verildi.
+
+UYARI

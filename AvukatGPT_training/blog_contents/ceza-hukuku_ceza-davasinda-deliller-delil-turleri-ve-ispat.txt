@@ -1,0 +1,176 @@
+Ceza Muhakemesinde Deliller
+
+Vicdani Delil Sistemi Nedir?
+
+Ceza Muhakemesinde İspat ve Delillerin Özellikleri
+
+Ceza Muhakemesinde Delil Çeşitleri Nelerdir?
+
+1. Beyan Delili
+
+1.1. Tanık Beyanı
+
+1.2. Şüpheli veya Sanık Beyanı
+
+1.3. Sanık Dışındaki Tarafların Beyanı
+
+2. Belge Delili
+
+3. Belirti Delili
+
+Video, Fotoğraf ve Ses Kaydı ile Şekil Tespit Eden İspat Vasıtalarının Delil Değeri
+
+Bilirkişi Mütalaasının Delil Değeri
+
+Keşif ve Hukuki Niteliği
+
+Yargıtay’a Göre Deliller
+
+Delil Türleri Nelerdir?
+
+Delillerin Mahiyeti ve Türleri
+
+Ceza muhakemesinde delillerin serbestliği ilkesi geçerlidir. Buna göre, ceza muhakamesinde olayı temsil eden akla, mantığa, bilime ve hukuka uygun olanher şeydelil olabilir. Ceza muhakemesinde hangi hususun hangi delillerle ispat olunacağı konusunda bir sınırlama bulunmayıp, yargılamayı yapan hakim hukuka uygun şekilde elde edilmiş her türlü delili kullanmak suretiyle, sanığın aleyhine olduğu kadar lehine olan delilleri de değerlendirerek şüpheden arınmış bir sonuca ulaşmalıdır. Yargılama konusu olayın açıklığa kavuşturulması ve maddi gerçeğin bulunabilmesi için ispat amacıyla kullanılan her araç delil olarak kabul edilir (CGK-K.2014/268).
+
+Geçmişte ne olduğunu, nasıl olduğunu bilmeye mecbur olan hakim, bunun için bugünden yararlanmalı ve dünü bugüne dayanarak öğrenmelidir. Bugünden kastedilen ise, bugün mevcut olan ve müşahade edilebilen şey, başka bir deyişle “delil”dir. Maddi gerçeği arayan ceza muhakemesinde “delil serbestliği ilkesi” (vicdani delil sistemi) kabul edilmiştir. Her şeyin her şeyle ispatlanabilmesi şeklinde de tanımlanan bu ilkeye göre, akla uygun (rasyonel), olayla ilgili (temsil edici) ve hukuka uygun elde edilmiş olmak kaydıyla, yargılama konusu olayla ilgili olarak hakimin vicdani kanaatinin oluşumuna elverişli her şey delil olabilecek, diğer ifadeyle, ceza muhakemesinde nelerin delil olabileceği ve delil diye ortaya konulanların delil olabilme (ispat) değeri hakim tarafından serbestçe takdir ve tayin edilebilecektir (CGK-K.2009/308).
+
+Delillerin serbestliği ilkesi, 5271 sayılı Ceza Muhakemesi Kanunu (CMK) m. 217/2’de şu şekilde düzenlenmiştir : “Yüklenen suç, hukuka uygun bir şekilde elde edilmişher türlü delilleispat edilebilir.” Buna göre, ceza muhakemesinde iddianın her türlü delille ispatlanması mümkündür. Ancak, ispat için dayanılan delillerin hukuka uygun olması gerekir. Mahkemece hükme esas alınan tüm delillerin hukuka uygun olarak elde edilmesi gerekir.Hukuka aykırı delillerispat vasıtası olarak kabul edilemez, hükme esas alınamaz (CMK m.206/2-a, m.217/2, m.230/1-b, CMK m.289/1-i, Anayasa m.38/6).
+
+Ceza yargılamasında kanıt serbestliği ilkesi başlığı altında toplayabileceğimiz temel prensiplere göre;
+
+a) Herşeyin kanıt olabileceği (hukuka uygun yöntemlerle elde edilmiş),
+
+b) İlgililerin kanıt ileri sürebilecekleri,
+
+c) Hâkimin kendiliğinden kanıt araştırabileceği, (hatta zorunlu olarak araştırması gerektiği),
+
+d) Kanıt ileri sürmede zaman kısıtlaması olamayacağı,
+
+e) Kanıtlama külfetinin sanığa yüklenemeyeceği,
+
+f) Kanıt değerlendirmede hâkimi bağlayan üstün kanıtın söz konusu olmayıp hâkimin tüm kanıtları serbestçe değerlendirebileceği, (vicdani kanaat) ceza yargılamasının temel ilkeleridir. Bu ilkelerin birinden dahi vazgeçmek, ceza yargılamasının temel ilke ve yapısına aykırı davranmak anlamını taşır (CGK-K.2024/244).
+
+Vicadani delil sistemi ile kast edilen, her şeyin delil olabilmesi serbestliği ve tüm delillerin yargıç tarafından serbestçe değerlendirilmesi halidir. Vicdani delil sistemi, hem herşeyin delil olabilmesini hem de delillerin takdirine ilişkin olup yargıcın elde edilen tüm delilleri birlikte serbestçe değerlendirerek ulaştığı vicdani kanıya göre karar vermesini ifade eder. Vicdani delil sistemine göre, hakim tarafların ileri sürdüğü veya dosyada mevcut bir delil türüyle bağlı değildir. İstisnaen, duruşma tutanaklarının duruşmanın nasıl yapıldığı, kanunda belirtilen usul ve esaslara uygun olarak yapılıp yapılmadığı konusunda tek delil olma özelliği vardır (CMK m.222). Delilleri takdir ederken duruşma tutanağı dışındaki hiçbir delil yargıcı kesin bir şekilde bağlamaz.
+
+Kanuni delil sistemi, hangi hususların hangi delille ispatlanacağının önceden kanunla belirlendiği sistemdir. Kanuni delil sistemi, nelerin delil olabileceğine  ve yargıç tarafından delillerin değerlendirmesine sınırlamalar getirir. Bu nedenle çağdaş ceza muhakemesinde kanuni delil sistemi değil; her şeyin delil olabildiği ve delillerin hakim tarafından serbestçe değerlendirildiği vicdani delil sistemi kabul edilmiştir.
+
+Vicdani delil sistemi, 5271 sayılı Ceza Muhakemesi Kanunu’nun (CMK) 217/1 maddesinde “Delilleri Takdir Yetkisi” başlığıyla şu şekilde düzenlenmiştir: “Hâkim, kararını ancak duruşmaya getirilmiş ve huzurunda tartışılmış delillere dayandırabilir.Bu deliller hâkimin vicdanî kanaatiyle serbestçe takdir edilir.”
+
+Ceza muhakemesi hukukunda vicdani delil sistemi benimsenmiştir. Bu sistemle ifade  edilmek istenen hem delil serbestliği, hem de delillerin değerlendirilmesi serbestliğidir. Ceza muhakemesinde somut gerçek arandığından, hakimi bu gerçeğe götürebilecek her şey delil olabilir. Ancak, hükme dayanak alınan delillerin gerçekçi, akılcı, olayı temsil edici, ispatlayıcı ve hukuka uygun bulunmaları gerekir (CGK-2012/14-1374 E.  ,  2013/431 K.).
+
+Ceza muhakemesi, geçmişte yaşandığı iddia edilen bir olayın gerçekten meydana gelip gelmediğini, meydana gelmiş ise ne şekilde ve kim tarafından meydana getirildiğini ortaya çıkarmak ve bu olayın hukuk normları karşısındaki durumunu tespit etmek amacıyla yapılmaktadır. Bu amacı gerçekleştirmeye yönelik yürütülen temel faaliyete de ispat denilmektedir. Maddi olay bakımından ispatın ölçütü, hâkimin/mahkemenin şüpheyi yenerek vicdani kanaate ulaşmasıdır. Eğer bu şüphe yenilmezse ve dolayısıyla vicdani kanaate ulaşılmazsa, ihtimale, tahmine veya varsayıma dayanarak karar vermek mümkün olmadığından,şüpheden sanık yararlanır(in dubio pro reo) ilkesi devreye girmektedir. Günümüz ceza muhakemesinde geçerli olan ispat sistemi, vicdani delil sistemidir. Temel özelliği, her şeyin delil kabul edilmesi ve delillerin de serbestçe değerlendirilmesi olan vicdani delil sistemi; mahkûmiyet için tam bir inanış, başka bir deyişle suçluluk konusunda vicdani kanaat aradığından, esasen şüpheye dayalı cezalandırmayı yasaklamakta ve şüpheden sanık yararlanır ilkesine uygulama alanı yaratmaktadır (CGK-2017/601 E.  ,  2020/6 K.).
+
+Ceza muhakemesinde maddi gerçek aranmaktadır.Maddi gerçek, yaşanan gerçeğin delillerle temsil edilmiş şeklidir. Bu nedenle, maddi gerçeğe ulaşmak için kural olarak bütün ispat araçları  delil olarak kullanılabilir. Ceza muhakemesinin ispat açısından şu hususlar önemlidir:
+
+Ceza muhakemesinde her şey delil olabilir. Hukuka uygun olmak şartıyla olayı temsil eden her şey delil olabilir. Örneğin, bir şizofren hastası dahi tanık olarak dinlenebilir ve beyanı tanık beyanı olarak delil değerine sahiptir.
+
+Ceza muhakemesinde her vaka her türlü delille ispatlanabilir. Ceza muhakemesinde delillerin birbirine üstünlüğü yoktur. Delil türleri arasında herhangi bir hiyerarşi veya öncelik sırası yoktur. Yargıç tüm delilleri değerlendirerek vicdani kanaatine göre karar verecektir. Örneğin, ceza muhakemesinde bir fotoğraf, video kaydı, tanık beyanı veya sanık beyanı arasında öncelik sonralık ilişkisi yoktur. Yargıç, tüm delillerden bir kanaat edinerek karar vermelidir.
+
+Delillerin ileri sürülmesi/bildirilmesi bakımından herhangi bir zaman sınırlaması yoktur. Soruşturma veya kovuşturmanın herhangi bir aşamasında delillerin adli makamlara sunulması mümkündür. Örneğin, temyiz aşamasında olan bir dosyaya delil ibraz etmek mümkündür.
+
+Ceza muhakamesinde ispat vasıtası olarak kullanılan delillerin şu özelliklere sahip olması gerekir:
+
+1. Deliller Akla Uygun Olmalıdır:Delillerin en önemli özelliği akla ve bilime uygun olmalarıdır. Maddi gerçek aranırken akla ve bilime uygun olan deliller araç olarak kullanılabilir.
+
+2. Deliller Olayı Temsil Etmelidir:Ceza muhakamesinde ispat vasıtası olarak kullanılan deliller olayın tümünü veya bir parçasını temsil etmelidir. Örneğin, olay yerinde failin sürdüğü araca ilişkin fren izi olayın bir bölümünü temsil edici mahiyettedir. Bu fren izi sürücünün fiili konusunda fikir vererebilir, bu nedenle fren izi olayı temsil edici niteliğe sahip olup delil değeri mevcuttur.
+
+3. Deliller Hukuka Uygun Olmalıdır:Ceza muhakemesinde ispat vasıtası olarak kullanılan delillerin hukuka uygun olması gerekir. Hukuka aykırı deliller ispat vasıtası olarak değerlendirilemez, hükme esas alınamaz (CMK m.206/2-a, m.217/2, m.230/1-b, CMK m.289/1-i, Anayasa m.38/6). Örneğin, X kişisinin planlı bir şekilde cep telefonu kamerasını açıp Y kişisinin kendisine hakaret etmesini teşvik ederek elde ettiği video kaydını savcılığa sunması halinde bu video kaydı delil olarak değerlendirilmeyecektir. Çünkü, bu video kaydı planlı bir şekilde delil oluşturmaya yönelik olduğundan hukuka aykırı delil mahiyetindedir.
+
+4. Deliller Müşterek Olmalıdır:Delillerin müşterekliği ilkesi, delillerin sadece yargılamayı yapan hakim tarafından değil, taraflarca da öğrenilmesidir. Deliller yargılama esnasında tüm sujeler tarafından öğrenilmeli, sujeler bu delilleri değerlendirme imkanına sahip olmalıdır. Delillerin müşterekliği ilkesinin amacı delillerin yargılama sırasında ortaya konulmasını ve tartışılmasını sağlamaktır. Ancaksoruşturmaaşamasında  soruşturmanın sağlıklı yapılabilmesi için bazı hallerde delilleri öğrenme hakkına kısıtlama getirilebilmektedir (CMK m.153/2). Soruşturmada delillere erişime getirilen kısıtlama, kovuşturma aşamasında ortadan kaldırılarak delillerin herkes tarafından öğrenilmesine imkan
+
+5. Deliller Erişilebilir Olmalıdır:Delilin erişilebilir olması, elde edilebilir mahiyette olması anlamına gelir. Örneğin, olayın tanığı olan bir kimse ölmüş ise, artık tanık beyanı delili elde edilemeyecektir. Erişilebilir olmayan bir delil mahkemede tartışılamayacağından hükme esas alınması da mümkün olmayacaktır.
+
+Ceza muhakamesi hukukunda deliller çeşitli biçimlerde tasnif edilmektedir. Teoride ve uygulamada deliller en çok şu şekilde tasnif edilmektedir:
+
+Beyan delili,
+
+Belge delili,
+
+Belirti delili.
+
+Beyan delili, sanık ve tanık beyanı ile sanık dışındaki tarafların beyanı olmak üzere üçe ayrılır. Beyan delili, delilin kaynağı olan kişi dinlenmek suretiyle elde edilir.
+
+Beyan delilinin kaynağı olan kişilere, yani tanık, sanık ve duruşmaya çağrılmış diğer kişilere duruşmada doğrudan soru sorulabilir (CMK m.201).
+
+Tanık beyanı, yargılama konusu olayla ilgili beş duyusu vasıtasıyla edindiği bilgileri hüküm verecek mahkeme huzurunda anlatan kişinin verdiği sözlü beyandır. Tanık beyanı, asıl yargılamayı yapan mahkeme yerine tanık dinlemeye yetkili mahkeme veya hakim huzurunda da alınabilir. Tanık beyanı, ceza muhakamesinde en önemli delil türlerinden biridir. Tanık beyanının sözlü olması asıldır. Tanıklığın sözlü olması gerektiğini belirtmek üzere; 5271 sayılı CMK’nın 52. maddesinin başlığı “Tanığın Dinlenmesi” şeklindedir. Madde metninde de tanığın dinlenmesinden bahsedilmektedir. Kural olarak herkes tanık olarak dinlenebilir. Örneğin, akıl hastaları, çocuklar veya yalan tanıklık suçu nedeniyle daha önce mahkum olanlar dahi tanık olarak dinlenebilir. Mahkeme veya hakim delilleri değerlendirirken tanığın subjektif durumunu da gözeterek değerlendirme yapacaktır.
+
+Kolluk (polis veya jandarma) tarafından alınan beyan, tanık beyanı olarak değerlendirilemez. Kolluğun aldığı beyan yargılamada belge delili olarak değerlendirmeye tabi tutulmaktadır. Kolluk tarafından alınan beyanlar nedeniyle yalan tanıklık suçu oluşmaz, çünkü Yargıtay kararlarına göre kolluğun tanık dinleme yetkisi yoktur:
+
+Sanığın 30.07.2013 tarihli kollukta alınan beyanında yalan tanıklık yaptığı iddia ve kabul edilmiş ise de; CMK.nın 43. maddesinin 5. fıkrası hükmü karşısında tanık dinleme yetkisi bulunmayan kolluk tarafından düzenlenen bilgi alma tutanağındaki beyanlar nedeniyle yalan tanıklık suçunun unsurları itibariyle oluşmayacağı gözetilmeden, sanığın beraati yerine yazılı şekilde mahkumiyetine karar verilmesi, bozma nedenidir (Yargıtay 8. Ceza Dairesi- Karar: 2021/2255).
+
+Tanık beyanı delili, yargılamada diğer delillerle birlikte ispat açısından değerlendirilmektedir. Ceza muhakemesinde hiçbir delilin diğer bir delile üstünlüğü yoktur. Tanık beyanının olgulara uygun ve tutarlı olması delil değerini arttıracaktır. Olay anlatımı belli bir öykü içeren ve ayrıntılı olan tanıkların beyanı ispat vasıtası olarak daha çok dikkate alınmaktadır.
+
+Tanık doğrudan doğruya edindiği bilgileri mahkeme önünde beyan etmelidir. Tanığın başkalarından duyduğu bilgilere dayanarak (hear-say) tanıklık etmesi mümkün değildir. İstisnaen, cinsel suçlar gibi suçlarda mağdurun başından geçenleri sıcağı sıcağına  bir kişiye anlatması ve dinleyen kişinin de kendisine anlatılanları mahkeme huzurunda anlatmasına delil değeri tanınmaktadır.
+
+Özellikle belirtelim ki, soruşturma veya kovuşturma konusu suçlara iştirakten veya bu suçlar nedeniyle suçluyu kayırmaktan ya da suç delillerini yok etme, gizleme veya değiştirmekten şüpheli, sanık veya hükümlü olanlar da tanık olarak dinlenebilir. Bu kişiler tanık olarak dinlendiğinde kendilerine yemin verdirilmez (CMK m.50/1).
+
+Tanık, 5237 sayılı TCK uygulamasında kamu görevlisi olarak kabul edilmektedir. Tanık, tanıklık yaparken tam bir tarafsızlık içinde gördüğü, duyduğu, bildiği gerçeği yargı makamları önünde ifade etmelidir. Gerçeğe aykırı beyanda bulunan tanık,yalan tanıklık suçunedeniyle cezalandırılır.
+
+Soruşturma aşamasında suç şüphesi altında bulunan kişiye şüpheli denilmektedir. Şüpheli soruşturmada beyanda bulunduğu takdirde, beyanı “şüpheli beyanı” olarak tutanağa bağlanmaktadır. Tutanağa bağlanmış bu beyan, mahkeme tarafından belge delili olarak delil değerlendirmesinde dikkate alınacaktır.
+
+Sanık, hakkındaceza davasıaçılan, yani kovuşturmanın başlamasından itibaren hükmün kesinleşmesine kadar, suç şüphesi altında bulunan kişidir. Sanık mahkemede yargılanması vesilesiyle hem bir objedir hem de bir sujedir. Sanığın beyanı da beyan delillerinden biri olarak kabul edilmektedir. Sanık beyanı, sanık haklarına riayet edilerek alındığında hukuka uygun delil haline gelir. Sanığın beyanından önce isnat edilen suçun kendisine anlatılması gerekir. Daha sonra sanığın susma hakkı, bir avukatın hukuki yardımından yararlanma hakkı ve şüpheden kurtulması için somut delillerin toplanmasını isteyebileceği hatırlatılır. Ayrıca sanığa kendisi aleyhine var olan şüphe nedenlerini ortadan kaldırmak ve lehine olan hususları ileri sürme imkanı tanınır (CMK m.147). Sanığın hakları hatırlatılmadan sanıktan alınan bir beyan hukuka aykırı delil mahiyetinden olup hükme esas alınamayacaktır.
+
+Şüpheli veya sanık, olayla ilgili doğrudan bilgisi ve görgüsü olan kişidir. Bu nedenle şüpheli veya sanık beyanı, yargılama konusu olaya dair maddi gerçeğin anlaşılabilmesi için önemli delillerden biridir.
+
+Sanık beyanı, hukuken hem bir savunma vasıtasıdır, hem de bir ispat aracı işlevi görür. Sanığın beyanı, diğer delillerle kesin bir ispata varılamayan hallerde hayati bir önem kazanır. Bir vakıa kesin olarak ispatlanamadığı hallerde “şüpheden sanık yararlanır” ilkesi devreye girer. Şüpheden sanık yararlanır ilkesinin uygulandığı hallerde sanığın beyanı delil değerlendirmesinde ön plana çıkmaktadır.
+
+Ceza hukukundaikrar; aleyhe hukuki sonuç doğuran bir olay veya vakıanın kendisi tarafından işlendiğinin şüpheli veya sanık tarafından kabul edilmesidir. Sanığın bir vaka hakkındaki ikrarı delil değerine sahiptir. Ancak, ikrarın dahi kesin delil değeri yoktur. Daha önce de vurguladığımız üzere ceza muhakemesinde hiçbir delilin diğer bir delile üstünlüğü yoktur. Tüm deliller birlikte vicdani delil sistemine göre değerlendirilir.
+
+Sanığın dışında dinlenen tarafların beyanları da olayı temsil ettiği ölçüde delil değerine sahiptir. Şikayetçi olup davaya müdahil olan (katılan) tarafın beyanı da deliller arasında değerlendirilir. Suçtan zarar gören veya mağdur, davaya müdahil olmasa bile duruşmada taraf olarak dinlenebilir. Bu kişilerin beyanı tanık beyanı değildir, çünkü suç vakasında taraf pozisyonundadırlar, bu nedenle bu kişiler dinlenirlerken tanık olarak yemin ettirilmezler. Ancak bu kişilerin beyanı, “sanık dışındaki taraf beyanı” olarak delil değerine sahiptir.
+
+Belge, belli bir olayı doğrudan temsil eden ve insandan neşet eden çoğunlukla yazılı olan bir ispat vasıtasıdır. Belge delili yazılı olabileceği gibi yazılı olmayan belge delili türleri de vardır. Yazılı olmayan belge delili türleri;görüntü,sesveyaşekiliçeren belge delilleridir. Görüntü içeren belgeye örnek olarak telefonla çekilmiş video kaydı, ses içeren belgeye örnek olarak whatsapptan gönderilmiş ses kaydı, şekil içeren belgeye örnek olarak fotoğraflar gösterilebilir. Bir nesne üzerine yazılan veya kaydedilen her şey belge delili olarak kabul edilebilir. Örneğin, CD veya flashdisklerde (taşınabilir bellek) kaydedilen  her şey belge delili oluşturur.  Ceza muhakemesinde belge delilinin konusunu oluşturan belge yazılı olabileceği gibi işaret, şekil veya sayı içeren kâğıt ve benzeri nesneler ile kaydedici nesneler olabilir.
+
+Özellikle belirtelim ki, ceza muhakemesinde yazılı belge delilinin fotokopisi de belge delili mahiyetindedir. Suret belgeler de belge delili olarak kabul edilir.
+
+TCK uygulamasında yazılı belgeler, özel veya resmi belge şeklinde tanzim edilebilir. Örneğin, ölenin bıraktığı mektup veya kira sözleşmesi özel belge mahiyetindedir, ancak polisin aldığı ifadenin tutanağı resmi belge mahiyetindedir. Ancak ceza muhakemesinde ispat açısından belgenin resmi veya özel olması değil olayı temsil edici gücü önemlidir.
+
+Bazen belgenin kimin tarafından düzenlendiği anlaşılamayabilir, bu hallerde de belgenin olayı temsil gücü varsa delil değeri de vardır.
+
+Belgeler duruşmada taraflara okunarak tarafların belgeleri tartışması sağlanır (CMK m.209).
+
+Belirti, olaydan geriye kalan herhangi bir iz, emare veya eserdir. Örneğin, olay yerindekifren iziaracın hızı konusunda bir fikir verebilecek bir belirtidir. İçinde insan öldürülen araçtakikan iziveya uyuşturucu ticareti yapılan otomobilde bulunanparmak izibelirti delili mahiyetindedir. Beyan ve belge delili dışında kalıp olayı ispatlamaya yardımcı olan,olaydan arta kalanher türlü iz veya eser belirti delili olarak kabul edilmektedir.
+
+Belirtinin delil değerine sahip olması için olayın bir parçası olarak ortaya çıkması gerekir. Olayın parçası olarak ortaya çıkan bu belirtilere “tabii belirtiler” denilmektedir.
+
+Yapay belirtiler ise yaşanan olayın parçası değildir, insan eliyle oluşturulmuşlardır. Yapay belirtilerin tek başına delil değeri yoktur. Örneğin, polis üniforması giymiş bir kimsenin polis olduğu sadece üniforma giymiş olmasıyla ispatlanamaz. Yapay belirtilere en tipik örnekler olarak ayakkabı izi veya tekerlek izi gösterilebilir.
+
+Belge veya beyan delili olayı doğrudan temsil eden bir özelliğe sahipken belirti delili olayı dolaylı bir şekilde temsil etmektedir. Belirtiler, olaydan arta kalan iz ve emareler olduğundan bu tarz delillerin olayı ispat gücü dolaylıdır. Belirtiler tek başına maddi olayı aydınlatamadığından diğer delillerle birlikte değerlendirilerek olayın aydınlatılmasını sağlarlar.
+
+Yargıtay, iletişimin dinlemesi neticesinde elde edilen verileribelirti deliliolarak kabul etmektedir:
+
+CMK’nın 138. maddesi kapsamında elde edilen ve belirti delili olan iletişimin dinlenilmesine ilişkin telefondaki şifreli konuşmalar…(Y16CD-K.2021/3506).
+
+CMK’nın 135. maddesi kapsamında elde edilen ve belirti delili olan iletişimin dinlenilmesine ilişkin telefondaki şifreli konuşmaların sanığın eyleme katıldığını ispata yeterli olmadığı nazara alındığında…(Y17CD-K.2017/5916).
+
+Belirti delilinin en önemli özelliklerinden biri de çoğu zaman bilirkişi incelemesine tabi tutularak mahiyetinin anlaşılabilmesidir. Örneğin, belirti delili mahiyetinde olan tükürük, saç, kıl, sperm, parmak izi veya kan izinin kime ait olduğunun ispatlanabilmesi açısından mutlaka bilirkişi incelemesine tabi tutulması gerekir.
+
+Video ve ses kayıtları bazı hukukçular tarafından belge delilinin bir türü olarak kabul edilmektedir. Örneğin, bir fotoğraf veya video şekil tespit eden bir makineyle çekilmektedir, bu nedenle belgeye dönüşmektedirler. Bazı hukukçular ise video veya ses kaydını keşif konusu nesneler olarak belirti delili mahiyetinde kabul etmektedir. Yargıtay, böyle bir ayrıma gitmeden Her iki halde de video, fotoğraf ve ses kaydı ceza yargılamasında delil değerine sahiptir. Ancak, teknik imkanlarla elde edilen veya kolluk tarafından çekilenler değil de insanlar tarafındangizlice çekilen fotoğraf, video veya ses kaydının delil değeritartışmalıdır. Gizli yapılan çekimler, başka türlü delil elde etmenin mümkün olmadığı ve ani gelişen bir durum karşısında yapıldığı takdirde delil değerine sahiptir. Aksi takdirde, planlı yapılmış bir çekim delil olarak kabul edilemez. Örneğin,  telefonla bir kimseyi arayıp ses kaydını açarak yönlendirici sorularla adeta muhatabın ağzından laf almaya çalışarak yapılan kayıtlar hukuka aykırıdır.
+
+Bilirkişi mütalaası/raporu, ceza muhakamesinde bir delil çeşidi olarak kabul edilmemektedir. Bilirkişi, ispat konusunda mahkemeye yardımcı olan kişidir. Bilirkişi raporu, delillere ulaşma, delillerin teknik özelliğini tespit etme, delillerin içeriğine vakıf olma ve delilleri değerlendirebilmek için bir vasıtadır. Yargıtay, bilirkişi raporlarının mahkemeyi bağlayıcı bir delil olarak değil, delilleri elde etme veya delilleri değerlendirme vasıtası olarak kabul etmektedir.
+
+Keşif, hakimin beş duyusu vasıtasıyla olay yeri, nesneler, eşyalar veya gerçekleşen olaylar üzerinde inceleme yapmasıdır. Keşif yoluyla suç belirtilerine ulaşılabilir.  Örneğin, hakim kasten öldürme suçunun işlendiği mahalde olayın nasıl gerçekleştiğiyle ilgili inceleme (keşif) yapabilir. Keşif olaylar üzerinde de yapılabilir.  Örneğin, pazar yerinde oluşan kalabalığın tespiti amacıyla keşif yapılabilir.
+
+Keşif, olay yeri veya duruşma salonu vb. her yerde yapılabilir. Örneğin, duruşma salonunda olaya dair görüntülerin izlenmesi hukuki niteliği itibariyle keşiftir.
+
+Keşif de bilirkişi mütalaası gibi delillerin içeriğinin öğrenilmesine ve delillerin değerlendirilmesine yardımcı olur. Keşfin kendisi veya tutulan keşif tutanağı doğrudan bir delil değildir.
+
+Keşif, hâkim veya mahkeme veya naip hâkim ya da istinabe olunan hâkim veya mahkeme ile gecikmesinde sakınca bulunan hâllerde Cumhuriyet savcısı tarafından yapılır. Keşif tutanağına, var olan durum ile olayın özel niteliğine göre varlığı umulup da elde edilemeyen delillerin yokluğu da yazılır (CMK m.83).
+
+Deliller; samimi açıklamalar, tanık beyanları, sanık ve tanıktan başka kişilerin açıklamaları, tutanaklar özel yazılı açıklamalar görüntü ve/veya ses kayıt eden açıklama ve belirtiler şeklinde ayrıma tabi tutulabilinir. Suç konusu ve/veya alet olayın parçası iken, olay yerinde kalan her türlü iz ve eser belirti delil olup, olayı temsil eden dolaylı delildir (Yargıtay 6. Ceza Dairesi         2012/15330 E.  ,  2015/865 K.).
+
+Hakim, kararını ancak duruşmaya getirilmiş ve huzurda tartışılmış delillere dayandırabilir. Bu deliller hakimin vicdani kanaatiyle serbestçe takdir edilir (CMK. 217/1).
+
+Deliller öğretide, beyan delili, belge delili ve belirti delili olarak sınıflandırmaya tabii tutulmuştur.
+
+Kovuşturma aşamasında, sanık sorguya çekildikten sonra delillerin ortaya konulmasına başlanır. Ancak, sanığın tebligata rağmen mazeretsiz olarak gelmemesi sebebiyle sorgusunun yapılmamış olması, delillerin ortaya konulmasına engel olmaz, bu deliller sonradan sanığa bildirilir (CMK. 206/1).
+
+İbraz edilen delil, kanuna aykırı olarak elde edilmiş ise, delille ispat edilmek istenen olayın karara etkisi yoksa, istem, sadece davayı uzatmak maksadıyla yapılmışsa, mahkemece reddedilebilir (CMK. 206/2).Delilin ortaya konulması istemi, bunun veya ispat edilmek istenen olayın geç bildirilmiş olması nedeniyle reddedilemez (CMK. 207/1).Cumhuriyet savcısı ile sanık ve müdafii birlikte rıza gösterirlerse, tanığın dinlenilmesinden veya başka herhangi bir delilin ortaya konulmasından vazgeçilebilir (CMK. 206/3).
+
+Naip veya istinabe yoluyla sorgusu yapılan sanığa ait sorgu tutanakları, naip veya istinabe yoluyla dinlenilen tanığın ifade tutanakları ile muayene ve keşif tutanakları gibi delil olarak kullanılacak belgeler ve diğer yazılar, adli sicil özetleri ve sanığın kişisel ve ekonomik bilgilerin yer aldığı belgelerin duruşmada okunması zorunludur (CMK. 209/1).
+
+Suç ortağının, tanığın veya bilirkişinin dinlenmesinden veya herhangi bir belgenin okunmasından sonra bunlara karşı bir diyeceklerinin olup olmadığı, katılana veya vekiline, Cumhuriyet savcısına, sanığa ve müdafiine sorulur (CMK. 215/1).
+Delillerin tartışılmasında söz, sırasıyla katılana veya vekiline, Cumhuriyet savcısına, sanığa veya müdafiine veya kanuni temsilcisine verilir (CMK.216/1).
+
+Ceza muhakemesi hukuku açısından serbest delil ve vicdani ispat sistemi geçerlidir. Genel bir ifadeyle delillerin elde edilmesi ve değerlendirilmesi serbestliğini ifade eden bu sistem, eylemi yargılayan hakimlerin hukuka uygun şekilde elde edilen her türlü delili kullanarak ispata ulaşmasını, sanığın aleyhine olduğu gibi lehe delilleri de araştırıp değerlendirerek, kuşkudan arınmış bir sonuca ulaşması gerekir. Delil takdirindeki serbesti, keyfilik olarak algılanmamalı, akla, mantığa ve bilimsel kurallara aykırı olarak değerlendirilmemelidir (Yargıtay 16. Ceza Dairesi         2018/4166 E.  ,  2019/419 K.).
+
+UYARI

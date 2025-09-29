@@ -1,0 +1,507 @@
+İspat Yükü
+
+HMK Madde 190
+
+HMK Madde 190 Gerekçesi
+
+HMK 190 (İspat Yükü) Emsal Yargıtay Kararları
+
+Menfi Tespit Davasında İspat Yükü (HMK 190)
+
+İspat Yükü Kanuni Karine (HMK 190)
+
+Davalının Farklı Miktar Göstererek Araç Satış Bedelini Ödediğini Söylemesi Halinde İspat Yükü
+
+Miras Ortaklığında Paydaşların Ecrimisil Talebinde İspat Yükü
+
+Sahtecilik İddiasında Bulunan Bankanın İspat Yükü
+
+Vekaletsiz İş Görme Sözleşmesinde İspat Yükü
+
+Yemin Halinde İspat Yükü
+
+HMK 190 (İspat Yükü) Emsal Yargıtay Kararları
+
+(1) İspat yükü, kanunda özel bir düzenleme bulunmadıkça, iddia edilen vakıaya bağlanan hukuki sonuçtan kendi lehine hak çıkaran tarafa aittir.
+
+(2) Kanuni bir karineye dayanan taraf, sadece karinenin temelini oluşturan vakıaya ilişkin ispat yükü altındadır. Kanunda öngörülen istisnalar dışında, karşı taraf, kanuni karinenin aksini ispat edebilir.
+
+İspat yüküne ilişkin kural daha önce Türk Medenî Kanununda düzenlenmiş olmasına rağmen ispat yükü kurallarının maddî hukuk temelli olmakla birlikte bir usul hukuku müessesesi olması sebebiyle, bu Kanun içerisinde yeniden düzenlenmiştir. Ayrıca bu durum, ispat hukukuna ilişkin tüm genel hükümlerin birlikte düzenlenmesinin de bir sonucudur.
+
+İspat yükü kuralı, Türk Medenî Kanunundaki düzenleniş tarzına göre daha açık ve üzerinde uzlaşılan bir şekilde ifade edilmiştir.
+
+Birinci fıkrada, ispat yükünün belirlenmesine ilişkin temel kural vurgulanmıştır. Buna göre, bir vakıaya bağlanan hukukî sonuçtan kendi lehine hak çıkaran taraf ispat yükünü taşıyacaktır. İspat yükünün belirlenebilmesi için önce ilgili maddî hukuk kuralındaki koşul vakıaların doğru bir şekilde tespit edilmiş olması ve buna uygun somut vakıaların ortaya konulmuş olması gerekir. Her bir vakıa bakımından lehine hak çıkarma çerçevesinde ispat yükü kuralları belirlenir. Ancak kanunda özel olarak ispat yükünün belirlendiği hallerde, genel kurala göre değil, kanunda belirtilen şekilde ispat yükü belirlenecektir.
+
+İkinci fıkrada, karinelerin varlığı halinde ispat yükünün nasıl belirleneceği düzenlenmiştir.
+
+Karine söz konusu olduğunda, karine temeli ile karine sonucunu birbirinden ayırt etmek gerekir. Karineye dayanan taraf, sadece karine sonucunu ispat yükünden kurtulmuş olur, ancak karine temelini ispat etmek yükü altındadır. Bu durumu vurgulamak için, fıkrada açık düzenleme yapılmıştır. Kesin kanunî karineler dışında, karşı taraf karinenin aksini ispat edebilir. Fıkrada, özellikle aksini ispat kavramına yer verilmiştir. Zira, aksini ispat ve karşı ispat farklı kavramlardır. Karine söz konusu olduğunda, karşı ispat faaliyetinden değil, karine ile kabul edilen durumun aksini ispat etmek gerekir.
+
+Hukuk Genel Kurulu         2017/969 E.  ,  2021/866 K.
+
+4721 sayılı Türk Medeni Kanunu’nun (TMK) “ispat yükü” başlıklı 6. maddesinde; kanunda aksine bir hüküm bulunmadıkça, taraflardan her biri, hakkını dayandırdığı olguların varlığını ispatla yükümlü tutulmuştur.
+
+İspat yükünü düzenleyen 6100 sayılı Hukuk Muhakemeleri Kanunu’nun (HMK) 190. maddesi “(1) İspat yükü, kanunda özel bir düzenleme bulunmadıkça, iddia edilen vakıaya bağlanan hukuki sonuçtan kendi lehine hak çıkaran tarafa aittir. (2) Kanuni bir karineye dayanan taraf, sadece karinenin temelini oluşturan vakıaya ilişkin ispat yükü altındadır. Kanunda öngörülen istisnalar dışında, karşı taraf, kanuni karinenin aksini ispat edebilir” şeklindedir.
+
+Her somut olaydaki maddi vakıaya göre lehine hak çıkaran taraf ve ispat yükü şekilleneceğinden, maddî hukuk kuralına ilişkin bu vakıaların doğru ve net bir şekilde belirlenerek ortaya konulması gerekmektedir. Maddede aksine düzenleme olmadıkça ibaresi eklendiğinden, kanunda ispat yükü ile ilgili özel bir düzenlemeye yer verildiğinde, ispat yükü genel kurala göre değil de kanunda belirtilen özel düzenlemeye göre belirlenecektir.
+
+Kural olarak, bir vakıadan kendi lehine haklar çıkaran/iddia eden taraf, o vakıayı ispat etmeye mecburdur (TMK m. 6). İspat yüküne ilişkin bu genel kural, menfi tespit davaları için de geçerlidir. Yani, menfi tespit davalarında da tarafların sıfatları değişik olmakla beraber, ispat yükü bakımından bir değişiklik olmayıp, bu genel kural uygulanır. Bu davalarda da bir vakıadan kendi lehine haklar çıkaran (iddia eden) taraf o vakıayı ispat etmelidir.
+
+Menfi tespit davasında borçlu ya borçlanma iradesinin bulunmadığını ya da borçlanma iradesi bulunmakla birlikte daha sonra ödeme gibi bir nedenle ortadan kalktığını ileri sürebilir. Borçlu borcun varlığını inkâr ediyorsa, bu durumlarda ispat yükü davalı durumunda olmasına karşın alacaklıya düşer. Borçlu varlığını kabul ettiği borcun ödeme gibi bir nedenle sona erdiğini ileri sürüyorsa, bu durumda doğal olarak ispat yükü kendisine düşecektir.
+
+Menfi tespit davasında kural olarak, hukukî ilişkinin varlığını ispat yükü davalı/alacaklıdadır ve alacaklı hukukî ilişkinin (borcun) varlığını kanıtlamak durumundadır. Keza açılan menfi tespit davasında alacaklı (davalı) nın senedin ihdas (veriliş) nedenini değiştirmesi (tâlil etmesi) hâlinde de kanıt yükü alacaklı davalıya düşer (Çavdar, 755).
+
+Borçlu bir hukukî ilişkinin varlığını kabul etmiş, ancak bu hukukî ilişkinin senette görülenden farklı bir ilişki olduğunu ileri sürmüşse bu kez, hukukî ilişkinin kendisinin ileri sürdüğü ilişki olduğunu ispat külfeti davacı borçluya düşmektedir. Zira davacı borçlu, senedin varlığını kabul etmekle birlikte bir hukukî ilişkiye dayanmadığını değil, başka bir hukukî ilişkiye dayandığını ileri sürmekte; temelde bir hukukî ilişkinin varlığını kabul etmektedir.
+
+Borçlu (davacı) menfi tespit davasına konu senedin teminat, hatır senedi olduğunu veya alacaklı (davalı) ya avans olarak verildiği iddiasıyla menfi tespit davası açabilir. Bu şekilde açılan menfi tespit davasında, kanıt yükü borçlu (davacı) dadır (Çavdar, 766).
+
+Yapılan bu açıklamalar ışığında somut olay değerlendirildiğinde; davacı borçlu vekili dava dilekçesinde, icra takibine konu senedin oto kiralama sözleşmesinin eki niteliğinde olduğunu, oto kiralama sözleşmesinin son bölümünün boş olarak imzalatıldığını ve bu bölümün daha sonra doldurulmak suretiyle senede dönüştürüldüğünü, aracın kiralama bedelinin ödendiğini ileri sürerek takip konusu senet nedeniyle borçlu olmadığının tespitini istemiştir. Davalı vekili cevap dilekçesinde, davacının iddialarının ispatının HUMK’nın 290. maddesi uyarınca senet ile mümkün olduğunu, kambiyo senedi vasfındaki bir senede karşı ileri sürülen iddianın senetle ispat edilmesi gerektiğini belirterek davanın reddini savunmuş ise de, 19.03.2012 tarihli beyan dilekçesinde; müvekkilinden edindiği bilgiye göre senedin düzenleme amacının, davacı borçlunun müvekkilinin aracına verdiği zararı karşılamak olduğunu, müvekkilinin aracında meydana gelen zararın davacı borçlunun bilgisi ve sorumluluğu dahilinde gerçekleştiğini, davacının bu zararı ödemeyi kabul ve taahhüt ederek senedi imzaladığını belirtmiştir. İspat yükü kendisinde olan davacı borçlu, senedin teminat amacıyla verildiğini ispat edememiş ise de, davalı alacaklı vekili takip konusu senedin müvekkilinin aracına verdiği zararı karşılamak için teminat amacıyla verildiğini kabul etmiştir. Bu durumda mahkemece, davalı alacaklıya senet ile teminat altına alınan ve meydana gelen kazadan doğan alacak ve miktarını yasal delillerle ispat etme olanağı tanınmalı, alacağını ispat yönünde delillerini sunma imkânı verilerek sonucunda bir karar verilmelidir.
+
+Hukuk Genel Kurulu         2017/926 E.  ,  2021/177 K.
+
+4721 sayılı Türk Medeni Kanunu’nun “ispat yükü” başlıklı 6. maddesinde; kanunda aksine bir hüküm bulunmadıkça, taraflardan her biri, hakkını dayandırdığı olguların varlığını ispatla yükümlü tutulmuştur.
+
+6100 sayılı Hukuk Muhakemeleri Kanunu’nun “ispat yükü” başlıklı 190. maddesinin 1. fıkrasında yukarıdaki düzenlemeye paralel olarak ispat yükünün kanunda özel bir düzenleme bulunmadıkça, iddia edilen vakıaya bağlanan hukuki sonuçtan kendi lehine hak çıkaran tarafa ait olacağı belirtilmiştir. Her somut olaydaki maddi vakıaya göre lehine hak çıkaran taraf ve ispat yükü şekilleneceğinden, maddî hukuk kuralına ilişkin bu vakıaların doğru ve net bir şekilde belirlenerek ortaya konulması gerekmektedir. Maddede aksine düzenleme olmadıkça ibaresi eklendiğinden, kanunda ispat yükü ile ilgili özel bir düzenlemeye yer verildiğinde, ispat yükü genel kurala göre değil de kanunda belirtilen özel düzenlemeye göre belirlenecektir.
+
+HMK’nın 190. maddesinin 2. fıkrasında karinenin varlığı hâlinde ispat yükünün nasıl belirleneceği düzenlenmiştir. Karine; “belli bir (karine temelini oluşturan) vakıadan, belli olmayan diğer bir vakıa için çıkarılan sonuçtur”. Maddede; kanuni bir karineye dayanan tarafın, sadece karinenin temelini oluşturan vakıaya ilişkin ispat yükü altında olduğu belirtilmiş; kanunda öngörülen istisnalar dışında, karşı tarafın kanuni karinenin aksini ispat edebileceği kabul edilmiştir. Kanuni karine; “belli bir vakıadan, belli olmayan diğer bir vakıa için kanun tarafından çıkarılan sonuçtur.” Kanuni karineler de adi kanuni karine ve kesin kanuni karine olarak ikiye ayrılmaktadır. Adi kanuni karineler aksi ispat edilebilen karineler iken, kesin kanuni karinenin varlığı hâlinde karşı taraf bunun aksini ispat edemez (K., Baki: Medeni Usul Hukuku El Kitabı, Ankara 2020, C.I, s 625 vd.). Eş söyleyişle; karinenin varlığı hâlinde ise, karineye dayanan taraf sadece karinenin temelini ispatla yükümlüdür. Kesin kanunî karineler dışında, karşı taraf karinenin aksini ispat edebilir. Karine söz konusu olduğunda, karşı ispat faaliyetinden değil, karine ile kabul edilen durumun aksini ispat etmek gerekir.
+
+Kanuni karinelerin yanında bir de fiili (eylemli) karineler vardır. Eylemli karine denen yaşam deneyi kuralları, tarafların olay iddialarının doğruluğu veya bir kanıtın güvenebilirlik derecesi hakkında hâkimin kanıya varmasına yarayan, yaşam deneylerinin ortaya koyduğu değer hükümleridir. Kanıt değerlendirme serbestîsinin yürüdüğü durumlarda bu değer hükümleri hâkim tarafından göz önünde tutulurlar. Bu yaşam deneyi kurallarının öğreti ve Yargıtay uygulamasına göre iki işlevi vardır. Birinci işlevi, hâkim gösterilmiş bulunan bir kanıtın güvenilebilirlik derecesini, yani ispat gücünü yaşam deneyi kuralları uyarınca belirler. İkinci işlevi ise şöyledir: Hâkim, hakkında kanıt gösterilmemiş bir olay iddiasının doğruluğunu, yaşam deneyi kurallarına dayanarak kabul edebilir ve bu durumda ispat yükü o olayın aksini ileri süren tarafa geçer (Güneren, A.: İcra ve İflas Hukuku’nda İstihkak Davaları, Ankara 2008, s. 694 vd).
+
+Hukuk Genel Kurulu         2017/826 E.  ,  2020/667 K.
+
+Direnme yolu ile Hukuk Genel Kurulu önüne gelen uyuşmazlık; davacının resmi satış senetlerinde araç bedelini tamamen aldığı yönündeki beyanı karşısında, davalının araçların satış bedelinin 100.000TL olduğu ve bu bedelin de ödendiği yönündeki savunmasının resmî senedi talil niteliğinde olup olmadığı, burada varılacak sonuca göre davanın kabulüne dair verilen kararın yerinde olup olmadığı noktasında toplanmaktadır.
+
+6100 sayılı HMK’nın “İspat yükü” başlığını taşıyan 190. maddesi:
+
+“(1) İspat yükü, kanunda özel bir düzenleme bulunmadıkça, iddia edilen vakıaya bağlanan hukuki sonuçtan kendi lehine hak çıkaran tarafa aittir.
+
+(2) Kanuni bir karineye dayanan taraf, sadece karinenin temelini oluşturan vakıaya ilişkin ispat yükü altındadır. Kanunda öngörülen istisnalar dışında, karşı taraf, kanuni karinenin aksini ispat edebilir.”
+
+hükmünü içermektedir.
+
+Yukarıda belirtilen maddenin birinci fıkrasında, ispat yükünün belirlenmesine ilişkin temel kural vurgulanmıştır. Buna göre, bir vakıaya bağlanan hukuki sonuçtan kendi lehine hak çıkaran taraf ispat yükünü taşıyacaktır.
+
+İspat yükünün belirlenebilmesi için önce ilgili maddi hukuk kuralındaki koşul vakıaların doğru bir şekilde tespit edilmiş olması ve buna uygun somut vakıaların ortaya konulmuş olması gerekir. Her bir vakıa bakımından lehine hak çıkarma çerçevesinde ispat yükü kuralları belirlenir. Ancak kanunda özel olarak ispat yükünün belirlendiği hâllerde, genel kurala göre değil, kanunda belirtilen şekilde ispat yükü belirlenecektir.
+
+İkinci fıkrada ise, karinelerin varlığı hâlinde ispat yükünün nasıl belirleneceği düzenlenmiştir.
+
+Karine belli bir olaydan, belli olmayan diğer bir olay için çıkarılan sonuçtur. Karineler ispat yükünün bir istisnasını oluşturur. Lehine karine olan taraf ispat yükünden kısmen veya tamamen kurtulur. Karine söz konusu olduğunda, karine temeli ile karine sonucunu birbirinden ayırt etmek gerekir. Karineye dayanan taraf, sadece karine sonucunu ispat yükünden kurtulmuş olur, ancak karine temelini ispat etmek yükü altındadır. Bu durumu vurgulamak için, fıkrada açık düzenleme yapılmıştır. Kesin kanuni karineler dışında, karşı taraf karinenin aksini ispat edebilir. Fıkrada, özellikle aksini ispat kavramına yer verilmiştir. Zira aksini ispat ve karşı ispat farklı kavramlardır. Karine söz konusu olduğunda, karşı ispat faaliyeti yerine karine ile kabul edilen durumun aksinin ispat edilmesi söz konusu olur. Nitekim, aynı ilkeler Hukuk Genel Kurulunun 09.05.2019 tarihli ve 2017/19-1656 E., 2019/548 K. sayılı kararında da vurgulanmıştır.
+
+Bu ilke ve açıklamalar ışığında somut olay değerlendirildiğinde; davacı tarafından Akhisar 1. Noterliğinin 06.09.2012 tarihli araç satış sözleşmesi ile … plakalı çekici 55.000TL, aynı tarihli satış sözleşmesi ile… plakalı yarı römork damperli kasa ise 12.000TL bedelle davalıya satılmıştır. Davacı yanlar arasında imzalanan her iki araç satış sözleşmesi uyarınca davalı tarafından iki adet 25.000TL bedelli çek verildiğini ayrıca şirketin hesabına 15.000TL yatırıldığını belirterek bakiye 2.000TL’nin ödenmediğini iddia etmiştir. Davalı ise her iki satış sözleşmesi uyarınca ödenmesi gereken bedelin 100.000TL olduğunu, iki adet 25.000TL bedelli çek ile birlikte davacı şirketi yetkilisine 50.000TL bedelli çek vererek borcunu ödediğini savunmuştur. Yanlar arasında imzalanan her iki resmî satış sözleşmesi incelendiğinde, davacı vekilinin “…nitelikleri ve bedeli yazılı aracı alıcıya halihazır durumu ile satarak bedelini tamamen aldığı ve aracı teslim ettiği…” yönünde beyanı bulunmakta olup davacı vekili satış bedelini tamamen aldığını açıkça ifade etmektedir. Bu durumda yerel mahkemece, satış bedellerinin tamamen ödenip ödenmediği noktasında davacı vekilinin az yukarıda açıklanan satış sözleşmelerinde yer alan bu beyanı da dikkate alınarak karar verilmesi gerekirken, davalının savunmasında satış bedeline ilişkin olarak senedi talil ettiği ve senedi talil eden tarafın ödeme olgusunu ispat etmesi gerektiği yönündeki direnme kararı yerinde değildir.
+
+Yargıtay 8. Hukuk Dairesi         2021/1834 E.  ,  2021/4834 K.
+
+Davacılar vekili, dava dilekçesinde belirttiği bağımsız bölümlerin tarafların ortak murisi adına tapuda kayıtlı olduğunu, murislerinin 23.06.2009 tarihinde vefat ettiğini, davalıların daireleri bizzat kullanarak ve kirasını alarak kullanmakta olduklarını, Gaziantep 2. Sulh Hukuk Mahkemesinin 2013/1999 Esas sayılı dosyası ile ortaklığın giderilmesi davası açtıklarını belirterek, murisin ölüm tarihinden itibaren hesaplanacak ecrimisil bedelinin yasal faizi ile birlikte davalılardan tahsiline karar verilmesini istemiştir.
+Davalılar …, …, dava konusu yerleri kendilerinin kullanmadıklarını hatta taşınmazların birinde davacıların kardeşlerinin oturduğunu, dava konusu yerlerin bedelini davacılara avukatları aracılığıyla ödediklerini beyan ederek davanın reddini savunmuşlardır.
+
+Mahkemece, davanın kabulü ile 1.000,00 TL’nin dava tarihinden itibaren yasal faizi ile birlikte, ıslah edilen 6.599,00 TL’nin ıslah tarihi 14.07.2015 tarihinden itibaren yasal faizi ile birlikte toplam 7.599,00 TL’nin davalılardan müştereken ve müteselsilen alınarak davacılara (veraset ilamındaki hisselere göre) verilmesine karar verilmiş, hüküm davalılar …, … ve … vekili tarafından temyiz edilmiştir.
+
+Dava, paydaşlar arası ecrimisil isteğine ilişkindir.
+
+Tüm dosya içeriği ve toplanan delillerden, dava konusu bağımsız bölümlerin tarafların ortak murisi … adına tapuda kayıtlı olduğu, murisin 23.06.2009 tarihinde vefat ettiği, Mahkemece, 20.03.2015 tarihinde yapılan keşif ve sonrasında alınan 23.05.2015 tarihli bilirkişi raporunda, dava konusu edilen dairelerin kullanımına ilişkin tespitler yapıldığı anlaşılmaktadır.
+
+Bilindiği üzere; paylı mülkiyette taşınmazdan yararlanamayan paydaş, engel olan öteki paydaş veya paydaşlardan her zaman payına vaki elatmanın önlenmesini ve/veya ecrimisil isteyebilir. Elbirliği mülkiyetinde de paydaşlardan biri öteki paydaşların olurlarını almadan veya miras şirketine temsilci atanmadan tek başına ortak taşınmazdan yararlanmasına engel olan ortaklar aleyhine ecrimisil davası açabilir.
+
+Yine, 6100 sayılı Hukuk Muhakemeleri Kanunu’nun (HMK) 190. maddesi ile TMK’nin 6. maddesi uyarınca herkes iddiasını ispatla mükelleftir. Bir başka ifade ile dava konusu taşınmazların davalıların kullanımında olup-olmadğını ispat külfeti davacı tarafa aittir.
+
+Somut olayda, Mahkemece yapılan araştırma ve incelemenin hükme yeterli olduğunu söyleyebilme olanağı yoktur. Şöyle ki, davacı taraf dava dilekçesinde, tanık deliline dayanmış, Mahkemece, davacı vekilinin hazır bulunduğu, 21.10.2014 tarihli celse de, taraf vekillerine varsa tanıklarının ad, soyad ve adreslerini içeren tanık listesini vermesi için 2 haftalık kesin süre verilmiş, kesin süre içinde vermediği takdirde tanık deliline dayanmaktan vazgeçilmiş sayılacağı ihtar edilmiş, davacı tanık listesi sunmamış, dava dilekçesinde yazılı bağımsız bölümlerde kimlerin oturdukları kiracı oturuyor ise bunların kira bedellerinin kimlere ödeyip ödemediği hususunun zabıta aracılığıyla saptanmasına ilişkin davacı vekilinin talebi de ispat külfeti davacı da olduğundan reddedilmiştir. Bu durumda, Mahkemece yapılan keşif sonrası alınan bilirkişi raporunda, kabulüne karar verilen bir kısım dairelerde, kiracıların oturduğu tespit edilmiş ise de, bahsi geçen dairelerin kim tarafından kiraya verildiği, kira bedeli ve kira bedellerinin kim tarafından tahsil edildiği açıklığa kavuşmamış, başka bir deyişle, davacılar iddiasını ispatlayacak bir delil sunamamıştır. Kaldı ki, yapılan keşifte, dava konusu 5 numaralı bağımsız bölümde, mirasçı Süleyman’ın oturduğu tespit edilmiştir. O halde, dava, davacılarca, yöntemince ispatlanamadığına göre, davanın reddine karar verilmesi gerekirken, yazılı şekilde karar verilmesi yanlış olup hükmün bu nedenle bozulması gerekmiştir.
+
+Hukuk Genel Kurulu         2017/37 E.  ,  2021/512 K.
+
+6102 sayılı TTK’nın 812. maddesi kapsamında yapılacak incelemede, kusursuz sorumluluğa sahip olan davalı Banka, dava konusu çeklerdeki keşideciye atfen atılan imzaların keşideci eli ürünü olmadığının belirlenmesi hâlinde çek hamiline herhangi bir ödeme yapmakla yükümlü olmayacaktır. Buradan hareketle TMK’nın 6. maddesi ile HMK’nın 190/1. maddesi uyarınca uyuşmazlık konusu olayda, çekteki keşideciye atfen atılan imzaların sahte olduğuna ilişkin muhatap banka tarafından ileri sürülen iddianın ispatı, uyuşmazlığın niteliği itibariyle davalı Bankanın lehine bir durum ortaya çıkaracaktır. Başka bir anlatımla muhatap bankanın, ileri sürdüğü sahtelik iddiasının ispatı hâlinde, 5941 sayılı ÇK’nın 3/3. maddesinde belirtilen yasal sorumluluk miktarı da dâhil olmak üzere hamile ödeme yükümlülüğü ortadan kalkacaktır. Bu kapsamda çeklerdeki keşideciye atfen atılan imzaların sahteliğine ilişkin iddianın ispatı sonrasında ortaya çıkan hukuki neticeden, muhatap davalı Banka lehine bir hak ortaya çıkacağından bu hususta ispat külfeti, yukarıda anılan yasal düzenlemeler kapsamında davalı Bankaya ait olacaktır. Netice itibariyle TMK’nın 6. maddesi ve HMK’nın 190/1. maddesi gereğince, uyuşmazlık konusu olayda dava konusu çeklere dair ödeme yapmama hakkının varlığının dayanağı olan sahtelik iddiasının davalı Banka tarafından ispatı gerekmektedir.
+
+Öte yandan dosya arasına alınan bilirkişi raporunda; uyuşmazlık konusu çeklerdeki keşideciye atfen atılan imzaların keşideci eli ürünü olup olmadıkları hususunda somut bir belirleme yapılamamış, söz konusu eksikliğin nedeni olarak mukayeseye esas alınacak nitelikte keşideci imzasını içeren evrakın eksikliğine işaret edilmiştir. Bu hâliyle dosyadaki bilirkişi raporunun hükme esas alınacak nitelikten yoksun olduğu anlaşılmakla birlikte bu husus, anılan raporda dahi detaylı olarak belirtilmiştir.
+
+Bu itibarla, dava konusu çeklerdeki imzaların keşideciye ait olduğunu ispat yükü davacı tarafa yüklenerek, eksik inceleme sonucu hükme esas oluşturacak niteliği yoksun bilirkişi raporu nazara alınıp, dava konusu çeklerdeki imzaların keşideci eli ürünü olduğunun tespit edilemediğinden bahisle davanın reddine karar verilmesi, eldeki uyuşmazlığa ilişkin ispat külfetine ve sahtelik incelemesine dair yukarıda detaylı olarak belirtilen tüm kanunî düzenlemelere ve ilkelere aykırılık teşkil etmektedir.
+
+Neticeten, iddia, savunma, taraflarca sunulan deliller ve tüm dosya kapsamı itibariyle dava konusu çeklerdeki keşideciye atfen atılan imzaların sahteliğine ilişkin uyuşmazlıkta ispat külfetinin, TMK’nın 6. maddesi ile HMK’nın 190/1. maddesi uyarınca davalı Bankada olduğu nazara alınarak, HMK’nın 211/1-b maddesi çerçevesinde bilirkişi raporunda işaret edilen keşidecinin çek tanzim tarihine yakın tarihli, değişik amaçlarla atmış olduğu samimi mukayese imzalarını içeren belge asılları ve davalı tarafından fotokopi olarak sunulan evrakın keşidecinin ıslak imzalarını havi asıllarının teminiyle yapılacak bilirkişi incelemesi sonrasında hâsıl olacak sonuca göre bir karar verilmesi gerekir.
+
+Hukuk Genel Kurulu         2017/2636 E.  ,  2021/740 K.
+
+Kural olarak hâkim, taraflar arasında uyuşmazlık konusu olan vakıaların gerçekleşip gerçekleşmediğini kendiliğinden araştıramaz. Belli bir olayın gerçekleşip gerçekleşmediğini, tarafların ispat etmesi gerekir. 4721 sayılı Türk Medeni Kanunu’nun (TMK) “İspat yükü” başlıklı 6. maddesi uyarınca, “Kanunda aksine bir hüküm bulunmadıkça, taraflardan her biri, hakkını dayandırdığı olguların varlığını ispatla yükümlüdür.” Aynı yöndeki düzenleme 6100 sayılı Hukuk Muhakemeleri Kanunu’nun (HMK) 190. maddesinin birinci fıkrasında, “İspat yükü, kanunda özel bir düzenleme bulunmadıkça, iddia edilen vakıaya bağlanan hukuki sonuçtan kendi lehine hak çıkaran tarafa aittir” şeklinde ifade edilmiştir. Buna göre ispat yükü, ispatı gereken vakıalara dayanan tarafa ait olup, herkes iddiasını ispatla mükelleftir.
+
+İspat için başvurulan araçları (vasıtaları) ifade eden deliller; HMK’da senet, yemin, tanık, bilirkişi, keşif ve uzman görüşü olarak sıralanmıştır. Ancak sayılan bu deliller sınırlayıcı (tahdidi) olmayıp, kanunun belirli bir delille ispat zorunluluğu getirmediği hâllerde taraflar kanunda düzenlenmemiş diğer delillere de dayanabilirler. Delillerin değerlendirilmesinde ise, hâkimin bağlılığı ve her bir delile bağlanan hukukî sonuçlar bakımından “kesin” ve “takdiri” deliller ayrımı esas alınarak incelenme yapılmaktadır. Kesin deliller başka bir ifadeyle kanuni deliller hâkimi bağlayıcı nitelikte olduğundan, hâkimin bu delilleri takdir yetkisi bulunmamaktadır. Kesin delillerden biri ile ispat edilen olay doğru olarak kabul edilmektedir. Takdiri deliller ise hâkimi bağlamaz, hâkim bu delilleri serbestçe tayin ve takdir eder, değerlendirir ve kararını buna göre verir.
+
+Somut olayda uygulanması gereken ve uyuşmazlığın ortaya çıktığı tarihte yürürlükte bulunan mülga 818 sayılı Borçlar Kanunu’nun (BK) 410 ve devamı maddelerinde vekâletsiz iş görme “vekâleti olmadan başkası hesabına tasarruf” başlığı ile düzenlenmiş iken, 6098 sayılı Türk Borçlar Kanunu’nun (TBK) 526-531. maddeleri aralığında “vekâletsiz iş görme” başlığı altında düzenlenmiştir. Gerek BK’da gerekse TBK’da vekâletsiz iş görmenin tanımı yapılmamış, iş görenin hak ve borçları ile iş sahibinin hak ve borçları düzenlenmiştir.
+Vekâletsiz iş görmenin unsurları; iş görme, görülen işin başkasına ait olması, vekâlet ya da iş görme sözleşmesi bulunmaması, vekâletsiz iş yapanın iş görme iradesi ve görülen işin iş sahibinin yararına olmasıdır. Vekâletsiz iş görme iki hâlde söz konusu olabilir. Bunlardan ilki sözleşmesi olmayan işler olup taraflar arasında usulüne uygun olarak kurulan bir sözleşme ilişkisi bulunmamasına rağmen iş gören tarafından yapılan ve iş sahibinin yararına olan işlerdir. İkinci hâl ise, iş gören ile iş sahibi arasında usulüne uygun ve geçerli bir sözleşme yapılmış olup, işin ifası sırasında veya bitiminde iş sahibinin talimatı ile veya talimatı olmaksızın iş sahibinin yararına olarak sözleşme kapsamı dışında kalmasına rağmen iş görenin yaptığı işlerdir. Başka bir ifadeyle bu hâle; sözleşme dışı iş veya sözleşme fazlası imalât da denilmektedir.
+
+Yargıtayın yerleşik içtihat ve uygulamalarına göre sözleşme kapsamı dışında kalan ilâve işlerle ilgili vekâletsiz iş görme hükümlerinde iş sahibinin yararına olan imalatların işin yapıldığı tarihteki mahalli piyasa rayiçlerine bedelinin hesaplanması, piyasa fiyatlarının içinde katma değer vergisi ve yüklenici kârı bulunduğundan ayrıca eklenmemesi gerekir. Vekâletsiz iş görme hükümleri gereğince yapılan iş bedelinin sorumlusu sözleşme fazlası işlerde sözleşmenin tarafı olan ve fazla işten yararlanan gerçek veya özel hukuk tüzel kişisi ya da kamu kuruluşu; sözleşmesiz işlerde ise iş görenin sözleşmesiz yaptığı işlerden yararlanan ve kullanan kişi ve kuruluşlardır. Gerek BK’da gerekse TBK’da vekâletsiz iş görme hükümlerine göre açılacak davalarda zamanaşımı süresine yönelik bir düzenleme bulunmadığından, genel zamanaşımı süresi olarak BK’nın 125.maddesinde (TBK m. 146) düzenlenen on yıllık zamanaşımı süresi uygulanmalıdır.
+
+Öte yandan mülga BK’nın 101. maddesinin birinci bendine göre, borçlu temerrüdünün gerçekleşebilmesi için alacağın muaccel (istenebilir) olması ve borçluya ihtar keşide edilerek alacağın ödenmesinin istenmesi gerekir. Bu durumda temerrüt, ihtarla tanınan sürenin sona erdiği günü takip eden günde oluşur. Aynı maddenin ikinci bendinde ise, borcun ifa edileceği günün tarafların anlaşmasıyla kesin olarak belirlenmesi hâlinde, temerrüdün kararlaştırılan günün bitimi ile gerçekleşeceği düzenlenmiştir. Eser sözleşmesinden kaynaklanan uyuşmazlıklarda bir alacağa temerrüt faizi uygulanabilmesi için dava tarihinde yürürlükte bulunan BK’nın 101. maddesi gereğince alacaklının yöntemine uygun ihtarıyla borçlunun temerrüde düşürülmüş ya da alacağın kararlaştırılan kesin vadede ödenmemiş olması zorunludur.
+
+Tüm bu açıklamalar ışığında davacının yüklenici, davalının da iş sahibi olduğu somut olay değerlendirildiğinde; davacının, davalının talep ve talimatı üzerine … Eğitim ve Araştırma Hastanesinde yaptığını ileri sürdüğü sözleşme harici fazla işlerle ilgili kurulan hüküm kesinleştiğinden; uyuşmazlık, yüklenicinin … Hastanesinde mutfak genel onarım işine bağlı olarak sözleşme dışında gerçekleştirdiğini iddia ettiği fazla işlerin bedelini talep edip edemeyeceği noktasında toplanmaktadır. Mahkemece sebepsiz zenginleşme hükümlerine göre BK’nın 66. maddesinde düzenlenen on yıllık zamanaşımı süresinin uygulanacağı belirtilmiş ise de; davada, eser sözleşmesi haricinde fazladan yapıldığı iddia edilen ilave işlerin tutarının talep edildiği gözetildiğinde, vekâletsiz iş görme hükümlerinin uygulanması gerektiği, vekâletsiz iş görmeden kaynaklanan işbu davanın BK’nın 125. maddesine göre on yıllık genel zamanaşımı süresine tabi olduğu, dosya kapsamından … Hastanesi işinin 23.09.1997 tarihinde bitirilerek kesin hakedişinin yapıldığı ve bu tarihten itibaren davanın açıldığı 12.09.2007 tarihine kadar on yıllık zamanaşımı süresinin dolmadığı ve davanın zamanaşımı süresi içinde açıldığı anlaşılmaktadır.
+
+Davacı tarafından delil listesinin ekinde dosyaya sunulan davalı idarenin 06.10.1997 tarihli iç yazışmasında mukayeseli keşfe göre ihalenin 6.495.650.800TL (yeni para birimi 6.495TL) olduğu belirtilmiştir. Mahkemece yapılan keşif sonucu bilirkişi heyetinden alınan raporda; … Hastanesinde gerçekleştirildiği iddia edilen imalatların keşifte gösterilemediği, davacının sözleşme harici yaptığı işleri kanıtlayan herhangi bir belge sunmadığı ve fazla işlerin varlığını ispatlayamadığı saptandıktan sonra, şayet mahkemece davalının 06.10.1997 tarihli yazısı dikkate alınırsa, keşif artışı tutarının 3.360.918.411,00TL (yeni para birimi 3.360TL) olduğunun kabul edilebileceği, ancak keşif artışı yapılmış olmasının davacının bu işleri yaptığının ve alacaklı olduğunun kanıtı olmadığı açıklanmıştır. Ayrıca davalının fazla işlerle ilgili talep yazısı ya da ilâve işlerin yapıldığını kabul ettiğine yönelik herhangi bir belge de bulunmadığından, davacı iddiasını yasal delillerle ispatlayamamıştır.
+
+Bu durumda mahkemece … Hastanesinde yapıldığı iddia edilen fazla işlerin tahsili isteminin tümden reddine karar verilmesi gerekirken, önceki kararda direnilerek yazılı şekilde karar verilmesi doğru değildir.
+
+Yargıtay 13. Hukuk Dairesi         2016/26549 E.  ,  2019/4351 K.
+
+HMK 190
+
+Dava, hayvan satışından kaynaklanan alacağın tahsili istemine ilişkindir. Davalı, davacıyla herhangi bir alışverişinin olmadığını savunmuştur. Mahkemece, davacının davalıdan hayvan satışı nedeniyle alacaklı olduğunu kanıtlayacak dosyaya yazılı bir belge sunmadığı, davalının da davacıya borcu bulunmadığına yönelik yemin ettiği gerekçesiyle davanın reddine karar verilmiş ise de, davalı yanca cevap dilekçesinde hukuki ilişkinin kurulduğunun inkarı karşısında ispat yükü davacı yanda olup, davacının yemin teklifi karşısında, davalı “ Ben davacıdan 5 det büyükbaş hayvan aldığıma ve 6.300,00 TL olan bedeli ödediğime namusum, şerefim ve kutsal saydığım tüm mukaddesatım üzerine yemin ederim “ şeklinde beyanda bulunmuştur. Davalı eda ettiği yeminle hukuki ilişkinin varlığını kabul ederek ödeme iddiasında bulunmuştur. Bu nedenle, taraflar arasında hukuki ilişkinin kurulduğu kabul edilerek, davalının yemin metnininde borcunu ödediğini belirtmesi karşısında ispat yükü davalı taraftadır. O halde mahkemece, ispat yükünün davalı üzerinde olduğu gözetilerek ve tarafların sundukları deliller değerlendirilerek hasıl olacak sonuca göre bir karar verilmesi gerekirken, mevcut olayda ispat yükü ters çevrilerek yazılı şekilde hüküm kurulması usul ve yasaya aykırı olup, bozmayı gerektirir.
+
+YARGITAY 1. HUKUK DAİRESİ
+Esas : 2015/14987 Karar : 2018/12173Tarih : 12.09.2018
+
+HMK 190. Madde
+
+İspat Yükü
+
+Taraflar arasında görülen davada;
+
+Davacılar, mirasbırakan dedeleri … ’ın kayden maliki olduğu 280 ve 307 parsel sayılı taşınmazları davalılara satış suretiyle temlik ettiğini, temlikin mirasçılardan mal kaçırma amaçlı, bedelsiz ve muvazaalı olduğunu ileri sürerek miras payları oranında tapu iptali ve tescil istemişlerdir.
+
+Davalılar, taşınmazları bedelini ödeyerek satın aldıklarını, muvazaa iddiasının doğru olmadığını dahili davalılar, taşınmazları iyiniyetle temlik aldıklarını belirtip davanın reddini savunmuşlardır.
+
+Mahkemece, iddianın ispatlanamadığı gerekçesiyle davanın reddine karar verilmiştir.
+
+Karar, davacılar vekili tarafından süresinde temyiz edilmiş olmakla; Tetkik Hakimi … ’nin raporu okundu, düşüncesi alındı. Dosya incelendi, gereği görüşülüp düşünüldü.
+
+Dosya içeriğine, toplanan delillere, hükmün dayandığı yasal ve hukuksal gerekçeye, delillerin takdirinde bir isabetsizlik bulunmamasına ve özellikle, davacıların iddialarını TMK’nun 6. ve HMK`nun 190. maddeleri gereğince kanıtlayamadığı gözetilerek yazılı şekilde karar verilmesi doğru olduğuna göre; davacıların yerinde bulunmayan temyiz itirazının reddiyle, usul ve yasaya uygun olan hükmün ONANMASINA, aşağıda yazılı 8.20-TL. bakiye onama harcının temyiz eden davacılardan alınmasına, 12.09.2018 tarihinde oybirliğiyle karar verildi.
+
+YARGITAY 1. HUKUK DAİRESİ
+Esas : 2015/13095 Karar : 2018/11890Tarih : 5.07.2018
+
+HMK 190. Madde
+
+İspat Yükü
+
+Davacılar, mirasbırakan Mehmet’in kayden maliki olduğu dava konusu 1173 ada 23 parsel sayılı taşınmazı 03.05.2012 tarihinde davalı … ‘a, 1141 ada 13 sayılı parseldeki çekişme konusu 5 nolu bağımsız bölümü ise 04.11.2013 tarihinde intifa hakkını üzerinde tutarak kuru mülkiyetini diğer davalı … ‘a devrettiğini, anılan temliklerin muvazaalı ve mirasçılardan mal kaçırma amaçlı olduğunu ileri sürerek miras payları oranında iptal ve tescile, olmadığı takdirde tenkise karar verilmesini istemişlerdir.
+
+Davalı … , dava konusu 1173 ada 23 parsel sayılı taşınmazı 60.000 TL bedel karşılığında satın aldığını, annesinin yıllarca davacıların mirasbırakanına baktığını, ancak dava konusu temlikin bakım karşlılığı yapılmadığını belirterek davanın reddini savunmuştur.
+
+Davalı … , çekişme konusu 5 nolu bağımsız bölümün 60.000 TL satış bedelini 2 tanık huzurunda murise elden ödemek suretiyle taşınmazı satın aldığını, bu satış bedelinin ayrıca Haziran ayına kadar davacıların mirasbırakanı … bağımsız bölümde oturması karşılığındaki kira parasını da kapsadığını ve devrin muvazaalı olmadığını belirterek davanın reddini savunmuştur.
+
+Mahkemece, muvazaa iddiasının kanıtlanamadığı gerekçesiyle davanın reddine karar verilmiştir.
+
+Dosya içeriği ve toplanan delillerden; mirasbırakan … kayden maliki olduğu dava konusu 1173 ada 23 parsel sayılı taşınmazı 03.05.2012 tarihinde davalı … ‘a, 1141 ada 13 sayılı parseldeki çekişme konusu 5 nolu bağımsız bölümü ise 04.11.2013 tarihinde intifa hakkını üzerinde tutarak kuru mülkiyetini diğer davalı … ‘a devrettiği, bilahare 15.11.2013 tarihinde 5 nolu bağımsız bölümdeki intifa hakkını kuru mülkiyet sahibi davalı … lehine terkin ettirdiği, 1933 doğumlu mirasbırakanın 06.12.2013 tarihinde ölümü ile geriye davacı çocukları … ve … ile dava dışı kızı … kaldığı, davalı … ‘ın murisin üvey kız kardeşi … oğlu olduğu anlaşılmaktadır.
+
+Bilindiği üzere; uygulamada ve öğretide “muris muvazaası” olarak tanımlanan muvazaa, niteliği itibariyle nisbi (mevsuf-vasıflı) muvazaa türüdür. Söz konusu muvazaada miras bırakan gerçekten sözleşme yapmak ve tapulu taşınmazını devretmek istemektedir. Ancak mirasçısını miras hakkından yoksun bırakmak için esas amacını gizleyerek, gerçekte bağışlamak istediği tapulu taşınmazını, tapuda yaptığı resmi sözleşmede iradesini satış veya ölünceye kadar bakma sözleşmesi doğrultusunda açıklamak suretiyle devretmektedir.
+
+Bu durumda, yerleşmiş Yargıtay içtihatlarında ve 01.04.1974 tarihli 1/2 sayılı İçtihadı Birleştirme Kararında açıklandığı üzere görünürdeki sözleşme tarafların gerçek iradelerine uymadığından, gizli bağış sözleşmesi de Türk Medeni Kanunu’nun (TMK) 706., Türk Borçlar Kanunu’nun (TBK) 237. (Borçlar Kanunu’nun (BK) 213.) ve Tapu Kanunu’nun 26. maddelerinde öngörülen şekil koşullarından yoksun bulunduğundan, saklı pay sahibi olsun veya olmasın miras hakkı çiğnenen tüm mirasçılar dava açarak resmi sözleşmenin muvazaa nedeni ile geçersizliğinin tespitini ve buna dayanılarak oluşturulan tapu kaydının iptalini isteyebilirler.
+
+Hemen belirtmek gerekir ki; bu tür uyuşmazlıkların sağlıklı, adil ve doğru bir çözüme ulaştırılabilmesi, davalıya yapılan temlikin gerçek yönünün diğer bir söyleyişle miras bırakanın asıl irade ve amacının duraksamaya yer bırakmayacak biçimde ortaya çıkarılmasına bağlıdır. Bir iç sorun olan ve gizlenen gerçek irade ve amacın tespiti ve aydınlığa kavuşturulması genellikle zor olduğundan bu yöndeki delillerin eksiksiz toplanılması yanında birlikte ve doğru şekilde değerlendirilmesi de büyük önem taşımaktadır. Bunun için de ülke ve yörenin gelenek ve görenekleri, toplumsal eğilimleri, olayların olağan akışı, mirasbırakanın sözleşmeyi yapmakta haklı ve makul bir nedeninin bulunup bulunmadığı, davalı yanın alım gücünün olup olmadığı, satış bedeli ile sözleşme tarihindeki gerçek değer arasındaki fark, taraflar ile miras bırakan arasındaki beşeri ilişki gibi olgulardan yararlanılmasında zorunluluk vardır.
+
+Öte yandan, muvazaa iddiasına dayalı davalarda mirasbırakanın kastının açık bir şekilde saptanması gerekmektedir. Bu kapsamda HMK 190. madde ve TMK 6. madde gereğince herkes iddiasını ispatla mükelleftir.
+
+Somut olayda, çekişme konusu 23 parsel sayılı taşınmazın muris … tarafından 03.05.2012 tarihinde davalı … ‘a devredildiği, bilahare 14.08.2012 tarihinde murisin … karşı, üvey kardeşi dava dışı … kendisine bakacağı taahhüdü ile anılan taşınmazı … devrettiğini, devrin bedelsiz olduğunu, bakım yükümlülüğünün de yerine getirilmediği iddiası ile … . Asliye Hukuk Mahkemesinin 2012/264 E sayılı dosyasında tapu iptali ve tescil davası açtığı, 17.07.2013 tarihli celsede davadan feragat ettiği ve bu durum karşısında anılan parselin devrinin bedelsiz olduğu, ayrıca dava konusu 5 nolu bağımsız bölümün 04.11.2013 tarihinde davalı … ‘a satıldığı, anılan davalının satış bedeli olarak 60.000 TL ödediğini savunduğu, ancak … Sulh Hukuk Mahkemesinin 2013/11 sayılı tereke dosyasında murisin terekesinde 174,21 TL’nin bulunduğunun tespit edildiği, ayrıca mirasbırakanın emekli maaşının olduğu ve taraf tanıklarının mirasbırakanın yanında kalmadıkları için çocuklarına kızgın olduğunu belirttikleri anlaşılmaktadır.
+
+Yukarıda değinilen ilkeler ve tüm dosya içeriği birlikte değerlendirildiğinde, taşınmazın mirasbırakan … tarafından davalılara yapılan temlikinin çocuklarına kızdığı için mirastan mal kaçırma amaçlı ve muvazaalı olduğu sonuç ve kanaatine varılmaktadır.
+
+Hâl böyle olunca, davanın kabulüne karar verilmesi gerekirken yanılgılı değerlendirme ile davanın reddine karar verilmiş olması doğru değildir.
+
+Davacıların yerinde bulunan temyiz itirazlarının kabulü ile, hükmün (6100 sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK’un 428. maddesi gereğince BOZULMASINA, alınan peşin harcın temyiz edene geri verilmesine, 05/07/2018 tarihinde oybirliğiyle karar verildi.
+
+YARGITAY 2. HUKUK DAİRESİ
+Esas : 2016/21393 Karar : 2018/8602Tarih : 4.07.2018
+
+HMK 190. Madde
+
+İspat Yükü
+
+1-Dosyadaki yazılara, kararın dayandığı delillerle kanuna uygun sebeplere ve özellikle delillerin takdirinde bir yanlışlık görülmemesine göre, davalı erkeğin tüm, davacı kadının aşağıdaki bent kapsamı dışında kalan temyiz itirazları yersizdir.
+
+2-Kanunda aksine bir hüküm bulunmadıkça, taraflardan her biri hakkını dayandırdığı olguların varlığını ispatla yükümlüdür (TMK m. 6, 6100 s. HMK m. 190/1). Davacı kadın dava dilekçesinde düğünde kolye, küpe ve künyeden oluşan 1 adet set takımının takıldığını iddia etmiş, davalı erkek cevabında bu set takımında küpe ve kolyenin olmadığı yönünde bir beyanda bulunmamış sadece ziynetlerin düğünden sonra ortak ihtiyaçlar için bozdurulduğunu beyan etmiştir. Davacı tanıkları, 1 adet set takımının takıldığını bu ziynetin diğer ziynetlerle birlikte borçların ödenmesi için bozdurulup iade edilmediğini beyan etmişlerdir. Bu halde davacı kadın tarafından set takımında bulunan küpe ve künyenin de erkek tarafından alınıp iade edilmediği ispatlanmıştır. Bu durumda mahkemece, davacı kadının künye ve küpeye yönelik ziynet talebinin kabulü gerekirken, reddi doğru olmayıp, bozmayı gerektirmiştir.
+
+SONUÇ: Temyiz edilen hükmün yukarıda 2. bentte gösterilen sebeple BOZULMASINA, bozma kapsamı dışında kalan temyize konu bölümlerinin ise yukarıda 1. bentte gösterilen sebeple ONANMASINA, aşağıda yazılı harcın davalıya yükletilmesine, peşin harcın mahsubuna ve 143.50 TL temyiz başvuru harcı peşin alındığından başkaca harç alınmasına yer olmadığına, temyiz peşin harcını yatıran davacıya geri verilmesine, işbu kararın tebliğinden itibaren 15 gün içinde karar düzeltme yolu açık olmak üzere oybirliğiyle karar verildi. 04.07.2018 (Çrş.)
+
+YARGITAY 2. HUKUK DAİRESİ 
+Esas : 2016/20435 Karar : 2018/7718Tarih : 20.06.2018
+
+HMK 190. Madde
+
+İspat Yükü
+
+1-Dosyadaki yazılara, kararın dayandığı delillerle kanuna uygun sebeplere ve özellikle delillerin takdirinde bir yanlışlık görülmemesine göre, davalı-karşı davacı erkeğin aşağıdaki bentler kapsamı dışında kalan temyiz itirazları yersizdir.
+
+2-Yapılan yargılama ve toplanan delillerden mahkemece davalı-karşı davacı erkeğin kabul edilen kusurlu davranışları yanında davalı-karşı davacı kadının da eşine hakaret ettiği anlaşılmaktadır. Bu halde taraflar arasında ortak hayatı temelinden sarsacak derecede ve birliğin devamına imkan vermeyecek nitelikte bir geçimsizlik mevcut ve sabittir. Olayların akışı karşısında davalı-karşı davacı erkek dava açmakta haklıdır. Bu şartlar altında eşleri birlikte yaşamaya zorlamanın artık kanunen mümkün görülmemesine göre, erkeğin boşanma davasının kabulüne karar verilecek yerde, davanın reddi doğru değil ise de, ne var ki davacı-karşı davalı kadının boşanma davasında verilen boşanma hükmü temyiz edilmeksizin kesinleştiğinden davalı-karşı davacı erkeğin boşanma davası konusuz kalmıştır. Konusuz kalan boşanma davasında tarafların haklılık durumuna göre yargılama gideri ve vekalet ücreti konusunda bir karar verilmek üzere hükmün bozulmasına karar vermek gerekmiştir.
+
+3-Yapılan yargılama ve toplanan delillerden mahkemece davalı-karşı davacı erkeğe kusur olarak yüklenen evliliği yeterince benimsemediği, eşine ilgi ve sevgi göstermediğine ilişkin vakıaların kanıtlanmadığı bu sebeple kusur belirlemesine esas alınamayacağı, kabul edilen ve gerçekleşen diğer vakıalara göre davalı-karşı davacı erkeğin boşanmaya sebebiyet veren vakıalarda kadına göre ağır kusurlu olduğu anlaşılmaktadır. Bu husus gözetilmeden yanılgılı değerlendirme ile tam kusurlu olarak kabulü doğru olmamıştır.
+
+4-Tarafların tespit edilen ekonomik ve sosyal durumlarına, boşanmaya yol açan olaylardaki kusur derecelerine, paranın alım gücüne, ihlal edilen mevcut ve beklenen menfaatlerin kapsamına nazaran, davacı-karşı davalı kadın yararına hükmolunan maddi tazminat çoktur. Türk Medeni Kanununun 4. maddesindeki hakkaniyet ilkesi ile Türk Borçlar Kanununun 50 ve 51. maddesi hükmü nazara alınarak, daha uygun miktarda maddi tazminat (TMK m. 174/1) takdiri gerekirken, yazılı şekilde hüküm kurulması bozmayı gerektirmiştir.
+
+5-Kanunda aksine bir hüküm bulunmadıkça, taraflardan her biri hakkını dayandırdığı olguların varlığını ispatla yükümlüdür (TMK m. 6, 6100 s. HMK m.190/1). Davacı-karşı davalı kadın dava dilekçesinde ziynetlerin erkeğin tasarrufunda kaldığını iddia etmiş, davalı-karşı davacı erkek ise bu iddianın doğru olmadığını, kadının evden olağan şekilde ayrıldığı ve ziynetleri götürdüğünü savunmuştur. Davacı-karşı davalı kadın ziynet eşyasının erkek tarafından satıldığını veya zorla alındığını ispat yükü altındadır. Davacı-karşı davalı kadının tanıklarının ziynetlere ilişkin beyanları görgüye dayalı olmayıp duyum ve aktarım beyanlardan ibarettir. Tanıkların iddia edilen vakıayla ilgili somut, görgüye dayalı bir bilgileri yoktur. Dosyada iddiayı kanıtlamaya elverişli başkaca bir delil de bulunmamaktadır. Davacı-karşı davalı kadın yemin deliline dayanmamış gösterdiği diğer delillerle de dava koınusu ziynet eşyalarının erkek tarafından elinden zorla alındığını ve satıldığını ispat edememiştir. Bu durumda mahkemece, davacı-karşı davalı kadının ziynet talebinin reddi gerekirken, kabulü doğru olmayıp, bozmayı gerektirmiştir.
+
+SONUÇ: Temyiz edilen hükmün yukarıda 2., 3., 4. ve 5. bentlerde gösterilen sebeplerle BOZULMASINA, bozma kapsamı dışında kalan temyize konu bölümlerinin ise yukarıda 1. bentte gösterilen sebeple ONANMASINA, temyiz peşin harcının istek halinde yatırana geri verilmesine, işbu kararın tebliğinden itibaren 15 gün içinde karar düzeltme yolu açık olmak üzere oybirliğiyle karar verildi. 20.06.2018 (Çrş.)
+
+YARGITAY 3. HUKUK DAİRESİ
+Esas : 2016/8617 Karar : 2017/18304Tarih : 27.12.2017
+
+HMK 190. Madde
+
+İspat Yükü
+
+Davacı; davalıya ait olan … ilçesi … mah. … mevkii 152 ada 34 parselde kayıtlı taşınmazın 4.500 metrekarelik kısmını 30/06/2006 tarihinde aralarında yaptıkları sözleşme ile davalıdan 45.000 TL bedelle satın aldığını, 
+ağabeyi olan davalının sigorta ve vergi borçlarından dolayı taşınmaz üzerinde hacizler olduğunu, hacizleri temizleyip tapuyu devredeceğini söylediğini, ayrıca satış sözleşmesinde her kim şartları yerine getirmez ise 40.000 TL cezai şart ödeyeceği konusunda anlaştıklarını, ancak davalının ne tapuyu devrettiğini ne de kendisine vermiş olduğu parayı ödediğini, 
+… Noterliği aracılığı ile 02/06/2014 tarihinde gönderdiği ihtardan da sonuç alamadığını beyan ederek; 
+30/06/2006 tarihli sözleşmenin aynen yerine getirilmesine, mümkün olmaması halinde taşınmaz için verdiği 45.000 TL`nin ve cezai şartın 30/06/2006 tarihinden itibaren işleyecek yasal faizi ile ödenmesine karar verilmesini talep ve dava etmiştir.
+
+Davalı; davacı ile aralarındaki gayrimenkul alım satım mukavelesi başlıklı belge içeriğinde belirtilen 45.000 TL ‘yi almadığını, cezai şart olarak kararlaştırılan 40.000 TL`nin dava yoluyla talep edilemeyeceğini, miktar itibari ile davanın tanık ile ispatının da mümkün olmadığını belirterek davanın reddine karar verilmesini dilemiştir.
+
+Mahkemece; sözleşme içeriği incelendiğinde özellik ve vasıfları belirtilen taşınmazın 45.000 TL karşılığında satıldığı, zilyetliğinin devredildiği ve “mukavele tarihinden itibaren harici olarak bu miktarın alıcı (davalı) …‘nın olduğunun” açıkça ifade edildiği, sözleşme tanığı olan …’nın yeminli beyanında para alışverişini görmediğini ancak sözleşme imza edildikten sonra kendisinin de taraflarla birlikte tapuya gittiğini, devir işleminin taşınmazdaki hacizler sebebiyle gerçekleştirilemediğini ifade ettiği, 
+sözleşmedeki kayıt ve tarafların devir işlemi için tapu dairesine gittiklerinin sabit olduğu dikkate alınarak satış bedelinin davalı tarafça alındığının karine olarak kabul edilmesi gerektiği ve bu nedenle davalının satış bedelini almadığını ispat etmek durumunda olduğu, bu yönde davalının satış
+bedelinin kendisi tarafından alınmadığına ilişkin bir delili bulunmadığından ve yemin teklifinde bulunmayacağını beyan ettiğinden, 
+geçersiz taşınmaz mukavelesine göre davacının davalıya 45.000 TL ödediğinin kabulü gerektiği gerekçesiyle davanın kısmen kabulü ile 45.000 TL’nin dava tarihi olan 24/12/2014`den itibaren işleyecek yasal faizi ile birlikte davalıdan alınarak davacıya verilmesine, fazlaya ilişkin talebin reddine karar verilmiş hüküm süresi içinde davalı vekili tarafından temyiz edilmiştir.
+
+Taraflar arasındaki uyuşmazlık, davacının davalıya taşınmaz satımı nedeniyle bedel ödeyip ödemediği noktasında toplanmaktadır.
+(TMK 6.md hükmü uyarınca kanunda aksine bir hüküm bulunmadıkça taraflardan herbiri hakkını dayandırdığı olguların varlığını kanıtlamakla yükümlüdür. 
+HMK`nun 190.maddesinde de; ispat yükünün kanunda özel bir düzenleme bulunmadıkça, iddia edilen vakıaya bağlanan hukuki sonuçtan lehine hak çıkaran tarafa ait olduğu vurgulanmıştır.)
+
+Davacı ve davalı kardeş olup, aralarında düzenledikleri 30.06.2016 tarihli “Gayrimenkul Alım-Satım Mukavelesinde; “Mülkiyeti Satıcı …‘ya ait 152 ada, 34 parsel sayılı taşınmazın 4500 m² lik kısmını alıcı …`ya 45.000.00 YTL karşılığı satıp; zilyetliğini de devrettiği” belirtilmiştir.
+
+Ne var ki sözleşmede satış bedelinin davalıya ödendiğine ilişkin hiçbir ibare bulunmamaktadır. 
+Davacı, satış bedelinin davalıya ödendiğini iddia etmiş, davalı ise bedel ödenmediğini savunmuştur. Bu bağlamda, ispat yükü ilk önce kural olarak davacıya düşer.
+
+Her ne kadar olayda HMK 203. (HUMK 293 md) uyarınca taraflar kardeş olmaları itibariyle tanık dinlenebilir ise de; tanık dinlenebilecek bir konuda taraflar aralarındaki ilişkiyi yazılı belgeyle düzenlemişlerse artık aksi tanıkla kanıtlanamaz ve dinlenen tanık beyanlarına da itibar edilemez. Kaldı ki, davalı da olayda bedel itibariyle tanıkla ispatın mümkün olmadığını bildirmiştir.
+
+Davacı, satış bedelini ödediğini yazılı yasal delillerle ispat edemediğinden davanın reddine karar verilmesi gerekirken, mahkemece hukuki nitelendirmede yanılgıya düşülerek, ispat külfeti yer değiştirilmek suretiyle yazılı şekilde hüküm kurulması usul ve yasaya aykırı olup, bozma nedenidir.
+
+SONUÇ: Yukarıda açıklanan nedenlerle hükmün HUMK.nun 428. maddesi gereğince davalı yararına BOZULMASINA, peşin alınan temyiz harcının istek halinde temyiz edene iadesine, 6100 sayılı HMK`nun geçici madde 3 atfıyla 1086 sayılı HUMK.nun 440.maddesi gereğince kararın tebliğinden itibaren 15 günlük süre içerisinde karar düzeltme yolu açık olmak üzere, 27.12.2017 tarihinde oybirliğiyle karar verildi.
+
+YARGITAY 11. HUKUK DAİRESİ 
+Esas : 2016/1858 Karar : 2017/3537Tarih : 8.06.2017
+
+HMK 190. Madde
+
+İspat Yükü
+
+Davacılar vekili, müvekkillerinden … Ltd. Şti’nin hac malzemelerinin … içi satışı ve ihracatı ile takke imalat ve ihracatı yaptığını, diğer müvekkilinin ambalaj kutularını basan matbaa firması sahibi olduğunu, davalının 02.04.2007 tarih ve 2007/01489 sayılı belge ile TPE’den “…” ürün adlı endüstriyel tasarım belgesi aldığını, davalının tasarımlarının yenilik ve ayırt edicilik özellikleri bulunmayan tasarımlar olduğunu, müvekkillerinin tasarımları çok daha önce kullandığını, tasarımların asıl sahibinin davacı şirketler olduğunu ileri sürerek, davalı şirket adına tescilli olan 02.04.2007 tarih ve 2007/01489 sayılı tasarımın hükümsüzlüğü ile sicilden terkinine, davaya konu endüstriyel tasarımın sadece müvekkilleri lehine olmak üzere, tescil belgesinden doğan hukuki ve cezai haklarının kullanılmasının önlenilmesine, mahkeme kararının ilanına karar verilmesini talep ve dava etmiştir.
+
+Davalı vekili, davanın reddini istemiştir.
+
+Mahkemece, davanın reddine dair verilen kararın davacılar vekilince temyizi üzerine karar Dairemizce onanmıştır.
+
+Davacılar vekili bu kez karar düzeltme isteminde bulunmuştur.
+
+Dosyadaki yazılara, mahkeme kararında belirtilip Yargıtay ilamında benimsenen gerektirici sebeplere göre, davacılar vekilinin HUMK 440. maddesinde sayılan hallerden hiçbirisini ihtiva etmeyen karar düzeltme isteğinin reddi gerekir.
+
+SONUÇ: Yukarıda açıklanan nedenlerden dolayı, davacılar vekilinin karar düzeltme isteğinin HUMK 442. maddesi gereğince REDDİNE, aşağıda yazılı bakiye 7,80 TL karar düzeltme harcının ve 3506 sayılı Yasa ile değiştirilen HUMK 442/3. maddesi hükmü uyarınca takdiren 275,00 TL para cezasının karar düzeltilmesini isteyenden alınarak Hazine’ye gelir kaydedilmesine, 08/06/2017 tarihinde oyçokluğuyla karar verildi.
+
+KARŞI OY
+
+Dava, davalıya ait endüstriyel tasarım belgesinin, yeni ve ayırtedici olmaması nedeniyle hükümsüzlüğü ve mezkur tasarımın davacılar aleyhine kullanımının önlenmesine yöneliktir.
+
+Davacı yan, dava konusu tasarımın, tescilinden daha önce kendileri tarafından kullanılmış olduğunu ileri sürerek davalıya ait tescilli tasarımın yeni olmadığını ileri sürmüş, bu iddiasının ispatı zımnında ise, 2003 yılından itibaren her yıl yayımlanan kendilerince basım ve dağıtımı gerçekleştirilen ürün kataloglarına ve bunların baskı faturalarına dayanmıştır. Bilirkişi incelemesi ile de sabit olduğu üzere, söz konusu kataloglarda yer verilen ürün ambalajı ile davalıya ait olup 2007 yılında tescil edilen (1) nolu endüstriyel tasarıma konu ürün ambalajı karşılaştırıldığında, daha önce davacı yanca kullanılmış olmakla davalı tasarımın yeni olmadığı anlaşılmaktadır. Ancak, davalı yan, davacı yanca ibraz edilen ürün kataloglarının tümünün aynı yıl bastırılmış olduğunu, davacının yenilik kırıcı olarak sunduğu delillerin sahte olduğunu ileri sürmüştür. Mahkemece davalının bu savunması üzerine yaptırılan adli tıp incelemesi neticesinde bu konuda kesin bir kanaate varılamadığı bildirilmiş olmasına karşın, mahkemece, davalının savunması benimsenerek davacı delili katalogların aynı yıl basılmış olması nedeniyle hükme esas kılınamayacağı gerekçesiyle davanın reddine karar verilmiştir.
+
+Mahkemece verilen bu hüküm, davacı yanın temyiz istemi üzerine, Dairemizce, “… Red kararına dayanak yapılan Adli Tıp Kurumu Başkanlığı Fizik İhtisas Dairesi raporunda, davacı tarafın dayandığı ürün kataloglarının sahte olup olmadığı hususunda kesin bir kanaate varılmamış, sadece dosyaya ibraz edilen katalogların aynı baskı kalıbıyla veya aynı baskı dosyası kullanılarak basıldığı belirtilmiştir. Davacı tarafın bu katalogların basım yılıyla ilgili tanık dinletme talebi dikkate alınmamıştır. Matbaacılık sektöründe daha önce basılan katalogların kalıplarının sonraki baskıda kullanılmasına engel bir hal yoktur. Bu nedenle sırf katalogların aynı kalıplarla basılma ihtimali bulunduğu gerekçesiyle bu katalogların taklit olduğunun kabulü doğru değildir. Bu itibarla broşürlerin yılları bakımından dosyadaki diğer deliller ve dinletilmek istenen davacı tanıkları dinlenerek sonucuna göre bir karar verilmesi gerekirken yazılı gerekçe ile davanın reddine karar verilmesi doğru görülmemiştir.” biçimindeki gerekçe ile yerel mahkeme kararının bozulmasına karar verilmiştir.
+
+Mahkemece bozma ilamına uyulmasına karar verilmiş, bu meyanda davacı tanıkları dinlen-miş, tanıklar mezkur katalogların basım yılları ile ilgili olarak davacı yanın savunmasını teyid eden beyanlarda bulunmuşlardır.
+
+Yerel mahkeme, dinlenen tanıkların davacıların çalışanları olduğundan tanıklıklarına itibar edilemeyeceği, öte yandan söz konusu kataloglarla ilgili “aydınlatıcı” fatura ibraz edilmediği hususlarını vurgulamak ve bozulan önceki karardaki gerekçeye ilave etmek suretiyle davanın reddine karar vermiş, karar Dairemizce onanmış, davacılar vekili karar düzeltme isteminde bulunmuştur.
+
+Davacı tarafından yenilik kırıcı olarak ibraz edilen kataloglar, 2003 yılından itibaren 2007 yılına değin yayımlandığına ilişkin olarak üzerinde baskı yılının da yer aldığı sıradan yıllık ürün katalogları niteliğindedir. Mahkemece alınan 10.7.2009 tarihli bilirkişi raporunda 2005 ve 2006 yıllarına ilişkin davacı kataloglarındaki ambalaj tasarımı ile dava konusu tescilli tasarımın görünüm itibariyle benzeş oldukları, buna nazaran davalı tasarımının yenilik unsurundan yoksun olduğunun kabulü gerektiği belirtilmiştir.
+
+Mevcut fiili ve fiziki durum açıklanan mahiyette bulunduğundan, gerek HUMK’nın yürürlükte olduğu süreçteki ispat kurallarına ilişkin yargısal uygulama ve gerekse MK’nın 6. maddesi ile HMK’nın 190. maddesi uyarınca mezkur katalogların basım yıllarının sahte olup delil uydurmak amacıyla düzenlenmiş belgeler olduğunu ileri süren ve bu suretle ileri sürdüğü bu vakıadan lehine sonuç çıkaran davalı tarafın bu yoldaki savunmasını ispat etmesi gerekir.
+
+Nitekim, mahkemece, bu yoldaki savunmanın ispatlanmasının eşyanın tabiatı gereği davalı tarafa ait olduğu kabul edilerek 8.10.2009 tarihli ara karar ile Adli Tıp Kurumundan davalı tarafın savunması ile ilgili olarak ayrıntılı rapor talebinde bulunulmuş, bu yoldaki masrafların davalı tarafından karşılanmasına hükmedilmiştir. Alınan raporda, mezkur katalogların sahte olduğuna ilişkin bir kanaat serdedilmemekte, baskı kalıplarının yahut dosyasının aynı olabileceği değerlendirilmektedir. Mahkemenin bu nitelikteki değerlendirmeden hareketle delillerin takdirinde hataya düşülerek davanın reddine karar vermiş olması vakıayı ispat yükü ile ilgili kendi değerlendirmesine aykırı olduğu gibi, davanın reddine ilişkin mahkemenin bu yaklaşımı, bozma ilamından da açıkça anlaşılacağı üzere, Dairemizce de benimsenmemiştir. Mahkeme, bozma ilamına uymuş olup dinlenen davacı tanıklarının beyanlarında aksine bir durumdan söz edilmemiş olmasına, mübrez baskı faturalarında da davalının savunmasını doğrulayan ya da davacı yanın iddiasını yalanlayan bir yan bulunmamasına karşın, mahkemece, bu kerre ispat yükü ters çevrilmek ve davacıyı mübrez katalogların sahte olmadığını ispatlamakla yükümlü tutarak, üstelik uyulan bozma ilamı ile davacı yararına oluşan müktesep hak ihlal edilmek suretiyle katalogların delil uydurmak amacıyla düzenlendiğinin kabulüyle, davanın reddine karar verilmiş olması dosya kapsamına, usul ve yasaya aykırıdır.
+
+Bu itibarla, davacı yan vekilinin karar düzeltme isteminin kabulü ile Dairemizin onama ilamının kaldırılarak yerel mahkeme kararının bozulması görüşünde olduğumdan çoğunluk kararına katılamıyorum.
+
+YARGITAY 15. HUKUK DAİRESİ 
+Esas : 2016/3073 Karar : 2017/1156Tarih : 16.03.2017
+
+HMK 190. Madde
+
+İspat Yükü
+
+2797 Sayılı Yargıtay Kanunu’nun 41/4 maddesi gereğince bir işin duruşmasında bulunan başkan ve üyelerin çoğunluğunun kurul kadrolarında değişiklik, izin veya hastalık gibi nedenler dışında o işin görüşülmesinin yapıldığı kurullarda yer alması zorunlu ise de 12.04.2016 tarihli duruşmada hazır bulunan Daire Başkanı …‘in emeklilik nedeniyle görevden ayrılmaları, ….’ın da üyelik görevinin sona ermesi nedeniyle işin görüşülmesinin yapıldığı bu günkü kurulda yer almaları fiilen ve hukuken mümkün olmadığından temyiz incelemesinin duruşmada hazır bulunan daire Başkanı …‘ün Başkanlığında duruşmada hazır bulunan üyeler … ve … ile duruşmada hazır bulunmayan Daire üyeleri … ve …‘ın katılması ile yapılmasına karar verilerek işin esası incelendi;
+
+Dava, eser sözleşmesinden kaynaklanan iş bedeli alacağının tahsili talebi ile yapılan icra takibine itirazın iptali talebinden ibarettir. Davacı yüklenici, davalı ise iş sahibidir. Davacı yüklenici vekili; davacı yüklenici ile davalı iş sahibi arasında 31/10/2008 tarihinde 6.450.000,00 TL ihale bedelli “Hentbol Federasyonu Spor Salonu ve Kompleksi İşine” ait sözleşme imzalandığını, bu sözleşme kapsamında davacının işi yaptığını, taraflar arasında 18/03/2011 tarihinde sulhname imzalandığını, işin 03/11/2010 tarih ve 2835 sayılı tasfiye kabulünün yapılarak yüklenici davacıya 8 nolu hakediş bedeli olarak KDV dahil 792.030,71 TL ödeneceğinin kararlaştırıldığını, davacı yüklenicinin sözleşme dışı yapmış olduğu işler bulunduğundan bahisle Ankara Asliye 7. Ticaret Mahkemesi’nin 2012/617 D. iş sayılı dosyası üzerinden mahallinde tespit gerçekleştirdiğini, bilirkişi raporuna göre 46 kalem iş bedeli olarak saptanan 852.512,91 TL’yi sulhname tarihinden sonra yapılan işler bedeli olarak saptandığını, bu bedelin davalı iş sahibinden tahsili amacıyla Ankara 15. İcra Müdürlüğü’nün 2012/2169 sayılı dosyası ile takibe geçildiğini, ödeme emrinin davalıya tebliği üzerine yasal süresi içerisinde davalının borca itiraz ederek takibi durdurduğunu, davalı iş sahibinin icra takibine vaki itirazının haksız olduğundan bahisle takibe itirazın iptali ile icra takibin devamına, alacağın %40’dan az olmamak üzere icra inkar tazminatına karar verilmesini talep ve dava etmiş, davalı iş sahibi vekili; davacı ile davalı arasındaki sözleşme uyarınca işin sonuçlandığını, davacının hakedişler kadar imalat yaptığını ve karşılığını aldığını, her türlü alacağın sulhname ile çözüldüğünü ve sulhnamedeki miktarın ödendiğini, davacının sözleşme dışı iş yapmadığını, kalan işler ile ilgili yeni ihale açıldığını, işin halen sürdüğünü, davacının iddialarının hayatın olağan akışına aykırı olduğunu, ihale dışında yazılı ve sözlü bir anlaşma olmadığını, zaten ihale bedeli olarak belirlenen rakam ile işin bitirilmesi gerektiğini, davacının iddia ettiği ek işleri kabul etmediklerini, sulhnamenin bütün içeriği ile konuyu içeren bir belge olduğunu belirterek davanın reddini reddini savunmuş, mahkemece yapılan yargılama sonucu davanın kısmen kabulüne karar verilmiş, verilen karar taraf vekillerince yasal süresi içerisinde temyiz edilmiştir.
+
+Ankara 15. İcra Müdürlüğü’nün 2012/2169 Esas sayılı takip dosyası incelendiğinde; alacaklı davacı tarafından borçlu davalı aleyhine 852.512,00 TL asıl alacak üzerinden ilamsız takip yapıldığı, ödeme emrinin borçluya 28.02.2012 tarihinde usulüne uygun tebliğ edildiği ve borçlu davalının 06.03.2012 tarihli dilekçesi ile borca itiraz ettiği, itiraz üzerine takibin durdurulduğu ve 1 yıllık yasal süresi içerisinde itirazın iptali davasının açıldığı anlaşılmıştır.
+
+1-Her ne kadar davacı vekili kararı temyiz etmiş ise de; davacı vekilinin 12.04.2016 tarihli dilekçesi ile temyiz talebinden feragat ettiği ve vekaletnamesinde temyizden feragat yetkisi bulunduğu anlaşılmakla davacı vekilinin temyiz talebinin feragat nedeniyle reddi gerekmiştir.
+
+2-Davalı vekilinin temyiz taleplerine gelince;
+
+Taraflar arasında; davalı tarafından açılan ihale sonucu, 31.10.2008 tarihli ve “Hentbol Federasyonu Spor Salonu ve Kompleksi“ konulu sözleşmenin imzalandığı konusunda bir uyuşmazlık bulunmamaktadır. Taraflar arasında uyuşmazlık; sözleşmenin ifasını müteakip düzenlenen sulhname sonrasında davacı yüklenici tarafından imalat yapılıp yapılmadığı ve bu imalatlardan dolayı davalıdan alacağınını bulunup bulunmadığı noktalarında toplanmaktadır.
+
+Taraflar arasında düzenlenen sözleşme, imzalandığı ve davanın açıldığı tarihte yürürlükte bulunan 818 sayılı Borçlar Kanunu’nun 355. ve devamı maddelerinde düzenlenen eser sözleşmesi niteliğindedir. Uyuşmazlığın, eser sözleşmesi hükümlerine göre değerlendirilip çözülmesi gerekli ve zorunludur. 6100 sayılı Hukuk Muhakemeleri Kanunu’nun 190. maddesi ve 4721 sayılı Türk Medeni Kanunu’nun 6. maddesi gereğince iddia eden, iddiasını ispat yükümlülüğü altındadır. Kural olarak yapılan işin miktar ve değerini ispat yükü yüklenicide, iş bedelinin ödendiğini ispat yükü ise iş sahibindedir. Bir başka deyişle yüklenici yaptığı işin tutarını, iş sahibi de iş bedelini ödediğini kanıtlamak zorundadır.
+
+Somut olaya gelince; davacı yüklenici taraflar arasında düzenlenen eser sözleşmesi hükümleri gereği işi yapıp teslim ettiğini ve 8 nolu hakediş yapılıp işin bedelinin ödenmesinin kararlaştırıldığını ve 18.03.2011 tarihli “Sulhname” nin yapıldığını, sulhnamenin imzalanmasından sonra işler yaptığını ve bu işlerin Ankara 7. Asliye Ticaret Mahkemesi’nin 2012/617 D. iş sayılı dosyası ile tespit edildiğini, bu işlerin bedelinin ödenmediğini iddia ederek talepte bulunmakta, davalı taraf ise bahsi geçen işlerin başka bir üçüncü kişi tarafından yapıldığını savunmaktadır.
+
+Esasen eser sözleşmesi imzalandıktan sonra yapılan işlerin yüklenici tarafından yapıldığı karine olarak kabul edilir. Ancak bu karinenin aksi savunulup ispat edilebilir. Somut olayımızda taraflar arasında eser sözleşmesi imzalanıp işin yapılmasından sonra taraflar arasında 03.11.2010 tarihli ve 2835 sayılı “Tasfiye Kabul Tutanağı“ başlıklı tutanakla işin tasfiye edildiği bir başka deyişle işin sonlandırıldığı anlaşılmaktadır. Bu tutanakta işin bitirilme tarihi 31.08.2010 tarihi olarak belirlenmiştir. Bu tarihten sonra da taraflar arasında 18.03.2011 tarihli “sulhname” başlıklı sulh sözleşmesinin düzenlendiği sabittir. Bu iki belgenin taraflar arasında düzenlendiği konusunda bir çekişme, bir başka deyişle bu belgelere tarafların bir itirazı da bulunmamaktadır.
+
+Bu tarihten sonra işin yapıldığı iddiası taraflar arasında tasfiyeden sonra yeni bir eser sözleşmesi kurulduğu yönünde olup, davalı tarafça karşı çıkıldığından davacı bu iddiasını alacak miktarına göre HMK’nın 200. maddesi hükümlerine göre yazılı delille kanıtlamak zorundadır. Davacı bu iddiasının ispatı için yasal bir delil ibraz etmemiştir. Davacı işlerin bu tarihten sonra kendisi tarafından yapıldığını iddia etmekte iken davalı taraf bu işlerin dava dışı üçüncü kişi olan Ota İnş. San. ve Tc. Ltd. şirketine yaptırıldığını savunmakta ve 21.10.2011 tarihli sözleşmeye delil olarak dayanmaktadır. Bu sözleşme ve eklerinin incelenmesinde davalı iş sahibi ile dava dışı şirket arasında aynı işin ikmal inşaatına ilişkin ihale yapılarak sözleşme imzalandığı, 25.10.2011 tarihinde işe başlama tutanağı düzenlenerek işlerin yapıldığı görülmektedir.
+
+Her ne kadar davacı taraf Ankara 7. Asliye Ticaret Mahkemesi’nin 2011/617 D. iş sayılı dosyası ile delil tespiti yaptırdığını ve bu işleri yaptığının bir kanıtı olduğunu iddia etmiş ise de; delil tespiti tek başına işin davacı tarafından yapıldığını kanıtlamaya yeterli kabul edilemez. Zira tespit raporunu düzenleyen bilirkişi kurulu 15.02.2012 tarihli raporunda eserin durumunu 04.01.2012 tarihine göre belirlemiş olup, bu tarih tasfiye, sulhname ve davalı iş sahibinin yaptığı ikmal ihalesinden ve üçünçü şahıs şirketin işe başlamasından sonraki bir tarihtir.
+
+Hal böyle olunca davacı yüklenici 31.10.2008 tarihli sözleşmenin tasfiye edilip sulhname düzenlenmesinden sonra yeni bir sözleşme ilişkisi kurulup, işe devam ederek ya da sözleşme olmaksızın işe devam ederek dava edilen imalatları yaptığını ispat edememiş ve buna karşılık aksine davalı iş sahibi bu işleri dava dışı üçüncü şahıs olan şirkete yaptırdığını ispat etmiş sayılmalıdır.
+
+Öte yandan davacı yüklenici şirketin dava dışı başka bir üçüncü kişi olan Alkim Yapı Doğrama Taah. San. ve Tic. Ltd. şirketi aleyhine açtığı menfi tespit davasında; her iki şirket arasında Hentbol Federasyonu ile akdedilen sözleşmeye dayanılarak 16.09.2010 tarihli sözleşme akdedildiği, sözleşme dışı iş yapılmadığı, teslim alınan iş dışında hakedişi yapılan ve davacıya Hentbol Federasyonunca ödenen bir bedel bulunmadığı, 28.10.2010 tarihli tasfiye protokolü incelendiğinde yapılan işin metrajının bedelinin ödendiği, işin tasfiyesinden sonra işin başka bir firmaya ihale edildiği, tasfiyeden sonra davacıya yapılan bir ödemenin bulunmadığı açıkça ifade edilmiştir. Bu açıklama ve tüm deliller birlikte değerlendirildiğinde davanın reddi gerekir iken kısmen kabul edilmesi doğru olmamış, hükmün davalı yararına bozulması gerekmiştir.
+
+SONUÇ: Yukarıda 1. bentte açıklanan nedenle davacının temyiz talebinin feragat nedeniyle REDDİNE, 2. bentte açıklanan nedenlerle davalının temyiz itirazlarının kabulüyle kararın davalı yararına BOZULMASINA, 1.350,00 TL duruşma vekalet ücretinin davacıdan alınarak Yargıtay’daki duruşmada vekille temsil olunan davalıya verilmesine, ödediği temyiz peşin ve Yargıtay başvurma harçlarının istek halinde temyiz eden davacıya, ödediği temyiz peşin harcının istek halinde temyiz eden davalıya geri verilmesine, karara karşı tebliğ tarihinden itibaren 15 gün içinde karar düzeltme isteminde bulunulabileceğine 16.03.2017 gününde oyçokluğuyla karar verildi.
+
+YARGITAY 11. HUKUK DAİRESİ
+Esas : 2016/958 Karar : 2017/432Tarih : 23.01.2017
+
+HMK 190. Madde
+
+İspat Yükü
+
+Davacı vekili, müvekkil tarafından davalı aleyhine alacağın tahsili için icra takibi başlatıldığını, yetki itirazı üzerine … İcra Müdürlüğünün 2013/749 esas sırasına kaydı yapıldığını, müvekkilinin müşterisi olan … San. Ve Paz. A.Ş. firmasının ürünlerinin davalıya ait araçla taşınması için davalı ile anlaştıklarını, emtianın tam ve sağlam olarak araçlara yüklendiğini, ancak teslim sırasında araç kasasının deforme olması sebebiyle içeri sızan su nedeniyle emtianın hasara uğradığını, bu durumun davalı şirket araç şöförünün katılımıyla tutanak altına alındığını, taşınan malların hasarlı olması sebebiyle müşterinin 3.564,00 TL zararının giderildiğini, borcun ödenmesi için davalı şirkete ihtar çekildiğini ancak paranın ödenmediğini bu nedenle icra takibi başlatıldığını yapılan icra takibine itiraz üzerine takibin durduğunu ileri sürerek itirazın iptalini, davalı aleyhine %20 icra inkar tazminatına hükmedilmesini dava ve talep etmiştir.
+
+Davalı Şirket temsilcisi, ihtar üzerine söz konusu tutarın davacıya ödendiğini, bu hususun muhasebe kayıtlarında yapılacak incelemeyle ortaya çıkacağını savunarak davanın reddini talep etmiştir.
+
+Mahkemece, iddia, savunma, bilirkişi raporu ve dosya kapsamına göre, davacı şirket kayıtlarında davacının, davalıdan asıl alacak bakiye tutarının 3.564,00 TL olduğu, davalı şirketten herhangi bir para girişinin olmadığı, davalı şirket defter kayıtlarına göre fatura tutarı olan 3.564,00 TL’nin çıkışının kasadan yapılmış olduğu, davalının dava konusu paranın şirket kayıtlarından çıktığını ispatladığı, davalı tarafın şirket kayıtlarından çıkan bu paranın davacının eline geçip geçmediği konusunda delil sunmadığı, şirket kayıtlarından paranın çıkması davalının lehine delil ise de HMK’nın 190/2. maddesine göre kanuni bir karine olmadığı, davalının parayı davacıya ödediğini ispat edemediği gerekçesiyle davanın kabulüne, alacak likit olduğundan icra inkar tazminatının da kabulüne karar verilmiştir.
+
+Kararı, davalı temyiz etmiştir.
+
+Dava dosyası içerisindeki bilgi ve belgelere, mahkeme kararının gerekçesinde dayanılan delillerin tartışılıp, değerlendirilmesinde usul ve yasaya aykırı bir yön bulunmamasına göre, davalı vekilinin tüm temyiz itirazları yerinde değildir.
+
+SONUÇ: Yukarıda açıklanan nedenlerden dolayı, davalı vekilinin bütün temyiz itirazlarının reddiyle usul ve kanuna uygun bulunan hükmün ONANMASINA, aşağıda yazılı bakiye 180,26 TL temyiz ilam harcının temyiz edenden alınmasına, 23/01/2017 tarihinde oybirliğiyle karar verildi.
+
+YARGITAY 6. HUKUK DAİRESİ 
+Esas : 2016/7139 Karar : 2016/5193Tarih : 7.09.2016
+
+HMK 190. Madde
+
+İspat Yükü
+
+Dava, kiralananın tahliyesi ve 24.892 TL kira alacağının tahsili istemine ilişkindir. Mahkemece, davacılar ile davalı arasında sözlü kira sözleşmesinin varlığı kabul edilerek ve bilirkişilerce belirlenen rayiç kira bedeli üzerinden alacağın kısmen tahsiline karar verilmiş, hüküm davacılar ve davalı vekili tarafından temyiz edilmiştir.
+
+Davacılar vekili dava dilekçesinde, davalı ile müvekkilleri arasında sözlü kira sözleşmesi bulunduğunu bu sözleşmeye göre yıllık kira bedelinin 8 adet 2,5 luk altın olduğunu ileri sürerek, eksik ödenen 2010 ve 2011 yılları kira bedelleri 13.980 TL ve 2012 yılı ödenmeyen kira bedeli 10.912 TL olmak üzere toplam 24.892 TL nin faizi ile birlikte tahsili ve temerrüt nedeniyle kiralananın tahliyesini istemiştir. Davalı yıllık kira bedeline karşı çıkarak, kira borcu bulunmadığını bildirerek davanın reddini savunmuştur.
+
+Taraflar arasındaki kira ilişkisi yazılı belgeye dayalı olmamakla birlikte, davalı kira ilişkisini kabul etmiştir. Davacılar vekili; kira bedelinin yıllık 8 adet 2,5 luk altın olduğunu, ödenmesi gereken bir yıllık kira bedelinden 2010 yılı için 1.200 TL bankaya ve 4.800 TL elden olmak üzere kısmi ödenen 6.000 TL, 2011 yılı için kısmi ödenen 1.200 TL ve 2012 yılı için kısmi ödenen 1.350 TL nin mahsubu ile kalan 24.892 TL’nin faizi ile birlikte tahsilini istemiştir. Davalı ise iddia edilenin aksine kira bedelinin 8 adet 2,5 luk altın olmayıp 2011 yılı için 1200 TL 2012 yılı için ise 1.500 TL olduğunu savunmuştur.
+
+İspatın konusunu tarafların üzerinde anlaşamadıkları ve uyuşmazlığın çözümünde etkili olabilecek çekişmeli vakıalar oluşturur. HMK’nun ispat yükünü düzenleyen 190. maddesine göre ispat yükü; kanunda özel bir düzenleme bulunmadıkça, iddia edilen vakıaya bağlanan hukuki sonuçtan kendi lehine hak çıkaran tarafa aittir. Kanunun belirli delillerle ispatını emrettiği hususlar, başka delillerle ispat edilemez. Taraflar arasında yazılı kira sözleşmesi bulunmadığına göre, öncelikle davacının kira ilişkisinin varlığını ve aylık kira bedelinin ne miktar olduğunu kanıtlanması gerekir. HUMK.`nun 288.maddesi (HMK. 200.md) uyarınca akdi ilişkinin varlığı ve aylık kira miktarının yazılı delille kanıtlanması gerekir. Somut olayda davacı sözlü kira ilişkisine dayanmış ve kira parasının yıllık 8 adet 2,5 luk altın olduğuna ilişkin iddiasını kanunda belirtilen usullere göre kanıtlayamamıştır. Yıllık kira miktarına göre tanıkla kanıtlanma olanağı bulunmamaktadır. Davacı, yazılı bir belge ibraz edememiştir. Ancak Davacı taraf delil listesinde yemin deliline de dayanmış bulunduğundan, davacıya iddiasını yemin delili ile ispata imkan verilmelidir. Bu çerçevede davacıya kira bedelini ispat etmek bakımından dayandığı yemin deliline başvurup
+
+vurmayacağı sorularak ve davalı kiracının kabul ettiği kira bedeli ve yaptığı ödemelerde dikkate alınarak sonucuna göre karar verilmesi gerekirken, rayiç kira bedeli belirlenerek, yazılı şekilde karar verilmesi doğru değildir.
+
+Hüküm bu nedenlerle bozulmalıdır.
+
+SONUÇ: Yukarıda açıklanan nedenlerle temyiz itirazlarının kabulü ile 6100 sayılı HMK.ya 6217 Sayılı Kanunla eklenen geçici 3. madde hükmü gözetilerek HUMK.nın 428.maddesi uyarınca hükmün her iki taraf yararına BOZULMASINA, istek halinde peşin alınan temyiz harcının temyiz edenlere iadesine 07.09.2016 tarihinde oybirliğiyle karar verildi.
+
+YARGITAY 6. HUKUK DAİRESİ
+Esas : 2015/6417 Karar : 2016/1850Tarih : 10.03.2016
+
+HMK 190. Madde
+
+İspat Yükü
+
+Dava, icra takibine yönelik menfi tespit istemine ilişkindir. Mahkemece, davanın reddine karar verilmiş, hüküm davacı vekili tarafından temyiz edilmiştir.
+
+Davacı vekili dava dilekçesinde, takip alacaklısının … İcra Müdürlüğünün 2013/26362 Esas nolu dosyası ile hakkında takip başlattığını, icra takibinde kira alacağı talebinde bulunduğunu, davalı ile ne yazılı ne de şifahi bir kira sözleşmesi yapmadığını, taşınmazın maliki iken davalının hile ile taşınmazı devraldığını belirterek icra takibi nedeniyle borçlu olmadığının tespitine, takibin iptaline, karar verilmesini talep etmiştir. Davalı davaya konu taşınmazı davacıdan satın aldığını, davanın haksız olduğunu belirterek davanın reddini savunmuştur. Mahkemece davacının icra takibine itiraz etmediği, tanık beyanları doğrultusunda kira borcunun bulunduğu gerekçesiyle davanın reddine karar verilmiştir.
+
+HMK’nun 190.maddesi uyarınca ispat yükü, iddia edilen vakıaya bağlanan hukuki sonuçtan kendi lehine hak çıkaran tarafa aittir. Somut olayda davalı 19.11.2013 tarihinde başlattığı icra takibi ile sözlü kira ilişkisine dayanarak aylık 500,00 TL den bir yıllık kira bedeli olmak üzere 6.000 TL kira alacağının tahsilini istemiştir. Davacı kira ilişkisini kabul etmemiştir. Bu açıdan kira sözleşmesinin varlığını ispat külfeti davalıya aittir. HMK’nun 189/3.maddesi uyarınca kanunun belirli delillerle ispatını emrettiği hususlar başka delillerle ispat olunamaz. Aynı yasanın 200.maddesine göre bir hakkın doğumu, düşürülmesi, devri, değiştirilmesi, yenilenmesi, ertelenmesi, ikrarı ve itfası amacıyla yapılan hukuki işlemlerin yapıldıkları zamanki miktar ve değeri 2.500 Türk Lirasını geçtiği takdirde senetle ispat olunması gerekir. Davalı aylık kira bedelinin 500,00 TL olduğunu ileri sürdüğüne göre davalı kira sözleşmesin tanık beyanları ile kanıtlayamaz. Davacı borçlunun icra takibine itiraz etmemesi de kira akdinin varlığını kabul ettiği anlamına gelmez. Mahkemece davalının kira sözleşmesinin varlığını ispat edemediği dikkate alınarak davanın kabulüne karar verilmesi gerekirken bu hususlar gözönünde bulundurulmadan yazılı şekilde karar verilmesi doğru değildir.
+
+Hüküm bu nedenle bozulmalıdır.
+
+SONUÇ:Yukarıda açıklanan nedenlerle davacı vekilinin temyiz itirazlarının kabulü ile 6100 sayılı HMK.ya 6217 Sayılı Kanunla eklenen geçici 3.madde hükmü gözetilerek HUMK.nın 428.maddesi uyarınca hükmün BOZULMASINA, istek halinde peşin alınan temyiz harcının temyiz edene iadesine, 10.03.2016 tarihinde oybirliğiyle karar verildi.
+
+YARGITAY 10. HUKUK DAİRESİ 
+Esas : 2014/6877 Karar : 2014/10595Tarih : 12.05.2014
+
+HMK 190. Madde
+
+İspat Yükü
+
+Hakkında verilen boşanma kararı 05.11.1998 tarihinde kesinleşen davacıya, 14.03.1994 tarihinde yaşamını yitiren sigortalı babası üzerinden hak sahibi kız çocuğu sıfatıyla bağlanan ölüm aylığının, boşandığı eşiyle fiilen birlikte yaşadığının belirlendiği gerekçesiyle davalı Kurumca 01.11.2008 tarihi itibarıyla kesilerek, 01.11.2008-30.04.2011 döneminde 51.304.02 TL.asıl ve 6.766.08 TL. faiz olmak üzere 58.080.10 TL.tutarındaki yersiz ödendiği ileri sürülen aylıklar için borç tahakkuk ettirildiği anlaşılmaktadır.
+
+Davanın yasal dayanağı olan 5510 Sayılı Kanun’un 01.10.2008 tarihinde yürürlüğe giren 56.maddesinin ikinci fıkrasında, eşinden boşandığı halde, boşandığı eşiyle fiilen birlikte yaşadığı belirlenen eş ve çocukların, bağlanmış olan gelir ve aylıklarının kesileceği, bu kişilere ödenmiş olan tutarların 96.madde hükümlerine göre geri alınacağı yönünde düzenleme yapılmıştır. Anılan madddeye dayalı açılan bu tür davalarda eylemli olarak birlikte yaşama olgusunun tüm açıklığıyla ve taraflar arasındaki uyuşmazlık konusu dönem yönünden ortaya konulması önem arz etmektedir. Bu aşamada, özellikle Anayasa’nın 20., 5510 Sayılı Kanun’un 59., 100., 298 sayılı Seçimlerin Temel Hükümleri ve Seçmen Kütükleri Hakkında Kanunun 28., 45., 5490 sayılı Nüfus Hizmetleri Kanunu’nun 3., 45 - 53., 4857 sayılı İş Kanunu’nun 32., 01.10.2011 günü yürürlüğe giren 6100 sayılı Hukuk Muhakemeleri Kanunu’nun 6., 24 - 33., 189., 190., 191., 4721 sayılı Türk Medeni Kanunu’nun 6., 19., 20., maddeleri ve diğer ilgili mevzuat hükümleri göz önünde bulundurulmak suretiyle yöntemince araştırma yapılmalı, tarafların göstereceği tüm kanıtlar toplanmalı, bildirilen ve dinlenilmesi istenilen tanıkların ifadeleri alınmalı, davacı ile boşandığı eşinin yerleşim yerlerinin saptanmasına ilişkin olarak; muhtarlıktan ikametgah senetleri elde edilmeli, ilgili Nüfus Müdürlüklerinden sağlanan nüfus kayıt örnekleri ile yerleşim yeri ve diğer adres belgelerinden yararlanılmalı, adres değişiklik ve nakillerine ilişkin bilgilere ulaşılmalı, özellikle ilgili Nüfus Müdürlüğü`nden adres hareketleri, tarihleriyle birlikte istenilmeli, ilgililerin su, elektrik, telefon aboneliklerinin hangi adreste kimin adına tesis edildiği saptanmalı, seçmen bilgi kayıtları getirtilmeli, varsa çalışmaları nedeniyle resmi/özel kurum ve kuruluşlara verilen belgelerde yer alan adresler dikkate alınmalı, medulla sisteminde kayıtlarda görülen adresler ilgili sağlık kuruluşlarından araştırılmalı, eşlerin boşanma sebebi, boşanma ilamında velayet, çocukla kişisel ilişki, nafaka, tazminat hükümleri varsa nasıl yerine getirildikleri belirlenmeli, boşanılan eş 4857 Sayılı Kanun hükümleri kapsamında Emniyet Müdürlüğü/Jandarma Komutanlığı araştırması yapılmalı, anılan mahallelerde görev yapmış/yapmakta olan muhtar ve azalardan istem hakkında düşünce edinmeye yetecek kadarının tanık sıfatıyla bilgi ve görgülerine başvurulmalı, böylelikle “boşanılan eşle eylemli olarak birlikte yaşama” olgusunun gerçekleşip gerçekleşmediği, toplanan kanıtlar ışığı altında değerlendirildikten sonra elde edilecek sonuca göre hüküm kurulmalıdır.
+
+İnceleme konusu dava yönünden ise; İstanbul 9. İş Mahkemesinin 2012/730 esas sayılı dosyasının istendiği, ancak bu dosyanın onaysız fotokopisinin eksik olarak davacı vekili tarafından işbu dosyaya ibraz edildiği, bu nedenle bu dosyadaki delillerin net olarak saptanamadığı anlaşıldığından, İstanbul 9.İş Mahkemesinin 2012/730 esas sayılı dosyası tam olarak getirtilmeli, boşanan eşlerin kayıtlı oldukları bölgeler yönünden geniş kapsamlı Emniyet Müdürlüğü araştırması yapılmalı, anılan mahallelerde görev yapmış olan muhtar ve azalardan istem hakkında düşünce edinmeye yetecek kadarının tanık sıfatıyla bilgi ve görgülerine başvurulmalı, davacı ve boşanılan eş adına kayıtlı su, elektrik ve telefon abonelik kayıtları celbedilmeli, medulla sistemi, İlçe Seçim Kurulu ile GSM kayıtlarında yer alan adres bilgileri tarihleri ile birlikte istenilmeli bu suretle “boşanılan eşle eylemli olarak birlikte yaşama” olgusunun gerçekleşip gerçekleşmediği, toplanan kanıtlar ışığı altında değerlendirildikten sonra elde edilecek sonuca göre hüküm kurulmalıdır.
+
+Bu maddi ve hukuki olgular göz önünde bulundurulmaksızın, mahkemece, eksik inceleme ve araştırma sonucu davanın kabulüne karar verilmesi, usul ve yasaya aykırı olup bozma nedenidir.
+
+O halde, davalı Kurum vekilinin bu yönleri amaçlayan temyiz itirazları kabul edilmeli ve hüküm bozulmalıdır.
+
+Temyiz edilen hükmün yukarıda açıklanan nedenlerle (BOZULMASINA), oybirliğiyle karar verildi.
+
+YARGITAY 1. HUKUK DAİRESİ
+Esas: 2017/1537 Karar: 2017/4654Tarih: 26.09.2017
+
+HMK 190. Madde
+
+İspat Yükü
+
+Dava, muris muvazaası hukuksal nedenine dayalı tapu iptal ve tescil istemine ilişkindir.
+
+Davacı, miras bırakanının, kök muristen kendisine intikal eden kök 871 ( yeni 540 ada 8 Sayılı parsel ) parsel sayılı taşınmazdaki 1/9 payını mirasçılarından mal kaçırmak amacıyla vekil marifetiyle kardeşi olan davalıların murisine görünürde satış yoluyla devir ettiğini, muris ile aralarının kötü olması ve ölü …‘in de muris ile ilgilenmesi sebebiyle çekişmeli taşınmazdaki payın minnet duygusuyla bedelsiz olarak devir edildiğini, temlikin muvazaalı olduğunu, … ‘ın ölümü ile geriye mirasçısı olarak davalıların kaldığını ileri sürerek davaya konu taşınmazdaki ölü Kemal adına kayıtlı payın iptali ile miras payı oranında adına tescilini istemiştir.
+
+Davalılar vekili, müvekkillerinin murisinin, davacının murisinin mirasçısı olmaması sebebiyle muris muvazaasının uygulanamayacağını, temlikin gerçek olduğunu bildirip davanın reddini savunmuştur.
+
+Davalı, davaya cevap vermemiş, duruşmaları da takip etmemiştir.
+
+Mahkemece, temlikin mirasçılardan mal kaçırmak amaçlı ve muvazaalı olduğu gerekçesiyle davanın kabulüne karar verilmiştir.
+
+Dosya içeriği ve toplanan delillerden, kök murisin 14.10.1968 tarihinde ölümü üzerine geriye mirasçı olarak davacının miras bırakanıni, davalıların miras bırakanı ve …‘i bıraktığı, …‘in 28.06.1970 tarihinde, …‘ın 13.01.2004 tarihinde öldüğü, murisin annesinden intikalen gelen kök 871 ( yeni 540 ada 8 Sayılı parsel ) parsel sayılı taşınmazdaki 1/9 payını vekil aracılığıyla 19.03.1969 tarihinde davalıların murisine satış yoluyla devrettiği kayden sabittir.
+
+Hemen belirtilmelidir ki, 6100 Sayılı HMK’nun 190. maddesiyle 4721 Sayılı TMK’nun 6. maddesi uyarınca herkes iddiasını ispatla mükelleftir. Bir başka ifade ile 19.03.1969 tarihli temlikin mirasçılardan mal kaçırma amaçlı olduğunu ispat külfeti davacı tarafa aittir.
+
+Somut olayda, dinlenen davacı tanıklarının yapılan temlikin mirasçılardan mal kaçırma amaçlı ve muvazaalı olduğunu doğrular net beyanlarının bulunmadığı, öte yandan davalı tanıklarının murisin davaya konu payı zamanında satmak istediğini söylediğini beyan ettikleri, özellikle aynı zamanda satışa aracılık eden davalı tanığının alınan beyanında satış bedelinin murise ödendiğini doğruladığı, yine akitte gösterilen satış bedeli ile keşfen belirlenen değerin birbirine yakın olduğu ve dosya kapsamı bir bütün halinde değerlendirildiğinde 19.03.1969 tarihli temlikin muvazaalı olmadığı anlaşılmıştır.
+
+Hal böyle olunca, davanın reddine karar verilmesi gerekir iken yanılgılı değerlendirme ile yazılı şekilde karar verilmesi hatalıdır.
+
+SONUÇ : Davalılar vekilinin temyiz itirazı açıklanan sebepten ötürü yerindedir. Kabulü ile, hükmün ( 6100 Sayılı Kanun’un geçici 3.maddesi yollaması ile ) 1086 Sayılı 428.maddesi gereğince BOZULMASINA, 21.12.2015 tarihinde yürürlüğe giren Avukatlık Ücret Tarifesi gereğince gelen temyiz eden davalılar vekili için 1.350.00.-TL. duruşma vekâlet ücretinin temyiz edilenden alınmasına, alınan peşin harcın temyiz edene iadesine, 26.09.2017 tarihinde oybirliğiyle karar verildi.
+
+YARGITAY 1. HUKUK DAİRESİ
+Esas: 2017/1267 Karar: 2017/1685Tarih: 04.04.2017
+
+HMK 190. Madde
+
+İspat Yükü
+
+Davacı, mirasbırakanın kayden maliki olduğu 2329 ada 1 parsel sayılı taşınmazdaki davaya konu 10 numaralı bağımsız bölümü 01.09.2008 tarihinde davalı kızına ölünceye kadar bakma akdi ile devrettiğini, murisin bakıma muhtaç olmadığını, emekli maaşı bulunduğunu, anılan temlikin saklı payı zedeleme kastı ile yapıldığını ileri sürerek, sağlararası kazandırma işleminin iptali ile tenkise karar verilmesini istemiştir.
+
+Davalı, mirasbırakanın yaptığı tasarrufun ölünceye kadar bakma akdi olup ivazlı bir tasarruf olduğunu, murisin ölümünden 2 yıl önce demans hastası olduğunu, sürekli ve özenli bakım gerektiren dönemlerinde kendisinin murise baktığını, bakım borcunu yerine getirdiğini belirterek davanın reddini savunmuştur.
+
+Mahkemece, davanın kabulüne dair verilen karar Dairece; “…tarafların ortak mirasbırakanları … davaya konu taşınmazın intifa hakkını üzerinde tutarak, çıplak mülkiyetini 01.09.2008 tarihinde ölünceye kadar bakma akdi ile davalı kızı …‘ya temlik etmiş ve 05.04.2012 tarihinde ölmüştür. Temlik konusu tasarruf sağlararası bir tasarruf olduğuna, tasarruf tarihi ile mirasbırakanın ölüm tarihi arasında bir yıldan fazla bir süre geçmesine göre, mirasbırakanın yaptığı tasarruf mutlak tenkise tâbi tasarruflardan değildir. Mirasbırakanın yaptığı tasarrufun yani ölünceye kadar bakma akdinin saklı pay kurallarını etkisiz kılma amacı ile yaptığını davacı tarafın TMK’nın 6. ve 6100 Sayılı HMK’nın 190.maddesine göre ispat etmesi gerekir. Dinlenilen davacı tanıklarının mirasbırakanın saklı pay kurallarını etkisiz kılma amacı ile temlikte bulunduğu konusunda beyanda bulunmamalarına ölünceye kadar bakma sözleşmesi yapılması için sözleşme anında temlikte bulunanın bakıma muhtaç olmasının şart olmamasına ve ekonomik durumunun bozuk olmasına göre mirasbırakanların saklı pay kurallarını etkisiz kılma amacı ile temlikte bulunduğu kanıtlanamamıştır. Hâl böyle olunca, davanın reddine karar verilmesi gerekirken, yanılgılı değerlendirme ile yazılı şekilde karar verilmiş olması doğru değildir…” gerekçesiyle bozulmuş, mahkemece bozma ilamına uyularak yapılan yargılama sonunda davanın reddine karar verilmiştir.
+
+Karar, davacı vekili tarafından süresinde duruşma istekli temyiz edilmiş olmakla; Tetkik Hakiminin raporu okundu,düşüncesi alındı. Dosya incelendi, duruşma istemi değer yönünden reddedilerek gereği görüşülüp düşünüldü:
+
+KARAR VE SONUÇ : Hükmüne uyulan bozma kararında, gösterildiği şekilde işlem yapılarak karar verilmiştir. Davacının temyiz itirazı yerinde değildir. Reddi ile usul ve yasaya ve bozma kararının gerekçelerine uygun olan hükmün ONANMASINA, aşağıda yazılı 2.20.-TL. bakiye onama harcının temyiz eden davacıdan alınmasına, 04.04.2017 tarihinde oybirliğiyle karar verildi.
+
+YARGITAY 1. HUKUK DAİRESİ
+Esas: 2016/6839 Karar: 2016/7068Tarih: 09.06.2016
+
+HMK 190. Madde
+
+İspat Yükü
+
+Dava, muris muvazaası hukuksal nedenine dayalı tapu iptal ve miras payı oranında tescil olmazsa tazminat istemine ilişkindir
+
+Davacı, mirasbırakan babası …‘in 45 ada 36 parsel sayılı taşınmazlarını diğer mirasçılarından mal kaçırmak amacıyla ve muvazaalı olarak davalı kızı …‘ye satış göstererek temlik ettiğini, onun da taşınmazları diğer kardeşi davalı …‘e devrettiğini ileri sürerek tapu kayıtlarının iptali ile miras payı oranında adına tescilini olmazsa miras payının dava tarihindeki değerinin davalı …‘den tahsilini istemiştir.
+
+Davalılar, her iki satış işleminin de gerçek olduğunu, mirasbırakanın diğer mirasçılardan mal kaçırma kastı taşımadığını belirterek davanın reddini savunmuşlardır.
+
+Mahkemece, muvazaa iddiasının sabit olduğu gerekçesiyle davalı … aleyhine açılan iptal-tescil davasının kabulüne, davalı … ( İlk ) aleyhine açılan tazminat davası hakkında karar verilmesine yer olmadığına karar verilmiştir.
+
+Mirasbırakan …‘in 27.07.2002 tarihinde öldüğü, geride davacı oğlu …, davalı çocukları … ile birlikte dava dışı çocukları …, … mirasçı olarak bıraktığı, mirasbırakanın 45 ada 36 parsel sayılı arsa vasıflı taşınmazlarını 28.12.1994 tarihli akitle davalı kızına satış suretiyle temlik ettiği, davalı …‘nin ise 36 parseli başka taşınmazlardaki payları ile birlikte 08.11.2010 tarihinde, 26 parseli ise yine başka taşınmazlardaki payları ile birlikte 20.12.2010 tarihinde davalı kardeşi …‘a satış suretiyle aktardığı kayden sabittir.
+
+Davacı, söz konusu devir işleminin mirastan mal kaçırmak amacıyla ve muvazaalı olarak gerçekleştirildiği iddiasıyla eldeki davayı açmış, davalılar, satış işleminin gerçek olduğunu bildirerek davanın reddini savunmuşlardır.
+
+Bilindiği üzere, uygulamada ve öğretide “muris muvazaası” olarak tanımlanan muvazaa, niteliği itibariyle nisbi ( mevsuf-vasıflı ) muvazaa türüdür. Söz konusu muvazaada mirasbırakan gerçekten sözleşme yapmak ve tapulu taşınmazını devretmek istemektedir. Ancak mirasçısını miras hakkından yoksun bırakmak için esas amacını gizleyerek, gerçekte bağışlamak istediği tapulu taşınmazını, tapuda yaptığı resmi sözleşmede iradesini satış veya ölünceye kadar bakma sözleşmesi doğrultusunda açıklamak suretiyle devretmektedir.Bu durumda yerleşmiş Yargıtay içtihatlarında ve l.4.1974 tarih 1/2 Sayılı İçtihadı Birleştirme Kararında açıklandığı üzere görünürdeki sözleşme tarafların gerçek iradelerine uymadığından, gizli bağış sözleşmesi de Türk Medeni Kanunun Türk Borçlar Kanunun Tapu Kanunun öngörülen şekil koşullarından yoksun bulunduğundan, saklı pay sahibi olsun veya olmasın miras hakkı çiğnenen tüm mirasçılar dava açarak resmi sözleşmenin muvazaa nedeni ile geçersizliğinin tesbitini ve buna dayanılarak oluşturulan tapu kaydının iptalini isteyebilirler.Bu tür uyuşmazlıkların sağlıklı, adil ve doğru bir çözüme ulaştırılabilmesi, davalıya yapılan temlikin gerçek yönünün diğer bir söyleyişle mirasbırakanın asıl irade ve amacının duraksamaya yer bırakmayacak biçimde ortaya çıkarılmasına bağlıdır. Bir iç sorun olan ve gizlenen gerçek irade ve amacın tespiti ve aydınlığa kavuşturulması genellikle zor olduğundan bu yöndeki delillerin eksiksiz toplanılması yanında birlikte ve doğru şekilde değerlendirilmesi de büyük önem taşımaktadır. Bunun içinde ülke ve yörenin gelenek ve görenekleri, toplumsal eğilimleri, olayların olağan akışı, mirasbırakanın sözleşmeyi yapmakta haklı ve makul bir nedeninin bulunup bulunmadığı, davalı yanın alış gücünün olup olmadığı, satış bedeli ile sözleşme tarihindeki gerçek değer arasındaki fark, taraflar ile mirasbırakan arasındaki beşeri ilişki gibi olgulardan yararlanılmasında zorunluluk vardır.
+
+Öte yandan, 6100 sayılı HMK’nun 190. maddesine göre; ‘‘İspat yükü, kanunda özel bir düzenleme bulunmadıkça, iddia edilen vakıaya bağlanan hukuki sonuçtan kendi lehine hak çıkaran tarafa aittir. Kanuni bir karineye dayanan taraf, sadece karinenin temelini oluşturan vakıaya dair ispat yükü altındadır. Kanunda öngörülen istisnalar dışında, karşı taraf, kanuni karinenin aksini ispat edebilir.’’, 6. maddesine göre ise; ‘‘Kanunda aksine bir hüküm bulunmadıkça, taraflardan her biri, hakkını dayandırdığı olguların varlığını ispatla yükümlüdür. ‘‘Somut olaya gelince; özellikle, davanın kabulü halinde hak sahibi olacak olan mirasbırakanın diğer çocukları tanık olarak dinlenmişler ve bu kişiler işlemin satış olduğunu bildirmişlerder. Salt bedeller arasındaki farkın da tek başına muvazaanın kanıtı olamayacağı tartışmasızdır. Tüm dosya kapsamından, 190 ve 6. maddeleri uyarınca davacının muvazaa iddiasını kanıtlayamadığı, bir başka ifade ile temlikin gerçek satış olduğu sonucuna varılmaktadır. Hâl böyle olunca, davanın reddine karar verilmesi gerekirken yanılgılı değerlendirme ile yazılı şekilde hüküm kurulmuş olması doğru değildir.
+
+SONUÇ : Davalıların temyiz itirazları yerindedir. Kabulüyle hükmün açıklanan nedenlerden ötürü ( 6100 Sayılı Kanun’un geçici 3.maddesi yollaması ile ) 1086 Sayılı 428.maddesi gereğince BOZULMASINA, alınan peşin harcın temyiz edene iadesine, 09.06.2016 tarihinde oybirliğiyle karar verildi.
+
+YARGITAY 1. HUKUK DAİRESİ
+Esas: 2015/7577 Karar: 2015/8355Tarih: 04.06.2015
+
+HMK 190. Madde
+
+İspat Yükü
+
+Dava, ecrimisil isteğine ilişkindir.
+
+Davacı, mülkiyeti idareye ait … ada 30 parsel sayılı taşınmazın tamamının bostan yapılmak suretiyle davalı tarafından kullanıldığını, gönderilen ihtara rağmen ödeme yapılmadığını ileri sürerek 01.11.2006-31.10.2011 tarihleri arasındaki dönem için 3.675,00.-TL ecrimisile karar verilmesini istemiş, yargılama sırasında talebini 17.757,01-TL olarak ıslah etmiştir.
+
+Davalı, davaya cevap vermemiş, yargılamaya katılmamıştır.
+
+Mahkemece, davalının haklı ve geçerli bir neden olmaksızın davacıya ait taşınmazı kullandığı gerekçesiyle davanın kabulüne karar verilmiştir.
+
+Dosya içeriğinden ve toplanan delillerden, “bahçe” vasfındaki çekişme konusu … ada 30 parsel sayılı taşınmazın davacı adına kayıtlı olduğu, 30.06.2011 tarihli tespit tutanağına göre idarece, taşınmazın tamamının davalı tarafından bostan yapılarak kullanıldığının; yargılama aşamasında 09.05.2012 tarihinde yapılan keşifte ise taşınmazın sürülü vaziyette olduğunun ve tarımsal amaçlı kullanıldığının tespit edildiği, ecrimisil ihbarnamesinin davalıya 09.08.2011 tarihinde tebliğ edildiği, yargılama sırasında da davalının herhangi bir savunma getirmediği anlaşılmaktadır.
+
+Hemen belirtilmelidir ki, ecrimisil, kötüniyetli zilyedin geri vermekle yükümlü olduğu bir şeyi haksız olarak alıkoyması nedeniyle hak sahibine ödemek zorunda kaldığı bir tür haksız fiil tazminatıdır. Bu tür davaların konusunu haksız eyleme dayalı tasarrufların oluşturduğu kuşkusuzdur. Eylem kimin tarafından yapılırsa, davanın ona yöneltilerek açılması ve sonucundan onun sorumlu tutulması asıldır.
+
+Öte yandan, 4721 sayılı TMK’nun 6 ve 6100 sayılı HMK’nun 190. maddeleri gereğince herkes iddiasını ispat etmekle yükümlüdür.
+
+Somut olayda, çekişme konusu taşınmazın 30.06.2011 tarihinde davalı tarafından kullanıldığı idarece yapılan tahkikatta saptanmış ise de, mahkemece davalının ecrimisil istenilen sürede taşınmazı kullanıp kullanmadığı hususunda herhangi bir araştırma yapılmamış, davacı tarafından bu yönde herhangi bir delil sunulmamıştır. Davalının, ancak kullandığı dönemler için haksız işgal tazminatı olan ecrimisilden sorumlu tutulması gerektiği şüphesizdir.
+
+Hâl böyle olunca, davalının dava konusu taşınmazı kullanıp kullanmadığının, kullanıyor ise ne zamandan bu yana kullandığının mahallinde keşif yapılarak duraksamaya yer bırakmayacak şekilde saptanması, bu konuda tarafların diğer delillerinin toplanması, varılacak sonuç çerçevesinde davalının kullandığı dönemler esas alınmak suretiyle ecrimisile hükmedilmesi gerekirken noksan soruşturma ile yazılı şekilde hüküm tesis edilmesi doğru değildir.
+
+SONUÇ : Davalının bu yöne ilişkin temyiz itirazları yerindedir. Kabulü ile hükmün açıklanan nedenden ötürü ( 6100 sayılı Yasanın geçici 3.maddesi yollaması ile ) 1086 sayılı 428.maddesi gereğince BOZULMASINA, alınan peşin harcın temyiz edene geri verilmesine, 04.06.2015 tarihinde oybirliğiyle karar verildi.
+
+UYARI

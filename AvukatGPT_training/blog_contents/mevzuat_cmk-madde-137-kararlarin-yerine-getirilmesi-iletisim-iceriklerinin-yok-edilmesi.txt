@@ -1,0 +1,407 @@
+Kararların Yerine Getirilmesi, İletişim İçeriklerinin Yok Edilmesi
+
+CMK Madde 137
+
+CMK Madde 137 Gerekçesi
+
+CMK 137 (Kararların Yerine Getirilmesi, İletişim İçeriklerinin Yok Edilmesi)  Emsal Yargıtay Kararları
+
+(1) 135 inci maddeye göre verilecek karar gereğince Cumhuriyet savcısı veya görevlendireceği adlî kolluk görevlisi, telekomünikasyon hizmeti veren kurum ve kuruluşların yetkililerinden iletişimin tespiti, dinlenmesi veya kayda alınması işlemlerinin yapılmasını ve bu amaçla cihazların yerleştirilmesini yazılı olarak istediğinde, bu istem derhâl yerine getirilir; yerine getirilmemesi hâlinde zor kullanılabilir. İşlemin başladığı ve bitirildiği tarih ve saat ile işlemi yapanın kimliği bir tutanakla saptanır.
+
+(2) 135 inci maddeye göre verilen karar gereğince tutulan kayıtlar, Cumhuriyet Savcılığınca görevlendirilen kişiler tarafından çözülerek metin hâline getirilir. Yabancı dildeki kayıtlar, tercüman aracılığı ile Türkçe’ye çevrilir.
+
+(3) 135 inci maddeye göre verilen kararın uygulanması sırasında şüpheli hakkında kovuşturmaya yer olmadığına dair karar verilmesi ya da aynı maddenin birinci fıkrasına göre
+hâkim onayının alınamaması halinde, bunun uygulanmasına Cumhuriyet savcısı tarafından derhâl son verilir. Bu durumda, yapılan tespit veya dinlemeye ilişkin kayıtlar Cumhuriyet savcısının denetimi altında en geç on gün içinde yok edilerek, durum bir tutanakla tespit edilir. (Ek cümle:8/7/2021-7331/18 md.) Beraat kararı verilmesi durumunda da tespit veya dinlemeye ilişkin kayıtlar, hâkim denetimi altında aynı usulle yok edilir.
+
+(4) Tespit ve dinlemeye ilişkin kayıtların yok edilmesi halinde soruşturma evresinin bitiminden itibaren, en geç onbeş gün içinde, Cumhuriyet Başsavcılığı, tedbirin nedeni, kapsamı, süresi ve sonucu hakkında ilgilisine yazılı olarak bilgi verir.
+
+Madde, 135 nci madde gereğince alınacak kararların nasıl yerine getirileceği hakkındaki usulleri, icra ile görevli olanların neler yapacakları, kayıtların metin hâline getirilmesi, toplanan bilgilerin yargısal değeri, kayıtların muhafazası konularını düzenlemektedir.
+
+Buna göre:
+
+Cumhuriyet savcısı veya onun görevlendireceği kolluk memuru, istediğinde resmen telekomünikasyonlarla görevli olanlar veya böyle bir hizmeti yerine getirmek hususunda yetkili bulunanlar, kararın uygulanması için gerekli bütün faaliyetleri derhâl yerine getirmekle yükümlüdürler. İşin başladığı ve bitirildiği tarih ve saatler saptanarak bir tutanağa bağlanır. Kolluk, işlemleri bizzat kendisi de gerçekleştirebilir.
+
+Elde edilen kayıtlar, Cumhuriyet savcılığınca veya görevlendireceği kolluk memuru tarafından çözülür ve metin hâline getirilir; yabancı dildeki kayıtlar da Türkçe’ye çevirttirilir. Kayıtlar ise zarflara konularak mühürlenir.
+
+İlgilinin 147 nci maddede, ifade almada ve sorguda, isnat açıklandıktan, susma hakkı tanındıktan sonra, serbest irade ile yapılan açıklamaların delil niteliği kazandığı belirtildiği için, gizlice yapılan telefon ve benzeri dinlemelerde, ilgilinin beyanda bulunması, ikrar delili değil, bir belirti delili olarak anlam kazanır. İkrar, suçun doğrudan doğruya ispatı açısından elverişli bir delil olduğu hâlde, emare delili, parmak izi gibi dolaylı bir ispat gücüne sahiptir ve başka delillerle bütünleşmeden tek başına ispat bakımından yeterli olmaz. Bu nedenle maddenin üçüncü fıkrasında kayıt ve saptamaların yargılamada sanığın ikrarına ilişkin delil olarak değerlendirilemeyeceği belirtilmiştir.
+
+YARGITAY 15. CEZA DAİRESİ
+Esas: 2012/19386 Karar: 2014/12515Tarih: 23.06.2014
+
+CMK 137. Madde
+
+Kararların Yerine Getirilmesi, İletişim İçeriklerinin Yok Edilmesi
+
+Dosya incelenerek gereği düşünüldü;
+
+Dolandırıcılık suçunun oluşabilmesi için; failin bir kimseyi, kandırabilecek nitelikte hileli davranışlarla hataya düşürüp, onun veya başkasının zararına, kendisine veya başkasına yarar sağlaması gerekmektedir. Hile nitelikli bir yalandır. Fail tarafından yapılan hileli davranış belli oranda ağır, yoğun ve ustaca olmalı, sergileniş açısından mağdurun inceleme olanağını ortadan kaldıracak nitelikte bir takım hareketler olmalıdır. Kullanılan hileli davranışlarla mağdur yanılgıya düşürülmeli ve bu yanıltma sonucu yalanlara inanan mağdur tarafından sanık veya bir başkasına haksız çıkar sağlanmalıdır. Hilenin kandırıcı nitelikte olup olmadığı olaysal olarak değerlendirilmeli, olayın özelliği, fiille olan ilişkisi, mağdurun durumu, kullanılmışsa gizlenen veya değiştirilen belgenin nitelikleri ayrı ayrı nazara alınmalıdır.
+
+Bilişim sistemlerinin, banka veya kredi kurumlarının araç olarak kullanılması suretiyle dolandırıcılık suçu, TCK’nın düzenlenmiştir. Maddenin gerekçesinde de; “Dolandırıcılık suçunun, bilişim sistemlerinin, banka veya kredi kurumlarının araç olarak kullanılması suretiyle işlenmesi de, birinci fıkranın (f) bendinde bu suçun bir nitelikli unsuru olarak kabul edilmiştir. Bilişim sistemlerinin,banka veya kredi kurumlarının, özellikle bu kurum ve kuruluşları temsil edenlerin, kurum ve kuruluşları adına hareket eden kişilerin, başkalarını kolaylıkla aldatabilmeleri bir güven kurumu olan bu kuruma güvenin sarsılması bu kurumların araç olarak kullanılması suretiyle dolandırıcılık suçunu, nitelikli hâl saymıştır. Bilişim sisteminin aldatılmasından söz edilemeyeceği için, ancak bu sistemin araç olarak kullanılarak bir insanın aldatılması yani dolandırılması halinde bu bendin uygulanması mümkündür. Aksi halde yani sisteme girilerek bir kişi aldatılmayıp sistemden yararlanılarak çıkar sağlanmışsa bilişim suçu veya bilişim sistemi kullanılmak suretiyle hırsızlık suçunun oluşması söz konusu olacaktır.
+
+Bilişim sisteminden maksat, verileri toplayıp, yerleştirdikten sonra bunları otomatik işlemlere tâbi tutma olanağını veren manyetik sistemlerdir. Günümüzde bilişim sistemleri ile sesli-görüntülü haberleşme, elektronik imzanın kabulü, yeni ticari ilişkiler, internet bankacılığı hizmeti ile para transferleri ve bunlar gibi pek çok yenilik toplumsal hayata girmiş, bilişim gerek iş gerekse günlük hayatta vazgeçilemeyecek kadar önemli bir noktaya ulaşmış, bilişim teknolojileri daha hızlı ve ucuz bir nitelik arz etmesi nedeniyle, klasik yöntemlere nazaran daha fazla tercih edilir duruma gelmiştir. Bu sistemlerin güvenle kullanılması, aynı anda hızlı ve kolayca birçok kişi tarafından ulaşılması ve diğer taraftaki failin kontrol imkanını azaltması nedeniyle nitelikli hal sayılmıştır. Banka ya da kredi kurumlarının araç olarak kullanıldığından söz edilebilmesi için, dolandırıcılık fiili gerçekleştirilirken bankaların olağan faaliyetlerinden ya da bu faaliyeti yürüten sujelerden hileli araçlar kullanılarak yararlanılması veya banka ve kredi kurumlarının olağan faaliyetleri nedeniyle üretmiş oldukları maddi varlıkların suçta araç olarak kullanılarak haksız çıkarın elde edilmesi gerekir. Bankaların, ödeme aracı olarak kullanılması halinde bu fıkra uygulanamayacaktır.
+
+Sanığın, pil ticareti işi ile uğraşan temyiz dışı Ercemali Demirel’in yanına gelerek pil almak istediğini belirtmesi üzerine 17.900 TL tutarındaki pil satımı hususunda anlaştıkları, sanığın, 900 TL nakit verebileceğini, geri kalan 17.000 TL için ise keşidecisinin Korhan Petrol Ürünleri Limited Şirketi olduğu 17.000 TL bedelli suça konu çeki verebileceğini belirtmesi üzerine Ercemali’nin, çekin sağlam olduğuna ilişkin teyidini aldıktan sonra, çek karşılığında, 05/09/2005 tarihli Korhan Petrol Ürünleri adına faturayı keserek sanığa malı teslim ettiği, Korhan Petrol Ürünleri Şirketi yetkililerinin alınan beyanlarında, çekteki imzanın kendilerine ait olmadığını ifade ettikleri, alınan bilirkişi raporunda da keşideci bölümündeki imzanın keşideci şirket yetkililerine ait olmadığı, fakat, çek muhtevasında el yazıları ve keşideci imzasının sanığın eli ürünü olabileceğini gösterir nitelikte benzeşimlerin varlığının müşahede edildiği ve aynı elin ürünü olmaları ihtimalinin yüksek olduğunun değerlendirildiği, böylece sanığın, resmi belgede sahtecilik ve nitelikli dolandırıcılık suçlarını işlediğinin iddia edildiği olayda,
+
+Avrupa İnsan Hakları Sözleşmesi’nin göre, herkes, gerek medeni hak ve yükümlülükleriyle ilgili uyuşmazlıklar, gerek cezai alanda kendisine yöneltilen suçlamalar konusunda karar verecek olan, yasayla kurulmuş bağımsız ve tarafsız bir mahkeme tarafından davasının makul bir süre içinde, hakkaniyete uygun ve açık olarak görülmesini istemek hakkına sahiptir. Hüküm açık oturumda verilir; ancak, demokratik bir toplumda genel ahlak, kamu düzeni ve ulusal güvenlik yararına, küçüklerin korunması veya davaya taraf olanların özel hayatlarının gizliliği gerektirdiğinde veya davanın açık oturumda görülmesinin adaletin selametine zarar verebileceği bazı özel durumlarda, mahkemenin zorunlu göreceği ölçüde, duruşmalar dava süresince tamamen veya kısmen basına ve dinleyicilere kapalı olarak sürdürülebilir. Bir suç ile itham edilen herkes, suçluluğu yasal olarak sabit oluncaya kadar suçsuz sayılır. Her sanık en azından aşağıdaki haklara sahiptir: Kendisine yöneltilen suçlamanın niteliği ve nedeninden en kısa zamanda, anladığı bir dille ve ayrıntılı olarak haberdar edilmek, savunmasını hazırlamak için gerekli zamana ve kolaylıklara sahip olmak, kendi kendini savunmak veya kendi seçeceği bir savunmacının yardımından yararlanmak ve eğer savunmacı tutmak için mali olanaklardan yoksun bulunuyor ve adaletin selameti gerektiriyorsa, mahkemece görevlendirilecek bir avukatın para ödemeksizin yardımından yararlanabilmek, iddia tanıklarını sorguya çekmek veya çektirmek, savunma tanıklarının da iddia tanıklarıyla aynı koşullar altında çağrılmasının ve dinlenmesinin sağlanmasını istemek, duruşmada kullanılan dili anlamadığı veya konuşamadığı takdirde bir tercümanın yardımından para ödemeksizin yararlanmak. Anayasa’nın 36. maddesine göre ise de; herkes, meşru vasıta ve yollardan faydalanmak suretiyle yargı mercileri önünde davacı veya davalı olarak iddia ve savunma ile adil yargılanma hakkına sahiptir. Bu hükümler çerçevesinde; savunmanın, adli yargılanma hakkının en önemli unsuru olduğu, sanığa, yetkili ve görevli mahkeme huzurunda savunmasını yapıp delillerini sunabilmesi imkanı tanınması, hukuk devletinin temel ilkelerinden biri olduğu aşikardır.
+
+Bu genel bilgiler ışığında somut olay değerlendirildiğinde, sanığın, Ankara 7. Ağır Ceza Mahkemesinde yargılandığı gözetilmeden, savunmasının alınabilmesi için çıkarılan yakalama emri üzerine sorgusunun, aynı ağır ceza mahkemesi yargı çevresinde bulunan alt dereceli Ankara 19. Asliye Ceza Mahkemesince yapılıp savunma hakkının kısıtlanarak Avrupa İnsan Hakları Sözleşmesi’nin 6., Anayasa’nın 36. ve 5271 sayılı CMK’nın 137 ve devamı maddelerine aykırı olarak savunma hakkının kısıtlanması suretiyle yargılamaya devam edilerek yazılı şekilde hüküm kurulması,
+
+Sonuç: Bozmayı gerektirmiş, sanığın temyiz itirazları bu itibarla yerinde görülmüş olduğundan, sair yönleri incelenmeyen hükümlerin bu nedenlerle, 5320 sayılı Kanun’un 8/1. maddesi gereğince uygulanması gereken 1412 sayılı CMUK’nın 321. maddesi uyarınca BOZULMASINA, 23.06.2014 tarihinde oybirliği ile, karar verildi.
+
+YARGITAY 6. CEZA DAİRESİ
+Esas: 2009/11787 Karar: 2010/15266Tarih: 04.10.2010
+
+CMK 137. Madde
+
+Kararların Yerine Getirilmesi, İletişim İçeriklerinin Yok Edilmesi
+
+Hırsızlık suçundan dolayı İstanbul Cumhuriyet Başsavcılığının 2008/53492 soruşturma sayılı dosyasında yapılan M. Mah. Ş. F. Sk. No: 11/8 adresinde ve çevresinde belirtilen cep telefonu hatları ile yapılan görüşmelerin hangi baz istasyonuna ait olduğu ve arayan aranan olarak dökümü ile görüşme yapan abonelerin açık adres ve kimlik bilgilerinin CD ortamında çıkartılması talebinin kabulüne dair İstanbul 1. Sulh Ceza Mahkemesinin 25/11/2008 tarihli, 2008/1447 müteferrik sayılı kararına yönelik itirazın reddine ilişkin İstanbul 5. Asliye Ceza Mahkemesinin 22/12/2008 tarihli ve 2008/146 müteferrik sayılı kararına karşı Adalet Bakanlığının 30/04/2009 gün ve 2009/4949-24547 sayılı kanun yararına bozma istemine dayalı Yargıtay Cumhuriyet Başsavcılığının 21/05/2009 gün ve KYB/2009122549 sayılı ihbar yazısı ile infaz dosyası 02/06/2009 tarihinde Dairemize gönderilmekle incelendi:
+
+KARAR : Anılan yazıda;
+
+( 5271 sayılı Ceza Muhakemesi Kanunu’nun 5353 sayılı Kanun’un 17. maddesiyle değişik 135. maddesinin 1. fıkras 1. fıkrasında “Bir suç dolayısıyla yapılan soruşturma ve kovuşturmada, suçun işlendiğine ilişkin kuvvetli şüphe sebeplerinin varlığı ve başka surette delil elde edilmesi imkanının bulunmaması durumunda, hakim veya gecikmesinde sakınca bulunan hallerde Cumhuriyet savcısının kararıyla şüpheli veya sanığın telekomünikasyon yoluyla iletişimi tespit edilebilir, dinlenebilir, kayda alınabilir ve sinyal bilgileri değerlendirilebilir.”
+
+Aynı maddenin 3. fıkrasında “Birinci fıkra hükmüne göre verilen kararda, yüklenen suçun türü, hakkında tedbir uygulanacak kişinin kimliği, iletişim aracının türü, telefon numarası veya iletişim bağlantısını tespite imkan veren kodu, tedbirin türü, kapsamı ve süresi belirtilir. Tedbir kararı en çok üç ay için verilebilir; bu süre, bir defa daha uzatılabilir. Ancak, örgütün faaliyeti çerçevesinde işlenen suçlarla ilgili olarak gerekli görülmesi halinde, hakim bir aydan fazla olmamak üzere sürenin müteaddit defalar uzatılmasına karar verebilir.”
+
+Şeklindeki düzenlemelere yer verildiği, iletişimin tespiti, dinleme ve kayda alma kararının ancak şüpheli veya sanık yönünden istenebileceği, keza iletişimin tespiti talebinde hakkında tedbir uygulanacak kişinin kimliğinin bulunması gerektiği, İstanbul Cumhuriyet Başsavcılığının talebinde ise bu hususların yer almadığı gözetilmeksizin itirazın kabulü yerine yazılı şekilde reddine karar verilmesinde isabet görülmemiş olduğundan bahisle 5271 sayılı CMK. nun 309. maddesi uyarınca anılan kararın bozulması ) Dairemizden istenilmiş ise de;
+
+Kanun yararına bozma istemine konu edilen İstanbul 1.Sulh Ceza Mahkemesi’nin 25.11.2008 tarih ve 2008/1447 müteferrik sayılı kararında “Yapılan soruşturmada suç işlendiğine dair kuvvetli kuşku uyandığı, başka suretle kanıt elde etme imkanının bulunmadığı anlaşıldığından, 5271 sayılı CMK’nın 135, 137. maddeleri gereğince, 13.11.2008 günü yakınan Y… K…‘ye ait işyerinde yapılan hırsızlık olayı ile ilgili olarak, suçun aydınlatılması ve faillerinin belirlenmesi amacıyla, kolluk meciince belirtilen telefon hatları ile yapılan görüşmelerin hangi baz istasyonlarına ait olduğu ve tespit edilen baz istasyonlarından, 13.11.2008 günü 20.30 ile 21.15 saatleri arasında yapılan görüşmelerin bölgeli olarak arayan ve aranan olarak dökümlerine ait teknik bilgilerin ve görüşme yapan abonelerin kimlik bilgilerinin ve açık adreslerinin ( nüfus cüzdanı fotokopisi, sürücü belgesi fotokopisi, abone sözleşmesi fotokopisi vb. ) CD ortamında Telekomünikasyon İletişim Başkanlığı’ndan çıkarılmasına” karar verildiği anlaşılmıştır.
+
+Anılan karar içeriğinde, belirtilen tarih ve saatler arasında sadece teknik bilgilerin, arayan ve aranan abonelerin kimliklerine ve adreslerine ilişkin bilgilerin ilgili kurumdan çıkartılmasına karar verilmiş; genel olarak belirtilen çevrede bulunan kişilerin ve kurumların, telefon görüşmelerinin dinlenmesine ya da iletişimlerinin tespitine ilişkin özel hayata müdahale oluşturacak ya da kişi hürriyetini kısıtlayıcı bir karar verilmemiştir.
+
+SONUÇ : Açıklanan nedenlerle, İstanbul 1.Sulh Ceza Mahkemesi’nin 25.11.2008 tarih ve 2008/1447 müteferrik sayılı kararı ile bu karara itiraz üzerine İstanbul 5. Asliye Ceza Mahkemesi’nin 22.12.2008 tarih ve 2008/146 müteferrik sayılı itirazın reddine ilişkin kararı usul ve yasaya uygun bulunduğundan Yargıtay Cumhuriyet Başsavcılığı’nın tebliğnamesindeki kanun yararına bozma isteminin REDDİNE, 04.10.2010 tarihinde oybirliği ile karar verildi.
+
+YARGITAY 9. CEZA DAİRESİ
+Esas : 2008/874 Karar : 2008/7160Tarih : 4.06.2008
+
+CMK 137. Madde
+
+Kararların Yerine Getirilmesi, İletişim İçeriklerinin Yok Edilmesi
+
+2803 sayılı Jandarma Teşkilat, Görev ve Yetkileri Hakkında Kanun’un ek 5. maddesi gereğince kendi sorumluluk sahasında başta terör örgütü PKK/Kongra-Gel olmak üzere diğer organize suç örgütlerinin olası eylemleri ile örgütlerin ileriye dönük stratejilerinin önceden tespit edilebilmesi,
+meydana gelebilecek olayların önüne geçilebilmesi, planlama ve hazırlık aşamasında ortaya çıkarılabilmesi, derhal önleyici ve koruyucu tedbirlerin alınabilmesi maksadıyla; yurtdışı çıkışları dahil olmak üzere Türk Telekom A.Ş. tarafından işletilen sabit telefon veya mobil (nmt), Turkcell,
+Vodafone ve Avea A.Ş. tarafından işletilen ve telefon üzerinde yapılan iletişime ait tüm detay bilgilerinin (arayan, aranan ve Celi İD), kullanıcı ve makine bilgilerinin, GPRS bağlantıları ile GPRS üzerinden internet bağlantılarının, SMS alıp gönderme bilgilerinin, internet üzerinden DATA transferi
+ve DATA hattı üzerinden haberleşme bilgilerinin, faks bilgilerinin, abone bilgileri detay kayıtlarının (isim, adres, kimlik, kimlik fotokopisi, hattın hangi bayiden ve ne zaman alındığı) alınmasına, söz konusu bilgilere ilişkin detay kayıtlarına ait datalarının canlı (online) olarak alınmasına, kamu
+kurum ve kuruluşlarının adına kayıtlı telefonlar ile kamuda görevli amir ve memur konumunda bulunanların resmi ve şahsi olarak kullanımında bulunan iletişim araçlarına ait bilgilerin görev ve çalışma kapsamı dışında bırakılmasına ve kullanıldığı takdirde sorumluluğun Jandarma Genel
+Komutanlığı İstihbarat Başkanlığı ve görevli personele ait olmasına, yukarıda belirtilen bilgilere şirketçe ulaşılarak işlenmesini müteakip kullanılabilir hale geldikten sonra sadece meydana gelmesi muhtemel olayların önlenmesine ilişkin hizmetlerde ve kişiler aleyhine delil olmayacak şekilde
+kullanılmak üzere en kısa sürede bilgisayar ortamında alınıp incelenebilmesine ilişkin iletişimin tespitine yönelik Jandarma Genel Komutanlığı’nın 26.11.2007 tarihli ve 397689 sayılı yazısı ile yapılan talep üzerine, Jandarma sorumluluk alanında oluşabilecek olayların önlenebilmesi açısından Jandarma Genel Komutanlığı İstihbarat Grup Komutanlığı’nın telefon detay kayıtlarının alınması yönündeki isteminin 5397 sayılı Kanun ile değişik 2803 sayılı Kanun’un ek 5. maddesi uyarınca kabulüne, Jandarma’nın sadece kendi sorumluluk alanında olmak üzere 5271 sayılı Ceza Muhakemesi Kanunu’nun 250. maddesinin 1. fıkrasının a, b, c bentlerinde yazılı suçların işlenmesinin önlenmesi amacıyla sınırlı olmak koşuluyla, yurtdışı çıkışları dahil olmak üzere Türk Telekom A.Ş. tarafından işletilen sabit telefon veya mobil (nmt), Turkcell, Vodafone ve Avea A.Ş. tarafından işletilen ve telefon üzerinde yapılan iletişime ait tüm detay bilgilerinin (arayan, aranan ve Celi İD), kullanıcı bilgi ve makine bilgilerinin, GPRS bağlantıları ile GPRS üzerinden internet bağlantılarının, SMS alıp gönderme bilgilerinin, internet üzerinden DATA transferi ve DATA hattı üzerinden haberleşme bilgilerinin, faks
+bilgilerinin, abone bilgileri detay kayıtlarının (isim, adres, kimlik, kimlik fotokopisi, hattın hangi bayiden ve ne zaman alındığı) alınmasına, anılan bilgilere ilişkin detay kayıtlarına ait datalarının 26 Kasım 2007 tarihinden itibaren ileriye dönük olarak üç aylık süre ile canlı (online) olarak
+alınmasına, kararın gereğinin Jandarma Genel Komutanlığı İstihbarat Grup Komutanlığı tarafından yerine getirilmesine dair, (Ankara Onbirinci Ağır Ceza Mahkemesi)nin 27.11.2007 tarihli ve 2007/6147 sayılı tek hakim tarafından verilen kararına karşı yapılan itirazın reddine ilişkin, (Ankara
+Onbirinci Ağır Ceza Mahkemesinin 19.12.2007 tarihli ve 2007/6522 Tek. Tak. sayılı kararı ile ilgili olarak; 5271 sayılı Ceza Muhakemesi Kanunu’nun “Görev ve yargı çevresinin belirlenmesi” kenar başlıklı 250. maddesinin 1. fıkrasında; “(1) Türk Ceza Kanunu’nda yer alan; 
+a- Örgüt faaliyeti çerçevesinde işlenen uyuşturucu veya uyarıcı madde imal ve ticareti suçu, 
+b- Haksız ekonomik çıkar sağlamak amacıyla kurulmuş bir örgütün faaliyeti çerçevesinde cebir ve tehdit uygulanarak işlenen suçlar,
+c- İkinci Kitap Dördüncü Kısmın Dört, Beş, Altı ve Yedinci Bölümünde tanımlanan suçlar (305, 318,319, 323, 324, 325 ve 332. maddeler hariç),
+Dolayısıyla açılan davalar; Adalet Bakanlığı’nın teklifi üzerine Hakimler ve Savcılar Yüksek Kurulu’nca yargı çevresi birden çok ili kapsayacak şekilde belirlenecek illerde görevlendirilecek ağır ceza mahkemelerinde görülür.”
+03.07.2005 tarihli ve 5397 sayılı Kanun’la yapılan değişiklik sonrasında 2803 sayılı Jandarma Teşkilat, Görev ve Yetkileri Kanunu’nun ek 5. maddesinde; “Jandarma, bu Kanun’un 7. maddesinin (a) bendine ilişkin görevleri yerine getirirken önleyici ve koruyucu tedbirleri almak üzere, sadece
+kendi sorumluluk alanında 04.12.2004 tarihli ve 5271 sayılı Ceza Muhakemesi Kanunu’nun, casusluk suçları hariç, 250. maddesinin birinci fıkrasının (a), (b) ve (c) bentlerinde yazılı suçların işlenmesinin önlenmesi amacıyla, hakim kararı veya gecikmesinde sakınca bulunan hallerde
+Jandarma Genel Komutanı veya İstihbarat Başkanı’nın yazılı emriyle, telekomünikasyon yoluyla yapılan iletişimi tespit edebilir, dinleyebilir, sinyal bilgilerini değerlendirebilir, kayda alabilir.
+Gecikmesinde sakınca bulunan hallerde verilen yazılı emir, 24 saat içinde yetkili ve görevli hakimin onayına sunulur. Hakim, kararını en geç 24 saat içinde verir. Sürenin dolması veya hakim tarafından aksine karar verilmesi halinde tedbir derhal kaldırılır. Bu halde dinlemenin
+içeriğine ilişkin kayıtlar en geç on gün içinde yok edilir; durum bir tutanakla tespit olunur ve bu tutanak denetimde ibraz edilmek üzere muhafaza edilir. Bu işlemler, 04.07.1934 tarihli ve 2559 sayılı Polis Vazife ve Selahiyet Kanunu’nun ek 7. maddesinin onuncu fıkrası hükmüne göre kurulan
+merkez tarafından yürütülür. 5271 sayılı Kanun’un 135. maddesi kapsamında yapılacak dinlemeler de bu merkez üzerinden yapılır.
+Yetkili ve görevli hakim, talepte bulunan kolluk biriminin bulunduğu yer itibariyle yetkili olan ve 5271 sayılı Kanun`un 250. maddesinin birinci fıkrasına göre kurulan ağır ceza mahkemesinin üyesidir.
+Kararda ve yazılı emirde, hakkında tedbir uygulanacak kişinin kimliği, iletişim aracının türü, kullandığı telefon numaraları veya iletişim bağlantısını tespite imkan veren kodundan belirlenebilenler ile tedbirin türü, kapsamı ve süresi ile tedbire başvurulmasını gerektiren nedenler
+belirtilir. Kararlar, en fazla üç ay için verilebilir; bu süre aynı usulle üçer ayı geçmeyecek şekilde en fazla üç defa uzatılabilir. Ancak, terör örgütünün faaliyeti çerçevesinde devam eden tehlikelere ilişkin olarak gerekli görülmesi halinde, hakim üç aydan fazla olmamak üzere sürenin müteaddit defalar uzatılmasına karar verebilir.
+… Bu maddenin uygulanmasına ilişkin esas ve usuller, Adalet, İçişleri ve Ulaştırma Bakanlıklarının görüşü alınarak Başbakanlık tarafından üç ay içinde çıkarılacak yönetmelikle düzenlenir.” Başbakanlık tarafından hazırlanan 10.11.2005 tarihli ve 25989 sayılı Resmi Gazetede yayımlanarak
+yürürlüğe giren Telekomünikasyon Yoluyla Yapılan İletişimin Tespiti, Dinlenmesi, Sinyal Bilgilerinin Değerlendirilmesi ve Kayda Alınmasına Dair Usul ve Esaslar ile Telekomünikasyon İletişim Başkanlığının Kuruluş, Görev ve Yetkileri Hakkında Yönetmeliğin; “2803 sayılı Kanun gereğince yapılacak işlemler” kenar başlıklı 6. maddesinde; “2803 sayılı Kanun’un 7. maddesinin (a) bendine ilişkin görevleri yerine getirirken önleyici ve koruyucu
+tedbirleri almak üzere, sadece kendi sorumluluk alanında, 5271 sayılı Ceza Muhakemesi Kanunu’nun, casusluk suçları hariç, 250. maddesinin birinci fıkrasının (a), (b) ve (c) bentlerinde yazılı suçların işlenmesinin önlenmesi amacıyla verilen hakim kararları ile gecikmesinde sakınca
+bulunan hallerde Jandarma Genel Komutanı veya İstihbarat Başkanı tarafından verilen yazılı emirler, gereğinin icrası için Teknik Daire Başkanlığı’na havale edilir. Bu Yönetmeliğe aykırılığı tespit edilen talepler, noksanlıkların giderilmesi için Jandarma Genel Komutanlığı İstihbarat Başkanlığı’na iade edilir.”
+“Karar ve yazılı emirlerde belirtilmesi gerekli hususlar” kenar başlıklı 9. maddesinde; “İletişimin tespiti, dinlenmesi, sinyal bilgilerinin değerlendirilmesi ve kayda alınmasına dair hakim kararında ve yetkili merciler tarafından verilen yazılı emirlerde;
+a- Hakkında tedbir uygulanacak kişinin kimliği, iletişim aracının türü, kullandığı telefon numaraları
+veya iletişim bağlantısını tespite imkan veren kodundan belirlenebilenler,
+b- Tedbirin türü, kapsamı ve süresi,
+c- Tedbire başvurulmasını gerektiren nedenler,
+d- Yazılı emrin verildiği tarih ve saat, belirtilir.
+
+6.madde kapsamında 2803 sayılı Kanun’un ek 5. maddesi uyarınca iletilen talepler ile verilen kararlar ve yazılı emirlerde sorumluluk alanına ilişkin bilgi ve/veya belgelere de yer verilir.
+Kararlar en fazla üç ay için verilebilir. Bu süre aynı usulle üçer ayı geçmeyecek şekilde en fazla üç defa uzatılabilir. Ancak, terör örgütlerinin faaliyeti çerçevesinde devam eden tehlikelere ilişkin olarak gerekli görülmesi halinde, hakim tarafından üç aydan fazla olmamak üzere sürenin
+müteaddit defalar uzatılmasına karar verilebilir.”
+“Yetkili ve görevli hakim” kenar başlıklı 26. maddesinde; “Bu Yönetmeliğin İkinci Bölümü çerçevesinde iletişimin tespiti, dinlenmesi, sinyal bilgilerinin değerlendirilmesi ve kayda alınması konularında yetkili ve görevli hakim, ilgili kurumların talepte bulunan biriminin bulunduğu yer
+itibarıyla yetkili olan ve 5271 sayılı Kanun’un 250. maddesinin birinci fıkrasına göre kurulan ağır ceza mahkemesinin üyesidir.
+Bu Yönetmeliğin Üçüncü Bölümü çerçevesinde iletişimin tespiti, dinlenmesi, sinyal bilgilerinin değerlendirilmesi ve kayda alınması konularında yetkili ve görevli hakim, 5271 sayılı Kanun hükümlerine göre belirlenir.” Hükümleri yer almaktadır.
+Yukarıda belirtilen mevzuat hükümleri çerçevesinde, verilen karar doğrultusunda Ülke genelinde Jandarma’nın sorumluluk sahasında 5271 sayılı Ceza Muhakemesi Kanunu’nun 250. maddesinin 1. fıkrasının a, b, c bentlerinde yazılı suçların işlenmesinin önlenmesi amacıyla sınırlı olmak koşuluyla, yurtdışı çıkışları dahil olmak üzere Türk Telekom A.Ş. tarafından işletilen sabit telefon veya mobil (nmt), Turkcell, Vodafone ve Avea A.Ş. tarafından işletilen ve telefon üzerinde yapılan iletişime ait tüm detay bilgilerinin (arayan, aranan ve Celi İD), kullanıcı ve makine bilgilerinin, GPRS bağlantıları ile GPRS üzerinden internet bağlantılarının, SMS alıp gönderme bilgilerinin, internet üzerinden DATA transferi ve DATA hattı üzerinden haberleşme bilgilerinin, faks bilgilerinin, abone bilgileri detay kayıtlarının (isim, adres, kimlik, kimlik fotokopisi, hattın hangi bayiden ve ne zaman alındığı) alınması ile, anılan bilgilere ilişkin detay kayıtlarına ait datalarının canlı (online) olarak alınmasına karar verilmesi sonucunda, temel hak ve hürriyetlerin özüne müdahale imkanı sağlayacak bir şekilde 2709 sayılı Türkiye Cumhuriyeti Anayasası’nın sözüne ve ruhuna, demokratik toplum
+düzenine, ölçülülük ilkesine ve Anayasa’nın 13. maddesindeki temel hak ve hürriyetlerin sınırlandırılmasına yönelik, aykırı bir şekilde ülke geneline yönelik uygulama yapılabilmesinin yolunun açıldığı, oysa verilen kararın 2803 sayılı Kanun’un ek 5. maddesinin 3. fıkrasında belirtildiği
+şekliyle somut verileri içermesi gerektiği, dolayısıyla anılan Kanun’un amir hükmü gereğince; kararın, hakkında tedbir uygulanacak kişinin kimliği, iletişim aracının türü, kullandığı telefon numaraları veya iletişim bağlantısını tespite imkan veren kodundan belirlenebilenler ile tedbirin
+türü, kapsamı ve süresi ile tedbire başvurulmasını gerektiren nedenleri içermesinin gerekli ve zorunlu olduğu gibi 2803 sayılı Kanun’un 9, maddesi gereğince anılan Kanun’un ek 5. maddesi uyarınca iletilen talepler ile verilen kararlar ve yazılı emirlerde sorumluluk alanına ilişkin bilgi veya
+belgelere de yer verilmesi gerektiği nazara alınmaksızın, 
+Yine 2803 sayılı Kanun’un ek 5. maddesinin 2. fıkrası gereğince yetkili ve görevli hakim, talepte bulunan kolluk biriminin bulunduğu yer itibarıyla yetkili olan ve 5271 sayılı Kanun’un 250. maddesinin birinci fıkrasına göre kurulan ağır ceza mahkemesinin üyesi olması dolayısıyla Ankara 11. Ağır Ceza Mahkemesi’nin kendi yargı çevresi ile ilgili karar vermesi gerekirken, tüm Ülke çapını kapsayacak şekilde karar vermesinin mümkün olmadığı dikkate alınmaksızın, itirazın kabulü yerine yazılı şekilde karar verilmesinde isabet görülmediğinden bahisle 5271 sayılı Ceza Muhakemesi Kanunu’nun 309. maddesi uyarınca anılan kararın bozulması lüzumu Yüksek Adalet Bakanlığı’nın 21.01.2008 gün ve 3672 sayılı Kanun yararına bozma talebine atfen Yargıtay C.Başsavcılığı`nın 21.01.2008 gün ve 2008/22381 sayılı tebliğnamesi ile Daireye ihbar ve dava evrakı tevdii kılınmakla, dosya incelenerek gereği düşünüldü:
+
+Anayasa`nın 22. maddesi gereğince kural olarak herkes haberleşme özgürlüğüne sahiptir ve haberleşmenin gizliliği esastır. Ancak, ulusal güvenlik, kamu düzeni, suç işlenmesinin önlenmesi, genel sağlık ve genel ahlakın korunması veya başkalarının hak ve özgürlüklerinin korunması
+nedenlerine dayalı olarak hakim kararıyla gizlilik kuralı askıya alınabilir.
+
+Tarafı olduğumuz ve onaylamakla iç hukuk mevzuatına dahil ettiğimiz Avrupa İnsan Hakları ve Temel Özgürlüklerin Korunması Sözleşmesinin 8. maddesinde de herkesin haberleşmesine saygı gösterilmesi hakkına sahip olduğu kurala bağlanmış olup, bu hakka bir kamu otoritesinin müdahalesinin, ulusal güvenlik, kamu emniyeti, ülkenin ekonomik refahı, dirlik ve düzenin korunması, Suç işlenmesinin önlenmesi, sağlığın veya ahlakın veya başkalarının hak ve özgürlüklerinin korunması için, demokratik bir toplumda gerekli olan ölçüde ve yasayla öngörülmüş olmak koşuluyla söz konusu olabileceği belirtilmiştir.
+
+5271 sayılı CMK.nun, casusluk suçları hariç 250. maddesinin 1. fıkrasının ( a ), ( b )ve ( c )bentlerinde yazılı suçları işlenmesinin önlenmesi amacıyla, 2559 sayılı Kanunun ek 7 ve 2803 sayılı Kanunun ek 5. maddeleri uyarınca Emniyet Genel Müdürlüğü ile Jandarma Genel Komutanlığı, 5271 sayılı CMK.nun 135 ila 138. maddeleri ile sınırları belirlenen çerçevede ve sadece kendi sorumluluk alanları ile sınırlı olarak telekomünikasyon yoluyla yapılan iletişimin tespiti, dinlenmesi, sinyal bilgilerinin değerlendirilmesi ve kayda alınması yönünde hakim kararı alabilir veya sonradan hakim onayına sunulmak üzere yazılı emir verebilirler.
+
+Anılan yasal düzenlemelerin amaç, kapsam ve gerekçesi birlikte nazara alınıp değerlendirildiğinde; Amacı ne olursa olsun hiçbir kuruma demokratik bir hukuk devleti olan Türkiye Cumhuriyetinde yaşayan insanlar şüpheli görülerek ülke genelini kapsayacak şekilde yetki verilemeyeceği, anılan kanunların ilgili maddeleri gereğince talepte bulunan kolluk birimlerinin bulundukları yerler itibariyle yetkili olan ve 5271 sayılı CMKnun 250. maddesinin 1. fıkrasına göre kurulan ağır ceza mahkemesi üyelerinin kendi yargı çevreleri ile ilgili karar vermeleri gerektiği, sınırsız bir yetki verilmesi suretiyle iletişimin tespit edilerek dinlenilmesine karar verilemeyeceği, yasa koyucunun amacının da bu olduğu açıktır.
+
+Kanun yararına bozma, karar veya hükümlerdeki hukuka aykırılıkların toplum ve birey açısından hukuk yararına giderilmesini ve ülke sathında uygulama birliğine ulaşılmasını sağlama amacıyla, olağanüstü bir denetim muhakemesi yolu olarak Ceza Yargılaması Yasasının 309 ve 310. maddelerinde düzenlenmiştir.
+
+Yukarıda açıklanan nedenlerle kanun yararına bozma talebine atfen düzenlenen tebliğnamedeki bozma isteği incelenen dosya kapsamına nazaran yerinde görüldüğünden, Ankara 11. Ağır Ceza Mahkemesinin 19.12.2007 gün ve 2007/6522 Tek. Tak. sayılı kararının  CMK.nun 309.maddesi uyarınca
+( BOZULMASINA), müteakip işlemlerin mahallinde yapılmasına, dosyanın gereği için Yargıtay C.Başsavcılığına ( TEVDİİNE ), oybirliğiyle karar verildi.
+
+YARGITAY CEZA GENEL KURULU
+Esas : 2013/10-642 Karar : 2014/302Tarih : 3.06.2014
+
+CMK 137. Madde
+
+Kararların Yerine Getirilmesi, İletişim İçeriklerinin Yok Edilmesi
+
+“… Sanık Çetin hakkında verilen hükme yönelik temyiz isteğinin incelenmesinde;
+
+Sanıkla ilgili iletişimin tespiti kararı bulunmadığı ve hakkındaki hükmü temyiz etmeyen C.`den ele geçirilen uyuşturucu madde ile ilgisi olduğuna ilişkin, her türlü kuşkudan uzak mahkûmiyetine yeterli delil bulunmadığı gözetilmeden yazılı gerekçe ile hüküm kurulması…”,
+İsabetsizliğinden oyçokluğuyla bozulmasına karar verilmiş,
+
+Daire Üyeleri Y. K.ve Ş. Ş.;
+“Sanık hakkında iletişimin tespiti kararı bulunmamakta ise de, ağabeyi olan, atılı suçu iştirak halinde işledikleri anlaşılan diğer sanık hakkında iletişimin tespiti kararı vardır. Suça konu uyuşturucunun pazarlanması konusunda alıcı ve satıcı konumunda değildirler. Korunan değer ile ihlal edilen değerlerin birbiriyle kıyaslanması suretiyle gerçeği bulmadaki toplumsal çıkar ile ihlal edilen yargılama kuralının etkilediği hak ve yarar karşılaştırıldığında uyuşturucu maddenin kullanıcılara ulaşmadan ele geçirilmesindeki toplum çıkarına üstünlük tanınmalıdır. Usulî bir eksiklik nedeniyle uyuşturucu ticareti gibi topluma ve kamu sağlığına karşı işlenmiş suçta deliller yok sayılmamalıdır. İletişimin tespiti tutanaklarının içeriği, sanığın yakalanma şekli ile yakalandığı yer ve uyuşturucu madde miktarına göre, mahkemenin uygulamasında bir isabetsizlik bulunmamaktadır” düşüncesiyle karşıoy kullanmışlardır.
+
+Yargıtay Cumhuriyet Başsavcılığı ise 17.05.2013 gün ve 373196 sayı ile;
+
+“… Dosyadaki bilgi ve belgeler incelendiğinde görüleceği üzere, sanıkların uyuşturucuyu İstanbul’da piyasaya sürmek suretiyle iştirak halinde uyuşturucu ticareti yaptıkları, sanıklardan Celal’in, Van`dan temin edip getirdiği esrar maddesi ile birlikte, tertibat alan kolluk güçlerince yakalandığı, bilahare kendisini bekleyen kardeşi sanığın da ele geçirildiği, sanıkların bu şekilde gerçekleşen uyuşturucu ticaretini tam bir fikir ve eylem birliği içerisinde, aralarındaki işbölümü çerçevesinde gerçekleştirdikleri, olayla ilgili ihbar, sanıkların savunmalarındaki dolaylı kabul, iletişim denetlenmesi suretiyle elde edilen kayıtlar, teknik takip, olay ve yakalama tutanakları ve tüm dosya kapsamıyla sabittir.
+
+Sanık Ç. hakkında ayrı bir iletişimin tespit kararı olmadığı, bu nedenle suçun sübutu konusunda yeterli delil bulunmadığı belirtilmekte ise de, diğer sanık hakkındaki usulüne uygun hâkim kararıyla yapılan dinlemede suça konu uyuşturucunun temini ve nakline yönelik sanıklar arasında birçok görüşme mevcuttur.
+
+Önemle belirtmek gerekir ki, iştirak halinde işlenen suçlarda sanıklardan biri hakkında iletişimin denetlenmesi suretiyle elde edilen delillin diğerleri yönünden değerlendirilemeyeceği ve hukuka aykırı delil niteliğine bürüneceği konusunda mevzuatta herhangi bir hüküm yoktur. Bir an için sanıkların kardeş olması nedeniyle, iletişimin denetlenmeyeceği dönüşülebilirse de, CGK’nun öğretide aksine görüşler bulunmakla birlikte, bu hükmün birlikte suç işleme şüphesi altında bulunan kişileri kapsamayacağı, tanıklıktan çekinme hakkına sahip kişinin suça katıldığı daha önceden başka delillerle belirlenmiş ise artık bu noktada anılan madde kapsamına giren bir dinleme ve kayıt yasağından söz edilemeyeceği, çünkü konuşması kayıt altına alınan kişinin, tanıklıktan çekinme hakkına sahip kişi sıfatını o kayıttan önce kaybettiği kabul edilmektedir` şeklindeki kararından da anlaşılacağı üzere, tanıklıktan çekinme hakkı bulunan ancak iştirak halinde suç işleyen kişiler arasındaki iletişim kayıtları hukuka uygun delil olarak hükme esas alınabilecektir.
+
+Özetlemek gerekirse, suç faili olan ve hakkındaki iletişimin tespiti kararıyla dinleme ve kayıt yapılan kişiye ilişkin elde edilen delillerin, hakkında herhangi bir nedenle iletişimin tespiti kararı alınmayan/alınamayan sanık açısından hukuka aykırı hale getireceği söylenemez. Olması gereken hukuk açısından en doğru olan yöntemin her fail hakkında ayrı iletişimin denetlenmesi kararıyla dinleme ve kayıt yapılmasının olduğu söylenebilirse de, hukuka kesin aykırılığın söz konusu olmadığı hallerde korunan hukuki değer arasında bir denge kurulmak suretiyle, hukuka aykırı olmayan delillerin değerlendirilmesi ve böylece maddi gerçeğe ulaşılmaya çalışılmasının bireyler ve toplumun yararına olacağı açıktır…”,
+
+Görüşüyle itiraz kanun yoluna müracaat ederek, Özel Daire bozma kararının kaldırılması ve yerel mahkeme hükmünün onanması isteminde bulunmuştur.
+
+CMK`nun 308/1. maddesi uyarınca inceleme yapan Özel Dairece, 28.03.2013 gün ve 7825-4810 sayı ile, itiraz nedenlerinin oyçokluğuyla yerinde görülmediğinden bahisle Yargıtay Birinci Başkanlığına gönderilen dosya, Ceza Genel Kurulunca değerlendirilmiş ve açıklanan gerekçelerle karara bağlanmıştır:
+
+İnceleme, Ç… E… hakkında uyuşturucu madde ticareti suçundan kurulan hükümle sınırlı olarak yapılmıştır.
+
+Özel Daire çoğunluğu ile Yargıtay Cumhuriyet Başsavcılığı arasında oluşan ve Ceza Genel Kurulu tarafından çözümlenmesi gereken uyuşmazlık; sanığın uyuşturucu madde ticareti suçundan hakkında iletişimin tespiti kararı bulunan ve ağabeyi olan diğer sanıkla yaptığı telefon görüşmelerinin hükme esas alınıp alınmayacağının belirlenmesine ilişkindir.
+
+İncelenen dosya muhtevasından;
+
+İstanbul Emniyet Müdürlüğü Narkotik Suçlarla Mücadele Şube Müdürlüğünce örgütlü şekilde uyuşturucu madde ticareti yaptıkları değerlendirilen şahıslara yönelik olarak yürütülen soruşturma kapsamında, uyuşturucu madde ticareti suçundan hakkındaki mahkûmiyet hükmü temyizden vazgeçilmesi nedeniyle kesinleşmiş bulunan ve incelemeye de konu olmayan sanık C… E…‘n Van’dan kimlik bilgileri tespit edilemeyen şahıslardan aldığı uyuşturucu maddeyi Ç… E. ..ve uyuşturucu madde ticareti suçundan hakkındaki mahkûmiyet hükmü kesinleşen V… D… isimli şahıslarla birlikte piyasaya sürecekleri bilgisine ulaşıldığı,
+
+Sanık C… E… hakkında ayrıca suç işlemek amacıyla örgüt kurmak ve uyuşturucu madde ticareti suçlarından iletişimin tespiti, dinlenmesi, kayda alınması ve sinyal bilgilerinin değerlendirilmesi kararları alındığı,
+
+Sanık C… E…‘in, Van’dan İstanbul`a otobüsle uyuşturucu madde getireceği bilgisine ulaşılması üzerine, yakalanması amacıyla kolluk görevlilerince olay tarihinde gece saatlerinde M. Turizm Alibeyköy Tesislerine gelindiği, gerekli tertibat alınıp beklemeye başlandığı, saat 04.10 sıralarında sanığın otobüsten indiği, kolluk görevlilerince bavulunda arama yapıldığı ve 15,873 kg ağırlığında, dört parça halindeki esrar olduğu ekspertiz raporuyla tespit edilen uyuşturucu maddenin bulunduğu,
+
+Sanık Ç…. E…‘in yakalanabilmesi amacıyla yapılan çalışmalar neticesinde, sanığın Sarıyer M. Turizm Yazıhanesi civarında bulunduğu bilgisinin alınması üzerine, yaklaşık bir saat sonra söz konusu yazıhanenin karşısında bulunan büfenin önünde yakalandığı, uyuşturucu madde ticareti suçundan hakkında kurulan mahkûmiyet hükmü temyiz edilmeksizin kesinleşen V… D…`in ise aynı gün evinde yakalandığı, her iki sanığın yapılan aramalarında herhangi bir suç unsuruna rastlanmadığı, Anlaşılmaktadır.
+
+Hakkında uyuşturucu madde ticareti suçundan kurulan hüküm kesinleşmiş olan sanık C… E…; Ç… E…‘in kardeşi olduğunu, kardeşinin uyuşturucu ile bir ilgisi bulunmadığını, kendisinin uyuşturucu işi yaptığını bilmediğini, bilmesi halinde yardım etmeyeceğini, yakalanan uyuşturucu maddenin kime ait olduğunu bilmediğini, sade naklini gerçekleştirdiğini, daha önce bir kez aynı işi yaptığını, olay tarihinde kime ait olduğunu bilmediği uyuşturucu maddeyi Van’dan, İstanbul otogarında teslim etmek üzere aldığını, yolda kendisini karşılayacak olan V… D…`yi aradığını, adı geçen şahsın kendisini almaya gelmeyeceğini öğrendiğini, bunun üzerine kardeşini çağırdığını, otobüsten indiği sırada yakalandığını, suçlamayı bu haliyle kabul ettiğini, pişman olduğunu beyan etmiş,
+
+Hakkında uyuşturucu madde ticareti suçundan kurulan hüküm kesinleşmiş olan sanık V… D…; diğer sanıkları tanımadığını, bir ay önce aracını açık kimlik bilgilerini bilmediği M. isimli şahsa sattığını, ancak parasını alamadığını, para karşılığında esrar vermeyi teklif ettiğini, uyuşturucu maddenin otogarda teslim edileceğini, kimin getireceğini bilmediğini, daha sonra korktuğu için uyuşturucu maddeyi almaktan vazgeçtiğini, olay günü uyuşturucu maddeyi getiren şahsın yakalandığını, suçlamayı kabul etmediğini belirtmiş,
+
+Sanık Ç… E…; Van’da ikamet ettiğini, bir akrabasının düğününe katılmak amacıyla İstanbul’a geldiğini, yanında kaldığı inşaat işleriyle uğraşan eniştesinin kendisine iş bulacağını söylediğini, uyuşturucu madde ile ilgisi bulunmadığını, olay gecesi ağabeyinin arayıp, kendisini Sarıyer`den almasını istediğini, gece eniştesinin arabasıyla ağabeyini almaya gittiğini, beklediği sırada polislerin kendisini aldığını, ağabeyinin esrar getirdiğinden haberi olmadığını, aralarında ticari bir ilişki bulunmadığını, arabasını sattıktan sonra ağabeyine borç verdiğini, uyuşturucu madde kullanmadığını, ağabeyi ile telefon görüşmesinde “gelişme yok” derken iş bulamadığını kastettiğini, ağabeyinin yol durumunu sorduğunda neyi ima ettiğini bilmediğini, “sana ihtiyacım var, kurban olayım” derken paraya ihtiyacı olduğundan bahsettiğini, diğer sanığı tanımadığını, suçlamaları kabul etmediğini savunmuştur.
+Uyuşmazlık konusunda isabetli bir hukuki çözüme ulaşılabilmesi bakımından öncelikle ceza muhakemesi hukukunun en önemli ilkelerinden biri olan “delillerin serbestliği” ve “hukuka aykırı yöntemle elde edilen delillerin kullanılması” konuları üzerinde durulması gerekmektedir.
+
+Yerleşmiş yargısal kararlarda da vurgulandığı üzere, ceza muhakemesinin amacı, usul kurallarının öngördüğü ilkeler doğrultusunda maddi gerçeğin her türlü şüpheden uzak biçimde kesin olarak belirlenmesidir. Maddi gerçeğe ulaşılmasında kullanılan yegane araç deliller olup, CMK`nun “delilleri takdir yetkisi” başlıklı 217. maddesinin ikinci fıkrasında yer alan; “yüklenen suç, hukuka uygun bir şekilde elde edilmiş her türlü delille ispat edilebilir” şeklindeki hüküm ile bu husus açıkça belirtilmiştir. Bu düzenleme ile ayrıca “delillerin serbestliği” ilkesine de vurgu yapılmaktadır. Buna göre, ceza muhakemesinde hangi hususun hangi delillerle ispat olunacağı konusunda bir sınırlama bulunmayıp, yargılama yapan hakim, hukuka uygun şekilde elde edilen tüm delilleri kullanmak suretiyle, sanığın aleyhine olduğu kadar lehine olan delilleri de araştırıp değerlendirerek, her türlü şüpheden arınmış bir neticeye ulaşmalıdır. Dolayısıyla yargılamaya konu olan olayın açıklığa kavuşturulması ve maddi gerçeğin bulunabilmesi için ispat amacıyla kullanılan her araç delil olarak kabul edilir.
+
+Maddi gerçeğin araştırılması aşamasında şahsi ya da toplumsal değerlerin korunması da zorunludur. Bu değerlerin korunabilmesi amacıyla kanun koyucu, delillerin serbestliği ilkesine; “delil yasakları” olarak adlandırılan bir takım sınırlamalar getirmiştir. Delil yasakları; “delil elde etme” ve “delil değerlendirme” yasağı olarak iki gruba ayrılmaktadır. Delillerin elde edilme şekline ilişkin yasaklara “delil elde etme yasakları,” hukuka uygun elde edilmiş olsa bile, delilin yargılamada ortaya konulup değerlendirilebilmesine ilişkin yasaklara ise “delil değerlendirme yasakları” denilmektedir.
+İfade alma ve sorgunun yasak usullerle gerçekleştirilmesi, tanıklıktan çekinme hakkı olanlara bu hakkın hatırlatılmaması delil elde etme yasaklarına; duruşmada tanıklıktan çekinen şahidin önceki ifadesinin okunamaması, iletişimin denetlenmesi sırasında elde edilen delillerin CMK`nun 135/6. maddesinde sayılanlar dışındaki bir suçun soruşturma ve kovuşturulmasında kullanılamaması ise delil değerlendirilmesi yasaklarına örnek olarak gösterilebilir.
+
+CMK`nun 217. maddesinin ikinci fıkrasında yer alan; “yüklenen suç, hukuka uygun bir şekilde elde edilmiş her türlü delille ispat edilebilir” şeklindeki hükümle, ceza muhakemesinde kullanılacak delillerin hukuka uygun bir şekilde elde edilmesi gerektiği belirtilmiştir. Buna göre bütün deliller kanunda gösterilen yönteme uygun olarak elde edilmelidir.
+
+Delil elde etmeye ilişkin her hukuka aykırılığın, o delilin yargılamada kullanılmasına engel oluşturup oluşturmayacağı hususu üzerinde de durulmalıdır.
+Delil elde edilmesine ilişkin olarak ihlal edilen kural, hak ihlaline neden olmuyor ve adil yargılanma ilkesi de zedelenmiyorsa, yargılamada değerlendirilemeyeceği veya hükme esas alınmayacağından sözedilemez. Örneğin; usulüne uygun olarak alınmış arama kararına istinaden herhangi bir hak ihlaline neden olunmadan yapılan arama neticesi ele geçen delillerin, sadece arama sırasında hazır bulunması gereken kişilerin orada bulundurulmaması suretiyle şekle aykırı hareket edildiğinden bahisle mahkûmiyet hükmüne esas alınamayacağı kabul edilemeyecektir. Yargıtay Ceza Genel Kurulunun 26.06.2007 gün ve 147-159 ile 13.03.2012 gün ve 278-96 sayılı kararlarında da aynı sonuca ulaşılmıştır. Aksinin kabulü, ceza yargılamasında hakkaniyete aykırı neticelerin doğmasına, adalet ve eşitlik ilkelerinin zedelenmesine yol açabilecek, son derece ağır sonuçları da beraberinde getirecektir.
+
+Nitekim CMK`nun 217. maddesinin ikinci fıkrasının gerekçesinde; “Maddenin son fıkrası, usul hukuku yönünden olağanüstü önem taşıyan ve adil yargılama ile bağlantılı ilkeyi belirtmektedir. İlke, delilin doğruluğunu, haklılığını hakkaniyete uygunluğunu sağlamak amacını gütmektedir. Böylece ister soruşturma ister kovuşturma evrelerinde olsun, hukuka aykırı olarak; örneğin, işkence, narko analiz, hataya sürükleyici eylemler, sorgulamalar, baskılar, kişinin fizik ve moral bütünlüğüne saldırılar yolu ile elde edilmiş deliller hükme esas alınamayacaktır” denilerek bir delilin hükme esas alınmasına engel oluşturan hukuka aykırılığın “sanığın temel haklarını” ihlal eden aykırılıklar olduğu belirtilmiştir.
+
+Basit şekle aykırılıklar da dahil olmak üzere, hukuka uygun şekilde elde edilmeyen her türlü delilin hükme esas alınmaması gerektiği yönünde öğretide bir kısım görüşler bulunmakla birlikte, bir kısım yazarlar da; “Hukuka aykırı yöntemlerle elde edilen deliller kavramındaki hukuka aykırılık, sanığın temel haklarını ihlal eden bir hukuka aykırılık olarak anlaşılmalıdır. Muhakemenin sonunda, yapılan işlemler bütün olarak değerlendirilmeli, muhakeme neticesinde, hukuka uygun veya aykırı yöntemle elde edilen deliller kullanılarak verilen hüküm, Anayasanın 36’ıncı maddesinde gösterildiği biçimde adil` ise, bir delil hukuka aykırı yöntemle elde edilse dahi kullanılabilmelidir.” ( Nurullah Kunter-Feridun Yenisey-Ayşe Nuhoğlu, Ceza Muhakemesi Hukuku, 16. Bası, Beta Yayınevi, İstanbul 2007, s. 1080 ), “Hak ihlali kriterlerine yer vermeyen değerlendirme herhangi bir hakkın ihlal edilmediği her türlü basit şekli aykırılığın, mutlak bozma sebebi sayılmasını gerektireceğinden uzun vadede son derece ağır sonuçların doğmasına yol açabilir. Burada her şekli aykırılık aynı zamanda hak ihlaline de yol açar gibi toptancı bir iddianın ileri sürülmesi mümkündür; ancak böyle bir iddianın gerçekle ilgisi bulunmamaktadır. Gündüz yapılması gereken arama gece yapılmışsa, bundan başka hiçbir hukuka aykırılık söz konusu değilse, burada hangi hak ihlal edilmiştir. Hiçbir hak ihlal edilmemiştir. Sadece şekli aykırılık söz konusudur.” ( Bahri Öztürk-Durmuş Tezcan-Mustafa Ruhan Erdem-Özge Sırma- Yasemin Saygılar-Esra Alan, Ceza Muhakemesi Hukuku, 2. Baskı, Seçkin Yayınevi, Ankara 2010, s. 376 ) şeklinde görüş bildirmişlerdir.
+
+Avrupa İnsan Hakları Mahkemesi de P.G.-J.H/Birleşik Krallık ve Khan/Birleşik Krallık davalarında; soyut şekilde hukuka aykırı delillerin dışlanmaması gerektiğine işaret etmiş, somut olay dikkate alındığında, hukuka aykırı da olsa delilin kullanılmasının söz konusu olabileceğini, asıl önemle üzerinde durulması gereken hususun, yargılamanın bütün olarak adil olup olmadığı konusu olduğunu belirtmiştir.
+
+Ceza Muhakemesi Kanununda koruma tedbirleri arasında yer alan telekomünikasyon yoluyla yapılan iletişimin denetlenmesi tedbirinin de ele alınması gerekmektedir.
+
+Telekomünikasyon yoluyla yapılan iletişimin denetlenmesi, mevzuatımızda 30.07.1999 tarih ve 4422 sayılı Çıkar Amaçlı Suç Örgütleriyle Mücadele Kanununda belirli örgütlü suçlar için düzenlenmiş iken, özellikle çıkar amaçlı ve örgütlü suçlulukla daha etkin şekilde mücadele edilebilmesi noktasında Avrupa İnsan Hakları Sözleşmesi ve Avrupa İnsan Hakları Mahkemesi kararlarına uygun genel bir düzenlemeye ihtiyaç duyulması sonucu, 5271 sayılı CMK`nun 135 ve devamı maddelerinde de yer bulmuştur.
+
+Telekomünikasyon yoluyla yapılan iletişimin denetlenmesi tedbiri 5271 sayılı Kanunun 135 ila 138. maddelerinde düzenlenmiş olup, 135. maddede; iletişimin tespiti, dinlenmesi, kayda alınması, sinyal bilgilerinin değerlendirilmesi olmak üzere dört tedbire yer verilmiş, tedbirlerin yerine getirilme şartları ve usulü düzenlenmiş, bu konuya ilişkin verilecek kararların kapsamı ve uygulama süresine yönelik ayrıntılı düzenleme yapılmıştır.
+
+Ceza Muhakemesi Kanununun 136. maddesinde, 135. maddede sayılan tedbirlerin uygulanmasına yönelik şüpheli veya sanığın müdafii için öngörülen istisnalar hüküm altına alınmış, 137. maddesinde telekomünikasyon yoluyla yapılan iletişimin tespiti, dinlenmesi ve kayda alınması kararlarının ne suretle icra edileceği, kayda alınan iletişim muhtevasının yazıya dökülmesi, işlemlere son verilmesi ve iletişim içeriğine ilişkin kayıtların yok edilmesi ve ilgililere bilgi verilmesi hususları düzenlenmiş, 138. maddesinde ise tesadüfen elde edilen deliller konusu hükme bağlanmıştır.
+
+CMK`nun 135. maddesinin altıncı fıkrası hüküm tarihi itibarıyla;
+“Bu madde kapsamında dinleme, kayda alma ve sinyal bilgilerinin değerlendirilmesine ilişkin hükümler ancak aşağıda sayılan suçlarla ilgili olarak uygulanabilir:
+a ) Türk Ceza Kanununda yer alan;
+
+altıncı fıkrada; 
+iletişimin dinlenmesi, kayda alınması ve sinyal bilgilerinin değerlendirilmesine ilişkin hükümlerin hangi suçlarda uygulanabileceği açıkça belirtilmiştir. Buna göre; dinleme, kayda alma ve sinyal bilgilerinin değerlendirilmesi koruma tedbirlerine sadece maddede sınırlı olarak sayılan suçlar yönüyle başvurulabilir iken, iletişimin tespiti tedbiri yönüyle ise bir suç sınırlaması bulunmayıp, şartların varlığı halinde bütün suçlar yönüyle bu tedbire başvurulması mümkündür.
+
+Aynı kanunun “Tesadüfen elde edilen deliller” başlıklı 138. maddesinin ikinci fıkrası; 
+“ Telekomünikasyon yoluyla yapılan iletişimin denetlenmesi sırasında, yapılmakta olan soruşturma veya kovuşturmayla ilgisi olmayan ve ancak, 135`inci maddenin altıncı fıkrasında sayılan suçlardan birinin işlendiği şüphesini uyandırabilecek bir delil elde edilirse; bu delil muhafaza altına alınır ve durum Cumhuriyet savcılığına derhâl bildirilir”                             şeklinde hüküm altına alınmıştır.
+
+5271 sayılı CMK’nun yürürlüğe girmesinden önce iletişimin denetlenmesi tedbirine CMUK`da yer verilmemiş olup, 
+Bu tedbir ilk kez 30.07.1999 tarih ve 4422 sayılı Çıkar Amaçlı Suç Örgütleriyle Mücadele Kanununda düzenlenmekle birlikte, tesadüfen elde edilen delillerin kullanılması konusunda anılan kanunda hüküm bulunmadığından, 
+01.06.2005 tarihinden önce uygulanan iletişimin dinlenmesi tedbiri sırasında tesadüfen elde edilen bulguların yargılamada delil olarak kullanılmasının hukuka aykırı bulunduğu Ceza Genel Kurulunun 13.06.2006 gün ve 122-162 ile 22.01.2008 gün ve 101-3 sayılı kararlarında belirtilmiştir.
+
+5271 sayılı Kanunun 138. maddesinin ikinci fıkrası göz önünde bulundurulduğunda 01.06.2005 tarihinden sonra müracaat edilecek olan iletişimin denetlenmesi tedbiri sırasında, soruşturma veya kovuşturma ile ilgili olmayan, fakat 135. maddenin altıncı fıkrasında sayılan suç ya da suçlardan birisinin işlendiği şüphesini uyandırabilecek delilin elde edilmesi durumunda, “tesadüfen elde edilen delil” olarak adlandırılan bu delilin belirtilen suçun soruşturma ve kovuşturulmasında kullanılması mümkün görülmüştür.
+
+CMK`nun 138. maddesinin ikinci fıkrasındaki düzenlemeyle telekomünikasyon yoluyla yapılan iletişimin denetlenmesi sırasında, soruşturma veya kovuşturmayla ilgili olmayan, fakat 135. maddenin altıncı fıkrasında sayılan katalog suç ya da suçlardan birisinin işlendiği şüphesini uyandırabilecek bir delilin elde edilmesi durumunda, 
+söz konusu delilin ceza yargılamasında kullanılabileceğinin kabul edilmiş olması, tedbirin uygulanması sonucunda elde edilen delillerin 135. maddenin altıncı fıkrasında sayılan suçlarla sınırlı olmak kaydıyla, aynı soruşturma ya da kovuşturmayla ilgili suçlar yönüyle evleviyetle kullanılabileceğinin kabulünü gerektirmektedir. 
+Aksi halde, özellikle örgütlü bir biçimde işlenen suçlarla etkin mücadele amacıyla iletişimin denetlenmesi koruma tedbirini düzenleyen kanun koyucunun amacına aykırı hareket edilmiş olmakla birlikte, örgütlü suçlulukla mücadelenin zorlaştırılması gibi bir neticeye de sebebiyet verilecektir.
+
+Nitekim Avrupa İnsan Hakları Mahkemesi Tuncay Özkan/Türkiye Kararında; “5/1. maddesi, sözleşmeye taraf devletlerin organize suçlarla yeterli önlemler alınarak mücadele etmede güvenlik güçleri için büyük zorluklara sebep olabilecek bir biçimde uygulanmamalıdır” şeklindeki görüşü ile, kanuni düzenlemenin özellikle örgütlü suçlarla mücadeleyi zorlaştıracak şekilde uygulanmaması gerektiğini önemle vurgulamıştır.
+
+CMK`nun 135. maddesinin altıncı fıkrasında sayılan suçlara ilişkin yapılan soruşturma sırasında şüpheli veya sanıklardan birisi bakımından uygulanan iletişimin denetlenmesi tedbiri sonucunda elde edilen delillerin, aynı soruşturma veya kovuşturma kapsamında bulunan diğer şüpheli ya da sanık açısından kullanılmasını yasaklayan bir hükme telekomünikasyon yoluyla yapılan iletişimin denetlenmesi tedbirinin düzenlendiği maddede yer verilmemiştir.
+
+Nitekim Ceza Genel Kurulunun 12.06.2007 gün ve 154-145 sayılı kararında; 
+“Rüşvet, CMK`nun 135/6. maddesinde yer aldığından, bu suç yönünden iletişimin tespiti suretiyle elde edilen deliller, aynı kanunun 138/2. maddesi uyarınca hakkında iletişimin tespiti kararı bulunmayan kişi için de delil olarak değerlendirilebilir”                            denilmiştir.
+
+Her ikisi de aynı suçun sanığı olup, aynı zamanda kardeş olan ve biri hakkında iletişimin denetlenmesi kararı bulunan sanıkların aralarındaki telefon konuşmalarının kanuni delil olarak kabul edilip edilemeyeceğinin değerlendirilmesine gelince;
+
+CMK`nun 250. maddesiyle görevli İstanbul 10. Ağır Ceza Mahkemesince soruşturma aşamasında, hakkındaki mahkumiyet hükmü kesinleştiğinden incelemeye konu olmayan sanık C… E… ile ilgili olarak iletişimin tespiti, dinlenilmesi, kayda alınması ve sinyal bilgilerinin değerlendirilmesi kararı alınmıştır.
+
+CMK`nun 135. maddesinin üçüncü fıkrasında;
+“Şüpheli veya sanığın tanıklıktan çekinebilecek kişilerle arasındaki iletişimi kayda alınamaz. Kayda alma gerçekleştikten sonra bu durumun anlaşılması hâlinde, alınan kayıtlar derhâl yok edilir.”
+
+Aynı kanunun tanıklıktan çekinme başlıklı 45. maddesinde de;
+“1 ) Aşağıdaki kimseler tanıklıktan çekinebilir:
+a ) Şüpheli veya sanığın nişanlısı.
+b ) Evlilik bağı kalmasa bile şüpheli veya sanığın eşi.
+c ) Şüpheli veya sanığın kan hısımlığından veya kayın hısımlığından üstsoy veya altsoyu.
+d ) Şüpheli veya sanığın üçüncü derece dahil kan veya ikinci derece dahil kayın hısımları.
+e ) Şüpheli veya sanıkla aralarında evlâtlık bağı bulunanlar.
+2 ) Yaş küçüklüğü, akıl hastalığı veya akıl zayıflığı nedeniyle tanıklıktan çekinmenin önemini anlayabilecek durumda olmayanlar, kanunî temsilcilerinin rızalarıyla tanık olarak dinlenebilirler. Kanunî temsilci şüpheli veya sanık ise, bu kişilerin çekinmeleri konusunda karar veremez.
+3 ) Tanıklıktan çekinebilecek olan kimselere, dinlenmeden önce tanıklıktan çekinebilecekleri bildirilir. Bu kimseler, dinlenirken de her zaman tanıklıktan çekinebilirler” şeklinde hükümler yer almaktadır.
+
+CMK`nun 135. maddesinin üçüncü fıkrasında yer alan düzenlemeden ne anlaşılması gerektiği ve tanıklıktan çekinme hakkına sahip olmalarına karşın, 
+bu hükmün şüphelilerle birlikte aynı suçu işleme şüphesi altında bulunan kişiler arasındaki görüşmeleri de kapsayıp kapsamadığının belirlenmesi gerekmektedir.
+
+Ceza Muhakemesi Kanununda Öngörülen; 
+Telekomünikasyon Yoluyla Yapılan İletişimin Denetlenmesi, Gizli Soruşturmacı ve Teknik Araçlarla İzleme Tedbirlerinin Uygulanmasına İlişkin Yönetmeliğin 4. maddesinin ( e ) bendinde iletişimin dinlenmesi ve kayda alınması; 
+“ telekomünikasyon yoluyla gerçekleştirilmekte olan konuşmaların dinlenmesi ve kayda alınması ile diğer her türlü iletişimin uygun teknik araçlarla dinlenmesi ve kayda alınmasına yönelik işlemler “                          olarak tanımlanmaktadır.
+
+Şüpheli ya da sanıkların, birlikte suç işleme şüphesi olmayan tanıklıktan çekinebilecek kişilerle yaptıkları görüşmelerin kayda alınması neticesinde elde edilen delillerin hukuka uygun yöntemlerle elde edilen delil olmadığı konusunda bir tereddüt bulunmamaktadır. 
+Bu konuda sorun, akrabalık ilişkilerinin sağladığı kolaylıktan yararlanarak şüpheli ya da sanıkların birlikte suç işleme şüphesi altında olan kişilerle yaptıkları iletişimin dinlenmesi ve kayda alınmasında doğmaktadır.
+
+Öğretide aksine görüşler bulunmakla birlikte, 
+CMK’nun 135/3. maddesi hükmünün birlikte suç işleme şüphesi altında bulunan kişileri kapsamayacağı, tanıklıktan çekinme hakkına sahip olan kişinin suça katıldığı daha önceden başka delillerle belirlenmiş ise artık bu noktada CMK`nun 135/3. maddesi kapsamına giren bir dinleme ve kayıt yasağından söz edilemeyeceği, çünkü konuşması kayıt altına alınan kişinin, tanıklıktan çekinme hakkına sahip kişi sıfatını o kayıttan önce kaybettiği kabul edilmektedir. ( Ersan Şen, Türk Hukukunda Telefon Dinleme- Gizli Soruşturmacı-X Muhbir, Seçkin Yayınevi, Ankara 2013, s. 175; Murat Yardımcı, Türk Hukukunda İletişimin Denetlenmesi, Seçkin Yayınevi, Ankara 2009, s. 211 )
+Nitekim Yargıtay Ceza Genel Kurulunun 19.02.2013 gün ve 137-58 sayılı kararında da aynı sonuca ulaşılmıştır.
+
+Uyuşmazlık konusu bu açıklamalar ışığında değerlendirildiğinde;
+
+Sanık Ç. ile hakkında uyuşturucu madde ticareti suçundan kurulan mahkumiyet hükmü temyizden feragat edilmesi nedeniyle kesinleşmiş olup, incelemeye konu olmayan sanık C. arasında gerçekleştirilen ve sanık C.yönünden dinlenilmesine ve kayda alınmasına yönelik mahkeme kararı da bulunan telefon görüşme muhtevasının, bu kişiler hakkında daha önceden aynı suçtan soruşturmaya başlanılması ve soruşturmaya konu olan uyuşturucu madde ticareti suçunun da CMK’nun 135/6. maddesi kapsamında bulunması, iletişimin denetlenmesi kararının usul ve kanuna uygun olarak alınıp yerine getirilmesi şartlarının varolması hususları birlikte değerlendirildiğinde, iletişimin denetlenmesi tedbiri sonucu elde edilen telefon görüşme kayıtlarının sanık C.`in kardeşi ve aynı suçun sanığı olan Ç. yönüyle de hukuka uygun yöntemlerle elde edilmiş delil olduğunun ve hükme esas alınması gerektiğinin kabulünde zorunluluk bulunmaktadır. Aksi durum, aynı soruşturma ve kovuşturma kapsamında bulunan bir kişi bakımından kanuni olarak kullanılabilecek bir delilin, diğer sanık açısından hukuka aykırı görülmesi hak ve adalet ilkelerine aykırılık oluşturacağı gibi, tanıklıktan çekinme hakkına sahip olan kişilerin, aynı suçu birlikte işlemelerinin kanun koyucu tarafından himaye edildiği sonucunu doğurur ki, bunun kabulü de mümkün değildir.
+
+Bu itibarla, itirazın kabulüne, Özel Daire bozma kararının kaldırılmasına ve dosyanın hükmün esasının incelenebilmesi amacıyla Özel Daireye gönderilmesine karar verilmelidir.
+
+Çoğunluk görüşüne katılmayan Genel Kurul Üyesi E. Özgan; 
+“A ) Tartışmanın Konusu:
+Uyuşturucu madde ticareti yapma suçundan şüpheli ( A ) hakkında CMK’nın 135. maddesi uyarınca verilen iletişimin denetlenmesi kararı üzerine, 
+( A ) ile telefon görüşmesi yapan ve belirtilen suça iştirak ettiği ileri sürülen ( B ) hakkında aynı konuda bir karar alınmadan, bu kişiler arasındaki telefon konuşmaları ( B ) aleyhinde delil olarak kullanılabilir mi?
+Başka bir ifadeyle, telefon konuşmaları ( B ) yönünden hukuka aykırı olarak elde edilmiş` delil midir?
+
+B ) Somut Olay , Yerel Mahkemenin Kabulü ve Yargıtay 10. Ceza Dairesi Çoğunluğu Görüşü:
+1- Somut olayda, uyuşturucu madde ticareti yapma suçunu işlediği konusunda kuvvetli şüphe bulunduğu, başka suretle delil elde etme imkânı olmadığı gerekçesiyle diğer sanıklardan C. in telefonu hâkim kararıyla dinlemeye alınmış, ancak sanık Ç. in bu sanıkla yaptığı telefon konuşmaları hâkim veya Cumhuriyet savcısının kararı olmadan dinlenmiş ve kayda alınmıştır.
+2- Yerel mahkeme, aleyhinde başka delil bulunmayan sanık Ç.hakkında, telefon konuşmalarına dayanarak mahkûmiyet kararı vermiştir.
+3- Yargıtay 10. Ceza Dairesi’nce, sanık Ç.’in telefon konuşmaları hukuka aykırı delil olarak kabul edilmiş ve atılı suçu işlediğine ilişkin yeterli delil bulunmayan sanık Ç. hakkında beraat yerine mahkûmiyet hükmü kurulmasının yasaya aykırı olduğu gerekçesiyle mahkûmiyet hükmünün bozulmasına oyçokluğuyla karar verilmiştir.
+4- Yargıtay Cumhuriyet Başsavcılığınca, sanık Ç.`in telefon konuşmalarının hukuka aykırı delil olmadığı ileri sürülerek Yargıtay 10. Ceza Dairesi’nin kararına itiraz edilmiştir.
+
+C ) Ceza Genel Kurulu Çoğunluğunun Görüşü:
+Yargıtay Ceza Genel Kurulu çoğunluğu tarafından, hakkında iletişimin denetlenmesi kararı olmayan sanık Ç. in telefon konuşmalarının hukuka aykırı olarak elde edilmediği ve hükme esas alınabileceği` kabul edilmiştir.
+
+D ) Konuya İlişkin Uluslararası ve Ulusal Düzenlemeler:
+1- Avrupa İnsan Hakları Sözleşmesinin 8. maddesinin 1. fıkrasına göre Her kişi özel ve aile yaşamına, konutuna ve haberleşmesine saygı gösterilmesi hakkına sahiptir. Bu hakların kullanılmasına resmî bir makamın müdahalesi demokratik bir toplumda millî güvenlik, kamu güvenliği, ülkenin ekonomik refahı, düzenin korunması, suçların önlenmesi, sağlığın veya ahlâkın ve başkasının hak ve özgürlüklerinin korunması için zorunlu bulunduğu ölçüde ve kanunla düzenlenmesi koşuluyla olabilir.
+AİHS’nin başlangıç bölümünde, Aşağıda imzası bulunan Avrupa Konseyi üyesi hükümetler, Birleşmiş Milletler Genel Kurulu tarafından 10 Aralık 1948 de ilan edilen İnsan Hakları Evrensel Bildirisini, bu Bildirinin, metninde açıklanan hakların her yerde ve etkin olarak tanınmasını ve uygulanmasını sağlamayı hedef aldığını, … Avrupa devletlerinin hükümetleri sıfatıyla, Evrensel Bildiri`de yer alan bazı hakların ortak güvenceye bağlanmasını sağlama yolunda ilk adımları atmayı kararlaştırarak, aşağıdaki hususlarda anlaşmışlardır: … denilmiştir.
+AİHS’nin 53. maddesinde, Bu Sözleşme hükümlerinden hiçbiri, herhangi bir Yüksek Sözleşmeci Tarafın yasalarına ve onun taraf olduğu başka bir Sözleşmeye göre tanınabilecek insan haklarını ve temel özgürlükleri sınırlayamaz veya onlara aykırı düşecek şekilde yorumlanamaz hükmü öngörülmüştür.
+
+2- İnsan Hakları Evrensel Beyannamesinin 12. maddesinde, Hiç kimse, özel hayatı, ailesi, meskeni veya yazışması hususlarında keyfi karışmalara, şeref ve şöhretine karşı tecavüzlere maruz kalamaz. Herkesin bu karışım ve müdahalelere karşı kanun ile korunmaya hakkı vardır denilmek suretiyle, kişilerin yazışması ve özel hayatı koruma altına alınmıştır.
+
+3- Birleşmiş Milletler Medeni ve Siyasi Haklar Sözleşmesinin 17. maddesinde, Hiç kimsenin özel ve aile yaşamına, konutuna veya haberleşmesine keyfi veya hukuka aykırı olarak müdahale edilemez; onuru veya itibarı hukuka aykırı saldırılara maruz bırakılamaz. Herkes bu tür saldırılara veya müdahalelere karşı hukuk tarafından korunma hakkına sahiptir hükmüne yer verilmiştir.
+Böylece uluslararası metinlerde haberleşme özgürlüğü ve haberleşmenin gizliliği, `bir temel insan hakkı hakkı olarak kabul edilip koruma altına alınmıştır.
+
+4- Anayasanın 22. maddesinde, `Herkes haberleşme hürriyetine sahiptir. Millî güvenlik, kamu düzeni, suç işlenmesinin önlenmesi, genel sağlık ve genel ahlâkın korunması veya başkalarının hak ve özgürlüklerinin korunması sebeplerinden biri veya birkaçına bağlı olarak usulüne göre verilmiş hâkim kararı olmadıkça; yine bu sebeplere bağlı olarak gecikmesinde sakınca bulunan hallerde de kanunla yetkili kılınmış merciin yazılı emri bulunmadıkça; haberleşme engellenemez ve gizliliğine dokunulamaz. Yetkili merciin kararı yirmidört saat içinde hâkimin onayına sunulur. Hâkim, kararını kırksekiz saat içinde açıklar; aksi halde karar kendiliğinden kalkar hükmü yer almaktadır.
+
+5- Anayasa`nın 12, 13 ve 14. maddelerine göre;
+a ) Temel hak ve hürriyetlerden vazgeçilemez ve bunlar başkasına devredilemez.
+b ) Temel hak ve hürriyetler, özlerine dokunulmaksızın yalnızca Anayasanın ilgili maddelerinde belirtilen sebeplere bağlı olarak ve ancak kanunla sınırlanabilir. Bu sınırlamalar, Anayasanın sözüne ve ruhuna, demokratik toplum düzeninin ve lâik Cumhuriyetin gereklerine ve ölçülülük ilkesine aykırı olamaz.
+c ) Anayasa hükümlerinden hiçbiri, Devlete ve kişilere, Anayasayla tanınan temel hak ve hürriyetlerin yok edilmesini veya Anayasada belirtilenden daha geniş şekilde sınırlandırılmasını amaçlayan bir faaliyette bulunmayı mümkün kılacak şekilde yorumlanamaz.
+
+6- 5271 sayılı Ceza Muhakemesi Kanununun 135. maddesinde, bir suç nedeniyle yapılan soruşturma kapsamında, şüpheli veya sanığın telekomünikasyon yoluyla iletişiminin tespitinin, dinlenmesinin ve kayda alınmasının yani ( haberleşmesinin gizliliğine müdahale edilebilmesinin ) koşulları ve biçimsel kuralları belirlenmiş; bu soruşturma tedbirinin hangi suçlar için uygulanabileceği sınırlı olarak sayılmıştır.
+Buna göre, şüphelinin telefonu ancak hâkim kararı ile ya da gecikmesinde sakınca bulunan durumlarda Cumhuriyet savcısının yazılı kararı ile dinlenebilir. Dinlemeye Cumhuriyet savcısı karar vermiş ise, bu kararın derhal hâkimin onayına sunulması gerekir. Hâkim bu kararı onaylamadığı takdirde, telefon dinleme tedbiri derhal kaldırılır.
+
+7- CMK’nın Tesadüfen elde edilen deliller başlığını taşıyan 138. maddesinin ikinci fıkrasında ise, Telekomünikasyon yoluyla yapılan iletişimin denetlenmesi sırasında, yapılmakta olan soruşturma veya kovuşturmayla ilgisi olmayan ve ancak, 135 inci maddenin altıncı fıkrasında sayılan suçlardan birinin işlendiği şüphesini uyandırabilecek bir delil elde edilirse; bu delil muhafaza altına alınır ve durum Cumhuriyet Savcılığına derhâl bildirilir` 
+denilmiştir.
+
+E ) Konuyla İlgili Normların Yorumu:
+
+1- AİHS’nin başlangıç bölümü ve 53. maddesi hükümlerine göre;
+a ) AİHS insan haklarını ve temel özgürlükleri asgari ölçüde koruyan bir sözleşmedir. Zamanla koruma sınırlarının genişletilmesi amaçlanmıştır.
+b ) AİHS’ye taraf olan devletler, iç hukuklarında insan haklarını ve temel özgürlükleri daha fazla koruyacak düzenlemeler yapabilirler veya bu konuda başka bir sözleşmeyi kabul edebilirler. AİHS’nin hiçbir hükmü, bu nitelikteki düzenlemelere aykırı düşecek şekilde yorumlanamaz. Başka bir anlatımla, AİHS’ye taraf olan devletlerin, iç hukuklarında veya kabul ettikleri başka bir sözleşmede yer alan insan haklarını ve temel özgürlükleri daha fazla koruyan hükümlerin, AİHS’ye aykırılığı ileri sürülemez.
+
+2- Temel hak ve özgürlükleri asgari ölçüde koruyan uluslararası sözleşmelerin ve anayasanın bu konudaki hükümleri temel hak ve özgürlükleri daraltacak şekilde yorumlanamaz. Buna karşın, temel hak ve özgürlüklerin yasalarla daha fazla korunması mümkündür.
+
+3- Temel hak ve özgürlüklere müdahalenin, kural olarak, hâkim kararına bağlanarak teminat altına alınmasınındaki amaç, suçluları değil, masumları korumaktır.
+
+4- 5271 sayılı Ceza Muhakemesi Kanunu`nun 135. maddesinde şüpheli veya sanığın iletişiminin denetlenebilmesinin koşulları ve kuralları belirlenmiştir. Bunun için;
+a ) İlgili maddede sınırlı olarak sayılan suçların işlendiğine ilişkin kuvvetli şüphe sebeplerinin bulunması ve başka suretle delil elde edilememesi,
+b ) Hâkim veya gecikmesinde sakınca bulunan hallerde Cumhuriyet savcısının kararı
+Gerekmektedir.
+
+5- CMK’nın 138. maddesine göre, soruşturması yapılan suç dışında ancak CMK’nın 135. maddesinde sınırlı olarak sayılan suçlardan birine ait delil elde edilmesi halinde durumun Cumhuriyet savcısına bildirilmesi gerekmektedir. Başka bir suçun işlendiğine ilişkin ilk tespit tesadüfen elde edilen delil` olarak adlandırılmıştır. Bu durumda Cumhuriyet savcısı yeni bir soruşturma başlatabilecektir. CMK’nın 135. maddesine göre bu suçla ilgili olarak şüpheli hakkında iletişimin denetlenmesi kararı alınabilecektir.
+
+6- Ceza Muhakemesi Kanunu`nun 135. maddesinin 7. fıkrasına göre, bu maddede belirlenen esas ve usuller dışında hiç kimse, bir başkasının telekomünikasyon yoluyla iletişimini dinleyemez ve kayda alamaz.
+
+7- Anayasa’nın 38. maddesinin 6. fıkrası ile CMK’nın 217. maddesinin 2. fıkrasına göre, hukuka aykırı olarak elde edilen deliller hükme esas alınamaz.
+
+8- Öte yandan, Türk Ceza Kanunu`nun 133. maddesinde, kişiler arasındaki aleni olmayan konuşmaların rıza dışında dinlenmesi, kayda alınması ve kaydedilerek elde edilen verilerin ifşa edilmesi suç olarak düzenlenmiştir.
+
+F ) Konunun Değerlendirilmesi:
+
+1- Gerekli koşullar bulunduğunda, bir kişinin telefonunun dinlenmesi ya da konuşmalarının kayda alınması için hâkim veya Cumhuriyet savcısından alınan karar, sadece o kişinin temel hakkına müdahale yetkisi verir. Hakkında karar bulunmayan kişilerin telefonunun dinlenmesi ya da konuşmalarının kayda alınması bu kişiler yönünden hukuka aykırı delil` niteliğindedir. Avrupa İnsan Hakları Mahkemesinin Lambert-Fransa kararı bu doğrultudadır.
+
+2- Sanık Ç.’in telefon konuşmaları, soruşturması yapılan suçla ilgili olduğu için, bu sanık hakkında da ayrıca CMK’nın 135. maddesi kapsamında iletişimin denetlenmesi` kararı alınması gerekirdi. Böyle bir karar alınmadan telefon konuşmalarının dinlenmesi ve kayda alınması hukuka aykırıdır.
+Sanık Çetin’in telefon konuşmalarını  tesadüfen elde edilen delil olarak kabul etmek de mümkün değildir. Çünkü bu konuşmalar soruşturması yapılan suçla ilgilidir.
+
+3- Anayasanın 38. maddesinin 6. fıkrası ile CMK’nın 217. maddesinin 2. fıkrasına göre, hukuka aykırı olarak elde edilen deliller hükme esas alınamaz. Bu hükümler mutlak olup herhangi bir istisnasına yer verilmemiştir.
+
+4- Türk Ceza Kanunu`nun 133. maddesine göre, kayda alan açısından suç oluşturan verilerin hukuka uygun olarak elde edildiğini ve delil olarak kullanılabileceğini savunmak mümkün değildir.
+
+5- Gerek Anayasa, gerekse Ceza Muhakemesi Kanununda, hukuka aykırı yöntemlerle elde edilen delillerin hükme esas alınamayacağı öngörülmüş olup 
+bunun istisnasına yer verilmemiştir. Kamu yararı ve benzeri nedenlerle, hukuka aykırı olarak elde edilen delilin hükme esas alınmasına olanak yoktur.
+
+6- Hakkında iletişimin denetlenmesi kararı bulunmadığı için sanık Ç.’in telefon konuşmaları hukuka aykırı olarak elde edilmiş delil niteliğindedir ve hükme esas alınamaz. Aksinin kabulü halinde açık bir `hak ihlali söz konusu olur ve bu durum hukuk devleti ilkesi ile bağdaşmaz.
+
+7- Uluslarası ve ulusal normlara aykırı olan çoğunluk görüşünü kabul etmek mümkün değildir.
+
+G ) Sonuç:
+Sanık Çetin’in telefon konuşmaları hukuka aykırı olarak elde edilmiş delil niteliğinde olduğu ve Yargıtay Cumhuriyet Başsavcılığı`nın itirazının reddine karar verilmesi gerektiği kanısını taşıdığımdan, aksi yöndeki çoğunluk görüşüne katılmıyorum”,
+Çoğunluk görüşüne katılmayan Genel Kurul Üyesi M. K. “İtirazın konusu, sanığın suçunun sübut bulup bulmadığı değil, hakkında iletişim tespit kararı olmayan sanığın tespit edilen iletişim içeriğinin delil olup olmayacağı hususudur. Öncelikle iletişim tespitlerinin delil olup olmadığı konsol çözüme kavuşturulmadan iletişim tespit çözüm tutanaklarının gündeme eklenmesi doğru olmamıştır.
+
+5271 sayılı CMK’nın  Tesadüfen elde edilen deliller başlıklı 138. maddesine göre:
+
+`1 ) Arama veya elkoyma koruma tedbirlerinin uygulanması sırasında, yapılmakta olan soruşturma veya kovuşturmayla ilgisi olmayan ancak, diğer bir suçun işlendiği şüphesini uyandırabilecek bir delil elde edilirse; bu delil muhafaza altına alınır ve durum Cumhuriyet Savcılığına derhâl bildirilir.
+
+2 ) Telekomünikasyon yoluyla yapılan iletişimin denetlenmesi sırasında, yapılmakta olan soruşturma veya kovuşturmayla ilgisi olmayan ve ancak, 135 inci Maddenin altıncı fıkrasında sayılan suçlardan birinin işlendiği şüphesini uyandırabilecek bir delil elde edilirse; bu delil muhafaza altına alınır ve durum Cumhuriyet Savcılığına derhâl bildirilir. Maddeye göre, uyuşturucu madde ticareti suçu ile ilgili yapılan iletişimin denetlenmesi sırasında sanığın suç ortağının ortaya çıkması halinde değil, soruşturma ya da kovuşturma konusu olan suçtan başka ve CMK`nın 135. maddesinde sayılan diğer bir suçun ortaya çıkması halinde tesadüf delilden söz etmek mümkündür.
+
+İletişimin tespiti sırasında sanığın telefon konuşmasına takılan şüphelinin soruşturulan suça iştirak etiği tespit edilirse ne yapmak gerekir? İkinci şüpheli hakkında hâkimden iletişim tespit kararı alınması gerekir.
+
+Tartışılan sanık hakkında iletişim tespit kararı alınmış değildir. İzah edildiği gibi durumu tartışılan sanık hakkında tesadüfen delil de elde edilmiş değildir. Çünkü elde edildiği söylenen delil soruşturma konusu olan suçla ilgilidir.
+
+5271 sayılı CMK’nın 217. maddesine göre;
+1 ) Hâkim, kararını ancak duruşmaya getirilmiş ve huzurunda tartışılmış delillere dayandırabilir. Bu deliller hâkimin vicdanî kanaatiyle serbestçe takdir edilir.
+2 ) Yüklenen suç, hukuka uygun bir şekilde elde edilmiş her türlü delille ispat edilebilir.`
+CMK’nın 230. maddesinin ( 1-b ) bendine göre:
+“Delillerin tartışılması ve değerlendirilmesi, hükme esas alınan ve reddedilen delillerin belirtilmesi; bu kapsamda dosya içerisinde bulunan ve hukuka aykırı yöntemlerle elde edilen delillerin ayrıca ve açıkça gösterilmesi”                                 gerekir.
+
+CMK`nın 289. maddesinin 1. fıkrasının i ) bendine göre:
+“Hükmün hukuka aykırı yöntemlerle elde edilen delile dayanması” kesin hukuka aykırılık halidir.
+
+5271 sayılı CMK`nın 217. ve 289. maddelerinde, karşı oylarda ileri sürüldüğü gibi 
+“kamusal yarar halinde hukuka aykırı deliller hükme esas alınır veya korunan hukuki değe”  gibi bir ölçüt de yoktur. 
+Bu genişletilmiş yorum tarzının sonunda iletişim tespit kararları kontrol edilemez hale gelir. Alınan bir kararla binlerce kişinin dinlenebilmesi gibi sonuçlar da ortaya çıkabilir.
+
+5271 sayılı CMK`nın 135. maddesinin 6526 sayılı Kanunla yapılan değişiklik öncesi 2 inci, değişiklikten sonraki 3. fıkrasına göre:
+“3 ) Şüpheli veya sanığın tanıklıktan çekinebilecek kişilerle arasındaki iletişimi kayda alınamaz. Kayda alma gerçekleştikten sonra bu durumun anlaşılması hâlinde, alınan kayıtlar derhâl yok edilir.”
+
+Hakkında iletişim kararı alınan sanık ile bu sanığın iletişime takılan ve tartışılan sanığın kardeş oldukları anlaşılmaktadır. Bu sanığın iletişiminin tespit ve kayda alınması da CMK`nın 135. maddesine aykırıdır. Kardeşlerin iletişiminin kayda alınabilmesi için her iki sanık hakkında baştan itibaren soruşturma yapılıyor olması gerekir.
+
+Yüksek Yargı kararlarına baktığımızda: 
+Yargıtay Birinci Başkanlık Kurulu, 29 Haziran 2004 tarihli bir kararında, hakkında soruşturma yapılan Yargıtay üyeleri ile ilgili olarak delillerin hukuka aykırı olduğu gerekçesi ile soruşturma yapılmasına yer olmadığına karar vermiştir. Anayasa Mahkemesi bir Yargıtay Daire Başkanı ile ilgili yaptığı ceza yargılaması sonucunda, 19.12.2012 tarih ve 2011/1 esas, 2012/1 sayılı kararında delillerin hukuka aykırı olması ve başka delil bulunmaması nedeni ile beraat kararı vermiştir.
+Ceza yargılama yasaları insan hakları ile ilgilidir ve Ceza Kanunlarından önemlidir. İnsan haklarına ilişkin kurallar zorlanarak ihlal edilememelidir. Bu ihlallerin sonucu Avrupa İnsan Hakları Mahkemesinden de dönebilir.
+
+Somut olayda, 
+Daire kararında vurguladığı gibi sanık hakkında hukuka aykırı olarak elde edilen iletişim tespit kararı ile elde edilenler dışında mahkûmiyetine yeterli delil yoktur. Bu nedenle Yargıtay Cumhuriyet Başsavcılığının itirazının reddine karar verilmelidir düşüncesiyle Sayın çoğunluğun itirazın kabulü yönündeki kararına katılmıyorum”                                              düşüncesiyle,
+
+Çoğunluk görüşüne katılmayan on Genel Kurul Üyesi de; benzer düşüncelerle itirazın reddi gerektiği yönünde karşıoy kullanmışlardır.
+
+SONUÇ:
+
+Açıklanan nedenlerle;
+1- ) Yargıtay Cumhuriyet Başsavcılığı itirazının KABULÜNE,
+2- ) Yargıtay 10. Ceza Dairesinin 19.03.2013 gün ve 3814-2559 sayılı bozma kararının KALDIRILMASINA,
+3- ) Dosyanın, hükmün esasının incelenebilmesi amacıyla Yargıtay 10. Ceza Dairesine gönderilmek üzere Yargıtay Cumhuriyet Başsavcılığına TEVDİİNE, 27.05.2014 günü yapılan ilk müzakerede yeterli çoğunluk sağlanamadığından, yapılan ikinci müzakerede oyçokluğuyla karar verildi.
+
+UYARI

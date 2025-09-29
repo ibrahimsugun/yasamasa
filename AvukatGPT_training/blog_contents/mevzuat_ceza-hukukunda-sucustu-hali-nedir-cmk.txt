@@ -1,0 +1,50 @@
+Suçüstü Hali Nedir?
+
+(CGK-K.2020/449)
+
+a) Suçüstü Hâli Kavramı
+
+Genel olarak bir ceza usul hukuku kurumu olarak düzenlenen suçüstü hâli kavramına Anayasa’da ve özel soruşturma ve kovuşturma usullerini düzenleyen birtakım kanunî düzenlemelerde hukukî sonuçlar atfedilmiştir. Bunlardan en önemlisi de, kural olarak adli suçların soruşturulması ve kovuşturulmasında genel hükümlere göre işlem yapılmasını düzenleyen normların uygulanmasını, bazı kamu görevlilerinin ifa ettikleri görevlerin niteliğinden kaynaklanan yasama dokunulmazlığı, hâkimlik teminatı gibi evrensel ilkelerin iç hukuka yansıması olarak öngörülen düzenlemelerle engelleyen güvenceleri ağır cezalık suçlar yönünden ortadan kaldırmasıdır.
+
+5271 sayılı CMK’nın yürürlüğe girmesinden önce suçüstü hâli; 1412 sayılı Ceza Muhakemeleri Usulü Kanunu’nun (CMUK) “Tevkif, muvakkat yakalama ve salıverme” başlıklı Dokuzuncu Faslında yer alan 127. maddesinin üçüncü fıkrasında; “İşlenmekte olan suç, meşhud suçtur.” şeklinde ve “asıl meşhud suç” olarak tanımlanmış, aynı maddenin dördüncü fıkrasında da “Henüz işlenmiş olan suç ile suçun işlenmesinden hemen sonra zabıta veya suçtan zarar gören şahıs yahut başkaları tarafından takib edilerek veya suçun pek az evvel işlendiğini gösteren eşya veya izlerle yakalanan kimsenin işlediği suç” biçiminde “suçüstü karinesi” öngörülmüştü. 5320 sayılı Ceza Muhakemesi Kanununun Yürürlük ve Uygulama Şekli Hakkında Kanun’un 01.06.2005 tarihli ve 25772 sayılı Resmî Gazete’de yayımlanarak yürürlüğe giren 18. maddesiyle yürürlükten kaldırılan 3005 sayılı Meşhut Suçların Muhakeme Usulü Kanunu’nda da, suçüstü hâlinde işlenen suçlara ilişkin soruşturma ve kovuşturma usulleri düzenlenmişti.
+
+5271 sayılı CMK’nın “Tanımlar” başlıklı 2. maddesinin (j) bendinde de ‘Suçüstü hâli’nin benzer şekilde;
+
+“1. İşlenmekte olan suçu,
+
+2. Henüz işlenmiş olan fiil ile fiilin işlenmesinden hemen sonra kolluk, suçtan zarar gören veya başkaları tarafından takip edilerek yakalanan kişinin işlediği suçu,
+
+3. Fiilin pek az önce işlendiğini gösteren eşya veya delille yakalanan kimsenin işlediği suçu” ifade ettiği öngörülmüştür.
+
+Doktrinde suçüstü hâlinin unsurları; belli bir suçun bulunması, failin geniş anlamda yakalanmış olması ve failin suçu işlediği an ile geniş anlamda yakalandığı an arasında uzun sürenin geçmemiş olması şeklinde sayılmaktadır. Geniş anlamda yakalama; failin suçu işlediğinin hiç bir şüpheye yer kalmayacak şekilde objektif ve apaçık belli olması şeklinde tanımlanmaktadır. Ancak suçüstü hâlinin varlığı için failin özgürlüğünün de kısıtlanmış olması gerekmemektedir. Nitekim yakalama, aynı zamanda failin suçu işlerken görülmesini ifade etmektedir. Bununla birlikte, suç sırasında sanığın yakalanması suçun apaçıklığını ve objektifliğini daha büyük oranda ortaya koyabilmektedir (Halûk Çolak, Türk Hukukunda Suçüstü Yargılaması, Doktora Tezi, İstanbul Üniversitesi Sosyal Bilimler Enstitüsü, İstanbul – 1998, s. 14.).
+
+Suçüstünün apaçıklığı, suç işlenirken hiç bir şüpheye yer olmaksızın failin görülüp işitilmesi ya da tüm duyusal algıların suçüstünün ortaya çıkarılmasına yardımcı olması (Bozulmuş gıdanın koklanarak ya da tadılarak belirlenmesi gibi) şeklinde gerçekleşebileceği gibi, yetkili makamların işlemleriyle de ortaya çıkarılabilmektedir. Bu anlamda, gizli bir suçta yetkili makamlar elde ettikleri bilgi ve belirtilerden bir suçun işlenmekte olduğunu bilebilmekte ya da tahmin edebilmektedirler. Dolayısıyla, suçüstü hâlinin varlığı için failin eyleminin her durumda herkes tarafından gözlemlenebilir olmasına gerek bulunmamakta, bu hususta yalnızca yetkili makamlarca bilgi edinilmiş olması da yeterli olabilmektedir.
+
+Öte yandan, suçüstü hâlinin varlığı açısından hukukî düzenlemelerde açıkça bir zaman sınırı öngörülmediği göz önüne alındığında, bir zaman sınırlaması getirmek mümkün değildir. Bir olayın hangi ana kadar “suçüstü” olarak nitelendirilebileceği, o olayın özelliklerine, işlenen suça, türüne, işlenme biçimine, icra ile yer ve zaman bakımından gerçekleşen illiyet bağına göre takdir edilmelidir.
+
+Suçüstü hâli doktrinde; dar anlamda ve geniş anlamda suçüstü olmak üzere ikili ayrıma tabi tutulmuştur (Faruk Erem, Ceza Usulü Hukuku, 5. Bası, Sevinç Matbaaası, Ankara – 1978, s. 692, 693.). Konumuza ilişkin olarak, asıl suçüstü ya da dar anlamda suçüstü; CMK’nın 2. maddesinin (j) bendinde yer alan (1) numaralı alt bentteki “işlenmekte olan suç”u ifade etmektedir.
+
+Hem 1412 sayılı CMUK, hem de 5271 sayılı CMK’da “suçüstü hâli”ne bağlanan en önemli hukuki sonuçlardan biri de; genelde koruma tedbirleri, özelde de yakalama işlemi açısından kendisini göstermektedir. Nitekim, toplum içinde etkileri, tepkileri ve sonuçları gözlenebilen sosyal bir olgu olarak “suçüstü hâli”nde işlenen bir eyleme ve bu eylemi gerçekleştirdiği iddia edilen kişiye yönelik yapılan ilk usul işlemi çoğunlukla yakalama işlemidir.
+
+5271 sayılı CMK’nın “Yakalama ve Yakalanan Kişi Hakkında Yapılacak İşlemler” başlıklı 90. maddesinde bu durum;
+
+“(1) Aşağıda belirtilen hâllerde, herkes tarafından geçici olarak yakalama yapılabilir:
+
+a) Kişiye suçu işlerken rastlanması
+
+b) Suçüstü bir fiilden dolayı izlenen kişinin kaçması olasılığının bulunması veya hemen kimliğini belirleme olanağının bulunmaması” biçiminde düzenlenmiştir.
+
+1412 sayılı CMUK’nın 127. maddesinde herkes tarafından yapılabilen yakalama işleminin şartları arasında sayılan asıl meşhud suçta, suçun bu hâlde işlenmesinin yanında failin kaçacağından korkulması veya hüviyetinin hemen tespitinin mümkün olmaması şartlarından biri aranmaktaydı. Ancak 5271 sayılı CMK’nın 90. maddesinin birinci fıkrasının aynı kavrama ilişkin (a) bendinde fiilin işlenmekte olması yeterli görülerek, herkes tarafından yakalama yapılabilmesi için 1412 sayılı CMUK’da öngörülen diğer şartların varlığı aranmamıştır. Söz konusu düzenlemelere göre de; işlenmekte olan bir suç açısından suçüstü hâlinin varlığı için eylemin mutlaka herkes tarafından bilinip görülmesi gerekmemekte olup işlenen suçun niteliğine ve işleniş şekline göre, bu suçtan ve failinden yalnızca yetkili makamlarca bilgi sahibi olunması ve yakalama işleminin doğrudan bu makamlarca yapılması da mümkündür.
+
+b) Mütemadi Suçlarda Suçüstü Hâli
+
+Doktrinde, bir suçun mütemadi suç olmasına bağlanan hukukî sonuçlar daha ziyade; ceza ve usul hukuku açısından, işlenen suçun sayısı, teşebbüs, iştirak, meşru savunma, af, suçun işlendiği yer, zaman, şikâyet ve zamanaşımı gibi hususlar üzerinden ele alınıp değerlendirilmektedir. Ancak, mütemadi suçların suçüstü hâli bakımından da irdelenmesi gerekmektedir.
+
+Doktrinde genel kabul gören görüşe göre; mütemadi suçlar suçüstü hâlinde işlenebilen suçlardır. Dahası, Faruk Erem 1978 yılında, Halûk Çolak da 1998 yılında hazırladıkları eserlerinde, İtalyan CMUK’nın 237. maddesinde, temadinin sona erdiği ana kadar mütemadi suçun suçüstü sayılacağı hususunun açıkça belirtildiğini ifade etmişlerdir (Faruk Erem, s. 694; Halûk Çolak, s. 21-22.). Gerçekten de, 1930 tarihli İtalyan CMUK’un “Suçüstü” başlıklı 237. maddesinin birinci cümlesinde yer alan “Il reato permanente é flagrante fino a che sia cessata la permanenza.” ibaresi “Mütemadi suçta suçüstü, temadinin sona ermesine kadardır.” anlamına gelmektedir. Nitekim bu yöndeki düzenleme, 1988 tarihli İtalyan CMUK’un “Suçüstü Hâli” başlıklı 382. maddesinin ikinci fıkrasında da “Mütemadi suçta suçüstü hali, temadinin sona ermesine kadar devam eder.” anlamına gelecek şekilde “Nel reato permanente lo stato di flagranza dura fino a quando non è cessata la permanenza.” ibaresiyle yer almaktadır.
+Nitekim Türk Hukuk doktrininde de benzer şekilde; mütemadi suçlarda, temadi devam ettikçe suçüstü hâlinin devam ettiği, icra hareketlerinin tamamlanmasının gerekmediği, mütemadi suçu oluşturan icra hareketlerinin bir kısmında, sanığın geniş anlamda yakalanmasının yeterli olduğu, kanuni düzenlemelerde bu konuda bir ayrıma gidilmediği görüşü (Hâluk Çolak, s. 23; Burhan Kuzu, Türk Anayasa Hukukunda ve Muhtelif Kanunlarda Yakalama Müessesesi, İstanbul Üniversitesi Hukuk Fakültesi Mecmuası, S. 1-4, 1985, s. 159.) ve suçüstü hâlinde temadinin sona ereceği görüşü savunulmaktadır (M. Emin Artuk – Ahmet Gökcen – M. Emin Alşahin – Kerim Çakır, s. 268.).
+
+Gelinen noktada, Türk Hukukundaki silahlı örgüt suçuna ve usul hukukuna ilişkin düzenlemelere ayrıca değinilecek olmakla birlikte, faile atılı mütemadi suçun niteliği, suçun işlenme şekli ve geniş anlamda yakalama şartlarının her olayda ayrı ayrı değerlendirilmesi koşuluyla, mütemadi suçlarda genel olarak failin o suça ilişkin devam eden icra hareketlerinin, bu hareketlerin meydana getirdiği hukuka aykırılığın devam ettiğinin, böylelikle o suçun işlenmekte olan bir suç olduğunun ve geniş anlamda yakalama sonucunda somut olayda dar anlamda suçüstü hâlinin var olabileceğinin kabulü gerekmektedir.
+
+Bununla birlikte, objektif olarak suç, ilgili kamu görevlilerine bildirildiği andan sonra suçüstü niteliği kazanmaktadır. Delil ise, yargılama makamlarının görevlerini yaparken kullandıkları bir araçtır. Yargılama makamında yer alan hâkim, önüne getirilen delilleri inceleyerek veya kendi araştırması sonucunda bir hükme varmaktadır. Dolayısıyla bir olayın kanıtlanması, ancak hâkim önüne gelmesinde söz konusu olmaktadır. Suçüstü durumu ise, hâkim kararından sonra kanıtlanmış ya da kanıtlanamamış olabilmektedir. Bu hususta öncelikle kolektif bir yargılama yapılarak sonuca varılması gerekmektedir. Bu bakımdan suçüstü hâli, başlı başına suçun hukuken kanıtlanması anlamına gelmemektedir.
+
+UYARI

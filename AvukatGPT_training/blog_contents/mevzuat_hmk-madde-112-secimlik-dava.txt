@@ -1,0 +1,23 @@
+Seçimlik Dava
+
+HMK  Madde 112
+
+(1) Seçimlik borçlarda, seçim hakkı kendisine ait olan borçlu veya üçüncü kişinin bu hakkı kullanmaktan kaçınması hâlinde, alacaklı seçimlik dava açabilir.
+
+(2) Seçimlik davada mahkeme, talebin hukuka uygun olduğu sonucuna varırsa, seçimlik mahkûmiyet hükmü verir.
+
+(3) Seçimlik mahkûmiyet hükmünü cebrî icraya koyan alacaklı, takibinin konusunu, mahkûmiyet hükmünde yer alan edimlerden birine hasretmek zorundadır. Ancak, bu durum, borçlunun, diğer edimi ifa etmek suretiyle borcundan kurtulma hakkını ortadan kaldırmaz.
+
+## HMK Madde 112 Gerekçesi
+
+Maddenin birinci fıkrasında, seçimlik dava kurumunun yasal çerçevede genel bir tanımı yapılmış ve hangi hâllerde seçimlik davanın açılabileceği hususu hüküm altına alınmıştır.
+
+Seçimlik borç kavramı ile seçimlik dava kavramını birbiriyle karıştırmamak gerekir. Yani her seçimlik borç bir seçimlik dava açılmasına vücut vermez. Seçimlik borçlarda, seçme hakkı borçluya yahut üçüncü bir kişiye bırakılmış ve borçlu yahut üçüncü kişi bu hakkını kullanmaktan kaçınıyorsa ancak bu durumda seçimlik dava açılması söz konusu olacaktır. Seçme hakkı alacaklıya aitse, alacaklının bu durumda seçimlik dava açma imkânı yoktur. Alacaklı, sözü edilen hâlde, hukukî niteliği itibarıyla inşaî bir hak olan seçme hakkını kullanmak suretiyle öncelikle borç konusunu belirli hâle getirecek, borçlu, belirlenen bu edimi yerine getirmeye yanaşmıyorsa, ona karşı seçimlik dava değil; bir eda davası açacaktır.
+
+Seçimlik davada esasında gerçek anlamda bir dava yığılması mevcut değildir. Borcun konusu yani edim ve dolayısıyla talep tektir. Edimin konusunu birbirinin alternatifi olacak şekilde birden fazla şeyin oluşturması edimin de birden fazla olması anlamına asla gelmez.
+
+Maddenin ikinci fıkrasında, seçimlik dava sonucunda mahkemece nasıl bir hüküm verilmesi gerektiği hususuna açıklık getirilmiştir. Seçimlik davada, davacı dava dilekçesinde seçimlik olarak talepte bulunduğu için, mahkemece talebin hukuka uygun bulunduğu sonucuna varılması hâlinde de, verilecek mahkûmiyet kararı seçimlik bir mahkûmiyet kararı olacaktır.
+
+Maddenin üçüncü fıkrasında ise seçimlik mahkûmiyet hükümlerinin cebrî icra yoluyla yerine getirilmesinin nasıl sağlanacağı hususuna açıklık getirilmiştir. Bu çerçevede, seçimlik mahkûmiyet hükmünü cebrî icraya koyan alacaklı, takip hukukunun temel kuralı olan takibin konusunun belirli olması kuralı uyarınca, takibinin konusunu seçimlik mahkûmiyet hükmünde yer alan edim konusu şeylerden birisine hasretmek zorundadır. İcra müdürü de, bu belirleme çerçevesinde, borçluya, hasredilen edimin yerine getirilmesini konu alan bir icra emri çıkartacaktır. Ancak, borçlu, hasredilen ve icra emrinin konusunu oluşturan edimin yerine diğer edimi yerine getirmek suretiyle de takibin son bulmasını sağlayabilecektir. Bu düzenleme sayesinde, sözü edilen hâlde seçme hakkının yine borçluda kalması sağlanacak; alacaklıya geçmesinin de engellenmesi gerçekleştirilmiş olacaktır. Böylelikle, esas itibarıyla bir borçlar hukuku kurumu olan seçimlik borç kurumuyla ilgili yasal düzenlemeyle de paralellik gerçekleştirilmiş olacaktır.
+
+UYARI

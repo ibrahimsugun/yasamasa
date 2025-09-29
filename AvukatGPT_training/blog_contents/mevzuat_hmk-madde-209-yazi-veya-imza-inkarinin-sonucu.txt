@@ -1,0 +1,271 @@
+Yazı veya İmza İnkârının Sonucu
+
+HMK Madde 209
+
+HMK Madde 209 Gerekçesi
+
+HMK 209 (Yazı veya İmza İnkârının Sonucu) Emsal Yargıtay Kararları
+
+(1) Adi bir senetteki yazı veya imza inkâr edildiğinde, bu konuda bir karar verilinceye kadar, o senet herhangi bir işleme esas alınamaz.
+
+(2) Resmî senetlerdeki yazı veya imza inkâr edildiğinde, senetteki yazı veya imzanın sahteliği, ancak mahkeme kararıyla sabit olursa, bu senet herhangi bir işleme esas alınamaz.
+
+(3) Senede dayanılarak verilmiş olan ihtiyati tedbir, o senet hakkındaki sahtelik iddiasından etkilenmez ve gerektiğinde senet sahibi haklarının korunması için yeni tedbirler talep edebilir.
+
+Maddede yazı veya imza inkârının sonucu, 1086 sayılı Kanundaki prensipler korunarak, ancak daha açık şekilde, adî senetlerle resmî senetler için ayrı ayrı düzenlenmiştir.
+
+Birinci fıkrada, adî bir senette yazı ve imza inkâr edildiğinde, bu konuda bir karar verilinceye kadar o senedin bir işleme esas alınmayacağı kuralı tekrarlanmıştır.
+
+İkinci fıkrada resmî senetlerdeki yazı ve imza inkâr edildiğinde, senetteki yazı veya imzanın sahteliği, ancak mahkeme kararıyla sabit olunca, bu senedin herhangi bir işleme esas alınmayacağı hususu düzenlenmiştir. Resmî senedin güven uyandırmasının bir sonucu olarak, resmî senetler sahteliği iddia edilince değil, ancak bir mahkeme kararıyla sabit olunca herhangi bir işleme esas alınamazlar. Adî senetlerle resmî senetler arasındaki bu önemli fark, fıkrada bir kez daha vurgulanmıştır.
+
+Üçüncü fıkrada senede dayanılarak verilmiş olan ihtiyatî tedbir, o senet hakkındaki sahtelik iddiasından etkilenmez ve gerektiğinde senet sahibi haklarının korunması için yeni tedbirler talep edebilir. Bu fıkra daha önce 1086 sayılı Kanundaki düzenlemenin paraleli niteliğindedir. Sahtelik iddiası, o senet hakkında daha önce verilmiş tedbiri etkilemeyecek, hatta yeni tedbirlerin alınması mümkün olabilecektir.
+
+Yargıtay 12. Hukuk Dairesi         2016/31754 E.  ,  2018/3908 K.
+
+Sahtelik iddiasının imza itirazı dışındaki bir nedene (yazıda sahtelik) dayanması halinde Dairemiz, İcra ve İflas Kanunu’nda bir düzenleme bulunmadığından HMK’nun 209. maddesinin uygulanması gerektiği görüşünde iken, daha sonra içtihat değişikliğine gidilerek,senet üzerinde bulunan yazıdaki sahtelik iddiasının borca itiraz niteliğinde olup, bu konunun da İİK’nın 169/a maddesinde düzenlenmiş olması nedeniyle, HMK’nun 209. maddesinin bu yönden de uygulama yerinin olmadığı görüşü benimsenmiştir.
+
+İcra mahkemesi, önüne gelen itiraz ve şikayetleri, İcra ve İflas Kanunu’nda düzenlenen özel usul kurallarını uygulayarak takip hukuku bakımından kesin hükme bağladığından, anılan mahkemenin kararları kural olarak maddi anlamda kesin hüküm niteliği taşımaz. Bu nedenle borca veya imzaya itirazın incelenmesi sırasında sahtelik iddiasına dayalı olarak genel mahkemelerde açılan davaları bekletici mesele yapamayacağı gibi takibin durdurulmasına da karar veremez. Sadece İİK’nun 169/a-2. maddesi uyarınca itirazın esası hakkındaki kararına kadar icra takibinin muvakkaten durdurulmasına karar verebilir. İcra mahkemesince takibe konu alacakla ilgili bir karar verilmiş olması, aynı alacak hakkında genel mahkemelerde dava açılmasına engel oluşturmaz.
+
+Borçlunun sahtelik nedenine dayalı olarak açtığı menfi tespit davası, İİK’nun 72. maddesi kapsamında bir dava olup, anılan maddedeki usule göre mahkemeden alınacak ihtiyati tedbir kararı ile icra takibi durdurulabilir. Sahtelik nedeniyle açılan menfi tespit davası gibi, cumhuriyet savcılığına aynı nedenle yapılan şikayet ve ceza mahkemesinde açılan dava da kendiliğinden icra takibini durdurmaz ve bekletici mesele yapılamaz. Ancak cumhuriyet savcılığı veya ceza mahkemesince tedbir kararı verilirse icra takibi durdurulabilir.
+
+Yukarıda açıklanan ilke ve kurallar ışığında, takibin kesinleşmesi öncesi veya sonrasında takibe konu senedin sahteliğinin iddia edilmesi, HMK’nun 209. maddesi uyarınca takibin durdurulması sonucunu doğurmaz. Anılan hüküm, genel mahkemelerde açılan davalarla ilgili olarak senedin hiçbir işleme esas alınamayacağını, başka bir anlatımla delil olarak kullanılamayacağını öngörmekte olup, icra takibine etkisi yoktur.
+
+YARGITAY 11. HUKUK DAİRESİ 
+Esas : 2017/1389 Karar : 2017/2185Tarih : 17.04.2017
+
+HMK 209. Madde
+
+Yazı veya İmza İnkârının Sonucu
+
+İhtiyati hacze itiraz eden vekili, ihtiyati haciz kararına dayanak genel kredi sözleşmesinde … adına atılı imzanın sahte olduğunu, …. Asliye Ticaret Mahkemesi’nin 2013/666 E sayılı dosyasında görülen menfi tespit davasında icra takibinin durdurulması yönünde ihtiyati tedbir kararı verildiğini, banka tarafından tedbir kararının uygulanmasını engellemek maksadı ile ihtiyati haciz kararı alındığını ve …. İcra Müdürlüğü’nün 2013/13787 E sayılı takip dosyasında uygulandığını ileri sürerek ihtiyati haczin kaldırılmasını talep etmiştir.
+
+İhtiyati haciz talep eden banka vekili, tedbirin icra takibinin durdurulmasına yönelik olduğunu savunarak ihtiyati haciz kararına itirazın red edilmesini istemiştir.
+
+Mahkemece, tüm dosya kapsamına ve uyulan bozma ilamına göre, 6100 sayılı HMK’nın 209. Maddesi hükmünün ihtiyati haciz kararı verilmesine engel olmadığı gerekçesiyle ihtiyati hacze itirazın reddine karar verilmiştir.
+
+Kararı, ihtiyati hacze itiraz eden vekili temyiz etmiştir.
+
+Dosyadaki yazılara, mahkemece uyulan bozma kararı gereğince hüküm verilmiş olmasına ve delillerin takdirinde bir isabetsizlik bulunmamasına göre, ihtiyati hacze itiraz eden (borçlu) vekilinin bütün temyiz itirazları yerinde değildir.
+
+SONUÇ: Yukarıda açıklanan nedenlerden dolayı, ihtiyati hacze itiraz eden (borçlu) vekilinin bütün temyiz itirazlarının reddiyle usul ve kanuna uygun bulunan hükmün ONANMASINA,
+
+aşağıda yazılı bakiye 20,30 TL temyiz ilam harcının temyiz edenden alınmasına, 17/04/2017 tarihinde oybirliğiyle karar verildi.
+
+YARGITAY 12. HUKUK DAİRESİ 
+Esas : 2014/31333 Karar : 2015/6149Tarih : 17.03.2015
+
+HMK 209. Madde
+
+Yazı veya İmza İnkârının Sonucu
+
+Alacaklı vekili tarafından başlatılan bonoya dayalı kambiyo senetlerine mahsus haciz yoluyla takibe karşı borçlu vekilinin borca itirazı üzerine icra mahkemesince takibe konu senet nedeniyle Ağır Ceza Mahkemesindeki yargılama gerekçe gösterilerek HMK 209/1 maddesi uyarınca takibin durdurulmasına karar verildiği, daha sonra Ağır Ceza Mahkemesince sanığın beraatine karar verilmesi üzerine alacaklının bu kararı icra müdürlüğüne ibrazla takibin devamını talep ettiği, icra müdürlüğünce takibin devamına karar verilmesi kararına karşı borçlunun bu karardan dönülmesini talep ettiği, icra müdürlüğünce borçlunun talebinin reddi üzerine borçlunun icra mahkemesine şikayet yoluna başvurduğu, mahkemece Ağır Ceza Mahkemesinin beraat kararının kesinleşmediği gerekçesiyle şikayetin kabulü ile takibin beraat kararı kesinleşinceye kadar durdurulmasına karar verildiği anlaşılmıştır.
+
+İcra ve iflas hukuku, icra ve iflas takiplerinin usul hukuku niteliğindedir. Bu hukuk dalının amacı, bir yandan takip alacaklısının alacağına kavuşması için borçlu veya üçüncü kişilerin çıkarabilecekleri zorlukları ortadan kaldırmak, diğer yandan kötüniyetli takiplere karşı takip borçlusunun kendisini korumasını sağlayacak hukuki çareler bulmak, bu arada takipten etkilenen üçüncü kişilerin menfaatlerini korumak, takip işlemlerinin yapılması sırasında insan hak ve hürriyetlerinin ihlal edilmesini önlemektir. İcra iflas hukukunun en önemli kaynağı İcra Ve İflas Kanunu olup, bu Kanun, icra ve iflas takibinden, tahsile kadar uygulanması gereken usul hükümlerini düzenlemektedir.
+
+6100 sayılı Hukuk Muhakemeleri Kanunu, İcra Ve İflas Kanunu’nda bir hüküm olmayan hallerde, ancak İcra Ve İflas Kanunu’nda açıkça gönderme olması (İİK 50, 68/a-4 gibi) veya bu kanunun özel veya genel hükümlerine aykırı olmaması (zorunlu dava arkadaşlığı) hallerinde uygulanabilir. Bu ilkeler ışığında HMK`nun 209/1. maddesinin ilamsız icra takiplerine etkisi değerlendirilmelidir. Bu maddeye göre “adi bir senetteki yazı veya imza inkar edildiğinde, bu konuda bir karar verilinceye kadar, o senet herhangi bir işleme esas alınamaz.” Bu maddenin icra takiplerinde uygulanması gerektiğine ilişkin olarak İcra Ve İflas Kanununda bir hüküm bulunmamaktadır.
+
+Kambiyo senetlerine özgü haciz yolu ile yapılan takipte, takibe konu kambiyo senedi altındaki imzaya itiraz, İİK’nun 170. maddesinde özel olarak düzenlendiğinden, imza inkarı nedenine dayalı sahtelik iddiası hakkında, sonraki genel kanun olan HMK’nun 209. maddesi uygulanamaz. İmza itirazı, İİK`nun 170/1. maddesi uyarınca satıştan başka icra takip muamelelerini durdurmaz. Ancak icra mahkemesi itirazla ilgili kararına kadar takibin geçici olarak durdurulmasına karar verebilir (İİK 170/2).
+
+Öte yandan sahtelik iddiasının imza itirazı dışındaki bir nedene (yazıda sahtelik) dayanması halinde Dairemiz, İcra Ve İflas Kanunu’nda bir düzenleme bulunmadığından HMK’nun 209. maddesinin uygulanması gerektiği görüşünde iken, daha sonra içtihat değişikliğine gidilerek, senet üzerinde bulunan yazıdaki sahtelik iddiasının borca itiraz niteliğinde olup, bu konunun da İİK’nun 169/a maddesinde düzenlenmiş olması nedeniyle, HMK`nun 209. maddesinin bu yönden de uygulama yerinin olmadığı görüşü benimsenmiştir.
+
+İcra mahkemesi, önüne gelen itiraz ve şikayetleri, İcra Ve İflas Kanunu`nda düzenlenen özel usul kurallarını uygulayarak takip hukuku bakımından kesin hükme bağladığından, anılan mahkemenin kararları kural olarak maddi anlamda kesin hüküm niteliği taşımaz. Bu nedenle borca veya imzaya itirazın incelenmesi sırasında sahtelik iddiasına dayalı olarak genel mahkemelerde açılan davaları bekletici mesele yapamayacağı gibi takibin durdurulmasına da karar veremez. Sadece İİK.nun 169/a-2. maddesi uyarınca itirazın esası hakkındaki kararına kadar icra takibinin muvakkaten durdurulmasına karar verebilir. İcra mahkemesince takibe konu alacakla ilgili bir karar verilmiş olması, aynı alacak hakkında genel mahkemelerde dava açılmasına engel oluşturmaz.
+
+Sahtelik nedeniyle açılan menfi tespit davası gibi, cumhuriyet savcılığına aynı nedenle yapılan şikayet ve ceza mahkemesinde açılan dava da kendiliğinden icra takibini durdurmaz ve bekletici mesele yapılamaz. Ancak cumhuriyet savcılığı veya ceza mahkemesince tedbir kararı verilirse icra takibi durdurulabilir.
+
+Yukarıda açıklanan ilke ve kurallar ışığında, takibin kesinleşmesi öncesi veya sonrasında takibe konu senedin sahteliğinin iddia edilmesi, HMK`nun 209. maddesi uyarınca takibin durdurulması sonucunu doğurmaz. Anılan hüküm, genel mahkemelerde açılan davalarla ilgili olarak senedin hiçbir işleme esas alınamayacağını, başka bir anlatımla delil olarak kullanılamayacağını öngörmekte olup, icra takibine etkisi yoktur.
+
+O halde, yukarıda yazılı gerekçeye dayalı olarak şikayetin reddine karar verilmesi gerekirken aksi yönde hüküm tesisi isabetsizdir.
+
+Üye M.Uslu`nun karşı oy yazısı:
+
+Yargıtay İçtihadı Birleştirme Büyük Genel Kurulunun 08.12.1982 günlü 1982/4 Es. ve 1982/4 Ka. sayılı kararına göre “Türkiye Cumhuriyeti Anayasası`nın 142. maddesi hükmüne göre, mahkemelerin görevleri kanunla düzenlenir. Öte yandan, 5 Aralık 1977 tarihli, 4/4 sayılı Yargıtay İçtihadı Birleştirme Kararında da açıklandığı üzere, mahkemelerin görevi kamu düzeni ile ilgili olup kıyas veya yorum ile genişletilmesi yahut değiştirilmeleri mümkün bulunmamaktadır. Şayet kanunda açıklık yoksa, görev genel mahkemelere aittir.”
+
+Hukuk Genel Kurulunun 16.04.2014 tarihli 2013/12-1310 Es. ve 2014/532 Ka. sayılı ilamına göre  icra mahkemesinin yetkisi  sınırlıdır.
+TC. Anayasasının 6. maddesine göre; "Hiçbir kimse veya organ kaynağını Anayasadan almayan bir Devlet yetkisi kullanamaz.", 36.maddesine göre; "Herkes, meşru vasıta ve yollardan faydalanmak suretiyle yargı mercileri önünde davacı veya davalı olarak iddia ve savunma ile adil yargılanma hakkına sahiptir.", 37.maddesine göre; Hiç kimse kanunen tabi olduğu mahkemeden başka bir merci önüne çıkarılamaz. Bir kimseyi kanunen tabi olduğu mahkemeden başka bir merci önüne çıkarma sonucunu doğuran yargı yetkisine sahip olağanüstü merciler kurulamaz.", 142. maddesine göre;`Mahkemelerin kuruluşu, görev ve yetkileri, işleyişi ve yargılama usulleri kanunla düzenlenir.”
+
+Hükümlerinin mahiyeti itibariyle herkese veya her olaya uygulanması mümkün olan kanunlara genel kanun,  belli kişilere veya belli olaylara uygulanan kanunlara ise özel kanun denilmektedir. İcra ve İflas Kanunu özel, Hukuk Muhakemeleri Kanunu ise genel kanundur.
+
+Kambiyo senetlerinde İİK.’nun 169/a maddesi gereğince dar yetkili icra mahkemesi imza inkarı dışındaki sahtecilik iddiasını inceleyemez. Çünkü bu maddede incelenebilecek itiraz sebepleri; a) İtfa, b) İmhal, c) Zamanaşımı ve d) İmzaya  itiraz olmak üzere  sınırlı olarak sayılmıştır. Senette sahtecilik iddiasını inceleme görevi genel yetkili mahkemelere aittir. İmza itirazı da borca itirazdır. Yasa koyucu imza itirazının inceleme şeklini ayrıntılı olarak İİK.’nun 170. maddesinde düzenlediği halde sahtecilik itirazının incelenme şeklini İİK.’nda düzenlememiştir. Yasa koyucunun böyle bir iradesi olsa idi sahtecilik itirazının incelenme şeklini de belirlerdi. Takip hukukunda düzenlenmeyen bir konuda yorum yolu ile görevli olunduğunu söylemek Anayasa’ya, İİK.`nuna ve İçtihadı birleştirme kararına açıkça aykırılık oluşturmaktadır.
+
+İcra ve İflas Kanunu icra takip hukuku açısından Hukuk Muhakemeleri Kanunu’na göre özel kanun olup, takip hukukuna ilişkin uyuşmazlıklarda öncelikle İcra ve İflas Kanunu hükümlerinin, bu kanunda hüküm bulunmayan durumlarda ise anılan kanuna aykırılık teşkil etmemek koşuluyla genel nitelikte olan Hukuk Muhakemeleri Kanunu hükümlerinin uygulanması gerekir. Sahtelik iddiasının imza inkarı dışında bir nedene dayanması durumunda İcra ve İflas Kanunu`nda özel bir düzenleme bulunmadığından burada 6100 sayılı HMK.nun 209. maddesinin uygulanması gerekir ve  bu maddenin amir hükmü gereğince icra takibi olduğu yerde durur. Bunun için sahtelik iddiasının ileri sürüldüğü mahkemece ayrıca tedbir kararı verilmesi gerekmez. Borçlu tarafından icra dairesine başvurulması halinde icra müdürlüğünce anılan madde uyarınca sahtelik davası sonuna kadar icra takibinin durdurulması gerekir. İcra müdürünün kararının taraflarca İİK.nun 16/2.maddesi uyarınca süresiz şikayet konusu yapılabileceği tabidir. Öte yandan borçlu tarafından doğrudan icra mahkemesine başvurulmasına da yasal engel olmadığı gibi, hakim, 6100 sayılı HMK.nun 209/1. maddesini re’sen nazara almalıdır. Pek tabidir ki mahkemece sahtelik iddiasının imza inkarı dışındaki bir nedene dayandığının belirlenmesi halinde takip hukukunun özelliği ve acele karar verilmesi gerekliliğinin bir sonucu olarak, sahtelik davası bekletici mesele yapılmadan, sahtelik davasında karar verilinceye kadar icra takibinin durdurulmasına karar verilmesi gerekir.
+
+Şartları oluşmasına rağmen HMK.’nun 209 maddesinin takip hukukunda uygulanmaması halinde borçlu ancak İİK.’nun 72/3. maddesi gereğince icra kasasına yüklü miktarda para yatırarak icra veznesindeki paranın alacaklıya verilmemesini isteyebilir. Bu uygulama da 2011 yılında yürürlüğe giren yasanın borçluya tanıdığı hakların ortadan kaldırılması sonucunu doğurur. Borçlunun ekonomik durumu zayıf ise tamamen korunaksız olduğu için takip işlemleri sonuna kadar gidecek, haczi kabil malları, hak ve alacakları elinden çıkacak, ceza mahkemesinin senedin iptali kararı kesinleştiğinde kötü niyetli takip alacaklısına zararını telafi ettiremeyecektir. Çünkü kötü niyetli alacaklının haczi kabil hak ve alacağına ulaşılamayacaktır. Bu husus göz göre göre borçlunun haksızlığa uğramasına sebep olacağı için hukuka aykırı olacaktır. Senette sahtecilikten dolayı dava açıldığında HMK.`nun 209.maddesi gereğince takibin olduğu yerde durdurulması halinde ise bu aşamaya kadar borcu karşılayacak miktarda hak ve alacak haczedileceği, alacak tahsil edilene kadar faiz işletileceği için alacaklının alacağına geç kavuşmaktan başka zararı olmayacaktır.
+
+Somut olayda; takibe konulan senetle ilgili olarak İstanbul Anadolu 1. Ağır Ceza Mahkemesi`nin 2012/623 Es. sayılı dosyasında dolandırıcılık ve resmi belgede sahtecilik iddiası ile kamu davası açıldığı, dosyanın halen derdest olduğu ve bu dosyaya dayanarak mahkemece karar kesinleşene kadar takibin durdurulmasına karar verildiği görülmüştür.
+
+Yukarıda belirttiğim gerekçelerle mahkeme kararının Anayasaya, HMK.’ya, İİK.`na, Yargıtay İçtihadı Birleştirme Büyük Genel Kurulunun kararına ve Yargıtay Hukuk Genel Kurulunun kararına uygun olduğundan dolayı onanması gerektiğini düşünüyorum.
+
+YARGITAY 12. HUKUK DAİRESİ 
+Esas : 2014/9313 Karar : 2014/11766Tarih : 22.04.2014
+
+HMK 209. Madde
+
+Yazı veya İmza İnkârının Sonucu
+
+Sair temyiz itirazları yerinde değil ise de;
+
+İcra ve iflas hukuku, icra ve iflas takiplerinin usul hukuku niteliğindedir.
+
+Bu hukuk dalının amacı, bir yandan takip alacaklısının alacağına kavuşması için borçlu veya üçüncü kişilerin çıkarabilecekleri zorlukları ortadan kaldırmak, diğer yandan kötüniyetli takiplere karşı takip borçlusunun kendisini korumasını sağlayacak hukuki çareler bulmak, bu arada takipten etkilenen üçüncü kişilerin menfaatlerini korumak, takip işlemlerinin yapılması sırasında insan hak ve hürriyetlerinin ihlal edilmesini önlemektir. 
+İcra iflas hukukunun en önemli kaynağı İcra Ve İflas Kanunu olup, bu Kanun, icra ve iflas takibinden, tahsile kadar uygulanması gereken usul hükümlerini düzenlemektedir.
+
+6100 Sayılı Hukuk Muhakemeleri Kanunu, İcra Ve İflas Kanununda bir hüküm olmayan hallerde, ancak İcra Ve İflas Kanunu`nda açıkça gönderme olması (İİK 50, 68/a-4 gibi) veya bu kanunun özel veya genel hükümlerine aykırı olmaması (zorunlu dava arkadaşlığı) hallerinde uygulanabilir.
+
+Bu ilkeler ışığında HMK’nun 209/1. maddesinin ilamsız icra takiplerine etkisi değerlendirilmelidir. Bu maddeye göre 
+“ adi bir senetteki yazı veya imza inkar edildiğinde, bu konuda bir karar verilinceye kadar, o senet herhangi bir işleme esas alınamaz.”Bu maddenin icra takiplerinde uygulanması gerektiğine ilişkin olarak İcra Ve İflas Kanununda bir hüküm bulunmamaktadır.
+
+Kambiyo senetlerine özgü haciz yolu ile yapılan takipte, takibe konu kambiyo senedi altındaki imzaya itiraz, İİK’nun 170. maddesinde özel olarak düzenlendiğinden, imza inkarı nedenine dayalı sahtelik iddiası hakkında, sonraki genel kanun olan HUMK`nun 209. maddesi uygulanamaz.
+
+İmza itirazı, İİK`nun 170/1. maddesi uyarınca satıştan başka icra takip muamelelerini durdurmaz. Ancak icra mahkemesi itirazla ilgili kararına kadar takibin geçici olarak durdurulmasına karar verebilir (İİK 170/2).
+
+Öte yandan sahtelik iddiasının imza itirazı dışındaki bir nedene (yazıda sahtelik) dayanması halinde Dairemiz, İcra Ve İflas Kanunu’nda bir düzenleme bulunmadığından HMK’nun 209. maddesinin uygulanması gerektiği görüşünde iken, daha sonra içtihat değişikliğine gidilerek, senet üzerinde bulunan yazıdaki sahtelik iddiasının borca itiraz niteliğinde olup, bu konunun da İİK’nun 169/a maddesinde düzenlenmiş olması nedeniyle, HMK`nun 209. maddesinin bu yönden de uygulama yerinin olmadığı görüşü benimsenmiştir.
+
+İcra mahkemesi, önüne gelen itiraz ve şikayetleri, İcra Ve İflas Kanunu`nda düzenlenen özel usul kurallarını uygulayarak takip hukuku bakımından kesin hükme bağladığından, anılan mahkemenin kararları kural olarak maddi anlamda kesin hüküm niteliği taşımaz. Bu nedenle borca veya imzaya itirazın incelenmesi sırasında sahtelik iddiasına dayalı olarak genel mahkemelerde açılan davaları bekletici mesele yapamayacağı gibi takibin durdurulmasına da karar veremez.
+Sadece İİK.nun 169/a-2. maddesi uyarınca itirazın esası hakkındaki kararına kadar icra takibinin muvakkaten durdurulmasına karar verebilir. İcra mahkemesince takibe konu alacakla ilgili bir karar verilmiş olması, aynı alacak hakkında genel mahkemelerde dava açılmasına engel oluşturmaz.
+
+Borçlunun sahtelik nedenine dayalı olarak açtığı menfi tespit davası, İİK’nun 72. maddesi kapsamında bir dava olup, anılan maddedeki usule göre mahkemeden alınacak ihtiyati tedbir kararı ile icra takibi durdurulabilir. Sahtelik nedeniyle açılan menfi tespit davası gibi, cumhuriyet savcılığına aynı nedenle yapılan şikayet ve ceza mahkemesinde açılan dava da kendiliğinden icra takibini durdurmaz ve bekletici mesele yapılamaz. Ancak cumhuriyet savcılığı veya ceza mahkemesince tedbir kararı verilirse İcra takibi durdurulabilir. Yukarıda açıklanan ilke ve kurallar ışığında, takibin kesinleşmesi öncesi veya sonrasında takibe konu senedin sahteliğinin iddia edilmesi, HMK`nun 209. maddesi uyarınca takibin durdurulması sonucunu doğurmaz. Anılan hüküm, genel mahkemelerde açılan davalarla ilgili olarak senedin hiçbir işleme esas alınamayacağını, başka bir anlatımla delil olarak kullanılamayacağım öngörmekte olup, icra takibine etkisi yoktur.
+
+Somut olayda borçlu şirket icra mahkemesine başvurusunda aleyhine yapılan kambiyo senetlerine özgü haciz yolu ile takipte dayanak senedin sahteliğine ilişkin Konya 4. Ağır Ceza Mahkemesi’nde sahtecilik suçundan dava açıldığını beyanla HMK`nun 209/1. maddesi uyarınca takibin durdurulmasını talep etmiş, mahkemece söz konusu ceza dosyası gerekçe gösterilerek takibin durdurulması istemi kabul edilmiştir.
+
+Borçlunun bu itirazı borca itiraz niteliğinde olup İİK 168/5 fıkrası uyarınca ödeme emrinin tebliğinden itibaren 5 günlük yasal süre içinde icra mahkemesinde ileri sürülmelidir. Mahkemece öncelikle süre yönünden inceleme yapılması, itirazın süresinde olduğu sonucuna varılır ise İİK 169/a ve 170/a maddeleri uyarınca inceleme yapılarak sonucuna göre karar verilmesi gerekirken yazılı gerekçe ile hüküm tesisi isabetsizdir.
+
+Alacaklının temyiz itirazlarının kabulü ile mahkeme kararının yukarıda yazılı nedenlerle ( BOZULMASINA ),  ilamın tebliğinden itibaren 10 gün içinde karar düzeltme yolu açık olmak üzere,oybirliğiyle karar verildi.
+
+TÜRK MİLLETİ ADINA
+T.C.
+KONYA 3. İCRA HUKUK MAHKEMESİ 
+GEREKÇELİ KARAR
+ESAS NO : 2013/1332
+KARAR NO : 2014/11
+İCRA D. NO : KONYA 8. İCRA MÜDÜRLÜĞÜ 2012/958
+HAKİM  : MUHAMMET GÖKTAŞ 31544
+YAZI İŞLERİ MÜDÜRÜ : RAHİME BOLAKAR 57981
+DAVACI : KANBOLAT NAK. OTO İNŞ SAN.TİC.LTD ŞTİ. -
+VEKİLİ : Av. OSMAN KOÇ - Şerafettin Cd.Akifpaşa Sk.Hayat
+İşh.No:6 Kat:3/303 42020 Karatay/ KONYA 
+DAVALI    : NİZAMETTİN KARADAĞ-27077183684
+Süleyman Çelebi Mah. Erenkaya Cad. 3.Evkur Sitesi 4/1 Selçuklu/ KONYA
+DAVA    : Şikayet (İcra Memur Muamelesi)
+DAVA TARİHİ    : 30/12/2013
+KARAR TARİHİ    : 07/01/2014
+KARARIN YAZILDIĞI TARİH    : 07/01/2013
+
+Mahkememizde görülmekte bulunan Şikayet (İcra Memur Muamelesi) davasının dosya üzerinden yapılan incelemesi sonunda,
+
+GEREĞİ DÜŞÜNÜLDÜ: Davacı vekili mahkememize sunduğu dava dilekçesi ile; davalı alacaklı tarafça müvekkili aleyhine bonoya dayalı olarak başlanılan icra takibi sırasında 27/12/2013 tarihli ilk talebi ile, dosyadan haczedilen araçların 6 aylık süre içerisinde satışlarının istenilmemesinden dolayı araçlar üzerindeki hacizlerin düştüğünü bu nedenle İİK’nun 106. Ve 110. Maddesi uyarınca araçlar üzerindeki hacizlerin ve yakalama şerhlerinin kaldırılması ile, takibe konu senet ile ilgili olarak müvekkilinin ilgililer hakkında Savcılığa şikayeti üzerine TKC’nun 158/1 -h sevk maddesi ile nitelikli dolandırıcılıktan Konya 4. Ağır Ceza Mahkemesinin dava açıldığını dilekçeler ekinde sunmuş oldukları iddianame ve bilirkişi raporu ile takibin HMK’nun 209/1. Maddesi gereğince durdurulmasını talep ettiklerini, icra müdürlüğünce de 42 CUN 53 plakalı aracın fiili haczi ve muhafazası ipin Zara İcra Müdürlüğünce yazılan talimat cevap verilmediğinden bu araç için satış isteme süresi hesaplanamadığından bu araç haricindeki araçlar üzerindeki hacizlerin ve yakalama şerhlerinin kaldırılmasına karar verildiğini,HMK’nun 209/1- Maddesine ilişkin talep yönünden de doya durumu ve talebin niteliği gereği dosyanın incelemeye alınmasına karar verildiğini, bu karar üzerine ikinci bir talep ile 42 CUN 53 plaka sayılı araç üzerindeki haczin kaldırılmasını talep ettiklerini ve bu taleplerinin de araç üzerine 12/12/2013 tarihinde haciz konulduğundan ve 6 aylık sürenin dolmadığından bahisle reddine karar verildiğini, müvekkili şirket yetkilisinin icra müdürlüğünce 27/12/2013 tarihinde müracaat ederek 42 DAK 59 plaka sayılı araç üzerindeki haczin kaldırılmasına ilişkin talebinin de yine 6 aylık süre dolmadığından bahisle reddine karar verildiğini beyan ederek icra müdürlüğünün taleplerinin reddine dair kararlarının iptali ile fiilen hacizli araçların müvekkili şirkete teslimi ve 42 CUN 53 Plaka sayılı araç kaydındaki hacizlerin fekkine karar verilmesini ve ayrıca Konya 4. Ağır Ceza Mahkemesinde devam eden 2013/318 esas sayılı dosyası sonuçlanıncaya kadar HMK`nun 209/1. Maddesi gereğince icra takibinin durdurulmasına karar verilmesini talep etmiştir.
+
+Davaya konu icra takip dosyası celp edilerek tetkik edilmiştir.
+
+İncelenen icra takip dosyası ve tüm dosya kapsamı ile, Her ne kadar icra müdürlüğünce davacı tarafın şikayete konu araçlar üzerine konulan hacizlerin kaldırılmasına ilişkin talebinin 42 CUN 53 ve 42 DAK 59 plaka sayılı araçlar haricindeki diğer araçlar yönünden kabulü ederek bu iki araç yönünden 6 .aylık satış isteme süresi dolmadığından bahisle talebin reddine karar vermiş ise de, talep üzerine söz konusu araçların kaydına 01/02/2012 tarihinde İhtiyati haciz konulduğu, 19/06/2013 tarihinde ise yakalama şerhinin işlendiği, 19/06/2013 tarihinde yakalama avansının yatırıldığı, 42 DAK 59 PLAKA sayılı aracın 16/07/2013 tarihinde, 42 CUN 53 Plaka sayılı aracında 12/12/2013 tarihinde yakalandığı, ancak haciz tarihinden sonra satışının yasal 6 aylık süre içerisinde talep edilmediği gibi herhangi bir avansında yatırılmadığı, icra müdürlüğünce de satış yönünde bir kararın bulunmadığı kaldı ki davacı vekilinin araçlar üzerideki haczin kaldırılması yönündeki ilk talebinde 42 CUN 53 plaka sayılı araçlar haricindeki tüm araçlar yönünden karar verildiği, dolayısı ile 42 DAK 59 plaka sayılı araç yönünden de kaydi haczin kaldırıldığı, bu nedenle kaydi haczin kaldırılarak fiili haczin devamına karar verilmesi usul ve yasaya uygun bulunmamıştır. Açıklanan nedenler ile davacının bu yöndeki şikayetinin kabulü ile araçlar üzerindeki haczin kaldırılmasına karar vermek gerekmiştir.
+
+Davacı tarafça aynı zamanda halen Konya 4. Ağır Ceza Mahkemesinin 2013/318 esasında devam eden ve takip konusu bonoya İlişkin olarak açılan dolandırıcılık davası sonuçlanıncaya kadar takibin HMK’nun 209/1. Maddesi gereğince durdurulması talep edilmiştir. Yargılama sırasında icra müdürlüğünce takibin durdurulmasına ilişkin davacı tarafın talebinin reddine karar verilmiştir. Yargıtay Hukuk Genel Kurulunun 2010/12-493 Esas 2010/491 Karar sayılı kararı ile “… 5237 sayılı Türk Ceza Kanunu’nun “Resmi Belge Hükmündeki Belgeler” başlıklı 210. maddesinin birinci fıkrasında yer alan;”Özel belgede sahtecilik suçunun konusunun, emre veya hamile yazılı kambiyo senedi, emtiayı temsil eden belge, hisse senedi, tahvil veya vasiyetname olması halinde, resmi belgede sahtecilik supuna ilişkin hükümler uygulanır.” hükmüyle, kambiyo senetlerine “resmi belgede sahtecilik supuna ilişkin hükümlerin uygulanacağı” kabul edilmiş; aynı Kanunun 204. maddesinde de resmi belgedeki sahteciliğe ilişkin müeyyide düzenlenmiştir.
+Takip dayanağı senet hakkında borçlunun “İmza itirazı” ile birlikte veya “sahtelik iddiası ile şikayette” bulunmasından sonra alacaklı hakkında sup duyurusunda bulunması nedeniyle “sahtecilik suçu``ndan dolayı kamu davası açılmış olması durumunda, bu davanın icra takibine etkisinin ne olacağına ilişkin açık bir yasal düzenleme 2004 sayılı İcra ve iflas Kanunu’nda bulunmamaktadır. Bu nedenle, 1086 sayılı Hukuk Usulü Muhakemeleri Kanunu’nun 317. maddesinin 2. cümlesinden (Yeni 6100 Sayılı Kanunun 209. maddesi )yararlanarak soruna bir çözüm getirmek gerektiği yargısal uygulamada kabul edilmiştir ( Hukuk Genel Kurulu’nun 22.01.2003 gün ve 2003/12-3 E.2003/28 K.; 06.02.2008 gün ve 2008/12-77 E. 2008/90 K. sayılı kararları ). Nitekim, 1086 sayılı Hukuk Usulü Muhakemeleri Kanunu’nun 317. maddesinin; “Sahtelik iddiası 308’inci madde ile mevaddı mütaakıbesi ahkamına tevfikan tetkik olunur. Sahteliği iddia kılınan senedin ehlihibre marifetiyle tetkik ve tatbikına ve vakayi ve hadisattan haberdar olanların istimaına karar verildiği takdirde bu kabil senedat, neticei hükme kadar bir güna muameleye esas ittihaz kılınmaz. Ancak bu senede müsteniden evvelce ittihaz edilen ihtiyati tedbirlere de halel gelmez ve ledelhace senet sahibi hukukunun muhafazası zımnında sair ihtiyati tedbirlere de tevessül edebilir.”şeklindeki hükmü ile de, hukuk yada ceza mahkemesinde dava açılmış ve o davada mahkemece sahteliği iddia edilen senet hakkında, inkar edilen imzanın borçluya ait olup olmadığı yönünde bilirkişi incelemesi yapılmasına ve senedin yazıldığını görenlerin tanık olarak dinlenmesine karar verilmiş ise, senedin dava sonuçlanıncaya kadar hiçbir işleme dayanak yapılamayacağı, düzenlenmiştir…” denilmek sureti ile hüküm altına alındığı yine Yargıtay 12. Hukuk Dairesinin 2012/30400-6078 esas karar sayılı ilamında bonodaki sahtelik itirazının imza inkarı dışında bir nedene dayanması durumunda İİK’da özel olarak düzenlenme bulunmadığından sorunun çözümlenmesi için 6100 sayılı HMK’nun 209. Maddesinin uygulanması gerektiğinin hüküm altına alındığı görülmüştür. Dosyanın incelenmesinde takibe konu bonoya dayalı olarak Konya 4. Ağır Ceza Mahkemesine açılmış olan ve davalı alacaklının şüpheli sıfatıyla yargılandığı bir ceza davasının olduğu; bu davada supa konu eylemin eski şirket ortağının geçmişe yönelik bono düzenleyerek devrettiği şirketi borçlandırmak yolu ile dolandırıcılık dolayısı ile imza inkarı dışında senedin sahteliği iddia edildiğinden HMK`nun 209/1. Maddesi gereğince takibin durması gerektiği anlaşılmakla, davacının bu yönden de şikayetinin kabulüne ve takibin Konya 4. Ağır Ceza Mahkemesinde görülmekte olan ceza davasının sonuçlanıncaya kadar durdurulmasına ilişkin aşağıdaki hüküm kurulmuştur.
+
+H Ü K Ü M : Gerekçesi yukarıda açıklandığı üzere;
+
+1.Davacının şikayetinin KABULÜNE,
+
+Konya 8. İcra Müdürlüğünün 2012/958 esas sayılı takıp dosyasından 42 CUN 53 ve 42 DAK 59 plaka sayılı araçlar üzerindeki hacizlerin ve yakalamaların KALDIRILMASINA,
+
+Konya 8. İcra Müdürlüğünün 2012/958 esas sayılı icra takibinin Konya 4. Ağır Ceza Mahkemesinin 2013/318 esas sayılı davası sonuçlanıncaya kadar HMK’nun 209/1.Maddesi gereğince DURDURULMASINA,
+
+2.Peşin alınan harcın mahsubu ile başkaca harç alınmasına yer olmadığına,
+
+3.Davacı tarafça yapılan yargılama giderlerinin davacı üzerinde bırakılmasına,
+
+4.Davacı tarafça yatırılan gider avansından bakiye kalan kısmın karar kesinleştiğinde ve talep halinde davacı tarafa iadesine,
+
+Dair, tarafların yokluğunda, tebliğ tarihinden itibaren 10 günlük Yargıtay temyiz yolu açık olmak üzere verilen karar açıkça okunup, usulen anlatıldı.07/01/2014
+
+YARGITAY 19. HUKUK DAİRESİ
+Esas : 2016/3822 Karar : 2016/7721Tarih : 28.04.2016
+
+HMK 209. Madde
+
+Yazı veya İmza İnkârının Sonucu
+
+Mahkemece 05.05.2015 vade tarihli ve 10.000.000,00 TL bedelli senede dayalı olarak ihtiyati haciz kararı verilmiştir.
+
+İtiraz edenler vekili, müvekkillerinin yerleşim yeri Mersin olduğundan ihtiyati haciz kararı veren mahkemenin yetkisiz olduğunu, senedin sonradan doldurulmuş olması sebebiyle senet metnindeki Adana mahkemelerinin yetkili olduğuna dair yetki kaydının kabul edilmediğini, senetteki yetki kaydının lehtar ile keşideci bakımından geçerli olduğunu, 3. kişi banka ile müvekkilleri arasında herhangi bir yetki sözleşmesi bulunmadığından bu kaydın bağlayıcı olmadığını, senet metni müvekkilleri tarafından düzenlenmemiş olup müvekkillerinin iradesine aykırı olarak sonradan doldurulmuş olması sebebiyle HMK’nın 209. maddesi hükmü uyarınca sahtelik iddiasında bulunduklarını, ödememe protestolarının tebliği beklenmeksizin ihtiyati haciz kararı verildiğini ileri sürerek, ihtiyati haciz kararının kaldırılmasını istemiştir
+
+Talep eden vekili, talep konusu bonodaki yetki kaydı gereği …mahkemelerinin yetkili olduğunu, müvekkilinin iyi niyetli hamil olduğundan tarafların iradesine aykırı olarak bu bononun doldurulduğu iddiasının müvekkiline karşı ileri sürülemeyeceğini iddia ederek, itirazın reddine karar verilmesini istemiştir.
+
+Mahkemece duruşmalı olarak yapılan inceleme sonunda; bonodan kaynaklanan alacak aranılacak nitelikte olup bu alacağın alacaklısı tarafından borçluların yerleşim yeri adresinde ihtiyati haciz talebinde bulunulması gerektiği, HMK’nın 17. maddesi hükmü uyarınca itiraz eden borçluların tacir oldukları iddia ve ispat edilemediği için yetki kaydının geçerli olmadığı gerekçesiyle borçlular yönünden ihtiyati haciz kararına karşı yapılan itirazın kabulü ile ihtiyati haciz kararının iptaline karar verilmiş, hüküm talep eden vekilince temyiz edilmiştir.
+
+Talep konusu bononun tanzim tarihi 20.09.2010 olup bonoda Adana mahkemelerinin yetkili olduğuna dair yetki şartı bulunmaktadır.
+
+6100 sayılı HMK’nın 448. maddesine göre; bu Kanun hükümleri tamamlanmış işlemleri etkilememek kaydıyla derhal uygulanır. Anılan hüküm karşısında talep konusu bono 20.09.2010 tarihinde tanzim edilmekle tamamlanmış işlem niteliğindedir. Tanzim tarihinde yürürlükte bulunan … sayılı HUMK’un 22. maddesinin uygulanması gerekirken mahkemece 6100 sayılı HMK’nın 17. maddesinin gerekçe yapılması doğru görülmemiştir.
+
+Talep, bonoda yetkili olarak gösterilen Adana mahkemesine yapıldığına göre İİK’nın 50. maddesi yollamasıyla 1086 sayılı HUMK’un 22. maddesi karşısında itiraz edenlerin yetki itirazları yerinde olmadığı gibi diğer itirazları da İİK’nın 265. maddesi kapsamında sayılan sebeplerden olmadığından itirazın reddine karar verilmesi gerekirken yazılı şekilde karar verilmesi de isabetsizdir.
+
+SONUÇ : Yukarıda açıklanan nedenlerle talep eden banka vekilinin temyiz itirazlarının kabulü ile kararın BOZULMASINA, peşin harcın istek halinde iadesine, 28.04.2016 gününde oybirliğiyle karar verildi.
+
+YARGITAY 11. HUKUK DAİRESİ
+Esas : 2016/1324 Karar : 2016/1482Tarih : 15.02.2016
+
+HMK 209. Madde
+
+Yazı veya İmza İnkârının Sonucu
+
+İhtiyati hacze itiraz eden/borçlu vekili, ihtiyati hacze dayanak genel kredi sözleşmesinde müvekkili adına atılı imzanın sahte olduğunu, … 10. Asliye Ticaret Mahkemesinin 2013/566 esas sayılı dosyasında görülen menfi tespit davasında icra takibi başlatılması halinde icra takibinin durdurulması yönünde ihtiyati tedbir kararı verildiğini, tedbirin Banka’ya bildirildiği halde Banka’nın tedbir kararının uygulanmasını engellemek maksadıyla ihtiyati haciz kararı aldığını ileri sürerek, ihtiyatı haczin kaldırılması talep edilmiştir.
+
+Mahkemece, HMK’nın 209. maddesine göre sahtelik iddia edilen belgenin bu konuda karar verilinceye kadar hiçbir işleme esas alınamayacağı, nitekim esas mahkemenin de aynı maddeye dayalı olarak ihtiyati hacizden önceki tarihte tedbir kararı verdiği gerekçesiyle, itirazın kabulü ile ihtiyati haciz kararının … yönünden kaldırılmasına karar verilmiştir.
+
+Karar, ihtiyati haciz talep eden/alacaklı vekili tarafından temyiz edilmiştir.
+
+Talep, ihtiyati hacze itiraz istemine ilişkindir.
+
+Mahkemece yukarıda özetlendiği üzere itirazın kabulüne karar verilmiş ise de 6100 sayılı HMK’nın 209. maddesi hükmü ihtiyati haciz konulmasına engel olmadığı gibi ihtiyati tedbir kararı takibin durdurulmasına ilişkin olup, ihtiyati haciz kararı verilmesine engel bir durum oluşturmadığından, itirazın reddine karar verilmesi gerekirken, yazılı gerekçeyle kabulü isabetli görülmemiş ve hükmün bozulması gerekmiştir.
+
+SONUÇ: Yukarıda açıklanan nedenlerle, ihtiyati haciz talep eden/alacaklı vekilinin temyiz isteminin kabulü ile hükmün temyiz eden yararına BOZULMASINA, ödediği temyiz peşin harcın isteği halinde temyiz edene iadesine, 15/02/2016 tarihinde oybirliğiyle karar verildi.
+
+YARGITAY 15. HUKUK DAİRESİ 
+Esas : 2015/607 Karar : 2015/6464Tarih : 17.12.2015
+
+HMK 209. Madde
+
+Yazı veya İmza İnkârının Sonucu
+
+Dava, eser sözleşmesi uyarınca bakiye iş bedeli alacağının tahsili istemiyle girişilen icra takibine vâki itirazın iptâline ilişkindir. Davalılar, davanın reddini savunmuş, mahkemece davanın reddine dair verilen karar, davacı vekilince temyiz edilmiştir.
+
+Taraflar arasındaki uyuşmazlık, 01.08.2011 tarihli asıl ve 24.08.2001 tarihli, 17.09.2011 tarihli ek sözleşmelerden kaynaklanmıştır. Davacı yüklenici, davalılar iş sahibidir. Davada sözleşmeler uyarınca yükümlenilen imalâtların tamamlandığı, 03.02.2012 tarihinde davalı … tarafından teslim alındığı, bu belgede yapılan hesaplama sonucu 168.406,06 TL iş bedelinden 96.800,00 TL’nin ödendiği, bakiye borç 71.600,00 TL’nin 7 iş günü içinde ödeneceğinin kabul edildiği, bu belgeye dayanarak alacağın tahsili istemiyle yapılan takibe davalıların itirazları üzerine eldeki davanın açıldığı, itirazın iptâline karar verilmesi istenmiştir. Davalı …‘nun tutanaktaki imzanın kendisine ait olmadığı iddiasıyla C.Savcılığına yaptığı suç duyurusu üzerine savcılıkça yaptırılan bilirkişi incelemesi sonucu imzanın davalı …‘ya ait olduğu saptanmış, soruşturmaya yer olmadığına karar verilmiş, bu karara yapılan itiraz reddedilmiştir. Anılan belge, sözleşmelerin tasfiyesi ve kesin hesabın çıkartılmasına ilişkin olup, davacı da buna dayanarak istemde bulunduğundan, davalının imzaya itirazının incelenerek değerlendirilmesi, uyuşmazlığın çözümü için zorunludur. Mahkemece teslim tutanağındaki imzanın davalı tarafından dosyaya sunulan uzman görüşüne göre davalıya ait olmadığı anlaşıldığından belgeye itibar edilmeyerek yaptırılan bilirkişi incelemesiyle hüküm kurulması doğru olmamıştır. Yapılması gereken iş; anılan belgedeki davalı … ‘nun bilirkişi incelemesine esas olacak şekilde mahkeme huzurunda örnek imzalarını almak, tatbiki ve resmi kayıtlardaki imzaları istenerek, … ‘nden rapor almak
+
+(HMK 209.md.), imzanın …‘ya ait olduğu saptandığında bu belgeyi esas almak, belgenin düzenleme tarihinden sonra varsa gizli ayıpların bedellerini kalan alacaktan mahsupla ve davalıların sözleşmeler kapsamındaki sorumlulukları gözetilerek hüküm kurmak, belgenin geçersiz olması durumda şimdiki gibi hükme varmaktan ibarettir.
+
+Bu hususlar üzerinde durulmadan eksik incelemeyle verilen karar usul ve yasaya aykırı olmuş, kararın bu nedenle bozulması gerekmiştir.
+
+SONUÇ:Yukarıda açıklanan nedenlerle temyiz olunan kararın temyiz eden davacı yararına BOZULMASINA, Yargıtay duruşmasında vekille temsil edilmediğinden davacı yararına vekâlet ücreti takdirine yer olmadığına, ödediği temyiz peşin harcının istek halinde temyiz eden davacıya geri verilmesine, karara karşı tebliğ tarihinden itibaren 15 gün içinde karar düzeltme isteminde bulunulabileceğine 17.12.2015 gününde oybirliğiyle karar verildi.
+
+YARGITAY 6. HUKUK DAİRESİ 
+Esas : 2015/4534 Karar : 2015/7489Tarih : 15.09.2015
+
+HMK 209. Madde
+
+Yazı veya İmza İnkârının Sonucu
+
+Dava, kesinleşen icra takibi sebebiyle kiralananın tahliyesi istemine ilişkindir. Mahkemece, davanın reddine karar verilmiş, karar Dairemizin 12.11.2013 gün ve 2013/13017-2013/15168 sayılı ilamı ile onanması üzerine davacı vekili karar düzeltme isteminde bulunmuştur.
+
+Davacı vekili dava dilekçesinde, ödenmeyen kira alacaklarının tahsili için davalı hakkında icra takibi yaptıklarını, ödeme emri davalıya tebliğ edildiği halde yasal sürede itiraz edilmediği gibi ödemede yapılmadığını belirterek temerrüde düşen davalının kiralanandan temerrüt nedeniyle tahliyesini istemiştir. Davalı 02.05.2012 tarihli cevap dilekçesinde davanın reddini, 18.06.2012 tarihli verdiği cevap dilekçesinde ise 30.04.2012 tarihli feragat sözleşmesi ile davacının davadan feragat ettiğini savunmuş, mahkemece davadan feragat edildiği gerekçesiyle davanın reddine karar verilmiştir.
+
+Davada dayanılan ve hükme esas alınan 01.02.2011 tarihli ve 1 yıl süreli kira sözleşmesi konusunda ve kira ilişkisi konusunda taraflar arasında bir uyuşmazlık bulunmamaktadır. Davacı alacaklı tahliye talepli olarak başlattığı icra takibi ile ödenmeyen Aralık 2011 bakiye 275 TL, Ocak 2012 bakiye 925 TL, ve Şubat 2012 ayı için 1.000TL olmak üzere toplam 2.200 TL’nin tahsilini istemiş, ödeme emri davalıya 29.02.2012 günü tebliğ edilmiş, 30 günlük süreden sonra ödeme yapıldığı gerekçesi ile iş bu tahliye davası ise 02.04.2012 günü açılmıştır.
+
+Davacı tarafın davadan feragat edildiğine ilişkin belgenin sahte olduğuna ve davalının kendisini dolandırdığına ilişkin davalı hakkında yaptığı suç duyurusu üzerine, … Cumhuriyet Başsavcılığı’nın 2013/104598 soruşturma numaralı dosyasında davalı hakkında, davacının dışında 9 kişiyi daha sahte resmi evrak düzenleyerek dolandırdığı şüphesiyle soruşturmanın yürütüldüğü anlaşılmaktadır. Hukuk Hakimi ceza davasında verilecek mahkumiyet kararı ile bağlı olup, beraat kararı verilmesi halinde ise ceza Hakiminin sabit kabul ettiği olgularla bağlıdır. (BK 53. TBK 74) Bu durumda HMK 209 (HUMK 317) maddeleri de gözetilip, davalı hakkında dolandırıcılık ve sahtecilikle ilgili yürütülen ceza soruşturmasının, ceza davası açıldığı takdirde sonucunun bekletici mesele yapılarak ona göre bir karar verilmesi gerektiği bu seferki incelemeden anlaşıldığından davacı vekilinin karar düzeltme isteminin kabulü ile mahkeme kararının bozulması gerekmiştir.
+
+SONUÇ: Yukarıda açıklanan nedenlerle davacının karar düzeltme isteminin kabulü ile Dairemizin 12.11.2013 gün ve 2013/13017-2013/15168 sayılı onama kararının kaldırılmasına, mahkemenin 16.05.2013 tarih 2012/538 E- 2013/467 K sayılı kararının yukarıda belirtilen gerekçe ile BOZULMASINA, istek halinde peşin alınan karar düzeltme ve temyiz harcının düzeltme isteyene iadesine, 15.09.2015 tarihinde oybirliğiyle karar verildi.
+
+YARGITAY 19. HUKUK DAİRESİ
+Esas : 2015/5032 Karar : 2015/8566Tarih : 10.06.2015
+
+HMK 209. Madde
+
+Yazı veya İmza İnkârının Sonucu
+
+İhtiyati hacze itiraz eden vekili, ihtiyati haciz talebine konu çekin müvekkili şirketin eski yöneticisi olan… ün yetkisi dışında ve müvekkili şirketin güveni kötüye kullanılarak sahte olarak düzenlendiğini ve ihtiyati haciz kararını veren mahkemenin yetkisiz olduğunu ileri sürerek, ihtiyati haciz kararının kaldırılmasını talep etmiştir.
+
+İhtiyati haciz talep eden vekili, ihtiyati haciz talebine konu çekin çıkış bodrosunda… Adliyesinin yetkili olduğu belirtildiğinden yetki itirazında bulunduğunu, dava konusu çekin faktoring firması olan müvekkiline müşterisi… Ltd. Şti. tarafından 01.09.2014 tarih 808242 numaralı faturanın bedeli olarak verildiğini ve karşılığında kredi kullandırıldığını, müvekkilinin iyi niyetli meşru hamil olduğunu ileri sürerek, itirazın reddini istemiştir.
+
+Mahkemece duruşmalı olarak yapılan inceleme sonunda; çekteki keşide yeri, muhatap banka ve borçlunun ikametgahı… olduğundan yetkiye yönelik itirazın reddine, itiraz eden vekilinin itiraz dilekçesine konu çekin yetkisiz çalışan tarafından imza edildiği ve güveni kötüye kullanma suçundan hakkında soruşturma başlatıldığına ilişkin iddiaların İİK’nın 265. maddesi kapsamında incelenemeyeceği, ancak esasa ilişkin dava kapsamında incelenebileceği, her ne kadar HMK’nın 209. maddesinde sahteliği iddia olunan belgenin herhangi bir işleme esas alınamayacağı düzenlemesi mevcut ise de savcılığın soruşturma kapsamında tedbir kararını kaldırdığı, ihtiyati haczin bir muhafaza tedbiri olduğu, sahtelik iddiasının ihtiyati haciz kararı verilmesine engel teşkil etmeyeceği gerekçesiyle, itirazın reddine karar verilmiş, hüküm itiraz eden vekilince temyiz edilmiştir.
+
+Dosyadaki yazılara kararın dayandığı delillerle gerektirici sebeplere, delillerin takdirinde bir isabetsizlik bulunmamasına göre, ihtiyati hacze itiraz eden vekilinin yerinde görülmeyen bütün temyiz itirazlarının reddiyle usul ve kanuna uygun bulunan hükmün ONANMASINA, 10.06.2015 gününde oybirliğiyle karar verildi.
+
+UYARI

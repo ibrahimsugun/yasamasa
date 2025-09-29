@@ -1,0 +1,417 @@
+Sonradan Delil Gösterilmesi
+
+HMK Madde 145
+
+HMK Madde 145 Gerekçesi
+
+HMK 145 (Sonradan Delil Gösterilmesi) Emsal Yargıtay Kararları
+
+(1) Taraflar, Kanunda belirtilen süreden sonra delil gösteremezler. Ancak bir delilin sonradan ileri sürülmesi yargılamayı geciktirme amacı taşımıyorsa veya süresinde ileri sürülememesi ilgili tarafın kusurundan kaynaklanmıyorsa, mahkeme o delilin sonradan gösterilmesine izin verebilir.
+
+Uygulamada, davaların uzamasının temel sebeplerinden birinin de gereksiz yere yeni delil sunulması ve bu konuda taraflara verilen sürelere uyulmaması olduğu bilinmektedir.
+
+Maddenin ilk fıkrasıyla, Kanunda belirtilen sürelerden sonra, davada yeni delil sunulmasının yasak olduğu kural olarak benimsenmiştir. Fakat iki istisna kabul edilmiştir. Yeni delil sunulması talebi yargılamayı geciktirme amacı taşımıyorsa veya delilin süresinde sunulmaması ilgili tarafın kusuru dışında bir sebebe dayanıyorsa, hâkim gerekçesini de belirtmek şartıyla, yeni delil sunulmasına izin verebilir. Bu şekilde delil sunma kuralına istisna getirilmesi, hukukî dinlenme hakkının tabiî bir sonucudur.
+
+Hukuk Genel Kurulu         2017/2626 E.  ,  2021/814 K.
+
+Hukuk Muhakemeleri Kanunu’nun “Ön İnceleme Duruşmasına Davet” başlıklı 139. maddesi, yargılama sırasında tamamlanmış işler bakımından uygulanması gereken ve 28.07.2020 tarihli ve 31199 sayılı Resmî Gazete’de yayımlanarak yürürlüğe giren 7251 sayılı Hukuk Muhakemeleri Kanunu ile Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun’un (7251 sayılı Kanun) 13. maddesiyle yapılan değişiklikten önceki hâliyle; “Mahkeme, dilekçelerin karşılıklı verilmesinden ve yukarıdaki maddelerde belirtilen incelemeyi tamamladıktan sonra, ön inceleme için bir duruşma günü tespit ederek taraflara bildirir. Çıkarılacak davetiyede, duruşma davetiyesine ve sonuçlarına ilişkin diğer hususlar yanında, taraflara sulh için gerekli hazırlığı yapmaları, duruşmaya sadece taraflardan birinin gelmesi ve yargılamaya devam etmek istemesi durumunda, gelmeyen tarafın yokluğunda yapılan işlemlere itiraz edemeyeceği ve diğer tarafın, onun muvafakati olmadan iddia ve savunmasını genişletebileceği yahut değiştirebileceği ayrıca ihtar edilir.” şeklinde düzenlenmiştir. Aynı Kanun’un 140/5. maddesi, yargılama sırasında yürürlükte olan 7251 sayılı Kanun’un 14. maddesiyle yapılan değişiklikten önceki hâliyle; “Ön inceleme duruşmasında, taraflara dilekçelerinde gösterdikleri, ancak henüz sunmadıkları belgeleri mahkemeye sunmaları veya başka yerden getirtilecek belgelerin getirtilebilmesi amacıyla gereken açıklamayı yapmaları için iki haftalık kesin süre verilir. Bu hususların verilen kesin süre içinde tam olarak yerine getirilmemesi hâlinde, o delile dayanmaktan vazgeçilmiş sayılmasına karar verilir.” hükmünü haizdir. Anılan emredici düzenlemeye göre taraflar, delil olarak dayandıkları belgeleri dilekçelerine ekleyerek vermek ya da başka yerden getirilecekse, bunu belirtmek zorundadırlar. Şayet taraflar, bu konuda yapmaları gereken işlemleri eksik bırakmışlarsa, tahkikata başlamadan önce taraflara son kez kısa bir süre verilerek bu eksiklikleri tamamlamaları düşünülmüştür. Taraflar bu şanslarını da doğru kullanamazlarsa, artık tahkikat mevcut delillerle yürütülecek ve tarafların o delile dayanmaktan vazgeçtikleri kabul edilecektir. Ön inceleme duruşmasında tayin edilen kesin süreye uyulmaması, HMK’nın 145. maddesinin birinci cümlesinde “Taraflar, Kanunda belirtilen süreden sonra delil gösteremezler.” şeklinde yaptırıma bağlanarak davayı uzatmaya yönelik kötü niyetli davranışların önüne geçilmesi amaçlanmıştır. Dolayısıyla dilekçelere eklenip sunulmamış ve daha sonra ön incelemede ek olarak bildirilen kesin süre içinde de verilmemiş delillere tahkikat içerisinde kural olarak dayanılamaz.
+
+Hukuk Muhakemeleri Kanunu’nun 145. maddesinde belirtilen ve tarafın etki alanı dışında kalan çok özel durumlar dışında, sonradan delil sunulması hâlinde bu deliller dikkate alınmamalıdır (Pekcanıtez H./ Atalay, O./ Özekes,M.: Medeni Usul Hukuku Ders Kitabı, 3. Bası, Ankara 2015, s. 328, 332). Belirtilen hükümlerden de anlaşılacağı üzere gerek davacı gerekse davalı bakımından delil gösterme ile delil sunma ayrı kavramlar olarak ele alınmıştır. Dava ve cevap dilekçelerinde iddia edilen vakıaların hangi delillerle ispatlanacağının belirtilmesi zorunluluğundan söz edildikten sonra, eldeki belgelerin dilekçelere eklenmesi, elde bulunmayan belgeler için ise nereden getirtileceği konusunda bilgi verilmesi gerektiği açıkça öngörülmüştür. Hemen belirtilmelidir ki; yasa koyucu, tarafların kanunda belirtilen süreden sonra delil gösteremeyecek olmalarını emredici bir düzenlemeyle benimsedikten sonra, bunun istisnasını da HMK’nın 145. maddesinin ikinci cümlesinde; “Ancak bir delilin sonradan ileri sürülmesi yargılamayı geciktirme amacı taşımıyorsa veya süresinde ileri sürülememesi ilgili tarafın kusurundan kaynaklanmıyorsa, mahkeme o delilin sonradan gösterilmesine izin verebilir.” şeklinde ifade etmiş olup mahkeme, anılan istisnaya ilişkin düzenlemedeki şartlar dâhilinde sunulan delilin sonradan gösterilmesine izin verebilecektir. Sözü edilen maddede, tarafların Kanun’da belirtilen süreden sonra delil gösteremeyeceklerine ilişkin olarak getirilen istisnanın, dava ve cevap dilekçelerinde hiç delil belirtmeyen, ön inceleme aşamasında da delillerini sunmayan veya toplanması için gerekli işlemleri yapmayan tarafların, tahkikat aşamasında delil bildirme haklarının olduğu şeklinde anlaşılması mümkün değildir.
+
+Görüldüğü üzere, HMK’nın sistematiği içinde; tahkikat aşamasına geçilmezden evvel tarafların uyuşmazlık konularının ve bu uyuşmazlıkların çözümü için ileri sürdükleri delillerin daha işin en başında belirlenerek tahkikatın etkin bir şekilde yapılmasının hedeflendiği anlaşılmaktadır. Zira tahkikatın amacı, kural olarak delil toplamak değil, delilleri incelemek ve değerlendirmektir; aksi hâlde tahkikat tamamlanamaz ve yargılama uzar. Bu sebeple HMK’nın 145. maddede belirtilen ve tarafın etki alanı dışında kalan çok özel durumlar dışında, sonradan delil sunulması hâlinde bu deliller dikkate alınmamalıdır. Ancak tekraren belirtilmelidir ki; yargılama sırasında yürürlükte olan HMK’nın 139 ve 140. maddelerinin, 7251 sayılı Kanun ile yapılan değişikliklerden önceki emredici hükümleri uyarınca, taraflara dilekçelerin teatisi aşamasında gösterdikleri, ancak sunmadıkları belgeleri sunmak ve ellerinde mevcut olmayan belgelerin de getirtilebilmesi için gereken açıklamayı yapmak üzere tahkikata başlamadan önce son kez kesin süre verilmesi zorunlu olup anılan kurallara aykırılık HMK’nın 27. maddesinde düzenlenen hukukî dinlenilme hakkının ihlali niteliğindedir.
+
+YARGITAY 2. HUKUK DAİRESİ 
+Esas : 2016/21309 Karar : 2018/8388Tarih : 2.07.2018
+
+HMK 145. Madde
+
+Sonradan Delil Gösterilmesi
+
+1-Hukuk Muhakemeleri Kanununun 119/l-(f) hükmü uyarınca, gerek yazılı gerekse basit yargılama usulünde, iddia edilen her bir vakıanın hangi delillerle ispat edileceğinin, dava dilekçesinde belirtilmesi gerekir. Delillerin bildirilmesi hakkındaki bu düzenleme, Hukuk Muhakemeler Kanunun’da kabul edilen somutlaştırma yükünün de bir gereğidir. Ön inceleme duruşmasında, taraflara dilekçelerinde gösterdikleri, ancak henüz sunmadıkları belgeleri mahkemeye sunmaları veya başka yerden getirtilecek belgelerin getirtilebilmesi amacıyla gereken açıklamayı yapmaları iki haftalık kesin süre verilir. Bu hususların verilen kesin süre içinde tam olarak yerine getirilmemes hâlinde, o delile dayanmaktan vazgeçilmiş sayılmasına karar verilir (HMK m.140/5). Bu madde metninde vurgulanması gereken husus ‘dilekçelerinde gösterdikleri” ibaresinin kullanılmış olmasıdır. Taraflar, Kanunda belirtilen süreden sonra delil gösteremezler (HMK m. 145).
+
+Dava dilekçesinde davacı kadın, tanık delilline dayanmamış, ön inceleme duruşmasından sonra sunmuş olduğu dilekçe ile tanık bildirmiş, bildirilen bu tanıklar dinlenilerek davacı kadının davasının kabulü ile tarafların boşanmalarına karar verilmiştir. Davacı kadın, dava dilekçesinde tanık deliline dayanmadığına göre dayanılmayan delilin bildirilmesi için ön inceleme aşamasında verilen süre sonuç doğurmaz ve bu tanıkların beyanları kusur belirlemesinde dikkate alınamaz (HGK 20.04.2016 tarih, 2014/695 ve 2016/522 karar sayılı kararı). Gerçekleşen bu durum karşısında mahkemece; yukarıda açıklanan sebeplerle, davalı erkeğe yüklenecek kusurlu bir davranış ispatlanamadığından davacı kadının davasının reddine karar verilmesi gerektiği halde, boşanma davasının kabulüne karaı verilmesi usul ve kanuna aykırıdır. Ancak bu yön temyiz edilmediğinden bozma nedeni yapılmamış, yanlışlığa değinilmekle yetinilmiştir.
+
+2- Davalı erkeğin temyiz itirazlarının incelenmesinde;
+
+a-Dosyadaki yazılara, kararın dayandığı delillerle kanuna uygun sebeplere ve özellikle delillerin takdirinde bir yanlışlık görülmemesine göre, davalı erkeğin aşağıdaki bendin kapsamı dışında kalan temyiz itirazları yersizdir.
+
+b-Mahkemece davalı erkek tamamen kusurlu kabul edilerek tarafların boşanmalarına ve davacı kadının maddi-manevi tazminat taleplerinin kabulüne karar verilmiş ise de; yukarıda birinci bentte açıklanan sebepler nedeniyle boşanmaya sebep olan olaylarda davalı erkeğe atfı mümkün bir kusurun ispatlanamadığı anlaşılmakladır. Hal böyleyken, davalı erkeğin tamamen kusurlu kabul edilmesi bu hatalı kusur belirlemesine bağlı olarak şartları oluşmadığı halde kadın yararına maddi ve manevi tazminata (TMK m. 174/1-2) hükmedilmesi doğru olmayıp bozmayı gerektirmiştir.
+
+SONUÇ: Temyiz edilen hükmün yukarıda 2-b bendinde gösterilen sebeple BOZULMASINA, bozma kapsamı dışında kalan temyiz itirazlarının ise yukarıda 2-a bendinde gösterilen sebeple ONANMASINA, temyiz peşin harcının istek halinde yatırana geri verilmesine, işbu kararın tebliğinden itibaren 15 gün içinde karar düzeltme yolu açık olmak üzere oybirliğiyle karar verildi. 02.07.2018 (Pzt.)
+
+YARGITAY 2. HUKUK DAİRESİ 
+Esas : 2016/19522 Karar : 2018/7070Tarih : 31.05.2018
+
+HMK 145. Madde
+
+Sonradan Delil Gösterilmesi
+
+Hukuk Muhakemeleri Kanununun 119/l-(f) hükmü uyarınca, gerek yazılı gerekse basit yargılama usulünde, iddia edilen her bir vakıanın hangi delillerle ispat edileceğinin, dava dilekçesinde belirtilmesi gerekir. Delillerin bildirilmesi hakkındaki bu düzenleme, Hukuk Muhakemeleri Kanunun’da kabul edilen somutlaştırma yükünün de bir gereğidir. Ön inceleme duruşmasında, taraflara dilekçelerinde gösterdikleri, ancak henüz sunmadıkları belgeleri mahkemeye sunmaları veya başka yerden getirtilecek belgelerin getirtilebilmesi amacıyla gereken açıklamayı yapmaları iki haftalık kesin süre verilir. Bu hususların verilen kesin süre içinde tam olarak yerine getirilmemesi hâlinde, o delile dayanmaktan vazgeçilmiş sayılmasına karar verilir (HMK m.140/5). Bu madde metninde vurgulanması gereken husus ‘dilekçelerinde gösterdikleri” ibaresinin kullanılmış olmasıdır. Taraflar, Kanunda belirtilen süreden sonra delil gösteremezler (HMK m. 145).
+
+Dava dilekçesinde davacı karşı davalı erkek, tanık delilline dayanmamış, nüfus kaydını delil olarak göstermiş, 09.12.2015 tarihli dilekçesi ile tanık bildirmiş, bildirilen bu tanıklar dinlenilerek davacı karşı davalı erkeğin davasının kabulü ile tarafların boşanmalarına karar verilmiştir. Davacı karşı davalı erkek, dava dilekçesinde tanık deliline dayanmadığına göre dayanılmayan delilin bildirilmesi için ön inceleme aşamasında verilen süre sonuç doğurmaz ve bu tanıkların beyanları kusur belirlemesinde dikkate alınamaz (HGK 20.04.2016 tarih, 2014/695 ve 2016/522 karar sayılı kararı). Gerçekleşen bu durum karşısında mahkemece; yukarıda açıklanan sebeplerle,davalı-karşı davacı kadına yüklenecek kusurlu bir davranış ispatlanamadığından davacı-karşı davalı erkeğin davasının reddine karar verilmesi gerektiği halde, boşanma davasının kabulüne karar verilmesi usul ve kanuna aykırı olup, bozmayı gerektirmiştir.
+
+SONUÇ: Temyiz edilen hükmün yukarıda gösterilen sebeple BOZULMASINA, bozma sebebine göre sair yönlerin şimdilik incelenmesine yer olmadığına, temyiz peşin harcının istek halinde yatırana geri verilmesine, işbu kararın tebliğinden itibaren 15 gün içinde karar düzeltme yolu açık olmak üzere oybirliğiyle karar verildi. 31.05.2018 (Prş.)
+
+YARGITAY 8. HUKUK DAİRESİ
+Esas : 2014/27709 Karar : 2017/3124Tarih : 7.03.2017
+
+HMK 145. Madde
+
+Sonradan Delil Gösterilmesi
+
+Davacı Hazine vekili, dava konusu … ada … parsel sayılı taşınmazın devletin hüküm ve tasarrufu altında bulunan yerlerden olduğu ve davalı lehine 3402 sayılı Yasa’nın 14. ve 17. maddesinde belirtilen şartların oluşmadığı gerekçeleriyle dava konusu taşınmazın tapusunun iptali ile Hazine adına tesciline karar verilmesini istemiştir.
+
+Davalı …, dava konusu taşınmazın murislerinden intikal ettiğini ve tarım arazisi olduğunu açıklayarak davanın reddine karar verilmesini savunmuştur.
+
+Mahkemece, dava konusu taşınmazın son 15 yıldır kullanılmayan taşlık ve bor halinde olduğu, tarımsal faaliyetin yapılmadığı, 20 yıldan fazla süredir malik sıfatıyla zilyetliğin bulunmadığı gerekçeleriyle davanın kabulüne, taşınmazın tapu kaydının iptali ile aynı vasıf ve mesaha ile davacı Hazine adına tesciline karar verilmesi üzerine; hüküm, davalı tarafından temyiz edilmiştir.
+
+Dava, yazılı yargılama usulüne (HMK. md. 118-186) tabidir. Dava dilekçesinin davalılara tebliğinden (HMK. md. 122) sonra hangi usuli işlemlerin yapılacağı 6100 sayılı HMK’nun 122 vd. maddelerinde; yargılamadaki dilekçelerin değişimi (HMK. md. 126-136), ön inceleme (HMK. md. 137-142) kesitleriyle ilgili usulü işlemlerin tamamlanması, varsa dava şartları ve ilk itirazlar hakkında bir karar verilmesi (HMK.md.138), yoksa tahkikat aşamasına (HMK. md. 143 vd.) geçilerek sonucuna göre karar verilmesi şeklinde gösterilmiştir. 6100 sayılı HMK’nda kesitli yargılama öngörülmüş olup, ön inceleme duruşması ile tahkikat aşaması kesitleri ayrı belirlenerek, ön inceleme ve tahkikat duruşmasının bir arada yapılması koşulları yine yasada gösterilmiştir.
+
+6100 sayılı HMK’na göre, dilekçelerin karşılıklı verilmesinden sonra, ön inceleme yapılması zorunludur (m. 137/1). Mahkeme ön incelemede; dava şartlarını ve ilk itirazları inceler, uyuşmazlık konularını tam olarak belirler, hazırlık işlemleri ile tarafların delillerin sunmaları ve delillerin toplanması için gereken işlemleri yapar, tarafların üzerinde serbestçe tasarruf edebileceği davalarda onları sulhe veya arabuluculuğa teşvik eder ve bu hususları tutanağa geçirir. Ön inceleme tamamlanmadan ve gerekli kararlar alınmadan tahkikata geçilemez ve tahkikat için duruşma günü verilemez (m. 137/2). Şu halde, dava şartları ve ilk itirazlar hakkında dosya üzerinden karar verilmesi mümkün ise de, bu yönlerden yapılan inceleme tamamlandıktan sonra tahkikat için duruşma günü tebliğ edilip, taraflara bildirilmesi usulen zorunludur. Çünkü tahkikat, tarafların ön inceleme duruşmasında anlaşamadıkları hususlar esas alınarak yürütülecektir (m. 140/3).
+
+Somut olaya gelince; Mahkemece düzenlenen tensip tutanağında ön inceleme duruşmasının 07.12.2012 tarihinde yapılmasına karar verilmiş, davalıya dava dilekçesi, tensip zaptı ve duruşma günü tebliğ edilmiş; ancak davalı taraf belirlenen ön inceleme duruşmasına gelmemiştir. Mahkemece, ön inceleme duruşması yapılmasına karar verildiği, davalının duruşmaya gelmediği ve ön inceleme duruşmasında dava usule ilişkin sebeplerle karara bağlanmayıp tahkikat aşamasına geçildiğine göre, davalının HMK’nun 147/1 maddesi gereğince tahkikat duruşmasına davet edilmesi zorunludur. Bu yasal zorunluluğun gereği yapılıp, davalının tahkikat duruşmasında bulunmasına olanak sağlanmaksızın, davanın esası hakkında hüküm kurulması, davalının hukuki dinlenilme hakkına (HMK md. 27) aykırı olmuştur.
+
+Diğer yandan HMK’nun 280.maddesinde (HUMK’nun 282. m.) “Bilirkişi, raporunu varsa kendisine incelenmek üzere teslim edilen şeylerle birlikte bir dizi pusulasına bağlı olarak Mahkemeye verir, verildiği tarih rapora yazılır ve duruşma gününden önce birer örneği taraflara tebliğ edilir” denmektedir. Buradaki amaç tarafların raporu okuyup değerlendirmeleri ve varsa itirazlarını bildirebilmeleridir. Bu durumda, taraflara raporun tebliğ edilmesi ve sonrasında taraflarca rapora itiraz edilmemesi halinde rapor itiraz etmeyen bakımından kesinleşir. Artık rapora itiraz etme imkanı ortadan kalkar. Bu husus kesin sürelerle ilgili düzenlemelerin de bir sonucudur. Mahkemece, 12.04.2014 tarihli keşif sonrasında alınan bilirkişi raporları da davalı tarafa tebliğ edilmemiştir. Bilirkişi raporlarının HMK’nun 280. maddesi (HUMK’nun 282. m.) davalıya tebliğ edilmemesi de yukarıda zikredilen hukuki dinlenilme hakkının ihlali anlamındadır.
+
+Taraflar yargılamanın her aşamasında yargılamada başarı olanaklarını zayıflatacak her türlü sunumdan bilgi edinme hakkına sahiptirler. Bu hakkın ihlali de AİHM tarafından AİHS’nin ihlali olarak kabul edilmektedir. O halde davalı tarafa, ülkemizin de tarafı olduğu ve Anayasa’nın 90. maddesi gereği iç hukukun bir parçası olan Avrupa İnsan Hakları Sözleşmesi’nin 6., 1982 Anayasası’nın 36. maddesinde yer alan adil yargılanma dolayısıyla hukuki dinlenilme hakkı da gözetilerek özellikle, davalı tarafın HMK’nun 147/1 maddesi gereğince tahkikat duruşmasına davet edilmesi, HMK’nun 280.maddesi (HUMK’nun 282. mad.) gereği bilirkişi raporlarının usule uygun şekilde tebliğ edilerek itirazlarını sunması için süre ve imkan verilmesi, bu hususta gerekirse HMK’nun 145. maddesinin de göz önünde tutulması, ondan sonra tüm deliller toplanıp birlikte değerlendirilip sonucuna göre bir hüküm kurulması gerekirken, davalı tarafın savunma hakkının kısıtlanması sonucunu doğuracak şekilde yargılamaya devam edilerek işin esasına ilişkin hüküm kurulması doğru olmamıştır.
+
+SONUÇ: Davalının temyiz itirazları bu bakımdan yerinde olduğundan kabulü ile hükmün 6100 sayılı HMK’nun Geçici 3. maddesi yollamasıyla 1086 sayılı HUMK’nun 428. maddesi uyarınca BOZULMASINA, bozma nedenine göre işin esasına yönelen temyiz itirazlarının bu aşamada incelenmesine yer olmadığına, taraflarca HUMK’nun 440/I maddesi gereğince Yargıtay Daire ilamının tebliğinden itibaren ilama karşı 15 gün içinde karar düzeltme isteğinde bulunulabileceğine, 07.03.2017 tarihinde oybirliğiyle karar verildi.
+
+YARGITAY 22. HUKUK DAİRESİ
+Esas : 2013/5656 Karar : 2014/4645Tarih : 4.03.2014
+
+HMK 145. Madde
+
+Sonradan Delil Gösterilmesi
+
+Davacı, asıl işveren olan davalı Milli Savunma Bakanlığına ait işyerinde alt işveren işçisi olarak çalıştığını, iş sözleşmesinin haksız şekilde işverence feshedildiğini ileri sürerek, kıdem ve ihbar tazminatları ile bir kısım işçilik alacağının hüküm altına alınmasını talep etmiştir.
+
+Davalı vekili, müvekkili ile davacının çalışma kaydını bildiren işverenler arasında asıl işveren-alt işverenlik ilişkisi bulunmadığını, ihale makamı olan davalının işçilik alacaklarından sorumlu tutulamayacaklarını savunarak davanın reddini talep etmiştir.
+
+Mahkemece, toplanan deliller ve bilirkişi raporuna dayanılarak, davalının iş sözleşmesini fesihte haksız olduğu gerekçesiyle davanın kısmen kabulüne karar verilmiştir.
+
+Karar davalı tarafça temyiz edilmiştir.
+1-Dosyadaki    yazılara toplanan delillerle kararın dayandığı kanuni gerektirici sebeplere göre, davalının aşağıdaki bendin kapsamı dışında kalan temyiz itirazları yerinde değildir,
+
+2-Davacı    işçinin fazla çalışma yapıp yapmadığı hususu taraflar arasında uyuşmazlık konusudur.
+
+Somut olayda, hükme esas alınan bilirkişi raporunda fazla mesai konusunda hesap yapılırken davacı şahit anlatımları dikkate alınarak tüm çalışma dönemi aynı şekilde çalıştığı kabul edilmiştir.
+
+Mahkemece fazla çalışma konusunda sadece bu iki şahit anlatımına dayanılarak davacının çalışma düzeni açıklığa kavuşturulmadan hüküm kurulması hatalıdır.
+
+Oysa çalışmanın geçtiği yer resmi kuruma ait olup işyerinde yapılan çalışmalara ilişkin görev tanımları, hizmet alım sözleşmeleri, işyerine giriş ve çıkışları gösteren kayıtlar ile puataj belgeleri dosya arasına alınmalı, işyerinde kaç personel çalıştığı, bunların sözü edilen işyerinde haftada kaç gün, kaç saat çalıştıkları, işçilerin tümü için aynı saatlerde mi yoksa nöbet usulüne göre mi çalışmalar yapıldığı belirlenip tüm deliller birlikte değerlendirilerek gerekirse işyerinde uzman bilirkişi aracılığıyla keşif yapılarak fazla mesai alacağının varlığı saptanmalıdır.
+
+Mahkemece yazılı şekilde eksik inceleme ile karar verilmesi hatalı olup bozmayı gerektirmiştir.
+
+Temyiz olunan kararın yukarıda yazılı sebeplerden ( BOZULMASINA ), oyçokluğu ile karar verildi.
+
+KARŞI OY
+Davacı işçinin fazla mesai alacağının hüküm altına alınması talebinin kabulüne ilişkin mahkeme kararı sayın çoğunluk tarafından eksik inceleme yapıldığı gerekçesiyle bozulmuştur.
+
+Bozma kararında da belirtildiği üzere fazla çalışma yapıldığı iddiası işyeri kayıtları, işyerine giriş ve çıkışı gösteren belgeler, işyeri içi yazışmalar gibi yazılı delillerle kanıtlanabildiği gibi, yazılı belgenin bulunmaması halinde tanık delili ile de ispat edilebilmesi mümkündür. Bunun dışında herkesçe bilinen genel bazı vakıalar, işçinin fiilen yaptığı işin niteliği ve yoğunluğu da göz önünde bulundurulur.
+
+Davacı işçi sözü edilen alacaklarını kanıtlamak bakımından tanık anlatımlarına dayanmış olup, mahkemece dinlenen tanık anlatımlarına göre fazla
+mesai alacağı ortaya çıkmıştır. Yargılama sırasında davalı taraf, tanık anlatımlarının aksini gösteren herhangi bir kayıt ve belge dosyaya sunmamıştır.
+Mahkemece taraflara delillerini sunmaları için usulüne uygun süre verilmiştir.
+
+Taraflarca verilen süre içinde delil bildirilmiştir. 6100 sayılı Hukuk Muhakemeleri Kanunu’nun 145.maddesinde öngörülen sonradan delil sunma koşulları da bulunmadığı halde, davalı tarafın elinde bulunan ve lehine olan belgelerin mahkemece re`sen istenmesi 6100 sayılı Kanununun 25.maddesinde öngörülen “taraflarca getirilme ilkesi”ne aykırı düşer.
+
+Anılan hükme göre kanunla belirtilen durumlar dışında hâkim, kendiliğinden delil toplayamaz. Maddede dava malzemesinin ve delillerin gösterilmesi konusunda tarafların mutlak yetkisi vurgulanmıştır. Somut olayda talep edilen alacaklar tarafların üzerinde serbestçe tasarruf edebilecekleri bir konulara ilişkindir. Bu nedenle hâkimin re`sen delil toplama yetkisinden söz edilemez. Davalı kurum temsilcisinin veya vekilinin varsa lehine olan belgeleri ibraz etmemesi müvekkil ile vekil arasındaki iç ilişkiyi ilgilendirmektedir.
+
+Öte yandan, 6100 sayılı Kanun`un 31.maddesinde düzenlenen “hâkimin davayı aydınlatma ödevi” hâkimin maddi veya hukuki açıdan belirsiz yahut çelişkili gördüğü hususlarla ilgilidir.
+
+Somut olayda belirsiz veya çelişkili bir husus bulunmamaktadır. Mahkemece fazla mesai alacağına ilişkin verilen kararın onanması gerektiği kanaati ile sayın çoğunluğun bozma yönündeki görüşüne katılamıyorum.
+
+YARGITAY HUKUK GENEL KURULU
+Esas: 2017/7-2097 Karar: 2017/894Tarih: 03.05.2017
+
+HMK 145. Madde
+
+Sonradan Delil Gösterilmesi
+
+Taraflar arasındaki “işçilik alacağı” davasından dolayı yapılan yargılama sonunda; Karaman İş Mahkemesince davanın kısmen kabulüne dair verilen 12.02.2013 gün ve 2011/192 E., 2013/121 K. sayılı kararın tarafların vekilleri tarafından temyizi üzerine Yargıtay 7. Hukuk Dairesinin 05.11.2013 gün ve 2013/12494 E., 2013/18380 K. sayılı kararı ile;
+
+( … 1- )Dosyadaki yazılara, hükmün Dairemizce de benimsenmiş bulunan yasal ve hukuksal gerekçeleriyle dayandığı maddi delillere ve özellikle bu delillerin takdirinde bir isabetsizlik görülmemesine göre davacının tüm, davalının aşağıdaki bendin kapsamı dışında kalan temyiz itirazlarının reddine,
+
+2- )Davacı vekili, davacının davalıya ait işyerinde çalışırken işverenin kendisine küfretmesi ve psikolojik baskı uygulaması nedeni ile iş sözleşmesini haklı sebeplerle feshettiğini, fazla mesai yaptığını, milli bayramlarda çalıştığını, yıllık izinlerini kullanmadığını, ücretlerinin ve asgari geçim indirimi alacağının ödenmediğini iddia ederek kıdem tazminatı ile bazı işçilik alacaklarının davalıdan tahsilini istemiştir.
+
+Davalı vekili davacının devamsızlık yaptığından dolayı iş sözleşmesinin feshedildiğini, davacının emeklilik nedeni ile sözleşmeyi feshettiğine dair ihtarnamesinin daha sonra gönderildiğini, iddialarının asılsız olduğunu savunarak davanın reddini istemiştir.
+
+Mahkemece toplanan delillere göre davacının iş sözleşmesinin devamsızlık yapmasından dolayı işverence haklı sebeple feshedildiğini, kıdem tazminatı talep edemeyeceği, bilirkişi raporunda hesap edilen alacaklarının bulunduğu gerekçesi ile davanın kısmen kabulüne karar verilmiştir.
+
+Davacının ücretlerinin ödenip ödenmediği ihtilaflıdır.
+
+Davacı vekili davacının son iki yıla ait ücret ve asgari geçim indirimi alacaklarının ödenmediğini iddia ederek alacak talebinde bulunmuştur.
+
+Bilirkişi ek hesap raporunda bordrosu sunulmayan 2008 yılı 1-2-3-6-7-9-11/12.aylar için asgari ücret üzerinden ücret ve asgari geçim indirimi hesap edilmiş ve mahkeme bu miktarın tahsiline karar vermiştir.
+
+Davalı vekili temyiz aşamasında eksik olan bu aylara ait bodrroları sunmuş olup bunlarda davacıya atfen imza bulunmaktadır. Davalı vekiline yargılama aşamasında verilen kesin sürenin usulüne uygun olmadığı dikkate alındığında hakkı ortadan kaldıran ödeme savunması niteliğindeki bu bordrolar üzerinde durularak gerekirse ek hesap raporu alınıp bir değerlendirmeye tabi tuttulduktan sonra çıkacak sonuca göre karar verilmelidir.
+
+O halde davalı vekilinin bu yöne dair temyiz itirazları kabul edilmeli ve karar bozulmalıdır… ),
+
+Gerekçesiyle karar bozularak dosya yerine geri çevrilmekle yeniden yapılan yargılama sonunda mahkemece önceki kararda direnilmiştir.
+
+Hukuk Genel Kurulunca incelenerek direnme kararının süresinde temyiz edildiği anlaşıldıktan ve dosyadaki kağıtlar okunduktan sonra gereği görüşüldü:
+
+KARAR : Dava işçilik alacaklarının tahsili istemine ilişkindir.
+
+Davacı vekili iş sözleşmesinin müvekkili tarafından haklı sebeple feshedildiğini ileri sürerek kıdem ve ihbar tazminatları ile yıllık izin, fazla çalışma, genel tatil, asgari geçim indirimi ve ücret alacaklarının davalıdan tahsiline karar verilmesini talep ve dava etmiştir.
+
+Davalı vekili davacı işçinin iş sözleşmesinin müvekkili tarafından devamsızlık haklı sebebiyle feshedildiğinden açılan davanın yersiz olduğunu belirterek davanın reddine karar verilmesini istemiştir.
+
+Mahkemece işçinin iş sözleşmesinin devamsızlık sebebiyle davalı işveren tarafından haklı sebeple feshedildiğinden bahisle kıdem ve ihbar tazminatları ile yıllık izin alacağı talebinin reddine, ücret, asgari geçim indirimi, fazla çalışma ve genel tatil alacaklarının kabulüne karar verilmiştir.
+
+Taraf vekillerinin temyizi üzerine hüküm Özel Dairece yukarıda açıklanan gerekçelerle bozulmuştur.
+
+Mahkemece önceki karardaki gerekçeler doğrultusunda direnme kararı verilmiştir.
+
+Direnme kararını tarafların vekilleri temyiz etmiştir.
+
+Direnme yoluyla Hukuk Genel Kurulu önüne gelen uyuşmazlık, davalı vekiline ön inceleme duruşmasında delillerini sunması için verilen kesin sürenin usulüne uygun olup olmadığı, temyiz aşamasında ibraz edilen bir kısım bordroların hakkı ortadan kaldıran belge niteliğinde kabul edilip edilmeyeceği noktalarında toplanmaktadır.
+
+I- )Hukuk Genel Kurulunda işin esası görüşülmeden önce davacı vekilinin kararı temyiz etmesinde hukuki yararının bulunup bulunmadığı ön sorun olarak incelenmiştir.
+
+Bilindiği üzere, hukuki yarar dava şartı olduğu kadar temyiz istemi için de aranan bir şarttır.
+
+Mahkemece verilen 12.02.2013 gün ve 2011/192 E.-2013/121 K. sayılı kararı temyiz eden davacı vekilinin tüm temyiz nedenlerinin Özel Dairece reddedildiği ve davalı temyizi yönünden davacı aleyhine bozma yapıldığı, mahkemece ilk kararda direnilmesi üzerine de direnme kararının davacı tarafça temyiz edildiği görülmekle davacı vekilinin direnme kararını temyizde hukuki yararı bulunmamaktadır.
+
+O halde davacı vekilinin direnme hükmüne yönelik temyiz isteminin hukuki yarar yokluğundan reddine karar verilmelidir.
+
+II- )Davalı vekilinin temyizinin incelenmesinde;
+
+Kural olarak, yargılama aşamasında dayanılıp sunulmayan deliller, temyiz veya karar düzeltme aşamasında sunulamazlar; sunulmuş olsalar bile, bu aşamalardaki incelemeler sırasında dikkate alınamazlar. Bu kuralın tek istisnası, dayanılıp sunulan delillin, o davaya konu borcu söndüren bir nitelik taşıması; örneğin, davaya konu borcun ödenmiş olduğunu gösteren makbuz, ibraname gibi bir belge olmasıdır.
+
+Davanın hukuksal niteliği ve somut olayın özelliği gereği davalı, temyiz aşamasında davaya konu borcu söndüren nitelikte bir belge vermişse, bu belge üzerinde gerekli inceleme yapılmak suretiyle bir karar verilmesi gerekir. Diğer bir anlatımla, yargılama aşaması henüz tamamlanmamış ise böyle durumda, borcu itfa eden belge değerlendirmeye alınmalıdır. Gerçekten de, yargılamada davayı inkâr eden davalının savunması, borcun bulunmadığı savunmasını da kapsar. O nedenle, davalının borcun ne sebeple bulunmadığını açıklama ve iddianın aksine delillerini ikame etme hakkının ortadan kalktığından söz edilemez. Belirtilen nedenlerle, temyiz aşamasında sunulan ve borcu söndüren bir belgenin varlığı karşısında savunmanın genişletilmesi yasağından söz edilemeyeceğinin kabulü de zorunludur.
+
+Somut olayda, 01.12.2011 tarihinde yapılan ön inceleme duruşmasına davalı vekilinin katılarak delillerini bildirmek için süre talep ettiği, bunun üzerine mahkemece davacı ve davalı yönünden ara kararlar oluşturulduğu, davalı tarafın tanıkları dahil delillerini bildirmesi için iki haftalık kesin süre verildiği ancak davalı vekili duruşmada hazır olmasına rağmen kesin sürenin sonuçlarının ihtar edilmediği görülmüştür.
+
+Dolayısıyla davalı vekiline delillerini bildirmesi için verilen kesin sürenin usulüne uygun olmadığı görüldüğünden usulüne uygun bir kesin süre verildiğinden söz edilemez. Bunun yanında davalı vekili tarafından temyiz dilekçesi ekinde sunulan bordrolar dikkate alınarak hakkı ortadan kaldıran ödeme savunması niteliğindeki bu bordrolar üzerinde durularak gerekirse bu hususta bilirkişiden ek rapor alınıp bir değerlendirmeye tabi tutulduktan sonra soncuna göre karar verilmesi gerekmektedir.
+
+Hukuk Genel Kurulunda yapılan görüşmeler sırasında usulüne uygun kesin süre verildiği halde davalı tarafın, verilen süre içinde elindeki belgeleri dosyaya sunmadığı, yargılama sırasında sunulmayan bir kısım ücret bordrolarını ilk defa temyiz aşamasında ibraz ettiği, 6100 Sayılı HMK’nın 145. maddesi uyarınca belirtilen süreden sonra delil gösterilemeyeceği, ilk derece yargılaması sırasında verilen süre içinde elindeki belgeleri dosyaya sunmayan tarafa temyiz aşamasında belge sunmasına imkan vermenin, yargılama faaliyetini ciddiye almayanı veya yargılamayı uzatma amacını taşıyan kötüniyetli kişileri ödüllendirmek olacağı, davalının söz konusu belgeleri temyiz aşamasında sunma nedeni konusunda da herhangi bir açıklamada bulunmadığı, temyiz incelemesinde ilk derece mahkemesinden ileri sürülmeyen vakıa ve delillerin, hatta mahkemenin karar vermesinden sonra yaşanan vakıaların ileri sürülmesinin mümkün olmayıp temyiz incelemesinde tahkikat yapılamayacağı, bu sebeple direnme kararının onanması gerektiği yönünde görüş bildirilmiş ise de, bu görüş yukarıda belirtilen sebeplerle Kurul çoğunluğu tarafından benimsenmemiştir.
+
+Hal böyle olunca, Özel Daire bozma kararına uyulmak gerekirken, önceki kararda direnilmesi usul ve yasaya aykırıdır.
+
+Bu sebeple direnme kararı bozulmalıdır.
+
+SONUÇ : 1- )Yukarıda ( I ) numaralı bentte açıklanan sebeplerle davacı vekilinin temyiz isteminin, temyizde hukuki yararı bulunmadığından REDDİNE oybirliğiyle,
+
+2- )Yukarıda ( II ) numaralı bentte açıklanan sebeplerle davalı vekilinin temyiz itirazlarının kabulüyle direnme kararının BOZULMASINA, istenmesi halinde temyiz peşin harcının yatıranlara iadesine oyçokluğuyla, karar düzeltme yolu kapalı olmak üzere, 03.05.2017 gününde karar verildi.
+
+KARŞI OY :
+
+Davacı işçinin bir kısım işçilik alacaklarının tahsiline karar verilmesi talebiyle açtığı davada mahkemece davanın kabulüne karar verilmiştir.
+
+Davalı işverence temyiz edilen karar, Yargıtay 7.Hukuk Dairesince davalı işveren tarafından temyiz aşamasında dosyaya sunulan ücret bordrolarının değerlendirilmesi gerektiğinden söz edilerek bozulmuştur.
+
+Mahkemece verilen kesin süreye rağmen bordroları ibraz etmeyen davalının temyiz aşamasında sunduğu bordrolardan dolayı bozma kararı verilmesinin usule uygun düşmediği gerekçesiyle direnme kararı verilmiştir.
+
+Medeni usul hukukuna hakim ilkelerden birisi de taraflarca hazırlama ilkesidir. Buna göre dava malzemeleri taraflarca mahkemeye getirilmelidir. Taraflarca ileri sürülmemiş vakıalar hakim tarafından kendiliğinden araştırılamayacağı gibi, taraflarca dava dosyasına intikal ettirilmeyen delillerin mahkemece re’sen dikkate alınması ve hükme dayanak yapılması da mümkün değildir. Hakim, dava dosyasına usulüne uygun girmiş olan dava malzemesiyle sınırlı inceleme yapmakla yükümlüdür. Dava malzemelerinin mahkemeye tam olarak getirilmemesinin sorumluluğu taraflara aittir. Taraflar talep sonucunu dayandırdıkları vakıaları ispata yarayan delilleri göstermemişler ve sunmamışlarsa dava veya savunmalarını ispatlayamadıkları için davanın aleyhlerine sonuçlanması söz konusu olacaktır.
+
+6100 Sayılı Hukuk Muhakemeleri Kanunu’nun 119, 129.maddelerine6100 Sayılı Hukuk Muhakemeleri Kanunu’nun 119 ve 129.maddelerine göre delillerin tarafların dilekçeleri ile mahkemeye sunulması zorunludur. 6100 Sayılı Kanun’un 140/5.maddesine göre dilekçede belirtilmiş olup da, ellerinde bulunan ya da getirtilmesi gereken belgeleri mahkemeye sunmamışlarsa hâkim, ön inceleme duruşmasında her iki tarafa da bu eksikliğin tamamlanması için iki haftalık kesin süre verir. Verilen kesin süre içinde belgenin ibraz edilmemesi halinde o delile dayanmaktan vazgeçmiş sayılmasına karar verilir.
+
+Somut olayda mahkemece ön inceleme duruşmasında davacı ve davalı tarafa delillerini sunmaları için iki haftalık kesin süre verilmiştir. Ön inceleme duruşmasına katılmayan davacı taraf için ara kararda kesin sürenin sonuçları belirtilmişken, duruşmada hazır bulunan davalı vekiline kesin sürenin sonuçları ihtar edilmemiştir.
+
+Belirtmek gerekir ki, kesin sürenin sonuçları kanunda açıkça belirtilmişse, bunun kesin süre verilen tarafa ayrıca ihtar edilmesine gerek yoktur. Aksi bir düşünce, “kanunu bilmemek mazeret sayılmaz” ilkesinin gözardı edilmesi anlamına gelir. Kaldı ki, davalı vekil aracılığıyla temsil edildiğinden kesin mehilin sonuçlarının ihtar edilmesine gerek bulunmamaktadır.
+
+Diğer yandan, gerekmediği halde davacı taraf için kesin sürenin sonuçlarının ihtar edilmesinden hareketle eşitlik ilkesi gereği davalı tarafa da aynı muamelenin yapılması gerektiği ileri sürülemez.
+
+İnceleme konusu olayda davalı vekiline usulüne uygun kesin süre verildiği halde davalı taraf, verilen süre içinde elindeki belgeleri dosyaya sunmamıştır. İlk derece mahkemesince yapılan yargılama sırasında da ibraz edilmeyen bir kısım ücret bordroları ilk defa temyiz aşamasında dosyaya sunulmuştur.
+
+6100 Sayılı Kanun’un 145.maddesine6100 Sayılı Kanun’un 145.maddesine göre taraflar kanunda belirtilen süreden sonra delil gösteremezler. Ancak bir delilin sonradan ileri sürülmesi yargılamayı geciktirme amacı taşımıyorsa veya süresinde ileri sürülememesi ilgili tarafın kusurundan kaynaklanmıyorsa, mahkeme o delilin sonradan gösterilmesine izin verebilir.
+
+Davalı taraf ilk derece yargılaması sırasında verilen kesin süre içinde ücret bordrolarını sunmadığı gibi, HMK.m.145 hükmünün sağladığı imkandan da yararlanmamıştır.
+
+İlk derece yargılaması sırasında verilen süre içinde elindeki belgeleri dosyaya sunmayan tarafa temyiz aşamasında belge sunmasına imkan vermek, yargılama faaliyetini ciddiye almayanı veya yargılamayı uzatma amacını taşıyan kötüniyetli kişileri ödüllendirmek olur.
+
+Temyiz aşamasında sunulan ödeme belgesinin dikkate alınmaması halinde alacağını tahsil ettiği halde dava açan kişinin himaye edilmiş olacağı şeklindeki görüşe de katılmak mümkün değildir. Çünkü, alacaklı olmadığı halde dava açan kişi, gizli, hileli veya gayrı meşru bir yöntemle değil, hukuki dinlenilme hakkının geçerli olduğu bir yargılama sistemi içerisinde talepte bulunmaktadır. Ayrıca, hiçbir hakkı olmadığı halde dava açan tarafla ilgili yapılacak işlem 6100 Sayılı Kanun’un 329.maddesinde özel olarak düzenlenmiştir. Buna göre haksız dava açan taraf, yargılama giderinden başka, diğer tarafın vekiliyle aralarında kararlaştırılan vekalet ücretinin tamamı veya bir kısmını ödemeye mahkum edilebilir. Bundan başka beşyüz Türk Lirasından beşbin Türk Lirasına kadar disiplin para cezası ile mahkum edilebilir. Bu hallere vekil sebebiyet vermişse disiplin para cezası vekil hakkında uygulanır. Somut olayda davalı taraf belgelerini süresi içinde sunarak davanın reddine karar verilmesini ve sözü edilen hükmün uygulanmasını sağlayabilirdi.
+
+Alacaklı olmadığı halde dava açan kişinin dava hakkının olmadığı, bunun dava şartı olduğu şeklindeki görüşe de katılamıyorum. Bir kimsenin alacaklı veya borçlu olması taraf sıfatı ile ilgilidir. Taraf sıfatı ise dava şartı değildir ( PEKCANITEZ, Hakan / ÖZEKES, Muhammet / AKKAN,Mine / TAŞ KORKMAZ, Hülya; Medeni Usûl Hukuku, Cilt I, 15.Bası, İstanbul, s.612 ). Taraf sıfatının bulunup bulunmadığı, başka bir anlatımla bir kimsenin alacaklı veya borçlu olup olmadığı mahkeme tarafından re’sen araştırılacak bir husus değildir.
+
+Bu konuda ayrıca belirtmek gerekir ki, usul kanunlarımızda itiraz niteliğindeki belgelerin yargılamanın her aşamasında sunulabileceğine dair bir düzenleme bulunmamaktadır. İtiraz niteliğindeki belgelerin usulüne uygun şekilde dosyaya ibraz edilmesi halinde mahkemece re’sen göz önünde bulundurulması gerekir. Başka bir anlatımla, usulüne uygun şekilde dosyaya sunulmuş bir ödeme belgesi sonradan tarafların gözünden kaçsa bile mahkemenin bu belgeyi re’sen dikkate alması gerekir.
+
+Somut olayda, ilk derece yargılaması yaklaşık 2 yıl sürmüş olup, davalı taraf verilen kesin süre içinde elindeki belgeleri sunmadığı gibi, tahkikatın devamı sırasında da ibraz etmemiştir. Söz konusu belgeleri temyiz aşamasında sunma nedeni konusunda da herhangi bir açıklamada bulunmamıştır. Başka bir anlatımla, belgeleri temyiz aşamasında sunarken haklı görülebilecek bir mazeret ileri sürmemiştir. Mahkemenin usul ve yasaya aykırı bir işlemi bulunmamaktadır.
+
+6100 Sayılı Hukuk Muhakemeleri Kanunu’nun geçici 2. maddesi6100 Sayılı Hukuk Muhakemeleri Kanunu’nun geçici 2. maddesi uyarınca inceleme konusu dosya bakımından uygulanması gereken 1086 Sayılı Hukuk Usulü Muhakemeleri Kanunu’nun 437. maddesinde bozma nedenleri sayılmış olup, temyiz aşamasında sunulan delilin bozma nedeni yapılacağına dair bir düzenleme bulunmamaktadır. Anılan hükme göre temyiz olunan kararın tamamen veya kısmen bozulması için; hukukun veya taraflar arasındaki sözleşmenin yanlış uygulanmış olması, dava şartlarına aykırılık bulunması, taraflardan birinin iddiasını ispat için dayandığı delillerin kanun bir sebep olmaksızın kabul edilmemesi ve karara etki eden yargılama hatası ve eksiklilerinin bulunması gerekir. Temyiz incelemesinde, ilk derece mahkemesinde ileri sürülmeyen vakıa ve delillerin, hatta mahkemenin karar vermesinden sonra yaşanan vakıaların ileri sürülmesi mümkün değildir. Yeni vakıaların ileri sürülmesi ve bunların incelenmesi, karşı tarafın rızasına da tabi değildir. Çünkü temyiz incelemesinde tahkikat yapılamaz.
+
+Yukarıda açıkladığım sebeplerle direnme kararının onanması gerektiği kanaatinde olduğumdan, sayın Çoğunluğun bozma yönündeki görüşüne katılamıyorum.
+
+YARGITAY HUKUK GENEL KURULU
+Esas: 2014/7-1662 Karar: 2017/34Tarih: 18.01.2017
+
+HMK 145. Madde
+
+Sonradan Delil Gösterilmesi
+
+Taraflar arasındaki “işçilik alacağı” davasından dolayı yapılan yargılama sonunda İstanbul Anadolu 9. İş Mahkemesince davanın fark kıdem tazminatı yönünden kısmen kabulüne, yıllık izin alacağı yönünden kabulüne, fazla çalışma ücreti ile genel tatil alacağı yönünden ise reddine dair verilen 06.02.2013 gün ve 2012/238 E., 2013/44 K. sayılı kararın incelenmesi davalı şirket vekili tarafından istenilmesi üzerine, Yargıtay 7. Hukuk Dairesinin 30.10.2013 gün ve 2013/11906 E., 2013/17732 K. sayılı kararı ile;
+
+( … 1- )Dosyadaki yazılara, hükmün Dairemizce de benimsenmiş bulunan yasal ve hukuksal gerekçeleriyle dayandığı maddi delillere ve özellikle bu delillerin takdirinde bir isabetsizlik görülmemesine göre davalının aşağıdaki bendin kapsamı dışında kalan temyiz itirazlarının reddine,
+
+2- )Davacı, 01.12.1995-01.03.2012 tarihleri arasında davalıya ait iş yerinde kaporta teknisyeni olarak çalıştığını, iş akdinin emeklilik sebebiyle sona erdirildiğini, yıllık ücretli izinlerinin kullandırılmadığını, tüm resmi tatillerde çalışan davacıya genel tatil ve fazla mesai ücretlerinin de ödenmediğini iddia ederek kıdem tazminatı ile fazla çalışma, yıllık izin, ulusal bayram genel tatil ücreti alacaklarının davalıdan tahsilini istemiştir.
+
+Davalı, davacının haftalık çalışmasının 45 saati aşmadığını, genel tatil günlerinde çalışmadığını ve yıllık ücretli izinlerinin tamamını kullandığını, işten kendi isteğiyle ayrıldığını savunarak davanın reddini istemiştir.
+
+Mahkemece davanın kısmen kabulüne karar verilmiştir.
+
+Davacının yıllık izin ücretine hak kazanıp kazanmadığı hususu uyuşmazlık konusudur.
+
+Yargıtay Hukuk Genel Kurulu’nun 21.03.2007 tarih ve 2007/8-161 E., 2007/155 K. sayılı kararı ile de belirtildiği üzere adil yargılanma ve dinlenilme hakkının bir gereği olarak hakim, taraflara duruşmalarda hazır bulunmak, iddia ve savunmalarını bildirmek için imkan vermeli, tarafları usulüne uygun bir biçimde duruşmaya davet etmelidir. Fakat tarafların kendilerine tanınan bu imkana rağmen, duruşmaya gelmek zorunluluğu yoktur. Hukuk davalarında duruşmaya gelmemenin müeyyidesi, dava dosyasının işlemden kaldırılması veya yargılamanın gelmeyen tarafın yokluğunda devam edilmesidir.
+
+Dava ile ilgili olan kişilerin davaya dair bir işlemi öğrenebilmesi için, tebligatın usulüne uygun olarak yapılması, duruşma gün ve saatinin muhataba bildirilmesi gerekmektedir. Duruşma günü ile tebligatın çıkarıldığı tarih arasında makul bir süre olmalıdır. Aksi takdirde tarafların hukuksal dinlenme ve savunma hakkı kısıtlanmış olur.
+
+Uyuşmazlık konusu vakıanın ispatı için yeminden başka delili olduğunu beyan etmiş olan taraf da yemin teklif edebilir. Yemin teklif olunan kimse, yemini edaya hazır olduğunu bildirdikten sonra, diğer taraf teklifinden vazgeçerek başka bir delile dayanamaz ve yeni bir delil de gösteremez. Yemin teklif edilen kimse, duruşmada bizzat hazır bulunmadığı takdirde, kendisine yemin için bir davetiye çıkarılır. Yemin davetiyesine, yemine konu hususlar hakkında sorulacak sorular ile geçerli bir özrü olmaksızın yemin için tayin olunan gün ve saatte mahkemeye bizzat gelmediği veya gelip de yemini iade etmediği yahut yemini eda etmekten kaçındığı takdirde, yemin konusu vakıaları ikrar etmiş sayılacağı yazılır ( 6100 Sayılı Kanun Md. 227-228 ).
+
+Somut olayda mahkemece, davalı adına dava dilekçesi ekli duruşma gün ve saatini bildirir davetiye çıkarıldığı, davetiyenin davalıya 25.04.2012 tarihinde tebliğ edildiği, tensip zaptında “Davalı tarafa dava dilekçesi ve ekleri ile ön inceleme ve tahkikat gününün, dava ile ilgili tanıkları dahil tüm delillerini, delillerin ispat edileceği hususları ve tanıkların dinleneceği konuları 2 hafta içinde sunmaları, tanıkları için 00 TL ücret, 00 TL tebligat gideri, cevap dilekçesinin tebliği için 00 TL olmak üzere avansı mahkeme veznesine depo etmeleri için kesin süre verilerek meşruhatlı davetiye ile tebliğine” karar verildiği, ancak kesin süre ile ilgili ara kararı içeren tensip zaptının davalıya tebliğ edilmediği görülmüştür. Davalı vekilince yıllık izin ücreti talebi ile ilgili olarak 06.02.2013 tarihli duruşmada davacının yıllık izin kullanıp kullanmadığına dair yemin teklifinde bulunulmuş olmasına ve davalıya tüm delillerini bildirmesi için usulüne uygun olarak verilmiş kesin süre bulunmamasına karşın Mahkemece yemin teklifinin gereği yerine getirilmeksizin yıllık izin ücreti alacağının hüküm altına alınması hatalıdır.
+
+Mahkemece bu maddi ve hukuki olgular gözetilmeksizin eksik inceleme sonucu yazılı şekilde hüküm kurulmuş olması ve usul ve yasaya aykırı olup bozma nedenidir… ),
+
+Gerekçesiyle bozularak dosya yerine geri çevrilmekle, yeniden yapılan yargılama sonunda mahkemece önceki kararda direnilmiştir.
+
+Hukuk Genel Kurulunca incelenerek direnme kararının süresinde temyiz edildiği anlaşıldıktan ve dosyadaki kâğıtlar okunduktan sonra gereği görüşüldü:
+
+KARAR : Dava, işçilik alacaklarının tahsili istemine ilişkindir.
+
+Davacı vekili davacı işçinin emeklilik sebebiyle iş sözleşmesini sonlandırdığını, kıdem tazminatının eksik ödendiğini, yıllık izin ücretinin ise ödenmediğini ileri sürerek fazlaya dair hakları saklı kalmak kaydıyla fark kıdem tazminatı, yıllık izin, fazla çalışma ve genel tatil alacaklarının davalıdan tahsilini istemiştir.
+
+Davalı vekili davacının işten kendi istemi ile ayrıldığını ve tüm işçilik alacakları yönünden işvereni ibra ettiğini belirterek davanın reddini istemiştir.
+
+Yerel mahkemece, davanın kısmen kabulüne dair verilen hüküm, davalı vekilinin temyizi üzerine yukarıda başlık bölümünde yer alan gerekçe ile bozulmuştur.
+
+Yerel Mahkemece, önceki kararda direnilmesine karar verilmiştir.
+
+Direnme kararını, davalı vekili temyiz etmiştir.
+
+Direnme yoluyla Hukuk Genel Kurulunun önüne gelen uyuşmazlık; somut olay bakımından cevap dilekçesinde yemin deliline dayanmayan davalıya, tanıkları dahil tüm delillerini sunması için kesin süre ihtaratı içeren tensip zaptının tebliğ edilmemesi sebebiyle delillerini sunması için uygun süre verilip verilmediği, burada varılacak sonuca göre davalının yemin teklif etme hakkının bulunup bulunmadığı noktalarında toplanmaktadır.
+
+Öncelikle konu ile ilgili yasal düzenlenmelerin incelenmesinde yarar bulunmaktadır.
+
+Anayasanın 90. maddesininAnayasanın 90. maddesinin beşinci fıkrası uyarınca usulüne göre yürürlüğe konulmuş Milletlerarası Andlaşmalar kanun hükmündedir. Bu kapsamda ülkemizin taraf olduğu Avrupa İnsan Hakları Sözleşmesi ( AİHS )’nin 6. maddesinde düzenlenen adil yargılanma hakkı üzerinde durulması gerekmektedir.
+
+Adil yargılanma hakkının en önemli unsurlarından birisi yargılamanın “makul bir süre içinde” bitirilmesi ilkesidir.
+
+Bu bağlamda Avrupa İnsan Hakları Mahkemesi ( AİHM ), devletlerin yasal sistemlerini mahkemelerin 6. maddede yer alan şartlara, makul bir sürede yargılama dahil olmak üzere uyacak şekilde düzenlemek ile görevli olduğunu belirtmiştir. ( AİHM, Zimmerman ve Steiner -İsviçre, 13 Temmuz 1983, 29. paragraf ).
+
+Bir davaya taraf olan herkesin diğer taraf karşısında kendisini önemli bir dezavantajlı konumda bırakmayacak şartlarda, iddialarını mahkemeye sunabilmesi için makul bir fırsata sahip olabilmelidir ( AİHM, De Haes ve Gijsels-Belçika, 24 Şubat 1997 ).
+
+Tarafların gösterilen tüm delillerden haberdar olması ve görüş bildirebilmesi de adil yargılanma hakkı kapsamında gözetilmesi gereken ilke olarak belirtilmiştir ( AİHM, Borgers-Belçika, 30 Ekim 1991 ).
+
+Anayasanın 141. maddesindeAnayasanın 141. maddesinde de “davaların en az giderle ve mümkün olan süratle sonuçlandırılması yargının görevidir” denilmek suretiyle davaların makul bir süre içerisinde bitirilmesi gerekliliği açıkça düzenlenmiştir.
+
+Açıklanan bu ilkelere paralel olarak 6100 Sayılı Hukuk Muhakemeleri Kanunu’nda ( ) yargılamanın makul sürede bitirilmesini sağlamak amacıyla düzenlemeler yapılmış ve bu amaca ulaşılabilmesi için önemli bir katkı sağlayan delillerin bildirilme zamanı özel olarak düzenlenmiştir.
+
+Delillerin belirli bir zaman dilimi içinde gösterilip sunulması yargılamayı çabuklaştıracak olmasının yanı sıra, taraflara da gösterilen delillerden haberdar olma ve zamanında gösterilen delillere karşı delil veya görüş bildirebilme imkanı tanıyacak, böylece uyuşmazlıklar en kısa sürede adilane çözüme kavuşacaktır.
+
+Bu aşamada HMK’nın delillerin ibrazıyla ilgili hükümlerini değerlendirmek gereklidir.
+
+Öncelikle iş mahkemelerinde basit yargılama usulü uygulanmaktadır. Bu kapsamda basit yargılama usulüne dair olup yazılı yargılama usulünden farklılık arzeden hususlar 6100 Sayılı HMK’nın 316 vd. maddelerinde düzenlenmiştir. Bunun dışında basit yargılama usulü hakkında hüküm bulunmayan hallerde ise yazılı yargılama usulüne dair hükümler uygulanacaktır.
+
+6100 Sayılı HMK’nın basit yargılama usulü uygulanan davalarda “Delillerin ikamesi” başlıklı 318. maddesinde, tarafların dilekçeleri ile birlikte, tüm delillerini açıkça ve hangi vakıanın delili olduğunu da belirterek bildirmek; ellerinde bulunan delillerini dilekçelerine eklemek ve başka yerlerden getirilecek belge ve dosyalar için de bunların bulunabilmesini sağlayan bilgilere dilekçelerinde yer vermek zorunda oldukları belirtilmiştir.
+
+Basit yargılama usulünde iddianın genişletilmesi veya değiştirilmesi yasağı dava açılmasıyla; savunmanın genişletilmesi veya değiştirilmesi yasağı ise cevap dilekçesinin mahkemeye verilmesiyle başlayacaktır.
+
+Yine basit yargılama usulünde tarafların cevaba cevap ve ikinci cevap dilekçeleri vermeleri söz konusu değildir.
+
+Basit yargılama usulünde ön inceleme ve tahkikat aşaması 6100 Sayılı HMK’nın 320. maddesinde düzenlenmiş olup mahkemenin ilk duruşmada dava şartları ve ilk itirazlarla hak düşürücü süre ve zamanaşımı hakkında tarafları dinleyeceği, daha sonra tarafların iddia ve savunmaları çerçevesinde, anlaştıkları ve anlaşamadıkları hususları tek tek tespit edeceği, uyuşmazlık konularının tespitinden sonra hakimin, tarafları sulhe veya arabuluculuğa teşvik edeceği, tarafların sulh olup olmadıkları, sulh olmadıkları taktirde anlaşamadıkları hususların nelerden ibaret olduğu tutanağa yazılarak bu tutanağın hazır bulunanlarca imzalanarak tahkikat aşamasına geçileceği belirtilmiştir.
+
+6100 Sayılı HMK’nın 322. maddesi6100 Sayılı HMK’nın 322. maddesi uyarınca yazılı yargılama usulüne dair hükümlerin basit yargılama usulünde de uygulanacağı belirtildiğinden yazılı yargılama usulünde delillerin gösterilmesi ve mahkemeye sunulmasına dair hükümlerin de irdelenmesi gerekmektedir.
+
+6100 Sayılı HMK’nın “Dava Dilekçesinin İçeriği” başlıklı 119/1-e-f maddesine6100 Sayılı HMK’nın “Dava Dilekçesinin İçeriği” başlıklı 119/1-e-f maddesine göre; davacı, dava dilekçesinde, iddiasının dayanağı olan bütün vakıaların sıra numarası altında açık özetlerini ve iddia edilen her bir vakıanın hangi delillerle ispat edileceğini açıkça göstermek zorundadır.”
+
+Maddenin gerekçesinde bu gerekliliğin, 6100 Sayılı bir yenilik olarak düzenlendiği ifade edilmiştir. Davacının genel ifadelerle delillerini belirtmesi yeterli sayılmayıp hangi delillere dayandığı dilekçeden anlaşılmalıdır. Delillerin bildirilmesine dair bu düzenleme somutlaştırma yükünün de bir gereğidir. ( Pekcanıtez, H.\ Atalay O.\ Özekes M.: Medeni Usul Hukuku Ders Kitabı, 3. Bası, Ankara 2015, s. 277 ).
+
+6100 Sayılı HMK’nın “Belgelerin Birlikte Verilmesi” başlıklı 121/1. maddesine6100 Sayılı HMK’nın “Belgelerin Birlikte Verilmesi” başlıklı 121/1. maddesine göre; dava dilekçesinde gösterilen ve davacının elinde bulunan belgelerin asıllarıyla birlikte harç ve vergiye tabi olmaksızın davalı sayısından bir fazla düzenlenmiş örneklerinin veya sadece örneklerinin dilekçeye eklenerek, mahkemeye verilmesi ve başka yerlerden getirtilecek belge ve dosyalar için de bunların bulunabilmesini sağlayıcı açıklamanın dilekçede yer alması zorunludur. Ayrıca, aynı Kanunun “Cevap Dilekçesinin İçeriği” başlıklı 129/1-d-e maddelerine göre, cevap dilekçesinde; davalının savunmasının dayanağı olan bütün vakıaların sıra numarası altında açık özetleri ile savunmanın dayanağı olarak ileri sürülen her bir vakıanın hangi delillerle ispat edileceğinin bildirilmesi gerekir. Bu husus davalının savunmasını somutlaştırma yükünün de bir gereğidir. Davalı da davacı gibi yazılı delillerini cevap dilekçesine ekleyerek mahkemeye vermeli ve başka yerlerden getirtilecek belge ve dosyalar için de bunların bulunabilmesini sağlayıcı açıklamalarda bulunmalıdır. ( Pekcanıtez, H.\ Atalay O.\ Özekes M., s. 306 ).
+
+Dava dilekçesinin davalıya tebliğinde, davalının iki hafta içinde davaya cevap verebileceğinin ihtarının gerektiği HMK’nın 122. maddesinde düzenlendikten sonra aynı süreye “cevap dilekçesini verme süresi” başlıklı 127. maddesinde tekrar yer verilmiş ve “Cevap dilekçesini verme süresi, dava dilekçesinin davalıya tebliğinden itibaren iki haftadır…” şeklinde düzenleme yapılmıştır.
+
+6100 Sayılı HMK’nın “Süresinde Cevap Dilekçesi Verilmemesinin Sonucu” başlıklı 128/1. maddesine6100 Sayılı HMK’nın “Süresinde Cevap Dilekçesi Verilmemesinin Sonucu” başlıklı 128/1. maddesine göre; “süresi içinde cevap dilekçesi vermemiş olan davalı, davacının dava dilekçesinde ileri sürdüğü vakıaların tamamını inkâr etmiş sayılır.” Davayı inkar etmiş sayılan davalı, daha sonra ikici cevap dilekçesi veremez. Zira ikinci cevap dilekçesi cevaba cevap dilekçesine karşı verilir. Cevap dilekçesi vermemiş olan davalının sadece inkar ile yetinmiş olduğu varsayılır ve ön inceleme ile tahkikat aşamasında sadece inkar çerçevesinde savunma yapabilir ve bu yönde ispat faaliyetinde bulunarak delil gösterebilir ( Pekcanıtez, H.\ Atalay O.\ Özekes M.s. 294-295 ). Süresinde cevap vermediği için davayı inkar etmiş sayılan davalı, davacının dava dilekçesinde bildirdiği vakıaların doğru olmadığını ( inkarı ) ispat için karşı delil gösterebilir. Davalı, davayı inkarının karşı delilini göstermek bahanesi ile yeni vakıalar ( mesela zamanaşımı veya borcu ödediğini ) ileri sürerse, bununla savunmasını genişletmiş olur; bu ise kural olarak yasaktır. Bu halde mahkeme, davacının iddiasının doğru olmadığını ispat için davalının göstereceği delilleri inceleyip, davacının delilleri ile birlikte değerlendirerek varacağı sonuca göre hüküm vermelidir. ( Kuru B.\ Arslan R.\Yılmaz E.: Medeni Usul Hukuku Ders Kitabı, Ankara 2014, 25. Bası, s.317 ).
+
+Yine 6100 Sayılı HMK’nın “Ön İncelemenin Kapsamı” başlıklı 137/1. maddesine göre; dilekçelerin karşılıklı verilmesinden sonra ön inceleme yapılır. Mahkeme ön incelemede; dava şartlarını ve ilk itirazları inceler, uyuşmazlık konularını tam olarak belirler, hazırlık işlemleri ile tarafların delillerini sunmaları ve delillerin toplanması için gereken işlemleri yapar, tarafların üzerinde serbestçe tasarruf edebileceği davalarda onları sulhe veya arabuluculuğa teşvik eder ve bu hususları tutanağa geçirir.
+
+6100 Sayılı HMK’nın “Ön İnceleme Duruşması” başlıklı 140/5. maddesine6100 Sayılı HMK’nın “Ön İnceleme Duruşması” başlıklı 140/5. maddesine göre; ön inceleme duruşmasında, taraflara dilekçelerinde gösterdikleri, ancak henüz sunmadıkları belgeleri mahkemeye sunmaları veya başka yerden getirtilecek belgelerin getirtilebilmesi amacıyla gereken açıklamayı yapmaları için iki haftalık kesin süre verilir. Bu hususların verilen kesin süre içinde tam olarak yerine getirilmemesi hâlinde, o delile dayanmaktan vazgeçilmiş sayılmasına karar verilir. Aynı Kanunun 119 ve 121. maddelerinde delillerin gösterilmesinden bahsedilmesine rağmen, 137, 140. maddelerinde delillerin sunulmasından ve toplanmasından bahsedilmektedir. Burada vurgulanması gereken husus özellikle 140. maddede “dilekçelerinde gösterdikleri” ibaresinin kullanılmış olmasıdır.
+
+6100 Sayılı HMK’nın 140. maddesinin6100 Sayılı HMK’nın 140. maddesinin gerekçesinde belirtildiği üzere taraflar, delil olarak dayandıkları belgeleri dilekçelerine ekleyerek vermek ya da başka yerden getirilecekse bunu belirtmek zorundadırlar. Şayet taraflar, bu konuda yapmaları gereken işlemleri eksik bırakmışlarsa, tahkikata başlamadan önce, taraflara son kez kısa bir süre verilerek bu eksiklikleri tamamlamaları yönünde olanak sağlanmıştır. Taraflar bu imkanı da doğru kullanamazlarsa, artık tahkikat mevcut delillerle yürütülecek ve tarafların o delile dayanmaktan vazgeçtikleri kabul edilecektir.
+
+Özetle; 6100 Sayılı HMK’nın 119/1-f maddesine göre dava dilekçesinde iddia edilen her bir vakıanın hangi delillerle ispat edileceği, 129/1-e maddesine göre de cevap dilekçesinde savunmanın dayanağı olarak ileri sürülen her bir vakıanın hangi delillerle ispat edileceğinin ayrı ayrı belirtilmesi gerekir. 6100 Sayılı HMK’nın 137., 140. maddelerinde ise; 119, 129. maddelerdeki düzenlemenin aksine, delillerin belirtilmesinden değil, tarafların delillerini sunmaları ve delillerin toplanması için gereken işlemleri yapmasından bahsedilmiştir. Buna göre; delillerin dava ve cevap dilekçelerinde belirtilmesi, dilekçelerde belirtilen delillerin en geç ön inceleme duruşmasında mahkemeye sunulması, başka bir yerden getirtilecek olması halinde delillerin toplanması için gerekli işlemlerin yapılması gerekir. Yani dava ve cevap dilekçelerinin verilmesinden sonra tarafların iddia ve savunmalarını kanıtlayıcı delil bildirmeleri mümkün değildir.
+
+Dilekçelerin teatisi aşamaları bu şekilde net sürelere bağlı olarak düzenlendikten sonra yasa koyucu, delil bildirmenin “süreye” bağlı olduğunu tekrar vurgulayan 145. maddeye yer vermiştir. 6100 Sayılı HMK’nın “Sonradan Delil Gösterilmesi” başlıklı 145/1. maddesine göre; taraflar, Kanunda belirtilen süreden sonra delil gösteremezler. Ancak bir delilin sonradan ileri sürülmesi yargılamayı geciktirme amacı taşımıyorsa veya süresinde ileri sürülememesi ilgili tarafın kusurundan kaynaklanmıyorsa, mahkeme o delilin sonradan gösterilmesine izin verebilir.
+
+6100 Sayılı HMK’nın 145. maddesinin6100 Sayılı HMK’nın 145. maddesinin birinci cümlesinde de tarafların, Kanunda belirtilen süreden sonra delil gösteremeyecekleri açıkça belirtilmiştir. 145. maddenin ikinci cümlesinde; birinci cümledeki tarafların Kanunda belirtilen süreden sonra delil gösteremeyeceklerine dair olarak getirilen istisnanın dava ve cevap dilekçelerinde hiç delil belirtmeyen, ön inceleme aşamasında da delillerini sunmayan veya toplanması için gerekli işlemleri yapmayan tarafların tahkikat aşamasında delil bildirme haklarının olduğu şeklinde anlaşılması mümkün değildir. 145. maddenin gerekçesinde, “uygulamada, davaların uzamasının temel sebeplerinden birinin de gereksiz yere yeni delil sunulması ve bu konuda taraflara verilen sürelere uyulmaması olduğunun bilindiği, maddenin ilk fıkrasıyla, Kanunda belirtilen sürelerden sonra, davada yeni delil sunulmasının yasak olduğunun kural olarak benimsendiği, fakat iki istisnanın kabul edildiği, bunun için; yeni delil sunulması talebinin yargılamayı geciktirme amacı taşımaması veya delilin süresinde sunulmamasının ilgili tarafın kusuru dışında bir sebebe dayanması halinde, hâkimin gerekçesini de belirtmek şartıyla, yeni delil sunulmasına izin verebileceği, bu şekilde delil sunma kuralına istisna getirilmesinin hukuki dinlenme hakkının tabii bir sonucu olduğu” belirtilmiştir.
+
+Tahkikatın amacı, kural olarak delil toplamak değil, delilleri incelemek ve değerlendirmektir; aksi halde tahkikat tamamlanamaz ve yargılama uzar. Bu sebeple 145. maddede belirtilen ve tarafın etki alanı dışında kalan çok özel durumlar dışında, sonradan delil sunulması halinde bu deliller dikkate alınmamalıdır. Keza, tarafların 145. madde şartları oluşmadan sonradan delil sunması ya da kanun yoluna başvururken bu şekilde delilleri dilekçesine ekleyip vermeleri kabul edilmemelidir ( Pekcanıtez, H.\ Atalay O.\ Özekes M., s. 332-333 ).
+
+Tüm bu hususlar birlikte değerlendirildiğinde; 6100 Sayılı HMK’nın sistematiği içinde; tahkikat aşamasına geçilmezden evvel tarafların uyuşmazlıkların çözümü için ileri sürdükleri delillerin daha işin başında belirlenerek tahkikatın etkin bir şekilde yapılmasının amaçlandığı anlaşılmaktadır. Yargılamanın etkin ve makul bir süre içinde bitirilmesi için delil gösterilmesi dilekçelerin teatisi ( dava, cevap, cevaba cevap ve ikinci cevap ) aşamasına hasredilmiştir. Buna göre, dilekçelerin teatisi aşamasında herhangi bir delil bildirmeyen davacı veya davalıya ön inceleme duruşmasında delillerini bildirmesi için yeni bir süre verilmesine imkân bulunmamaktadır.
+
+Somut olayda; davalı asil 03.05.2012 tarihli cevap dilekçesi sunmuş, dilekçe içeriğinde ek olduğunu belirttiği belgeler yanında sadece tanık deliline dayanmış yemin dahil olmak üzere başkaca delil bildirmemiştir. Mahkemece 03.04.2012 tarihli tensip zaptının “b” bendinde davalı tarafa dava dilekçesi ve ekleri ile ön inceleme ve tahkikat gününün, dava ile ilgili tanıkları dahil tüm delillerini, delillerin ispat edileceği hususları ve tanıkların dinleneceği konuları 2 hafta içinde sunmaları, tanıkları için 30,00-TL ücret, 7,00-TL tebligat gideri, cevap dilekçesinin tebliği için 7,00-TL olmak üzere avansı mahkeme veznesine depo etmeleri için kesin süre verilerek meşruhatlı davetiye ile tebliğine” karar verilmiş, tensip zaptı davacı vekiline tebliğ edilmiş iken davalı asile çıkarılan tebligatta tensip zaptının bulunduğu belirtilmeksizin “dava dilekçesi 03.04.2012” şeklinde açıklama yer aldığı görülmüştür. Tebligatta belirtilen ön inceleme duruşma günü olan 21.05.2012 tarihli duruşmaya ve takip eden tüm duruşmalara davalı şirket vekili katılmıştır. Davalı şirket vekili ön inceleme duruşmasında cevap dilekçesi içeriği ile ilgili beyanda bulunduktan sonra mahkemece tarafların uzlaşamadıkları hususlar tespit edilmiş ve neticede tarafların tanıkların dinlenmesini talep ettikleri görülmüştür.
+
+Mahkemece takip eden duruşmalarda taraf tanıkları dinlenmiş, gösterilen diğer deliller toplanmış ve bilirkişi raporu alınmıştır.
+
+Davacı tarafından bilirkişi raporundan sonra talep konusu alacak tutarları ıslah edilmek suretiyle artırılmıştır.
+
+Davalı şirket vekili 06.02.2013 tarihli duruşmada, yıllık ücretli izinlerinin kullandırıldığı noktasında davacıya yemin teklif ettiklerini bildirmiş olup, davacı vekili ise davalının yemin deliline dayanmadığını, bu sebeple bu aşamadan sonra yemin deliline dayanmasını kabul etmediklerini beyan etmiştir. Mahkemece yemin hususunda herhangi bir işlem yapılmaksızın aynı celsede karar verilmiştir.
+
+Yukarıda belirtilen yasal düzenlemeler dikkate alındığında, cevap dilekçesinde ibraname ve bir kısım belgeler yanında tanık beyanı dışında başkaca herhangi bir delil bildirmeyen, sonradan delil gösterilebilmesi için HMK’nın 145.maddesinde belirtilen istisnai hallerin mevcudiyetini de ileri sürmeyen davalının ön inceleme aşamasından sonra yapılan üçüncü duruşmada yemin deliline dayanması mümkün değildir.
+
+Hukuk Genel Kurulunda yapılan görüşmeler sırasında bir kısım üyelerce 6100 Sayılı HMK’nın 145/1-2. cümlesi uyarınca süresinde gösterilmeyen delilin ileri sürülmesinin yargılamayı geciktirme amacı taşımaması halinde yeni delil gösterilebileceği, somut olayda davalının yargılamayı geciktirmek amacıyla hareket ettiği ileri sürülmediği gibi savunmasını diğer delillerle kanıtlayamayan davalının kesin delil olan yemin delilini göstermesinin yargılamayı geciktirme amacı taşımadığı belirtilmişse de bu görüş kurul çoğunluğu tarafından benimsenmemiştir.
+
+Hal böyle olunca, yerel mahkemenin cevap dilekçesinde delil bildirmeyen ve delilden bahsetmeyen, cevap dilekçesinde sadece tanık ismi ve adresi vermekle yetinen ve bu şekilde delil olarak yalnızca tanık beyanlarına dayanan davalının, yargılamanın son aşamasında yeni bir delile dayanamayacağı gibi daha önce dayanmadığı yemin delilini gündeme getiremeyeceği gerekçesiyle verdiği davanın kısmen kabulüne dair direnme kararı yerindedir.
+
+Açıklanan sebeplerle direnme kararı yerinde olup onanmalıdır.
+
+SONUÇ : Davalı şirket vekilinin temyiz itirazlarının reddi ile, yukarıda açıklanan sebeplerle direnme kararının ONANMASINA, aşağıda dökümü yazılı ( 1319,29-TL ) harcın temyiz edenden alınmasına, karar düzeltme yolu kapalı olmak üzere, 18.01.2017 gününde oyçokluğu ile karar verildi.
+
+KARŞI OY :
+
+Dava, işçilik alacaklarının tahsili istemine ilişkindir.
+
+Direnme yoluyla HGK önüne gelen uyuşmazlık cevap dilekçesinde dayanılmayan yemin deliline daha sonra dayanılıp dayanılamayacağı noktasında toplanmaktadır. 145/1-1 cemlesine göre taraflar Kanunda belirtilen süreden sonra delil gösterilemez. Ancak aynı maddenin 2. cümlesinde bir delilin sonradan ileri sürülmesi yargılamayı geciktirme amacı taşımıyorsa veya süresinde ileri sürülmemiş ilgili tarafın hususundan kaynaklanmayacağı, mahkeme o delilin sonradan gösterilmesine izin verebilir şeklindedir. Bu ifadeden anlaşılacağı gibi süresinde gösterilmeyen delilin ileri sürülmesi yargılamayı geciktirme amacı taşımaması halinde yeni delil gösterilebilir. Somut olayda davalının bu amaçla davrandığı ileri sürülmediği gibi bu yolda bir delil ve yemin de yoktur. Savunmasını diğer delillerle kanıtlayamayan davalının kesin delil olan yemin delilini göstermesi davanın aydınlatılması yükümlülüğü kapsamında mümkün olması sebebiyle direnme kararının bozulması kanaatinde olduğumdan Sayın çoğunluğun kararının onanması doğrultusundaki görüşüne katılmıyorum.
+
+YARGITAY 14. HUKUK DAİRESİ
+Esas: 2015/10755 Karar: 2015/9602Tarih: 02.11.2015
+
+HMK 145. Madde
+
+Sonradan Delil Gösterilmesi
+
+Dava, yüklenicinin temliki ile kazanılan kişisel hakka dayalı tapu iptali ve tescil, bu istek kabul edilmediği takdirde de ödenen satış bedelinin ödeme tarihinden itibaren işleyen Merkez Bankasının dövize uyguladığı en yüksek kur üzerinden faizi ile birlikte tahsili istemine ilişkindir.
+
+Davalı vekili, 01.03.2011 günlü cevap dilekçesinde satış bedelinin tamamının ödenmediğini, sözleşmenin ibraz edilmesi halinde ödemenin yapılmadığına dair yemin teklif etme haklarının saklı tutulduğunu belirtmiş ve yargılama aşamasında verdiği 16.07.2012 günlü sözleşme ve makbuzlara karşı verdiği yazılı beyanında ise; 08.02.2008 günlü harici sözleşmenin geçersiz olduğu için 26.02.2008 tarihinde noterden sözleşme düzenlendiğini, 08.02.2008 tarihli sözleşme içeriğinin gerçek dışı yazıldığını ayrıca 26.02.2008 tarihli 30.000 GBP bedelli makbuz içeriğinin de davacının 60.000 GBP ödeme yapıldığı iddiasını çürüttüğünü, makbuz ve sözleşme aslının ibraz edilmediğini ileri sürerek davanın reddini talep etmiştir.
+
+Mahkemece, sözleşme ve ödeme makbuz asıllarının verilen kesin süreye rağmen ibraz edilemediği, davalı tarafça ödeme yapılmadığına dair yemin edildiği, yemin eda edildikten ve kesin süreden sonra davacı tarafından ödeme belgesi ibraz edilmiş ise de kesin süre nedeniyle davalı lehine kazanılmış hak doğduğu gerekçesiyle davanın reddine karar verilmiştir.
+
+Hükmü, davacı vekili temyiz etmiştir.
+
+Davada, delil olarak sunulan haricen düzenlenen 08.02.2008 tarihli satış sözleşmesi, 14.02.2008 tarihli düzenleme şeklinde taşınmaz mal satış vaadi sözleşmesi ile 26.02.2008 tarih 30.000 GBP “İngiliz Sterlin”i miktarlı ödeme makbuzuna karşı davalı tarafça yargılamanın hiçbir aşamasında imza itirazında bulunulmamış, sadece ödemenin tamamının yapılmadığı savunulmuş ve belge asıllarının sunulması halinde; sözleşme ve belge içeriğinin gerçeği yansıtmadığı için davacının ödeme yapmadığına dair yemin haklarının olduğunu açıklamıştır. Nitekim, makbuz aslı 18.06.2014 günlü duruşmada ibraz edilmiştir.
+
+HMK’nın 145. maddesiHMK’nın 145. maddesi “sonradan delil gösterilmesi” başlığı altında aynen “Taraflar, Kanunda belirtilen süreden sonra delil gösteremezler. Ancak bir delilin sonradan ileri sürülmesi yargılamayı geciktirme amacı taşımıyorsa veya süresinde ileri sürülememesi ilgili tarafın kusurundan kaynaklanmıyorsa, mahkeme o delilin sonradan gösterilmesine izin verebilir. ” hükmü getirilmiştir.
+
+Tüm bu açıklamalara göre; taraflar arasında önce haricen ve daha sonra noterden düzenleme şeklinde sözleşme yapıldığı konusunda uyuşmazlık bulunmadığı, uyuşmazlığın ödemeler noktasında toplandığı anlaşılmaktadır.
+
+1-Yapılan yargılamaya, toplanan delillere ve dosya kapsamına göre özellikle davalı yüklenicinin arsa sahiplerine karşı edimini yerine getirmediği, teslim süresinin dolmasına rağmen inşaat seviyesinin % 32 olduğunun bu nedenle yüklenicinin temlikine dayalı tapu iptali ve tescil isteminin reddinde bir isabetsizlik bulunmamasına göre, davacı vekilinin aşağıdaki bendin kapsamı dışında kalan diğer temyiz itirazları yerinde görülmemiş, reddi gerekmiştir.
+
+2-Bedel istemine gelince; 26.02.2008 tarihli noterden düzenleme satış vaadi sözleşmesinde 10.000,00 TL nakit ödeme yapıldığı belirtilmiştir. Sözleşme, biçim koşuluna uygun olup geçerlidir. Sözleşmede alındığı yazılan satış bedelinin gerçekte ödenmediği savunulmuş olup, bu savunma senede karşı bir iddia olacağından kanıtlama yükü TMK’nın 6. maddesi hükmü uyarınca bunu iddia eden vaat borçlusuna düşer.
+
+Bütün bu anlatılanlardan sonra mahkemece yapılması gereken iş, davacı tarafça dosyaya sunulan belge asılları içeriği, tarafların iddia ve itirazları doğrultusunda inceleme ve değerlendirme yapılarak oluşacak sonuca uygun bir karar vermek olmalıdır. Eksik inceleme ve araştırma ile yanılgılı hukuki saptamaya dayalı hüküm açıklanan nedenlerle bozulmalıdır.
+
+Sonuç: Yukarıda (1) no’lu bentte açıklanan nedenlerle davacı vekilinin diğer temyiz itirazlarının reddine, (2) no’lu bent uyarınca temyiz itirazlarının kabulü ile hükmün BOZULMASINA, kararın tebliğinden itibaren 15 gün içinde karar düzeltme yolu açık olmak üzere 02.11.2015 tarihinde oybirliği ile, karar verildi.
+
+YARGITAY 11. HUKUK DAİRESİ
+Esas: 2014/5534 Karar: 2014/11388Tarih: 13.06.2014
+
+HMK 145. Madde
+
+Sonradan Delil Gösterilmesi
+
+Davacı vekili, davalının, müvekkiliyle dava dışı şirket arasında imzalanan genel kredi sözleşmesini müşterek borçlu/müteselsil kefil sıfatıyla imzaladığını, borcun ödenmemesi üzerine hesabın kat edilerek davalıya ihtarname gönderildiğini, davalının cevabi ihtarnamesinde asil veya kefil sıfatıyla herhangi bir kredi sözleşmesini imzalamadığını bildirdiğini, oysa imzanın davalı tarafından banka yetkilileri önünde atıldığını ileri sürerek, toplam 14.241 TL’nin davalıdan tahsiline karar verilmesini talep ve dava etmiştir.
+
+Davalı vekili, müvekkilinin davacı banka ile ile asıl veya kefil sıfatıyla herhangi bir sözleşme imzalamadığını savunarak, davanın reddini istemiştir.
+
+Mahkemece, iddia, savunma ve tüm dosya kapsamına göre, kredi sözleşmesindeki imzanın davalıya ait olmadığının Adli Tıp Kurumu raporuyla belirlendiği, davacının yemin deliline de başvurmadığı, bu haliyle davanın ispat edilemediği gerekçesiyle davanın reddine karar verilmiştir.
+
+Kararı, davacı vekili temyiz etmiştir.
+
+Dava, genel kredi sözleşmesine dayalı alacak istemine dair olup yukarda yapılan özetten de anlaşılacağı üzere mahkemece, genel kredi sözleşmesindeki imzanın davalıya ait olmadığının Adli Tıp Kurumu raporuyla tespit edildiği, davanın kanıtlanamadığı gerekçesiyle davanın reddine karar verilmiştir. Ancak, dosyaya sunulan Adli Tıp Kurumu raporunda, davaya dayanak genel kredi sözleşmesindeki imzanın davalının eli ürünü olup olmadığının tespit edilemediği açıklanmış olup mahkemece kabul edildiği gibi imzanın davalıya ait olmadığı yönünde bir tespit yapılmamıştır.
+
+Öte yandan, Adli Tıp Kurumu’nun açıklanan şekilde rapor düzenlemesi üzerine davacı vekili, 29.7.2013 tarihli oturumda, davalının imzayı banka memurları önünde attığını belirterek bu kişilerin tanık olarak dinlenilmelerini talep etmiş olup mahkemece, verilen kesin süre içerisinde tanık deliline dayanılmadığı ve tanık isimlerinin bildirilmediği gerekçesiyle bu talebin reddine karar verilmiştir. Oysa, davacı tarafça, dava dilekçesinde tanık deliline dayanıldığı gibi H.M.K.nın 145. maddesi uyarınca da, her ne kadar kanunda belirtilen süreden sonra delil gösterilmesi mümkün değil ise de bir delilin sonradan ileri sürülmesi yargılamayı geciktirme amacı taşımıyorsa veya süresinde ileri sürülememesi ilgili tarafın kusurundan kaynaklanmıyorsa, mahkemece o delilin sonradan gösterilmesine izin verilebilir. Somut olayda da, Adli Tıp Kurumu raporuyla ortaya çıkan durum karşısında davacının tanık deliline dayandığı gözetildiğinde bu delilin sonradan ileri sürülmesinin yargılamayı uzatmaya matuf olduğu söylenemez. Bu itibarla mahkemece, sözleşmedeki imzanın davalıya ait olup olmadığı hususunda kesin bir kanaat oluşturulmadığından davacının bildirdiği tanıkların dinlenilmesiyle oluşacak sonuç çerçevesinde karar verilmesi gerekirken yazılı şekilde eksik incelemeye dayalı olarak hüküm tesisi doğru olmamış, kararın bu sebeple bozulması gerekmiştir.
+
+SONUÇ : Yukarıda açıklanan sebeple davacı vekilinin temyiz itirazlarının kabulüyle kararın davacı yararına BOZULMASINA, ödenen temyiz peşin harcın istemi halinde temyiz edene iadesine, 13.6.2014 tarihinde oybirliğiyle karar verildi.
+
+UYARI

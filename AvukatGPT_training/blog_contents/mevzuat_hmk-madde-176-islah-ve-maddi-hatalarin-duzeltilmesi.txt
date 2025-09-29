@@ -1,0 +1,478 @@
+Islah ve Maddi Hataların Düzeltilmesi
+
+Kapsamı ve Sayısı
+
+HMK Madde 176
+
+HMK Madde 176 (Islah) Gerekçesi
+
+ISLAH
+
+1. Islah kavramı
+
+2. Islahın hukuki niteliği
+
+3. Islahın amacı
+
+4. Islahın şartları
+
+4a. Islaha Elverişli Bir İşlemin Bulunması
+
+4b. Islahın davanın taraflarınca yapılabilmesi
+
+4c. Islaha aynı davada bir kez başvurulabilmesi
+
+4d. Islahın tahkikatın sonuna kadar yapılabilmesi
+
+4e. Islah yoluna başvuran tarafın, ıslah yapılması nedeniyle ortaya çıkan yargılama giderlerini ve karşı tarafın zararlarını tazmin etmesinin gerekmesi
+
+5. Islahın türleri
+
+5a. Kısmen (kısmi) ıslah
+
+5b. Tamamen (tam) ıslah
+
+6. Islahın etkisi
+
+HMK 176 (Islah) Yargıtay Kararları
+
+(1) Taraflardan her biri, yapmış olduğu usul işlemlerini kısmen veya tamamen ıslah edebilir.
+
+(2) Aynı davada, taraflar ancak bir kez ıslah yoluna başvurabilir.
+
+1086 sayılı Kanunun 83 üncü maddesi hükmü esas olarak kabul edilmiş, ancak anlaşılmasını kolaylaştırmak için ifadesi değiştirilmiş ve iki fıkra hâlinde düzenlenmiştir.
+
+Taraflar, daha önce olduğu gibi, ıslah yolu ile iddialarını ve savunmalarını genişletip değiştirebileceklerdir. Buna göre, davacı dava dilekçesinde belirttiği dava sebebini değiştirebileceği gibi, örneğin; daha önce belirttiği ödünç sözleşmesi sebebini değiştirip, sebepsiz zenginleşme sebebine dayanabilecektir. Keza, davacı dava dilekçesinde belirttiği vakıaları eksik belirtmişse, onları ıslah yolu ile tamamlayabilecektir. Ayrıca, davacının dava dilekçesinde belirttiği talebini ıslah yolu ile artırması, örneğin daha önce istediği ellibin Türk Lirasını yüzbin Türk Lirasına çıkarması mümkün olduğu gibi, talebini değiştirmesi de mümkündür, aynen talep ettiği otomobilden vazgeçip, ıslah yolu ile değerini isteyebileceği gibi, otomobilden tümüyle vazgeçip, ıslah yolu ile bilgisayar istemesi de mümkündür. Aynı şekilde davalı da, vermiş olduğu cevap dilekçesini ıslah edip, daha önce eksik bıraktığı savunmasını tamamlayabileceği gibi, savunmasını dayandırdığı vakıaları tümüyle de değiştirebilecektir.
+
+Hukukumuzda, ıslah yolu ile davanın taraflarının değiştirilip değiştirilemeyeceği konusunda farklı görüşler mevcut olup, Yargıtayın uygulaması da ıslah yolu ile davanın taraflarının değiştirilemeyeceği yönündedir. Bu Tasarıda, açıklanan esaslar tamamen kabul edilmiştir.
+
+Islah yolu ile davanın geciktirilmesi ve sürüncemede bırakılması mümkün olduğundan, ikinci fıkra ile, tarafların ıslah yoluna bir defa başvurabileceklerine ilişkin sınırlama bu Tasarıda da kabul edilmiştir.
+
+Uygulamada, zamanaşımının ıslah yolu ile ileri sürülüp sürülemeyeceğine dair bazı tereddütler var ise de zamanaşımı ilk itiraz olmayıp, ıslah yolu ile de ileri sürülebileceğinde tereddüt etmemek gerekir.
+
+(YİBGK-K.2019/3)
+
+Islah, 6100 sayılı HMK’nın Üçüncü Kısım Beşinci Bölümün Altıncı Ayrımında 176 ile 182’nci maddeler arasında düzenlenmiştir. Bu düzenleme genel anlamda HUMK’da yer alan düzenlemenin sadeleştirilmiş hâlinden ibarettir. Islaha ilişkin düzenlemelerin hemen ardından ise 183’üncü maddede maddi hataların düzeltilmesine yer verilmiştir.
+
+Islah kelime olarak bir şeyi iyileştirme, düzeltme anlamını içerse de, yargılama hukuku bakımından bundan daha özel ve teknik bir anlama sahiptir (Pekcamtez, Pekcamtez Usûl, s. 1486).Islah; taraflardan birinin yapmış olduğu usul işleminin tamamen veya kısmen düzeltilmesine denir (Kuru, s.3965). Islah müessesesi, dava değiştirme, başka deyişle iddia ve müdafaanın değiştirilmesi veya genişletilmesi yasağını bertaraf eden bir imkândır. Zira bu suretle, aslında yasal itiraz ile karşılaşılabilecek olan herhangi bir taraf muamelesi, ıslah kurumu yardımı ile artık bu itirazı davet etmeksizin yapılabilmektedir (S., Üstündağ: Medeni Yargılama Hukuk, C.I-II, B.5, İstanbul 1989, s.454). Bu tanımlardan da anlaşılacağı üzere, bir davada, davacı veya davalı iddia veya savunma sebeplerinin hepsini usul işlemlerinde yapılan bir hata ya da unutma nedeni ile mahkemeye sunmamış olabilir. Yargılama sırasında ortaya çıkan bazı gelişmeler de yeni iddia veya savunma sebeplerinin ileri sürülmesini gerektirebilir. İşte bu eksiklikler HUMK’nm yürürlükte olduğu dönemde diğer tarafın açık veya zımni muvafakati ile giderilebilmekteydi. HMK`nın yürürlüğe girmesi ile birlikte zımni muvafakat ile eksikliklerin giderilebilmesi kaldırılmış ve sadece diğer tarafın açık muvafakati ile eksikliklerin giderilebileceği kabul edilmiştir. Taraflardan birinin iddiasını veya savunmasını değiştirmek veya genişletmek istemesi hâlinde, karşı taraf buna açık bir şekilde rıza göstermezse; iddiasını veya savunmasını değiştirmek veya genişletmek isteyen tarafın ıslaha başvurmaktan başka çaresi yoktur. Şu hâlde ıslah hem iddianın hem de savunmanın genişletilmesi ve değiştirilmesi yasaklarının istisnalarından birini oluşturur. Sözü edilen yasakların işlerlik kazandığı andan itibaren, iddiasını ya da savunmasını genişletmek ya da değiştirmek isteyen tarafın, karşı tarafın buna açık muvafakat vermemesi halinde müracaat edeceği kurum, ıslah kurumudur (Tanrıver, 729).
+
+6100 sayılı HMK`nın ıslaha ilişkin madde gerekçesinde de “…1086 sayılı Kanunun 83 üncü maddesi hükmü esas olarak kabul edilmiş, ancak anlaşılmasını kolaylaştırmak için ifadesi değiştirilmiş ve iki fıkra hâlinde düzenlenmiştir. Taraflar, daha önce olduğu gibi, ıslah yolu ile iddialarım ve savunmalarını genişletip değiştirebileceklerdir. Buna göre, davacı dava dilekçesinde belirttiği dava sebebini değiştirebileceği gibi, örneğin; daha önce belirttiği ödünç sözleşmesi sebebini değiştirip, sebepsiz zenginleşme sebebine dayanabilecektir. Keza, davacı dava dilekçesinde belirttiği vakıaları eksik belirtmişse, onları ıslah yolu ile tamamlayabilecektir. Ayrıca, davacının dava dilekçesinde belirttiği talebini ıslah yolu ile artırması, örneğin daha önce istediği ellibin Türk Lirasını yüzbin Türk Lirasına çıkarması mümkün olduğu gibi, talebini değiştirmesi de mümkündür, aynen talep ettiği otomobilden vazgeçip, ıslah yolu ile değerini isteyebileceği gibi, otomobilden tümüyle vazgeçip, ıslah yolu ile bilgisayar istemesi de mümkündür. Aynı şekilde davalı da, vermiş olduğu cevap dilekçesini ıslah edip, daha önce eksik bıraktığı savunmasını tamamlayabileceği gibi, savunmasını dayandırdığı vakıaları tümüyle de değiştirebilecektir…” yönünde açıklamalara yer verilerek ıslahın iddia ve savunmasının değiştirilmesine imkân veren yönüne vurgu yapılmıştır.
+
+…
+
+İddia ve savunmanın genişletilmesi veya değiştirilmesi yasağı yazılı yargılama usulüne tabi davalarda cevaba cevap ve ikinci cevap dilekçesinin verilmesinden sonra başlar. Başka bir anlatımla davacı cevaba cevap dilekçesi ile iddiasını; davalı ise ikinci cevap dilekçesi ile savunmasını serbestçe değiştirip genişletebilir. Basit yargılama usulünün uygulandığı davalarda ise bu yasak davacı yönünden davanın açılması ile; davalı yönünden ise cevap dilekçesinin verilmesi ile devreye girer. 
+…
+Bu yasak ya ıslah ile ya da diğer tarafın açık muvafakati ile aşılabilmektedir. Bu nedenle ıslah, kendine özgü (sui generis) hukuki bir çare ve yoldur.
+
+Islah sözlü olarak yapılabileceği gibi, yazılı olarak da yapılabilir (HMK m. 177/1). Islah duruşmada sözlü olarak yapılmış ise, sözlü ıslah beyanı tutanağa geçirildikten sonra, altı ıslah talebinde bulunan tarafından imzalanır (HMK m. 154).
+
+Tek taraflı bir irade beyanıyla kullanılan ıslahın yapılabilmesi için hâkimin onay vermesine veya karşı tarafın muvafakatini almaya gerek yoktur. Hâkim, sadece ıslahın koşullarını inceler ve yapılan ıslahın geçerli olup olmadığım değerlendirir. Islah nitelik olarak değerlendirildiğinde, taraflardan birinin tahkikat aşamasında yapmış olduğu usul işlemini düzeltmesidir.
+
+Şu hâlde kanunun aradığı şartlara ve usulüne uygun olarak yapılan ıslah, tek taraflı irade beyanı ile kullanılan ve sonuç doğuran bir usulî işlemdir; mahkemenin ya da karşı tarafın rızasına bağlı değildir (Arslan /Yılmaz /Taşpmar/Hanağası, s.525).
+
+Islahın amacı, yargılama sürecinde şekil ve süreye aykırılık sebebiyle ortaya çıkabilecek maddi hak kayıplarım ortadan kaldırmak olup ıslah, tahkikat aşamasında yapılmış olan hatalı bazı taraf usul işlemlerini bir defaya mahsus olmak üzere düzeltme hakkı veren hukukî bir çaredir. Islah yoluna başvuran taraf, diğer hukuki imkânlara nazaran daha kısa sürede ve daha az masrafla gerçekte istediği sonuca ulaşır. Eğer taraflara ıslah hakkı tanınmamış olsa idi, genel olarak davacı tekrar dava açmak zorunda kalacaktı.
+
+Sonuç olarak, ıslah dava sebebinin veya savunmanın değiştirilmesi, delillerin ileri sürülmesi ve davaya dâhil edilmemiş vakıaların davaya dâhil edilmesi amaçlarına hizmet eden hukuki bir müessesedir.
+
+Islah, bir davada taraflara bir defaya mahsus olmak üzere tanınmış istisnai bir hak ise de, yargılama süreci boyunca yapılan her usûl işleminin ıslahla değiştirilmesi ya da düzeltilmesi mümkün değildir. Kanun koyucu, ıslah hakkının kullanılabilmesini bazı şartların gerçekleşmesine bağlamakla birlikte bu şartlara Kanun`da ıslaha ilişkin hükümlerde dağınık bir şekilde yer verilmiştir. Islahın şartlarının şu şekilde sıralanması mümkündür.
+
+Islaha elverişli bir usul işleminin bulunması (HMK m. 176/1),
+
+Islahı davanın taraflarının yapabilmesi (HMK m. 176/2)
+
+Islaha tarafların sadece bir kez başvurabilmesi (HMK m. 176/2)
+
+Islahın tahkikatın sonuna kadar yapılabilmesi (HMK m. 177)
+
+Islahın yazılı olarak bir dilekçeyle veya sözlü olarak yapılabilmesi (HMK m. 177/2)
+
+Islah yoluna başvuran tarafın, ıslah yapılması nedeniyle ortaya çıkan yargılama giderlerini ve karşı tarafın zararlarını tazmin etmesinin gerekmesi (HMK m. 178)
+
+Islahın amacı yukarıda da açıklandığı üzere yargılama sürecinde şekil ve süreye aykırılık sebebiyle ortaya çıkabilecek maddi hak kayıplarını ortadan kaldırmak olduğundan, hak ve alacağı bu sürecin dışında ortadan kaldırmış olan işlemlerin, yani maddi hukuk işlemlerinin ıslah yoluyla düzeltilebilmesi olanaklı değildir.
+
+Tarafların usul işlemlerinin içinde maddi hukuk işlemlerinin yapılması da mümkündür. Örneğin davadan feragat, davayı kabul, sulh, bir sözleşmenin feshi, takas beyanı gibi. Bu maddi hukuk işlemleri, bir usul işlemi içinde yapılmış olmakla beraber içerik bakımından maddi hukuk işlemi niteliğini korurlar. Çünkü bu işlemlerin şart ve etkileri maddi hukuk tarafından düzenlenmektedir. Bu nedenle, bir usul işlemi içinde yapılmış olan bu gibi maddi hukuk işlemlerinin ıslah yolu ile düzeltilmesine imkân yoktur (Arslan/Yılmaz/Taşpınar/Hanağası, s.523).
+
+Usûl işlemleri, yargılamaya katılanlar tarafından yapılan ve yargılamayı başlatan, sürdüren ve sona erdiren işlemlerdir. Gerçekten, davanın açılmasından sonuçlanmasına kadar birçok işlem yapılır. Örneğin, dava dilekçesi ile açılan davada, taraflar duruşmaya çağrılır, bu duruşmada iddia ve savunmalarını ispat için deliller gösterirler, delillerin incelenmesinden sonra mahkeme bir karar verir ve bu karara karşı taraflarca kanun yoluna başvurulabilir. Bu işlemlerin bir kısmı mahkemece, bir kısmı ise taraflarca yapılır. Mahkeme tarafından yapılan usûl işlemlerine mahkeme usûl işlemleri; taraflarca yapılan usûl işlemlerine ise taraf usûl işlemleri denir (Pekcamtez, Pekcamtez Usûl, s. 433).
+
+Taraf usûl işlemleri ise davanın açılmasından mahkemenin dava sonunda verdiği karara kadarki süreçte, tarafların tek başına, birbirleri ile ya da mahkeme ile yaptığı işlemlerdir. Bu işlemler davanın ilerlemesini sağlar ve davanın sonunda verilecek karara etki edecek irade beyanı ve bilgilerin mahkemede açıklanmasını sağlar. Eğer söz konusu irade beyanı ya da mahkemeye sunulan bilgi davanın çözümüne etkili değilse, bu işlem taraf usul işlemi olarak kabul edilemez.
+
+Şu hâlde HMK’nın 176’ncı maddesi hükmü karşısında ıslahın konusunun taraflarca yapılmış usûl işlemleri olduğu anlaşılmakladır.
+
+Mahkeme usûl işlemleri, ıslaha başvurmak suretiyle düzeltilemezler. Yine, taraf usûl işlemleri arasında yer almakla birlikte iki taraflı usûl işlemi konumunda bulunan usûl sözleşmelerinin ıslahla geçersiz kılınması mümkün değildir (Tanrıver, 730, 731).
+
+Kanun’da açıkça (HMK 179/2) sayılmış olmaları nedeni ile, ikrar, tanık ifadeleri, bilirkişi rapor ve beyanları, keşif ve isticvap tutanakları, yerine getirilmiş olan veya henüz yerine getirilmemiş olmakla beraber, karşı tarafın yerine getireceğini ıslahtan önce bildirmiş olması koşuluyla, yeminin teklifi, reddi veya iadesi ıslah ile geçersiz kılınamaz.
+
+Buna karşın özellikle ilk itirazlar yönünden cevap dilekçesinde ileri sürülmemesi hâlinde ıslah bir hukuki çare sunamayacaktır. Zira, cevap dilekçesi HMK’nın 116’ncı maddesinde hüküm altına alman ilk itirazlar için hak düşürücü niteliktedir.
+
+Tarafların dilekçelerinde yer alan açık yazı ve hesap hatalarının, yani maddi hataların, karar verilinceye kadar her zaman düzeltilebilmesi mümkün olduğundan, bu tür hatalar açısından ıslaha başvurmaya ihtiyaç yoktur (HMK m. 183).
+
+Şu hâlde davacının davasının temelini oluşturan maddi vakıaları ıslah yolu ile değiştirip genişletmesi, talep sonucunu rakam olarak arttırması, talep sonucunun yanına yeni kalemler ilave etmesi veya eskisinin yerine yeni bir talebi ikame etmesi; davalının ise cevap ve ikinci cevap dilekçesinde ileri sürülmemiş olan bir defiyi (örneğin zamanaşımı defi) yargılamaya dâhil etmesi, savunmasını değiştirip genişletmesi mümkündür.
+
+Bu noktada belirtmek gerekir ki, her ne kadar ıslah, mahkemenin onayına ihtiyaç olmadan yapılabilen tek taraflı bir usul hukuku işlemi ise de, ıslaha başvuran tarafın düzeltmek veya değiştirmek istediği usul işleminin, ıslaha elverişli olup olmadığının ve işlemin ıslah sonrasında bürüneceği hâlin, davaya uygun bir talep olup olmadığının hâkim tarafından değerlendirilmesi ve ıslah dilekçesinin diğer tarafa tebliği gerekecektir. Böylece hâkimin gözünden kaçabilecek hususların karşı tarafça tespit edilip hâkimin önüne getirilebilmesi ve aynı zamanda davalı yana hukuki dinlenilme hakkı açısından bilgilenme, açıklama, dikkate alınma ve değerlendirilme imkânı sağlanmış olacaktır.
+
+HMK’nın 177’nci maddesinin ikinci fıkrası uyarınca ıslah, yazılı veya sözlü olarak yapılabilmektedir. Uygulamada genellikle ıslah, ıslaha başvuran tarafın dilekçe ile mahkemeye başvurması sureti ile yapılmaktadır. Ancak duruşma sırasında ıslah talebinde bulunmak mümkün olup bu hâlde ıslah beyanı duruşma tutanağına geçirilir ve hazır olan karşı tarafa ıslaha karşı beyanda bulunmak üzere süre verilir. Karşı taraf dilerse ıslahın yapıldığı duruşmada beyanda bulunabilecektir. Islahın dilekçe ile yapılması hâlinde ise ıslah dilekçesi karşı tarafa tebliğ edilir.
+
+Ancak bu tebligat ıslahın geçerlilik şartı değildir. Bununla birlikte hukuki dinlenilme hakkının gereği olarak karşı tarafın ıslah talebi hakkında bilgi sahibi olması ve gerektiğinde bu konuda açıklama yapabilmesi gerekir (Pekcamtez, Pekcamtez Usûl, s. 1532).
+
+HMK’nın 176’ncı maddesinin ikinci fıkrası hükmü uyarınca tarafların aynı davada yalnızca bir kez ıslah hakkı bulunmaktadır.
+
+Islahın tarafların ihmal ve hataları sebebiyle başlangıçta davaya dâhil edemedikleri hususların yargılamaya sonradan da olsa dâhil edilmesini sağlayarak yeni davaların açılmasına engel olmak ve hak aramayı kolaylaştırmak gibi bir amacı olmakla birlikte, amacı dışında kullanılarak davaların uzamasına sebep olmaması için bir kez kullanılmasına izin verilmiştir. Islah yapan iyi düşünmeli ve bu imkânı bir defa kullanmalıdır. Bu hak bir defa kullanılarak tüketilmişse artık ikinci bir imkân tanınmayacaktır. İkinci kez ıslah yoluna başvurulursa mahkeme bu beyanı kendiliğinden reddeder (Pekcamtez, Pekcamtez Usûl, s. 1528).
+
+HMK’da ıslahın geçerlilik şartı olarak harca tabi olduğuna ilişkin bir hükme yer verilmemiş ise de, örneğin, kısmî ıslah yolu ile dava değerinin arttırılması hâlinde, noksan harem tamamlanması gerekecektir. Böyle bir durumda, harç yatırılmamış olsa dahi ıslah hakkı kullanılmış olduğundan bu durumda hâkim, eksik harcı yatırmayan tarafı (örnekte davacıyı) ıslah ile elde edeceği haktan mahrum edecektir. Taraf, ıslah hakkını kullandığı için de ikinci kez ıslah talebinde bulunamayacaktır.
+
+HMK’nın 177’nci maddesinin birinci fıkrası hükmü gereğince ıslah, tahkikatın sona ermesine kadar yapılabilmektedir.
+
+Hukuk yargılaması davanın açılmasından başlayıp, hükmün kesinleşmesine kadar devam eden bir süreci kapsar. Yargılama usulünde gerek taraflarca gerekse mahkeme tarafından yapılacak usul işlemleri de dâhil olmak üzere bütün işlemlerin belirli bir süre içerisinde yapılması gerekir. Bu sürelerin bir kısmı cevap süresi, temyiz süresi gibi kanun tarafından belirlenmiş, bir kısım sürelerin belirlenmesi ise hâkime bırakılmıştır. Islah yoluna da diğer usul işlemleri gibi belli bir zaman dilimi içerisinde başvurulabilir. Bir başka deyişle taraflar istedikleri zaman ıslah yoluna başvuramazlar.
+
+Islah yoluna başvurulma anının başlangıcı iddianın ve savunmanın değiştirilmesi yasağının başlangıcı ile ilgilidir. Bir başka deyişle iddianın ve savunmanın değiştirilme yasağının başlangıcı, aynı zamanda ıslah yoluna başvurulma anının başlangıcını oluşturmaktadır. Zira iddia ve savunma yasağının başlamadığı bir dönemde taraflar iddia ve savunmalarını serbestçe değiştirebilirler. İddianın ve savunmanın değiştirilmesi anının başlangıcı yazılı (HMK md. 118-142) ve basit (HMK. md. 116, 322) yargılama usulüne tabi davalarda farklılık gösterir. Kural olarak yazılı yargılama usulüne tabi davalarda iddia ve savunmanın değiştirilmesi yasağı davacı yönünden cevaba cevap dilekçesinin verilmesiyle, davalı yönünden ise ikinci cevap dilekçesinin verilmesiyle başlar. Bunun yanında ön inceleme duruşmasına taraflardan biri mazeretsiz olarak gelmezse, gelen taraf onun muvafakati aranmaksızın iddia veya savunmasını genişletebilir yahut değiştirebilir. Ön inceleme aşamasının tamamlanmasından sonra iddia veya savunma genişletilemez yahut değiştirilemez (HMK. md. 141/1).
+
+Basit yargılamaya tabi davalarda ise iddianın genişletilmesi veya değiştirilmesi yasağı dava açılmasıyla; savunmanın genişletilmesi veya değiştirilmesi yasağı cevap dilekçesinin mahkemeye verilmesiyle başlar (HMK. md. 319).
+
+Davanın her aşamasında karşı tarafın muvafakati ile iddia ve savunmayı değiştirebilme hakkı saklıdır.
+
+…Mahkemenin, duruşmada hazır bulunan tarafların (o ana kadar yapılan) tahkikatın tümü hakkındaki açıklamalarından sonra, tahkikatı gerektiren bir husus kalmadığını görmesi üzerine tahkikatın bittiğini taraflara tefhim etmesi (HMK m. 184/2) anından sonra ıslah yapılamaz. Keza HMK’nın 357’nci maddesinin birinci fıkrası uyarınca istinaf aşamasında da ıslah yapılamaz.
+
+Islah hakkının kullanılması ile bazı işlemler yapılmamış sayılacak ve yargılamanın bir kısmı boşa çıkacaktır. Buna bağlı olarak karşı tarafın zarara uğrama ihtimali yüksektir. Kanun koyucu bu nedenle HMK’nın 178’inci maddenin birinci fıkrasında “Islah eden taraf, ıslah sebebiyle geçersiz hâle gelen işlemler için yapılan yargılama giderleri ile karşı tarafın uğradığı ve uğrayabileceği zararları karşılamak üzere hâkimin takdir edeceği teminatı, bir hafta içinde, mahkeme veznesine yatırmak zorundadır. Aksi hâlde, ıslah yapılmamış sayılır.
+
+Karşı tarafın zararının kesin olarak tespit edilmesinden sonra, mahkeme veznesine yatırılan miktar eksikse tamamlattırılır, fazla ise iade edilir.” hükmü ile getirilen düzenlemeye göre yargılama giderleri ile teminatın mahkeme veznesine yatırılması, ıslah hakkını kullananın kusursuz olmasına veya iyi niyetine bağlı değildir. Yani ıslah hakkını kullanan taraf, ıslah nedeni ile geçersiz hâle gelen işlemler için karşı tarafın yapmış olduğu giderleri ödemekle mükelleftir. Burada dikkat edilmesi gereken husus, karşılanacak olan yargılama giderleri, dava sonunda aleyhine hüküm verilen tarafın ödeyeceği yargılama gideri kadar kapsamlı değildir. Bu giderler sadece davanın ıslah edilmesi sebebi ile hükümsüz hâle gelen işlemler için ödenmiş bulunan yargılama giderleridir. Yatırılacak olan gider hâkim tarafından dosya üzerinden belirlenecektir. Islah tarihinden önce
+yapılan bir işlem, ıslah hakkının kullanılmasından sonra da geçerliliğini koruyacaksa, o zaman bu işleme dair yargılama giderinin karşılanmasına gerek yoktur ve ödenecek yargılama giderlerinin kapsamı dışında bırakılmalıdır.
+
+Uğranılan zarar kapsamında ödenecek olan tazminatın ise esasen yargılamanın uzaması sebebi ile karşı tarafın uğradığı zarar olduğunu söylemek mümkündür. 1086 sayılı HUMK`da yer alan düzenlemeden farklı olarak HMK’da karşı tarafın ıslah sebebi ile uğramış olduğu zararın yanında, uğrayabileceği zararların da tazmin edilmesi hüküm altına alınmıştır. Islah hakkının kullanılması ile birlikte karşılanması gereken yargılama giderleri ile karşı tarafın uğradığı veya uğrayabileceği zararların miktarı belirlendikten sonra hâkim, ıslah edene bir hafta süre verir. Eğer hâkim miktarı geçici olarak duruşmada tespit etmiş ise bir haftalık süre ıslah edene o duruşmada tefhim edilir. Eğer tazminat ve yargılama giderleri celse arasında takdir edilmişse, miktar ıslah edene tebliğ edilir. Süre tefhim veya tebliğden itibaren işlemeye başlar. Islah eden, bir haftalık süre içerisinde takdir ve tespit edilen miktarı mahkeme veznesine yatırmazsa, ıslah yapılmamış kabul edilir ve hâkim kararını ıslahtan önceki durum ve koşullara göre verir.
+
+Islah davanın tamamen ıslahı ve kısmen ıslahı olmak üzere ikiye ayrılır. Zira HMK’nın 176’ncı maddesinin birinci fıkrasında `Taraflardan her biri, yapmış olduğu usul işlemlerini kısmen veya tamamen ıslah edebilir.” şeklindeki hüküm ile bu husus düzenlenmiştir.
+
+Dava dilekçesinin verilmesi dâhil, tüm usul işlemlerinin yapılmamış sayılması sonucunu doğuran ıslaha “davanın tamamen ıslahı”; buna karşılık tarafın, teşmil edeceği noktadan itibaren usûl işlemlerinin yapılmamış sayılması sonucunu doğuran ıslaha ise “kısmen ıslah” denir.
+
+Kısmen ıslah gerek davacı gerek davalı tarafından yapılabilir ve dava dilekçesinden sonra herhangi bir usul işlemi sonrası yapılabilmektedir.
+
+Davalı tarafça gerçekleştirilecek olan ıslah, bu yolla savunma ister genişletilsin, ister değiştirilsin, daima kısmen ıslah olacaktır. Çünkü, davalı yapacağı ıslahla en fazla cevap dilekçesinin verilmesi dâhil tüm usul işlemlerinin yapılmamış sayılmasını sağlayabilir. Sözü edilen hâlde, dava dilekçesinin verilmesi ve o çerçevede yapılmış olan usûl işlemleri geçersiz kılınamaz. Bu tespit çerçevesinde davanın tamamında ıslaha başvuru hakkı, münhasıran davacıya aittir. Çünkü ıslaha başvuru sureti ile, dava dilekçesinin verilmesi dâhil tüm usûl işlemlerinin yapılmamış sayılmasını sadece o sağlayabilir. Davacı taraf, iddiasını yani dava sebepleriyle talep sonucunu değiştirmek istiyorsa, yapacağı ıslah davanın tamamen ıslahı olacaktır. Buna karşılık iddianın yani dava sebepleriyle talep sonucunun değiştirilmesi değil de, genişletilmesi arzulanıyorsa, müracaat edilebilecek olan ıslah türü, kısmen ıslahtır (Tanrıver, 734).
+
+Kısmen ıslaha başvuran tarafa HMK’nın 181’inci maddesi uyarınca, ıslah ettiği usul işlemini yapması için bir haftalık süre verilir. Bu süre içinde ıslah edilen işlem yapılmazsa. ıslah hiç yapılmamış gibi davaya devam edilir. Dolayısıyla ıslah edilecek usul işlemin yapılabilmesi bir haftalık kesin süreye tabi kılınmıştır. Bu sürenin geçmesi ile birlikte, ıslah hakkı bir kereye mahsus olduğu için tükenecek ve dava ıslah edilmeden kaldığı yerden devam edecektir.
+
+Burada yeri gelmişken belirtilmelidir ki, kısmî davada dava konusu edilmemiş olan alacak kısmının bu dava devam ederken davaya dahil edilmesinde, ek dava açılabileceği gibi, ıslah yoluna başvurulması da seçeneği de kullanılabilir.
+
+Sözü edilen hâlde işlerlik kazanacak olan ıslah türü, davanın tamamen ıslahı değil, kısmen ıslahıdır. Çünkü talep sonucu değiştirilmemekte; sadece tutar arttırılmakta, yani genişletilmektedir. Değiştirme değil de, genişletme varsa, işlerlik kazanacak olan ıslah türü, kısmen ıslahtır. Kısmî davada zamanaşımı, ek davanın açıldığı anda kesiliyorsa, kısmen ıslah talebinde bulunulması halinde de, bu talepte bulunulduğu andan itibaren kesilir. Çünkü, kısmen ıslah, dava dilekçesinin verilmesi dahil, tüm usûl işlemlerinin yapılmamış sayılması sonucunu doğurmaz. Dolayısıyla, kısmen ıslah talebinde bulunulması hâlinde de, kısmî davanın açıldığı andan itibaren dava dışı tutulan alacak kesimi bakımından da, zamanaşımının kesilmesi gerektiği şeklindeki bir çözümlemeye varılamaz (Tanrıver, 732).
+
+…
+
+Tamamen ıslah ise, sadece davacı tarafından yapılabilen bir usûl işlemidir. Zira tamamen ıslah ile davanın en başından başka bir deyişle dava dilekçesinden itibaren o ana kadar yapılan usûl işlemleri geçersiz olmaktadır.
+
+Davasını tamamen ıslah eden davacı, yeni bir dava dilekçesi hazırlayıp mahkemeye sunmak sureti ile ıslah yoluna gidebileceği gibi, henüz ıslah dilekçesi hazırlamadan mahkemeye davasını tamamen ıslah edeceğini bildirebilir. Bu durumda davacı bildirimden itibaren bir hafta içinde yeni bir dava dilekçesi hazırlayarak mahkemeye vermek zorundadır (HMK m. 180/1 c.l).
+
+Davasını tamamen ıslah eden davacı bir hafta içinde yeni bir dava dilekçesi verirse veya ıslah dilekçesi aynı zamanda yeni bir dava dilekçesi niteliğinde ise mahkeme m.l78’e göre yargılama gideri ve davalının zararını karşılamak üzere takdir edilen teminatın da mahkeme veznesine yatırılmasından sonra, davayı yeni şekline (yeni dava dilekçesine) göre yürütür (görür). Kanun (m. 80) “yeni bir dava dilekçesi vermek zorundadır” demekte ise de, burada, davacının vermiş olduğu yeni dava dilekçesi ile yeni bir dava açılmış olmaz. Davanın tamamen ıslahı üzerine (yeni şekline göre) bakılan dava da eski (ilk açılan) davanın bir devamı niteliğindedir; bu nedenle m,180’deki bir hafta içinde yeni bir dava dilekçesi veren davacıdan yeniden başvurma harcı ile peşin karar ve ilâm harcı alınmaz. Davanın açıldığı tarihte ortaya çıkan zamanaşımı kesilmesi sonucu devam eder; davanın tamamen ıslahı, bu konuda bir değişiklik ortaya çıkarmaz (Arslan/Yılmaz/Taşpınar/Hanağası, s.525).
+
+Davasını tamamen ıslah ettiğini bildiren ve bu nedenle kendisine yeni bir dava dilekçesi sunması için bir hafta süre verilen davacı, bu bir haftalık süre içinde yeni dava dilekçesini vermezse, ıslah hakkını kullanmış sayılacağı gibi, ıslah hiç yapılmamış gibi davaya mevcut hâliyle devam edilir (HMK m. 180).
+
+Davalı ise yeni dava dilekçesinin kendisine tebliği üzerine bu yeni dava dilekçesine karşı süresi içinde (HMK m. 127) yeni bir cevap dilekçesi verecektir.
+
+Davanın tamamen ıslahında dava dilekçesinin verilmesi dâhil o ana kadar yapılan tüm usûl işlemleri geçersiz kılınmakta adeta yargılamanın en başına dönülmektedir.
+
+Buna karşılık kısmen ıslahta kısmen ıslahın kapsamına dâhil edilen, ıslaha başvuran tarafın kısmî ıslahını teşmil ettiği usûl işlemleri geçersiz hâle gelir.
+
+Islahla davada düzeltme (değiştirme) yapıldığından; ıslah yapan tarafın ıslah anından geriye doğru olan işlemler, kural olarak yapılmamış sayılır (m. 179). Bu hükmün amacı, ıslahtan önceki işlemleri ve sonuçlarını ortadan kaldırmaya yöneliktir (Arslan/Yılmaz/Taşpmar/Hanağası, s.526).
+
+Yargıtay 9. Hukuk Dairesi         2021/9897 E.  ,  2021/14096 K.
+
+Davaya konu tazminatlar ve alacakların ayrı ayrı açılabilecek davalarda talebi mümkün iken aynı dava dilekçesinde talep edilmesi, Hukuk Muhakemeleri Kanunu’nun 110. maddesi kapsamında “davaların yığılması” olarak adlandırılmaktadır. Bu nedenle her bir alacak kalemi için ayrı ayrı ıslah veya talep artışı işleminin uygulanmasına engel bir durum yoktur.
+
+Davaların yığılması ilkesine göre esasen birden fazla dava ve talep söz konusu olup, diğer taleplerle ilgili talep artışı ikinci ıslah olarak değerlendirilemez. Somut uyuşmazlıkta; davacı iki kez ıslah dilekçesi sunmuş ise de, her iki dilekçesinde de ayrı ayrı alacaklarını ıslah etmiştir. Başka bir anlatımla bir alacağın iki kez artırılması söz konusu değildir. Dairemiz uygulamasına göre farklı alacak kalemleri için ayrı ayrı ıslah dilekçesi verilmesi mümkündür. Açıklanan nedenlerle davacının her iki ıslah dilekçesine de değer verilerek sonuca gidilmesi için hükmün bozulması gerekmiştir.
+
+Hukuk Genel Kurulu         2017/2815 E.  ,  2021/888 K.
+
+Islahkavram olarak; taraflardan birinin yapmış olduğu usul işleminin tamamen veya kısmen düzeltilmesine denir (HMK m. 176) (Kuru, B.: Hukuk Muhakemeleri Usulü, C: IV, İstanbul 2001, s. 3965). Islah müessesesi, davayı değiştirme, başka deyişle iddia ve müdafaanın değiştirilmesi veya genişletilmesi yasağını bertaraf eden bir imkandır. Zira bu suretle, aslında yasal itiraz ile karşılaşılabilecek olan herhangi bir taraf muamelesi, ıslah kurumu yardımı ile artık bu itirazı davet etmeksizin yapabilmektedir (Üstündağ, S.: Medeni Yargılama Hukuku, Cilt: I-II, 5. Baskı, İstanbul 1992, s. 534).
+
+Islahın konusu tarafların yapmış oldukları usul işlemleri olduğu için, ıslahla düzeltilecek usul işlemlerinin neler olduğundan da söz etmek gerekir. Gerek öğreti, gerekse Yargıtay uygulaması davanın değiştirebileceğini ve genişletilebileceğini aynı şekilde savunmanın genişletilebileceğini ilke olarak kabul etmektedir. Yine müddeabihin artırılıp artırılmayacağı hususu da bir usul işlemi olup, ıslahın konusudur (Kuru, s. 4035).
+
+6100 sayılı HMK’nın 176. maddesine göre ıslah tamamen (kamilen) veya kısmen olmak üzere iki şekilde yapılabilmektedir. Tamamen ıslahta davacı, davasını baştan (dava dilekçesinden) itibaren ıslah eder ve bir hafta içerisinde yeni bir dava dilekçesi verir (HMK m. 180). Davanın tamamen ıslahı yoluna, dava dilekçesinden (dava dilekçesi dahil) itibaren (HMK m. 179/2 de sayılanlar hariç) bütün usul işlemlerinin yapılmamış sayılması için başvurulur (HMK m. 179/1). Bu hâlde dava dilekçesinden itibaren yapılmış olan usul işlemlerinin (HMK m. 179/2 de sayılanlar hariç) tamamının yapılmamış sayılması (ıslah edilmesi, düzeltilmesi) söz konusu olduğu için buna davanın tamamen ıslahı denir (Kuru, B.: İstinaf Sistemine Göre Yazılmış Medeni Usul Hukuku, Ankara 2019, s. 424). Başka bir anlatımla davacı tamamen ıslah ile yeni bir dilekçe vererek davasını baştan itibaren usule müteallik bütün işlemlerini değiştirebilir. Yani davacı bu yolla dava sebebini ve talep sonucunu tamamen değiştirip genişletebileceği gibi, davalı da tam ıslah ile savunmasını tamamen değiştirip genişletebilecektir. Bunun doğal sonucu olarak, dava dilekçesinde yer alan ilk talep içeriği değil, ıslah yoluyla açıklanan talep içeriği nazara alınarak araştırma ve inceleme yapılması ve mahkemece verilecek hükümde de ıslahla ileri sürülen istemin karşılanması gerekecektir.
+
+Davanın kısmen ıslahında ise; davada yapılmış olan belli bir usul işlemi ıslah edilir (HMK m. 181) (düzeltilir) ve bundan sonraki usul işlemlerinin (ıslah edilen usul işlemi ile ilgili oldukları ölçüde) yapılmamış sayılması sağlanır (Kuru, s. 4014). Davacının talep sonucunu (müddeabihi) arttırması, talep sonucunu terditli dava hâline dönüştürmesi ve talep sonucunun daraltılması gibi işlemler kısmen ıslaha örnek olarak sayılabilecek usule müteallik işlemlerdir.
+
+Somut olayda davacı İSKİ vekili, isale hattı güzergâhına rastlayan 1119 ada 70, 78 ve 81 parsel sayılı taşınmazların üzerine davalıların bina yapmak suretiyle el attığı gerekçesiyle müdahalenin önlenmesi ve kâl talepli dava açmıştır. Mahkemece bir kısım davalılar yönünden dava kabul edilmiş, 1119 ada 84 parsel ile ilgili açılmış bir dava bulunmadığından bu parselle ilgili karar verilmesine yer olmadığına karar verilmiştir. Hükmün temyizi üzerine Özel Dairece dava konusu her bir parsel yönünden davaların tefrik edilmesi gereğine değinilmek suretiyle karar bozulmuş, mahkemece bozmaya uyularak ayırma kararı verilmiş ve davalı hakkındaki eldeki davada yapılan keşif ve alınan bilirkişi raporu sonrası davacı İSKİ vekili 14.11.2012 havale tarihli ıslah dilekçesiyle 1119 ada 84 sayılı parselden de aynı isale hattının geçtiğini ve davalı …’nun bu parseldeki işgalinin de kal’i için taleplerini 1119 ada 84 parsel sayılı taşınmazı kapsaması yönünden de ıslah ettiklerini beyan etmiştir. Davalı vekili 11.12.2012 havale tarihli dilekçesinde, yargılaması devam eden bir dava içinde ıslah ile ikinci bir talepte bulunma olanağının bulunmadığını, ıslahta dava konusu olmayan bir istemin dava kapsamına alınmasının mümkün olmadığını bildirerek ıslah talebinin reddini savunmuştur.
+
+Bu aşamada, somut olayda başta dava dilekçesinde yer verilmeyip, dava konusu edilmeyen taşınmazın yargılama sırasında ıslah yolu ile davaya dahil edilmesinin olanaklı olup olmadığı ve bu taşınmaz yönünden usulüne uygun olarak açılmış bir davanın bulunup bulunmadığının irdelenmesi gerekecektir.
+
+Hukuk Genel Kurulunda yapılan görüşmeler sırasında da bu husus öncelikle ve özellikle tartışılmış; daha somut anlatımla elatmanın önlenmesi ve kâl talebine dayalı eldeki dava yönünden ilk önce 1119 ada 70, 78 ve 81 parsel sayılı taşınmazlar dava edilmişken, sonradan 1119 ada 84 parsel sayılı taşınmazın ıslah yoluyla “dava konusu” hâline getirilip getirilemeyeceği üzerinde durulmuştur.
+
+Hemen belirtilmelidir ki kısmi bir dava açılmışsa, bu davanın kalan kısmı bir takım ilkeler çerçevesinde ıslaha konu olabilecektir. Ancak bir dava konusu, bizatihi kendisi davayı oluşturuyor ise, burada kısmi dava bulunmadığından ıslah edilebilecek bir dava da bulunmamaktadır (Örn. Bir taşınmazın tamamı hakkında iptal ve tescil istemiyle açılan davada, davanın konusunu bu taşınmazın bizatihi kendisi teşkil etmekle, bu taşınmazdan başka bir taşınmaz davaya dahil edilmek istenirse bu halde ıslah söz konusu olamayacaktır) .
+
+Eğer bir davanın konusunu teşkil eden taleplerden sadece bir bölümü istenmiş ve kısmi davaya konu edilmişse daha sonra kalan bölümü için ıslah söz konusu olabilecektir (Örn. Bir taşınmaza el atma nedeniyle istenen tazminat miktarının kısmen talep edilip, daha sonra ıslaha konu edilmesi, bir taşınmazın bir bölümü dava edilmişken diğer bölümünün de ıslahen dava edilmesi gibi). Kural olarak dava açıldıktan sonra sebebinde, konusunda, delillerde ve diğer hususlarda usule ilişkin işlemlerin ıslah yoluyla düzeltilmesi mümkün olduğu gibi, davanın konusunda da ıslah mümkündür. Ne var ki ıslaha ilişkin yasal düzenlemeler göstermektedir ki, ıslahla kastedilen dava konusu edilen hususların genişletilmesi veya değiştirilmesidir. Dava konusu edilmeyen bir şeyin ıslah yoluyla davaya ithaline ve dava konusu hâline getirilmesine yasal açıdan olanak bulunmamaktadır.
+
+Somut olayda davacı vekili 14.11.2012 havale tarihli ıslah dilekçesiyle dava konusu 1119 ada 70, 78 ve 81 parsel sayılı taşınmazlar yanında aynı ada 84 parsel sayılı taşınmaz bakımından da ayrıca talepte bulunmuş olup, ıslah suretiyle 1119 ada 84 parsel sayılı taşınmazın dava konusu hâline getirilmesi yasal olarak mümkün değildir.
+
+Hukuk Genel Kurulunda yapılan görüşmeler sırasında, yargılamanın başından itibaren davalı …’ya ait binanın dava konusu olduğu, davacı tarafından bu binanın müdahalesinin men’inin talep edildiği, keşifte de bu yerin gösterildiği, 1119 ada 84 parsel sayılı taşınmazın yanlış yazılmış olmasının ıslahı gerektirmediği, davacı vekilinin sunduğu dilekçenin usuli anlamda ıslah dilekçesi olmayıp parsel numarasının düzeltilmesine ilişkin bir talep olduğu, bu nedenle hükmün Özel Daire kararındaki nedenlerle bozulması gerektiği görüşü ile bozma kararından sonra ıslahın mümkün olmaması nedeniyle hükmün farklı değişik gerekçe ile bozulması gerektiği görüşü ileri sürülmüş ise de, bu görüşler Kurul çoğunluğu tarafından benimsenmemiştir.
+
+O hâlde elatmanın önlenmesi ve kal talebine dayalı eldeki davada, dava konusu edilmeyen taşınmazın hukuken; dava konusu edilen taşınmaza nazaran ayrı bir müddeabih olduğu, bu nedenle de ıslahın konusu olamayacağı, başka bir anlatımla eldeki davada başlangıçta dava edilmeyip, ıslahla davaya katılmak istenen parselin ayrı bir müddeabih olmakla ayrı bir davanın konusunu teşkil edeceği kanaatine varılmıştır. Oluşan bu durum karşısında mahkemece yukarıda açıklanan ilkeler göz ardı edilerek, davacı vekilinin 14.11.2012 havale tarihli dilekçesindeki istemin hukuken “ıslah” olarak kabulüne olanak bulunmadığı ve ayrı bir dava olarak da nitelendirilemeyeceği hâlde, dava konusu olmayan 1119 ada 84 parsel sayılı taşınmaz hakkında hüküm kurulması doğru değildir.
+
+Yargıtay 2.Hukuk Dairesi - Karar : 2015/6532
+
+Davacı, ıslah yoluyla, dayandığı vakıaları değiştirebilir veya davaya yeni vakıaları dahil edebilir. Evvelce göstermiş olsa bile, davaya kattığı bu
+yeni vakılara ilişkin delil de gösterebilir. Bu halde, ikinci tanık listesi verilemeyeceğine ilişkin yasağa (HMK. m. 240/2) dayanılarak, gösterilen bu
+tanıkların dinlenmesinden kaçınılamaz. Davacı, 7.1.2013 günü verdiği ıslah dilekçesiyle, yeni vakıalar ileri sürmüş ve bununla ilgili tanık da göstermiştir.
+Yapılan ıslah kanuna uygundur. O halde, davacının 7.1.2013 günü verdiği ıslah dilekçesinde gösterdiği tanıklar usulünce dinlenmeli ve tüm deliller
+birlikte değerlendirilerek hasıl olacak sonucuna göre karar verilmelidir. Bu yön nazara alınmadan eksik inceleme ile hüküm kurulması doğru
+bulunmamıştır.
+
+Yargıtay 2. Hukuk Dairesi         2022/5112 E.  ,  2022/7116 K.
+
+Hukuk Muhakemeleri Kanunu’na göre, tarafların dava veya cevap dilekçelerinde (HMK m. 119/l-e-f, HMK m. 129/1-e-f) iddia ve savunmanın dayanağı olan bütün vakıaların sıra numarası altında açık özetlerini ve iddia edilen her bir vakıanın hangi delillerle ispat edileceğini açıkça göstermek zorunluluğu bulunmaktadır. Taraflardan her biri, yapmış olduğu usul işlemlerini kısmen veya tamamen ıslah edebilir. ( HMK m.176 ) Islah, bunu yapan tarafın teşmil edeceği noktadan itibaren, bütün usul işlemlerinin yapılmamış sayılması sonucunu doğurur. (HMK m. 179)HMK’nun 176 vd. maddelerine göre, taraflardan herbiri dava/cevap dilekçesini ıslah ederek yeni bir vakıa ekleyebilir yeni vakıa için delil gösterebilir.Davacı kadın, dava dilekçesinde herhangi bir delil bildirmemiş, 30/01/2019 tarihli dilekçe ile dava dilekçemizi yeniliyoruz demek suretiyle delilerini bildirmiş ve 22/10/2019 tarihli celsede sözkonusu dilekçenin ıslah dilekçesi olarak değerlendirilmesi talebinde bulunmuştur. Davacı kadın dilekçeler aşamasında delil bildirmediğinden, ıslah dilekçesi ile ileri sürdüğü yeni vakıalara yönelik delil bildirebilir. Yapılan incelemede davacı kadının ıslah dilekçesiyle yeni vakıa bildirmediği anlaşılmaktadır. O halde, usulüne uygun şekilde süresinde dayanılmayan tanık deliline göre dinlenilen tanık beyanları esas alınıp, davalı erkeğe kusur yüklenilerek, davacı kadının TMK 166/1. maddesine dayalı boşanma davasının kabulü usul ve kanuna aykırı ise de, bu husus temyiz kapsamı dışında bırakıldığından bozma sebebi yapılmamış ve eleştirmekle yetinilmiştir.
+
+Yargıtay 9. Hukuk Dairesi-Karar No:2018/12089
+
+Islah, tek taraflı bir usul işlemi olup, karşı tarafın kabulüne bağlı değildir. Ancak Dairemiz yerleşik kararlarına göre ek dava niteliğinde olduğundan 6100 sayılı HMK’nın 177. maddesi uyarınca ıslah dilekçesinin karşı tarafa tebliği gereklidir. Islah ile; vakıalar, dava konusu ve talep sonucu değiştirilebilir. Islah yoluyla tanık listesi verilemez.
+
+Davacı dava dilekçesinde deliller kısmında tanık deliline dayanmadığı gibi ön inceleme aşamasında da tanık listesi sunmamış, yargılama sırasında alınan bilirkişi raporundan sonra delil listesinin ıslahı ile tanık deliline başvurduğunu belirtmiş, mahkemece bu doğrultuda davacı tanıkları dinlenerek fazla mesai ücret alacağının kabulüne karar verilmiştir.
+
+Davacı delil listesinde dayanmadığı gibi ön inceleme aşamasında da ileri sürmediği tanık deliline bu şekilde ıslah yoluyla dayanamayacağından tanıkların mahkemece dinlenerek hükme esas alınması hatalıdır. Mahkemece, davalı tanık beyanlarına göre işyerinde 3 vardiya halinde çalışıldığının, davacının haftalık 45 saati aşan çalışmanın bulunmadığı ve 18.02.2010 sonrası dosyaya sunulan giriş çıkış kayıtlarına göre tahakkuk etmesi gereken fazla mesai ücretlerinin de bordroda ödendiği anlaşıldığından fazla mesai yapıldığının davacı tarafca ispat edilememesi nedeniyle reddi gerekirken ıslah yoluyla ileri sürülmesi mümkün olmayan davacı tanıklarının dinlenerek fazla mesaiye hükmedilmesi hatalı olup bozmayı gerektirmiştir.
+
+Yargıtay 3. Hukuk Dairesi         2023/3122 E.  ,  2024/1275 K.
+
+Davacı vekili 18.05.2022 tarihli celsede, ıslah için tarafına süre verilmesini talep etmiş, Mahkemece davacı vekiline ıslah dilekçesi sunması için 2 haftalık süre verilmiş, davacı vekili verilen iki haftalık süre içerisinde (27.05.2022) tarihinde sunduğu ıslah dilekçesi ile talep miktarını arttırmıştır. Mahkemece, 6100 sayılı Kanun’un 181 inci maddesinde öngörülen bir haftalık süre içerisinde ıslah dilekçesi sunulmadığı gerekçesiyle ıslah geçersiz kabul edilmiş ise de; 6100 sayılı Kanun’un 181 inci maddesinde öngörülen kesin süre, duruşmada tutanağa geçirilmek suretiyle yapılan ıslah işleminin tamamlanması için verilmesi gereken bir süredir. Bunun dışında ıslah işlemini yapmak için süre talep edildiği haller, 6100 sayılı Kanun’un 181 inci maddesinde öngörülen kanuni kesin süreye tabi değildir. Davacı vekili, duruşmada alınan beyanında sözlü olarak ıslah işlemi yapmamış, sadece ıslah işlemini yapmak için süre talep etmiştir. Bu nedenle davacının 6100 sayılı Kanun’un 181 inci maddesine göre bir hafta içinde ıslah dilekçesini sunmasına gerek bulunmamaktadır. Kaldı ki, davacı vekili Mahkemece kendisine verilen süre içinde kısmen ıslaha başvurup harcını yatırdığına göre, Mahkeme kararında yazılı olan süreye riayet eden tarafın hak kaybına uğramaması AİHS’nin 6 ıncı maddesinde düzenlenen adil yargılama ilkesinin de bir gereği olmakla ara kararına uygun biçimde gerçekleştirilen ıslaha değer verilmesi gerekir. Bu itibarla Mahkemece; davacı vekilinin ıslah dilekçesi değerlendirilerek sonucuna göre bir karar verilmesi gerekirken, yanılgılı değerlendirme ile yazılı şekilde karar verilmiş olması usul ve kanuna aykırı olup bozmayı gerektirmiştir.
+
+YARGITAY 11.HUKUK DAİRESİ - Karar No:2016/9302
+
+Dava, haksız rekabetin tespiti, men’i ile maddi ve manevi tazminat istemine ilişkindir. Davacı vekili, 20.07.2015 tarihli dilekçesi ile yeni delil sunmak için ıslah talebinde bulunmuştur. Mahkemece, yeni delil sunmanın ıslaha konu olamayacağından bahisle ıslah talebi reddedilerek, ispatlanamayan davanın reddine karar verilmiştir. Oysa, 6100 sayılı HMK’nın 176. ve 177/1. maddelerinde, davanın her iki tarafının da, yargılama usulüyle ilgili bir işlemini bir defaya mahsus olmak üzere kısmen veya tamamen ıslah edebileceği ve ıslahın tahkikata tabi olan davalarda tahkikatın bitimine kadar yapılabileceği belirtilmiştir. Taraflarca delil listesinin sunulması işlemi de yargılama usulüyle ilgili bir işlem olup, ıslah ile değiştirilmesi mümkündür.
+
+Diğer bir söyleyişle ıslah, iyi niyetli tarafın, davayı açtıktan veya kendisine karşı bir dava açıldıktan sonra öğrendiği olgularla ilgili yanlışlıkları düzeltmesine, eksiklikleri tamamlamasına, bu çerçevede yeni deliller sunabilmesine olanak sağlayan bir kurumdur. (YİBK, 04.02.1948 gün ve E:1944/10, K:1948/3) Bu durumda, mahkemece, ıslah talebi kabul edilerek sunulan deliller değerlendirildikten sonra sonucuna göre bir karar verilmesi gerekirken, eksik incelemeye dayalı karar verilmesi doğru olmamış, kararın bozulması gerekmiştir.
+
+YARGITAY HUKUK GENEL KURULU - Karar: 2020/87
+
+Islahın konusu tarafların yaptıkları kendi usul işlemleridir. Taraflar ıslahla, dilekçelerinde belirttikleri vakıaları, dava konusunu, talep sonucunu değiştirebilirler. Yukarıda değinildiği üzere ıslahın konusunu tarafların yaptıkları usul işlemleri oluşturduğundan taraflardan birinin ıslah yoluna başvurabilmesi için daha önce yapmış olduğu bir usul işleminin bulunması gerekir. 6100 Sayılı HMK’nın 176. maddesinde taraflardan her birinin yapmış olduğu usul işlemlerini kısmen veya tamamen ıslah edebileceği açık bir şekilde ifade edilmiştir. Bu nedenle cevap dilekçesinin ıslahı için öncelikle yapılması gereken usul işlemi davaya cevap vermekten ibarettir.Cevap dilekçesinin hiç verilmemiş olması hâlinde ortada ıslah edilmesi mümkün bir usul işleminin varlığından söz edilemez.Aksi hâlde, suskun kalınarak hiç cevap verilmemiş olması hâlinin bir usul işlemi olarak kabulü gerekir. Bu çerçevede süresi geçtikten sonra yapılan ve karşı çıkılan savunmanın da hiç yapılmamış gibi olduğunu ve aynı hukuki sonucu doğuracağını belirtmek gerekir. Usul işleminin ıslahla düzeltilmesi öncelikle geçerli bir hukuki işlemin varlığını gerektirdiğinden, yapılmamış hükmünde kabul edilen bir usul işleminin ıslahla düzeltilmesi de düşünülemez.
+
+Bilindiği üzere davalı, davaya cevap vermek zorunda değildir. Davanın cevapsız bırakılması ya da süresi içinde cevap dilekçesi verilmemesi hâlinde davalının, dava dilekçesinde ileri sürülen vakıaların tamamını inkâr etmiş sayılacağı hususu 6100 Sayılı HMK’nın 128. maddesinde düzenlenmiştir. Ancak, süresinde cevap dilekçesi vermemek suretiyle davanın inkârı, ileri sürülen vakıaların inkârı niteliğinde olup, bu inkârın zamanaşımı defini de kapsadığı söylenilemez. Ayrıca, davalının süresinden sonra verdiği cevap dilekçesini ıslah ederek zamanaşımı definde bulunabileceğini kabul etmek ıslah ile kaçırılmış olan sürenin geri getirilmesi, daha doğrusu ıslah ile davaya cevap verilmesi sonucunu doğuracaktır. Oysaki kanun ile belirlenen süreler kesin olup, ıslah kaçırılmış olan süreleri geri getiren bir müessese değildir.
+
+Hâl böyle olunca, kanuni süre içinde verilmeyen cevap dilekçesinin ıslahı suretiyle zamanaşımı definin ileri sürülemeyeceği kabul edilmiştir. Nitekim Hukuk Genel Kurulunun 07.06.2017 tarihli ve 2017/17-1093 E., 2017/1090 K. sayılı kararında da aynı ilkelere yer verilmiştir.
+
+YARGITAY HUKUK GENEL KURULU - Karar: 2021/1182
+
+Bilindiği üzere davalı, davaya cevap vermek zorunda değildir. Davanın cevapsız bırakılması ya da süresi içinde cevap dilekçesi verilmemesi hâlinde davalının, davacının dava dilekçesinde ileri sürdüğü vakıaların tamamını inkâr etmiş sayılacağı HMK’nın 128. maddesinde düzenlenmiştir. Ancak süresinde cevap dilekçesi vermemek suretiyle davanın inkârı, davacının dayandığı vakıaların inkârı niteliğinde olup, bu inkârın zamanaşımı def’ini de kapsadığı söylenemez.
+
+Ayrıca, davalının süresinden sonra verdiği cevap dilekçesini ıslah ederek zamanaşımı def’inde bulunabileceğini kabul etmek ıslah ile kaçırılmış olan sürenin geri getirilmesi, daha doğrusu ıslah ile davaya cevap verilmesi sonucunu doğuracaktır. Oysa kanun ile belirlenen süreler kesin olup, ıslah kaçırılmış olan süreleri geri getiren bir yol değildir. Aynı ilkeler Hukuk Genel Kurulunun 07.06.2017 tarihli ve 2017/17-1093 E., 2017/1090 K. sayılı kararında da benimsenmiştir.
+
+Tüm bu açıklamalar ışığında somut olay değerlendirildiğinde; mahkemece HMK’nın 176. maddesi uyarınca ıslahın konusunu tarafların yaptıkları usul işlemleri oluşturduğundan taraflardan birinin ıslah yoluna başvurabilmesi için daha önce yapmış olduğu bir usul işleminin bulunması gerektiği, yasal süresi geçtikten sonra verilen ve davacı arsa sahibinin itirazı ile karşılaştığı için hiç verilmemiş sayılan cevap dilekçesinin ıslahı suretiyle zamanaşımı def’inin ileri sürülmesinin mümkün olmadığı, HMK’nın 141. maddesinde düzenlenen savunmanın genişletilmesi yasağına aykırı şekilde süresi geçtikten sonra yapılan zamanaşımı def’ine davacının muvafakat etmediği gözetilmeksizin, süresinden sonra cevap dilekçesi verilmesinin ya da hiç cevap dilekçesi verilmemesinin ıslahla zamanaşımı def’i hakkını ortadan kaldırmayacağı gerekçesiyle direnme kararı verilerek davanın zamanaşımından reddine yönelik hüküm tesisi usul ve yasaya aykırıdır.
+
+YARGITAY 13. HUKUK DAİRESİ
+Esas : 2015/16658 Karar : 2017/2065Tarih : 20.02.2017
+
+HMK 176. Madde
+
+Yargılaması devam eden bir dava içinde ıslah ile ikinci bir talepte bulunma olanağı bulunmamaktadır.
+
+6100 sayılı HMK’nun “Taleple bağlılık ilkesi” başlıklı 26. maddesinde (1086 sayılı HUMK’nun 74.maddesi), “Hakim, tarafların talep sonuçlarıyla bağlıdır; ondan fazlasına veya başka bir şeye karar veremez.” denilmektedir.
+
+HMK`nun 176.(HUMK 83.) ve devam maddelerinde düzenlenmiş olan ıslah müessesesi, mahkemeye yöneltilmesi gereken tek taraflı ve açık bir irade beyanı ile tarafların dilekçelerinde belirttikleri vakıaları, dava konusunu veya istem sonucunun değiştirebilmesi imkanı sağlamaktadır. Usule ilişkin işlemlerin tamamen ya da kısmen ıslahı mümkündür. Ancak, her iki durumda da usulüne uygun açılmış bir davanın bulunması şarttır. Bu hale göre yargılaması devam eden bir dava içinde ıslah ile ikinci bir talepte bulunma olanağı bulunmamaktadır. Davacı isterse dava dilekçesini tamamen ıslah ederek dava konusunu değiştirebilirse de, yeni dava konusu önceki dava konusunun yerine geçer ve yine tek bir dava söz konusu olur. Islahta dava konusu olmayan bir istemin dava kapsamına alınması mümkün değildir.
+
+Somut olayda, dava alacak talebi ile açılmış olup davacının dava dilekçesinde asıl sözleşmenin kurulmasına yönelik talebi olmadığından ıslah ile dava konusu olmayan bir talebin dava kapsamına alınması mümkün değildir. Kaldı ki usulüne uygun bir ıslahta yoktur. Açıklanan nedenlerle yazılı şekilde dava dilekçesi ile talep edilmeyen asıl sözleşmenin kurulmasına yönelik talebin kabulüne karar verilmesi hatalı olmuştur.
+
+Yargıtay 2. Hukuk Dairesi         2021/5514 E.  ,  2021/5952 K.
+
+Islah kurumu, 6100 sayılı Hukuk Muhakemeleri Kanunu’nun (HMK) 176’ncı ve devamı maddelerinde ayrıntılı olarak düzenlenmiştir. Islah, davacı veya davalının, iddianın ve savunmanın değiştirilmesi yasağı kapsamındaki usul işlemlerini, karşı tarafın iznine ve hâkimin onayına bağlı olmaksızın belli kurallar çerçevesinde bir defaya mahsus olmak üzere düzeltmesini sağlayan bir usul hukuku kurumudur. Islahın zamanı ve şekli, HMK’nin 177. maddesinde düzenlenmiştir. HMK’nin 177/1. maddesinde “Islah, tahkikatın sona ermesine kadar yapılabilir.” hükmü yer almakta olup, Yargıtay’ın 04.02.1948 tarihli ve 1944/10 Esas, 1948/3 Karar sayılı, yine 06.05.2016 tarihli ve 2015/1 Esas, 2016/1 Karar sayılı İçtihadı Birleştirme Kararları gereği uygulama bozmadan sonra ıslah yapılamayacağı ve bozma sonrası ıslah taleplerinin reddi gerektiği şeklinde gerçekleşmiştir.
+
+Bununla birlikte HMK’nin 177. maddesinde yer alan ıslahın zamanı hususunda 22.7.2020 tarihinde yürürlüğe giren 7251 sayılı Hukuk Muhakemeleri Kanunu ile Bazı Kanunlarda Değişiklik Yapılması Hakkında Kanun’un 18. maddesi ile açıklayıcı bir düzenleme getirilmiştir. Buna göre; birinci fıkradan sonra gelmek üzere ikinci fıkra olarak “Yargıtayın bozma kararından veya bölge adliye mahkemesinin kaldırma kararından sonra dosya ilk derece mahkemesine gönderildiğinde, ilk derece mahkemesinin tahkikata ilişkin bir işlem yapması hâlinde tahkikat sona erinceye kadar da ıslah yapılabilir. Ancak bozma kararına uymakla ortaya çıkan hukuki durum ortadan kaldırılamaz.” hükmü getirilmiştir. Böylelikle kanunda öngörülen şartları sağladığı takdirde Yargıtay bozma kararından sonra ıslah yapılabilmesi mümkün kılınmıştır.
+
+Somut olayda, Mahkemece, bozmadan sonra ıslah yapılamayacağı gerekçesiyle dava dilekçesinde talep edilen miktarla bağlı kalınarak alacağın kabulüne karar verilmiş ise de, bozmadan sonra bozma doğrultusunda tahkikata dair işlemlerin yapıldığı ve davacı vekilinin tahkikat sona ermeden 04.08.2019 tarihinde ıslah dilekçesi sunduğu anlaşıldığına göre, davacı vekilinin 04.08.2019 tarihli dilekçesinde talep edilen miktar göz önünde bulundurularak karar verilmesi gerekirken yazılı şekilde karar verilmesi doğru görülmemiştir.
+
+Yargıtay HGK-Karar : 2021/267
+
+Davacılar vekili, davalı ile aralarında 01.02.2011 tarihinde başlayıp 01.02.2016 tarihinde sona erecek kira sözleşmenin 3. maddesine göre kira bedelinin 2011 yılı için 4.500,00TL olarak belirlendiğini, sonraki yıllarda kira bedelinin (ÜFE+TEFE)/2 oranında artırıldığını, sözleşmenin 3. maddesinin son fıkrasında, tarafların ilk üç yılın sonunda kira bedelinde yapılacak olan artışa ilişkin mutabakata varamazlar ise, kira bedeli artışının bilirkişi marifeti ile tespit ettirileceğinin düzenlendiğini, ancak davalının kira bedeli konusunda ortak mutabakata varılmaksızın 2014 yılı için 5.693,27TL ödeme yaptığını ileri sürerek, taşınmazın kira bedelinin 17.02.2014 tarihinden itibaren geçerli olmak üzere aylık 8.000,00TL olarak tespitine karar verilmesini talep etmiş, 12.02.2015 tarihli ıslah dilekçesi ile de davayı brüt 8.000,00TL kira bedeli üzerinden açtıklarını belirterek kira bedelinin brüt 9.200,00TL olarak tespitine karar verilmesini istemiştir.
+
+Daha önce de belirtildiği gibi kira bedelinin tespiti davaları kendine özgü bir dava olup inşai davalar sonunda verilen kararlara yakın bir niteliktedir. Bu davalarda sadece ilgili kira döneminde geçerli olacak kira bedelinin tespiti istenir ve kira bedelinin tespiti davasının sınırlı bir konusu vardır. Dava sonucunda hâkim, ileriye yönelik olarak bir yıllık süre zarfında uygulanacak olan kira bedelini belirler ve kira sözleşmesinde yer alan kira bedeli, hâkim kararı ile değiştirilmiş olur.
+
+Davanın bu niteliği gereğince kira bedelinin tespitine ilişkin talep bölünemez ve kira bedeli davacı tarafından bir seferde açık ve net olarak istenilmesi gerekir. Diğer bir anlatımla kira bedelinin tespiti davalarında fazlaya ilişkin haklar saklı tutulamaz ve saklı tutulan bu hakla ilgili olarakıslah talebindebulunulamaz. Öte yandan kira bedelinin tespitine ilişkin talep dava dilekçesinde belirtilen döneme ilişkin olduğundan, ıslahla bedelin artırılması durumunda ise daha sonraki bir dönemi kapsayacak şekilde talepte bulunulmuş olur ve bu da kira bedelinin tespiti davalarının niteliğine aykırıdır.
+
+YARGITAY 3. HUKUK DAİRESİ 
+Esas : 2017/7010 Karar : 2018/8269Tarih : 11.09.2018
+
+HMK 176. Madde
+
+Tamamen ıslah yoluyla tazminat davasına dönüştürülen davaya bakma görevi, yeni davaya bakmakla görevli mahkemeye aittir.
+
+Davacı, davalı hakkında icra takibi başlattığını, icra takibine konu edilen fatura içeriğini oluşturan malların davalı şirkete ait maden sahasında kulanılmak üzere kendisi tarafından davalı şirkete satıldığını ve teslim edildiğini, ancak borcun ödenmediğini belirterek itirazın iptaline karar verilmesini istemiştir.
+
+Davacı vekili, 15/11/2011 tarihli duruşmada, davayı tamamen ıslah ettiklerini bildirmiş, 22/11/2011 tarihli ıslah dilekçesinde de, taraflar arasında …bulunan maden sahası ile ilgili 29/07/2010 tarihli rödövans sözleşmesi düzenlendiğini, yine davalıya ait … bulunan iki adet maden sahası içinde 27/09/2010 tarihli rödövans sözleşmesi düzenlendiğini ancak davalının bu sözleşme altındaki imzayı kabul etmediğini bu durumda taraflar arasında sözlü kira sözleşmesi düzenlendiğinin kabulü gerektiğini ileri sürerek … maden sahası ile ilgili sözleşmenin feshedilmesi nedeniyle menfi zararına karşılık şimdilik 15.000 TL… mevkiinde bulanan maden sahalarına ilişkin müspet zarar olarakta şimdilik 100.000 TL tazminatın ve 30.000 TL manevi tazminatın tahsiline karar verilmesini istemiştir.
+
+Davalı, davanın reddini dilemiştir.
+
+Mahkemece, somut olayda ilk haliyle faturaya dayalı alacak talebi ticaret mahkemesinin görevinde ise de; daha sonra tam ıslah suretiyle dava sebebi ve konusu değiştirilerek, rödövans sözleşmesinden kaynaklanan tazminat talebine dönüştürüldüğü, 6100 Sayılı HMK nın 4.maddesindeki düzenlemeye göre rödövans sözleşmesinin bir tür hasılat kirası sözleşmesi olduğu gözetildiğinde; bu tür davalara Sulh Hukuk Mahkemesinde bakılacağı gerekçesiyle görevsizlik kararı verilmiş, hüküm taraf vekillerince temyiz edilmiştir.
+
+HMK’nun 176. maddesine göre; taraflardan her biri, yapmış olduğu usul işlemlerini, kısmen veya tamamen ıslah edebilir. Islahın, bir tarafın tek taraflı ve açık bir irade beyanı ile yapılması mümkün olup, karşı tarafın veya mahkemenin kabulüne bağlı değildir.
+
+Davanın tamamen ıslahı durumunda, yeni bir dava açılmamış sayılacak, tamamen ıslah edilen dava ilk açılan davanın devamı niteliğinde olduğundan, davanın ilk açıldığı 17/06/2011 tarihinde açılmış sayılacaktır.
+
+01/10/2011 tarihinde yürürlüğe giren 6100 sayılı Hukuk Muhakemeleri Kanunu’nun geçici 1. maddesinin 1. fıkrası hükmüne göre; bu kanunun yargı yolu ve göreve ilişkin hükümleri, Kanunun yürürlüğe girmesinden önceki tarihte açılmış olan davalarda uygulanmaz. Davanın tamamen ıslahı sonucu, dava, kira sözleşmesinden kaynaklanan tazminat istemine ilişkindir. Davanın ilk açıldığı tarih göz önünde bulundurulduğunda, 1086 sayılı Hukuk Usulü Muhakemeleri Kanunu`nun göreve ilişkin 8. maddesi hükmü uygulanacaktır. Dava değeri itibariyle Mahkeme görevlidir. Bu nedenle Mahkemece işin esası incelenerek bir karar verilmesi gerekirken yazılı şekilde görevsizlik nedeniyle davanın usulden reddine karar verilmesi usul ve yasaya aykırı olup hükmün bozulması gerekmiştir.
+
+YARGITAY 2. HUKUK DAİRESİ 
+Esas : 2018/1484 Karar : 2018/8676Tarih : 5.07.2018
+
+HMK 176. Madde
+
+Islah yoluyla yeni boşanma sebebi eklenebilir.
+
+Taraflardan her biri, yapmış olduğu usul işlemlerini kısmen veya tamamen ıslah edebilir [HMK m.176-(l)]. Islah, tahkikatın sona ermesine kadar yapılabilir [HMK m.l77-(l)]. Hukuk Muhakemeleri Kanunu’nun 176 vd. maddelerinde, ıslahın harca tabi olacağına ilişkin bir düzenleme bulunmamaktadır. 492 sayılı Harçlar Kanunu’nda da “ıslah harcı” şeklinde bir harç türü yer almamaktadır. O halde sırf ıslah istemi sebebiyle harç alınamaz.
+
+Bunun yanında, ıslah sonucunda, dava/talep konusunun miktar veya değeri artarsa ve artan miktar veya değer için harç ödenmesi gerekiyorsa, ancak o zaman harç ödenmesi/tamamlanması gerekir.
+
+Somut olayda, davalı-davacı erkek duruşmada ve 08.03.2016 tarihli ıslah dilekçesiyle davanın hukuki sebebini zina sebebi ile boşanma yanında, haysiyetsiz hayat sürme ve pek kötü veya onur kırıcı davranış sebebiyle boşanma olarak ıslah ettiğini beyan etmiştir. Mahkemece, davalı-davacı erkek tarafından ıslaha ilişkin maktu ıslah harcı yatırılmamış olduğu böylelikle usulüne uygun yapılmış bir ıslah işlemi olmadığı gerekçesiyle davalı-davacı erkeğin haysiyetsiz hayat sürme ve pek kötü veya onur kırıcı davranış sebebine dayalı boşanma talebi hakkında karar verilmesine yer olmadığına karar verilmiştir. Oysa Hukuk Muhakemeleri Kanunu’nun 176 vd. maddelerine göre, taraflardan herbiri dava/cevap dilekçesini ıslah ederek yeni bir vakıa ekleyebilir, davanın hukuki sebebini genişletip, değiştirebilir ıslah karşı tarafın veya mahkemenin kabulüne bağlı olmadığı gibi bu konularda harç ödenmesine de gerek yoktur.
+
+O halde mahkemece; davalı-davacınm haysiyetsiz hayat sürme (TMK m. 163), pek kötü veya onur kırıcı davranış sebebine dayalı (TMK m. 162) boşanma talebi hakkında tüm deliller değerlendirilerek sonucu uyarınca bir karar verilmesi gerekirken ıslah işlemi dikkate alınmaksızın yazılı şekilde karar verilmesi doğru olmayıp, bozmayı gerektirmiştir.
+
+SONUÇ: Temyiz edilen hükmün yukarıda gösterilen sebeple BOZULMASINA, bozma sebebine göre yeniden hüküm kurulması gerekli hale gelen boşanma davaları ve fer’ileri hakkında diğer temyiz itirazlarının şimdilik incelenmesine yer olmadığına, temyiz peşin harcının istek halinde yatırana geri verilmesine, işbu kararın tebliğinden itibaren 15 gün içinde karar düzeltme yolu açık olmak üzere oybirliğiyle karar verildi. 05.07.2018(Prş.)
+
+YARGITAY 1. HUKUK DAİRESİ
+Esas : 2018/249 Karar : 2018/11336Tarih : 20.06.2018
+
+HMK 176. Madde
+
+Tapu iptal ve tescil talebine ıslah yoluyla menfi tespit ve takibin iptali taleplerinin eklenmesi mümkün değildir.
+
+Dava, yolsuz tescil hukuksal nedenine dayalı tapu iptal ve tescil isteğine ilişkindir.
+
+..
+
+Hemen belirtmek gerekir ki; borçlu taraf İcra İflas Kanunu’nun 72. maddesi hükmü çerçevesinde; icra takibi öncesinde ve icra takibi sırasında borçlu bulunmadığını ispat için menfi tespit davası açabilir.
+
+Öte yandan, HMK’nın 176 ve devam maddelerinde düzenlenmiş olan ıslah müessesesi, mahkemeye yöneltilmesi gereken tek taraflı ve açık bir irade beyanı ile tarafların dilekçelerinde belirttikleri vakıaları, dava konusunun veya istem sonucunun değiştirebilmesi imkanı sağlamaktadır. Usule ilişkin işlemlerin tamamen ya da kısmen ıslahı mümkündür. Ancak, her iki durumda da usulüne uygun açılmış bir davanın bulunması şarttır. Bu hale göre yargılaması devam eden bir dava içinde ıslah ile ikinci bir talepte bulunma olanağı bulunmamaktadır. Davacı isterse dava dilekçesini tamamen ıslah ederek dava konusunu değiştirebilirse de, yeni dava konusu önceki dava konusunun yerine geçer ve yine tek bir dava söz konusu olur. Islahta dava konusu olmayan bir istemin dava kapsamına alınması mümkün olmayıp başından beri dava konusu edilmeyen bir şeyin ıslah yoluyla dava konusuna dahil edilmesine yasal açıdan olanak bulunmamaktadır. (HGK’nın 29.06.2011 gün, 2011/1-364 E.-2011/453 K., 15.06.2016 gün, 2014/4-1193 E.-2016/800 ve 2015/7-917 E-2017/265 K. sayılı İlâmları)
+
+Somut olaya gelince, davacı vekilinin 08.12.2015 tarihli ıslah dilekçesi ile; tapu iptal ve tescil talebinin yanında dava dilekçesinde dile getirilmeyen menfi tespit ve takibin iptali isteklerinin de hükme bağlanmasını istediği, mahkemece davacının menfi tespit ve takibin iptali istemleri de kabul edilmek suretiyle tapu iptal ve tescil hükmü kurulduğu anlaşılmaktadır.
+
+Eldeki davada, davacı, takibe konulan 60.000-TL bedelli senedin davalı tarafından sonradan doldurulduğunu, davalıya olan borcunu ödemesine rağmen senedin takibe koyularak maliki olduğu taşınmazların cebri satış suretiyle usulsüz olarak edinildiği iddiasını ileri sürmüş, davalı taraf ise davacının borcunu ödemediği savunmasına bulunmuştur.
+
+Bu durumda, uyuşmazlığın davacının davalıya borcu bulunup bulunmadığı noktasında toplandığı açık olup, bu hususun da ancak usulüne uygun olarak açılmış bir menfi tespit davası ile çözümleneceğin de kuşku yoktur.
+
+Hal böyle olunca; davacı vekilinin 08.12.2015 tarihli ıslah dilekçesi ile ileri sürdüğü yeni istekler ıslah kapsamında değerlendirilemeyeceği gibi 6100 sayılı Hukuk Muhakemeleri Kanununun 119 vd. maddelerinde düzenlenen dava açma prosedürüne ilişkin usuli şartları taşımaması nedeniyle ek dava olarak da kabul edilemeyeceğinden davacı tarafa menfi tespit davası açması için süre verilmesi ve bu davanın sonucuna göre tapu iptal ve tescil istekli eldeki davanın çözüme kavuşturulması gerekirken yanılgılı değerlendirme ile yazılı şekilde karar verilmesi doğru değildir.
+
+Davalının yerinde bulunan temyiz itirazlarının kabulü ile, hükmün açıklanan nedenlerden ötürü (6100 sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK’un 428.maddesi gereğince BOZULMASINA, alınan peşin harcın temyiz edene geri verilmesine, 20/06/2018 tarihinde oybirliğiyle karar verildi.
+
+YARGITAY 6. HUKUK DAİRESİ Esas : 2015/10296 Karar : 2016/5704
+
+HMK 182. Madde
+
+Islah yoluyla kira alacağına ilişkin itirazın iptali davası, ecrimisil alacağı davasına çevrilebilir.
+
+Dava, itirazın iptali istemine ilişkindir. Mahkemece davanın reddine karar verilmiş, hüküm davacı vekili tarafından temyiz edilmiştir.
+
+Davacı vekili dava dilekçesinde; müvekkilinin 01.01.2008 başlangıç, 31.12.2015 bitiş tarihli kira sözleşmesi ile Akköy Döşeme Mevkii 1926, 2047 ve 2043 parsel sayılı taşınmazları davalıya kiraladığını, kira bedelinin sözleşmede yazılmadığını, mahalli geleneğe göre kira süresinin sonunda elde edilecek gelire göre %30-50 arasında belirleneceğinin kararlaştırıldığını, davalının 2008, 2009 ve 2010 yılları kira bedellerini ödemediğini, yıllık 6.000.-TL den toplam 18.000,-TL kira alacağının tahsili için takip başlattıklarını ancak davalının haksız olarak itiraz ettiğini belirterek, şimdilik 18.000-TL üzerinden itirazın iptali ile tazminata hükmedilmesini talep etmiş, daha sonra 27.11.2012 havale tarihli ıslah dilekçesini sunmuş ve bu dilekçede; mahkemece kira ilişkisi kabul edilmez ise talebinin ecrimisil olarak değerlendirilmesini, davalının bu taşınmazları ekip dikerek kazanç elde ettiğini, bu nedenle dava dilekçesinde davanın niteliğini (konusunu), müddeabih kısmı hariç olmak üzere bağımsız kira alacağından ecrimisil tazminatına ıslah ettiklerini bildirmiştir.
+
+Davalı vekili ise; kira sözleşmesi olarak sunulan belgelerde bedel kısmı yazılmadığından kiracılık ilişkisinin söz konusu olamayacağını, sözleşmenin taraflar arasında danışıklı olarak düzenlendiğini ve doğrudan gelir desteği almak için kullanıldığını, kira ilişkisinin mevcut olmadığını, bu nedenle de davanın reddini savunmuştur. Mahkemece davacının ıslah talebi değerlendirilerek; itirazın iptali davasında sadece ilgili icra dosyasındaki takibe yapılan itirazın iptali istenebileceği, takip dayanağı alacağın niteliğinin ıslahla değiştirilemeyeceği belirtilerek ıslaha itibar edilmemiş, sunulan kira sözleşmesinde de kira bedeli belirtilmediğinden sözleşmenin kira sözleşmesi niteliğini taşımayacağını, bu nedenle de alacağın varlığının sözleşme ile kanıtlanamadığı gerekçesi ile davanın reddine karar verilmiştir.
+
+HMK.nun 176-182 maddelerinde düzenlenen ıslah kurumu, davacı veya davalının iddianın ve savunmanın değiştirilmesi yasağı kapsamındaki usul işlemlerini, karşı tarafın iznine ve hakimin onayına bağlı olmaksızın, belli kurallar çerçevesinde düzeltilmesini sağlayan bir hukuksal çözümdür. Burada söz konusu olan var olan davanın ıslah edilmesidir.
+
+Bu bağlamda davanın açılması ile meydana gelen hüküm ve sonuçlar, tarafların davacı ya da davalı sıfatları vb. geçerliliğini korumaktadır. Islah talebinde bulunan davacı, bu yöntemle davada dayandığı hukuki sebebi veya talep sonucunu değiştirebilir. Dava konusu olayda da; davacının ödenmeyen kira alacağının tahsili için başlatılan takibe yapılanitirazın iptalitalebini bırakarak, alacak miktarını değiştirmeden talebiniecrimisil alacağıdavasına dönüştürdüğü anlaşılmaktadır. Bu nedenle mahkemece davacının ecrimisil talebi ile ilgili değerlendirme yapılarak işin esası hakkında bir karar verilmesi gerekirken yazılı gerekçe ile davanın reddine karar verilmesi doğru değildir.
+
+YARGITAY 8. HUKUK DAİRESİ Esas : 2017/4267 Karar : 2017/17637
+
+HMK 176. Madde
+
+Islah yoluyla tahliye davasına itirazın kaldırılması talebi eklenemez.
+
+Davacı alacaklı 18.02.2012 başlangıç tarihli yazılı kira akdine dayanarak 13.04.2015 tarihinde haciz ve tahliye talepli olarak başlattığı icra takibi ile aylık 120.000,00 TL’den 2014 yılı Temmuz ayından 2015 yılı Mart ayına kadarki 9 aylık kira alacağı 1.080.000,00 TL kira alacağının faiziyle tahsilini talep etmiştir. Ödeme emri davalı borçluya 14.04.2015 tarihinde tebliğ edilmiş, davacı 20.05.2015 tarihinde takibe itiraz edilmediğinden bahisle kesinleşen takip nedenine dayalı tahliye istemiyle bu davayı açmıştır.
+
+Davalı borçlu takibe 26.06.2015 tarihinde itiraz ederek, dayanak icra takibindeki ödeme emri tebliğ tarihinin düzeltilmesi istemi ile icra mahkemesinde dava açmıştır. … İcra Hukuk Mahkemesi’nin 06.11.2015 tarih ve E.2015/366 – ….2015/470 sayılı kararı ile, … 2. İcra Müdürlüğü’nün 2015/2184 esas sayılı takip dosyasında borçluya yapılan ödeme emri tebliğ tarihinin 25.06.2015 olarak düzletilmesine karar verilmiştir.
+
+Davacı alacaklı, davalı borçlu aleyhine kira alacağının tahsili amacıyla tahliye istekli olarak başlatılan icra takibine davalının itiraz etmeyerek takibin kesinleştiği gerekçesi ile açtığı tahliye davasında, 05.02.2016 havale tarihli ıslah dilekçesi ile itirazın kaldırılmasını da talep etmiştir.
+
+Mahkemece, davalı şirketin borcu ödediğine dair herhangi bir yazılı belge ibraz edemediği, bahsedilen çeklerin binanın yıpranma ve bakımına ait olduğu, bu sebeple kira bedeli ödemesi yerine geçmeyeceği anlaşılmakla, davalı yasal süre içerisinde borcunu ödemediğinden kiralananın tahliyesine ve davacı vekilinin ıslah talebine konu edilen itirazın kaldırılması talebinin de kabulüne karar verilmiş, karar davalı vekili tarafından temyiz edilmiştir.
+
+Taraflar, Hukuk Mahkemeleri Kanunu`nun 176 ve devamı maddelerine göre ıslah yolu ile dava konusu iddialarını ve savunmalarını genişletip, değiştirebilirler. Ancak daha önce dava konusu edilmeyen bir hususun ıslah yoluyla istem konusu yapılmasına yasal açıdan olanak yoktur. Davacı alacaklı tahliye olan ilk davasına, itirazın kaldırılması davasını ıslah yoluyla ekleyemez. Bu durumda Mahkemece ıslah talebinin reddi ile süresinde yapılmış bir itiraz bulunduğundan, takip kesinleşmediğinden ve itirazın kaldırılması istenilmeden tahliye istenemeyeceğinden davanın reddine karar verilmesi gerekirken, yazılı gerekçe ve ıslah talebinin kabul edilerek, davanın kabulüne karar verilmesi doğru değildir.
+
+SONUÇ: Yukarıda açıklanan nedenlerle temyiz itirazlarının kabulü ile 6100 sayılı HMK.ya 6217 Sayılı Kanunla eklenen geçici 3.madde hükmü gözetilerek HUMK.nın 428.maddesi uyarınca kararın BOZULMASINA, taraflarca İİK`nun 366/3. maddesi gereğince Yargıtay Daire ilamının tebliğinden itibaren ilama karşı 10 gün içinde karar düzeltme isteğinde bulunulabileceğine, istek halinde peşin harcın temyiz edene iadesine, 26.12.2017 tarihinde oybirliğiyle karar verildi.
+
+YARGITAY 21. HUKUK DAİRESİ
+Esas : 2016/11587 Karar : 2017/2491Tarih : 28.03.2017
+
+HMK 176. Madde
+
+Islah yoluyla tarafların dilekçelerinde bulunan vakıaları, dava konusunu veya istem sonucunun değiştirebilmesi mümkündür. Dava dilekçesinde bulunmayan manevi tazminat istemi ıslah yoluyla davaya eklenemez.
+
+Davacı, iş kazası sonucu maluliyetinden doğan maddi ve manevi tazminatın ödetilmesine karar verilmesini istemiştir.
+
+Mahkemece, manevi tazminat istemine ilişkin olarak açılmış bir dava olmadığı halde, ıslah dilekçesindeki manevi tazminat istemi dikkate alınarak, manevi tazminat isteminin kısmen kabulüne karar verilmesi yanlıştır. HMK’nun 176. ve devam maddelerinde düzenlenmiş olan ıslah müessesesi, mahkemeye yöneltilmesi gereken tek taraflı ve açık bir irade beyanı ile tarafların dilekçelerinde belirttikleri vakıaları, dava konusunu veya istem sonucunun değiştirebilmesi imkânını sağlamaktadır. Usule ilişkin işlemlerin tamamen ya da kısmen ıslahı mümkündür. Ancak, her iki durumda da usulüne uygun açılmış bir davanın bulunması şarttır. Başka bir anlatımla ıslah, açılmış bir davada taraflarca yapılmış usule ilişkin işlemlere yönelik olarak yapılmalıdır. Bu bağlamda, yargılaması devam eden bir dava içinde ıslah ile ikinci bir davanın açılması olanağı bulunmamaktadır.
+
+Öte yandan harca tabi davalarda her dava açılırken davalıdan başvurma harcı ile nispi harca tabi davalarda nispi karar ve ilam harcının dörtte biri peşin olarak alınır. Gerekli harçlar alındıktan sonra dava dilekçesi esas defterine kaydedilir ve dava, dava dilekçesinin esas defterine kayıt edildiği tarihte açılmış sayılır. İnceleme konusu olan bu olayda manevi tazminata ilişkin dilekçenin nispi harç yatırılmak suretiyle mahkemeye verildiği ve ancak başvuru harcının yatırılmadığı anlaşılmaktadır. Dilekçenin bu haliyle bir ek dava dilekçesi olarak kabulü dahi mümkün değildir. Islahta dava konusu olmayan bir istemin dava kapsamına alınması mümkün değildir.
+
+Bu halde mahkemece yapılacak iş “davacının ayrıca dava açma hakkı saklı kalmak üzere manevi tazminata ilişkin ıslah isteminin reddine” şeklinde karar verilmesiyken; davacının manevi tazminat talebinin kısmen kabulü ile 8.300,00 TL manevi tazminatın olay tarihi olan 13.10.2010 tarihinden itibaren yasal faiziyle davalıdan tahsiline karar verilerek, ıslaha değer verilmesi doğru bulunmamıştır. Mahkemece, yukarda belirtilen maddi ve hukuksal olgular gözetilmeden yazılı şekilde hüküm kurulması usul ve yasaya aykırı olup, bozma nedenidir.
+
+YARGITAY 3. HUKUK DAİRESİ 
+Esas : 2017/1396 Karar : 2017/1042Tarih : 9.02.2017
+
+HMK 176. Madde
+
+Dava sebebini değiştirerek duruşmada uzama süresinin dolduğu gerekçesiyle tahliye isteyen davacının bu isteği ıslah niteliğinde olup ıslah yoluyla ortaya çıkan bu yeni dava sebebine göre hüküm kurulmalıdır.
+
+Davacı vekili dilekçesinde; kira sözleşmesinde belirlenen sürenin bittiğini, davalıya ihtar gönderdilerini buna rağmen taşınmazı tahliye etmediğini bildirerek, davalının süre bitimi nedeniyle tahliyesini istemiştir. Mahkemece; taşınmazın ihale ile kiraya verilmediği gerekçesiyle, davanın reddine karar verilmiş; hüküm, davacı vekili tarafından temyiz edilmiştir.
+
+Davacı vekili, ….07.2015 tarihli celsede; TBK`nun 347.maddesi uyarınca … yıllık uzama süresinin dolduğunu, bu nedenle de taşınmazın tahliyesini istemiş, mahkemece iddianın genişletilmesine davalı tarafın muvafakatı olmadığından bahisle bu talep incelenmemiştir.
+
+6100 sayılı HMK nın 176. maddesinde;” Taraflardan her biri, yapmış olduğu usul işlemlerini kısmen veya tamamen ıslah edebilir. Aynı davada, taraflar ancak bir kez ıslah yoluna başvurabilir.” düzenlemesi, 177. maddesinde;”Islah, tahkikatın sona ermesine kadar yapılabilir.  Islah, sözlü veya yazılı olarak yapılabilir. Karşı taraf duruşmada hazır değilse veya ıslah talebi duruşma dışında yapılıyorsa, bu yazılı talep veya tutanak örneği, haber vermek amacıyla karşı tarafa bildirilir.” düzenlemeleri bulunmaktadır.
+
+Davacı vekilinin, ….07.2015 tarihli celsede, TBK`nun 347.maddesi uyarınca … yıllık uzama süresi nedeniyle tahliye isteminde bulunduğu anlaşılmakla; mahkemece, davacı vekilinin bu talebinin ıslah olarak değerlendirilip sonucuna göre bir karar verilmesi gerekirken; yazılı şekilde karar verilmesi doğru görülmemiş, bozmayı gerektirmiştir.
+
+YARGITAY 6. HUKUK DAİRESİ
+Esas : 2016/7352 Karar : 2016/5694Tarih : 5.10.2016
+
+HMK 176. Madde
+
+Davacı alacaklı itirazın kaldırılması talebi olan ilk davasına, tahliye davasını ıslah yoluyla ekleyemez.
+
+Dava, ödenmeyen kira alacağının tahsili için başlatılan icra takibine vaki itirazın kaldırılması ve tahliye istemine ilişkindir. Davacı dava açıldıktan sonra verdiği 01.07.2015 tarihli dilekçesi ile davalının tahliyesini de talep etmiş olup mahkemece, davanın kısmen kabulüne, 9.488-TL asıl alacak ve ferileri yönünden itirazın kaldırılmasına ve davalının dava konusu taşınmazdan tahliyesine karar verilmiş, karar davalı vekili tarafından temyiz edilmiştir.
+
+2-Davalının tahliyeye yönelik temyiz ve itirazlarına gelince; Hukuk Mahkemeleri Kanunu`nun 176 ve devamı maddelerine göre taraflar ıslah yolu ile dava konusu iddialarını ve savunmalarını genişletip, değiştirebileceklerse de daha önce dava konusu edilmeyen bir hususun ıslah yoluyla istem konusu yapılmasına yasal açıdan olanak yoktur. Davacı alacaklı itirazın kaldırılması talebi olan ilk davasına, tahliye davasını ıslah yoluyla ekleyemez. Bu durumda mahkemece davacının tahliye isteminin reddine karar verilmesi gerekirken, yazılı gerekçe ile ıslah talebinin kabul edilerek, tahliye isteminin de kabulüne karar verilmesi doğru değildir.
+
+YARGITAY 23. HUKUK DAİRESİ
+Esas : 2014/7935 Karar : 2015/1026Tarih : 19.02.2015
+
+HMK 176. Madde
+
+İkinci ıslah dilekçesi geçersiz olup ikinci ıslah dilekçesi dikkate alınarak hüküm kurulması hukuka aykırıdır.
+
+Asıl davada, davacı arsa sahibi dava dilekçesinde, arsa payı inşaat sözleşmesinin geriye etkili feshi ile 1.000,00 TL oluşan zararın tazminini talep etmiş, bilahare 30.11.2012 tarihli duruşmada davada yıkılan eski evin bedeliyle halihazır inşaatın yıkım masraflarının tahsilini istediğini bildirmiş, 22.10.2013 tarihli ıslah dilekçesinde ise dava dilekçesindeki 1.000,00 TL tazminat miktarını mahsup ederek yıkılan depo. ev ve mevcut inşaatın söküm bedeli karşılığında oluşan zararının tahsilini istemiş, ıslah dilekçesinde belirtilen işlemlerin hesaplandığı bilirkişi raporuna dayalı olarak 97.997,04 TL alacağın ödetilmesini istemiştir.
+
+Açıklanan bu duruma göre, birbirini teyit eden sözlü ve yazılı izahat karşısında davacının dava dilekçesindeki tazminat talebinin yıkılan ve sökülmesi gereken inşaat masraflarına dair olduğu ortadadır. Yani davacının eldeki davada kira tazminatına dair bir talebi bulunmamaktadır. Her ne kadar 18.6.2014 tarihli 2. ıslah dilekçesiyle kira tazminatı talebinde bulunmuş ise de, H.M.K.nın 176/2. maddesi uyarınca, aynı davada taraflar ancak bir kez ıslah yoluna başvurabileceklerinden, yapılan bu ıslah açıkça yasaya aykırı olduğundan mahkemece dikkate alınabilmesi mümkün değildir. Şu halde, kira tazminatı isteminin belirtilen sebeplerle reddi gerekirken, kabulüne karar verilmesi doğru olmamıştır.
+
+Y8HD - Karar : 2019/3483
+
+HMK 176
+
+Dava dilekçesinde faiz talebi olmamasına rağmen ıslah dilekçesiyle faiz istendiğinde, sadece ıslah edilen kısım için faize hükmedilebilir.
+
+Mahkemece verilen görevsizlik kararının Yargıtay 1. Hukuk Dairesince bozulması ve mahkemenin görevli olduğunun belirlenmesi üzerine yapılan yargılama sonucu verilen karar, Yargıtay 1. Hukuk Dairesince “ karşı dava bakımından faiz isteği hakkında olumlu veya olumsuz bir karar verilmemiş olması doğru değildir” gerekçesiyle karşı davada faize ilişkin olarak bozulmuş, bunun dışında kalan kısımlar onanmış olup, Mahkemece bozulan kısma ilişkin yargılamaya devam edilerek, karşı davada tahsiline karar verilen 67.500,00 TL’ye karşı dava tarihi olan 11.06.2007 tarihinden itibaren yasal faiz yürütülmesine karar verilmiş, hüküm davacı karşı davalı vekili tarafından temyiz edilmiştir.
+
+Asıl dava; el atmanın önlenmesi, ecrimisil ve manevi tazminat, karşı dava ise; katkı payından kaynaklanan tapu iptali ve tescil olmazsa alacak isteklerine ilişkindir.
+
+Somut olayda karşı davada, dava değeri olarak gösterilen 7.000,00 TL için karşı dava dilekçesinde faiz talebi yoktur. Ancak ıslah dilekçesinde alacağın tamamına dava tarihinden itibaren faiz uygulanması talep edilmiştir. Islah edilen 60.500,00 TL’ye ıslah tarihi olan 05.08.2011 tarihinden itibaren faize hükmetmek gerekirken, alacağın tamamına dava tarihinden itibaren faize hükmedilmesi doğru değildir.
+
+YARGITAY Hukuk Genel Kurulu	- Karar No: 2011/70
+
+Zamanaşımı (HUMK. m. 187 kapsamında bir ilk itiraz olmayıp) maddi hukuktan kaynaklanan bir defi ve savunma aracı olup, davanın başında, süresinde verilecek cevap dilekçesinde (veya sözlü yargılama usulünde ilk oturumda esasa girişilmeden önce) ileri sürülmelidir.
+
+Zamanaşımı definin, yukarıda belirtilen aşama geçildikten sonra ileri sürülmesi, savunmanın genişletilmesi ve değiştirilmesi anlamına gelir. Bu durum ise, karşı tarafın izni(açık veya zımni) olmaksızın yada ıslah yoluna gidilmeksizin yapılırsa geçerli değildir.
+
+Görüldüğü üzere, zamanaşımı defi, unutma veya benzeri nedenlerle, davanın başında ileri sürülmemiş olabilir. Daha sonra bu durumun farkına varılırsa, ıslah yoluyla ileri sürülebilmesi gerekir. Öğretide, yasal süresi içerisinde cevap dilekçesi verilmiş olup olmamasına göre bir ayırıma gidilmiş ise de, genellikle zamanaşımı definin ıslah yoluyla sonradan ileri sürülebilmesi olanağının bulunduğu kabul edilmektedir. Nitekim Hukuk Genel Kurulu’nun 19.02.1958 gün ve E:4-23, K:16;13.02.1963 gün ve E:4-51, K:19 sayılı kararlarında da, sonradan ıslah yoluyla zamanaşımı definin ileri sürülebileceği kabul edilmiştir.
+
+YARGITAY 17. HUKUK DAİRESİ
+Esas : 2014/21090 Karar : 2014/17659Tarih : 4.12.2014
+
+HMK 176. Madde
+
+Kısmi davada fazlaya dair hakkını saklı tutmayan davacı, ıslah yoluyla fazla alacağı talep edemez.
+
+Dava, trafik kazasından kaynaklanan maddi tazminat istemine ilişkindir. 6100 Sayılı HMK`nın 26. maddesi gereğince “Hakim, tarafların talep sonuçlarıyla bağlıdır; ondan fazlasına veya başka birşeye karar veremez. Duruma göre, talep sonucundan daha azına karar verebilir.” Aynı Yasanın 
+176 ila 182. Maddelerinde ıslah müessesesi düzenlenmiştir. Islahla müddeabihin artırılması için, dava dilekçesinde fazlaya ilişkin talep ve dava hakkının saklı tutulması gerekir. Davaya konu tazminat, ticari araçta meydana gelen değer kaybı ve kazanç kaybına ilişkin olup, zararın tespiti aşağı yukarı tahmin edilebilir niteliktedir. Belirsiz alacak değildir. Kaldı ki fazlaya ilişkin haklar saklı tutularak kısmi dava açılıp kesin ve gerçek zarar uzman bilirkişice tespit edildikten sonra, zamanaşımı süresi içinde ıslahla talep artırılabilir.
+
+Somut olayda, davacı vekili fazlaya ilişkin haklarını saklı tutmadan, davalı sürücünün olayda %100 kusurlu olduğunu ileri sürerek 3.000,00 TL. gelir, 5.000,00 TL. değer kaybı zararının davalılardan tahsilini talep etmiş; hükme esas alınan bilirkişi raporlarında, davalı sürücünün %75 oranında kusurlu olduğu, araçta 7.500,00 TL. tutarında değer kaybı oluştuğu, 1.770,00 TL. gelir kaybı bulunduğu, davalı tarafın kusur oranına göre 1.327,50 TL. kazanç kaybı, 5.625,00 TL. değer kaybından sorumlu oldukları belirtilmiştir.
+
+Davacı vekili, bilirkişi raporlarının ibrazından sonra, dava dilekçesinde fazlaya ilişkin haklarını saklı tutmadığı halde, zarar miktarının önceden kestirilememesi ve bilinememesini gerekçe göstererek 27.03.2014 tarihli ıslah dilekçesi ile değer kaybına yönelik talebini 2.500,00 TL. daha artırarak toplam 7.500,00 TL. değer kaybı zararının davalılardan tazminini istemiştir.
+
+Bu durumda mahkemece, davacı tarafça fazlaya ilişkin talep ve dava hakkı saklı tutulmadan dava açıldığından, davacı vekilinin ıslah talebinin reddine, dava dilekçesinde talep edilen 5.000,00 TL. değer kaybı zararının, davalı tarafın kusuruna isabet eden 3.750,00 TL. değer kaybının davalılardan tahsiline karar verilmesi gerekirken, yazılı olduğu biçimde hüküm kurulması doğru görülmemiştir.
+
+YARGITAY 22. HUKUK DAİRESİ 
+Esas : 2013/15600 Karar : 2014/19224Tarih : 25.06.2014
+
+HMK 176. Madde
+
+Aynı davada ancak bir kez ıslah yapılabilir. İkinci kez ıslah yapılamaz.
+
+Islah taraflara karşı tarafın muvafakati olmaksızın yapılan usul işlemlerini değiştirebilme imkanı veren bir usul hukuku kurumu olup, taraflar aynı davada bir defa ıslah yapma imkanına sahiptirler. Bu husus 6100 sayılı Hukuk Muhakemeleri Kanunu`nun 176/2. maddesinde, “Aynı davada, taraflar ancak bir kez ıslah yoluna başvurabilirler” denilerek açıklanmıştır.
+
+Somut olayda, davacı tarafından bilirkişi raporu ve ek rapor doğrultusunda biri 03.10.2012 tarihinde diğeri ise 16.04.2013 tarihinde olmak üzere iki defa ıslah işlemi gerçekleştirilmiştir. Davacı tarafından ikinci ıslah işlemi fazla çalışma ücretinin ikinci kez artırılması şeklinde gerçekleştirilmiştir. Yukarıda açıklandığı üzere aynı davada tek bir ıslah işlemi yapılabileceğinden ikinci ıslah işlemi geçerli değildir. Mahkemece ikinci ıslah işlemine göre davacının fazla çalışma ücreti talebi hakkında karar verilmesi hatalıdır.
+
+UYARI

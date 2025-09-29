@@ -1,0 +1,11 @@
+Güvenli Elektronik İmzalı Belgenin İnkârı
+
+HMK 210. Madde
+
+HMK Madde 210 Gerekçesi
+
+(1) Güvenli elektronik imzayla oluşturulmuş verinin inkârı hâlinde, hâkim tarafından veriyi inkâr eden taraf dinlendikten sonra bir kanaate varılamamışsa, bilirkişi incelemesine başvurulur.
+
+Güvenli elektronik imzayla oluşturulan verinin inkârı hâlinde, bu iddianın incelenmesi, diğer belgelerdeki sahtelik incelemesinden farklılık gösterecektir. Zira, güvenli elektronik imzayla oluşturulan verinin doğruluğu konusundaki tereddüdün giderilmesi, ancak teknik bir incelemeyle mümkündür. Bu sebeple, güvenli elektronik imzalar konusundaki iddialar, konunun uzmanı bilirkişilerin yapacağı inceleme ile açıklığa kavuşturulabilir. Ancak, bu inceleme yapılmadan önce, inkârda bulunan tarafın dinlenmesi uygun bulunmuştur. İnkâr eden tarafın yapacağı açıklama mahkemede bir kanaat uyandırırsa, bilirkişi incelemesine başvurulmaz; tarafın dinlenmesinden sonra da kanaat oluşmazsa, bu takdirde bilirkişi incelemesine başvurulması zorunludur.
+
+UYARI

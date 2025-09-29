@@ -1,0 +1,998 @@
+Suçun Niteliğinin Değişmesi
+
+CMK Madde 226
+
+CMK Madde 226 Gerekçesi
+
+CMK 226 Suçun Vasfının (Niteliğinin) Değişmesi Emsal Yargıtay Kararları
+
+(1) Sanık, suçun hukukî niteliğinin değişmesinden önce haber verilip de savunmasını yapabilecek bir hâlde bulundurulmadıkça, iddianamede kanunî unsurları gösterilen suçun değindiği kanun hükmünden başkasıyla mahkûm edilemez.
+
+(2) Cezanın artırılmasını veya cezaya ek olarak güvenlik tedbirlerinin uygulanmasını gerektirecek hâller, ilk defa duruşma sırasında ortaya çıktığında aynı hüküm uygulanır.
+
+(3) Ek savunma verilmesini gerektiren hâllerde istem üzerine sanığa ek savunmasını hazırlaması için süre verilir.
+
+(4) (Değişik:14/11/2024-7532/16 md.) Yukarıdaki fıkralarda yazılı bildirimler, sanığa ve varsa müdafie yapılır. Müdafii sanığa tanınan haklardan onun gibi yararlanır. Sanığın dosyada var olan son adresine bildirim yapılamaması veya bildirime rağmen duruşmaya gelmemesi halinde müdafie yapılan bildirimler yeterli kabul edilir.
+
+5271 sayılı CMK (Ceza Muhakemesi Kanunu) Tam Metin
+
+Makale:Ceza Hukukunda Ek Savunma
+
+İddianamede gösterilen fiilin hukuk yönünden değerlendirilmesini yaparken iddia ve savunma ile bağlı olmayan, tümüyle serbest bulunan mahkeme, suçun hukukî niteliğinin değişmesini veya cezanın artırılmasını veya cezaya ek olarak güvenlik tedbirlerinin uygulanmasını gerektiren nedenlerin ilk defa duruşmada ortaya çıkması hâlinde sanığı haberdar edecek ve ona bu konuda savunma olanağı sağlayacaktır.
+
+Bu kurala, ilke olarak, suçun hukukî niteliğindeki değişme sanığın yararına da olsa uyulur.
+
+Sanık istemde bulunursa ek savunmasını hazırlaması için kendisine süre verilir. Ayrıca duruşma aşamasında meydana gelen fiilî ve hukukî değişiklikler nedeniyle iddia ve savunmanın gerektiği şekilde hazırlanabilmesi için de istem üzerine veya mahkemece re’sen, duruşmaya ara verilebilir.
+
+Ek savunmaya ilişkin bildirimler varsa sanığın avukatına yapılır. Sanığa tanınmış haklardan avukatı da yararlanır.
+
+Suçun hukukî niteliğinin sanık yararına değişmesi, yani iddianamede gösterilen kanun maddesinin öngördüğü cezadan daha az bir cezanın verilmesi gerektiği hâllerde, sanık ve vekiline bu konuyu açıklayan davetiyenin tebliğine rağmen, duruşmaya gelmedikleri veya kendi kusurları nedeniyle davetiye tebliğ olunamadığı takdirde yokluklarında hüküm kurulabilir.
+
+Ceza Genel Kurulu         2017/550 E.  ,  2019/574 K.
+
+Ceza muhakemesi hukukumuzda mahkemelerce bir yargılama faaliyetinin yapılabilmesi ve hüküm kurulabilmesi için yargılamaya konu edilecek eylemle ilgili, usulüne uygun olarak açılmış bir ceza davası bulunması gerekmektedir. 5271 sayılı CMK’nın 170. maddesinin birinci fıkrası uyarınca ceza davası, dava açan belge niteliğindeki icra ceza mahkemesine verilen şikâyet dilekçesi, son soruşturmanın açılması kararı gibi istisnai hükümler dışında kural olarak Cumhuriyet savcısı tarafından düzenlenecek bir iddianame ile açılır.
+
+Anılan Kanun’un 170. maddesinin üçüncü fıkrasının (h) ve (i) bentlerinde “Yüklenen suç ve uygulanması gereken kanun maddeleri” ile “Yüklenen suçun işlendiği yer, tarih ve zaman dilimi”nin düzenlenen iddianamede gösterileceği belirtilmiş, dördüncü fıkrasında da; “İddianamede, yüklenen suçu oluşturan olaylar, mevcut delillerle ilişkilendirilerek açıklanır.” düzenlemesine yer verilmiştir.
+
+CMK’nın 225. maddesi uyarınca ise; “Hüküm, ancak iddianamede unsurları gösterilen suça ilişkin fiil ve faili hakkında verilir. Mahkeme, fiilin nitelendirilmesinde iddia ve savunmalarla bağlı değildir.” Bu madde gereğince hangi fail ve fiili hakkında dava açılmış ise, ancak o fail ve fiili hakkında yargılama yapılarak hüküm verilebilecektir.
+
+Anılan kanuni düzenlemelere göre, iddianamede açıklanan ve suç oluşturduğu iddia olunan eylemin dışına çıkılması, dolayısıyla davaya konu edilmeyen fiil veya olaydan dolayı yargılama yapılması ve açılmayan davadan hüküm kurulması kanuna açıkça aykırılık oluşturacaktır. Öğretide “davasız yargılama olmaz” ve “yargılamanın sınırlılığı” olarak ifade edilen bu ilke uyarınca hâkim, ancak hakkında dava açılmış bir fiil ve kişi ile ilgili yargılama yapabilecek ve önüne getirilen somut uyuşmazlığı hukuki çözüme kavuşturacaktır.
+
+Diğer taraftan CMK’nın 226. maddesinde ise;
+
+“1.Sanık, suçun hukukî niteliğinin değişmesinden önce haber verilip de savunmasını yapabilecek bir halde bulundurulmadıkça, iddianamede kanunî unsurları gösterilen suçun değindiği kanun hükmünden başkasıyla mahkûm edilemez.
+
+2.Cezanın artırılmasını veya cezaya ek olarak güvenlik tedbirlerinin uygulanmasını gerektirecek hâller, ilk defa duruşma sırasında ortaya çıktığında aynı hüküm uygulanır.
+
+3.Ek savunma verilmesini gerektiren hâllerde istem üzerine sanığa ek savunmasını hazırlaması için süre verilir.
+
+4.Yukarıdaki fıkralarda yazılı bildirimler, varsa müdafie yapılır. Müdafii sanığa tanınan haklardan onun gibi yararlanır.” hükmü getirilmiştir.
+
+Soruşturma evresinde elde ettiği delillerden ulaştığı sonuca göre iddianameyi hazırlamakla görevli iddia makamı, düzenlenen iddianame ile CMK’nın 225. maddesinin birinci fıkrası uyarınca kovuşturma evresinin sınırlarını belirlemektedir. Bu bakımdan iddianamede, yüklenen suçun unsurlarını oluşturan fiil/fiillerin nelerden ibaret olduğunun hiçbir tereddüte yer bırakmayacak biçimde açıklanması zorunludur. Böylelikle sanık; iddianameden üzerine atılı suçun ne olduğunu hiçbir şüpheye yer vermeyecek şekilde anlamalı, buna göre savunmasını yapabilmeli ve delillerini sunabilmelidir. CMK’nın 226. maddesindeki düzenlemeyle iddianamede anlatılan eylem değişmemiş olduğunda, kanun koyucu o eylemin hukuki niteliğinde değişiklik olmasını “yargılamanın sınırlılığı” ilkesine aykırı görmemiş, bu gibi hâllerde sanığa ek savunma hakkı verilerek değişen suç niteliğine göre bir hüküm kurulmasına imkân sağlamıştır. Bu düzenlemenin bir sonucu olarak mahkeme, eylemin hangi suçu oluşturacağına ilişkin nitelendirmede iddia ve savunmayla bağlı değildir. Örneğin, iddianamede kasten öldürmeye teşebbüs olarak nitelendirilen eylemin kasten yaralama suçunu oluşturacağı görüşünde olan mahkemece, sanığa ek savunma hakkı da verilmek suretiyle bahse konu suçtan hüküm kurulabilecektir. İddianamede anlatılan ve kapsamı belirlenen olayın dışında bir fail ve fiilin yargılanması söz konusu olduğunda ise, suç duyurusunda bulunulması ve iddianame ile dava açılması hâlinde gerekli görülürse her iki iddianame ile açılan davaların birleştirilmesi yoluna gidilebilecektir.
+
+Yargıtay Ceza Genel Kurulunun duraksamaya yer vermeyen kararlarına göre, bir olayın açıklanması sırasında bir başka olaydan söz edilmesi, o olay hakkında dava açıldığını göstermez. İddianamede dava konusu yapılan fiilin bir başka olaya dayalı olmadan, bağımsız olarak açıklanması gerekir.
+
+Bu açıklamalar ışığında ön soruna ilişkin yapılan değerlendirmede;
+
+Manisa Cumhuriyet Başsavcılığınca düzenlenen 09.11.2010 tarihli ve 5018-404 sayılı iddianamenin başlığında, suç kısmına “Nitelikli yağma” da yazılarak sanığın işlediği iddia edilen suçlardan birisinin de nitelikli yağma suçu olduğunun açıkça belirtildiği, yine sevk maddeleri kısmında da “TCK’nın 106/2-a, 86/1, 87/1-d ve 87/3” ibaresine yer verilmek suretiyle sanığın cezalandırılması istenilen Kanun maddelerinin gösterildiği, olayın anlatıldığı bölümde ise sanığın, katılanları “Sizi keseceğim.” şeklinde tehdit ettiği, ev içerisinde telefon olup olmadığını katılanlara sorduğu, katılan …‘nın evde bulunan telefonlardan birisini pencereden fırlattığını söylediği, sanığın katılan …‘nın fırlattığı telefonu alıp olay yerinden ayrıldığı, sanığın annesinin evinde yapılan arama sonucunda da katılanlardan zorla alınan telefon ve kolyenin ele geçirildiğinin anlatılmasından sonra iddianamenin sonuç bölümünde “…şüpheli Hacı …‘in diğer şüpheli … evi terkettikten sonra müştekilere karşı yaralama, tehdit ve yağma suçlarını işlediği…” şeklindeki anlatım ile yüklenen suçun unsurlarını oluşturan fiilin nelerden ibaret olduğunun açıklandığı, Yargıtay Ceza Genel Kurulunun duraksamaya yer vermeyen kararlarında, bir olayın açıklanması sırasında bir başka olaydan söz edilmesinin, o olay hakkında dava açıldığı anlamına gelmeyeceği belirtilmiş olmakla birlikte, söz konusu kararlara ilişkin iddianamelerde suçun adının ve sevk maddesinin yazılı olmadığı, sadece bir olay açıklanırken başka bir olaydan bahsedildiği, uyuşmazlık konusu iddianamede ise, suça konu telefonun sanık tarafından alındığına yönelik anlatımın, suçun adının ve yağma suçunun unsuru niteliğinde bulunan tehdit suçuna yönelik sevk maddesinin yazılı olduğu anlaşıldığından, sanık hakkında katılan …‘a yönelik nitelikli yağma suçundan usulünce açılmış kamu davası bulunduğunun kabulü gerekmektedir.
+
+Ceza Genel Kurulu - Karar: 2018/107
+
+Yargılama aşamasında, 5237 sayılı TCK’nın 142/1-b maddesinin uygulanması bakımından sanığa
+5271 sayılı CMK’nın 226. maddesi uyarınca ek savunma hakkı verilmediği, anlaşılmaktadır.
+
+5271 sayılı CMK’nın “Hükmün konusu ve suçu değerlendirmede mahkemenin yetkisi” başlıklı 225.
+maddesinde;
+
+“(1) Hüküm, ancak iddianamede unsurları gösterilen suça ilişkin fiil ve faili hakkında verilir.
+
+(2) Mahkeme, fiilin nitelendirilmesinde iddia ve savunmalarla bağlı değildir”,
+
+Aynı Kanun’un “Suçun niteliğinin değişmesi” başlıklı 226. maddesinde ise;
+
+“1) Sanık, suçun hukukî niteliğinin değişmesinden önce haber verilip de savunmasını yapabilecek bir
+hâlde bulundurulmadıkça, iddianamede kanunî unsurları gösterilen suçun değindiği kanun hükmünden
+başkasıyla mahkûm edilemez.
+
+2) Cezanın artırılmasını veya cezaya ek olarak güvenlik tedbirlerinin uygulanmasını gerektirecek hâller, ilk
+defa duruşma sırasında ortaya çıktığında aynı hüküm uygulanır.
+
+3) Ek savunma verilmesini gerektiren hâllerde istem üzerine sanığa ek savunmasını hazırlaması için süre
+verilir.
+
+4) Yukarıdaki fıkralarda yazılı bildirimler, varsa müdafie yapılır. Müdafii sanığa tanınan haklardan onun
+gibi yararlanır” düzenlemelerine yer verilmiştir.
+
+Savunma hakkı, 1982 Anayasasının 36. maddesinde “Temel Haklar ve Ödevler” başlıklı ikinci
+kısmın ikinci bölümünde “Kişinin Hakları ve Ödevleri” başlığı altında; “Herkes, meşru vasıta ve yollardan
+faydalanmak suretiyle yargı mercileri önünde davacı veya davalı olarak iddia ve savunma ile adil yargılanma
+hakkına sahiptir” şeklinde düzenlenmiş olup, bu hakkın “temel hak” niteliğine uygun olarak, sanığa
+savunma hakkının verilmemesi veya savunma hakkının sınırlandırılması hâlinde hüküm daima hukuka
+aykırı olacaktır.
+
+Buna göre, sanığın ceza muhakemesindeki en önemli haklarından birisi de; yargılamanın her
+aşamasında göz önünde bulundurulması gereken savunma hakkıdır. Anayasa ve uluslararası sözleşmelerle
+güvence altına alınmış olan bu hakkın, herhangi bir nedenle sınırlandırılması mümkün değildir. Nitekim
+1412 sayılı CMUK’un 5320 sayılı Kanun’un 8/1. maddesi uyarınca karar tarihi itibarıyla uygulanması
+gereken 308/8. maddesine göre de savunma hakkının sınırlandırılması mutlak bozma nedenlerindendir.
+Öte yandan, savunma hakkının sınırlandığından söz edebilmek için, savunmanın hükmü etkileyecek
+nitelik taşıması ve yargılaması yapılan fiile ilişkin olması gerekir. 5271 sayılı CMK’nın 226. maddesi,
+yargılaması yapılan ve iddianamede kanuni unsurları gösterilen suçun temas ettiği kanun maddelerinden
+başkasıyla mahkûmiyet durumunda veya cezanın artırılmasını veya cezaya ek olarak güvenlik tedbiri
+uygulanmasını gerektiren nedenlerin ilk defa duruşma sırasında ortaya çıkması hâllerinde savunma
+hakkının sınırlanamayacağı ilkesi uyarınca, sanığın ek savunmasını yapabilmesi için bir takım usullere
+uyulması yükümlülüğünü getiren özel bir düzenlemedir. Belirtilen bu hâller ortaya çıktığında
+mahkemelerin, bu konuda kanun’un öngördüğü biçimde savunmasını yapamayan kişiler hakkında
+mahkûmiyet hükmü kurmaları mümkün değildir.
+
+5237 sayılı TCK’nın 141/1. maddesinde yer alan “Zilyedinin rızası olmadan başkasına ait taşınır bir
+malı, kendisine veya başkasına bir yarar sağlamak maksadıyla bulunduğu yerden alan kimseye bir yıldan üç
+yıla kadar hapis cezası verilir.” şeklindeki düzenleme ile hırsızlık suçunun temel şekli tanımlanmış; Aynı
+Kanun’un 142. maddesinde ise suçun daha ağır cezayı gerektiren nitelikli hâlleri sayılmıştır.
+
+5237 sayılı TCK’nın “Nitelikli hırsızlık” başlıklı 142. maddesinin 1. fıkrasının uyuşmazlık konusuyla ilgili
+hükmü suç ve karar tarihi itibarıyla;
+
+“(1) Hırsızlık suçunun;
+
+…
+b) Herkesin girebileceği bir yerde bırakılmakla birlikte kilitlenmek suretiyle ya da bina veya eklentileri
+içinde muhafaza altına alınmış olan eşya hakkında,
+…
+
+İşlenmesi hâlinde, iki yıldan beş yıla kadar hapis cezasına hükmolunur…» şeklinde iken, 28.06.2014
+tarihinde yürürlüğe giren 6545 sayılı Türk Ceza Kanunu ile Bazı Kanunlarda Değişiklik Yapılmasına
+Dair Kanun’un 62. maddesiyle 5237 sayılı TCK’nın 142. maddesinin 1. fıkrasının (b) bendi yürürlükten
+kaldırılmış, ilga edilen bendin metni korunmak suretiyle aynı maddenin 2. fıkrasına (h) bendi olarak
+eklenmiş ve ikinci fıkradaki “üç yıldan yedi yıla kadar hapis” şeklindeki yaptırım ise “beş yıldan on yıla kadar
+hapis” olarak değiştirilmiştir.
+
+Görüldüğü gibi, 5237 sayılı TCK’nın 141/1. maddesinde hırsızlık suçunun temel şekli düzenlenmiş
+olup, anılan maddede bir yıldan üç yıla kadar hapis cezası öngörülmüştür. Hırsızlık suçunun, herkesin
+girebileceği bir yerde bırakılmakla birlikte kilitlenmek suretiyle ya da bina veya eklentileri içinde muhafaza
+altına alınmış olan eşya hakkında işlenmesi hâlinde ise fail, Aynı Kanun’un suç tarihi itibarıyla yürürlükte
+bulunan 142/1-b maddesi uyarınca iki yıldan beş yıla kadar hapis cezası ile cezalandırılacaktır.
+
+Bu açıklamalar ışığında somut olay değerlendirildiğinde;
+
+M. Cumhuriyet Başsavcılığınca düzenlenen iddianamede, mağdurun çantasının düğün salonu
+içerisinden çalındığı belirtilmek suretiyle sanığın TCK’nın 141/1. maddesi uyarınca cezalandırılması talep
+edilmiş, atılı suç ve sevk maddeleri uyarınca savunma yapan sanık hakkında yargılama sonucunda TCK’nın
+142/1-b maddesine göre ceza tayin edilmiştir.
+
+Sanık hakkında düzenlenen iddianamede sevk maddesinin 5237 sayılı TCK’nın 141/1. maddesi olarak
+gösterilmesi karşısında, sanık hakkında uygulanması talep edilmeyen TCK’nın 142/1-b maddesinin sanık
+aleyhine olacak şekilde uygulanması hâli söz konusu olup, sanığa CMK’nın 226. maddesi uyarınca ek
+savunma hakkı verilmesi gerekmektedir. Aksi uygulama savunma hakkının sınırlanması niteliğindedir.
+
+Yargıtay 2. Ceza Dairesi         2020/19921 E.  ,  2021/15186 K.
+
+Suça sürüklenen çocuk hakkında düzenlenen iddianamede suçun gece vakti işlendiğinden bahsedilmediği ayrıca sevk maddeleri arasında da TCK’nın 143/1. maddesi yer almadığı halde yapılan yargılama sırasında suça sürüklenen çocuğa CMK 226 gereği ek savunma hakkı verilmeksizin TCK’nın 143/1. maddesi uygulanarak cezalandırılması bozma nedenidir.
+
+Yargıtay 7. Ceza Dairesi         2021/18775 E.  ,  2021/17683 K.
+
+Sanık hakkında düzenlenen iddianamede suça konu yerde bulunan fidanların müsaderesi talep edilmemiş olmakla, müsadere konusunda ek savunma hakkı verilmeden müsadere kararı verilmek suretiyle 5271 sayılı CMK’nun 226. maddesine muhalefet edilmesi, bozma nedenidir.
+
+Yargıtay 7. Ceza Dairesi         2021/11904 E.  ,  2021/10577 K.
+
+Sanık hakkında düzenlenen iddianamede suça konu yerde bulunan sabit tesis niteliğindeki bina ve eklentilerinin müsaderesi talep edilmemiş olmakla, TCK’nun 54. maddesine göre ek savunma hakkı verilmeden, suça konu alanda kalan yapı ve eklentilerinin müsaderesine karar verilmek suretiyle 5271 sayılı CMK’nun 226. maddesine muhalefet edilmesi,Bozmayı gerektirmiş
+
+YARGITAY 11. CEZA DAİRESİ
+Esas : 2016/10734 Karar : 2018/7994Tarih : 16.10.2018
+
+CMK 226. Madde
+
+Suçun Niteliğinin Değişmesi
+
+Yapılan yargılamaya, toplanıp gerekçeli kararda gösterilerek tartışılan delillere, mahkemenin soruşturma ve kovuşturma neticelerine uygun şekilde oluşan inanç ve takdirine, incelenen dosya içeriğine göre sanığın yerinde görülmeyen diğer temyiz itirazlarının reddine, ancak;
+
+1.İstinabe yolu ile sorgusunun yapıldığı ve ifadesinin alındığı sırada sanığa adli sicil kaydı okunup diyecekleri sorulmadan ve 5271 sayılı CMK’nin 226. maddesi uyarınca ek savunma hakkı verilmeden 5237 sayılı TCK’nin 58. maddesinin uygulanması suretiyle savunma hakkının kısıtlanması,
+
+2.Kabule göre de; 5237 sayılı TCK’nin 53. maddesine ilişkin uygulamanın Anayasa Mahkemesinin 08.10.2015 tarih ve 2014/140-2015/85 sayılı iptal kararı ile birlikte yeniden değerlendirilmesinde zorunluluk bulunması,
+
+Bozmayı gerektirmiş, sanığın temyiz itirazları bu itibarla yerinde görülmüş olduğundan, hükmün bu sebeplerden dolayı 5320 sayılı Kanun’un 8/1. maddesi gereğince uygulanması gereken 1412 sayılı CMUK`nin 321. maddesi uyarınca BOZULMASINA, 16.10.2018 tarihinde oy birliğiyle karar verildi.
+
+YARGITAY 2. CEZA DAİRESİ 
+Esas : 2018/2813 Karar : 2018/7079Tarih : 30.05.2018
+
+CMK 226. Madde
+
+Suçun Niteliğinin Değişmesi
+
+Hırsızlık ve mala zarar verme suçlarından sanık …’in, 5237 sayılı Türk Ceza Kanunu’nun 141/1, 143, 35/1-2, 151/1, 62/1 (2 kere) ve 52/2. maddeleri gereğince 5 ay 18 gün ve 2.000,00 Türk lirası adlî para cezaları ile cezalandırılmalarına dair Bodrum 2. Asliye Ceza Mahkemesinin 19/12/2017 tarihli ve 2017/4 esas, 2017/635sayılı karar aleyhine Yüksek Adalet Bakanlığınca verilen 08/05/2018 gün ve 3172/2018 sayılı kanun yararına bozma talebine dayanılarak dava dosyası Yargıtay Cumhuriyet Başsavcılığının 16/05/2018 gün ve 2018/41554 sayılı tebliğnamesiyle dairemize gönderilmekle okundu.
+
+Kanun yararına bozma isteyen tebliğnamede;
+
+Müştekiye ait havadan geçen elektrik hattının yeraltına indirilmesi çalışmasında kullanılan elektrik kablosunu kesip kestiği kabloyu çalmaya çalışırken polis ekibinin gelerek yakaladığı olayda sanığın hırsızlık suçundan mahkûmiyeti yanında ayrıca mala zarar verme suçundan da mahkûmiyetine karar verildiği, hırsızlık suçunun konusunu oluşturan mala zarar verme eyleminin bir bütün olarak hırsızlık suçu kapsamında kalacağı, ayrıca mala zarar verme suçunu oluşturmayacağı gözetilmeden, yazılı şekilde mala zarar verme suçundan mahkûmiyet hükmü kurulmasındaisabet görülmediğinden 5271 sayılı CMK’nın 309. maddesi uyarınca anılan kararın bozulması lüzumu kanun yararına bozma talebine dayanılarak ihbar olunmuştur.
+
+GEREĞİ DÜŞÜNÜLDÜ:
+
+Sanık hakkında hırsızlık suçundan TCK’nın 141/1. maddesi gereğince cezalandırılması istemiyle kamu davası açıldığı halde, ek savunma hakkı verilmeden anılan Kanun’un 143/1. maddesi uygulanmak suretiyle 5271 sayılı CMK’nın 226/1. maddesine aykırı davranılması hususu da belirlenmiş olup, bu yönden de kanun yararına bozma isteminde bulunulup bulunulmayacağının takdiri için dosyanın Adalet Bakanlığına sunulmak üzere Yargıtay Cumhuriyet Başsavcılığına GÖNDERİLMESİNE, 30.05.2018 tarihinde oybirliğiyle karar verildi.
+
+YARGITAY 2. CEZA DAİRESİ
+Esas : 2016/1414 Karar : 2018/6927Tarih : 28.05.2018
+
+CMK 226. Madde
+
+Suçun Niteliğinin Değişmesi
+
+Dosya incelenerek gereği düşünüldü;
+
+5237 sayılı TCK’nın 53. maddesinin bazı bölümlerinin iptaline ilişkin Anayasa Mahkemesinin 24.11.2015 tarihinde yürürlüğe giren 08.10.2015 gün ve 2014/140 E., 2015/85 K. sayılı kararı da nazara alınarak bu maddede öngörülen hak yoksunluklarının uygulanmasının infaz aşamasında gözetilmesi mümkün görülmüş, dosya içeriğine göre diğer temyiz itirazları yerinde görülmemiştir. Ancak;
+
+İddianamede uygulanması istenilen kanun maddeleri arasında yer verilmemesine karşın, adli sicil kaydı da okunmayan sanığa, 5271 sayılı CMK’nın 226. maddesi uyarınca ek savunma hakkı tanınmaksızın 5237 sayılı TCK’nın 58. maddesinin uygulanması suretiyle sanığın savunma hakkının kısıtlanması,
+
+Bozmayı gerektirmiş, sanığın temyiz itirazları bu itibarla yerinde görülmüş olduğundan hükmün bu sebepten dolayı istem gibi BOZULMASINA, 28/05/2018 gününde oybirliğiyle karar verildi.
+
+YARGITAY 16. CEZA DAİRESİ 
+Esas : 2017/2816 Karar : 2018/400Tarih : 22.02.2018
+
+CMK 226. Madde
+
+Suçun Niteliğinin Değişmesi
+
+Dosya incelenerek gereği düşünüldü:
+
+1-Sanık hakkında 2911 sayılı Kanunun 33/1. maddesine aykırılık, 6136 sayılı Kanuna aykırılık ve silahlı terör örgütüne üye olmamakla birlikte örgüt adına suç işleme suçlarından kurulan hükümlerin incelenmesinde;
+
+6136 sayılı Kanuna aykırılık suçundan kurulan hükümde, 
+Sanık hakkında hapis cezası ile birlikte hükmedilen 20 gün adli para cezasını TCK’nın 52/2. maddesi uyarınca günlüğü 20,00 TL’den paraya çevirerek 400,00 TL adli para cezasına hükmetmek gerekirken, 5 gün karşılığıymış gibi yazılıp neticede 100,00 TL adli para cezasına hükmedilmesi suretiyle eksik ceza tayini aleyhe temyiz olmadığından bozma nedeni yapılmamış; 
+adli para cezalarının yerine getirilmemesi halinde 6545 sayılı Kanunla değişik 5275 sayılı Kanunun 106/3. maddesi uyarınca infaz aşamasında resen uygulama yapılabileceği nazara alındığında, 
+hüküm fıkrasındaki TCK`nın 52/4. maddesi gereğince “ödenmeyen adli para cezasının hapse çevrilmesine” ilişkin ihtarat sonuca etkili görülmemiş; 6136 sayılı Kanuna aykırılık suçundan kurulan hüküm başlığında “muşta” yerine “bıçak” yazılması mahallinde düzeltilebilir yazım hatası kabul edilmiştir.
+
+Silahlı terör örgütüne üye olmamakla birlikte örgüt adına suç işleme suçunda, öncelikle temel ceza tayin edilip sonrasında TCK`nın 220/6. maddesinin 2. cümlesi uyarınca gerekli indirim uygulandıktan sonra devamında 3713 sayılı Kanunun 5. maddesi gereğince arttırım yapılması gerekirken, yazılı şekilde uygulama yapılması sonuç ceza değişmediğinden bozma nedeni yapılmamıştır.
+
+Kurulan mahkumiyete dair hükümlerde, Anayasa Mahkemesinin 24.11.2015 tarih ve 29542 sayılı Resmi Gazete’de yayımlanarak yürürlüğe giren 08.10.2015 tarih, 2014/140 E, 2015/85 K. sayılı iptal kararının, TCK`nın 53. maddesinin uygulanması yönünden infaz aşamasında gözetilmesi mümkün görülmüştür.
+
+Yapılan yargılama sonunda toplanan deliller karar yerinde incelenip sanığın suçlarının sübutu kabul, olay niteliğine ve kovuşturma sonuçlarına uygun şekilde vasfı tayin edilmiş, cezaları azaltıcı sebebin niteliği takdir kılınmış, savunmaları inandırıcı gerekçelerle reddedilmiş, incelenen dosyaya göre verilen hükümlerde bir isabetsizlik görülmemiş olduğundan, sanığın yerinde görülmeyen temyiz itirazlarının reddiyle, hükümlerin ONANMASINA,
+
+2-Görevi yaptırmamak için direnme suçundan kurulan hükmün incelenmesinde;
+
+Yerinde görülmeyen diğer temyiz itirazlarının reddine, ancak,
+
+İddianamede talep edilmemesine rağmen CMK`nın 226/2. maddesi uyarınca ek savunma hakkı verilmeden TCK’nın 43/2. maddesi ile uygulama yapılarak sanığın savunma hakkının kısıtlanması,
+
+Kanuna aykırı, sanığın temyiz itirazları bu itibarla yerinde görülmüş olduğundan hükümlerin bu sebeplerden dolayı BOZULMASINA, CMUK 326/son maddesi uyarınca ceza miktarı bakımından kazanılmış hakkın da saklı tutulmasına, 22.02.2018 tarihinde oybirliğiyle karar verildi.
+
+YARGITAY 2. CEZA DAİRESİ
+Esas : 2016/42 Karar : 2018/1379Tarih : 19.02.2018
+
+CMK 226. Madde
+
+Suçun Niteliğinin Değişmesi
+
+Dosya incelenerek gereği düşünüldü;
+
+1- … hakkında görevi yaptırmamak için direnme suçundan kurulan mahkumiyet hükmüne yönelik temyiz itirazlarının incelenmesinde;
+
+Yapılan duruşmaya, toplanan delillere, gerekçeye, hakimin kanaat ve takdirine göre temyiz itirazları yerinde olmadığından reddiyle hükmün istem gibi ONANMASINA,
+
+2- … hakkında hırsızlık suçundan kurulan mahkumiyet hükmüne yönelik temyiz itirazlarına gelince;
+
+Suça sürüklenen çocuğun hırsızlık eylemini tamamladıktan sonra katılanın motosikletini ararken … ile karşılaşması ve motosikletin kendisine ait olduğunu söyleyerek almak istemesi sırasında çıkan tartışmada suça sürüklenen çocuğun katılanı yaralaması şeklinde gerçekleşen olayda, suça sürüklenen çocuğun eyleminin hırsızlık suçunu oluşturacağı, ayrıca … ile katılan arasındaki tartışma sırasında katılanın yaralanmasının kasten yaralama suçunu da oluşturacağı nazara alınarak tebliğnamedeki eylemin yağma suçunu oluşturacağına ilişkin görüşe iştirak edilmemiştir. Ancak;
+
+I- İddianamede, … hakkında 5237 sayılı TCK’nın 142/1-e maddesinin uygulanması talep edilmediği halde, ek savunma hakkı verilmeden uygulanmak suretiyle 5271 sayılı CMK’nın 226. maddesine aykırı davranılması,
+
+II- Suça sürüklenen çocuğun katılan ile karşılaştığı sırada katılanı yaralama eyleminden ek savunma hakkı verilerek mahkumiyet kararı verilmesi gerekirken sadece hırsızlık suçu ile mahkumiyetine karar verilmesi,
+
+Bozmayı gerektirmiş, … müdafii ve o yer Cumhuriyet savcısının temyiz itirazları bu itibarla yerinde görülmüş olduğundan hükmün bu sebepten dolayı istem gibi BOZULMASINA, 19.02.2018 tarihinde oybirliğiyle karar verildi.
+
+YARGITAY 16. CEZA DAİRESİ
+Esas : 2017/4051 Karar : 2018/241Tarih : 23.01.2018
+
+CMK 226. Madde
+
+Suçun Niteliğinin Değişmesi
+
+Dosya incelenerek gereği düşünüldü:
+
+I-Sanıklar …, … ve … müdafiilerinin 2911 sayılı Kanuna muhalefet suçundan verilen kararlara yönelik temyiz taleplerinin incelenmesinde;
+
+6352 sayılı Kanunun geçici 1. maddesinin 1. fıkrasına göre verilen kovuşturmanın ertelenmesine ilişkin kararlar anılan maddenin 4. fıkrası ile CMK’nın 223. maddesinin 8. fıkrası 2. cümlesi hükmü karşısında durma kararı niteliğinde olup CMK’nın 223/1. maddesinde sayılan hüküm niteliğindeki kararlardan olmadığından temyiz incelemesine yer olmadığına, gereğinin itiraz merciince yerine getirilmesi için dosyanın incelenmeksizin mahalline iadesi için Yargıtay Cumhuriyet Başsavcılığına TEVDİİNE,
+
+II-Sanık … ve müdafii ile sanık … müdafiinin sanıklar hakkında kurulan mahkumiyet hükümlerine yönelik temyiz taleplerinin incelenmesinde;
+
+Sanık … hakkında 2911 sayılı Kanunun 33. maddesine muhalefet suçundan kamu davası bulunmasına rağmen hüküm kurulmamış ise de, zamanaşımı süresince karar verilmesi; Anayasa Mahkemesinin 24.11.2015 tarih ve 29542 sayılı Resmi Gazete’de yayımlanarak yürürlüğe giren 08.10.2015 tarih ve 2014/140 esas - 2015/85 karar sayılı iptal kararının TCK’nın 53. maddesinin uygulanması yönünden infaz aşamasında gözetilmesi mümkün görülmüştür.
+
+Gerekçeli karar başlığında suç tarihi bölümünde “15.02.2014” tarihinin yazılmaması mahallinde düzeltilebilir yazım hatası kabul edilmiş olup; sanıklar hakkında hükmün gerekçesinde alt sınırdan uzaklaşıldığının belirtilmesine rağmen, sanık … hakkında silahlı terör örgütüne üye olmak suçundan temel cezanın alt sınırdan belirlenmesi aleyhe temyiz bulunmadığından bozma nedeni yapılmamıştır.
+
+Yapılan yargılama sonunda toplanan deliller karar yerinde incelenip sanıkların suçlarının sübutu kabul, olay niteliğine ve kovuşturma sonuçlarına uygun şekilde vasfı tayin edilmiş, cezayı azaltıcı sebebin niteliği takdir kılınmış, savunmaları inandırıcı gerekçelerle reddedilmiş, incelenen dosyaya göre verilen hükümde bir isabetsizlik görülmemiş olduğundan, sanık … ve müdafii ile sanık … müdafiinin yerinde görülmeyen temyiz itirazlarının reddiyle hükümlerin ONANMASINA, sanık …‘nın tutuklulukta geçirdiği süre, atılı suçlar için yasa maddelerinde ön görülen ceza miktarı gözetilerek tutukluluk halinin devamına,
+
+III-Sanık … müdafiinin sanık hakkında kurulan mahkumiyet hükümlerine yönelik temyiz taleplerinin incelenmesinde;
+
+Sanık … hakkında 2911 sayılı Kanunun 33. maddesine muhalefet suçundan kamu davası bulunmasına rağmen hüküm kurulmamış ise de, zaman aşımı süresince karar verilmesi mümkün görülmüştür.
+
+1-Sanık hakkında silahlı terör örgütüne üye olma suçu açısından;
+
+a-Silahlı terör örgütüne üye olma suçunun sübutuna esas alınan delilin gizli tanık beyanından ibaret olması karşısında; 5726 sayılı Kanunun 9/8. maddesi uyarınca tek başına hükme esas alınamayacağı gibi, hukuka uygun delil kabul edilerek mahkumiyet hükmüne esas alınması,
+
+b-Yapılan UYAP sorgulamasında, sanık … hakkında Hakkari 2. Ağır Ceza Mahkemesinin 2016/152 esas sayılı silahlı terör örgütüne üye olma suçundan halen derdest gözüken dava dosyasının bulunduğu ve bu suçunun temadi eden suçlardan olduğu da nazara alınarak, birleştirme hususu değerlendirilip mümkünse birleştirilmesi, mümkün olmadığı takdirde ise anılan dosyanın … veya onaylı örneklerinin Yargıtay denetimine olanak verecek şekilde getirtilip incelenmesi ile sonucuna göre sanığın hukuki durumunun takdir veya tayini gerekirken eksik araştırma ile yazılı şekilde hüküm kurulması,
+
+c-Hükmün gerekçesinde sanıklar hakkında temel ceza belirlenirken alt sınırdan uzaklaşıldığı belirtilmesine rağmen, sanık … hakkında cezanın alt sınırdan belirlenmesi suretiyle çelişki yaratılması,
+
+d-Kabule göre ise de;
+
+Anayasa Mahkemesi’nin 24.11.2015 tarih ve 29542 sayılı Resmi Gazete’de yayımlanarak yürürlüğe giren 08.10.2015 tarih, 2014/140 esas, 2015/85 karar sayılı iptal kararı ile TCK’nın 53/1. maddesindeki bazı düzenlemelerin iptal edilmiş olması nedeniyle bu karar doğrultusunda hüküm kurulması gerektiğinin gözetilmemesi,
+
+2-Görevi yaptırmamak için direnme suçu açısından ise;
+
+a-İddianamede talep edilmemesi karşısında, sanığa 5271 sayılı CMK’nın 226. maddesi gereğince ek savunma hakkı tanınmadan, 3713 sayılı Kanunun 5/1. maddesinin uygulanması suretiyle savunma hakkının kısıtlanması,
+
+b-Kabule göre ise;
+
+Anayasa Mahkemesi’nin 24.11.2015 tarih ve 29542 sayılı Resmi Gazete’de yayımlanarak yürürlüğe giren 08.10.2015 tarih, 2014/140 esas, 2015/85 karar sayılı iptal kararı ile TCK’nın 53/1. maddesindeki bazı düzenlemelerin iptal edilmiş olması nedeniyle bu karar doğrultusunda hüküm kurulması gerektiğinin gözetilmemesi,
+
+Kanuna aykırı, sanık … müdafiinin temyiz itirazları bu itibarla yerinde görülmüş olduğundan, hükümlerin bu sebeplerden dolayı BOZULMASINA, CMK’nın 326/son maddesi uyarınca silahlı terör örgütüne üye olma suçu açısından sonuç ceza miktarı yönünden sanığın kazanılmış hakkının saklı tutulmasına, 23.01.2018 tarihinde oybirliğiyle karar verildi.
+
+YARGITAY 2. CEZA DAİRESİ
+Esas : 2015/17342 Karar : 2018/123Tarih : 23.01.2018
+
+CMK 226. Madde
+
+Suçun Niteliğinin Değişmesi
+
+Dosya incelenerek gereği düşünüldü;
+
+Dosya içeriğine göre diğer temyiz itirazları yerinde görülmemiştir.Ancak;
+
+1-İddianamede, … hakkında 5237 sayılı TCK’nın 39/2. maddesinin uygulanması talep edildiği halde ek savunma hakkı tanınmadan belirtilen maddenin uygulanmaması suretiyle 5271 sayılı CMK’nın 226. maddesine aykırı olarak savunma hakkının kısıtlanması,
+
+2-… müdafiinin 05.05.2015 tarihli celsede lehe hükümlerin uygulanmasını istemesi karşısında; … hakkında hırsızlık, mala zarar verme, konut dokunulmazlığını bozma suçlarından hüküm kurulurken, TCK’nın 62. maddesi uyarınca ‘failin geçmişi, sosyal ilişkileri, fiilden sonraki ve yargılama sürecindeki davranışları, cezanın failin geleceği üzerinde olası etkileri’ değerlendirilerek sonucuna göre anılan maddenin uygulanması gerekip gerekmediğine karar verilmesi gerekirken bu konuda olumlu veya olumsuz bir karar verilmemesi,
+
+Bozmayı gerektirmiş, … ve müdafiinin temyiz itirazları bu itibarla yerinde görülmüş olduğundan hükmün bu sebeplerden dolayı BOZULMASINA 23/01/2018 gününde oybirliğiyle karar verildi.
+
+YARGITAY 5. CEZA DAİRESİ
+Esas : 2014/10784 Karar : 2018/203Tarih : 18.01.2018
+
+CMK 226. Madde
+
+Suçun Niteliğinin Değişmesi
+
+Mahalli mahkemece verilen hüküm temyiz edilmekle dosya incelenerek, gereği düşünüldü:
+
+Bozmaya uyularak yapılan yargılamaya, toplanıp karar yerinde gösterilen delillere, mahkemenin soruşturma sonuçlarına uygun olarak oluşan kanaat ve takdirine, incelenen dosya içeriğine göre yerinde görülmeyen sair temyiz itirazlarının reddine,
+
+Ancak;
+
+Aleyhe hüküm içeren bozma ilamına karşı sanığın savunmasının alınması zorunluluğuna uyulmayarak, 5320 sayılı Kanunun 8/1. maddesi gereğince uygulanması gereken CMUK`nın 326/2. maddesine aykırı davranılması,
+
+Sanık hakkında ek savunma hakkı tanınmadan iddianame içeriğinde yer almayan TCK’nın 43. maddesinin uygulanması suretiyle CMK`nın 226. maddesine aykırı davranılması,
+
+Kabule göre de,
+
+Dairemizce de benimsenen Yargıtay Ceza Genel Kurulunun 20/09/2011 günlü 2011/5-104 Esas 2011/183 sayılı Kararında belirtildiği üzere, 
+TCK’nın 53/5. maddesinin uygulanmamasının kazanılmış hak niteliğinde olduğu ve 20/11/2007 günlü sanık aleyhine temyiz bulunmayan hükmün Dairemizin 13/09/2012 günlü ilamıyla kazanılmış hak saklı kalmak kaydıyla bozulmasına karar verilmesi nedeniyle de sanık hakkında 5237 sayılı TCK`nın 53/5. maddesi uyarınca hak yoksunluğuna hükmedilemeyeceğinin gözetilmemesi,
+
+Anayasa Mahkemesinin 08/10/2015 tarih ve 2014/140 Esas, 2015/85 Karar sayılı 24/11/2015 tarih ve 29542 sayılı Resmi Gazete’de yayımlanarak yürürlüğe giren TCK`nın 53. maddesiyle ilgili iptal kararının gözetilmesi zorunluluğu,
+
+Bozmayı gerektirmiş, sanık müdafiin temyiz itirazları bu nedenle yerinde görülmüş olduğundan, hükmün 5320 sayılı Kanunun 8/1. maddesi de gözetilerek CMUK`nın 321. maddesi uyarınca BOZULMASINA, 18/01/2018 tarihinde oybirliğiyle karar verildi.
+
+YARGITAY CEZA GENEL KURULU
+Esas : 2017/1120 Karar : 2017/531Tarih : 12.12.2017
+
+CMK 226. Madde
+
+Suçun Niteliğinin Değişmesi
+
+Ceza Genel Kurulunca çözümlenmesi gereken konu, İstanbul 24. Ağır Ceza Mahkemesi ile Yargıtay 9. Ceza Dairesi arasında oluşan olumsuz görev uyuşmazlığının giderilmesine ilişkindir.
+
+Sanık …`in, İstanbul Anadolu Cumhuriyet savcısı olarak görev yapmakta iken Fetullahçı Terör Örgütü/Paralel Devlet Yapılanması (FETÖ/PDY) silahlı terör örgütüne üye olduğu gerekçesiyle Hâkimler ve Savcılar Yüksek Kurulu 2. Dairesinin 16.07.2016 gün ve 4-345 sayılı kararı ile görevden uzaklaştırılmasından sonra, Hâkimler ve Savcılar Yüksek Kurulu Genel Kurulunca 24.08.2016 gün ve 426 sayılı karar ile meslekten çıkarıldığı ve yeniden inceleme talebinin 29.11.2016 gün ve 434 sayılı kararla reddedildiği,
+
+Sanık hakkında İstanbul Cumhuriyet Başsavcılığınca 2802 sayılı Hâkimler ve Savcılar Kanununun 93 ve 94. maddeleri gereğince genel hükümlere göre yürütülen soruşturma sonucunda düzenlenen iddianame ile; ağır ceza mahkemesinin görevine giren ve suçüstü halinde işlendiği değerlendirilen silahlı terör örgütüne üye olma, Anayasayı ihlal, cebir ve şiddet kullanarak Türkiye Büyük Millet Meclisini ve Türkiye Cumhuriyeti Hükümetini ortadan kaldırmaya veya görevlerini yapmasını kısmen veya tamamen engellemeye teşebbüs etme suçlarından TCK`nun 314/2, 309/1, 311/1, 312/1, 53, 63/1, 58/9 ve 54. maddeleri ile 3713 sayılı Kanunun 3. maddesi delaletiyle aynı Kanunun 5. maddesi gereğince cezalandırılması isteğiyle kamu davası açıldığı,
+
+İstanbul 24. Ağır Ceza Mahkemesince 10.07.2017 gün ve 240-130 sayı ile;
+
+“…Sanık …`in dosya kapsamına göre birinci sınıf Cumhuriyet savcısı olduğu, iddianame kapsamına göre görevi sırasında ve görevinden dolayı silahlı terör örgütüne üye olma, Anayasal düzeni ortadan kaldırmaya teşebbüs etme, Türkiye Büyük Millet Meclisini ortadan kaldırmaya veya görevini yapmasını engellemeye teşebbüs etme, Türkiye Cumhuriyeti Hükümetini ortadan kaldırmaya veya görevini yapmasını engellemeye teşebbüs etme suçlarını işlediği iddiasıyla cezalandırılması istemiyle kamu davası açılması karşısında, 2802 sayılı Kanunun 89 ve 90. maddeleri birlikte değerlendirildiğinde yargılama yapmaya Yargıtay ilgili ceza dairesinin görevli olduğu” gerekçesiyle görevsizlik kararı verildiği,
+
+Dosyanın gönderildiği Yargıtay 9. Ceza Dairesince de 02.10.2017 gün ve 4-8 sayı ile;
+
+“…İstanbul Cumhuriyet Başsavcılığının iddianamesi incelendiğinde, FETÖ/PDY`nin genel yapılanması, yargı yapılanması, bylock programı, örgütün izleyeceği yol haritası ile ilgili ele geçen belgeler, darbe kalkışması ile ihlal edilen yasa maddeleri başlıkları ile örgüt hakkında bilgiler verildiği, 680 sayılı KHK ile değişik 2802 sayılı Kanunun 93/1. maddesi uyarınca belirtilen yetki kuralı çerçevesinde soruşturmanın yapıldığı hususundan bahsedilerek Hakimler ve Savcılar Yüksek Kurulu nezdinde bulunan dosyalara atıf yapılarak soruşturma ve inceleme işlemleri yapıldığının açıkça belirtildiği, sanık hakkında 2802 sayılı Kanunun 93 ve devamı maddeleri uyarınca yürütülen soruşturmaların ve incelemelerin sonuçlandığı ve hakkında verilen meslekten çıkarma kararının kesinleştiği anlaşılmıştır.
+
+Sanık hakkında TCK`nun 257. maddesi uyarınca görevde yetkiyi kötüye kullanmak suçundan açılan bir dava da bulunmamaktadır.
+
+Açıklanan nedenlerle, hâkim ve savcıların kişisel suçları hakkında kovuşturma yapma yetkisinin, ilgilinin görev yaptığı yerin bağlı olduğu Bölge Adliye Mahkemesinin bulunduğu yerdeki il Ağır Ceza Mahkemesine ait (2802 sayılı Kanunun 93. maddesi) olmasına, aynı hususa iddianamede de işaret edilmesine, Dairemizin ilk derece yargılaması yapma görevinin 18.07.2017 tarih ve 30127 sayılı Resmi Gazete`de yayımlanarak yürürlüğe giren Yargıtay Birinci Başkanlık Kurulunun 11.07.2017 tarih ve 245 sayılı kararında belirtildiği şekilde 2797 sayılı Yargıtay Kanununun 46. maddesindeki kişilerle tahdidi olarak sınırlandırılmasına göre, davaya bakma görevinin İstanbul 24. Ağır Ceza Mahkemesine ait olduğu” gerekçesiyle karşı görevsizlik kararı verildiği,
+
+Anlaşılmaktadır.
+
+Uyuşmazlığın isabetli bir hukuki çözüme kavuşturulabilmesi için, öncelikle konuyla ilgili kavramlar ve bu kavramlara ilişkin yasal düzenlemelerin üzerinde durulması gerekmektedir.
+
+5271 sayılı CMK`nun 2. maddesinde tanımlanan “soruşturma” ve “kovuşturma”nın yürütülmesine ilişkin usul ve esasları içeren genel hükümler aynı Kanunda düzenlenmiş, suçun niteliği ile failin sıfatından kaynaklanan özel soruşturma usulleri ile kovuşturma makamlarının belirlenmesine ilişkin hükümler ise Anayasa ve ilgili kanunlarda ayrıca hüküm altına alınmıştır. Buna göre ana kural, soruşturma işlemlerinin yürütülmesi ve kovuşturma makamlarının belirlenmesi açısından genel hükümlerin uygulanması olup bu husustaki özel hükümler ise; failin sıfatı ve/veya suçun niteliğine bağlı olarak, belirli ilkeler doğrultusunda ve mevzuatta açıkça belirtilen istisnai hallerde uygulanmaktadır.
+
+Uluslararası sözleşmeler ve Anayasa ile güvence altına alınan yargı bağımsızlığı ilkesinin bir uzantısı olarak, Hâkimler ve Savcılar Kanununun 3. maddesinin (a) ve (b) bentlerinde tanımlanan “adli ve idari yargı hâkim ve savcılığı” mesleğine mensup kişilerin işledikleri bazı suç tiplerine göre de özel soruşturma usullerinin uygulanacağı ve kovuşturma makamlarının bu doğrultuda belirleneceği öngörülmüştür. Failin sıfatı ve yürütülen kamu görevinin niteliği esas alınarak belirlenen özel soruşturma usullerine ve kovuşturma makamlarının belirlenmesine ilişkin düzenlemeler de Anayasanın ilgili hükümleri ile aynı Kanunun “Soruşturma ve kovuşturma” başlıklı yedinci kısmında yer alan 82 ila 98. maddeleri arasında hüküm altına alınmıştır.
+
+Hâkimler ve Savcılar Kanununda, hâkim ve Cumhuriyet savcılarının işledikleri suçlara ilişkin; 82 ila 92. maddeleri arasında “görevden doğan veya görev sırasında işlenen suçlar”, 93. maddesinde “kişisel suçlar” ve 94. maddesinde “ağır ceza mahkemesinin görevine giren suçüstü hâlleri” olmak üzere üç farklı hâl öngörülmüştür.
+
+Suçun “görevden doğan veya görev sırasında işlenmesi” haline ilişkin genel düzenlemeler incelendiğinde; Hâkimler ve Savcılar Kanununun “Soruşturma” başlıklı 82. maddesinde, hâkim ve Cumhuriyet savcılarının görevlerinden doğan veya görev sırasında işledikleri suçlar yönünden haklarında inceleme ve soruşturma yapılmasının Adalet Bakanlığının iznine bağlı olduğu, Adalet Bakanının inceleme ve soruşturmayı, adalet müfettişleri veya hakkında soruşturma yapılacak olandan daha kıdemli hâkim veya Cumhuriyet savcısı eliyle yaptırabileceği belirtilmiş,
+
+Aynı Kanunun “Kovuşturma kararı ve ilk soruşturma” başlıklı 89. maddesinde; “Hâkim ve savcılar hakkında görevden doğan veya görev sırasında işledikleri suçlar nedeniyle kovuşturma yapılması gerekli görüldüğü takdirde evrak, Adalet Bakanlığınca ilgilinin yargı çevresinde bulunduğu ağır ceza mahkemesine en yakın ağır ceza mahkemesi Cumhuriyet savcılığına; Adalet Bakanlığı merkez, bağlı ve ilgili kuruluşlarında görevli hâkim ve savcılar hakkındaki evrak ise Ankara Cumhuriyet Savcılığına gönderilir.
+
+Cumhuriyet savcısı beş gün içinde iddianamesini düzenleyerek evrakı, son soruşturmanın açılmasına veya son soruşturmanın açılmasına yer olmadığına karar verilmek üzere ağır ceza mahkemesine verir.
+
+İddianamenin bir örneği Ceza Muhakemesi Kanunu gereğince, hakkında kovuşturma yapılana tebliğ olunur. Bu tebliğ üzerine ilgili, Kanunda yazılı süre içinde delil toplanmasını ister veya kabul edilebilir istekte bulunursa bu husus göz önünde tutulur ve gerekirse soruşturma başkan tarafından derinleştirilir.”,
+
+“Son soruşturma merciileri” başlıklı 90. maddesinde de; “Haklarında son soruşturma açılmasına karar verilenlerden; birinci sınıfa ayrılmış olanlarla ağır ceza mahkemeleri heyetine dahil bulunan hâkim ve Cumhuriyet savcılarının, son soruşturmaları Yargıtayın görevli ceza dairesinde görülür. Birinci fıkra dışındaki hâkim ve savcıların son soruşturmaları, yargı çevresi içinde bulundukları ağır ceza mahkemesinde yapılır.” şeklinde düzenlemelere yer verilmiştir.
+
+Suçun “kişisel suç” niteliğinde olması halinde, soruşturma yetkisinin aynı Kanunun 93. maddesinin suç tarihinde yürürlükte bulunan 1. fıkrası uyarınca; ilgilinin yargı çevresinde bulunduğu ağır ceza mahkemesine en yakın ağır ceza mahkemesi Cumhuriyet başsavcısına, son soruşturma ise o yer ağır ceza mahkemesine, aynı maddenin 2. fıkrasına göre de Adalet Bakanlığı merkez, bağlı ve ilgili kuruluşlarındaki hâkim ve Cumhuriyet savcılarının kişisel suçları hakkında soruşturma ve kovuşturma yetkisinin Ankara Cumhuriyet Başsavcısı ve ağır ceza mahkemesine ait olduğu hüküm altına alınmış iken, 06.01.2017 tarihinde yürürlüğe giren 680 sayılı Olağanüstü Hal Kapsamında Bazı Düzenlemeler Yapılması Hakkında Kanun Hükmünde Kararnamenin 7. maddesi uyarınca Hâkimler ve Savcılar Kanununun 93. maddesinin 1. fıkrasında yapılan değişiklik sonucunda; hâkim ve Cumhuriyet savcılarının kişisel suçları hakkında soruşturma ve kovuşturma yapma yetkisi, ilgilinin görev yaptığı yerin bağlı olduğu bölge adliye mahkemesinin bulunduğu yerdeki il Cumhuriyet başsavcılığı ve aynı yer ağır ceza mahkemesine devredilmiştir.
+
+Suçun “ağır ceza mahkemesinin görevine giren suçüstü hâli” kapsamında işlenmesi durumunda uygulanacak soruşturma usulü ise aynı Kanunun 94. maddesinde hüküm altına alınmış olup bu maddeye göre “Ağır ceza mahkemesinin görevine giren suçüstü hâllerinde hazırlık soruşturması genel hükümlere göre yapılır. Hazırlık soruşturması yetkili Cumhuriyet savcıları tarafından bizzat yürütülür. Bu halde durumun hemen Adalet Bakanlığına bildirilmesi zorunludur.”
+
+Benzer yönde diğer bir düzenleme de; 5271 sayılı CMK`nun “Cumhuriyet savcısının görev ve yetkileri” başlıklı 161. maddesinin 8. fıkrasında yer alan “Türk Ceza Kanununun 302, 309, 311, 312, 313, 314, 315 ve 316 ncı maddelerinde düzenlenen suçlar hakkında, görev sırasında veya görevinden dolayı işlenmiş olsa bile Cumhuriyet savcılarınca doğrudan soruşturma yapılır. 01.11.1983 tarihli ve 2937 sayılı Devlet İstihbarat Hizmetleri ve Milli İstihbarat Teşkilatı Kanununun 26. maddesi hükmü saklıdır.” şeklindeki hükümdür.
+
+Hâkimler ve Savcılar Kanununun 94. maddesinin uygulanma koşulları açısından ayrıca, ağır ceza mahkemesinin görevi ve suçüstü kavramının da değerlendirilmesi gerekmektedir.
+
+Ağır ceza mahkemesinin görevi, 5235 sayılı Adli Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanunun 12. maddesiyle düzenlenmiş olup bu maddeye göre; “Kanunların ayrıca görevli kıldığı hâller saklı kalmak üzere, Türk Ceza Kanununda yer alan yağma (m. 148), irtikâp (m. 250/1 ve 2), resmî belgede sahtecilik (m. 204/2), nitelikli dolandırıcılık (m. 158), hileli iflâs (m. 161) suçları, Türk Ceza Kanununun İkinci Kitap Dördüncü Kısmının Dört, Beş, Altı ve Yedinci Bölümünde tanımlanan suçlar (318, 319, 324, 325 ve 332. maddeler hariç) ve 12.4.1991 tarihli ve 3713 sayılı Terörle Mücadele Kanununun kapsamına giren suçlar dolayısıyla açılan davalar ile ağırlaştırılmış müebbet hapis, müebbet hapis ve on yıldan fazla hapis cezalarını gerektiren suçlarla ilgili dava ve işlere bakmakla ağır ceza mahkemeleri”nin görevli olduğu hüküm altına alınmıştır. Aynı madde ile Yargıtayın yargılayacağı kişilere ilişkin hükümler de saklı tutulmuştur.
+
+Öte yandan 5271 sayılı CMK’nun “Tanımlar” başlıklı 2. maddesinin (j) bendinde Suçüstü hâli`nin;
+
+1.İşlenmekte olan suçu,
+
+2.Henüz işlenmiş olan fiil ile fiilin işlenmesinden hemen sonra kolluk, suçtan zarar gören veya başkaları tarafından takip edilerek yakalanan kişinin işlediği suçu,
+
+3.Fiilin pek az önce işlendiğini gösteren eşya veya delille yakalanan kimsenin işlediği suçu” ifade ettiği öngörülmüştür.
+
+Bununla birlikte, Yargıtayın istikrar bulan ve süregelen kararlarında açıklandığı üzere; mütemadi suçlardan olan silahlı terör örgütüne üye olma suçunda, daha önce örgütün kendisini feshetmesi, kişinin örgütten ayrılması gibi bazı özel durumlar hariç olmak üzere kural olarak temadinin yakalanma ile kesileceği, dolayısıyla suçun işlendiği yer ve zaman diliminin buna göre belirlenmesi gerektiği, bu nedenle silahlı terör örgütüne üye olma suçundan şüpheli konumunda bulunan hâkim ve Cumhuriyet savcıları yakalandıkları anda “ağır ceza mahkemesinin görevine giren suçüstü hâli”nin mevcut olduğu ve 2802 sayılı Kanunun 94. maddesi gereğince soruşturmanın genel hükümlere göre yapılacağı anlaşılmaktadır.
+
+Anılan kanuni düzenlemeler uyarınca, hâkim ve Cumhuriyet savcıları hakkında yapılan ihbar ve şikâyetlerin “görevden doğan veya görev sırasında işlenen bir suça” ilişkin olması durumunda kural olarak Hâkimler ve Savcılar Kurulunca yapılacak inceleme sonucunda sırasıyla soruşturma ve kovuşturma izinleri alınarak, gereği için dosyanın gönderildiği Cumhuriyet Başsavcısı tarafından beş gün içerisinde iddianame düzenlenip o yer ağır ceza mahkemesine sunulması, ağır ceza mahkemesince yapılacak inceleme sonucunda son soruşturmanın açılması gerektiği kanısına varılması halinde de son soruşturmanın açılması kararı ile dosyanın görevli ve yetkili mahkemeye gönderilmesi gerekmektedir. Dolayısıyla “görevden doğan veya görev sırasında işlenen bir suç” bakımından “son soruşturmanın açılması kararı” alınmadan dava açılması ve kural olarak Cumhuriyet başsavcılığınca genel hükümlere göre doğrudan soruşturma yürütülmesi imkânı bulunmamaktadır. Bu nitelikteki suçun, ağır ceza mahkemesinin görevine girmesi ve suçüstü hâlinin mevcut olması durumunda ise; 2802 sayılı Kanunun 94. maddesi gereğince ilgili Cumhuriyet başsavcılığı tarafından genel hükümlere göre soruşturma yürütülecek, düzenlenen iddianame aynı Kanunun 89. maddesi gereğince son soruşturmanın açılması kararı verilip verilmeyeceğinin değerlendirilmesi için ağır ceza mahkemesine gönderilecektir.
+
+Görüldüğü üzere, hâkim ve Cumhuriyet savcılarının görevden doğan veya görev sırasında işledikleri suçların soruşturması izne bağlı olup bu nitelikte olmakla birlikte ağır ceza mahkemesinin görevine giren suçüstü hallerinde ya da kişisel suçlarda izin şartı aranmamaktadır. Öte yandan, Hâkimler ve Savcılar Kanununun 90 ve 93. maddelerinde “görevden doğan veya görev sırasında işlenen suçlar” ve “kişisel suçlar”a dair kovuşturma makamları belirlenmiş, 94. madde kapsamındaki hâl bakımından ise kovuşturma makamları açıkça gösterilmemiştir. Ancak, anılan Kanunun 90 ve 93. maddelerindeki açık düzenlemeler karşısında, aynı Kanunun 94. maddesi kapsamında kalan suçlar yönünden kovuşturma makamları, sanığa atılı suçun “görevden doğan veya görev sırasında işlenen” ya da “kişisel” suç olup olmadığına göre belirlenecektir. Dolayısıyla, görevden doğan veya görev sırasında işlenen suçun ağır ceza mahkemesinin görevine girmesi ve suçüstü hâlinin mevcut olması durumunda aynı Kanunun 90. maddesine göre görevli ve yetkili mahkeme tespit edilecektir.
+
+Hâkim ve Cumhuriyet savcılarının, ağır ceza mahkemesinin görevine giren suçüstü hâli kapsamında işledikleri kişisel suçlar yönünden ise; yukarıda belirtilen prosedürler işletilmeksizin anılan Kanunun 93 ve 94. maddelerine göre ilgili Cumhuriyet başsavcılıkları tarafından doğrudan yürütülecek soruşturma sonucunda düzenlenecek iddianame ile haklarında kamu davası açılması ve aynı Kanunun 93. maddesi gereği ilgilinin görev yaptığı yerin bağlı olduğu bölge adliye mahkemesinin bulunduğu yerdeki ağır ceza mahkemesince yargılama yapılması gerekmektedir.
+
+Diğer taraftan, 2802 sayılı Kanunun 90. maddesine göre, birinci sınıfa ayrılmış veya ağır ceza mahkemeleri heyetine dahil bulunan hâkim ve Cumhuriyet savcıları hakkında görev suçundan açılan davalar bakımından Yargıtayın ilgili dairesi ilk derece mahkemesi sıfatıyla yargılama yapmakta ise de; gerek Anayasanın 154, gerekse Yargıtay Kanununun 1. maddelerine göre, Yargıtayın kuruluş amacı ve genel görevinin, adliye mahkemelerince verilen ve kanunun başka bir adli yargı merciine bırakmadığı karar ve hükümlerin son inceleme mercii olduğu, bu bakımdan Yargıtay Dairelerinin ilk derece mahkemesi sıfatıyla yargılama yapmasının tali ve istisnai bir görev olduğu açıktır.
+
+Bu açıklamalar doğrultusunda sanığa atılı suçlara ilişkin kovuşturma makamlarının belirlenebilmesi ve olumsuz görev uyuşmazlığının çözümlenebilmesi bakımından, sanığa isnat edilen eylemlerin niteliği ile belirtilen sevk maddeleri itibarıyla sanık hakkında “görevden doğan veya görev sırasında işlenen suç” nedeniyle kamu davası açılıp açılmadığının değerlendirilmesi gerekmektedir.
+
+Sanık hakkında düzenlenen iddianame içeriğinde; “FETÖ/PDY terör örgütünün genel yapısı”, “örgütün yargı yapılanması”, “örgütün şifreli haberleşme aracı olarak kullandığı bylock programı”, “örgütün motivasyon unsuru olarak 1 dolar”, “örgütün izleyeceği yol haritası ile ilgili ele geçirilen belgeler”, “darbe teşebbüsü ile ihlal edilen yasa maddeleri, bu bağlamda örgüt açısından genel değerlendirme” başlıkları altında örgüt hakkında genel açıklamalar yapıldığı,
+
+İddianamenin “Soruşturma usulü ve yetki” başlıklı bölümünde, sanığa atılı eylemlerin ağır ceza mahkemesinin görevine giren suçlar olduğu, silahlı örgüt üyeliği suçunun temadi eden suçlardan olup kesintinin ve buna bağlı olarak suç tarihinin failin yakalandığı an olduğu gerekçesiyle sanık hakkında 2802 sayılı Kanunun 93 ve 94. maddelerinin uygulanması gerektiğinin belirtildiği,
+
+İddianamenin “sanığın eylemleri, sanık hakkında ele geçirilen deliller ve incelenmesi, savunmalar ve hukuki nitelendirme” başlıklı son bölümünde ise; soruşturmanın başladığı tarih itibarıyla sanık hakkında Hâkimler ve Savcılar Kurulu nezdinde yürütülmekte olan tüm soruşturma dosyalarının içeriğine ilişkin açıklamalarda bulunulduğu, ayrıca genel hükümlere göre yürütülen soruşturma kapsamında sanık hakkında elde edilen diğer delillerin anlatıldığı,
+
+Sanık hakkında Hakimler ve Savcılar Kurulu nezdinde yürütülmekte olup soruşturma izni verilen veya inceleme aşamasında olduğu belirtilen soruşturmalara ilişkin açıklamalarda; sanığın İzmir Cumhuriyet savcısı olarak yürüttüğü bazı soruşturmalar ile kamuoyunda “İzmir Askerî Casusluk davası” olarak bilinen davanın soruşturma aşamasında gerçekleştirdiği iddia edilen hukuka aykırı eylemlerin ve bu davaların taraflarınca sanık hakkında yapılan şikâyetlerin içerikleri ile dosyaların geldiği aşamaların aktarıldığı,
+
+İddianamede aynı başlık altında yer alan, “hukuki nitelendirme”ye ilişkin kısımda da; iddianamenin önceki bölümlerinde örgütle ilgili aktarılan delillere göre, FETÖ/PDY silahlı terör örgütünün yapısı, örgütün Türkiye Cumhuriyeti Devleti’nin tüm anayasal kurumlarını ele geçirmeye yönelik nihai hedefi açısından bir aşama ve “mahrem alan” olarak gördüğü yargı kurumlarının ele geçirilmesi amacı kapsamında, örgüt üyelerinin önemli yargısal makamlara getirilerek karar mekanizmalarının kontrol altına alınmasına yönelik faaliyetleri ile örgütün hedef ve politikaları açısından önem taşıdığı belirtilen bazı davalarda örgütün talimatları doğrultusunda, örgüt politikalarına uygun yargısal kararlar verilmesinin sağlandığına dair genel değerlendirmeler yapıldığı, İstanbul Cumhuriyet Başsavcılığınca tespit edilip delil olarak kabul edilen sanığın kişisel nitelikteki eylemleri ile hakkında Hâkimler ve Savcılar Kurulu nezdinde yürütülen soruşturmaların söz konusu genel değerlendirmelerle ilişkilendirildiği, buna göre görevle bağlantılı eylemler nedeniyle Hâkimler ve Savcılar Kurulunca yürütülen soruşturmalara da atıf yapılarak, iddianamedeki anlatım ve nitelendirmeye göre; finans kaynaklarını ve hiyerarşik bir yapı içeren insan gücünü örgütsel menfaat ve ideolojisi çerçevesinde kullanıp devletin kurumlarına sızmak ve bunun için yabancı ülkelerden bir takım kişi ve kuruluşların desteğini alarak Türkiye Cumhuriyeti Devleti`nin tüm anayasal kurumlarını ele geçirmek, aynı zamanda uluslararası düzeyde büyük ve etkili siyasi/ekonomik güç haline gelmek ve siyasi/sosyal konularda kendi düşünce ekseni etrafında bir kamuoyu oluşturmak, tüm toplumu hedef alıp kendi anlayışınca terbiye etmek, karar alıcı ve politikacıları etkilemek, ulusal ve uluslararası politikalara yön vermek amacıyla hareket ettiği belirtilen FETÖ/PDY silahlı terör örgütünün hiyerarşik yapısına sanığın dahil olduğu,
+
+Söz konusu örgütün Türkiye Cumhuriyeti Devleti’nin tüm anayasal kurumlarını ele geçirmek olan nihai hedefine ulaşabilecek gücü elde ettiğine inanarak başlatılan son süreçte, mülkiye, askeriye, emniyet, yargı ve diğer stratejik öneme sahip kamu kurumlarını ele geçirmek için kendilerine engel olacaklarını düşündüğü bürokrat ve personellerin sistem dışına çıkarılmasını sağlayarak örgüt elemanlarının bu makamlara getirilmesi projesi kapsamında sanığın da örgütün adeta silah olarak kullandığı yargı yapılanmasının en mahrem sınıfı olarak gördüğü CMK`nun 250. maddesi ile görevli İzmir Cumhuriyet savcılığına yerleştirildiği, örgütün nihai hedefi açısından önem taşıyan ve kamuoyunda “İzmir Askerî Casusluk davası” olarak bilinen davanın soruşturma aşamasında gerçekleştirdiği iddia edilen hukuka aykırı işlemlerden dolayı hakkında Hâkimler ve Savcılar Kurulu nezdinde yürütülen soruşturmaların devam ettiği,
+
+15 Temmuz 2016 tarihinde FETÖ/PDY silahlı terör örgütü mensuplarının sahip oldukları silahlı gücü kullanarak, kaynağını Anayasadan ve yasalardan almayan güce dayanarak, cebir ve şiddet yolu ile Anayasal düzeni, Türkiye Cumhuriyeti Hükûmetini ve Türkiye Büyük Millet Meclisini ortadan kaldırmaya ve görevlerini yapmasını kısmen veya tamamen engellemeye teşebbüs ettikleri, silahlı terör örgütünün kronolojik olarak gerçekleştirdiği Türkiye Cumhuriyeti Anayasasının öngördüğü düzeni ortadan kaldırmaya veya bu düzen yerine başka bir düzen getirmeye veya bu düzenin fiilen uygulanmasını önlemeye teşebbüs niteliğindeki amaç suçu gerçekleştirmeye yeterli 15.07.2016 tarihli darbe girişimi eylemleri birlikte dikkate alındığında; sanığın FETÖ/PDY silahlı terör örgütünün hiyerarşik yapılanması içerisinde bilerek ve isteyerek yer aldığı, konumu ve anılan örgütün nihai amacı doğrultusunda örgüt adına gerçekleştirdiği süreklilik arz eden eylemleri ile FETÖ/PDY silahlı terör örgütünün üyesi olarak atılı suçları işlediği iddiasıyla kamu davası açıldığı anlaşılmaktadır.
+
+Ceza muhakemesi hukukumuzda mahkemelerce bir yargılama faaliyeti yapılabilmesi ve hüküm kurulabilmesi için, yargılamaya konu edilecek eylemle ilgili, usulüne uygun olarak açılmış bir ceza davası bulunması gerekmektedir.
+
+Ceza Muhakemesi Kanununun “Kamu davasını açma görevi, Cumhuriyet savcısı tarafından yerine getirilir” şeklinde düzenlenmiş olan 170. maddesinin birinci fıkrası uyarınca ceza davası, dava açan belge niteliğindeki icra ceza mahkemesine verilen şikâyet dilekçesi, son soruşturmanın açılması kararı gibi istisnai hükümler dışında, kural olarak Cumhuriyet savcısınca düzenlenen iddianame ile açılır. Anılan maddenin dördüncü fıkrasında da; “İddianamede, yüklenen suçu oluşturan olaylar, mevcut delillerle ilişkilendirilerek açıklanır” düzenlemesine yer verilmiştir.
+
+CMK’nun 225. maddesinde yer alan “Hüküm, ancak iddianamede unsurları gösterilen suça ilişkin fiil ve faili hakkında verilir. Mahkeme, fiilin nitelendirilmesinde iddia ve savunmalarla bağlı değildir” şeklindeki düzenleme gereğince de hangi fail ve fiili hakkında dava açılmış ise, ancak o fail ve fiili hakkında yargılama yapılarak hüküm verilebilecektir.
+
+Anılan kanuni düzenlemelere göre, iddianamede açıklanan ve suç oluşturduğu iddia olunan eylemin dışına çıkılması, dolayısıyla davaya konu edilmeyen fiil veya olaydan dolayı yargılama yapılması ve açılmayan davadan hüküm kurulması kanuna açıkça aykırılık oluşturacaktır. Öğretide “davasız yargılama olmaz” ve “yargılamanın sınırlılığı” olarak ifade edilen bu ilke uyarınca hâkim, ancak hakkında dava açılmış bir fiil ve kişi ile ilgili yargılama yapabilecek ve önüne getirilen somut uyuşmazlığı hukuki çözüme kavuşturacaktır.
+
+CMK`nun 226. maddesinde ise; “Sanık, suçun hukukî niteliğinin değişmesinden önce haber verilip de savunmasını yapabilecek bir hâlde bulundurulmadıkça, iddianamede kanunî unsurları gösterilen suçun değindiği kanun hükmünden başkasıyla mahkûm edilemez.
+
+Cezanın artırılmasını veya cezaya ek olarak güvenlik tedbirlerinin uygulanmasını gerektirecek hâller, ilk defa duruşma sırasında ortaya çıktığında aynı hüküm uygulanır.
+
+Ek savunma verilmesini gerektiren hâllerde istem üzerine sanığa ek savunmasını hazırlaması için süre verilir.
+
+Yukarıdaki fıkralarda yazılı bildirimler, varsa müdafie yapılır. Müdafii sanığa tanınan haklardan onun gibi yararlanır” hükmü getirilmiştir.
+
+Soruşturma aşamasında elde ettiği delillerden ulaştığı sonuca göre iddianameyi hazırlamakla görevli iddia makamı, düzenlenen iddianame ile CMK’nun 225/1. maddesi uyarınca kovuşturma aşamasının sınırlarını belirlemektedir. Bu bakımdan iddianamede, yüklenen suçun unsurlarını oluşturan fiil/fiillerin nelerden ibaret olduğunun hiçbir tereddüte yer bırakmayacak biçimde açıklanması zorunludur. Böylelikle sanık; iddianameden üzerine atılı suçun ne olduğunu hiçbir şüpheye yer vermeyecek şekilde anlamalı, buna göre savunmasını yapabilmeli ve delillerini sunabilmelidir. CMK`nun 226. maddesindeki düzenlemeyle iddianamede anlatılan eylem değişmemiş olduğunda, kanun koyucu o eylemin hukuki niteliğinde değişiklik olmasını “yargılamanın sınırlılığı” ilkesine aykırı görmemiş, bu gibi hallerde sanığa ek savunma hakkı verilerek değişen suç niteliğine göre bir hüküm kurulmasına imkân sağlamıştır. Bu düzenlemenin bir sonucu olarak mahkeme, eylemin hangi suçu oluşturacağına ilişkin nitelendirmede iddia ve savunmayla bağlı değildir. Örneğin, iddianamede kasten öldürmeye teşebbüs olarak nitelendirilen eylemin kasten yaralama suçunu oluşturacağı görüşünde olan mahkemece, sanığa ek savunma hakkı da verilmek suretiyle bahse konu suçtan hüküm kurulabilecektir. İddianamede anlatılan olayın dışında bir fail ve fiilin yargılanması söz konusu olduğunda ise, suç duyurusunda bulunulması ve iddianame ile dava açılması halinde gerekli görülürse her iki iddianame ile açılan davaların birleştirilmesi yoluna gidilebilecektir.
+
+Nitekim Ceza Genel Kurulunun 17.06.2014 gün ve 1510-331; 18.02.2014 gün ve 274-78; 16.04.2013 gün ve 1307-151 sayılı kararları başta olmak üzere birçok kararında da aynı sonuca ulaşılmıştır.
+
+Öte yandan, konumuza ilişkin 5237 sayılı TCK’nun “Millete ve Devlete Karşı Suçlar ve Son Hükümler” başlıklı dördüncü kısmının “Anayasal Düzene ve Bu Düzenin İşleyişine Karşı Suçlar” başlıklı beşinci bölümünde yer alan suçlardan;
+
+TCK`nun 309/1. maddesinde tanımlanan “Anayasayı ihlal”;
+
+“Cebir ve şiddet kullanarak, Türkiye Cumhuriyeti Anayasasının öngördüğü düzeni ortadan kaldırmaya veya bu düzen yerine başka bir düzen getirmeye veya bu düzenin fiilen uygulanmasını önlemeye teşebbüs edenler ağırlaştırılmış müebbet hapis cezası ile cezalandırılırlar.”
+
+TCK`nun 311/1. maddesinde tanımlanan “Yasama organına karşı suç”;
+
+“Cebir ve şiddet kullanarak Türkiye Büyük Millet Meclisini ortadan kaldırmaya veya Türkiye Büyük Millet Meclisinin görevlerini kısmen veya tamamen yapmasını engellemeye teşebbüs edenler ağırlaştırılmış müebbet hapis cezasıyla cezalandırılırlar.”
+
+TCK`nun 312/1. maddesinde tanımlanan “Hükûmete karşı suç”;
+
+“Cebir ve şiddet kullanarak Türkiye Cumhuriyeti Hükûmetini ortadan kaldırmaya veya görevlerini yapmasını kısmen veya tamamen engellemeye teşebbüs eden kimseye ağırlaştırılmış müebbet hapis cezası verilir.”
+
+Şeklinde düzenlenmiş, TCK`nun 309, 311 ve 312. maddelerinin ikinci fıkralarında, anılan suçların işlenmesi sırasında başka suçların işlenmesi halinde, ayrıca bu suçlardan dolayı ilgili hükümlere göre cezaya hükmolunacağı belirtilmiştir.
+
+“Anayasayı ihlal” suçunun konusu; Türkiye Cumhuriyeti Anayasasının öngördüğü düzen ve bu düzenin işleyişine egemen olan bu ilkeleri içeren kurallar bütünü, “Yasama organına karşı suç” olarak tanımlanan suçun konusu Türkiye Büyük Millet Meclisi, “Hükümete karşı suç” olarak tanımlanan suçun konusu ise, Türkiye Cumhuriyeti Devletinin egemenlik unsurunun oluştuğu üç güçten yönetim gücünü temsil eden Hükümet olmakla birlikte, her üç suç açısından da korunan ortak hukukî değer, millet iradesine dayanan demokratik rejimdir. (İzzet Özgenç, Suç Örgütleri, 10. Bası, Seçkin, Ankara 2017, s. 248-268)
+
+TCK`nun 314. maddesinde tanımlanan “Silâhlı örgüt” suçu ise;
+
+“(1) Bu kısmın dördüncü ve beşinci bölümlerinde yer alan suçları işlemek amacıyla, silahlı örgüt kuran veya yöneten kişi, on yıldan onbeş yıla kadar hapis cezası ile cezalandırılır.
+
+(2) Birinci fıkrada tanımlanan örgüte üye olanlara, beş yıldan on yıla kadar hapis cezası verilir.
+
+(3) Suç işlemek amacıyla örgüt kurma suçuna ilişkin diğer hükümler, bu suç açısından aynen uygulanır.” şeklinde düzenlenmiştir. Bu maddenin 3. fıkrasıyla “suç işlemek amacıyla örgüt kurma” suçuna ilişkin diğer hükümlere yapılan atıf nedeniyle, TCK`nun 220. maddesinin 4. fıkrasında belirtilen gerçek içtima kuralları, TCK’nun 314. maddesinin 2. fıkrasında düzenlenen “silahlı örgüt üyeliği” suçunda da uygulanacaktır. Buna göre, silahlı terör örgütü üyeleri, örgüt faaliyeti kapsamında işledikleri diğer suçlardan da ayrıca sorumlu tutulacaklardır.
+
+Bu bilgi ve belgeler ışığında uyuşmazlık konusu değerlendirildiğinde;
+
+İstanbul Cumhuriyet Başsavcılığınca, suç tarihinde birinci sınıf Cumhuriyet savcısı olan sanığın, kişisel nitelikte ve her biri ağır ceza mahkemesinin görevine giren terör suçlarını suçüstü halinde işlediği iddiasıyla Hâkimler ve Savcılar Kanununun 93 ve 94. maddeleri uyarınca genel hükümlere göre soruşturma yürütüldüğü ve soruşturmanın başladığı tarih itibarıyla sanık hakkında Hâkimler ve Savcılar Kurulu nezdinde yürütülmekte olan tüm soruşturma dosyalarının getirtildiği,
+
+İddianamede içerikleri açıklanan bu dosyalarda, sanığın Cumhuriyet savcısı olarak görev yaptığı ve FETÖ/PDY silahlı terör örgütünün hedef ve politikaları doğrultusunda önem taşıdığı belirtilen bazı soruşturmalarda, Cumhuriyet savcılığı görevi sırasında gerçekleştirdiği iddia edilen hukuka aykırı işlemlerden dolayı yapılan ihbar ve şikâyetlerle ilgili soruşturmalar yürütüldüğünden bahsedilmiş ise de; “görevden doğan ve görev sırasında” işlendiği iddia edilen bu eylemler açısından soruşturmaların halen devam ettiğinin bildirildiği ve bu eylemlere dair görevi kötüye kullanma, resmî belgede sahtecilik, kişiyi hürriyetinden yoksun kılma gibi görev suçu kapsamında değerlendirilebilecek suç adlarına ve sevk maddelerine yer verilmediği, ayrıca iddianamede dava konusu edilen eylemler anlatılırken başka olaylara da değinilmesinin, bahsedilen diğer olaylardan dava açıldığı anlamına gelmeyeceğine dair Ceza Genel Kurulunun istikrarlı uygulamaları da dikkate alındığında, sanık hakkında Hâkimler ve Savcılar Kurulu nezdinde yürütülen soruşturmaların içeriklerinden bahsedilmiş olmasının, sanığın göreviyle bağlantılı bu eylemleri yönünden dava açıldığını göstermeyeceği,
+
+Öte yandan, dava konusu TCK’nun 309/1, 311/1 ve 312/1. maddelerinde düzenlenen amaç suçlar ile Özel Daire uygulamaları doğrultusunda amaç suçlara göre geçitli suç olarak kabul edilen TCK`nun 314/2. maddesinde düzenlenen suçta temadi sanığın yakalanma anına kadar sürdüğü halde, Hâkimler ve Savcılar Kurulu nezdinde incelemesi devam eden soruşturma dosyalarına konu olan, görevden doğan ve görev sırasında gerçekleştirildiği iddia edilen eylemler temadi ve teselsül etmiş olsa dahi, bu eylemler yönünden temadi ve teselsülün daha önceden sona ermiş olması nedeniyle suçüstü halinin mevcut olmadığı, dolayısıyla Hâkimler ve Savcılar Kanununun 94. maddesinde öngörülen şartları taşımayan ve iddianame anlatımına göre araç suç olarak nitelendirilen görevle bağlantılı eylemler açısından soruşturma usulü, amaç suç niteliğindeki dava konusu suçlardan farklı olup görevle bağlantılı diğer eylemler yönünden Hâkimler ve Savcılar Kurulu nezdinde ayrı soruşturma yürütülmesinin de usul ve kanuna uygun olduğu,
+
+TCK’nun “fiil sayısınca suç, suç sayısınca ceza” ilkesinden ibaret olan gerçek içtimayı ön plana çıkaran özelliği dolayısıyla, aynı Kanunun 309, 311 ve 312. maddelerinin ikinci fıkralarında, bu suçların işlenmesi sırasında diğer suçların işlenmesi halinde, ayrıca diğer suçlardan da ilgili hükümlere göre cezaya hükmolunacağı belirtilerek, amaç suç niteliğindeki bu suçların, amaç suç ile korunan hukuki değere ulaşmak için işlenen araç suçlardan ayrı ve bağımsız olarak düzenlendikleri, dolayısıyla içeriklerinden bahsedilen Hâkimler ve Savcılar Kurulu nezdindeki soruşturmalara konu olan ve görev sırasında gerçekleştiği iddia edilen eylemlerin suç oluşturduğu kanaatiyle ayrı bir dava açılması halinde, görev sırasında işlendiği belirtilen bu suçların dava konusu amaç suçlar açısından “araç suç” olup olmadıklarının kovuşturma makamlarınca ayrıca değerlendirilmesi gerektiği,
+
+Bununla birlikte, millet iradesine dayalı demokratik rejimi koruma amacıyla düzenlenen dava konusu suçların, herhangi bir kamu göreviyle bağlantılı ve görevden yararlanılarak işlenmesi zorunlu olmadığı gibi, “özgü suç” niteliği taşımayan bu suçlar açısından failin memur olmasının kurucu unsur da olmadığı, sanık hakkındaki iddianamede; Hâkimler ve Savcılar Kurulu nezdinde incelemesi devam eden ve dava konusu suçlar açısından atıf yapılan görevle bağlantılı eylemlerden ayrı olarak, sanığın kişisel irade ve eylemleriyle FETÖ/PDY silahlı terör örgütüne üye olduğu, Cumhuriyet savcılığı sıfatından bağımsız olarak, özünde anılan örgütün üyesi sıfatıyla ve örgüt üyeliğinden kaynaklanan hiyerarşi içerisinde hareket ederek örgütün Türkiye Cumhuriyeti Devleti’nin tüm anayasal kurumlarını ele geçirmeye yönelik herhangi bir kamu göreviyle bağdaşmayan nihâi amacına ulaşmak için bir süreç ve basamak olarak gördüğü yargısal mekanizmalara egemen olma faaliyetleri kapsamında özel yetkili Cumhuriyet savcılığına yerleştirildiği, örgütsel amaçların gerçekleştirilmesine yönelik örgütsel motivasyon ile hareket ederek örgüt adına çalışmalar yaptığı, böylece örgüt faaliyeti kapsamında işlendiği belirtilen dava konusu suçlara iştirak ettiğine dair nitelendirme ile kamu davası açıldığı, bu nedenle sanığın eylemlerinin kişisel suç olarak kabulü gerektiği, Yargıtayın ilk derece yargılaması yapma görevinin görev suçları ile sınırlı ve istisna oluşu da dikkate alınarak açıklanan sebeplerle Yargıtay 9. Ceza Dairesinin görevsizlik kararının usul ve yasaya uygun olduğu kabul edilmelidir.
+
+Bu itibarla, İstanbul 24. Ağır Ceza Mahkemesinin 10.07.2017 gün ve 240-130 sayılı görevsizlik kararının kaldırılmasına karar verilmelidir.
+
+SONUÇ:
+
+Açıklanan nedenlerle,
+
+1- Yargıtay 9. Ceza Dairesinin 02.10.2017 gün ve 4-8 sayılı kararı usul ve yasaya uygun olduğundan, İstanbul 28. Ağır Ceza Mahkemesinin 10.07.2017 gün ve 240-130 sayılı görevsizlik kararının KALDIRILMASINA,
+
+2- Tutuklama tarihi, sevk maddeleri ve CMK’nun 102/2. maddesindeki sürenin aşılmamış olması nazara alındığında, sanık …`in tutukluluk incelemesinin mahallinde DEĞERLENDİRİLMESİNE,
+
+2- Dosyanın, mahalline gönderilmek üzere Yargıtay Cumhuriyet Başsavcılığına TEVDİİNE, 12.12.2017 tarihinde yapılan müzakerede oybirliğiyle karar verildi.
+
+YARGITAY 4. CEZA DAİRESİ 
+Esas : 2016/8091 Karar : 2017/24732Tarih : 13.11.2017
+
+CMK 226. Madde
+
+Suçun Niteliğinin Değişmesi
+
+Yerel Mahkemece verilen hükümler temyiz edilmekle, başvurunun süresi ve kararın niteliği ile suç tarihine göre dosya görüşüldü:
+
+Temyiz isteğinin reddi nedenleri bulunmadığından işin esasına geçildi.
+
+Vicdani kanının oluştuğu duruşma sürecini yansıtan tutanaklar, belgeler ve gerekçe içeriğine göre yapılan incelemede;
+
+1)Sanığın temyiz aşamasında sunmuş olduğu rapor örnekleri dikkate alınarak, sanık hakkında Adli Tıp Kurumu 4. İhtisas Kurulu veya bir üniversite araştırma hastanesinin psikiyatri ana bilim dalı başkanlığından cezai ehliyeti ile ilgili rapor aldırılıp, 5237 sayılı Kanunun 32/2 ve 57. maddeleri de nazara alınmak suretiyle sanığın hukuki durumunun belirlenmesi gerektiğinin gözetilmemesi,
+
+2)Tarafların olay tarihinde evli olup aralarında anlaşmazlık bulunduğu ve sanığın suçlamaları kabul etmediği görülmekle, müşteki ile tarafların ortak çocuğu tanık … dinlenilmeden, eksik inceleme ile karar verilmesi,
+
+3)Sanığa ek savunma hakkı tanınmadan TCK’nın 58/6. maddesindeki tekerrür hükümleri uygulanarak, 5271 sayılı CMK’nın 226. maddesine aykırı davranılması,
+
+4)Sanığın tekerrüre esas alınan, adli sicil kaydındaki ilama konu TCK’nın 106/1 1. cümlesi kapsamındaki tehdit suçunun, hükümden sonra yürürlüğe giren 6763 sayılı Kanun’un 34. maddesiyle değişik 5271 sayılı CMK’nın 253. maddesi ve maddeye eklenen fıkraya göre uzlaştırma kapsamına alındığının anlaşılması karşısında, anılan hükme ilişkin, uyarlama yargılaması yapılıp yapılmadığı araştırılarak sonucuna göre tekerrür hükümlerinin uygulanıp uygulanmayacağının yeniden değerlendirilmesi zorunluluğu,
+
+5)Kabule göre de; tehdit suçu bakımından; 02/12/2016 tarihli Resmi Gazete’de yayımlanarak aynı tarihte yürürlüğe giren 6763 sayılı Kanunun 34. maddesiyle değişik 5271 sayılı CMK’nın 253. maddesi ve maddeye eklenen fıkraya göre uzlaşma hükümleri yeniden düzenlenmiş ve sanığa isnat edilen TCK’nın 106/1. maddesi kapsamındaki tehdit suçunun uzlaştırma kapsamında bulunduğu, hakaret suçu yönünden ise, uzlaşma önerisinin yapıldığı tarihte 5271 sayılı CMK’nın 253/3. maddesinde engel bulunduğu gözetilerek, yeni düzenleme
+
+karşısında bu suç yönünden de uzlaşma önerisinde bulunulması gerektiği anlaşılmış olmakla, 5237 sayılı Türk Ceza Kanunu’nun 2 ve 7. maddeleri de gözetilerek, uzlaştırma işlemi uygulanarak sonucuna göre sanığın hukuki durumunun bu kapsamda tekrar değerlendirilip belirlenmesinde zorunluluk bulunması,
+
+Bozmayı gerektirmiş, sanık …‘ın temyiz itirazları bu nedenle yerinde görülmüş olduğundan, bir, iki, üç ve dört nolu bozma nedenleri dışında diğer yönleri incelenmeksizin HÜKÜMLERİN 5320 sayılı Kanunun 8/1. maddesi gereğince uygulanması gereken 1412 sayılı CMUK’nın 321. maddesi uyarınca BOZULMASINA, yargılamanın bozma öncesi aşamadan başlayarak sürdürülüp sonuçlandırılmak üzere dosyanın esas/hüküm mahkemesine gönderilmesine, 13/11/2017 tarihinde oybirliğiyle karar verildi.
+
+YARGITAY 19. CEZA DAİRESİ 
+Esas : 2017/4217 Karar : 2017/9541Tarih : 13.11.2017
+
+CMK 226. Madde
+
+Suçun Niteliğinin Değişmesi
+
+Vicdani kanının oluştuğu duruşma sürecini yansıtan tutanaklar, belgeler ve gerekçe içeriğine göre yapılan incelemede;
+
+CMK’nın 225/1. maddesi gereğince iddianamede gösterilen ve suç oluşturduğu ileri sürülen fiilin dışına çıkılması, davaya konu edilmeyen bir eylemden dolayı yargılama yapılması ve açılmayan davadan hüküm kurulması kanuna aykırıdır. Somut olayda, iddianame içeriğinde sanıkların açıkça hangi eylemlerinin müsnet suçu oluşturduğu yönünde herhangi bir anlatım ve ifade bulunmadığından CMK`nın 170/3-h-j bendtlerinde öngörülen unsurları ihtiva etmeyen iddianame dayanak yapılarak mahkumiyet kararı verilmesi.
+
+Kanuna aykırı ve sanıklar …, …, …, …, …, … müdafii ile katılan vekilinin temyiz nedenleri bu itibarla yerinde görüldüğünden, tebliğnameye aykırı olarak hükümlerin 5320 sayılı Kanun’un 8/1. maddesi gereğince uygulanması gereken 1412 sayılı CMUK`nın 321. maddesi uyarınca ( BOZULMASINA ), oyçokluğuyla karar verildi.
+
+MUHALEFET ŞERHİ
+
+Sanıklar …-…-…-…-…-…-… hakkında; Bakırköy 9. Asliye Ceza Mahkemesi tarafından yapılan yargılama sonucunda; 19/02/2014 gün, 2013/506 E-2014/138 K sayılı karar ile sanıklar hakkında Dernekler Kanununun 32/f maddesi delaletiyle TCK`nın 155/2, 62, 51, 52 Maddeleri uyarınca 10 Ay Hapis Cezası ve 80. TL Adli Para Cezasına hükmedilerek, hapis cezasının ertelenmesine karar verilmiştir.
+
+Bu karara karşı katılan vekili ile sanıklar müdafileri tarafından açılan temyiz davası üzerine, Yargıtay Yüksek 19. Ceza Dairesi tarafından yapılan inceleme sonucunda, 13/11/2017 gün, 2017/4217 E-2017/ 9541 K sayılı karar ile;
+
+Özet olarak sanıkların hangi eylemlerinin müsnet suçu oluşturduğu yönünde herhangi bir anlatım ve ifade bulunmadığından, CMK`nın 170/3-h-j maddesinde öngörülen unsurları ihtiva etmeyen iddianame dayanak yapılarak mahkumiyet kararı verildiğinden bahisle sanıklar hakkındaki hükmün (BOZULMASINA) karar verilmiştir.
+
+Sanıklar hakkında düzenlenen iddianamenin CMK’nın 170 maddesindeki unsurları içerip içermediği hususunda Yargıtay Yüksek 19. Ceza Dairesi’nin sayın çoğunluğu ile aramızda ki görüş ayrılığının sonucu olarak 5253 sayılı kanuna muhalefet suçundan dolayı düzenlenen iddianamenin CMK`nın 170/3-h, j bendindeki unsurları içermediğinden bahisle yerel mahkemece verilen mahkumiyet kararının Yargıtay Yüksek 19. Ceza Dairesi tarafından (BOZULMASINA) ilişkin kararına aşağıda arz ve izah edilecek sebeplerle iştirak edilmemiştir.
+
+Uyuşmazlıkların çözümü için, öncelikle CMK`nın 170 maddesi uyarınca iddianamede yer alması gereken hususlar net bir şekilde tespit edilip, iddianamedeki eksiklerin yargılama aşamasında giderilip giderilemeyeceğinin ve buna bağlı olarak verilen mahkumiyet hükmünün sadece bu nedenle bozulmasının sonuca herhangi bir etkisinin olup olamayacağının bu husustaki kanuni düzenlemeler ile benzer olaylardaki yargı kararlarından yararlanılarak belirlenmesi gerekmektedir.
+
+Ceza muhakemesinde iddianamenin hazırlanması ile soruşturma evresi sona ermekte, iddianamenin değerlendirilmesi süreci bir ara evre olarak ortaya çıkmakta ve iddianamenin kabulüyle kovuşturma başlamaktadır. Soruşturma safhasının amaçlarına uygun şekilde yürütülmesi, kovuşturmanın hazırlanması ve yeterli suç şüpheleri bulunmayan hadiselerin mahkeme önüne getirilmemesi, ayıklanması, büyük önem arz etmektedir. Bu çerçevede ceza iddiasını yargılama makamı önüne getiren belge olarak iddianamenin yasada belirtilen özellikleri taşıması gerekir.  Gerek soruşturma safhasının fonksiyonlarını hayata geçirmek gerekse de savcılık makamının etkinliğini artırmak adına, mahkeme tarafından “iddianamenin” incelenmesinin ve iadesinin mümkün kılınmış olması büyük bir yeniliktir.
+
+İddianamenin iadesi kurumu, “Yeni Türk Ceza Adalet Sisteminde” benimsenen “Kişilerin Lekelenmeme Hakkı” ile “Eksiksiz Soruşturma” ve “Kamu davasının tek ya da zorunlu olduğunda birbirini izleyen oturumlarda ve mümkünse bir günde sonuçlandırılması” ilkelerinin doğal bir sonucu olarak, etkin bir soruşturma yapılmadan ve kamu davası açmak için gerekli olan “yeterli şüpheye” ulaştıracak delilleri elde etmeden iddianamenin düzenlenmesini engellemek amacıyla 5271 sayılı Ceza Muhakemesi Kanunu ile hukuk sistemimize girmiş yeni bir kurumdur.
+
+Kamu davasını açma görevi Cumhuriyet Savcısı’na aittir (CMK.m.170/1). Dolayısıyla iddianameyi düzenleyecek kişi de Cumhuriyet Savcısıdır. Keza CMK.’nın 170 inci maddesinin 2 nci fıkrasında “soruşturma evresi sonunda toplanan deliller, suçun işlendiği hususunda yeterli şüphe oluşturuyorsa Cumhuriyet Savcısı bir iddianame düzenler” denildikten sonra 3 üncü fıkrada görevli ve yetkili mahkemeye hitaben düzenlenen iddianamede bulunması gereken hususlara işaret edilmiştir. İddianamede yüklenen suçu oluşturan hadiseler, mevcut delillerle ilişkilendirilerek açıklanacaktır (CMK.m.170/4).
+
+CMK`nın 170 Maddesinde iddianamenin unsurları aşağıda şu şekilde sıralanmıştır:
+
+A- Yeterli Şüphe
+
+CMK.m.170/2 uyarınca soruşturma evresi sonunda toplanan deliller, suçun işlendiği hususunda yeterli şüphe oluşturuyorsa, Cumhuriyet Savcısı iddianame düzenleyecektir.
+
+İddianamenin düzenlenmesi için “belli oluş” değil, “yeterli şüphe” arandığından, şüpheden sanık yararlanır ilkesi bu aşamada geçerli değildir.
+
+B- Görevli ve Yetkili Mahkeme
+
+İddianame görevli ve yetkili mahkemeye hitaben düzenlenir (CMK.m.170/3). Bu itibarla iddianamede, görevli ve yetkili mahkeme gösterilmelidir. Yer yönünden yetkiye ilişkin kurallar CMK.’nın 12 vd. maddelerinde düzenlenmiştir.
+
+C- Şüphelinin Kimliği
+
+İddianamede şüphelinin kimlik bilgilerine yer verilmiş olmalıdır (CMK.m.170/3-a). Kimlik bilgileri şüphelinin adı, soyadı, adresi, medeni hali, doğum yeri, doğum tarihi, vatandaşlığına ilişkin hususları içerir.
+
+D- Şüphelinin Müdafii
+
+İddianamede şüphelinin müdafiine ilişkin bilgilere yer verilmelidir (CMK.m.170/3-b).
+
+E- Maktul, Mağdur veya Suçtan Zarar Görenin Kimliği
+
+Uyuşmazlığa konu olayla ilgili olarak öldürülen bir kimse varsa, bu kişinin kimlik bilgileri ile mağdurun veya suçtan zarar görenin kimlik bilgileri iddianamede gösterilmelidir (CMK.m.170/3-c).
+
+F- Mağdurun veya Suçtan Zarar Görenin Vekili veya Kanuni Temsilcisi
+
+Mağdurun veya suçtan zarar görenin vekili veya kanuni temsilcisinin iddianamede gösterilmesi gerekir (CMK.m.170/3-d).
+
+G- İhbarda Bulunan Kişinin Kimliği
+
+Soruşturma bir kimsenin ihbarı ile başlamışsa, açıklanmasında sakınca bulunmadığı takdirde bu kimsenin kimlik bilgileri iddianamede bulunmalıdır (CMK.m.170/3-e).
+
+H- Şikâyette Bulunan Kişinin Kimliği
+
+Şikâyete tabi suçlar açısından şikâyet bir dava şartı olduğundan, şikâyette bulunan kişinin kimliğine dair bilgilere iddianamede yer verilmelidir (CMK.m.170/3-f).
+
+I- Şikâyetin Yapıldığı Tarih
+
+Şikâyete tabi suçlarda şikâyetin süresinde yapılıp yapılmadığının tespiti açısından şikâyet tarihinin yazılması önemlidir (CMK.m.170/3-g).
+
+J- Yüklenen Suç ve Uygulanması Gereken Kanun Maddeleri
+
+İddianamede şüpheliye yüklenen fiil ve buna ilişkin deliller ortaya konulduktan sonra, hadisenin hukuki nitelendirmesinin yapılması ve uygulanması gereken kanun maddelerinin (sevk maddeleri) belirtilmesi gerekir (CMK.m.170/3-h).
+
+K- Yüklenen Suçun İşlendiği Yer, Tarih ve Zaman Dilimi
+
+Yüklenen suçun işlendiği yer, tarih ve zaman dilimi de iddianamede bulunması gereken unsurlardandır (CMK.m.170/3-i).
+
+L- Suçun Delilleri
+
+İddianamede yapılan soruşturma sonucunda elde edilen delillerinin nelerden ibaret olduğu açık bir şekilde yazılmalıdır (CMK.m.170/3-j).
+
+M- Şüphelinin Tutukluluk Durumu
+
+Şüphelinin tutuklu olup olmadığı; tutuklanmış ise, gözaltına alma ve tutuklama tarihleri ile bunların süreleri iddianamede yer almalıdır (CMK.m.170/3-k).
+
+N- Yüklenen Suçu Oluşturan Olayların Delillerle İlişkilendirilmesi
+
+İddianamede yüklenen suçu oluşturan olaylar, mevcut delillerle ilişkilendirilerek açıklanmalıdır (CMK.m.170/4).  Diğer bir ifadeyle, iddianamede kabul edilen oluşa, hangi delillerden hareket edilerek ulaşıldığı açık ve net bir şekilde ortaya konulmalı, sadece hadiseler sıralanıp, “delillerin takdiri sayın mahkemeye aittir” gibi ifadelerle geçiştirilip iddianame tanzim edilmemelidir. İddianamenin iadesini düzenleyen CMK.m.174 uyarınca bu yöndeki eksiklik iddianamenin iadesini gerektirir. Böylece, soyut bir iddia ile yetinilmeyip, iddianın somutlaştırılması, yeterli suç şüphesinin varlığının adeta savcılık makamınca “kanıtlanması” amaçlanmıştır.
+
+O- Şüphelinin Lehine Olan Hususların Belirtilmesi
+
+Cumhuriyet savcısı soruşturma aşamasında sadece şüphelinin aleyhine olan delilleri değil, aynı zamanda lehine olan delilleri de toplamak zorundadır (CMK.m.160/2). Bu nedenle iddianamenin sonuç kısmında şüphelinin aleyhine olan hususların yer almasına karşın, lehine olan hususlara değinilmemesi iade nedenidir (CMK.m.170/5, 174/1-a).
+
+P- Uygulanması İstenen Ceza ve Güvenlik Tedbirlerinin Belirtilmesi
+
+İddianamenin sonuç kısmında, işlenen suç dolayısıyla ilgili kanunda öngörülen ceza ve güvenlik tedbirlerinden hangilerine hükmedilmesinin istendiği ayrıntılı şekilde gösterilmelidir. Ayrıca suç bir tüzel kişinin faaliyeti çerçevesinde işlenmiş ise, ilgili tüzel kişi hakkında uygulanabilecek güvenlik tedbiri de açıkça belirtilmelidir (CMK.m.170/6).
+
+VI- İddianamenin İncelenmesi ve İadesi
+
+Bu çerçevede iddianame ve soruşturma evrakının verildiği tarihten itibaren on beş gün içinde soruşturma belgesine ilişkin bütün belgeler mahkeme tarafından incelenir. Yapılan incelemede; a) iddianamenin 170 inci maddede yazılı unsurları içerip içermediği, b) suçun sübutuna etki edeceği mutlak sayılan mevcut bir delilin toplanıp toplanmadığı, c) yüklenen suçun uzlaşma veya önödeme yoluyla çözülebilecek işlerden olup olmadığı, böyle ise, soruşturma safhasında bu durumun gözetilip gözetilmediği hususları gözden geçirilerek, eksik veya hatalı noktalar tespit edilirse iddianamenin iadesine karar verilir (CMK.m.174/1). Aksi halde, iddianame kabul edilir.
+
+2- İddianamenin İadesi Nedenleri
+
+A- İddianamenin 170 inci Maddeye Aykırı Olarak Düzenlenmiş Olması
+
+5271 sayılı CMK.’nın 170 inci maddesinde iddianamede yer alması gereken hususlar gösterilmiştir. Yukarıda iddianamenin unsurları başlığı altında bunları incelediğimizden, burada o bilgilere atıf yapmakla yetiniyoruz. İddianamenin 170 nci maddede belirtilen hususları içermemesi durumunda, mahkeme iddianameyi iade edecektir (CMK.m.174/1-a).
+
+B- Suçun Sübutuna Etki Edeceği Mutlak Sayılan Mevcut Bir Delilin Toplanmamış Olması
+
+CMK.’nın 170 inci maddesinde iddianamede suçun delillerinin gösterilmesi gerektiği belirtilmiştir. Aksi takdirde suçun delillerinin yer almadığı iddianame mahkeme tarafından iade edilmelidir. Burada ise, suçun sübutuna etki edeceği mutlak sayılan mevcut bir delil toplanmadan düzenlenen iddianamenin iade edilmesi söz konusudur (CMK.m.174/1-b).
+
+C- Önödeme ve uzlaşma usulünün uygulanmamış olması
+
+İddianameyi alan mahkeme, soruşturma konusu suçun önödemeye veya uzlaşmaya tabi olup olmadığını araştırmalıdır. Eğer önödeme veya uzlaştırma usulünün uygulanması gerektiği halde, bu usuller uygulanmadan iddianame düzenlenmişse, mahkeme iade kararı vermelidir (CMK.m.174/1-c).
+
+3- İddianamenin iade edilemeyeceği hal Suçun hukukî nitelendirilmesi sebebiyle iddianame iade edilemez (CMK.m.174/2). Çünkü hüküm ancak iddianamede unsurları gösterilen suça ilişkin fiil ve fail hakkında verilir. (CMK.m.225/1). İddianamenin mahkemeye verilmesinden sonra mahkeme suçun hukuki nitelendirmesini farklı yapabilir. Ancak bu durumda iddianame iade edilmemelidir. Zira mahkeme iddianame ile bağlı değildir (CMK.m.225/2).
+
+Yukarıda unsurları ayrıntılı bir şekilde açıklanan iddianamenin hangi eksiklikten dolayı usulüne uygun dava açılmış sayılamayacağı hususunun açıklığa kavuşturulması için Yargıtay Ceza Genel Kurulunun 2012/1510 E-2014/331 K sayılı ilamının incelenmesi gerekmektedir.
+
+Söke Cumhuriyet Başsavcılığınca sanık hakkında; “Şüpheli …’in … isimli yerel gazetenin sahibi, şüpheli …’ın aynı gazetede genel yayın yönetmeni olduğu, müşteki …’nin de olay tarihinde aynı gazetede editör olarak çalıştığı, …’ın gazeteye ait dijital fotoğraf makinesiyle, gazetedeki köşesine koymak amacıyla müştekinin fotoğrafını çekerek kendi bilgisayarına attığı, ancak daha sonra bu fotoğrafı www.is..l.net isimli bir özel arkadaşlık internet sitesine 14.10.2006 tarihinde verdiği, ertesi gün müştekinin bir akrabasının söz konusu sitede kendisinin resmini görerek haber verdiği, bunun üzerine …’ın, cep telefonundan müştekiye mesaj atarak özür dilediği ve bu işi İbrahim ile birlikte yaptıklarını dolaylı olarak söylediği, 16.10.2006 tarihinde şüpheli …’ınbelkibarumuzlu üyeliğini sildiği dolayısıyla müştekinin resminin de bu tarihte silindiği, her iki şüphelinin evli bir kadın olan müştekiye ait resmi iki gün süreyle özel arkadaşlık hizmeti veren bir web sitesinde yayınlamak suretiyle özel hayatın gizliliğini ihlal suçunu işledikleri” açıklamasına yer verilen iddianame ile kamu davası açılırken, sevk maddelerinin “5237 sayılı TCK`nun 134/2 ve 53” olarak gösterildiği ve suçun özel hayatın gizliliğini ihlal olarak adlandırıldığı, yerel mahkemece bu suçtan mahkumiyet hükmü kurulduğu anlaşılmaktadır.
+
+Soruşturma aşamasında elde ettiği delillerden ulaştığı sonuca göre iddianameyi hazırlamakla görevli iddia makamı, düzenlenen iddianame ile CMK’nun 225/1. maddesi uyarınca kovuşturma aşamasının sınırlarını belirlemektedir. Bu bakımdan iddianamede, yüklenen suçun unsurlarını oluşturan fiil/fiillerin nelerden ibaret olduğunun hiçbir tereddüte yer bırakmayacak biçimde açıklanması zorunludur. Böylelikle sanık; iddianameden üzerine atılı suçun ne olduğunu hiçbir şüpheye yer vermeyecek şekilde anlamalı, buna göre savunmasını yapabilmeli ve delillerini sunabilmelidir. CMK`nun 226. maddesindeki düzenlemeyle iddianamede anlatılan eylem değişmemiş olduğundan, kanun koyucu o eylemin hukuki niteliğinde değişiklik olmasını “yargılamanın sınırlılığı” ilkesine aykırı görmemiş, bu gibi hallerde sanığa ek savunma hakkı verilerek değişen suç niteliğine göre bir hüküm kurulmasına imkan sağlamıştır. Bu düzenlemenin bir sonucu olarak mahkeme, eylemin hangi suçu oluşturacağına ilişkin nitelendirmede iddia ve savunmayla bağlı değildir. Örneğin, iddianamede kasten öldürmeye teşebbüs olarak nitelendirilen eylemin kasten yaralama suçunu oluşturacağı görüşünde olan mahkemece, sanığa ek savunma hakkı da verilmek suretiyle bahse konu suçtan hüküm kurulabilecektir. İddianamede anlatılan ve kapsamı belirlenen olayın dışında bir fail ve fiilin yargılanması söz konusu olduğunda ise, suç duyurusunda bulunulması ve iddianame ile dava açılması halinde gerekli görülürse her iki iddianame ile açılan davaların birleştirilmesi yoluna gidilebilecektir.
+
+Nitekim, Ceza Genel Kurulunun 18.02.2014 gün ve 274-78 ile 16.04.2013 gün ve 1307-151 sayılı kararları başta olmak üzere birçok kararında da aynı sonuca ulaşılmıştır.
+
+Bu açıklamalar ışığında uyuşmazlık konusu değerlendirildiğinde;
+
+Bilecik Cumhuriyet Başsavcılığınca düzenlenen iddianamede yargılamaya konu edilen olayın açıklanmasından sonra sanığın eyleminin özel hayatın gizliliğini ihlal suçu olarak vasıflandırılıp TCK’nun 134/2. maddesi uyarınca cezalandırılması talebiyle kamu davası açılan olayda, CMK’nun 225. maddesine göre hükmün iddianamede unsurları gösterilen suça ilişkin fiil ve faili hakkında verileceği ve mahkemenin, fiilin nitelendirilmesinde iddia ve savunmalarla bağlı olmadığı da gözönüne alındığında, iddianamedeki anlatımın gerek TCK`nun 136. maddesinde düzenlenen kişisel verileri hukuka aykırı olarak yayma, gerekse aynı kanunun 125. maddesinde düzenlenen hakaret suçlarını da oluşturabilecek şekilde yapıldığı kabul edilmelidir.
+Yukarıdaki içtihatta açıklandığı üzere, iddianamede hakaret anlamına gelebilecek herhangi bir sözden bahsedilmemesine karşın, Yargıtay Yüksek Ceza Genel Kurulu tarafından hakaret suçundan dava açıldığı kabul edilmiştir. Bir başka deyişle iddianamedeki anlatım zaafı sonucu etki edecek bir eksiklik olarak görülmemiştir.
+
+İncelemeye konu somut olayımızda iddianamedeki eksikliğin sonuca etkili olup olamayacağının, bir başka deyişle her usul i eksikliğin bozma nedeni olarak görülüp görülmediğinin belirlenebilmesi için Yargıtay Ceza Genel Kurulunun 2012/9-1467 E-2013/610 K sayılı ilamının irdelenmesi gerekmektedir.
+
+İddianame ve yerine geçen belge okunmadan savunmasının alınmasıyla CMK`nun 191. maddesinin üçüncü fıkrasında yer alan usul kurallarına aykırı hareket edilmiş olmakla birlikte, sanığa iddianamenin tebliği ve savunması alınmadan önce de üzerine atılı suçun anlatılmasıyla suçtan haberdar olması ve savunmasını iddianamede anlatılan olay ve yöneltilen suçlamayı karşılayacak şekilde yapması halinde sadece iddianamenin okunmaması nedeniyle savunma hakkının sınırlandırıldığı ve kendisini etkili savunamadığı söylenemeyeceği gibi, buna bağlı olarak yapılan diğer işlemler de varlıklarını ve geçerliliklerini koruyacaktır.
+
+Nitekim 20.05.1957 gün ve 5-13 sayılı Yargıtay İçtihadı Birleştirme Kararında; “Bir hükmün bozulmasını istilzam eylemesi bakımından, sureti mutlakada kanuna muhalefet kâfi olmayıp kanuna vuku bulan muhalefetin hükmün esasına ve neticesine tesir etmiş veya etmesi mümkün bulunmuş olması icap eylediği, duruşmada hazır bulunan hükümlüye TCK’nın 94. maddesinde yazılı ihtaratın yapılmamasının, esasa ve sonuca etkili olmaması bakımından hükmün bozulmasını gerektiren hallerden olmadığı”, Ceza Genel Kurulunun 29.06.2004 gün ve 124-155 sayılı kararında; “Ceza Muhakemeleri Usulü Yasasının 307. maddesine göre temyiz, ancak hükmün yasaya aykırı olması sebebine dayanır. Yasaya aykırılık ise bir hukuk kuralının uygulanmaması veya yanlış uygulanmasıdır. Anılan Yasanın 308. maddesinde sekiz bent halinde, tamamı usule ilişkin olan ve yasaya mutlak aykırılık oluşturduğu varsayılan haller sıralanmıştır. Bozma gerektirip gerektirmeyeceği hususunda Yargıtay’a araştırma yetkisi tanınmamış olan bu hallerin varlığının saptanması durumunda hükmün Yargıtay`ca bozulması gerekmektedir. Bu madde dışındaki muhakeme normlarına aykırılık bakımından aykırılığın son karara etkisi olup olmadığının araştırılması gerekir. Hukuka aykırılığın son karara etki etmediği, kaldırılmasının da etkide bulunmayacağı muhakkak ise bu aykırılıkların bozma sebebi sayılması çoğu kez yargılamanın uzamasından başka bir işe yaramayacaktır. 19.02.2013 gün ve 1464-61 sayılı kararında ise; “Sanığın sorgusuna geçilmeden önce hakkında düzenlenen iddianamede yer alan suçlama ve hangi kanun maddesinin uygulanmasının talep edildiği konusunda yeterince bilgilendirilmiş olması karşısında, bu usul hükmüne uyulmaması hükmün esasına tesir eder nitelikte aykırılık olmayıp mutlak bozma nedenleri arasında sayılmadığından bozma nedeni yapılmamalıdır” sonucuna ulaşılmıştır.
+
+Öğretide de; “Haksız kararın kaldırılması demek olan bozmanın işe yaraması, yani sonunda başka ve haklı bir karar verilmesi lazımdır. Eğer önceki hükümden başka bir karar verilemeyecekse bozmanın manası yoktur. Onun için aykırılığın karara tesirini araştırmak gerekir. Son karar doğru ve haklı bulunduğunda, ona tesir etmediği kabul olunan aykırılıklar bozma nedeni sayılmamalıdır” (Nurullah Kunter, Ceza Muhakemesi Hukuku, 9. Bası, s. 529), “Maddi hukuka aykırılıklar daima bozma nedeni olurken, muhakeme hukukuna ilişkin aykırılıklar kural olarak her zaman bozma nedeni sayılmazlar. 
+Hükmün esasına etkisi bulunmayan yargılama hukukuna ilişkin aykırılıkların temyiz incelemesi aşamasında dosyanın esasına girilmeden önce tek başına bozma nedeni yapılması Anayasanın 141. maddesinin dördüncü fıkrasındaki; “Davaların en az giderle ve mümkün olan süratle sonuçlandırılması, yargının görevidir” şeklindeki hükme ve usul ekonomisine aykırı olacak, yargılamanın uzamasına, yeni yargılama giderlerine yol açacak, aynı zamanda Avrupa İnsan Hakları Sözleşmesinin “Adil yargılanma hakkı” başlıklı 6. maddesinin; “Herkes gerek medeni hak ve yükümlülükleri ile ilgili nizalar, gerekse cezai alanda kendisine karşı serdedilen bir isnadın esası hakkında karar verecek olan kanuni, müstakil ve tarafsız bir mahkemece davasının makul süre içerisinde hakkaniyete uygun ve aleni surette dinlenmesini istemek hakkını haizdir” şeklindeki düzenlemesinin ihlali anlamına gelecektir.
+
+Bu açıklamalar ışığında uyuşmazlık konusu değerlendirildiğinde;
+
+İddianamenin kanuna ve usulüne uygun olarak sanığa tebliğ edilmesi, duruşmada da kanuni haklarının hatırlatılması, sanığın aşamalarda iddianamede anlatılan olay ve yöneltilen suç doğrultusunda savunma yapması, isnat edilen suçu kabul etmesi ve ne kovuşturma, ne de temyiz aşamasında suçlama ile ilgili olarak yeterince bilgilendirilmediği için etkili savunma yapamadığı yönünde bir iddiasının olmaması karşısında, savunma hakkının sınırlandığından söz edilemeyecektir.
+
+Sanığın savunmasının alındığı oturumda kendisine iddianame okunmaması suretiyle CMK`nun 191/3. maddesine aykırı davranılmış ise de, sanığın sorgusuna geçilmeden önce 147. maddedeki tüm kanuni hakları konusunda bilgilendirilmiş olması ve tüm yargılama boyunca sanığın kendisini yeterince savunma imkanının sağlanması karşısında, sözkonusu usul hükmüne uyulmaması, hükmün esasına tesir eder nitelikte bir aykırılık olmayıp, mutlak bozma nedenleri arasında da sayılmadığından bozma nedeni yapılmamalıdır.
+
+Yukarıdaki içtihatlarda; iddianamedeki her eksikliğin, iddianamenin iadesi nedeni olmadığı gibi sonuca etkili olmayan eksikliklerden dolayı hükmün bozulmaması gerektiği net bir şekilde açıklanmıştır. Somut olayımızda dernek başkanı olan sanığın savunması ayrıntılı bir şekilde iddianameye yansıtılarak, diğer sanıklarında benzer savunmalarda bulunduğu açıklanarak, denetim kurulu tarafından düzenlenen rapor, sanıkların savunması ve tüm evrak kapsamından sanıkların müsnet suçu işledikleri açıklanmıştır. İddianamede sevk maddelerinin doğru olarak gösterildiği ve sanıkların denetim raporundaki iddialarla ilgili olarak ayrıntılı bir şekilde savunma yaparken, ne yargılama aşamasında ne de temyiz aşamasında savunma haklarının kısıtlandığına dair herhangi bir iddia dahi ileri sürmedikleri, sonuç itibariyle iddianamedeki anlatım zaafının evrensel bütün hukuk sistemlerinde yaşam hakkı kadar kutsal bir hak olarak kabul edilen savunma hakkını zedelemediği dosya içeriğinden net bir şekilde anlaşılmıştır. Yargılamanın dayanığını teşkil eden iddianamenin kusursuz olması, kusursuz bir yargılamanın olmazsa olmaz koşullarından birisi olduğu konusunda şüphe bulunmamaktadır. Ancak Yargıtay Yüksek Ceza Genel Kurulunun pek çok içtihadında açıklandığı üzere hükmün esasına etkisi bulunmayan yargılama hukukuna ilişkin aykırılıkların temyiz incelemesi aşamasında dosyanın esasına girilmeden önce tek başına bozma nedeni yapılması Anayasanın 141. maddesinin dördüncü fıkrasındaki; “Davaların en az giderle ve mümkün olan süratle sonuçlandırılması, yargının görevidir” şeklindeki hükme ve usul ekonomisine aykırı olacak, yargılamanın uzamasına, yeni yargılama giderlerine yol açacak, aynı zamanda Avrupa İnsan Hakları Sözleşmesinin “Adil yargılanma hakkı” başlıklı 6. maddesinin; “Herkes gerek medeni hak ve yükümlülükleri ile ilgili nizalar, gerekse cezai alanda kendisine karşı serdedilen bir isnadın esası hakkında karar verecek olan kanuni, müstakil ve tarafsız bir mahkemece davasının makul süre içerisinde hakkaniyete uygun ve aleni surette dinlenmesini istemek hakkını haizdir” şeklindeki düzenlemesinin ihlali anlamına geleceği kaçınılmaz bir gerçek olarak karşımıza çıkacaktır. Özellikle 765 sayılı kanun döneminde hırsızlık suçlarından dolayı iddianamede çalınan eşyaların tamamına yer verilmemesine karşın, hazırlık evrakında başka eşyalarında çalındığının tespiti halinde iddianamede yer verilmeyen ancak hazırlık evrakında mevcut olan bütün çalınan eşyaların 765 sayılı TCK`nın 522 maddesine esas alınabileceği hususunda gerek uygulamada gerekse teoride herhangi bir duraksama bulunmamaktadır.
+
+Sonuç itibariyle somut olayımızda, iddianamede anlatım zaafının bulunmasına rağmen, bunun savunma hakkını etkilemediği tartışmayı gerektirmeyecek kadar açıktır. Nitekim iddianameyi değerlendiren mahkeme iddianameyi kabul etmiş, sanıklarda suçlamaya anlamadıkları yönünde herhangi bir iddiada bulunmamışlardır. Yeniden iddianame düzenlemesinin yargılamaya hiç bir şey kazandırmayacağı gibi davanın boşu boşuna uzamasına neden olacaktır. Yukarıda ayrıntılı bir şekilde açıklandığı üzere iddianamenin iadesinin en önemli nedenlerini 1-)Kişilerin Lekelenmeme Hakkı” 2-) “Eksiksiz Soruşturma” 3-) “Kamu davasının tek ya da zorunlu olduğunda birbirini izleyen oturumlarda ve mümkünse bir günde sonuçlandırılması şeklinde sıralamak mümkündür. Bu aşamadan sonra tekrar başa dönerek iddianamenin iadesi ile aynı sonucu doğuracak bozma nedeninin, iddianamenin iadesi müessesesinin çok büyük bir yenilik olarak düzenleniş amacına hizmet etmeyeceği gibi hükümdeki diğer eksikliklerinde incelenmemiş olması nedeniyle bozma sonrası belirtilen eksiklik giderilerek aynı hükmün kurulması halinde hükmün yeniden bozulma ihtimali durumunda davanın makul sürede bitirilememesi gibi sonuçlara yol açacaktır. Zira iddianamedeki anlatım zaafının savunma hakkını etkilememesine karşın, gerekçeli karar da ; çok genel ifadelerde bulunularak, savunmaların aksini ispatlayan delillerin nelerden ibaret olduğunun denetime olanak sağlayacak şekilde açıklanmadığı açıkça görülmektedir. İddianamedeki eksikliğin savunma hakkını etkilememesine karşın, yetersiz gerekçenin telafisinin mümkün olmadığı, bir başka deyişle denetimden yoksun bir şekilde yetersiz gerekçe ile verilen mahkumiyet kararlarının aşağıda açıklanan gerekçeyle bozulması gerektiği hususunda yargıtay uygulamalarında herhangi bir duraksama bulunmamaktadır.
+
+Türkiye Cumhuriyeti Anayasanın 141 ve 5271 sayılı CMK’nun 34. maddeleri uyarınca bütün mahkeme kararlarının, karşıoy da dahil olmak üzere gerekçeli olarak yazılması zorunludur. Hükmün gerekçeyi ihtiva etmemesi ise 1412 sayılı CMUK`nın 308/7 ve 5271 sayılı CMK’nun 289/1-g bendi uyarınca hukuka kesin aykırılık halini oluşturacaktır. Ayrıca Ceza Muhakemesi Kanununun 230. maddesi uyarınca, hükmün gerekçesinde, suç oluşturduğu kabul edilen eylemin gösterilmesi, bunun nitelendirmesinin yapılması, ceza kanununda öngörülen sıra ve esaslara göre cezanın ve ayrıca cezaya mahkûmiyet yerine veya yanı sıra uygulanacak güvenlik tedbirinin belirlenmesi, cezanın ertelenmesine, hapis cezasının adli para cezasına veya tedbirlerden birine çevrilmesine ya da ek güvenlik tedbirlerinin uygulanmasına veya bu hususa ilişkin istemlerin kabul veya reddine dair dayanakların gösterilmesi zorunludur. Gerekçe, hükmün dayanaklarının akla, hukuka ve dosya içeriğine uygun açıklamasıdır. Bu nedenle, gerekçede hükme esas alınan veya reddedilen bilgi ve belgelerin belirtilmesi ve bunun dayanaklarının gösterilmesi, bu dayanakların da, geçerli, yeterli ve yasal olması gerekmektedir. Yasal, yeterli ve geçerli bir gerekçeye dayanılmadan karar verilmesi, kanun koyucunun amacına uygun düşmeyeceği gibi, uygulamada da keyfiliğe yol açacaktır.
+
+SONUÇ:
+
+Sonuç itibariyle, iddianamedeki anlatım zaafının savunma hakkını zedelememesine karşın, gerekçeli kararda savunmanın aksini ispatlayan kesin kanıtların nelerden ibaret olduğunun açıklanmaması nedeniyle sanıklar hakkındaki mahkumiyet hükmünün ( BOZULMASINA ), karar verilmesi gerekirken, iddianamenin unsurlarındaki eksiklikten dolayı hükmün bozulmasına ilişkin Yargıtay Yüksek 19. Ceza Dairesinin sayın çoğunluğunun görüşüne iştirak edilmemiştir.
+
+YARGITAY 17. CEZA DAİRESİ
+Esas : 2017/2916 Karar : 2017/9480Tarih : 17.07.2017
+
+CMK 226. Madde
+
+Suçun Niteliğinin Değişmesi
+
+Hırsızlık suçundan sanık …‘nın, 5237 sayılı Türk Ceza Kanunu’nun 141/1 ve 62/1. maddeleri uyarınca 10 ay hapis cezası ile cezalandırılmasına dair Zonguldak 1. Asliye Ceza Mahkemesinin 16/06/2016 tarihli ve 2016/317 Esas, 2016/405 sayılı kararı aleyhine Yüksek Adalet Bakanlığı’nca verilen 09/04/2017 tarih ve 94660652-105-67-2020-2017-Kyb sayılı kanun yararına bozma talebine dayanılarak dava dosyası Yargıtay Cumhuriyet Başsavcılığı’nın 18/04/2017 tarih ve 2017/23935 sayılı ihbarnamesiyle dairemize gönderilmekle okundu.
+
+MEZKUR İHBARNAMEDE:
+
+Dosya kapsamına göre,
+
+1-Sanığın, En-Ez İnşaata ait Üzülmez Bağlık şantiyesinde bulunan kabloları çalmak biçiminde gerçekleşen hırsızlık eyleminin, 5237 sayılı Türk Ceza Kanunu’nun 142/1-e maddesinde düzenlenen hırsızlık suçunu oluşturduğu gözetilmeden, suç vasfının nitelendirilmesinde yanılgıya düşülerek, aynı Kanun’un 141. maddesi gereğince uygulama yapılmasında,
+
+2-Sanığın olay tarihinde, şantiyeden aldığı kabloları aracına yüklediği sırada ihbar üzerine gelen kolluk görevlileri tarafından yakalanması karşısında, eyleminin teşebbüs aşamasında kaldığı gözetilmeden, tayin olunan cezadan, 5237 sayılı Kanun’un 35. maddesi gereğince indirim yapılmaması suretiyle fazla ceza tayin edilmesinde,
+
+İsabet görülmediğinden 5271 sayılı CMK’nın 309. maddesi uyarınca anılan kararın bozulması lüzumu kanun yararına bozma talebine dayanılarak ihbar olunmuştur.
+
+DOSYA İNCELENEREK GEREĞİ DÜŞÜNÜLDÜ;
+
+Kanun yararına bozma talebine dayanılarak düzenlenen tebliğnamedeki bozma isteği incelenen dosya kapsamına nazaran yerinde görüldüğünden, Zonguldak 1. Asliye Ceza Mahkemesinden verilip kesinleşen 16/06/2016 gün ve 2016/317 Esas, 2016/405 sayılı Kararın;
+
+a)Sanık …‘nın…. İnşaat’a ait….. Şantiyesinde bulunan kabloları çalmak biçiminde gerçekleşen hırsızlık eyleminin 5237 sayılı TCK’nın 142/1-e maddesinde düzenlenen suçu oluşturduğu, Zonguldak 1. Asliye Ceza Mahkemesinin 16/06/2016 tarih ve 2016/317-405 E-K sayılı hükmünde suç vasfında yanılgıya düşülerek aynı Yasa’nın 141. maddesi uyarınca uygulama yapılması,
+
+b)Sanığın olay tarihinde, şantiyeden aldığı kabloları aracına yüklediği sırada ihbar üzerine gelen kolluk görevlileri tarafından yakalanması karşısında, eyleminin teşebbüs aşamasında kaldığı, iddianamede sanık hakkında TCK’nun 35. maddesinin uygulanmasının istenildiği, sanığa CMK’nın 226/1-2. maddeleri uyarınca ek savunma hakkı tanınmadan sanık hakkında teşebbüs hükümleri uygulanmayarak savunma hakkının kısıtlanması, sanığa fazla ceza tayini,
+
+Usul ve Kanuna aykırı bulunduğundan, hükmün 5271 sayılı Ceza Muhakemesi Kanununun 309. maddesinin 3. fıkrasının (b) bendi uyarınca aleyhe sonuç doğurmamak üzere BOZULMASINA,
+
+Sonraki işlemlerin mahkemesince yerine getirilmesine, dosyanın mahalline gönderilmek üzere Yargıtay Cumhuriyet Başsavcılığına tevdiine, 17/07/2017 tarihinde oybirliğiyle karar verildi.
+
+YARGITAY 19. CEZA DAİRESİ
+Esas : 2016/14836 Karar : 2017/7160Tarih : 21.09.2017
+
+CMK 226. Madde
+
+Suçun Niteliğinin Değişmesi
+
+Yerel Mahkemece verilen hüküm temyiz edilmekle; başvurunun süresi, kararın niteliği ve suç tarihine göre dosya incelendi, gereği görüşülüp düşünüldü:
+
+Temyiz isteğinin reddi nedenleri bulunmadığından işin esasına geçildi.
+
+Suça sürüklenen çocuğun 18 yaşını tamamlamış olması nedeniyle 19.06.2014, 25.09.2014, 17.12.2014 tarihli celselerin açık yapılması gerekirken kapalı yapılması suretiyle CMK`nın 182. maddesine aykırı davranılmış ise de, bu husus telafisi mümkün olmadığından bozma nedeni yapılmamıştır.
+
+Vicdani kanının oluştuğu duruşma sürecini yansıtan tutanaklar, belgeler ve gerekçe içeriğine göre yapılan incelemede;
+
+Suça sürüklenen çocuğun yargılamanın tüm aşamalarında, olay günü ağabeyi olan Bayazıt Temiz ile birlikte ilçe dışına çalışmaya gittikleri ve ihbarcı … ile aralarında husumet olduğuna ilişkin beyanları doğrultusunda, 
+suça sürüklenen çocuğun ağabeyi Bayazıt Temiz hakkındaki yargılama esnasında dinlenilen tanıkların, suça sürüklenen çocuk ve ağabeyinin suç tarihinde ilçe dışında çalışmaya gittiklerini ve ihbarcı ile husumetli olduklarını beyan ettiği dosya içerisinde mevcut suça sürüklenen çocuğun ağabeyine ait dosya içeriğinden anlaşıldığından, atılı suçu işlediği şüpheli kalan suça sürüklenen çocuk hakkında beraat kararı verilmesi gerekirken mahkumiyetine karar verilmesi,
+
+Kabule göre de;
+
+1-Ek savunma alınmadan, suça sürüklenen çocuk hakkında tayin olunan cezanın 6831 sayılı Kanun’un 91/4. maddesi uyarınca artırılmasına karar verilerek CMK`nın 226. maddesine aykırı davranılması,
+
+2-CMK’nın 231. maddesi uyarınca, katılan idarenin uğradığı zararı giderip gidermeyeceği hususu suça sürüklenen çocuktan sorulmadan yetersiz gerekçe ile hükmün açıklanmasının geri bırakılmasına yer olmadığına dair karar verilmesi,
+
+Kanuna aykırı, suça sürüklenen çocuk müdafiinin temyiz nedenleri bu itibarla yerinde görüldüğünden, tebliğnameye uygun olarak HÜKMÜN 5320 sayılı Kanun’un 8/1. maddesi gereğince uygulanması gereken 1412 sayılı CMUK`nın 321. maddesi uyarınca BOZULMASINA, yargılamanın bozma öncesi aşamadan başlayarak sürdürülüp sonuçlandırılmak üzere dosyanın mahkemesine gönderilmesine, 21.09.2017 tarihinde oybirliğiyle karar verildi.
+
+YARGITAY 19. CEZA DAİRESİ
+Esas : 2016/15495 Karar : 2017/7080Tarih : 20.09.2017
+
+CMK 226. Madde
+
+Suçun Niteliğinin Değişmesi
+
+Yerel Mahkemece verilen hükümler temyiz edilmekle; başvurunun süresi, kararın niteliği ve suç tarihine göre dosya incelendi, gereği görüşülüp düşünüldü:
+
+Temyiz isteğinin reddi nedenleri bulunmadığından işin esasına geçildi.
+
+Sanıklar … ve … hakkında 22/04/2015 tarihli ek karar ile kurulan hükmün sevk maddesinin 298 sayılı Kanun`un 170/1. maddesi olduğu ve hükmün gerekçesinde de bu suçun unsurlarının açıkça tartışılmış olması karşısında, hüküm fıkrasındaki suç adının genel güvenliği kasten tehlikeye sokulması olarak yazılmış olmasının mahallinde düzeltilebilir nitelikte maddi hata olduğu kanaatiyle bozma sebebi yapılmamıştır.
+
+Vicdani kanının oluştuğu duruşma sürecini yansıtan tutanaklar, belgeler ve gerekçe içeriğine göre yapılan incelemede;
+
+I- Sanıklar … ve … hakkında kurulan hükümlere ilişkin temyiz isteminin incelenmesinde,
+
+Eylemlere ve yükletilen suçlara yönelik O Yer Cumhuriyet Savcısının temyiz nedenleri yerinde görülmediğinden tebliğnameye uygun olarak, TEMYİZ DAVASININ ESASTAN REDDİYLE HÜKÜMLERİN ONANMASINA,
+
+II- Sanık … hakkında kurulan hükmün temyiz isteminin incelenmesine gelince,
+
+Başkaca nedenler yerinde görülmemiştir.
+
+Ancak;
+
+10/08/2014 tarihinde Cumhurbaşkanlığı seçiminde oy verme günü, … isimli iş yerinde bulunan masada sanıklar … ile …‘nın içki içmelerinden ibaret olayda; 
+298 sayılı Kanun’un 89. maddesinde “Oy verme günü, saat sekizden on yediye kadar geçecek zaman, oy verme süresidir.” denilmek suretiyle belirlenmiştir. 
+Sanığın suç tarihinde içki içtiğine dair tespit ise, dosya arasında bulunan tutanak içeriğinden anlaşılacağı üzere, aynı Kanun`un 89. maddesine göre seçim günü oy verme süresi sona erdikten sonra saat 20:05 itibariyle yapılmıştır. 
+Seçim günü oy verme süresi sona erdikten sonra içki içen sanığın üzerine atılı suçun unsurları oluşmadığından beraatine karar verilmesi gerekirken yazılı şekilde mahkumiyetine karar verilmesi,
+
+Kabule göre de;
+
+1- Sanık hakkında 298 sayılı Kanun’un 79. maddesi delaletiyle 170/1. maddesi uyarınca kamu davası açıldığı gözetilmeyerek ve sanığa ek savunma hakkı da verilmeden, iddianamede gösterilmeyen TCK’nın 170/1. maddesinin uygulanması suretiyle CMK`nın 226/2. maddesine aykırı davranılması,
+
+2-14/04/2015 tarihli kararda sanık hakkında hüküm kurulmuş olduğu gözetilmeyerek 22/04/2015 tarihli ek kararda sanık hakkında mükerrer karar verilmesi,
+
+3- Sanık hakkında neticeten 3000 TL adli para cezasına hükmedildiği halde, 2.240 TL’nin taksitlendirilmesine karar verilmek suretiyle hükümde çelişkiye neden olunması,
+
+Bozmayı gerektirmiş, sanığın ve O Yer Cumhuriyet Savcısının temyiz nedenleri bu itibarla yerinde görüldüğünden tebliğnameye uygun olarak, HÜKMÜN 5320 sayılı Kanun’un 8/1. maddesi gereğince uygulanması gereken 1412 sayılı CMUK`nın 321. maddesi uyarınca, BOZULMASINA, yargılamanın bozma öncesi aşamadan başlayarak sürdürülüp sonuçlandırılmak üzere dosyanın mahkemesine gönderilmesine, 20/09/2017 tarihinde oybirliği ile karar verildi.
+
+YARGITAY 7. CEZA DAİRESİ 
+Esas : 2014/30828 Karar : 2017/6042Tarih : 13.07.2017
+
+CMK 226. Madde
+
+Suçun Niteliğinin Değişmesi
+
+Yerel mahkemece verilen hüküm temyiz edilmekle; başvurunun nitelik, ceza türü, süresi ve suç tarihine göre dosya okunduktan sonra Türk Milleti adına gereği görüşülüp düşünüldü;
+
+Ele geçen eşya ve suç tarihi nazara alındığında eylemin 5607 sayılı Yasanın 3/5. maddesi kapsamında kaldığı gözetilmeden yazılı şekilde hüküm kurulması,
+
+Kabule göre de;
+
+1-Sanık hakkında 5607 sayılı Yasanın 3/5. maddesi gereğince cezalandırılması istemi ile kamu davası açıldığı, mahkemece tüm içkilerin görünüş olarak sahte olduklarının tespiti mümkün olduğundan sanıkların suç tarihi de dikkate alındığında (4733 sayılı Yasanın 8/4. maddesi yürürlükte olmadığından) eylemlerinin 4733 sayılı Yasanın 8/1. maddesi kapsamında kaldığı zira sahte olduğu anlaşılan bir kısım içkilere ilişkin faturaların ibraz edilemediği, bu şekilde sanıkların sahte içki üreterek satışa sunduklarından bahisle 4733 sayılı Yasanın 8/1. maddesi gereğince cezalandırılmasına karar verilmiş ise de; dosya kapsamı itibariyle 4733 sayılı Yasanın 8/1. maddesi doğrultusunda alkollü içki üretmek üzere fabrika, tesis veya imalathane kurulduğuna dair herhangi bir delil bulunmadığı halde ve sanık hakkında iddianamede 5607 sayılı Yasa 3/5. maddesi gereğince cezalandırılması istendiği halde ek savunma hakkı verilmeden 4733 sayılı Yasanın 8/1. maddesine muhalefetten dolayı hüküm kurulması suretiyle CMK.nun 226/1. maddesine aykırı davranılması,
+
+2- Dava konusu kaçak eşyanın 5607 sayılı Yasanın 13. maddesi yollamasıyla 5237 sayılı TCK.nun 54/4. maddesi uyarınca müsaderesine karar verilmesi gerekirken TCK.nun 54. maddesi gereğince müsaderesine karar verilmesi,
+
+3- Suçtan doğrudan zarar görmeyen ve katılma hakkı bulunmayan … lehine vekalet ücretine hükmolunması,
+
+Yasaya aykırı, sanık müdafiinin temyiz itirazları bu nedenlerle yerinde görüldüğünden hükmün 5320 sayılı Yasanın 8/1. maddesi gereğince yürürlükte bulunan 1412 sayılı CMUK.nun 321. maddesi uyarınca BOZULMASINA, 13.07.2017 tarihinde oybirliğiyle karar verildi.
+
+YARGITAY 7. CEZA DAİRESİ 
+Esas : 2017/11170 Karar : 2017/5957Tarih : 12.07.2017
+
+CMK 226. Madde
+
+Suçun Niteliğinin Değişmesi
+
+4733 sayılı … … … Teşkilat ve Görevleri Hakkında Kanun’…Muhalefet suçundan sanık …‘in anılan Kanunun 8/4. ve 5237 sayılı Türk Ceza Kanunu’nun 52/2. maddeleri uyarınca 3 yıl hapis ve 10.000,00 Türk lirası adli para cezası, anılan suça iştirakten sanık …‘ın da aynı maddeler uyarınca 2 yıl 6 … hapis ve 5.000,00 Türk lirası adli para cezası ile cezalandırılmalarına dair … 1. Asliye Ceza Mahkemesi’nin 05/12/2012 tarihli ve 2011/1127 esas, 2012/1380 sayılı kararı aleyhine Yüksek Adalet Bakanlığından verilen 18/04/2017 günlü kanun yararına bozma istemini içeren dava dosyası Yargıtay Cumhuriyet Başsavcılığının 04/05/2017 gün ve KYB. 2017/27335 sayılı ihbarnamesi ile daireye verilmekle okundu.
+
+Mezkür ihbarnamede;
+
+Dosya kapsamına göre,
+
+1-Benzer bir olay sebebiyle Yargıtay 7. Ceza Dairesinin 03/06/2015 tarihli ve 2013/23276 esas, 2015/16119 sayılı ilamıda “… sanığa atılı suçu düzenleyen 4733 sayılı Yasanın 8/4. maddesi hükümden önce 25/02/2011 tarihinde yürürlüğe giren 6111 sayılı Yasanın 175. maddesi ile değiştirilerek 8/4. fıkrasının birinci cümlesindeki “veya niteliğine uygun olmayan” ibaresi metinden çıkarılarak, aynı fıkraya “satışa arz eden veya satanlar” ibaresinden sonra gelmek üzere “ile ambalajları üzerinde bulunan ürün bilgileri ile bandrol, etiket, hologram, pul, damga veya benzeri işaretlerin içerdiği bilgilerin farklı olması halinde bu ürünleri üreten veya ithal edenlere” ibaresinin eklenmesi nedeniyle sözü edilen eylemlerde cezai sorumluluğun davaya konu içkileri üretenler veya ithal edenler olacağı ve sanığın da anılan kişilerden olmadığı gözetilmeden beraati yerine yazılı şekilde mahkumiyetine karar verilmesi…” şeklinde belirtildiği üzere, sanıkların üzerine atılı eylemlerin suç tarihinin 02/10/2011 tarihli olması, karar tarihinde yürürlükte bulunan 4733 sayılı Kanunun 8/4. maddesinin ise suç ve hüküm tarihinden önce 25/02/2011 tarihinde yürürlüğe giren 6111 sayılı Kanunun 175. maddesi ile değiştirilerek cezai sorumluluğun suça konu içkileri üretenler veya ithal edenlere ait olduğunun düzenlenmesi ve sanıkların anılan kişilerden olmadığının anlaşılması karşısında, sanıkların üzerlerine atılı unsurları oluşmayan suçlardan beraatlerine karar verilmesi yerine yazılı şekilde mahkumiyetlerine karar verilmesinde,
+
+2-Kabul ve uygulamaya göre de, … Cumhuriyet Başsavcılığının 12/12/2011 tarihli ve 2011/81108 soruşturma, 2011/45166 esas, 2011/13447 sayılı iddianamesiyle sanıkların 5607 sayılı Kaçakçılıkla Mücadele Kanununun 3/5. ve 4733 sayılı Kanunun 8/2. maddeleri gereğince cezalandırılmalarının talep edilmesine karşın, 5271 sayılı
+
+Ceza Muhakemesi Kanununun 226. maddesi uyarınca ek savunma hakkı verilmeksizin 4733 sayılı Kanunun 8/4. maddesi uyarınca cezalandırılmalarına karar verilmesinde, isabet görülmemiş ve 5271 sayılı Ceza Muhakemesi Kanununun 309. maddesi uyarınca anılan kararın bozulması lüzumu kanun yararına bozmaya atfen ihbar olunmuş bulunmakla Türk Milleti adına gereği görüşülüp düşünüldü;
+
+Yargıtay Cumhuriyet Başsavcılığı’nın kanun yararına bozma talebine ilişkin ihbarname içeriği yerinde görülmediğinden talebin REDDİNE, 12.07.2017 tarihinde oybirliğiyle karar verildi.
+
+YARGITAY 19. CEZA DAİRESİ
+Esas : 2016/13046 Karar : 2017/5714Tarih : 14.06.2017
+
+CMK 226. Madde
+
+Suçun Niteliğinin Değişmesi
+
+Yoklama kaçağı olup 4 aydan sonra 1 yıl içinde yakalanmak suçundan sanık …‘ın, 1632 sayılı Askeri Ceza Kanunu’nun 6371-A, 5237 sayılı Türk Ceza Kanunu’nun 86/3-e ve 62. maddeleri gereğince 5 ay hapis cezası ile cezalandırılmasına dair Salihli 3. Asliye Ceza Mahkemesi’nin 25/02/2016 tarihli ve 2015/256 esas, 2016/107 sayılı kararı aleyhine Adalet Bakanlığı’nın 23/08/2016 gün ve 94660652-105-45-7109-2016-Kyb sayılı kanun yararına bozma istemini içeren yazısı ekindeki dava dosyası Yargıtay Cumhuriyet Başsavcılığı’nın 27/09/2016 gün ve KYB.2016-350942 sayılı ihbarnamesi ile dairemize gönderilmekle okundu.
+
+Anılan ihbarnamede;
+
+1-Sanık hakkında yoklama kaçağı olup 3 aydan sonra gelmek suçundan 1632 sayılı Kanun’un 63/1-A.1.5 (yks) maddesi uyarınca cezalandırılması istemiyle Salihli Cumhuriyet Başsavcılığının 13/07/2015 tarihli ve 2015/1462 soruşturma, 2015/1370 esas, 2015/1278 sayılı iddianamesi ile kamu davası açıldığı, suç tarihi 16/06/2014 olup sanığın cezalandırılmasının talep edildiği 1632 sayılı Kanun’un 63/1. maddesinin suç tarihinden önce 14/04/2011 tarihli ve 27905 sayılı Resmi Gazete’de yayımlanarak yürürlüğe giren 6217 sayılı Yargı Hizmetlerinin Hızlandırılması Amacıyla Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun’un 4. maddesi ile değiştirilerek, yoklama kaçağı olup dört aydan sonra bir yıl içinde gelenlerin iki aydan bir yıla kadar hapis cezası ile cezalandırılacağının hüküm altına alındığı, dolayısıyla suç tarihinde yürürlükte bulunan 6217 sayılı Kanun’un 4. maddesi ile değişik 1632 sayılı Kanun’un 63/1-a-son maddesinin sanık lehine olduğu ve 5271 sayılı Ceza Muhakemesi Kanunu’nun 226/1. maddesi gereğince ek savunması alınarak cezalandırılması cihetine gidilmesi gerekirken yazılı şekilde sanık aleyhine sonuç doğuracak şekilde karar verilmesinde,
+
+2-Sanık hakkında birinci bentte anlatılan ve aleyhine sonuç doğuran surette temel cezanın belirlenmesini takiben, dosya kapsamı ile uyumlu ve atılı suç ile bağlantısı olmayan 5237 sayılı Kanun’un 86/3-e maddesi gereğince cezasının yarı oranında arttırılmasına karar verilerek fazla ceza tayininde,
+
+3-5237 sayılı Türk Ceza Kanunu’nun 53/2. maddesinde yer alan “Kişi, işlemiş bulunduğu suç dolayısıyla mahkum olduğu hapis cezasının infazı tamamlanıncaya kadar bu hakları kullanamaz.” ve 3. fıkrasındaki “Mahkum olduğu hapis cezası ertelenen veya koşullu salıverilen hükümlünün kendi altsoyu üzerindeki velayet, vesayet ve kayyımlık yetkileri açısından yukarıdaki fıkralar hükümleri uygulanmaz.” şeklindeki düzenlemeler karşısında, anılan maddenin 1-c bendinde yer alan hak yoksunluğunun sadece kendi alt soyu üzerindeki velayet, vesayet ve kayyımlık yetkileri açısından koşullu salıvermeden sonra uygulanamayacağı, kendi alt soyu dışındaki kişiler bakımından vesayet ve kayyımlıkla ilgili hak yoksunluğu ile anılan maddenin 1. fıkrası a, b, d ve e bentlerinde yazılı hak yoksunluklarının ise cezanın infazının tamamlanmasına kadar devam edeceği gözetilmeden, yazılı şekilde karar verilmesinde, isabet görülmediği gerekçesiyle 5271 sayılı Ceza Muhakemesi Kanunu’nun 309. maddesi uyarınca anılan kararın kanun yararına bozulması isteminde bulunulmakla gereği görüşülüp düşünüldü;
+
+Sanık …‘ın yoklama işlemlerini yaptırması gerektiği son tarih olan 31/10/2009 tarihinden yakalandığı 23/05/2014 tarihine kadar yoklama kaçağı olması sebebiyle Salihli Kaymakamlığı tarafından sanık hakkında verilen 16/06/2014 tarihli 5900-5903 esas, 64 sayılı idari yaptırım kararının 04/07/2014 tarihinde tebliğ edildiği, kararın itiraz edilmeden kesinleştiği, 23/05/2014 tarihinde yakalanan sanığın kendisine verilen süre içerisinde yoklama işlemlerini yaptırmayarak 9 ay 6 gün süre ile yoklama kaçağı kaldıktan sonra 02/03/2015 tarihinde askerlik işlemlerini yaptırmak için kendiliğinden Salihli Askerlik Şubesi Başkanlığı’na başvurduğu anlaşılmıştır. Sanığın 02/03/2015 suç tarihli eyleminin 14/04/2011 tarihli ve 27905 sayılı Resmi Gazete’de yayımlanarak yürürlüğe giren 6217 sayılı Yargı Hizmetlerinin Hızlandırılması Amacıyla Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun’un 4. maddesi ile değiştirilen şekliyle 1632 sayılı Askeri Ceza Kanunu’nun 63/1-a-son maddesinde tanımlanan ve 2 aydan 1 yıla kadar hapis cezası öngören (dört aydan sonra bir yıl içinde gelen) yoklama kaçağı suçunu oluşturduğu anlaşılarak yapılan incelemede;
+
+5237 sayılı Kanun’un 58/4. maddesinde yer alan, “Kasıtlı suçlarla taksirli suçlar ve sırf askeri suçlarla diğer suçlar arasında tekerrür hükümleri uygulanmaz.” şeklindeki düzenleme ile Yargıtay Ceza Genel Kurulunun 13/03/2012 tarih 2011/7-309 Esas 2012/94 sayılı kararı nazara alındığında, Mahkemesince tekerrüre esas alınan ilama konu suçların gece vakti açıktan hırsızlık olması karşısında, cezanın mükerrirlere özgü infaz rejimine göre çektirilmesine karar verilemeyeceği anlaşıldığından, bu konuda kanun yararına bozma yoluna gidilip gidilmeyeceği hususunda gereğinin takdir ve ifası için dosyanın Adalet Bakanlığına gönderilmek üzere Yargıtay Cumhuriyet Başsavcılığına TEVDİİNE, 14/06/2017 tarihinde oybirliğiyle karar verildi.
+
+YARGITAY 2. CEZA DAİRESİ
+Esas : 2014/37402 Karar : 2017/6916Tarih : 14.06.2017
+
+CMK 226. Madde
+
+Suçun Niteliğinin Değişmesi
+
+Dosya incelenerek gereği düşünüldü:
+
+5237 Sayılı TCK’nın 53. maddesinin bazı bölümlerinin iptaline dair Anayasa Mahkemesi`nin 24/11/2015 tarihinde yürürlüğe giren 08/10/2015 gün ve 2014/140 esas, 2015/85 Sayılı kararı da nazara alınarak bu maddede öngörülen hak yoksunluklarının uygulanmasının infaz aşamasında gözetilmesi mümkün görülmüş; dosya içeriğine göre diğer temyiz itirazları yerinde görülmemiştir.
+
+Ancak;
+
+1-) Katılanın kovuşturmadaki anlatımından, olay günü önce… isimli kişinin banka hesabından 1.000,00-TL paranın katılanın yetkilisi olduğu Makina firmasının hesabına aktarıldığı, aynı gün katılanın anılan firmasının hesabından da 4.600,00-TL paranın sanığın banka hesabına aktarıldığının ve dava dışı şahsın hesabından 1.000,00-TL paranın aktarılması eylemine dair olarak da dava açıldığının anlaşılması karşısında; ilgili dosyanın araştırılarak, mümkünse dosyaların birleştirilmesi, olmadığı taktirde dava dosyasının bu davayı ilgilendiren delillerinin onaylı örneklerinin dosya içine konularak tüm deliller birlikte değerlendirilerek sonucuna göre sanığın hukuki durumunun takdir ve tayini gerektiği gözetilmeden yazılı biçimde hüküm kurulması,
+
+2-) Katılanın firmasına ait banka hesabından sanığın banka hesabına para havale edildikten sonraki sanığın banka hesabına ait hesap hareketlerinin getirtilerek ve ilgili bankadan sorularak, paranın kim tarafından, nasıl ve nerede çekildiği veya harcandığının araştırılması, banka şubesinden veya bankamatiklerden çekilmiş olması halinde kamera kayıtlarının getirtilmesi, kamera kayıtları temin edilmesi halinde de parayı çeken kişinin sanık olup olmadığı veya sanıkla irtibatlı olup olmadığının araştırılması, havale işleminin yapıldığı IP numarasının olay tarihinde bağlı olduğu bilgisayar ile IP numarasının kayıtlı olduğu kişilerin kimlik bilgilerinin ve sanık ile irtibatlarının araştırılması ve sanığın suçu işlemediğine dair savunmasının doğru olup olmadığının tespiti bakımından tüm deliller toplandıktan sonra, konusunda uzman bilirkişiden rapor alınması veya bilişim konusunda teknik yeterliliği ve uzmanlığı olan ilgili kolluk birimlerine gerekli inceleme ve araştırma yaptırılması ile yapılacak inceleme sonucuna göre deliller bir bütün halinde değerlendirilerek sanığın hukuki durumunun takdir ve tayini gerekirken, yetersiz bilirkişi raporu ile eksik inceleme ve kovuşturma sonucu yazılı şekilde hüküm kurulması,
+
+3-) Katılanın firmasına ait banka hesabından sanığın banka hesabına internet yoluyla ve katılanın şifrelerinin elde edilerek para aktarılması eyleminin 5237 Sayılı TCK`nın 142/2-e maddesinde tanımlanan suçu oluşturduğu gözetilmeden hatalı hukuki nitelendirme ile aynı Kanunun 244/4. maddesiyle uygulama yapılması,
+
+4-) Kabule göre de;
+
+a-) İddianamede sanık hakkında 5237 Sayılı TCK’nın 158/1-f maddesinde düzenlenen nitelikli dolandırıcılık suçundan kamu davası açıldığı halde, sanığa ek savunma hakkı verilmeden 5237 Sayılı TCK’nın 244/4. maddesinde yer alan bilişim sistemini engelleme, bozma, verileri yok etme veya değiştirme suretiyle menfaat temin etme suçundan cezalandırılmasına karar verilerek 5271 Sayılı CMK`nın 226/1. maddesine aykırı davranılması,
+
+b-) Sanık hakkında 5237 Sayılı TCK`nın 244/4 maddesi uyarınca mahkumiyet hükmü kurulduğu ve anılan maddede hapis cezası ve adli para cezası birlikte düzenlendiği halde, sadece hapis cezasına hükmedilip adli para cezasına hükmedilmemesi,
+
+SONUÇ : Bozmayı gerektirmiş, sanık müdafiinin temyiz itirazları bu itibarla yerinde görülmüş olduğundan hükmün bu sebeplerden dolayı istem gibi BOZULMASINA, bozma sonrası kurulacak hükümde 1412 Sayılı CMUK`nın 326/son maddesinin gözetilmesine, 14.06.2017 tarihinde oy birliğiyle karar verildi.
+
+YARGITAY 18. CEZA DAİRESİ 
+Esas : 2017/1687 Karar : 2017/6867Tarih : 31.05.2017
+
+CMK 226. Madde
+
+Suçun Niteliğinin Değişmesi
+
+Yerel Mahkemece verilen hükümler temyiz edilmekle, başvurunun süresi ve kararın niteliği ile suç tarihine göre dosya görüşüldü:
+
+Temyiz isteğinin reddi nedenleri bulunmadığından işin esasına geçildi.
+
+Vicdani kanının oluştuğu duruşma sürecini yansıtan tutanaklar belgeler ve gerekçe içeriğine göre yapılan incelemede;
+
+1-Sanık …‘a yükletilen görevi yaptırmamak için direnme eylemiyle ulaşılan çözümü haklı kılıcı zorunlu öğelerinin ve bu eylemin sanık tarafından işlendiğinin Kanuna uygun olarak yürütülen duruşma sonucu saptandığı, bütün kanıtlarla aşamalarda ileri sürülen iddia ve savunmaların temyiz denetimini sağlayacak biçimde ve eksiksiz sergilendiği, özleri değiştirilmeksizin tartışıldığı, vicdani kanının kesin, tutarlı ve çelişmeyen verilere dayandırıldığı,
+
+Eylemin doğru olarak nitelendirildiği ve Kanunda öngörülen suç tipine uyduğu,
+
+TCK’nın 53/1-b maddesinin Anayasa Mahkemesinin 08/10/2015 tarih ve 2014/140 esas, 2015/85 sayılı kararıyla iptal edilmesinin infaz evresinde resen gözetilebileceği
+
+Anlaşıldığından, sanık … müdafiinin ileri sürdüğü nedenler yerinde görülmemiş olmakla, tebliğnameye uygun olarak, TEMYİZ DAVASININ ESASTAN REDDİYLE HÜKMÜN ONANMASINA,
+
+2- … hakkında kurulan hükmün temyizine gelince; başkaca nedenler yerinde görülmemiştir.
+
+Ancak;
+
+a- Sanığın Yargıtay bozma ilamına karşı diyecekleri sorulmadan eksik kovuşturma ile hüküm kurulması,
+
+b- Sanık hakkında düzenlenen iddianamede TCK’nın 43/2 ve 265/3. maddelerinin uygulanması talep edilmediği halde ek savunma hakkı tanınmadan TCK’nın 43/2 ve 265/3. maddeleri gereğince hüküm kurularak, CMK’nın 226. maddesine aykırı davranılması,
+
+c- TCK’nın 53/1-b maddesinin Anayasa Mahkemesi’nin, 08.10.2015 tarih ve 2014/140 esas, 2015/85 karar sayılı kararıyla, iptal edilmiş olması nedeniyle, uygulanma olanağının ortadan kalkmış olması,
+
+Bozmayı gerektirmiş ve sanık …‘ın temyiz nedenleri yerinde görüldüğünden, tebliğnameye uygun olarak HÜKMÜN BOZULMASINA, yargılamanın bozma öncesi aşamadan başlayarak sürdürülüp sonuçlandırılmak üzere dosyanın esas/hüküm mahkemesine gönderilmesine, 31.05.2017 tarihinde oy birliğiyle karar verildi.
+
+YARGITAY CEZA GENEL KURULU 
+Esas : 2016/571 Karar : 2018/107Tarih : 20.03.2018
+
+CMK 226. Madde
+
+Suçun Niteliğinin Değişmesi
+
+Özel Daire ile Yargıtay Cumhuriyet Başsavcılığı arasında oluşan ve Ceza Genel Kurulunca çözümlenmesi gereken uyuşmazlık; sanığa ek savunma hakkı verilmeden iddianamede talep edilmeyen TCK’nun 142/1-b maddesinin uygulanmasının, CMK’nun 226. maddesine aykırılık oluşturup oluşturmayacağının belirlenmesine ilişkindir.
+
+İncelenen dosya içeriğinden;
+
+Malatya Cumhuriyet Başsavcılığının 27.06.2011 gün ve 3936-1233 sayılı iddianamesinde; “…müştekinin olay günü Malatya Merkez, Tandoğan Mahallesi, Tekel Depoları karşısındaki Üçbağlar Düğün Salonuna gittiği, gelin odasına el çantasını bıraktığı, daha sonra çalışmak için çıktığı, belli bir süre sonra çantasını kontrol etmeye geldiğinde çantasının yerinde olmadığı, müştekinin polis merkezine el çantasının çalındığını bildirmek üzere gittiği, bu sırada başka bir hırsızlık olayından polis merkezine gelen şüphelinin üst aramasında müştekiye ait bir adet cep telefonu ve 4 GB Kingston marka flash belleğin çıktığı, müştekinin cep telefonu ve flash belleğin kendisinin olduğunu teşhis ettiği ve teslim aldığı, böylece şüphelinin üzerine atılı hırsızlık suçunu işlediği…” şeklinde eylem anlatılarak, sanığın hırsızlık suçundan 5237 sayılı TCK’nun 141/1, 53, 58 ve 63. maddeleri uyarınca cezalandırılmasının talep edildiği,
+
+Yargılama aşamasında, 5237 sayılı TCK’nun 142/1-b maddesinin uygulanması bakımından sanığa 5271 sayılı CMK’nun 226. maddesi uyarınca ek savunma hakkı verilmediği,
+
+Anlaşılmaktadır.
+
+5271 sayılı CMK’nun “Hükmün konusu ve suçu değerlendirmede mahkemenin yetkisi” başlıklı 225. maddesinde;
+
+“(1) Hüküm, ancak iddianamede unsurları gösterilen suça ilişkin fiil ve faili hakkında verilir.
+
+(2) Mahkeme, fiilin nitelendirilmesinde iddia ve savunmalarla bağlı değildir”,
+
+Aynı Kanunun “Suçun niteliğinin değişmesi” başlıklı 226. maddesinde ise;
+
+1)Sanık, suçun hukukî niteliğinin değişmesinden önce haber verilip de savunmasını yapabilecek bir hâlde bulundurulmadıkça, iddianamede kanunî unsurları gösterilen suçun değindiği kanun hükmünden başkasıyla mahkûm edilemez.
+
+2)Cezanın artırılmasını veya cezaya ek olarak güvenlik tedbirlerinin uygulanmasını gerektirecek hâller, ilk defa duruşma sırasında ortaya çıktığında aynı hüküm uygulanır.
+
+3)Ek savunma verilmesini gerektiren hâllerde istem üzerine sanığa ek savunmasını hazırlaması için süre verilir.
+
+4)Yukarıdaki fıkralarda yazılı bildirimler, varsa müdafie yapılır. Müdafii sanığa tanınan haklardan onun gibi yararlanır” düzenlemelerine yer verilmiştir.
+
+Savunma hakkı, 1982 Anayasasının 36. maddesinde “Temel Haklar ve Ödevler” başlıklı ikinci kısmın ikinci bölümünde “Kişinin Hakları ve Ödevleri” başlığı altında; “Herkes, meşru vasıta ve yollardan faydalanmak suretiyle yargı mercileri önünde davacı veya davalı olarak iddia ve savunma ile adil yargılanma hakkına sahiptir” şeklinde düzenlenmiş olup, bu hakkın “temel hak” niteliğine uygun olarak, sanığa savunma hakkının verilmemesi veya savunma hakkının sınırlandırılması hâlinde hüküm daima hukuka aykırı olacaktır.
+
+Buna göre, sanığın ceza muhakemesindeki en önemli haklarından birisi de; yargılamanın her aşamasında göz önünde bulundurulması gereken savunma hakkıdır. Anayasa ve uluslararası sözleşmelerle güvence altına alınmış olan bu hakkın, herhangi bir nedenle sınırlandırılması mümkün değildir. Nitekim 1412 sayılı CMUK’nun 5320 sayılı Kanunun 8/1. maddesi uyarınca karar tarihi itibarıyla uygulanması gereken 308/8. maddesine göre de savunma hakkının sınırlandırılması mutlak bozma nedenlerindendir.
+
+Öte yandan, savunma hakkının sınırlandığından söz edebilmek için, savunmanın hükmü etkileyecek nitelik taşıması ve yargılaması yapılan fiile ilişkin olması gerekir. 5271 sayılı CMK’nun 226. maddesi, yargılaması yapılan ve iddianamede kanuni unsurları gösterilen suçun temas ettiği kanun maddelerinden başkasıyla mahkûmiyet durumunda veya cezanın artırılmasını veya cezaya ek olarak güvenlik tedbiri uygulanmasını gerektiren nedenlerin ilk defa duruşma sırasında ortaya çıkması hâllerinde savunma hakkının sınırlanamayacağı ilkesi uyarınca, sanığın ek savunmasını yapabilmesi için bir takım usullere uyulması yükümlülüğünü getiren özel bir düzenlemedir. Belirtilen bu hâller ortaya çıktığında mahkemelerin, bu konuda kanunun öngördüğü biçimde savunmasını yapamayan kişiler hakkında mahkûmiyet hükmü kurmaları mümkün değildir.
+
+5237 sayılı TCK’nun 141/1. maddesinde yer alan “Zilyedinin rızası olmadan başkasına ait taşınır bir malı, kendisine veya başkasına bir yarar sağlamak maksadıyla bulunduğu yerden alan kimseye bir yıldan üç yıla kadar hapis cezası verilir.” şeklindeki düzenleme ile hırsızlık suçunun temel şekli tanımlanmış; aynı Kanunun 142. maddesinde ise suçun daha ağır cezayı gerektiren nitelikli hâlleri sayılmıştır.
+
+5237 sayılı TCK’nun “Nitelikli hırsızlık” başlıklı 142. maddesinin 1. fıkrasının uyuşmazlık konusuyla ilgili hükmü suç ve karar tarihi itibarıyla;
+
+“(1) Hırsızlık suçunun;
+
+…
+
+b) Herkesin girebileceği bir yerde bırakılmakla birlikte kilitlenmek suretiyle ya da bina veya eklentileri içinde muhafaza altına alınmış olan eşya hakkında,
+
+…
+
+İşlenmesi hâlinde, iki yıldan beş yıla kadar hapis cezasına hükmolunur…” şeklinde iken, 28.06.2014 tarihinde yürürlüğe giren 6545 sayılı Türk Ceza Kanunu ile Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanunun 62. maddesiyle 5237 sayılı TCK’nun 142. maddesinin 1. fıkrasının (b) bendi yürürlükten kaldırılmış, ilga edilen bendin metni korunmak suretiyle aynı maddenin 2. fıkrasına (h) bendi olarak eklenmiş ve ikinci fıkradaki “üç yıldan yedi yıla kadar hapis” şeklindeki yaptırım ise “beş yıldan on yıla kadar hapis” olarak değiştirilmiştir.
+
+Görüldüğü gibi, 5237 sayılı TCK’nun 141/1. maddesinde hırsızlık suçunun temel şekli düzenlenmiş olup, anılan maddede bir yıldan üç yıla kadar hapis cezası öngörülmüştür. Hırsızlık suçunun, herkesin girebileceği bir yerde bırakılmakla birlikte kilitlenmek suretiyle ya da bina veya eklentileri içinde muhafaza altına alınmış olan eşya hakkında işlenmesi hâlinde ise fail, aynı Kanunun suç tarihi itibarıyla yürürlükte bulunan 142/1-b maddesi uyarınca iki yıldan beş yıla kadar hapis cezası ile cezalandırılacaktır.
+
+Bu açıklamalar ışığında somut olay değerlendirildiğinde;
+
+Malatya Cumhuriyet Başsavcılığınca düzenlenen iddianamede, mağdurun çantasının düğün salonu içerisinden çalındığı belirtilmek suretiyle sanığın TCK’nun 141/1. maddesi uyarınca cezalandırılması talep edilmiş, atılı suç ve sevk maddeleri uyarınca savunma yapan sanık hakkında yargılama sonucunda TCK’nun 142/1-b maddesine göre ceza tayin edilmiştir.
+
+Sanık hakkında düzenlenen iddianamede sevk maddesinin 5237 sayılı TCK’nun 141/1. maddesi olarak gösterilmesi karşısında, sanık hakkında uygulanması talep edilmeyen TCK’nun 142/1-b maddesinin sanık aleyhine olacak şekilde uygulanması hâli söz konusu olup, sanığa CMK’nun 226. maddesi uyarınca ek savunma hakkı verilmesi gerekmektedir. Aksi uygulama savunma hakkının sınırlanması niteliğindedir.
+
+Öte yandan, Özel Dairenin onama kararında belirtildiği üzere, etkin pişmanlık nedeniyle sanığın cezasından indirim yapılırken uygulama maddesinin, TCK’nun 168. maddesinin birinci fıkrası yerine aynı maddenin ikinci fıkrası olarak gösterilmesi de usul ve kanuna aykırı olup ayrıca, hükümden sonra 24.11.2015 gün ve 29542 sayılı Resmi Gazetede yayımlanarak yürürlüğe giren Anayasa Mahkemesinin 08.10.2015 gün ve 140-85 sayılı kararı ile, TCK’nun 53. maddesinin bazı hükümlerinin iptal edilmesi karşısında, sanık hakkında belirtilen maddenin uygulanması bakımından, mahkemece yeniden değerlendirme yapılmasında da zorunluluk bulunmaktadır.
+
+Sonuç olarak; Yargıtay Cumhuriyet Başsavcılığı itirazının kabulüne, Özel Daire onama kararının kaldırılmasına, yerel mahkeme hükmünün, sanığa ek savunma hakkı verilmeden, iddianamede talep edilmeyen TCK’nun 142/1-b maddesinin uygulanması suretiyle CMK’nun 226. maddesine aykırı davranılması, etkin pişmanlık nedeniyle sanığın cezasından indirim yapılırken uygulama maddesinin, TCK’nun 168. maddesinin birinci fıkrası yerine aynı maddenin ikinci fıkrası olarak gösterilmesi ve 24.11.2015 gün ve 29542 sayılı Resmi Gazetede yayımlanarak yürürlüğe giren Anayasa Mahkemesinin 08.10.2015 gün ve 140-85 sayılı kararı ile, 5237 sayılı TCK’nun 53. maddesinin bazı hükümlerinin iptal edilmesi karşısında, sanık hakkında belirtilen maddenin uygulanması bakımından yeniden değerlendirme yapılmasında zorunluluk bulunması nedenlerinden bozulmasına karar verilmelidir.
+
+SONUÇ:
+
+Açıklanan nedenlerle;
+
+1- Yargıtay Cumhuriyet Başsavcılığı itirazının KABULÜNE,
+
+2- Yargıtay 22. Ceza Dairesinin 01.02.2016 gün ve 10313-961 sayılı onama kararının KALDIRILMASINA,
+
+3- Malatya 1. Asliye Ceza Mahkemesinin 09.09.2011 gün ve 408-651 sayılı mahkûmiyet hükmünün;
+
+a) Sanığa ek savunma hakkı verilmeden, iddianamede talep edilmeyen TCK’nun 142/1-b maddesinin uygulanması suretiyle CMK’nun 226. maddesine aykırı davranılması,
+
+b) Etkin pişmanlık nedeniyle sanığın cezasından indirim yapılırken uygulama maddesinin, TCK’nun 168. maddesinin birinci fıkrası yerine aynı maddenin ikinci fıkrası olarak gösterilmesi,
+
+c) 24.11.2015 gün ve 29542 sayılı Resmi Gazetede yayımlanarak yürürlüğe giren Anayasa Mahkemesinin 08.10.2015 gün ve 140-85 sayılı kararı ile, 5237 sayılı TCK’nun 53. maddesinin bazı hükümlerinin iptal edilmesi karşısında, sanık hakkında belirtilen maddenin uygulanması bakımından yeniden değerlendirme yapılmasında zorunluluk bulunması,
+
+Nedenlerinden BOZULMASINA,
+
+4- Dosyanın, mahalline gönderilmek üzere Yargıtay Cumhuriyet Başsavcılığına TEVDİİNE, 20.03.2018 tarihinde yapılan müzakerede oybirliğiyle karar verildi.
+
+UYARI

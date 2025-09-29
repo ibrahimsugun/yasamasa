@@ -1,0 +1,52 @@
+Verileri Yok Etmeme Suçu
+
+TCK Madde 138
+
+TCK Madde 138 Gerekçesi
+
+TCK 138 (Verileri Yok Etmeme Suçu) Emsal Yargıtay Kararları
+
+(1) Kanunların belirlediği sürelerin geçmiş olmasına karşın verileri sistem içinde yok etmekle yükümlü olanlara görevlerini yerine getirmediklerinde bir yıldan iki yıla kadar hapis cezası verilir.
+
+(2) (Ek: 21/2/2014-6526/5 md.) Suçun konusunun Ceza Muhakemesi Kanunu hükümlerine göre ortadan kaldırılması veya yok edilmesi gereken veri olması hâlinde verilecek ceza bir kat artırılır.
+
+5237 sayılı Türk Ceza Kanunu (TCK) Tam Metin
+
+Makale :Kişisel Verileri Yok Etmeme Suçu ve Cezası
+
+Bu madde hükmü ile hukuka uygun olarak kaydedilmiş olan kişisel verilerin kanunların belirlediği sürelerin geçmiş olmasına rağmen yok edilmemesi, bağımsız bir suç olarak tanımlanmıştır.
+
+YARGITAY 17. CEZA DAİRESİ 
+Esas : 2015/22839 Karar : 2017/2999Tarih : 14.03.2017
+
+TCK 138. Madde
+
+Verileri Yok Etmeme Suçu
+
+07/05/2010 tarih ve 5982 sayılı Yasa’nın 2. maddesi ile değişik 2709 sayılı Türkiye Cumhuriyeti Anayasası’nın 20/3. maddesinde “Herkes, kendisiyle ilgili kişisel verilerin korunmasını isteme hakkına sahiptir. Bu hak; kişinin kendisiyle ilgili kişisel veriler hakkında bilgilendirilme, bu verilere erişme, bunların düzeltilmesini veya silinmesini talep etme ve amaçları doğrultusunda kullanılıp kullanılmadığını öğrenmeyi de kapsar. Kişisel veriler, ancak kanunda öngörülen hallerde veya kişinin açık rızasıyla işlenebilir. Kişisel verilerin korunmasına ilişkin esas ve usuller kanunla düzenlenir.” hükmünü taşımaktadır.
+
+5982 sayılı Yasa’nın 2. maddesinin gerekçesinde “Anayasada kişisel verilerin korunmasına yönelik dolaylı hükümler bulunmakla birlikte yeterli değildir. Mukayeseli hukukta ve tarafı olduğumuz uluslararası belgelerde de kişisel verilerin korunması önemle vurgulanmaktadır. Maddeyle, herkesin, kendisiyle ilgili kişisel verilerin korunmasını isteme hakkı, anayasal bir hak olarak teminat altına alınmaktadır. Bu bağlamda, bireylerin kendilerini ilgilendiren kişisel veriler üzerinde hangi hak ve yetkilere sahip olduğu ve kişisel verilerin hangi hallerde işlenebileceği hükme bağlanırken, kişisel verilerin korunmasına ilişkin esas ve usullerin kanunla düzenleneceği öngörülmektedir” denilmektedir.
+
+Türkiye Cumhuriyeti Anayasası’nın 20/3. maddesindeki hükümden, kişisel verilerin korunmasının Devlet açışındın yerine getirilmesi gereken bir yükümlülük, yönetilenler açısından da bir isteme hakkı olduğu, konunun temel haklara bakan ciheti itibariyle; kişisel verilerin kaydı, ya kişinin kendi rızasıyla veya kanuni bir yükümlülüğün yerine getirilmesi için alınması ve depolanması gerektiği, bunun dışında bir şekilde kişisel veri toplanamayacağı, bu hakkın Devlet tarafından kullanılabilmesi için, mutlaka kanuni düzenleme yapılması gerektiği anlaşılmaktadır.
+
+6698 sayılı Kişisel Verilerin Korunması Kanun’u 6/1. maddesinde özel nitelikli kişisel veriyi “Kişilerin ırkı, etnik kökeni, siyasi düşüncesi, felsefi inancı, dini, mezhebi veya diğer inançları, kılık ve kıyafeti, dernek, vakıf ya da sendika üyeliği, sağlığı, cinsel hayatı, ceza mahkûmiyeti ve güvenlik tedbirleriyle ilgili verileri ile biyometrik ve genetik verileri özel nitelikli kişisel veridir.” şeklinde tarif ettikten sonra, 28/1. maddesinde bu Kanun hükümlerinin kişisel verilerin millî savunmayı, millî güvenliği, kamu güvenliğini, kamu düzenini veya ekonomik güvenliği sağlamaya yönelik olarak kanunla görev ve yetki verilmiş kamu kurum ve kuruluşları tarafından yürütülen önleyici, koruyucu ve istihbari faaliyetler kapsamında işlenmesi ve soruşturma, kovuşturma, yargılama veya infaz işlemlerine ilişkin olarak yargı makamları veya infaz mercileri tarafından işlenmesi halinde uygulanmayacağını hükme bağlamıştır.
+
+DNA verileri ve Türkiye Milli DNA Veri Bankası Kanun Tasarısı, 2007 yılında Türkiye Büyük Millet Meclisi Başkanlığına sunulmuş ise de kanunlaşmamıştır. Tasarının 8. maddesinde “DNA profillerinden yararlanma yetkisi” başlığı altında “(1) Banka bünyesinde kayıtlı olan DNA profillerinden ancak, bir soruşturma, kovuşturma veya özel hukuk uyuşmazlığında gerçeğin ortaya çıkarılabilmesi veya kimlik tespiti amacıyla yararlanılabilir. Mahkeme, hâkim veya Cumhuriyet savcısı, bir kişiye ilişkin DNA profilleriyle sisteme kayıtlı olan DNA profillerinin karşılaştırılmasını bankadan istenebilir. (2) Banka, bu Kanunda belirtilen esaslar çerçevesinde analizleri yapılmak suretiyle sisteme ve kaydedilen her yeni DNA profilini, sisteme kayıtlı olan DNA profilleri ile karşılaştırarak onaya çıkan eşleşmeleri, en son incelemeyi isteyen mercie rapor hâlinde gönderir. Bu karşılaştırma sonucunda yapılmakta olan soruşturma, kovuşturma veya özel hukuk uyuşmazlığı de ilgisi olmayan ancak, diğer bir suçun işlendiği şüphesini uyandıracak bir eşleştirme elde edilirse; bu eşleştirme sonucu muhafaza altına alınır ve durum Cumhuriyet savcılığına derhal bildirilir.” hükmünü taşımaktaydı.
+
+5271 sayılı CMK’nın 20/1-birinci cümlesinde ise “75, 76 ve 78. madde hükümlerine göre alınan örnekler üzerinde yapılan inceleme sonuçları, kişisel veri niteliğinde olup, başka bir amaçla kullanılamaz” denilmektedir.
+
+5237 sayılı TCK’nın 135 ve devamı maddelerinde kişisel verilerin kaydedilmesi suçu düzenlenmiş, 138/2. maddesinde ise “Suçun konusunun Ceza Muhakemesi Kanun’u hükümlerine göre ortadan kaldırılması veya yok edilmesi gereken veri olması halinde verilecek cezanın bir kat artırılacağı” hüküm altına alınmıştır.
+
+Ceza Muhakemesinde Beden Muayenesi, Genetik İncelemeler ve Fizik Kimliğin Tespiti Hakkında Yönetmeliğin 14/1. maddesinde “ Bu Yönetmelik hükümlerine göre alınan örnekler üzerinde yapılan inceleme sonuçları, kişisel veri niteliğinde olup, başka bir amaçla kullanılamaz; dosya içeriğini öğrenme yetkisine sahip bulunan kişiler tarafından bir başkasına verilemez.” ve 14/3. maddesinde ise “Bilirkişi tarafından yapılan analizler sonucu elde edilen bulgular ilgili makama gönderilir; bulgular üzerinden moleküler genetik analizler için izole edilen DNA
+
+örnekleri bilirkişi tarafından rapor hazırlandıktan sonra imha edilir ve bu husus raporda açıkça belirtilir.” hükümlerine amirdir. Gerek Kanunlarımızda ve gerekse Yönetmelik hükümlerinde adli soruşturma nedeniyle alınan örnekler üzerinde yapılan inceleme sonuçlarının bir sisteme kaydedileceğine ilişkin bir hüküm bulunmamaktadır.
+
+Yine Yönetmeliğin 13/3. maddesinde “Yapılacak incelemeler için resmen atanan veya bilirkişilikle yükümlü olan ya da soruşturma veya kovuşturmayı yürüten makama mensup olmayan veya bu makamın soruşturma veya kovuşturmayı yürüten dairesinden teşkilât yapısı itibarıyla ve objektif olarak ayrı bir birimine mensup olan görevliler, bilirkişi olarak görevlendirilebilirler. Bu kişiler, teknik ve teşkilât bakımından uygun tedbirlerle yasak moleküler genetik incelemelerin yapılmasını ve yetkisiz üçüncü kişilerin bilgi edinmesini önlemekle yükümlüdürler. İncelenecek bulgu, bilirkişiye ilgilinin adı ve soyadı, adresi, doğum tarihi bildirilmeksizin verilir.” hükmünü amirdir. Bu hükmün, Yönetmeliğin 14/1-3. maddeleri ile birlikte yorumlanmasından, incelenecek bulgunun bilirkişiye ilgilinin adı ve soyadı, adresi, doğum tarihi bildirilmeksizin verilmesi karşısında zaten bilirkişi tarafından bir sisteme kaydının fiilen imkansız olmasının sağlanmasının amaçlandığı açıkça anlaşılmaktadır.
+
+Sanık tüm aşamalarda atılı suçları işlemediğini, suçsuz olduğunu savunmuştur. Sanık, katılana ait evin balkonunun altında bulunan şapkanın kendisine ait olduğunu, ancak olay mahalline nasıl konulduğunu bilmediğini beyan etmiştir.
+
+Bu itibarla sanığın daha önce işlediği başka bir suç nedeniyle hukuka uygun olarak alınıp alınmadığı dahi tespit edilmemiş vücut örnekleri üzerinde yapılan çalışma sonucu elde edilen genotip özelliklerin hukuka aykırı olarak bir sisteme kaydedildiği ve yargılama konusu olayımızda olay mahallinde bulunan şapka üzerinden alınan materyal üzerinde genotip incelemesi yapılarak sisteme yüklenen sonuçlarla karşılaştırılıp sanığa ait olduğunun tespit edilmesinin 5271 sayılı CMK’nın 217/2. maddesinde öngörülen “Yüklenen suç, hukuka uygun bir şekilde elde edilmiş her türlü delille ispat edilebilir.” hükmüne açıkça aykırı olduğu sabittir.
+
+Yukarıda izah ettiğim Türkiye Cumhuriyeti Anayasası ve Kanunlarımızdaki hükümler çerçevesinde, yasak delil niteliğindeki bilirkişi raporu haricinde sanığın atılı suçları işlediğine dair mahkumiyetini gerektirir kesin ve inandırıcı delilin yargılama dosyası arasında bulunmadığından beraatına karar verilmesi ve dolayısı ile ilk derece mahkemesinin hırsızlık ve konut dokunulmazlığını ihlal suçlarından kurduğu hükümlerin bozulması gerektiği kanaatinde olduğumdan, sayın çoğunluğun onama kararına katılmıyorum. 14.03.2017
+
+UYARI

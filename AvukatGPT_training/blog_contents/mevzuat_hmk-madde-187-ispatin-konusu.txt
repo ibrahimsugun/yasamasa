@@ -1,0 +1,344 @@
+İspatın Konusu
+
+HMK Madde 187
+
+HMK Madde 187 Gerekçesi
+
+HMK 187 (İspatın Konusu) Emsal Yargıtay Kararları
+
+(1) İspatın konusunu tarafların üzerinde anlaşamadıkları ve uyuşmazlığın çözümünde etkili olabilecek çekişmeli vakıalar oluşturur ve bu vakıaların ispatı için delil gösterilir.
+
+(2) Herkesçe bilinen vakıalarla, ikrar edilmiş vakıalar çekişmeli sayılmaz.
+
+Bu madde 1086 sayılı Kanunun 238 inci maddesinin karşılığı olup, içeriğinde herhangi bir değişiklik yapılmaksızın dili sadeleştirilmiştir. Maddede geçen “Herkesçe bilinen” ibaresi “Maruf ve meşhur ”tabirinin karşılığı olarak ve her iki terimi kapsayacak anlamda kullanılmıştır.
+
+Hukuk Genel Kurulu         2017/484 E.  ,  2021/493 K.
+
+Dava konusu edilen bir hakkın ve buna karşı yapılan savunmanın dayandığı vakıaların (olguların) var olup olmadıkları hakkında mahkemeye kanaat verilmesi işlemine ispat denir.
+Bir davada çekişmeli olguların kimin tarafından ispat edilmesi gerektiği konusu ise ispat yükü olarak tanımlanabilir.
+
+6100 sayılı Hukuk Muhakemeleri Kanunu’nun (HMK) 187/1. maddesinde; “İspatın konusunu tarafların üzerinde anlaşamadıkları ve uyuşmazlığın çözümünde etkili olabilecek çekişmeli vakıalar oluşturur ve bu vakıaların ispatı için delil gösterilir.” düzenlemesi mevcuttur.
+
+Vakıa (olgu) ise, 03.03.2017 tarihli ve 2015/2 E., 2017/1 K. sayılı Yargıtay İçtihadı Birleştirme Kararında; “kendisine hukuki sonuç bağlanmış olaylar” şeklinde tanımlanmıştır. İspatı gereken olaylar, olumlu vakıalar olabileceği gibi olumsuz vakıalar da olabilir.
+
+Hâkim, taraflar arasında uyuşmazlık konusu olan vakıaların gerçekleşip gerçekleşmediğini kural olarak kendiliğinden araştıramaz. Bir vakıanın gerçekleşip gerçekleşmediğini taraflar ispat etmelidir.
+
+Bir davada ispat yükünün hangi tarafa ait olacağı hususu 4721 sayılı Türk Medeni Kanunu’nun (TMK) 6. maddesinde, “Kanunda aksine bir hüküm bulunmadıkça, taraflardan her biri, hakkını dayandırdığı olguların varlığını ispatla yükümlüdür.” şeklinde düzenlendiği gibi, usul hukukunun en önemli konularından biri olan ispat yükü kuralı, HMK’nın 190. maddesinde de “İspat yükü, kanunda özel bir düzenleme bulunmadıkça, iddia edilen vakıaya bağlanan hukuki sonuçtan kendi lehine hak çıkaran tarafa aittir.” şeklinde hüküm altına alınmıştır.
+
+İspat yükü ilk önce kural olarak davacıya düşer; yani davacı davasını dayandırdığı olguları ispat etmelidir.
+
+Her iki taraf da, ispat yükünün kime düştüğünü gözetmeden delil göstermişler ise, bu hâlde hâkimin ispat yükünün hangi tarafa düştüğünü araştırmasına gerek yoktur. Çünkü hâkim, ilk önce tarafların gösterdikleri delilleri incelemekle yükümlüdür.
+
+İki tarafın (veya bir tarafın) gösterdiği deliller ile davaya ilişkin bütün çekişmeli olgular aydınlanmış ise, yine ispat yükünün hangi tarafa düştüğünü araştırmakta bir yarar yoktur. Buna karşılık gösterilen delillerin hâkime dava hakkında tam bir kanaat vermemesi hâlinde, ispat yükünün hangi tarafa düştüğünün tespit edilmesinde yarar vardır. İspat yükü, bu hâl için önemlidir.
+
+Hâkimin kendisine ispat yükü düştüğünü bildirdiği taraf, uyuşmazlık konusu olguyu ispat edemezse, davayı kaybeder. O taraf, davacı ise davası reddedilir; davalı ise aleyhine eda ve/veya tespit hükmü kurulur.
+
+Herkesin iddiasını kanıtlamakla yükümlü olduğuna ilişkin genel kuralın, “Kanunda aksine bir hüküm bulunmadıkça” deyimi ile bazı istisnalarının olabileceği hükme bağlanmıştır. Başka bir anlatımla, ispat yükünün yer değiştirdiği hâllerde bu kuralın istisnaları devreye girer. Genel kuralın istisnalarının söz konusu olduğu durumlarda, ispat yükü bir olgudan kendi lehine haklar çıkaran tarafa değil, o olgu aleyhine olan (karşı) tarafa aittir.
+
+Bu kapsamda normal bir duruma dayanan tarafın, bu iddiasını ispat etmesi gerekmez; bilâkis ispat yükü bu normal durumun aksini iddia eden tarafa düşer.
+
+Bazı hâllerde bir olguyu kimin ispat etmesi gerektiği (ispat yükü), özel bir kanun hükmü ile belirlenmiştir. Kanun, bu halleri saklı tutmuştur. Bu hallerde, ispat yükünün (genel kurala göre) kime düştüğünü araştırmaya gerek yoktur. İspat yükü özel kanun hükümlerinde yazılı olan kimselere düşer.
+
+Bir vakıanın ispatı için başvurulan vasıtalara da delil denir.
+
+HMK’nın konuya ilişkin ve “somutlaştırma yükü ve delillerin gösterilmesi” başlıklı 194. maddesine göre;
+
+“(1)Taraflar, dayandıkları vakıaları, ispata elverişli şekilde somutlaştırmalıdırlar.
+
+(2)Tarafların, dayandıkları delilleri ve hangi delilin hangi vakıanın ispatı için gösterildiğini açıkça belirtmeleri zorunludur.”
+
+Kendiliğinden araştırma ilkesinin uygulandığı davalarda; hâkim, davanın ispatı için gereken bütün delillere kendiliğinden başvurur; taraflar da duruşma bitinceye kadar delil gösterebilirler. Dava ile ilgili olguların hazırlanmasında, tarafların yanında, hâkimin de görevli olmasına, “kendiliğinden araştırma ilkesi” denir. Bu ilke kamu düzenini ilgilendiren çekişmeli davalarda ve çekişmesiz yargı işlerinde önem gösterir.
+
+Taraflarca getirilme (hazırlama) ilkesinin uygulandığı davalarda, deliller kural olarak taraflarca gösterilir. Hâkim delillere kendiliğinden başvuramaz.
+
+Hukuk Genel Kurulu         2017/2715 E.  ,  2021/360 K.
+
+İspat genel anlamda bir iddianın doğru ve gerçek olup olmadığı konusunda hâkimi inandırma faaliyetidir. İspat, kelime olarak tespit etme, belirleme, sabitleme anlamına gelmektedir. Anayasal dayanağı hukuki dinlenilme hakkına dayanan ispat hakkı ancak kanunla sınırlanabilir. Hukuki anlamda ispat faaliyetinde amaç; taraflar arasındaki uyuşmazlığa ilişkin dava tarihinden önce gerçekleşen vakıaların, gerçek olup olmadığı konusunda mahkemeyi ikna etmektir. Dava konusu yapılan hakkın gerçekten var olup olmadığının anlaşılması, maddi hukukun o hakkın doğumunu veya sona ermesini kendisine bağladığı vakıaların doğru olup olmadığının tespit edilmesi sonucunda mümkün olur. Başka bir anlatımla ispat; gösterilen delillerle, hâkimin dışında geçmiş dış âlemde gerçekleştiği iddia edilen olay ve olguların, gerçekte var olup olmadığı hakkında, hâkimde uyandırılan kanaat vasıtasıyla maddi gerçeğin adli gerçeğe dönüştürülmesidir.
+
+İspatın konusunu; 6100 sayılı Hukuk Muhakemeleri Kanunu’nun (HMK) 187/1. maddesine göre, tarafların üzerinde anlaşamadıkları ve uyuşmazlığın çözümünde etkili olabilecek çekişmeli vakıalar oluşturur ve taraflarca bu vakıaların ispatı için delil gösterilir.
+
+Vakıa (olgu) ise, 03.03.2017 tarihli ve 2015/2 E., 2017/1 K. sayılı Yargıtay İçtihadı Birleştirme Kararında; kendisine hukuki sonuç bağlanmış olaylar şeklinde tanımlanmıştır. İspatı gereken olaylar, olumlu vakıalar olabileceği gibi olumsuz vakıalar da olabilir.
+
+İşte dava konusu hakkın ve buna karşı yapılan savunmanın dayandığı vakıaların doğru olup olmadıkları hakkında mahkemeye kanaat verilmesi işlemine ispat denir. Bir taraf, ancak dayandığı vakıaların doğru olduğunu veya karşı tarafın dayandığı vakıaların doğru olmadığını ispat ederek, davanın kabulünü veya davanın reddini sağlayabilir. Davacı davasında ne kadar haklı olursa olsun, davasını dayandırdığı vakıaları ispat edemez veya ispat eder de davalı bunların aksini ispat ederse davayı kaybeder. HMK ile düzenleme altına alınan emredici hükümlere göre; davacı iddiasının, davalı ise savunmasının dayanağı olan vakıaları ve bu vakıaların hangi delillerle ispat edileceğini dilekçelerinde (m. 119,1/e-f; m. 129,1/d-e) bildirirler. Hâkim ön inceleme aşamasında, tarafların iddia ve savunmaları çerçevesinde anlaştıkları ve anlaşamadıkları hususları tek tek tespit eder (m. 140).
+
+Hâkim, taraflar arasında uyuşmazlık konusu olan vakıaların gerçekleşip gerçekleşmediğini, kural olarak kendiliğinden araştıramaz, davada her bir taraf, iddiasını veya savunmasını dayandırdığı vakıayı ispat etmek durumundadır. Bir davada her iki tarafın da delillerini sunması ve dayandıkları vakıaları ispat etmek için yargılamanın sonuna kadar faaliyet göstermeleri durumunda herhangi bir sorun çıkmayacaktır. Buna karşılık; gösterilen delillerin hâkime dava hakkında tam bir kanaat vermemesi hâlinde veya tarafların kendiliğinden ispat faaliyetinde bulunmayarak ispat yükünün diğer tarafa ait olduğunu ileri sürmeleri durumunda ispat yükünü taşıyan tarafın mahkemece tespit edilmesi önem arz edecektir. Zira hâkim davanın esası hakkında bir karar vermekle yükümlüdür. Hâkim bu hâllerde; ispat yükünün hangi tarafa düştüğünü tespit edecek ve uyuşmazlık konusu vakıayı ispat etmesini isteyecektir. Bu açıdan ispat yükü doktrinde; iddia konusu bir vakıanın gerçekleşmiş olup olmadığının anlaşılamaması sonucunda, vakıanın ispatsız kalması yüzünden, mahkemenin aleyhte kararıyla karşılaşma tehlikesi olarak tanımlanmaktadır.
+
+İspat yükü hakkında genel kural; TMK’nın 6. maddesinde “Kanunda aksine bir hüküm bulunmadıkça, taraflardan her biri, hakkını dayandırdığı olguların varlığını ispatla yükümlüdür.” ve HMK’nın 190. maddesinde de, “İspat yükü, kanunda özel bir düzenleme bulunmadıkça, iddia edilen vakıaya bağlanan hukuki sonuçtan kendi lehine hak çıkaran tarafa aittir. Kanuni bir karineye dayanan taraf, sadece karinenin temelini oluşturan vakıaya ilişkin ispat yükü altındadır. Kanunda öngörülen istisnalar dışında, karşı taraf, kanuni karinenin aksini ispat edebilir.” şeklinde iki düzenleme ile hüküm altına alınmıştır. Buna göre ispat yükü; kanunda özel bir düzenleme bulunmadıkça, iddia edilen vakıaya bağlanan hukuki sonuçtan kendi lehine hak çıkaran tarafa aittir. Her iki düzenlemede birbirleri ile paralel olup, HMK m.190/1 hükmü, TMK’nın 6. maddesine göre daha açık ve üzerinde uzlaşma bulunan bir ifadedir.
+
+Yukarıdaki bentte bahsedilen genel düzenlemeden hareketle, kanun koyucu “…kanunda özel bir düzenleme bulunmadıkça,…” deyimiyle ispat yükünde genel kuralın bazı istisnalarının bulunduğunu belirtmiştir. İşte bu istisnalardan birisi de normal durumun aksini iddia eden tarafın iddiasını ispatla yükümlü olması hâlidir. Normal bir duruma dayanan tarafın bu iddiasını ispat etmesi gerekmez; bilakis, ispat yükü bu normal durumun aksini ispat eden diğer bir ifadeyle hayatın olağan akışına aykırı iddiada bulunan tarafa düşer.
+
+Uyuşmazlık konusu ziynet eşyaları; rahatlıkla saklanabilen, taşınabilen, götürülebilen türden eşyalardan olduğu için ziynet eşyalarında olağan olan, bu eşyaların kadın eşin himayesinde bulunmasıdır. Kaldı ki; hayat deneyimlerine göre de olağan olan bu çeşit eşyanın kadının üzerinde olması ya da evde saklanarak muhafaza edilmesidir. Bunların erkeğin zilyetlik ve korunmasına terk edilmesi olağan durumla bağdaşmaz. Bunun aksini iddia eden kadın eş iddiasını ispatla mükelleftir.
+
+Ziynet eşyası davalarında, ispat hukuku yönünden öncelikli kural; davacı kadın eş tarafından dava konusu edilen ziynet eşyalarının, cins, sayı, nitelik ve miktar olarak varlığının kanıtlanmış olması gerekliliğine ilişkindir. Ziynetlerin varlığını bu şekilde ispatlayan kadın eşin ikinci olarak ise; bu ziynetlerin evlilik birliği içinde kendisinden alındığını ve tekrar iade edilmediğini veya bu şekilde elinden alındığına dair bir iddiası yoksa evden ayrılırken bu eşyaları yanında götürmesinin mümkün olmadığını ispat etmesi gerekir. Diğer bir ifadeyle ziynet alacağı hakkı olduğunu iddia eden kadın eş, varlığını kanıtladığı dava konusu ziynetlerin kendinde olmadığını şüpheye yer vermeyecek şekilde kanıtlanmakla yükümlüdür. İşte bu anda; kadın eş, fiili karineyle kişisel malı niteliğinde kabul edilen ziynet eşyalarının kendi himayesinden çıkarak, erkek eşin himayesine girdiğini şüpheye yer vermeyecek şekilde ispatlamış ise artık erkek eş; kadın eşe ait olan ziynet eşyalarının iadesiyle yükümlü olmadığı hususunu ispat yükü altındadır. Borçlar hukuku genel hükümleri uyarınca; asıl olan borçlunun aldığı şeyi geri vermekle yükümlü olduğu kuralıdır. İade edilmemek üzere alındığı hususunda ispat yükü ise yukarıda da açıkça üzerinde vurgulandığı gibi, iddia edilen vakıaya bağlanan hukuki sonuçtan kendi lehine hak çıkaran tarafa ait olduğuna göre, erkek eş himayesine girdiğini kabul ettiği bu ziynetleri iade etmemek üzere aldığını ispatlamalıdır.
+
+HMK’nın “Karşı ispat” başlıklı 191. maddesine göre “Diğer taraf, ispat yükünü taşıyan tarafın iddiasının doğru olmadığı hakkında delil sunabilir. Karşı ispat faaliyeti için delil sunan taraf, ispat yükünü üzerine almış sayılmaz.” Buradan hareketle; ispat yükü kendisine düşen tarafın yerine getireceği ispat faaliyeti, bu açıdan asıl ispat olarak adlandırılmalıdır. Kendisine asıl ispat yükü düşen taraf iddiasını ispat edemezse, asıl ispatla yükümlü olmayan karşı tarafın iddiasının aksini ispat etmesine gerek kalmayacak ve o vakıa ispat edilmemiş sayılacaktır. Ancak anılan maddeye göre; asıl ispatla yükümlü olmayan taraf, karşı tarafın iddiasını ispat etmesini bekleyebileceği gibi karşı tarafın iddiasının aksini ispat için delil de gösterebilir. Bu delile ise karşı delil denilir. Burada üzerinde dikkat edilmesi gereken husus; karşı delil sunan tarafın, karşı delil göstermekle ispat yükünü üzerine almış sayılmayacağı hususudur. Asıl ispat yükü kendinde olmayan taraf karşı delil göstermekle sadece, diğer tarafın iddiasını çürütmeye çalışır ve böylece karşı tarafın iddiasını ispat etmesini güçleştirir. Sonuç olarak asıl ispat yükünü taşıyan taraf; iddiasını kendi delilleriyle ispat edememesi hâlinde, sırf karşı delile dayanılmış olması nedeniyle kendi lehine hak çıkarılmasını isteyemez. Tüm bu açıklamalar ışığı altında; ispat yükü kendine düşmeyen tarafın gösterdiği delile karşı delil denir. İspat yükü kendine düşen taraf bir vakıayı ispat ettikten sonra, artık ispat yükü diğer tarafa geçer. Bunun üzerine diğer tarafın o vakıanın doğru olmadığını veya başka bir nedenle geçersiz kaldığını ispat etmesi gerekir. Aksi hâlde davayı kaybeder. İşte bu hâlde, asıl ispat yükü başlangıçta kendisine düşen tarafın ispat ettiği vakıanın aksini ispat için gösterdiği delil 191. madde kapsamında karşı delil değildir, zira asıl ispat yükü kendisine düşen taraf iddiasını kanıtlamış ve “silahların eşitliği” ilkesi gereğince o vakıanın çürütülmesine yönelik ispat yükü diğer tarafa geçmiştir.
+
+Tüm bu genel açıklamalar ışığında somut olay değerlendirildiğinde; uyuşmazlık konusu ziynet eşyaları hakkında erkek eş “evlilik birliği içerisinde bu eşyaların bozdurularak harcandığı ancak ziynetlerin miktarının iddia edilen kadar olmadığını” kabul etmiştir. Bu durumda erkek eşin, kadının kişisel malı niteliğinde kabul edilen bu eşyaları iade ettiği veya iade edilmemek üzere aldığı hususunda ispatla yükümlü olduğu, ancak bu yönde ispat yükünü yerine getirmediği anlaşılmaktadır.
+
+Hâl böyle olunca; mahkemece yapılacak iş, kadın eşin dava konusu ettiği ziynet eşyaları hakkında cins, nitelik, sayı ve miktarları yönünden varlığını kanıtlanması amacıyla göstermiş olduğu delillerin toplanması, gerektiğinde tarafların tüm tanıklarının bu konu hakkında yeniden dinlenerek ziynet eşyalarının nelerden ibaret olduğu ile ilgili olaylara dayalı görgü ve bilgilerinin sorulması, varlığı şüphe ve tereddüt uyandırmayacak şekilde ispatlandığı belirlenen ziynet eşyalarının dava tarihi itibariyle değerinin belirlenmesi için gerekirse bilirkişi incelemesi yaptırılması ondan sonra toplanan tüm deliller değerlendirilerek bir karar vermekten ibaretken, anlatılan hususlar gözetilmeksizin davanın ispatlanamadığı gerekçesi ile reddine karar verilmesi usul ve yasaya aykırı olup bozmayı gerektirmiştir.
+
+YARGITAY 2. HUKUK DAİRESİ 
+Esas : 2016/19762 Karar : 2018/8374Tarih : 2.07.2018
+
+HMK 187. Madde
+
+İspatın Konusu
+
+1-Dosyadaki yazılara, kararın dayandığı delillerle kanuni gerektirici sebeplere ve özellikle velayeti davalı-karşı davacı kadına verilen ortak çocuk 16.03.2000 doğumlu Kübranur’un inceleme tarihi itibariyle ergin olması sebebiyle bu çocuk yararına hükmolunan nafakanın ergin olduğu tarihte kendiliğinden sona ereceğinin tabi bulunmasına göre, davacı-karşı davalı erkeğin aşağıdaki bentlerin kapsamı dışında kalan temyiz itirazları yersizdir.
+
+2-Mahkemece; “davalı-karşı davacı kadının güven sarsıcı davranışlar sergilediği, davacı-davalı erkeğin ise evililik birliği devam ederken başka bir kadın ile birlikte yaşamaya başladığı, davalı-karşı davacı kadına hem bu kadına hem de evdeki diğer aile bireylerine bakma görevinin yüklendiği” gerekçesiyle boşanmaya sebep olan olaylarda davacı-karşı davalı erkeğin davalı-karşı davacı kadına nazaran ağır kusurlu olduğu kabul edilerek tarafların davalarının kabulü ile boşanmalarına ve boşanmanın fer’ilerine karar verilmiştir.
+
+Dava dilekçesinde davacının iddiasının dayanağı olan bütün vakıaların sıra numarası altında açık özetlerinin gösterilmesi gereklidir (HMK m. 119/1). İspatın konusunu tarafların üzerinde anlaşamadıkları ve uyuşmazlığın çözümünde etkili olabilecek çekişmeli vakıalar oluşturur ve bu vakıaların ispatı için delil gösterilir (HMK m. 187/1). Kanunda öngörülen istisnalar dışında, hakim, iki taraftan birinin söylemediği şeyi veya vakıaları kendiliğinden dikkate alamaz ve onları hatırlatabilecek davranışlarda dahi bulunamaz (HMK m. 25). Taraflar, cevaba cevap ve ikinci cevap dilekçeleri ile serbestçe; ön inceleme aşamasında ise ancak karşı tarafın açık muvafakati ile iddia veya savunmalarını genişletebilir yahut değiştirebilirler. Ön inceleme duruşmasına taraflardan biri mazeretsiz olarak gelmezse, gelen taraf onun muvafakati aranmaksızın iddia veya savunmasını genişletebilir yahut değiştirebilir. Ön inceleme aşamasının tamamlanmasından sonra iddia veya savunma genişletilemez yahut değiştirilemez (HMK m. 141/1).
+
+Yapılan yargılama ve toplanan delillerden; davalı-karşı davacı kadının 2014 yılının nisan ayında ortak konutu terkederek başka bir erkekle birlikte yaşamaya başladığı, sadakat yükümlülüğüne aykırı davranışlar sergilediği anlaşılmaktadır. Davacı-karşı davalı erkeğin başka bir kadın ile birlikte yaşadığı, sadakatsiz davranışlar sergilediği, davalı-karşı davacı kadının o kadına ve diğer aile bireylerine bakmakla görevlendirildiği şeklinde davacı-karşı davalı erkeğe mahkemece kusur olarak yüklenen vakıalara davalı-karşı davacı kadın tarafından usulüne uygun şekilde dayanılmamış olup, yukarıda yer alan açıklamalar karşısında bu vakıaların davacı-karşı davalı erkeğe kusur olarak yüklenmesi mümkün bulunmamaktadır. Esasen davalı-karşı davacı kadının erkeğin birlikte yaşadığı iddia olunan kadına ve diğer aile bireylerine bakmakla görevlendirildiği hususuna ilişkin bir delil de bulunmamaktadır. Mahkemece, usulüne uygun şekilde ileri sürülmeyen vakıalar esas alınarak davacı-karşı davalı erkeğe kusur yüklenmesi ve bunun sonucu olarak davalı-karşı davacı kadının
+
+boşanma davasının kabulüne karar verilmesi doğru değildir. O halde, boşanmaya sebep olan olaylarda sadakate aykırı davranışlar sergileyen davalı-karşı davacı kadının tamamen kusurlu olduğu kabul edilerek davasının reddine karar vermek gerekirken hatalı kusur belirlemesinin sonucu olarak kabulü doğru görülmemiştir. Ne var ki davacı-karşı davalı erkeğin kabul edilen boşanma davası temyiz edilmeyerek kesinleşmiş olmakla kadının boşanma davasının konusu kalmamıştır. Gerçekleşen bu duruma göre hükmün kusur belirlemesi yönünden ve davalı-karşı davacı kadının boşanma davasının konusu kalmadığından karar verilmesine yer olmadığına, davanın açıldığı tarihteki tarafların haklılık durumuna göre yargılama gideri ile vekalet ücreti konusunda karar verilmek üzere bozulmasına karar vermek gerekmiştir.
+
+3-Türk Medeni Kanununun 174/1. maddesi, mevcut veya beklenen menfaatleri boşanma yüzünden zedelenen kusursuz veya daha az kusurlu tarafın, kusurlu taraftan uygun bir maddi tazminat isteyebileceğini; 174/2. maddesi, boşanmaya sebep olan olaylar yüzünden kişilik hakkı saldırıya uğrayan tarafın, kusurlu olandan manevi tazminat isteyebileceğini öngörmüştür. Yukarıda 2/a. bentte açıklandığı üzere; evlilik birliğinin sarsılmasına sebep olan olaylarda tazminat isteyen davacı-karşı davalı erkeğin ağır yada eşit kusurlu olmadığı, bu olayların onun kişilik haklarına saldırı teşkil ettiği anlaşılmaktadır. Boşanma sonucu bu eş, en azından diğerinin maddi desteğini yitirmiştir. O halde mahkemece, tarafların sosyal ve ekonomik durumları, tazminata esas olan fiilin ağırlığı ile hakkaniyet kuralları (TMK m.4, TBK m.50. ve 51.) dikkate alınarak davacı-karşı davalı erkek yararına uygun miktarda maddi ve manevi tazminata hükmedilmesi gerekirken, hatalı kusur belirlemesinin sonucu olarak bu taleplerin reddine yönelik yazılı şekilde hüküm kurulması doğru görülmemiş, bozmayı gerektirmiştir.
+
+4-Türk Medeni Kanununun 174/1. maddesi, mevcut veya beklenen menfaatleri boşanma yüzünden zedelenen kusursuz veya daha az kusurlu tarafın, kusurlu taraftan uygun bir maddi tazminat isteyebileceğini; 174/2. maddesi, boşanmaya sebep olan olaylar yüzünden kişilik hakkı saldırıya uğrayan tarafın, kusurlu olandan manevi tazminat isteyebileceğini öngörmüştür. Yukarıda 2/a. bentte açıklandığı üzere; evlilik birliğinin sarsılmasına sebep olan olaylarda tazminat isteyen davalı-karşı davacı kadın tamamen kusurlu olup, kadının yasal şartları oluşmayan maddi ve manevi tazminat isteklerinin reddine karar vermek gerekirken hatalı kusur belirlemesinin sonucu olarak bu taleplerin kabulüne yönelik yazılı şekilde hüküm kurulması doğru görülmemiş, bozmayı gerektirmiştir.
+
+5-Boşanma yüzünden yoksulluğa düşecek taraf, kusuru daha ağır olmamak koşuluyla geçimi için diğer taraftan mali gücü oranında süresiz olarak nafaka isteyebilir. Nafaka yükümlüsünün kusuru aranmaz. (TMK m.175). Yukarıda 2/a bentte açıklandığı üzere; evlilik birliğinin sarsılmasına sebep olan olaylarda yoksulluk nafakası talep eden davalı-karşı davacı kadın tamamen kusurlu olup, kadının yasal şartları oluşmayan yoksulluk nafakası isteğinin reddine karar vermek gerekirken hatalı kusur belirlemesinin sonucu olarak bu talebin kabulüne yönelik yazılı şekilde hüküm kurulması doğru görülmemiş, bozmayı gerektirmiştir.
+
+SONUÇ: Temyiz edilen hükmün yukarıda 2., 3., 4. ve 5. bentlerde gösterilen sebeplerle BOZULMASINA, hükmün bozma kapsamı dışında kalan temyize konu diğer bölümlerinin ise yukarıda 1. bentte gösterilen sebeple ONANMASINA, duruşma için takdir olunan 1.630 TL vekalet ücretinin Serdağ’dan alınarak Ayhan’a verilmesine, temyiz peşin harcının istek halinde yatırana geri verilmesine, işbu kararın tebliğinden itibaren 15 gün içinde karar düzeltme yolu açık olmak üzere oybirliğiyle karar verildi. 02.07.2018(Pzt.)
+
+YARGITAY 2. HUKUK DAİRESİ 
+Esas : 2016/20047 Karar : 2018/7930Tarih : 21.06.2018
+
+HMK 187. Madde
+
+İspatın Konusu
+
+1-Dosyadaki yazılara, kararın dayandığı delillerle kanuna uygun sebeplere ve özellikle delillerin takdirinde bir yanlışlık görülmemesine göre, davacı kadının aşağıdaki bentlerin kapsamı dışında kalan temyiz itirazları yersizdir.
+
+2-Mahkemece; tarafların boşanmaya sebep olan olaylarda eşit kusurlu oldukları kabul edilerek boşanmalarına karar verilmiş ve davacı kadının maddi ve manevi tazminat (TMK m. 174/1-2) talepleri reddedilmiştir.
+
+Dava ve karar tarihinde yürürlükte bulunan 6100 sayılı Hukuk Muhakemeleri Kanunun 129/1-d-e maddeleri gereğince, davalı savunmasının dayanağı olan bütün vakıaları sıra numarası altında ve açık özetleriyle birlikte ve savunmanın dayanağı olarak ileri sürülen her bir vakıanın hangi delillerle ispat edileceğini cevap dilekçesinde göstermek zorundadırlar.
+
+Somut olayda; davalı erkek cevap dilekçesinde kadına yüklenen kusurlu davranışlara vakıa olarak dayanmamıştır. Dayanılmayan vakıaya ilişkin delil bildirilmesi için ön inceleme aşamasında verilen süre sonuç doğurmaz. Mahkemece, usulüne uygun şekilde ileri sürülmeyen ve çekişmeli olarak belirlenmeyen (HMK m. 137, 140/3, 187) vakıalar esas alınarak davalıya kusur yüklenemez (HMK m. 141). Diğer yandan, davalı erkeğin mahkemece belirlenen ve temyiz edilmeyerek kesinleşen kusurlu davranışları yanında ayrıca eşine hakaret ettiği anlaşılmaktadır. Bu hale göre boşanmaya sebep olan olaylarda davalı erkeğin tamamen kusurlu olduğunun kabulü gerekli olup, tarafların eşit kusurlu olduklarının kabulü hatalı olup, bozmayı gerektirmiştir.
+
+3- Yukarıda 2. bentte açıklandığı üzere boşanmaya sebep olan olaylarda davalı erkek tam kusurludur. Gerçekleşen kusurlu davranışlar aynı zamanda kadının kişilik haklarına saldırı teşkil eder niteliktedir. Davacı kadın yararına maddi ve manevi tazminat (TMK m. 174/1-2) koşulları oluşmuştur. Tarafların eşit kusurlu kabul edilmesi ve bu hatalı kusur belirlemesine bağlı olarak davacı kadının maddi ve manevi tazminat isteklerinin reddi doğru görülmemiştir.
+
+4- Taraflar, cevaba cevap ve ikinci cevap dilekçeleri ile serbestçe, ön inceleme aşamasında ise ancak karşı tarafın açık muvafakati ile iddia ve savunmalarını genişletebilir yahut değiştirebilirler. Ön inceleme aşamasının tamamlanmasından sonra ise diğer tarafın açık muvafakati ve ıslah dışında iddia ve savunma genişletilemez yahut değiştirilemez (HMK. m. 141/1). Davacı kadın dava dilekçesinde ve cevaba cevap dilekçesinde yoksulluk nafakası yönünden bir beyanda bulunmamıştır. Süresi içerisinde yapılmayan talep iddianın ve savunmanın genişletilmesi niteliğindedir. Davacı tarafından bu konuda usulünce yapılmış bir ıslah işlemi de bulunmamaktadır. O halde, davacının yoksulluk nafakası (TMK m. 175) talebi hakkında ‘’karar verilmesine yer olmadığına” karar verilecek yerde yazılı şekilde reddine karar verilmesi usul ve yasaya aykırı olup bozmayı gerektirmiştir.
+
+SONUÇ:Temyiz edilen hükmün yukarıda 2., 3., 4. bentlerde gösterilen sebeplerle BOZULMASINA, bozma kapsamı dışında kalan temyize konu diğer bölümlerinin ise yukarıda 1. bentte gösterilen sebeple ONANMASINA, temyiz peşin harcının istek halinde yatırana geri verilmesine, işbu kararın tebliğinden itibaren 15 gün içinde karar düzeltme yolu açık olmak üzere oybirliğiyle karar verildi. 21.06.2018 (Prş.)
+
+YARGITAY 1. HUKUK DAİRESİ 
+Esas : 2015/12526 Karar : 2018/775Tarih : 1.02.2018
+
+HMK 187. Madde
+
+İspatın Konusu
+
+Dava, ecrimisil istemine ilişkindir.
+
+Davacı, mirasbırakanı …‘un paydaşı olduğu 1547 ada 1 parsel sayılı taşınmazın bir kısmının davalı …‘in kahvehane işletmek, diğer kısmının ise davalı …‘nin faaliyet göstermek suretiyle kullandığını ileri sürerek ecrimisile karar verilmesini istemiştir.
+
+Davalı …Ş, çekişme konusu taşınmazı paydaş …‘ın mirasçıları dava dışı … ile …‘dan kiraladığını, davalı …, çekişme konusu taşınmazın 4/16 payını mirasçı olan dava dışı paydaş …‘den satın aldığını belirterek davanın reddini savunmuşlardır.
+
+İhbar olunanlar, paydaşlar arasındaki fiili kullanma biçiminin oluştuğunu belirterek davanın reddi gerektiğini bildirmişlerdir.
+
+Mahkemece, davalı …Ş. hakkındaki davanın taşınmazda fiili kullanma biçimi oluştuğundan 8/16 pay sahibi mirasbırakanın mirasçıları olan ihbar olunanlar ile davalı …Ş. arasındaki kira sözleşmesinin geçerli bulunduğu, davalının taşınmazda … olmadığı gerekçesiyle reddine, davalı … yönünden ise davacının payını kullandığı gerekçesiyle davanın kısmen kabulüne karar verilmiştir.
+
+Bilindiği üzere; 5219 ve 5236 sayılı Kanun ile 1086 sayılı HUMK nun 427/2. maddesi uyarınca 01.01.2015 tarihinden itibaren 2.080,00 TL den az olan davalara ait yerel mahkeme kararlarına karşı temyiz yoluna gidilemeyeceği öngörülmüştür.
+
+Temyiz eden davacı yönünden davalı … yönünden reddedilen miktar (1.200,00 TL) davalı …‘den tahsiline karar verilen miktar 1.200 lira olup her iki miktar da yukarıda anılan madde hükmüne göre temyiz kesinlik sınırının altında kalmaktadır.
+
+Öte yandan, temyiz kesinlik sınırı içinde kalması nedeniyle temyiz kabiliyeti olmayan kararlara karşı temyiz isteği yönünden mahkemece bir karar verilebileceği gibi 01.06.1990 gün ve 3/4 sayılı İçtihadı Birleştirme Kararı uyarınca Yargıtay’ca da bir karar verilebilir.
+
+Yukarıda açıklanan nedenlerle, temyiz kesinlik sınırı içinde kaldığı anlaşılan davacının davalı … yönünden temyiz istemi ile davalı …‘in temyiz isteminin değerden REDDİNE,
+
+Davacı vekilinin davalı …Ş. yönünden temyizine gelince,
+
+Çekişme konusu 113,00 m² ve ev dükkan niteliğindeki 1547 ada 1 parsel sayılı taşınmazın 8/16 payının ihbar olunanların mirasbırakanı … Satır adına kayıtlı olduğu, 8/16 payının ise davacının mirasbırakanı … adına kayıtlı olduğu, taşınmazın 04.01.2010 başlangıç tarihli kira sözleşmesi ile ihbar olunanlar tarafından davalı …Ş.’ye kiraya verildiği sabittir.
+
+Her ne kadar; ihbar olunanlar taşınmazda fiili kullanım biçiminin oluştuğunu savunmuşlar ise de davalı …Ş.’nin mahkemece verilen kesin süreye rağmen, fiili kullanım biçimine ilişkin tanık bildirmediğinden dava konusu taşınmazda fiili kullanma biçiminin oluştuğu ispatlanamamıştır. Paydaşlar arasındaki fiili kullanım biçimi ispatlanamadığından 4721 sayılı Türk Medeni Kanunu’nun 691. maddesi hükmü ve 6.5.1955 tarih 12/18 sayılı İçtihadı Birleştirme Kararı uyarınca pay ve paydaş çoğunluğu sağlanmadan yapılan kira sözleşmesinin geçerli olmayacağı da kuşkusuzdur.
+
+Bu durumda, taraflar arasında geçerli bir kira ilişkisi kurulduğunu söyleyebilme olanağı yoktur.
+
+Hal böyle olunca, davalı …Ş. yönünden davanın kabulüne karar verilmesi gerekirken yanılgılı değerlendirme ile yazılı şekilde hüküm tesis doğru değildir.
+
+Davacının temyiz itirazları yerindedir. Kabulüyle hükmün (6100 sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK’un 428.maddesi gereğince BOZULMASINA, alınan peşin harcın temyiz edene geri verilmesine, 01.02.2018 tarihinde oyçokluğuyla karar verildi.
+
+(Muhalif)
+
+-KARŞI OY-
+
+Dava, ecrimisil isteğine ilişkindir.
+
+Mahkemece davalılardan … hakkındaki davanın kısmen kabulüne, … hakkındaki davanın reddine karar verilmiş, hüküm taraf vekillerince temyiz edilmiştir.
+
+Davaya konu taşınmaz paylı mülkiyet üzere tapuya kayıtlıdır. 8/16 payı davacı ile dava dışı … murisi, 8/16 payı ise ihbar olunanların murisi adına tescillidir.
+
+Sayın çoğunluk fiili taksimin davacı tarafından ispat edilemediği gerekçesiyle … hakkında verilen ret kararının doğru olmadığı gerekçesiyle bozma kararı vermiştir.
+
+Sayın çoğunluk ile aramızda oluşan ihtilaf, fiili taksimin oluşup oluşmadığı ve bunun ispat usulüne ilişkindir.
+
+Davalılar yargılamanın başından beri fiili taksim olgusuna dayanmışlardır. Davacı ise hiç bir aşamada fiili taksimin olmadığına ilişkin bir iddia ileri sürmemiştir. Hiç şüphesiz fiili taksimin varlığını “iddia eden iddiasını ispatla mükelleftir” kaidesi gereğince davalı … ispat edecektir.
+
+Davalı … tanık deliline dayanmasına rağmen aşamada tanık bildirmeyeceğini beyan etmiştir.
+
+6100 sayılı HMK nın 187. maddesi “- (1) İspatın konusunu tarafların üzerinde anlaşamadıkları ve uyuşmazlığın çözümünde etkili olabilecek çekişmeli vakıalar oluşturur ve bu vakıaların ispatı için delil gösterilir.
+
+(2) Herkesçe bilinen vakıalarla, ikrar edilmiş vakıalar çekişmeli sayılmaz.” şeklinde düzenlenmiştir.
+
+Aynı yasanın 288. maddesi ise-” (1) Hâkim, uyuşmazlık konusu hakkında bizzat duyu organları yardımıyla bulunduğu yerde veya mahkemede inceleme yaparak bilgi sahibi olmak amacıyla keşif yapılmasına karar verebilir. Hâkim gerektiğinde bilirkişi yardımına başvurur.” şeklindedir.
+
+Somut olaya döndüğümüzde, taşınmaz üzerinde biri iki katlı … şubesi olarak , biri de tek katlı kahvehane olarak kullanılan iki ayrı yapı olduğu, bu yapıların kapı numaralarının dahi 43 ve 45 olarak ayrı ayrı verildiği, bu suretle her iki yapının birbirine bitişik olmakla birlikte ayrı ayrı kullanıldığı yapılan keşif, alınan bilirkişi raporu ve buna ekli resimlerle açıkça anlaşılmaktadır. Diğer yandan bu bilirkişi raporuna fiili kullanım açısından davacı tarafından bir itirazda bulunulmamıştır. Keşfi yapan hakim de aksi yönde bir kanaate ulaşmamış, raporun bu açıdan gözlemine uygun olduğunu gerekçeli kararıyla tasdik etmiştir.
+
+Yukarıda belirtilen usul kuralları ile dosya kapsamını birlikte değerlendirdiğimizde taşınmaz üzerindeki binaların ayrı kullanıldığının, bu kullanımın uzunca bir süredir devam ettiğinin, bu durumun davanın tarafları ve herkesçe bilindiğinin kabulü gerekmektedir. Herkesçe bilinen vakıanın çekişmeli sayılmasına imkan bulunmamaktadır. Çekişmeli olmayan, herkesin malumu olup keşfen belirlenen bir vakıanın ispatı için davalıdan delil gösterilmesini istemenin HMK nın 187. maddesine uygun düşmediği açıktır.
+
+Taşınmaz üzerinde hissedarlar fiili taksimde bulunduğuna göre taksim sonucu diğer hissedarlardan kiralama suretiyle taşınmaz kullanan … nin kullanımının haksız olduğunu söyleyebilme imkanı bulunmamaktadır.
+
+Anlatılan bu nedenlerle kararın gerekçelerinin dosya kapsamına, usul ve yasaya uygun olması nedeniyle onanması gerektiği düşüncesiyle bozma yönündeki sayın çoğunluğun görüşüne katılmıyorum.
+
+YARGITAY 20. HUKUK DAİRESİ 
+Esas : 2015/10188 Karar : 2017/2063Tarih : 9.03.2017
+
+HMK 187. Madde
+
+İspatın Konusu
+
+Davacı vekili 27.07.2009 tarihli dilekçe ile müvekkili adına kayıtlı …ilçesi, …mahallesinde bulunan 1254 parsel sayılı taşınmazın kıyıda kaldığı gerekçesiyle bedelsiz olarak hükmen tapusunun iptaline karar verildiğini, tapunun iptal edilmesi sebebiyle zararın oluştuğunu ileri sürerek fazlaya ilişkin haklarını saklı tutup şimdilik 10.000.-TL tazminatın dava tarihinden itibaren işleyecek yasal faiziyle birlikte Hazineden tahsiline karar verilmesi istemiyle dava açmıştır. Daha sonra 21.05.2012 tarihli ıslah dilekçesiyle 129.000.-TL tazminatın tapu iptali ve tescil davasının kesinleştiği tarihten itibaren işleyecek yasal faiziyle birlikte Hazineden alınarak müvekkiline verilmesi isteminde bulunmuştur.
+
+Davalı Hazine; davanın reddini savunmuştur.
+
+Mahkemece; davanın kabulüne 129.000.-TL tazminatın 19.12.2002 tarihinden itibaren işleyecek yasal faiziyle birlikte Hazineden alınarak davacıya verilmesine karar verilmiş, hüküm davalı Hazine vekili tarafından temyiz edilmesi üzerine Yargıtay 5. Hukuk Dairesinin 11.02.2013 tarih 2012/19252 E. - 2013/1678 K. sayılı ilamıyla bozulmuştur.
+
+Hükmüne uyulan bozma kararında özetle “…Dava konusu taşınmaz üzerinde bulunan yapılara değer biçilmesinin yöntem itibariyle doğru olduğu, ancak arsaya piyasa rayicinden söz edilerek değer biçilmesinin usulsüz olduğu, bu sebeple taraflara tapusu iptal edilen taşınmaza yakın bölgeden ve yakın zaman içinde satışı yapılan benzer yüzölçümlü satışları bildirmeleri için imkan tanınması, gerekirse re`sen emsal celbi yoluna gidilmesi, yeniden oluşturulacak bilirkişi kuruluyla yapılacak keşifte üzerindeki yapıların ve emsal karşılaştırması yöntemiyle arsanın dava tarihindeki değerlerinin tespit edilmesi, dava tarihinden itibaren de faize hükmedilmesi…” gerektiği belirtilmiştir.
+
+Bozma sonrasında davacı vekili 23.03.2015 tarihli ıslah dilekçesiyle toplam 368.591,90.-TL tazminatın dava tarihinden itibaren işleyecek yasal faiziyle birlikte Hazineden tahsiline karar verilmesini istemiştir.
+
+Mahkemece; davanın kabulüne, 368.591,90.-TL tazminatın dava tarihinden itibaren işleyecek yasal faiziyle birlikte Hazineden alınarak davacıya verilmesine karar verilmiş, hüküm davalı Hazine vekili tarafından temyiz edilmiştir.
+
+Dava, tapu kaydının mahkeme kararı ile iptal edilmesi nedeniyle uğranılan zararın, 4721 sayılı TMK`nın 1007. maddesi uyarınca tazmini istemine ilişkindir.
+
+Mahkemece verilen karar usûl ve kanuna aykırıdır. Şöyle ki; davacı vekili, bozma öncesinde dava dilekçesini ıslah ederek 129.000,00.-TL tazminat isteminde bulunmuştur. Daha sonra Yargıtay 5. Hukuk Dairesinin bozma kararından sonra yapılan bilirkişi incelemesi sonucu 23.03.2015 tarihli ikinci ıslah dilekçesiyle toplam 368.591,90.-TL tazminat istemiştir. Mahkemece bozma sonrası verilen ıslah dilekçesi esas alınarak yazılı şekilde hüküm kurulmuştur.
+
+Bilindiği üzere ıslah, taraflardan birinin usule ilişkin bir işlemini, bir defaya mahsus olmak üzere kısmen veya tamamen düzeltmesine olanak tanıyan ve karşı tarafın onayını gerektirmeyen bir yoldur. Hüküm tarihinde yürürlükte bulunan Hukuk Muhakemeleri Kanununun 176. ve devam eden maddelerinde ıslah kurumu ayrıntılı şekilde düzenlenmiştir. 176. maddede, davanın her iki tarafının da, yargılama usulüyle ilgili bir işlemini kısmen veya tamamen ıslah edebileceği, ancak aynı dava içerisinde bu yola sadece bir kez başvurulabileceği; 177. maddede, ıslahın tahkikatın sona ermesine kadar yapılabileceği belirtilmiştir. Sonraki hükümler, ıslahın şekline ve sonuçlarına ilişkin düzenlemeleri içermektedir. Hukuk Muhakemeleri Kanununun 147. ve izleyen maddeleri hükümlerine göre, tahkikat evresi, ön inceleme aşamasının tamamlanmasından sonra, tarafların duruşmaya çağırmasıyla başlar; tarafların veya vekillerinin duruşmada dinlenmelerinden sonra, gerektiğinde çekişmeli hususlar hakkında tarafların delillerinin toplanmasıyla ve bunların incelenmesiyle sona erer. Tahkikat evresinin ardından, sözlü yargılamanın da (Hukuk Muhakemeleri Kanunu md. 186 ve devamı) tamamlanmasından sonra, davanın hüküm verilecek derecede aydınlanmış olması halinde hüküm verilir ve tefhim edilir.
+
+Buna göre, tahkikat kavramı, layihalarla yeterince aydınlanmamış olan bir davada, tarafların duruşmaya çağrılmalarıyla başlayıp, çekişmeli yönlere ilişkin taraf delillerinin toplanmasıyla biten ve uygulamada, davaların tamamına yakın bölümünde gerçekleşen bir evreyi ifade etmektedir.
+
+Vurgulanmalıdır ki; tahkikat evresi, bozmanın içerik ve kapsamına göre, bazı hallerde bozmadan sonra da gerçekleşebilir. Ancak, 177. maddedeki “Islah, tahkikatın sona ermesine kadar yapılabilir” ifadesinden, Kanunun, tahkikat ve hüküm arasında düzenlediği sözlü yargılama evresinde ıslaha izin vermediği sonucu çıkarılabilmektedir. Islah, iyiniyetli tarafın, davayı açtıktan veya kendisine karşı bir dava açıldıktan sonra öğrendiği olgularla ilgili yanlışlıklarını düzeltmesine, eksiklikleri tamamlamasına, bu çerçevede yeni deliller sunabilmesine olanak sağlayan bir kurumdur.
+
+Ne var ki, taraflardan birine davanın herhangi bir aşamasında ıslah olanağı tanınması, davaların sonu alınamayacak şekilde uzamasına neden olmak gibi bir sakıncayı da içermektedir. Hukuk Muhakemeleri Kanununun 177. maddesinde, ıslahın yalnızca tahkikat bitinceye ve hüküm verilinceye kadar yapılabileceği öngörüldüğüne ve temyiz faslında da, bozmadan sonra dahi ıslahın olanaklı bulunduğuna dair açık veya örtülü bir hüküm yer almadığına göre, Kanunun bu olanağı bir devre ve zaman ile sınırlandırdığı kabul edilmelidir. Dolayısıyla, 177. maddenin soyut iznine bakılarak, bu istisnai yolun bozmadan sonraki aşamalara da yaygınlaştırılması, bozmaya uyulmasıyla kazanılan hakları ihlal edebileceği gibi, davanın tamamen ıslah edildiği hallerde, işin sonuçlandırılmasını da güçleştirir. O halde, ıslahla ilgili kuralların, yargılamanın sadeliği, basitliği ve çabukluğunu amaçlayan diğer usul hukuku ilkeleriyle bağdaşacak şekilde yorumlanması; bozmadan sonra ıslahın mümkün olmadığı sonucuna varılması zorunludur.
+
+04.02.1948 tarih ve 10/3 sayılı İçtihadı Birleştirme Kararı uyarınca da soruşturma ve yargılama bitinceye kadar bir defaya mahsus olmak üzere ıslah yapılabilir. Yargıtayca karar bozulduktan sonra bu yoldan yararlanmaya olanak yoktur. 6100 sayılı Hukuk Muhakemeleri Kanununun 177/1. maddesi ile mülga 1086 sayılı HUMK`nın 84. maddesi aynı doğrultuda olup ıslahın, tahkikatın sona ermesine kadar yapılabileceği hükümlerini içermektedir. Bozmadan sonra ıslahın olanaklı olduğuna dair açık ya da örtülü bir hüküm de yasada yer almamaktadır. Aynı davada bir kez ıslah yoluna başvurulabilir, ikinci ıslah dilekçesi verilemeyeceğinden koşullarının varlığı halinde ancak ek dava açılabilir.
+
+Mahkemece, yukarıda açıklanan yasal düzenlemeler karşısında aynı davada birden fazla ıslah dilekçesi verilemeyeceği, bozmadan sonra da ıslah yapılamayacağı halde bozma sonrasında verilen ikinci ıslah dilekçesine değer verilerek işin esası hakkında hüküm kurulmuş olması doğru değildir.
+Hal böyle olunca, bozma kararından sonra ileri sürülen ıslah isteğinin reddedilmesi ve bozma öncesi verilen ıslah dilekçesindeki istekle bağlı kalınarak hüküm kurulması gerekirken yazılı şekilde karar verilmesi bozma nedenidir.
+
+SONUÇ: Yukarıda açıklanan nedenlerle, davalı Hazine vekilinin temyiz itirazlarının kabulüyle hükmün BOZULMASINA 09/03/2017 günü oy birliğiyle karar verildi.
+
+YARGITAY 2. HUKUK DAİRESİ 
+Esas : 2015/22771 Karar : 2017/2193Tarih : 2.03.2017
+
+- HMK 187. Madde
+
+1-6100 sayılı Hukuk Muhakemeleri Kanununa 31/03/2011 tarihli 6217 sayılı Kanunla ilave edilen geçici 3.maddenin (1.) fıkrasında “Bölge Adliye Mahkemelerinin Resmi Gazete`de ilan edilecek göreve başlama tarihine kadar 1086 sayılı Kanunun temyize ilişkin yürürlükteki hükümlerinin”, aynı maddenin (2.) fıkrasında da, “Bölge Adliye Mahkemelerinin göreve başlama tarihinden önce aleyhine temyiz yoluna başvurulmuş olan kararlar hakkında kesinleşinceye kadar 1086 sayılı Kanunun 427 ile 454. madde hükümlerinin uygulanmasına devam olunacağı” öngörüldüğünden, temyiz isteğinin süresinde olup olmadığı 1086 sayılı Kanunun temyize ilişkin hükümlerine göre belirlenmiştir.
+
+6100 sayılı Hukuk Muhakemeleri Kanununun, 07/07/2013 tarihli Resmi Gazete’de yayınlanarak aynı gün yürürlüğe giren 6494 sayılı Kanunla değişik 102`nci maddesi gereğince; adli tatil, her yıl yirmi Temmuzda başlar, otuzbir Ağustosta sona erer.
+
+Adli tatile tabi olan dava ve işlerde, bu Kanunun tayin ettiği sürelerin bitmesi tatil zamanına rastlarsa, bu süreler ayrıca bir karara gerek olmaksızın adli tatilin bittiği günden itibaren bir hafta uzatılmış sayılır. (HMK m.104)
+
+Temyiz edilen karar temyiz eden tarafa 10/08/2015 günü tebliğ edilmiş, onbeş günlük yasal temyiz süresi adli tatil içinde sona ermiş ve fakat söz konusu karar yasada öngörülen adli tatil bitiminden itibaren bir haftalık süre geçtikten sonra 08/09/2015 tarihinde temyiz edilmiştir.
+
+Kuşkusuz Hukuk Usulü Muhakemeleri Kanununun 2794 sayılı Kanunla değiştirilen 432. maddesine göre, temyiz kanuni süre geçtikten sonra yapılır ise, temyiz isteminin reddine karar verme yetkisi hükmü veren mahkemeye aittir. Ne var ki, aile mahkemelerince verilen kararların yasal süre geçtikten sonra temyiz edilmesi veya temyiz kabiliyetinin bulunmaması halinde dosyanın yerel mahkemece temyiz isteminin reddine karar verilmeden, Yargıtay’a gönderilmesi durumunda, Hukuk Usulü Muhakemeleri Kanununun 2494 sayılı Kanun ile değişik 432/4. maddesine göre, bu konuda bir karar verilmek üzere, dosya mahalline geri çevrilmeden doğrudan doğruya Yargıtay’ca da temyiz isteminin reddine karar verilebileceği Yargıtay İçtihadı Birleştirme Genel Kurulu`nca (01/06/1990 gün ve sayı ile) karara bağlanmıştır.
+
+Bu durumda gösterilen sebeple davacı kadının temyiz isteminin reddi gerekmiştir.
+
+2-Davalı erkeğin temyiz itirazlarının incelenmesine gelince;
+
+Dava dilekçesinde davacının iddiasının dayanağı olan bütün vakıaların sıra numarası altında açık özetlerinin gösterilmesi gereklidir. (HMK m.119/1) İspatın konusunu tarafların üzerinde anlaşamadıkları ve uyuşmazlığın çözümünde etkili olabilecek çekişmeli vakıaları oluşturur ve bu vakıların ispatı için delil gösterilir (HMK m.187/1).
+
+Kanunda öngörülen istisnalar dışında, hakim iki taraftan birinin söylemediği şeyi veya vakıları kendiliğinden dikkate alamaz ve onları hatırlatabilecek davranışlarda dahi bulunamaz (HMK m.25).
+
+Taraflar, cevaba cevap ve ikinci cevap dilekçeleri ile serbestçe; ön inceleme aşamasında ise ancak karşı tarafın açık muvafakati ile iddia veya savunmalarını genişletebilir yahut değiştirebilirler.
+
+Ön inceleme duruşmasına taraflardan biri mazeretsiz olarak gelmezse, gelen taraf onun muvafakati aranmaksızın iddia veya savunmasını genişletebilir yahut değiştirebilir.
+
+Ön inceleme aşamasının tamamlanmasından sonra iddia veya savunma genişletilemez yahut değiştirilemez (HMK m.141/1).
+
+Davacı kadın, dava dilekçesinde vakıa bildirmemiştir. Cevap dilekçesinin tebliğinden sonra da davacı kadın cevaba cevap dilekçesi vermemiştir. Mahkemece, usulüne uygun şekilde ileri sürülmeyen ve dayanılmayan bu vakılar esas alınarak davalı erkeğe kusur yüklenemez. Açıklanan sebeplerle davacı kadının davasının reddine karar verilmesi gerekirken, kabulüne karar verilmesi doğru olmayıp, bozmayı gerektirmiştir.
+
+SONUÇ: Temyiz edilen hükmün yukarıda (2.) bentte gösterilen sebeple BOZULMASINA, davacı kadının temyiz dilekçesinin ise yukarıda (1.) bentte gösterilen sebeple REDDİNE,   işbu kararın tebliğinden itibaren 15 gün içinde karar düzeltme yolu açık olmak üzere oybirliğiyle karar verildi.
+
+YARGITAY 11. HUKUK DAİRESİ
+Esas: 2013/9984 Karar: 2014/1248Tarih: 21.01.2014
+
+HMK 187. Madde
+
+İspatın Konusu
+
+Davacı vekili, davalı F. A.’ün Türkiye ve Almanya’da bir çok şirket kurduğunu, özellikle Almanya’da kurduğu şirketler vasıtasıyla talep edildiği an geri ödeneceği ve karşılığında yüksek faiz verileceği garantileriyle bu ülkede çalışan kişilerden para topladığını, müvekkilinden de aynı şekilde para tahsil edildiğini, karşılığında Jetpa İnternational Marketing and Trading GMBH ibareli tahsilat makbuzu verdiğini, daha sonra yatırım yaptığı miktarla sözleşmenin kararlaştırılan sürede feshini bildirir Jetpa İnternational Marketing and Trading AG Ortaklık Sözleşmesi ibareli bir belge daha sunduğunu, talep edilmesine rağmen parasının iade edilmediğini, davalı gerçek kişinin SPK mevzuatına aykırı davranışları nedeniyle mahkum edildiğini, ayrıca yurt dışında kurduğu şirketler vasıtasıyla paralar topladığı ve bu paraları davalı şirkete aktardığı fiillerini kapsar şekilde hakkında dolandırıcılık nedeniyle ceza davası açıldığını, Jetpa GMBH Jetpa AG’nin iflas ederek Almanya’daki ticaret sicilinden kayıtlarının silindiğinin ortaya çıktığını, müvekkilinin bu şirketlere başvurma şansının olmadığını, davalı gerçek kişi tarafından içlerinin boşaltılarak diğer davalı şirkete aktarıldığını, müvekkilinin iradesinin sakatlandığını, davalıların fiillerinin TTK, SPK, ve Bankalar Kanunu’na aykırı bulunduğunu ileri sürerek, kurulan ilişkinin hükümsüzlüğüne ve 55.000 DM karşılığı 60.412,45 TL’nin tahsiline karar verilmesini talep ve dava etmiştir.
+
+Davalılar vekili, müvekkillerine husumet düşmeyeceğini, davacının parasını dava dışı Jetpa AG’ye yatırdığını, ayrı tüzel kişiliğinin bulunduğunu, anılan şirkete kâr ve zarar ortaklığını bilerek para yatırdığını, müvekkillerinin bir sorumluluğunun olmadığını savunarak, davanın reddini istemiştir.
+
+Mahkemece, davanın reddine dair verilen karar Dairemizin 29.03.2012 tarih, 2010/5592 E. 2012/4966 K. sayılı ilamıyla bozulmuş, bozma ilamına uyularak yapılan yargılama sonunda, davalı Holding’in sermaye artırımında kullanılmak suretiyle nakit olarak verilen ve banka aracılığıyla transfer edilmek suretiyle gelen paraların sessiz ortaklardan sağlanan paralar olup, organizasyon çatısının Jetpa Holding A.Ş. olduğu, yabancı şirketlerin bankadaki hesaplarına transfer yapılarak sessiz ortaklara geri dönüşün engellenmesi amacıyla Holding iştiraki olmayan şirketlere kaynak sağlandığı, şirketlerin kurulum amacının vatandaşların parasını elde etmek olduğu, F. A.’ün bu eylemlerinden gerek haksız fiil gerekse organizasyon çatısı olarak ifade edilen Holding’in başkanı olarak sorumlu olduğu, dava dışı yurt dışındaki şirketle organik ve hukuki bir bağın bulunduğu, tüzel kişilik perdesinin aralanması teorisi uyarınca paranın yatırıldığı şirketle davalı Holding’in tek bir şirket olarak değerlendirilmesi gerektiği, F. A.’ün de zarardan sorumlu olduğu gerekçesiyle davanın kabulüne, davacının ödemiş olduğu 55.000 DM’nin, dava tarihi itibariyle karşılığı olan 60.412,45 TL’nin dava tarihinden itibaren işleyecek yasal faiziyle birlikte davalılardan müteselsilen tahsiline karar verilmiştir.
+
+Kararı, davalılar vekili temyiz etmiştir.
+
+Dosyadaki yazılara, mahkemece uyulan bozma kararı gereğince hüküm verilmiş olmasına, delillerin takdirinde bir isabetsizlik bulunmamasına, dosya kapsamında 07.01.2013 tarihli bilirkişi raporunun alınmış olmasına ve davalıların zaman aşımına yönelik savunmalarının Medeni Kanun’un hükümleriyle bağdaşmayacak olmasına göre, davalılar vekilinin tüm temyiz itirazları yerinde değildir. Zira;
+
+Davacı taraf yurt dışında kurulu bulunan Jetpa AG’ye para yatırdığını ve bu paraların Türkiye’de davalılara aktarıldığını ve davalılar tarafından kullanıldığını, yurt dışında kurulu şirketin tek ortağı ve yöneticisinin F. A. olduğunu, davalı şirketin hakim ortağının da anılan davalı olduğunu ileri sürmüş bulunduğundan davalı tarafın zamanaşımı definin haksız fiil hükümleri uyarınca değerlendirilmesi gerekir. Ancak, davada gerçekten de zamanaşımı sürelerinin gerçekleşip gerçekleşmediğinin incelenmesinden önce, davacı tarafın iddialarının ileri sürülüş şekli bakımından üzerinde durulması gereken öncelikli husus, davada zamanaşımı definin ileri sürülmesinin dürüstlük kurallarına aykırı olup olmadığı hususudur. Her ne kadar bir borçlunun borcunun zamanaşımına uğradığını ileri sürmesi, bu yolla borcunu ödemekten kaçınması tüm çağdaş hukuk sistemlerinde olduğu gibi Türk hukuku bakımından da kanunen kendisine tanınan bir hak ve zamanaşımı definin ileri sürülmesi tek başına borçlunun dürüstlüğe aykırı bir davranışı olarak kabul edilemez ise de bazı hallerde zamanaşımı definin ileri sürülmesi dürüstlükle bağdaşmayabilir. (K.Oğuzman, T.Öz, Borçlar Hukuku Genel Hükümler s. 482) Zamanaşımı definin ileri sürülmesinin hangi hallerde dürüstlük kuralına aykırı bulunduğu hususunda normatif bir düzenleme bulunmadığından bu hususun varid olup olmadığının her somut uyuşmazlığın özellikleri nazara alınarak değerlendirilmesi gerekir.
+
+Bilimsel ve yargısal içtihatlarda davacının dava açmaması için oyalanması durumu dürüstlük kuralına aykırılık olarak kabul edilmektedir (age, s. 482 vd.). Somut uyuşmazlıkta taraflar arasında çekişmesiz olduğu üzere yurt dışında çalışan davacıdan JETPA ibarelerinin büyük puntolarla International marketing and trading AG ibarelerinin küçük harflerle yazıldığı Ortaklık Sözleşmesi başlıklı belge karşılığında para tahsil edilmiş olup, dosya içerisinde bulunan belgenin içeriğinden ise firmanın yani yurt dışında kurulu firmanın otomotiv, inşaat, tekstil, turizm, medya, ilaç ve hizmet sektörlerinde faaliyet gösteren yabancı bir holdingin ortağı olduğu (ki bahsi geçen Holdingin davalı Holding olduğu da çekişmesizdir), yatırılan tutarın yabancı holdingdeki ortaklıktan kaynaklanan yükümlülüğe karşı kullanılacağı, yatırımcının kâr ve zarara ortak olacağı, sessiz ortağın 36 aylık fesh-i ihbar müddetine riayet etmek suretiyle akdi feshedebileceği ve payına düşen meblağın yabancı holdingden isteneceği ve taraflarına ulaştığında davacı ortağa ödeneceği, kâr payı paylaşımında ortağın hissesinin %80 olacağının taahhüt edildiği anlaşılmaktadır. Yine davada çekişmesiz olduğu üzere yurt dışında kurulu şirketin tek ortağı ve yöneticisi davalılardan F. A. olup, dava tarihi itibariyle anılan şirketin herhangi bir malvarlığı ve ödeme gücü mevcut değildir. Yine davalı tarafın kabulünde olduğu ve ortaklık sözleşmesinde yazılı olduğu üzere toplanan paralar da Türkiye’ye gönderilmiş bulunmaktadır. Davadaki zamanaşımı definin ileri sürülmesinin dürüstlük kuralına aykırı bulunup bulunmadığının değerlendirilmesinde bu olguların göz önünde bulundurulması gerekeceği tabiidir. Bu noktada nazara alınması gereken bir başka husus da (HUMK’nın 235 ve HMK’nın 187/2’inci maddesi uyarınca herkesçe bilinmesi nedeniyle çekişmesiz olan) davalılardan F. A.’ün diğer davalı Holding vasıtasıyla Türkiye’de çok büyük yatırımlar yapacağı yönünde reklamlar yapması yatırımcılarına önemli ölçüde kâr vereceği taahhüdünde bulunması hususudur. Davacı taraf da davada bu nedenle yurt dışındaki şirkete para verdiği iddiasındadır. Yukarıda yapılan özetten de anlaşılacağı üzere davalı taraf davada bir yandan davacının organik bağ içinde olduğu ve davalı F. A.’ün yöneticisi ve tek ortağı bulunduğu şirketin ortağı olduğunu ve hakkın o şirkete karşı kullanılması gerektiğini savunurken, diğer yandan; imzaladığı sözleşmeyle 36 aylık sürede bir hak ileri sürmesinin mümkün bulunmadığına inandırılıp, güven telkin edilen ve yurt dışında yatırdığı parasını alamayacağının anlaşılması üzerine işbu davayı açtığı ileri sürülen davacıya karşı paranın yatırılış tarihine göre zamanaşımı süresinin dolduğunu belirterek zamanaşımı definin ileri sürülmesinin dürüstlük kuralıyla bağdaşır bir tutum olmadığının kabulü gerektiğinden davalılar vekilinin tüm temyiz itirazlarının reddine karar vermek gerekmiştir.
+
+Sonuç: Yukarıda açıklanan nedenlerle davalılar vekilinin tüm temyiz itirazlarının reddiyle usul ve yasaya uygun bulunan hükmün ONANMASINA, aşağıda yazılı bakiye 3.094,45 TL temyiz ilam harcının temyiz eden davalılardan alınmasına, 21.01.2014 tarihinde oybirliği ile karar verildi.
+
+YARGITAY HUKUK GENEL KURULU
+Esas: 2013/10-1962 Karar: 2015/1172Tarih: 08.04.2015
+
+HMK 187. Madde
+
+İspatın Konusu
+
+Taraflar arasındaki “hizmet tespiti” davasından dolayı yapılan yargılama sonunda; Mengen Asliye Hukuk (İş) Mahkemesince davanın reddine dair verilen 11.3.2010 gün ve 2008/24 E.-2010/35 K sayılı kararın incelenmesi davacı vekili tarafından istenilmesi üzerine, Yargıtay 10. Hukuk Dairesi’nin 19.12.2011 gün ve 2010/10030 E.-20121/18559 K. Sayılı ilamı ile;
+
+(… Husumet konusu, 6100 Sayılı Hukuk Usulü Muhakemeleri Kanununun 187. maddesinde yer alan ilk itirazdan olmadığından davanın her aşamasında ileri sürülebilir. Taraflarca ileri sürülmese dahi gerek mahkemece, gerekse Yargıtay’ca tarafların bu yönde bir savunmasının olup olmadığına bakılmaksızın kendiliğinden göz önünde tutulur. Eldeki gibi sigortalı hizmetlerin saptanmasına yönelik davalarda elde edilecek hükmün sigortalılık hakları yönünden uygulayıcısı konumundaki davalı Kurum tarafından yerine getirilebilmesi için, her ne kadar hukukumuzda buna dair bir hüküm bulunmamakta ise de; Kurumun işverenle birlikte zorunlu dava arkadaşı ve yasal hasım konumunda olduğu doktrin ve Yargıtay tarafından kabul edilmiş bir ilkedir. Hal böyle olunca; her ne kadar usul hukukunda açılan bir davanın devamı sırasında 3. bir kişiye dahili dava yoluyla husumetin yöneltilmesi kural olarak mümkün değilse de; yargılama aşamasında, davacının harcını ödemek suretiyle; davalılar SGK Başkanlığı ve F… Muhasebe Bürosu- F. Ö.’e yönelik hizmet tespiti istemi, bu davalılar hakkında ayrıca dava açılmış ve bu davayla birleştirilmiş ayrı bir dava gibi kabul edilir. Usul ekonomisi açısından Dairemizin yerleşmiş görüşleri de bu doğrultudadır. Hal böyle olunca; istem hakkında işin esasına girilerek sonucuna göre hüküm kurulması gerekirken yazılı şekilde karar verilmiş olması, usul ve yasaya aykırı olup, bozma nedenidir.
+
+Kabule göre de: aralarında zorunlu dava arkadaşlığı bulunan davalılar yararına tek vekalet ücretine hükmedilmesi gerekirken, yazılı şekilde her bir davalı için ayrı ayrı vekalet ücreti taktiri isabetsizdir.
+
+Mahkemenin, yukarda açıklanan esaslar doğrultusunda araştırma yaparak elde edilecek sonuca göre karar vermesi gerekirken, eksik inceleme ve yanılgılı değerlendirme sonucu yazılı şekilde hüküm kurması, usul ve yasaya aykırı olup, bozma nedenidir. O halde, davacı vekilinin temyiz itirazları kabul edilmeli ve hüküm bozulmalıdır…),
+
+Gerekçesiyle bozularak dosya yerine geri çevrilmekle, yeniden yapılan yargılama sonunda, mahkemece önceki kararda direnilmiştir.
+
+H.G.K.nca incelenerek direnme kararının süresinde temyiz edildiği anlaşıldıktan ve dosyadaki kağıtlar okunduktan sonra gereği görüşüldü:
+
+Karar: Dava, davacının davalı işverene ait iş yerinde 28.7.2003-4.8.2005 tarihleri arasında çalıştığının tespiti istemine ilişkindir.
+
+Davacı, davalı Ö… Sigorta ve Aracılık Hizmetleri unvanlı işyerinde 28.7.2003 ile 4.8.2005 tarihleri arasında çalıştığını, işe girdiği ilk günden itibaren çeşitli bahanelerle sigortasının yapılmadığını, yoğun ısrarı üzerine işiyle alakası olmayan F… Muhasebe Bürosundan sigortalı gösterildiğini belirterek, Ö… Sigorta ve Aracılık Hizmetleri iş yerinde 28.7.2003-4.8.2005 tarihleri arasında çalışmalarının tespiti ve sigortalılık başlangıç tarihinin 28.7.2003 tarihi olduğunun tespitini talep ve dava etmiştir.
+
+Davalı G. Ö. ve dahili davalı F. Ö. vekili; Yargıtay’ın yerleşmiş içtihatlarının her ne şekilde olursa olsun davada tarafların değiştirilemeyeceği ve dahili dava kurumu olmadığı yönünde olduğunu belirterek davanın reddine karar verilmesini istemiştir.
+
+Dahili davalı SGK vekili: davacının işveren dahili davalı F. Ö. adına tescilli iş yerinde 24.12.2004 ila 3.8.2005 devresinde 221 gün, davalı G. Ö. adına işlem gören Axa Oyak Sigorta acentesindeki işyerinde ise 4.8.2005 ile 30.11.2009 günleri arasında 481 gün sigortalı gösterildiğini, sigortalı işe giriş bildirgelerinin bizzat davacı tarafından imzalandığının çıplak gözle dahi anlaşıldığını, kesin kanıt niteliğinde olan ve yazılı olan belgelere karşı yazılı belgeyle aksinin ispatının mümkün olmadığını, belirterek davanın reddini savunmuştur.
+
+Yerel mahkemece; usul hukukumuzda davaya yeni davalı dahil edilmesinin sınırlı hallerde mümkün olduğu, davacı hizmetini ilk önce Ö… Sigorta ve Aracılık Hizmetlerine yönelik olarak talep etmesine rağmen tespiti gereken zaman aralığında dahili davalı F. Muhasebe bürosunda çalıştığını beyan ettiğini, hem dahili davalı F. Muhasebe bürosu hem de dahili davalı Sosyal Güvenlik Kurumu bakımından açılan davanın usulden reddi, davalı Ö… Sigorta ve Aracılık Hizmetleri bakımından ise davacının tespit talebinin kendisine yönelik olmadığı gerekçesiyle davanın reddine karar verilmiştir.
+
+Davacı vekilinin temyizi üzerine, Özel Dairece, yukarda açıklanan sebeplerle karar bozulmuştur. yerel mahkemece ilk karardaki gerekçeler tekrar edilerek önceki kararda direnilmiştir. Direnme hükmü, davacı vekili tarafından temyiz edilmiştir.
+
+H.G.K.nun önüne gelen uyuşmazlık; tamamlama harcı yatırılarak davaya dahil edilen Sosyal Güvenlik Kurumu ve F. Ö. hakkında usulüne uygun açılmış bir dava bulunup bulunmadığı noktasında toplanmaktadır.
+
+Öncelikle belirtilmelidir ki bir davanın birden fazla kişi tarafından veya birden fazla kişi aleyhine açılabilmesi için aynı tarafta yer alanlar arasında hukuksal bir bağlantının bulunması gerekir. Hukukumuzda bu bağlantı karşılığını dava arkadaşlığı kurumunda bulmakta; zorunlu ve ihtiyari dava arkadaşlığı olmak üzere iki ana başlık altında; zorunlu dava arkadaşlığı da yine kendi içinde maddi ve şekli olmak üzere ikili ayrımla düzenlenmektedir.
+
+Dava konusu olan hak, birden fazla kişi arasında ortak olup da bu hukuki ilişki hakkında mahkemece bütün ilgililer için aynı şekilde ve tek bir karar verilmesi gereken hallerde dava arkadaşlığının maddi bakımdan mecburi olduğunun kabulü gerekir. Diğer bir ifadeyle, bir hakkın birden fazla kişi tarafından birlikte veya birden fazla kişiye karşı kullanılmasının, zorunlu olduğu hallerde, bu hak davaya konu edildiği zaman o hakla ilgili birden fazla kişi zorunlu dava arkadaşı durumundadır. Dava arkadaşlığının hangi hallerde mecburi olduğu maddi hukuka göre belirlenir. Zorunlu dava arkadaşlığında: dava arkadaşları arasındaki ilişki çok sıkı olduğundan, davada birlikte hareket etmek durumundadırlar. Mahkeme ise. dava sonunda zorunlu dava arkadaşlarının hepsi hakkında aynı ve tek bir karar verecektir. Zorunlu dava arkadaşlığında davaya konu olan hak tektir ve dava arkadaşı sayısı kadar müddeabih bulunmamaktadır.
+
+Bazı hallerde ise, birden fazla kişiye karşı birlikte dava açılmasında maddi bir zorunluluk olmadığı halde, kanun; gerçeğin daha iyi ortaya çıkmasını, taraflar arasındaki hukuki ilişkinin doğru sonuca bağlanmasını sağlamak için, birden fazla kişiye karşı dava açılmasını usulen zorunlu kılmıştır ki. bu durumda şekli bakımdan mecburi dava arkadaşlığı söz konusudur. Böyle bir davada, dava arkadaşları hakkında tek bir karar verilmesi veya dava arkadaşlarının hep birlikte ve aynı şekilde hareket etme zorunluluğunun varlığından söz edilemez.
+
+Açıklanan bu mecburi dava arkadaşlığı halleri dışında ise dava arkadaşlığı ihtiyaridir. 6100 Sayılı Hukuk Muhakemeleri Kanunu (H.M.K.’nun “Mecburi Dava Arkadaşlığı” başlıklı 59. maddesine göre; “(1) Maddi hukuka göre, bir hakkın birden fazla kimse tarafından birlikte kullanılması veya birden fazla kimseye karşı birlikte ileri sürülmesi ve tamamı hakkında tek hüküm verilmesi gereken hallerde, mecburi dava arkadaşlığı vardır.”
+
+hükmü bulunmaktadır.
+
+Şu durumda; maddede açıkça sayılan, davaya konu hak ve borcun ortak olması, birden fazla kişinin ortak bir işlem (örneğin sözleşme) ile borç altına girmiş olması, davanın birden fazla kişi hakkında aynı (veya benzer) sebepten doğmuş olması, hallerinde birden çok kimsenin birlikte dava açması olanaklı olduğu gibi, birlikte aleyhlerine de dava açılabilir.
+
+Tüm bu açıklamalar ışığında somut olay değerlendirildiğinde, davacının fiilen çalışmadığı halde çalışmış gibi gösterilerek gerçeğe aykırı yapılan bildirimlerin iptali edilerek çalışmaların fiilen yapıldığını iddia ettiği Ö… Sigortacılık ve Aracılık Hizmetleri iş yerinde geçtiğinin tespiti istemine dair dava sonucunda verilecek kararın, davaya dahil edilmesi istenilen Sosyal Güvenlik Kurumu ve F. Ö.’in hak alanını ilgilendirdiği kuşkudan uzaktır. Bu sebeple dava, davalı Sosyal Güvenlik Kurumu Başkanlığıyla birlikte, F. Ö.’e de yöneltilmelidir. Sosyal Güvenlik Hukukunun özelliğinden kaynaklanan ve davanın F. Ö. ile SGK’ya birlikte yöneltilmesini zorunlu kılan bu gereklilik karşısında, davalı G. Ö. ile davaya dahil edilmesi istenilen Sosyal Güvenlik Kurumu ve F. Ö. arasında zorunlu dava arkadaşlığı bulunduğunun kabulü gerekir.
+
+Yargıtay H.G.K.nun 4.7.2012 gün ve 2012/10-296 E. 2012/438 K. sayılı kararında da aynı ilkeler benimsenmiştir.
+
+Bir davanın, aralarında zorunlu dava arkadaşlığı bulunanların tümü hakkında açılmadığı durumlarda, dava dışında kalan diğer zorunlu dava arkadaşlarının davaya dahil edilmesi usul hukuku bakımından, zorunludur.
+
+Sonuç itibariyle: yerel mahkemece işin esasına girilerek bir sonuca varılmak gerekirken; aksine düşünceyle F… Muhasebe bürosu ve Sosyal Güvenlik Kurumu bakımından açılan davanın usulden reddine dair önceki kararda direnilmesi usul ve yasaya aykırıdır. Bu sebeple direnme kararı bozulmalıdır.
+
+Sonuç: Davacı vekilinin temyiz itirazlarının kabulü ile, direnme kararının Özel Daire bozma kararında gösterilen nedenlerden dolayı BOZULMASINA, istenmesi halinde temyiz peşin harcının yatırana iadesine, 08.04.2015 tarihinde oybirliği ile, karar verildi.
+
+UYARI

@@ -1,0 +1,195 @@
+Geniş Bağlantı Sebebiyle Birleştirme
+
+CMK Madde 11
+
+CMK 11 (Geniş Bağlantı Sebebiyle Birleştirme)  Emsal Yargıtay Kararları
+
+(1) Mahkeme, bakmakta olduğu birden çok dava arasında bağlantı görürse, bu bağlantı 8 inci maddede gösterilen türden olmasa bile, birlikte bakmak ve hükme bağlamak üzere bu davaların birleştirilmesine karar verebilir.
+
+## CMK Madde 11 Gerekçesi
+
+Madde, 8 inci maddenin ikinci fıkrasında yer alan hâlleri de kapsamak üzere, bağlantı kavramını genişletmiştir.
+
+Ceza Genel Kurulu         2022/79 E.  ,  2022/578 K.*
+
+Kural, her bir davanın açıldığı aşamadaki konusuyla sürmesi ve muhakeme sonucu o uyuşmazlık konusunda hüküm verilmesidir. Ancak dava konuları arasında birbirlerine bağlantı kurabilecekleri noktaların varlığı hâlinde aynı muhakemede birleştirilmeleri de söz konusu olabilmektedir. Bağlantılı davalar konusunda CMK’nın “Bağlantılı Davalar” başlıklı üçüncü bölümü dikkat çekicidir. “Bağlantı kavramı” başlıklı 8. maddeye göre, bir kişinin birden fazla suçtan sanık olması (subjektif bağlantı) bir suçta her ne sıfatla olursa olsun birden fazla sanık bulunması (objektif bağlantı) hâlinde davalar arasında bağlantı var sayılmaktadır.
+
+Bağlantının varlığı hâlinde davaların birleştirilebileceği ve birleştirilmiş davaların ayrılmaları CMK’nın 9, 10 ve 11. maddelerinde düzenlenmiştir. “Geniş bağlantı sebebiyle birleştirme” başlıklı CMK’nın 11. maddesinde aynı mahkemenin, bakmakta olduğu birden çok dava esnasında bağlantı görmesi hâlinde - bu bağlantı 8. maddede gösterilen türden olmasa bile - birlikte bakmak ve hükme bağlamak üzere birleştirilmesine karar verilebileceği hüküm altına alınmışken, kovuşturma aşamasında farklı mahkemelerin davalarının birleştirilmesi “Görülmekte olan davaların birleştirilmesi ve ayrılması” başlığını taşıyan CMK’nın 10. maddesinde düzenlenmiştir.
+
+Birleştirme yapabilmenin temel amacının usul ekonomisinde aranması gerekir. Bu da zaman ve esas açısından birleştirmede fayda bulunması hâlinde gündeme gelebilir. Yargılamanın birleştirilmesi fayda düşüncesine dayandığından, fayda varsa birleştirilmeli fayda yoksa birleştirilmemelidir. Birleştirmede fayda olup olmadığı olayların özelliğine göre hâkim tarafından belirlenir.
+
+Yargıtay Ceza Genel Kurulunun uygulana gelen kararlarından ayrıntıları ile açıklandığı üzere, davaların birlikte görülebilmesi için aralarında şahsi veya fiili irtibat bulunması gerekmekte olup, davalar arasında böyle bir irtibat yoksa amaç ne olursa olsun yargılama yasasının buyurucu hükümleri gözardı edilerek birlikte görülüp sonuçlandırılmamalıdır. Davanın takdire bağlı olarak birleştirilmesi sanık hakkında yürütülen yargılamanın gereksiz yere uzamasına yol açacak ise birlikte yargılanma gerekli değildir (CGK’nın 15.04.2003 tarihli ve 108-120 sayılı, 02.12.1992 tarihli ve 142-167 sayılı, 11.07.2014 tarihli ve 52-354 sayılı kararları.).
+
+Makul sürede yargılanma hakkının amacı; tarafların uzun süren yargılama faaliyeti nedeniyle maruz kalacakları maddi ve manevi baskı ile sıkıntılardan korunması, adaletin gerektiği şekilde temini ve hukuka olan inancın muhafazası olup hukuki uyuşmazlığın çözümünde bu hususa gerekli özen gösterilmelidir (An. Mah. B.No: 2012/673, 19.12.2013 SS 27), (An. Mah. B. No: 2012/ 1198, 07.11.2013 SS 39) (AİHM Weber/ İsviçre, B. No: 11034/84 22.05.1990.).
+
+Hukuk yargılamasından farklı olarak taraflarca hazırlama ilkesinin egemen olmadığı ceza muhakemesinde, yargılama makamlarının davayı gerekli hızla bakıp yürütme yükümlülüğünün bulunduğu, verilen birleştirme kararlarının; hak ve adaletin tesisi için gerekli olduğu düşünülse dahi, bu tür kararların sanık sayısı, olayın karmaşıklığı, sanıklar ve eylemleri arasındaki bağlantı ve iştirak ilişkisinin birleştirmeyi zorunlu kılıp kılmadığı, birleştirmede yasal zorunluluk olup olmadığı, yargılamayı uzatıp uzatmayacağı gibi hususlar nazara alınarak verilmesi gerektiği, eğer davaların birleştirilmesi sanıkların makul sürede yargılanma haklarını ihlal edecekse bu yönteme başvurulmaması gerektiği izahtan varestedir
+
+…
+
+Bir temyiz mahkemesi olan Yargıtayın ilk derece yargılamasına ilişkin görevinin oldukça sınırlı ve istisnai bir durum olup kanunda belirtilen şahısların görevden doğan veya görev sırasında işledikleri suçlar nedeniyle yargılanabilecekleri, bu kuralın bir istisnasının söz konusu kişilerin işledikleri suçlara “iştirak” eden (hâkim veya savcı olmayan ya da birinci sınıfa ayrılmamış hâkim ve savcılar) diğer kişilerin de Yargıtayın ilgili dairesinde yargılanacağının düzenlenmesi göz önüne alındığında; … 30. Ağır Ceza Mahkemesinin dosyasında sanık olan …’in Yargıtay tetkik hâkimi olduğu dönemde …‘a Yargıtayda bulunan dosyalar hakkında bilgi verdiği ve bunlar kapsamında Yargıtay 6. Ceza Dairesinin 2014/11917 esas numaralı dava dosyasında da hukuki görüşünü bildirdiğinden bahisle görevi kötüye kullanma ve nüfuz ticareti suçlarından cezalandırılması isteğiyle kamu davası açılmış ve söz konusu dosyayla ilgili hukuki yardımda bulunulduğu belirtilen …’ın Yargıtay 5. Ceza Dairesinin 2020/3 esas numaralı dosyasında rüşvet ve nüfuz ticareti suçlarından yargılanıp sanık …’a atılı eylemler kapsamında … Cumhuriyet savcısı olan sanık Lütfi Karabacak ile aralarında gerçekleştirdikleri görüşmede Yargıtay 6. Ceza Dairesinin 2014/11917 esas numaralı dosyasında sanık Lütfi Karabacak’ın …‘dan, … Kıvrak isimli şahsın ceza almaması için yardım talep ettiği iddiası yer almakla birlikte bu iddianın, sanıklara atılı görev suçları arasındaki bağlantı ve iştirak ilişkisinin Hâkimler ve Savcılar Kanunu’nun 86. maddesi anlamında birleştirmeyi zorunlu kılacak boyutta olmaması, yargılamaya konu olay ve fiillerin farklılık arz etmesi, Yargıtay 5. Ceza Dairesinde görülmekte olan davada gerek yargılanan sanık sayısı, gerek yargılamaya konu edilen eylemlerin karmaşıklığı ve kapsamı ile sanık …’ atılı nüfuz ticareti suçundan … 30. Ağır Ceza Mahkemesinde görülmekte olan davanın geldiği aşama, davaların ayrı ayrı görülmesinin makul sürede yargılanma hakkına sağlayacağı yarar, birleştirilerek görülmesi hâlinde ise bu hakkın ihlaline neden olabilecek düzeydeki zarar ihtimali dikkate alındığında ve açıklanan sebeplerle; Yargıtay 5. Ceza Dairesinin davaların ayrı ayrı görülmesine ilişkin kararının usul ve yasaya uygun olduğu kabul edilmelidir.Bu itibarla, … 30. Ağır Ceza Mahkemesinin 01.12.2021 tarihli ve 345-503 sayılı birleştirme kararının kaldırılmasına karar verilmelidir.SONUÇ :Açıklanan nedenlerle,1- … 30. Ağır Ceza Mahkemesinin 01.12.2021 tarihli ve 345-503 sayılı BİRLEŞTİRME KARARININ KALDIRILMASINA,2- Dosyanın, mahalline gönderilmek üzere Yargıtay Cumhuriyet Başsavcılığına TEVDİ EDİLMESİNE, 22.09.2022 tarihinde yapılan müzakerede oy birliğiyle karar verildi.
+
+YARGITAY 7. CEZA DAİRESİ
+Esas: 2016/20467 Karar: 2017/7789Tarih: 16.10.2017
+
+CMK 11. Madde
+
+Geniş Bağlantı Sebebiyle Birleştirme
+
+Yerel mahkemece verilen hüküm temyiz edilmekle; başvurunun nitelik, ceza türü, süresi ve suç tarihine göre dosya okunduktan sonra gereği görüşülüp düşünüldü:
+
+KARAR : I- ) Sanığın temyizine göre yapılan incelemede;
+
+Dairemizce de kabul gören Yargıtay Ceza Genel Kurulu’nun 08.04.2014 tarih ve 2013/7-591 Esas, 2014/171 Karar sayılı kararında ayrıntıları belirtildiği gibi; suçun işleniş biçimi, suçun işlenmesindeki özellikler, fiillerin işleniş yer ve zamanı, fiiller arasında geçen süre, korunan değer ve yarar, hareketin yöneldiği maddi konunun niteliği, olayların oluş ve gelişimi ile dış dünyaya yansıyan diğer tüm özellikler birlikte değerlendirilip, sanığın eylemlerini bir suç işleme kararının icrası kapsamında gerçekleştirip gerçekleştirmediği ve hakkında 43. maddesinin uygulanıp uygulanmayacağı hususlarının tartışılarak belirlenmesi bakımından;
+
+Temyiz incelemesine konu dairemizin 2016/20467 esas sayılı dosyasında suç tarihinin 29.12.2012, iddianame tarihinin 05.07.2013 olduğu; aynı gün incelemesi yapılan dairemizin 2015/519 esas, Salihli 1. Asliye Ceza Mahkemesi’nin 2013/199 E. ve 2013/500 Karar sayılı dosyasında, sanığın üzerine atılı suç tarihinin 06.06.2012, iddianame tarihinin 07.03.2013 olduğu anlaşılmakla;
+
+Anılan dosyada sanığın eyleminin benzer mahiyette olduğu dikkate alınarak, anılan dosyanın incelenip, gerektiğinde birleştirilerek sanığın bu eylemi bir suç işleme kararı icrası kapsamında işleyip işlemediği ve haklarında 43. maddesi uyarınca zincirleme suç hükümlerinin uygulanıp uygulanamayacağı hususu tartışıldıktan sonra bir karar verilmesi gerektiğinin düşünülmemesi,
+
+Yasaya aykırı, sanığın temyiz itirazları bu itibarla yerinde görüldüğünden, hükmün 5320 Sayılı Kanun’un 8/1. maddesi gereğince yürürlükte bulunan 1412 Sayılı CMUK.nun 321. maddesi uyarınca sair yönleri incelenmeksizin BOZULMASINA,
+
+II- ) Sanığın temyizine göre yapılan incelemede;
+
+Denetimli serbestlik tedbirlerine aykırı davranan sanığa hükmü açıklamadan önce, 5271 Sayılı CMK.nun 11. maddesi 2. cümlesi uyarınca, sanığın bizzat mahkemeye çağırılıp beyanı alınması gerekirken, meşruhatlı davetiye tebliğinden bahisle sanığın beyanı alınmadan savunma hakkı kısıtlanacak şekilde hükmün açıklanmasına karar verilmesi,
+
+Kabule göre de,
+
+1- )24.11.2015 tarihli 29542 Sayılı Resmi Gazete’de yayımlanarak yürürlüğe giren Anayasa Mahkemesi’nin 08.10.2015 tarih ve 2014/140 esas, 2015/85 Sayılı iptal kararı ile 5237 Sayılı TCK.nun 53. maddesinin bazı bölümlerinin iptal edilmesi nedeniyle, anılan maddenin yeniden değerlendirilmesinde zorunluluk bulunması,
+
+2- ) 5237 Sayılı TCK.nun 51. maddesinin 1. fıkras 1. fıkrasının ( a ) bendinde; sanığın daha önce üç aydan fazla hapis cezası ile cezalandırılmamış olması koşulu ve ( b ) bendinde; suçu işledikten sonra yargılama sürecinde gösterdiği pişmanlık dolayısıyla tekrar suç işleyemeyeceği konusunda mahkemede bir kanaatin oluşması hükmü getirilmiş olmakla, adli sicil kayıtları bulunmayan ve dosyaya olumsuz kişilikleri yansımayan sanık hakkında, ne şekilde pişmanlık göstermediği ve hangi gerekçe ile tekrar suç işlemeyeceği konusunda olumlu kanaate varılmadığı hususları tartışılmadan yetersiz gerekçe ile ertelemeye yer olmadığına karar verilmesi,
+
+SONUÇ : Yasaya aykırı olup, sanığın temyiz itirazları bu itibarla yerinde görülmüş olduğundan, hükmün bu sebeplerden dolayı 5320 Sayılı Kanun’un 8 /1. maddesi gereğince yürürlükte bulunan 1412 Sayılı CMUK.nun 321. maddesi uyarınca BOZULMASINA, 16.10.2017 tarihinde oybirliğiyle karar verildi.
+
+YARGITAY 5. CEZA DAİRESİ
+Esas: 2015/8721 Karar: 2015/14734Tarih: 02.10.2015
+
+CMK 11. Madde
+
+Geniş Bağlantı Sebebiyle Birleştirme
+
+Mahalli mahkemece verilen karar temyiz edilmekle dosya incelenerek, gereği düşünüldü:
+
+KARAR : Sanıklar T. K., Y. K. ve H. K. hakkında Elazığ 2. Asliye Ceza Mahkemesi’nin 2012/731 Esas sayılı dosyası üzerinden görülmekte olan dava ile görevi kötüye kullanma suçundan sanık H. O. hakkında ilk derece mahkemesi sıfatıyla dairemizde yargılaması devam etmekte olan dava arasında hukuki ve fiili bağlantı bulunduğundan bahisle birleştirme kararı verilmesi gerektiğine ilişkin 28.01.2015 tarihli yazımız üzerine, Elazığ 2. Asliye Ceza Mahkemesi’nin 04.02.2015 tarih, 2012/731 Esas, 2015/50 sayılı Kararıyla dosyanın, dairemizin sayılı dosyası ile birleştirilmesine karar verildiği, bu kararın temyiz olanağı bulunmadığı halde mahkemece sehven temyiz yolu açık olduğunun ifade edilmesi nedeniyle sanıklar müdafiileri tarafından temyiz edildiği, incelemeyi yapan Yargıtay 12. Ceza Dairesi ise 29.04.2015 tarih ve 2015/6486 Esas, 2015/7030 Karar sayılı ilamıyla; CMK’nın 10, 11. maddeleri uyarınca verilen birleştirme kararlarının, CMK’nın 223/1. maddesinde sayılan hükümlerden olmadığı, bu nedenle de 5320 sayılı Kanunun 8. maddesi yollamasıyla halen yürürlükte bulunan 1412 sayılı CMUK’nın 305. maddesi gereği temyizi kabil olmadığı anlaşılmakla, temyiz incelemesine yer olmadığına, dosyanın görüleceği 5. Ceza Dairesi’ne gönderilmesinin temini için Yargıtay Cumhuriyet Başsavcılığına tevdiine karar vererek dosyanın Dairemize intikalini sağlamış ise de, bu kez anılan dosyanın dairemizin 2014/6 MD. sayılı dosyasına eklenmesi yerine 2015/8721 numarasıyla yeni bir esasa kaydedildiği anlaşılmakla;
+
+SONUÇ : Anılan dosyanın dairemizin 2014/6 MD. sayılı dava dosyasına eklenmesine, esasın bu şekilde kapatılmasına, karardan bir suretin gereği için Yargıtay C.Başsavcılığına TEVDİİNE, 02.10.2015 tarihinde oybirliğiyle karar verildi.
+
+YARGITAY 4. CEZA DAİRESİ
+Esas: 2014/35846 Karar: 2015/26674Tarih: 09.04.2015
+
+CMK 11. Madde
+
+Geniş Bağlantı Sebebiyle Birleştirme
+
+Tehdit suçundan sanık M.’in, 765 sayılı Türk Ceza Kanunu’nun 191/2,, 51/1, 59. maddeleri uyarınca 3 ay 22 gün hapis cezası ile cezalandırılmasına, 5271 sayılı Ceza Muhakemesi Kanunu’nun 231. maddesi gereğince hükmün açıklanmasının geri bırakılmasına dair, Keban Asliye Ceza Mahkemesinin 06.03.2008 tarihli ve 2008/2-15 sayılı kararının kesinleşmesini müteakip, sanığın deneme süresi içerisinde suç işlediğinden bahisle ihbarda bulunulması üzerine, dosyanın yeniden ele alınarak 765 sayılı Kanun’un 102/1-4, 104/3. maddeleri uyarınca zamanaşımı süresinin dolması nedeniyle davanın düşmesine ilişkin, aynı Mahkemenin 25.02.2014 tarihli ve 2013/36 esas, 2014/19 sayılı kararının, Adalet Bakanlığı tarafından kanun yararına bozulmasının istenilmesi üzerine, Yargıtay Cumhuriyet Başsavcılığının 14.07.2014 gün ve 252526 sayılı istem yazısıyla Dairemize gönderilen dava dosyası incelendi.
+
+İstem yazısında; “5271 sayılı Ceza Muhakemesi Kanunu’nun 231/8. fıkrasında yer alan “Hükmün açıklanmasının geri bırakılması kararının verilmesi halinde sanık, beş yıl süreyle denetim süresine tabi tutulur… Denetim süresi içinde dava zamanaşımı durur.” şeklindeki düzenlemeye nazaran, dosya kapsamına göre sanık hakkında verilen hükmün açıklanmasının geri bırakılması kararının kesinleştiği, dolayısıyla denetim süresinin işlemeye başladığı 13.04.2010 tarihinde ilama konu suça ilişkin zamanaşımı süresinin durduğu, sanığın deneme süresi içerisinde 05.09.2011 tarihinde işlediği 6136 sayılı Kanuna Muhalefet Suçundan dolayı cezalandırılmasına dair, Keban Sulh Ceza Mahkemesinin 03.05.2012 tarihli ve 2012/8-26 sayılı kararının, 12.06.2013 tarihinde kesinleşmesi ile birlikte zamanaşımı süresinin yeniden işlemeye başlayacağı cihetle, 10.12.2003 tarihinde işlenen tehdit suçuna ilişkin 765 sayılı Türk Ceza Kanunu’nun 102/1-4, 104/3. maddelerinde öngörülen kesintili zamanaşımı süresinin karar tarihinde dolmadığı gözetilmeden, yazılı şekilde karar tesisinde isabet görülmemiştir.” denilmektedir.
+
+I- Olay:
+
+Tehdit suçundan sanık M. hakkında yapılan yargılama sonucunda, Keban Asliye Ceza Mahkemesinin 06.03.2008 tarihli kararıyla, hükmün açıklanmasının geri bırakılmasına ve 5 yıl süreyle denetime tabi tutulmasına karar verildiği, kararın kesinleşmesinden sonra, sanığın 05.09.2011 tarihinde işlemiş olduğu kasıtlı bir suç nedeniyle mahkum edilmesi üzerine, dosyanın yeniden ele alındığı ve aynı mahkemenin 25.02.2014 tarihli kararıyla zamanaşımı süresinin dolduğu gerekçesiyle kamu davasının düşmesine karar verildiği, temyiz edilmeksizin kesinleşen bu karara karşı, zamanaşımının dolmadığı gerekçesiyle kanun yararına bozma yoluna başvurulduğu anlaşılmıştır.
+
+II- Kanun Yararına Bozma İstemine İlişkin Uyuşmazlığın Kapsamı:
+
+Hükmün açıklanmasının geri bırakılması kararının verilmesi halinde, zamanaşımı süresinin hangi tarihler arasında duracağının belirlenmesine ilişkindir.
+
+III- Hukuksal Değerlendirme:
+
+5271 sayılı CMK’nın “hükmün açıklanması ve hükmün açıklanmasının geri bırakılması” başlığını taşıyan 231. maddesinin 8. fıkras 8. fıkrasında; “Hükmün açıklanmasının geri bırakılması kararının verilmesi halinde sanık, beş yıl süreyle denetim süresine tabi tutulur.” 10. fıkrasında; “Denetim süresi içinde kasten yeni bir suç işlenmediği ve denetimli serbestlik tedbirine ilişkin yükümlülüklere uygun davranıldığı takdirde, açıklanması geri bırakılan hüküm ortadan kaldırılarak, davanın düşmesi kararı verilir.” 11. fıkrasında; “Denetim süresi içinde kasten yeni bir suç işlemesi veya denetimli serbestlik tedbirine ilişkin yükümlülüklere aykırı davranması halinde, mahkeme hükmü açıklar. Ancak mahkeme, kendisine yüklenen yükümlülükleri yerine getiremeyen sanığın durumunu değerlendirerek; cezanın yarısına kadar belirleyeceği bir kısmının infaz edilmemesine ya da koşullarının varlığı halinde hükümdeki hapis cezasının ertelenmesine veya seçenek yaptırımlara çevrilmesine karar vererek yeni bir mahkûmiyet hükmü kurabilir.” hükümleri yer almaktadır.
+
+İnceleme konusu somut olayda; sanık hakkında 06.03.2008 tarihinde hükmün açıklanmasının geri bırakılmasına karar verildiği, kararın Elazığ 1. Ağır Ceza Mahkemesinin itirazın reddi kararı üzerine 13.04.2010 tarihinde kesinleştiği, bilahare sanığın 5 yıllık denetim süresi içerisinde 05.09.2011 tarihinde kasıtlı bir suç işleyerek, Keban Sulh Ceza Mahkemesinin 03.05.2012 tarihli kararıyla mahkum edildiği, kararın 12.06.2013 tarihinde Yargıtay 8. Ceza Dairesinin onama kararıyla kesinleşmesi üzerine mahkemesine ihbarda bulunulduğu, mahkemesince dosya yeniden ele alınarak duruşma açıldığı ve 25.02.2014 tarihinde zamanaşımı nedeniyle düşme kararı verildiği görülmektedir.
+
+Uyuşmazlığın sağlıklı bir şekilde çözülebilmesi için hükmün açıklanmasının geri bırakılması kararının verilmesi halinde, zamanaşımı süresinin hangi tarihler arasında duracağının açıklığa kavuşturulması gerekmektedir.
+
+5271 sayılı CMK’nın 231/8. maddesinde, “Hükmün açıklanmasının geri bırakılması kararının verilmesi halinde sanık, beş yıl süreyle denetim süresine tabi tutulur… Denetim süresi içinde dava zamanaşımı durur.” hükmüne yer verilmiştir. Görüldüğü üzere denetim süresi içerisinde duracak olan zamanaşımının başlangıç ve bitiş tarihleri maddede açık bir şekilde düzenlenmemiştir.
+
+Öğreti ve uygulamada bu konuda farklı görüşlere yer verilmekle birlikte özellikle iki görüşün ön plana çıktığı görülmektedir. Bu görüşlerden birine göre, zamanaşımı süresi hükmün açıklanmasının geri bırakılması kararının kesinleşmesiyle, ikinci suçun işlendiği tarihler arasında duracak, diğer bir görüşe göre ise, zamanaşımı süresi hükmün açıklanmasının geri bırakılması kararının kesinleşmesiyle, ikinci suçtan verilen mahkumiyet kararının kesinleştiği tarihler arasında duracaktır.
+
+Bu görüşlerden ilkinin uygulanması halinde zamanaşımının durduğu süre az olacağı için sanık lehine sonuç doğuracaktır. Ancak tartışma konusu zamanaşımına ilişkin olduğundan TCK’nın bu konuya ilişkin maddelerinin de incelenmesi gerekmektedir.
+
+5237 sayılı TCK’nın “Dava zamanaşımı süresinin durması veya kesilmesi” başlıklı 67. maddesinde5237 sayılı TCK’nın “Dava zamanaşımı süresinin durması veya kesilmesi” başlıklı 67. maddesinde; “Soruşturma ve kovuşturma yapılmasının, izin veya karar alınması veya diğer bir mercide çözülmesi gereken bir meselenin sonucuna bağlı bulunduğu hallerde; izin veya kararın alınmasına veya meselenin çözümüne veya kanun gereğince hakkında kaçak olduğu hususunda karar verilmiş olan suç faili hakkında bu karar kaldırılıncaya kadar dava zamanaşımı durur.” hükmüne yer verilmiştir. Bu düzenlemeye göre, soruşturma veya kovuşturma engelinin bulunması halinde (izin veya karar alınması veya diğer bir mercide çözülmesi gereken bir meselenin sonucunun beklenmesi) soruşturma veya kovuşturmaya elde olmayan nedenlerle devam edilemediğinden, dava zamanaşımı süresi duracaktır.
+
+Hükmün açıklanmasının geri bırakılması kararının kesinleşmesi üzerine başlayan denetim süresi içerisinde, kasıtlı yeni bir suç işlendiğinde yasa gereği hükmün açıklanması gerekmektedir. Ancak evrensel masumiyet karinesi ilkesi gereğince, kesinleşmiş mahkumiyet kararı olmadan hükmün açıklanması halinde ileride telafisi imkansız zararlar doğabilecektir. Bu nedenle kovuşturmaya devam edilebilmesi için başka bir mercide devam eden bu yargılamanın sonucu beklenmelidir. Bu sürecin beklenmesi ikinci suçun işlenmesiyle ilintili olduğundan, artık inkitaa uğrayan denetim süresi (yetişkinler için 5 yıl, çocuklar için 3 yıl) dikkate alınmayacak, sanığın içinde bulunduğu yeni durum (bekletici mesele) nin sonucu beklenecektir.
+
+Bu itibarla, kovuşturma yapılmasına elde olmayan nedenlerle engel olan bekletici meselenin halli gerektiğinden, TCK’nın 67. maddesindeki düzenleme de göz önünde bulundurularak, zamanaşımı süresinin hükmün açıklanmasının geri bırakılması kararının kesinleşmesinden başlayarak, ikinci suçtan verilen mahkumiyet kararının kesinleştiği tarihe kadar durduğunu kabul etmek gerekmektedir.
+
+Aksi durumun kabulü halinde, kendisine tanınan olumlu bir statüyü kasıtlı bir suç işleyerek ihlal eden sanığın eylemine, yasa gereği zorunlu olarak bağlanan hükmün açıklanması şeklindeki müeyyide, bir çok durumda zamanaşımı süresinin geçmesi nedeniyle sonuçsuz kalacaktır.
+
+Yukarıda yer verilen açıklamalar ışığında, hükmün açıklanmasının geri bırakılması kararının kesinleştiği 13.04.2010 tarihi ile, ikinci suçtan verilen mahkumiyet kararının kesinleştiği 12.06.2013 tarihleri arasında zamanaşımı süresi durduğundan, düşme kararının verildiği 25.02.2014 tarihi itibariyle uzayan zamanaşımı süresinin henüz dolmadığı gözetilmeden, zamanaşımının durduğu süreler hatalı değerlendirilerek düşme kararı verilmesi hukuka aykırıdır.
+
+IV- Sonuç ve Karar:
+
+Yukarıda açıklanan nedenlerle;
+
+Yargıtay Cumhuriyet Başsavcılığının kanun yararına bozma isteği doğrultusunda düzenlediği tebliğnamedeki düşünce yerinde görüldüğünden,
+
+1- Tehdit suçundan sanık M. hakkında, Keban Asliye Ceza Mahkemesinin 25.02.2014 tarihli ve 2013/36 esas, 2014/19 sayılı kararının, CMK’nın 309/4-c maddesi uyarınca kanun yararına BOZULMASINA,
+
+2- Kararın davanın esasını çözen mahkûmiyet dışındaki hükümlere yönelik olması nedeniyle, aynı Kanun maddesinin 4-c bendi uyarınca aleyhte sonuç doğurmamasına ve yeniden yargılama yapılmamasına, 09.04.2015 tarihinde oybirliği ile, karar verildi.
+
+YARGITAY 2. CEZA DAİRESİ
+Esas: 2013/32954 Karar: 2014/24030Tarih: 21.10.2014
+
+CMK 11. Madde
+
+Geniş Bağlantı Sebebiyle Birleştirme
+
+Dosya incelenerek gereği düşünüldü:
+
+KARAR : Dosya içeriğine göre sair temyiz itirazları yerinde görülmemiştir.
+
+Ancak;
+
+I- ) Yargılamaya konu eylemi birlikte gerçekleştirdikleri iddia edilen, ancak yaşları nedeni ile soruşturma aşamasında ayırma kararı verilerek haklarında ayrı bir dava açılan sanıklar S. A., M. Ö. ve M. T. hakkındaki dava dosyası ile bu dosyanın, kanıtların birlikte değerlendirilmesi açısından CMK’nın 8., 11. maddeleri gereğince mümkünse birleştirilmesi, mümkün olmadığı takdirde dava dosyasının aslının ya da onaylı örneğinin denetime imkan sağlayacak şekilde dava dosyası içine konulmaması,
+
+II- ) Kabul ve uygulamaya göre de;
+
+a- ) Suça sürüklenen çocuğun direksiyon kilidiyle kilitlenmek suretiyle muhafaza altına alınan motosikleti çalması biçimindeki eyleminin, 5237 Sayılı TCK’nın 142/1-b maddesinin 1. cümlesinde ‘herkesin girebileceği bir yerde bırakılmakla birlikte kilitlenmek suretiyle muhafaza altına alınmış olan eşya hakkında’ işlenmesi biçiminde tanımlanan hırsızlık suçunu oluşturduğu halde, 5237 Sayılı TCK’nın 142/1-b maddesi yerine 141/1 maddesiyle uygulama yapılması,
+
+b- ) Müştekinin suça konu motosikleti 29.9.2011 günü saat 20:00’de ikametinin önüne park ettiğini ve 30.9.2011 günü saat 08:00’de işe gitmek için dışarı çıktığında yerinde bulamadığını ifade ettiği görülmekle, suçun hangi saatte işlendiği kesin olarak belirlenememesine rağmen TCK’nın 143. maddesine göre arttırım yapılması,
+
+SONUÇ : Bozmayı gerektirmiş, suça sürüklenen çocuk müdafiinin temyiz itirazları bu itibarla yerinde görülmüş olduğundan hükmün bu sebeplerden dolayı isteme aykırı olarak BOZULMASINA, bozma sonrası kurulacak hükümde 5320 Sayılı Kanunun 8/1. maddesi aracılığı ile 1412 Sayılı CMUK’nın 326 /son maddesinin gözetilmesine, 21.10.2014 tarihinde oybirliğiyle karar verildi.
+
+YARGITAY 7. CEZA DAİRESİ 
+Esas: 2013/21569 Karar: 2014/2609Tarih: 24.02.2014
+
+CMK 11. Madde
+
+Geniş Bağlantı Sebebiyle Birleştirme
+
+5607 sayılı Kaçakçılıkla Mücadele Kanunu’na muhalefetten sanıklar H. A. Ü., Y. U., İ. A., A. G., H. D., S. U., S. U., H. D., H. İ., M. Ü. ve B. A.’un haklarında, 5271 sayılı Ceza Muhakemesi Kanunu’nun 223/7.maddesi gereğince aynı fiil neden ile açılmış bir dava bulunması nedeni ile davanın reddine dair Yüksekova 1. Asliye Ceza Mahkemesinin 18.03.2011 tarihli ve 2008/485 esas, 2011/200 sayılı kararı aleyhine Yüksek Adalet Bakanlığından verilen 06.11.2013 gün ve 66987 sayılı kanun yararına bozma istemini içeren dava dosyası Yargıtay Cumhuriyet Başsavcılığının 19.11.2013 gün ve KYB. 2013-361085 sayılı ihbarnamesi ile daireye verilmekle okundu.
+
+Mezkür ihbarnamede;
+
+Dosya kapsamına göre; söz konusu karar dayanak olan aynı Mahkemenin derdest 2009/37 esas sayılı dosyadaki davasının daha sonra görülmeye başlandığı keza, her iki davanın iddianamelerinde gösterilen eylemlerin farklı araçlarda işlendiğinin belirtildiği gibi davalara konu eşyaların da farklı olduğu, 5271 sayılı Ceza Muhakemesi Kanunu’nun 11.maddesi gereğince her iki davanın birleştirilerek yürütülmesi mümkün iken yazılı şekilde davanın reddine karar verilmesinde isabet görülmemiş ve 5271 sayılı Ceza Muhakemesi Kanununun 309. maddesi uyarınca anılan kararın bozulması lüzumu kanun yararına bozmaya atfen ihbar olunmuş bulunmakla Türk Milleti adına gereği görüşülüp düşünüldü;
+
+Sonuç: Yargıtay Cumhuriyet Başsavcılığının, kanun yararına bozma istemini içeren ihbarnamesi yerinde görüldüğünden Yüksekova 1. Asliye Ceza Mahkemesinin 18.03.2011 tarihli ve 2008/485 Esas 2011/200 Karar sayılı kararının 5271 sayılı CMK.nun 309. maddesi uyarınca aleyhe tesir etmemek üzere BOZULMASINA, 24.02.2014 günü oybirliği ile, karar verildi.
+
+YARGITAY 3. CEZA DAİRESİ
+Esas: 2006/7143 Karar: 2007/2425Tarih: 19.03.2007
+
+CMK 11. Madde
+
+Geniş Bağlantı Sebebiyle Birleştirme
+
+Mahalli mahkemece verilen hüküm temyiz edilmekle evrak okunarak;
+
+Gereği görüşülüp düşünüldü;
+
+KARAR : Değişen suç vasfı uyarınca sanığa fiiline uyan 6831 Sayılı Kanunun 108/1. maddesine mümasil suç oluşturduğundan dolayı karar celsesi olan 13.9.2005 tarihli celsede sanığa ek savunma hakkı verildiği yine suç tarihi itibariyle 3.7.2004 tarih ve 5192 Sayılı Kanunla değişik 6831 Sayılı Kanunun 108/4. maddesi uyarınca yediemindeki suça konu emvalin müsaderesine karar verilmesi doğru olup bunun yerine tebliğnamede talep edilen 765 sayılı TCK.nun 36. maddesi uyarınca müsadere edilmesi nedeniyle tebliğnamenin 4. ve 5. bentlerdeki bozma düşüncelerine iştirak edilmemiştir.
+
+Yerinde görülmeyen sair itirazların reddine,
+
+Ancak;
+
+1- 6831 Sayılı Özel nitelikteki orman Kanunu’na göre suçun varlığının belirlenmesi üzerine yapılan uygulama karşısında 5252 sayılı Yasanın 9/3 madde hükmüne göre lehe olan hüküm önceki ve sonraki kanunların bütün hükümleri olaya uygulanarak ortaya çıkan sonuçların birbiriyle karşılaştırılarak lehe kanunun hükümlerinin bütün olarak somut olaya tatbiki gerektiğine dair yasa ve Yargıtay’ın uygulamalarına aykırı şekilde karma uygulama yapılması,
+
+2- Suç zabıt varakası ile sanığın savunmasında ismi geçen ve suça konu emvali sanığa getirerek biçtirmesini isteyen Zülali Köşe hakkında Posof Sulh Ceza Mahkemesine açılan kamu davasının 5271 Sayılı CMK.nun 11. maddesi uyarınca birleştirilip sonucuna göre sanığın hukuki durumunun tayin ve takdiri gerekirken eksik inceleme sonucu yazılı şekilde hüküm tesisi,
+
+3- Suçta kullanılan hızar şeridi ve raylı iskelenin sabit tesis niteliğinde olup olmadığının bilirkişi marifetiyle tesbit ettirilmeden, yine suçta kullanılan şerid ile raylı iskelenin yediemine alınmadığı gözetilmeden yazılı şekilde müsadere kararı verilmesi,
+
+4- Suç tarihi itibariyle yediemine alınan suça konu emvalin de 6831 Sayılı Kanunun 108/4. maddesi yerine, 765 sayılı TCK.nun 36. maddesi uyarınca müsaderesine karar verilmesi,
+
+5- Ek raporu alınan bilirkişiye yeniden yemin yaptırılmaması veya eski yeminin hatırlatılmaması,
+
+SONUÇ : Bozmayı gerektirmiş mahalli C.Savcısının temyiz itirazları bu itibarla yerinde görülmüş olduğundan hükmün bu sebeplerden dolayı istem gibi BOZULMASINA, 19.03.2007 gününde oybirliğiyle karar verildi.
+
+UYARI

@@ -1,0 +1,135 @@
+Tahkim Sözleşmesinin Tanımı ve Şekli
+
+HMK Madde 412
+
+HMK Madde 412 Gerekçesi
+
+HMK 412 (Tahkim Sözleşmesinin Tanımı ve Şekli)  Emsal Yargıtay Kararları
+
+(1) Tahkim sözleşmesi, tarafların, sözleşme veya sözleşme dışı bir hukuki ilişkiden doğmuş veya doğabilecek uyuşmazlıkların tamamı veya bir kısmının çözümünün hakem veya hakem kuruluna bırakılması hususunda yaptıkları anlaşmadır.
+
+(2) Tahkim sözleşmesi, taraflar arasındaki sözleşmenin bir şartı veya ayrı bir sözleşme şeklinde yapılabilir.
+
+(3) Tahkim sözleşmesi yazılı şekilde yapılır. Yazılı şekil şartının yerine getirilmiş sayılması için, tahkim sözleşmesinin taraflarca imzalanmış yazılı bir belgeye veya taraflar arasında teati edilen mektup, telgraf, teleks, faks gibi bir iletişim aracına veya elektronik ortama geçirilmiş olması ya da dava dilekçesinde yazılı bir tahkim sözleşmesinin varlığının iddia edilmesine davalının verdiği cevap dilekçesinde itiraz edilmemiş olması yeterlidir. Asıl sözleşmenin bir parçası hâline getirilmek amacıyla tahkim şartı içeren bir belgeye yollama yapılması hâlinde de tahkim sözleşmesi yapılmış sayılır.
+
+(4) Tahkim sözleşmesine karşı, asıl sözleşmenin geçerli olmadığı veya tahkim sözleşmesinin henüz doğmamış olan bir uyuşmazlığa ilişkin olduğu itirazında bulunulamaz.
+
+(5) Yargılama sırasında tarafların tahkim yoluna başvurma konusunda anlaşmaları hâlinde, dava dosyası mahkemece ilgili hakem veya hakem kuruluna gönderilir.
+
+Maddenin birinci fıkrasında, doğmuş ya da ileride doğacak uyuşmazlıkların hakem veya hakemler tarafından çözümü için tahkime gidilebileceği, yine tarafların bir hukukî ilişkiden doğacak uyuşmazlıkların tamamının ya da sadece bir kısmının tahkim yolu ile çözümünü kararlaştırabilecekleri belirtilmiş olup, son durumda uyuşmazlıklardan diğer kısmı için genellikle mahkemeye gidilmektedir. Bu durum tahkim sözleşmesinin geçerliliğini etkilemez.
+
+Tahkim sözleşmesi genellikle bir başka sözleşmenin bir hükmü olarak görülmekle birlikte, tarafların, asıl sözleşmeden ayrı bir sözleşme yaparak da uyuşmazlıklarını tahkime götürebilecekleri ikinci fıkrada düzenlenmiştir.
+
+Üçüncü fıkrada, tahkim sözleşmesinin tahkim yargılamasına dayanak olması nedeniyle, yazılı şekilde yapılması, anlaşmanın geçerlik şartı olarak düzenlenmiştir. Ayrıca, hangi hâllerde yazılı şekil şartının yerine getirilmiş olarak kabul edileceği örnekler sayılarak belirtilmiştir. Bu sebeple, Borçlar Hukukundaki şekil şartına ilişkin prensipler, tahkimde bu fıkra ile çelişmediği ölçüde uygulanabilir.
+
+Ayrılabilirlik prensibi gereği asıl sözleşmenin geçersiz olduğu iddiası, o sözleşmenin bir parçası olsa bile tahkim şartına karşı ileri sürülemez. Ayrıca, sözleşme gereği tahkim yolu ile çözülecek bir uyuşmazlığın doğmuş olup olmadığı hakem veya hakemler tarafından kararlaştırılacaktır. Bu husus dördüncü fıkrada düzenlenmiştir.
+
+Beşinci fıkrada, bir uyuşmazlığın halli için mahkemeye başvurulmuş olmasının, o meselenin çözümü için tahkime gidilemeyeceği anlamına gelmeyeceği hus
+
+YARGITAY 11. HUKUK DAİRESİ 
+Esas : 2015/15498 Karar : 2017/1870Tarih : 29.03.2017
+
+HMK 412. Madde
+
+Tahkim Sözleşmesinin Tanımı ve Şekli
+
+Davacı vekili; müvekkilleri ile davalı arasında 07/04/2014 tarihli varlık satın alım ve satım sözleşmesi bulunduğunu, ancak davalının sözleşmeyle üstlendiği edimleri yerine getirmediğini, sözleşmeyi sürüncemede bıraktığı ve nihayetinde de fesih yoluna gittiğini, haksız fesih nedeniyle müvekkillerinin zarara uğradığını ileri sürerek şimdilik 1.000.000,00 TL üzerinden ihtiyati tedbir ve ihtiyati hacze karar verilmesini ve kısmi davanın kabulünü talep ve dava etmiştir.
+
+Davalı vekili; müvekkili şirketin yabancı sermayeli bir şirket olduğunu ve yürürlükte bulunan yabancı sermaye mevzuatına tabi olarak faaliyette bulunduğunu, oluşacak sözleşmeden kaynaklanan bir uyuşmazlık halinde ilgili uyuşmazlığın Türkiye dışında tahkim yargılaması ile çözümlenmesi konusunda tüm tarafların anlaştıklarını, Türk Mahkemelerinin görev ve yetkisinin bulunmadığını savunarak davanın tahkim sözleşmesi nedeniyle usulden reddini savunmuştur.
+
+Mahkemece iddia, savunma ve tüm dosya kapsamına göre; taraflar arasındaki 07/04/2014 tarihli varlık satın alım ve satımı sözleşmesinin 16.12. maddesinde ihtilaf halinde uyuşmazlığın öncelikle dostane anlaşma çerçevesinde çözümleneceği, dostane anlaşmanın gerçekleşmemesine bağlı olarak bu sözleşmeden doğan veya sözleşmenin ihlali, feshi veya geçersizliği ile ilgili tüm ihtilafların nihai olarak … Ticaret Odası Tahkim Kuralları altında, bu kurallara göre tayin edilecek 3 hakem tarafından çözümleneceği, tahkim yerinin… olacağının düzenlenmiş olduğu, taraflar arasındaki uyuşmazlığın varlık satın alım ve satışı sözleşmesinin ihlali nedeniyle tazminat istemine dayandığı, tahkim şartının …‘nun 2/2.fıkrası hükmü ile HMK’nun 412. maddesinde kapsamında şekil şartlarını taşıdığı, geçerli ve bağlayıcı olduğu gerekçesiyle davalı tarafın tahkim itirazının kabulü ile, dava dilekçesinin görevsizlik nedeniyle reddine karar verilmiştir.
+
+Kararı, davacı vekili temyiz etmiştir.
+
+Dosyadaki yazılara kararın dayandığı deliller ile gerektirici sebeplere göre, davacı vekilinin bütün temyiz itirazları yerinde değildir.
+
+SONUÇ: Yukarıda açıklanan nedenlerden dolayı, davacı vekilinin bütün temyiz itirazlarının reddiyle usul ve kanuna uygun bulunan hükmün ONANMASINA, aşağıda yazılı bakiye 3,70 TL temyiz ilam harcının temyiz edenden alınmasına, 29/03/2017 tarihinde oybirliğiyle karar verildi
+
+YARGITAY 15. HUKUK DAİRESİ
+Esas: 2016/4735 Karar: 2017/259Tarih: 23.01.2017
+
+HMK 412. Madde
+
+Tahkim Sözleşmesinin Tanımı ve Şekli
+
+Dava, eser sözleşmesinden kaynaklanmakta olup, davacı taşeronun davalı yüklenici ile yaptığı gemi techiz, imalât ve montaj işleri sözleşmesi gereğince hakedişlerden yapılan teminat kesintisi alacağının tahsili istemine ilişkindir.
+
+Mahkemece taraflar arasındaki sözleşmenin düzenleme gereğince, davalı süresi içinde tahkim ilk itirazında bulunduğu ve itirazında haklı olduğundan HMK’nın 413/1, 116/1-b maddesi gereğince tahkim itirazının kabulüne ve davanın usulden reddine dair verilen karar, davacı vekilince temyiz edilmiştir.
+
+Gerçek ya da tüzel kişiler arasında çıkan uyuşmazlıklarda asıl olan uyuşmazlığın devletin bünyesindeki yargı organları-mahkemeler tarafından çözülmesidir. Alternatif uyuşmazlık çözüm yolları arasında sayılan arabulucuk, tahkim, hakem, bilirkişi vs. gibi yollarla uyuşmazlıkların çözümü tarafların serbest iradesi ya da bu yola başvurmayı zorunlu kılan yasa hükmünün varlığına bağlıdır.
+
+Tahkim yolu, uyuşmazlıkların çözümünde tarafların devlet yargısı yerine hakem olarak adlandırılan özel kişileri görevli ve yetkili kılmalarını ifade eder. Bunun sonucu olarak tahkim çözüm yoluna gidilebilmesi için tarafların tahkim sözleşmesi yapmaları ya da düzenledikleri sözleşmede tahkim şartının bulunması gerekir. Tahkim anlaşması veya tahkim şartındaki uyuşmazlığın hakem veya hakemler kurulunca çözümlenmesine ilişkin irade beyan ve açıklaması tahkim şartı sözleşmesinin temel unsurudur. Tahkim şartı veya anlaşmasının geçerli olabilmesi için yanların tahkim iradesini açıkladıkları tahkim şartı ya da sözleşmede tartışma ve karışıklığa neden olmayacak biçimde açık ve kesin olarak belirtmiş olmaları zorunludur. Dairemiz ve yerleşik Yargıtay içtihatlarında geçerli bir tahkim şartı varlığı veya tahkim anlaşmasının geçerli sayılabilmesi için uyuşmazlığın kesin olarak hakemde çözüleceğinin kararlaştırmış olması gerektiği kesin iradeyi ortadan kaldıran ya da zayıflatan kayıtların tahkim sözleşmesi veya şartını geçersiz-hükümsüz kılacağı kabul edilmektedir. Taraflar sözleşmeden kaynaklanan uyuşmazlıkların tümünün tahkim yoluyla çözülebileceğini kararlaştırabilecekleri gibi sadece bir bölümünün tahkim yoluyla çözülebileceğini de kararlaştırabilirler.
+
+Bu açıklamalardan sonra somut olaya gelince, taraflar arasında imzalanan 03.09.2007 tarihli kapağında 079/2007-4 tarih ve tersane inşaat numarası yazılı sözleşmenin anlaşmazlıkların çözümü başlıklı 37. maddesinde aynen “şirketle yüklenici arasında bu sözleşmenin uygulanmasından doğabilecek her türlü anlaşmazlıklar hakemlik yoluyla çözülecektir. Tarafların seçecekleri hakemler kendi aralarında kabul edecekleri üçüncü kişiyi seçecekler ve bu kurulun vereceği karar geçerli olacaktır. Hakemler TMMOB üyesi olacaklar ve hakemlik masrafları yüklenici tarafından karşılanacaktır. Hakemlik yoluyla çözülmesi mümkün olmayan hususlarda ve sözleşme ve eklerinde belirtilen durumlarda başvuru makamı İstanbul mahkemeleri ve icra daireleridir. “ denilmek suretiyle sözleşmeye tahkim şartı konulmuştur.
+
+Az yukarıda belirtildiği gibi taraflar sözleşmenin bir kısmının uygulanmasından çıkan uyuşmazlıkların tahkim yoluyla çözülmesini kararlaştırabilirlerse de; eldeki davanın dayanağı sözleşmenin tahkim şartını içeren 37. maddesinin birinci fıkrasında sözleşmenin uygulanmasından doğabilecek her türlü anlaşmazlıklar hakemlik yoluyla demek suretiyle sözleşmeden doğan uyuşmazlıkların tümünün tahkim yoluyla çözümünü kararlaştırdıktan sonra, üçüncü fıkrasında hususlarda ve kelimelerinden sonra “sözleşme ve eklerinde belirtilen durumlarda başvuru makamı İstanbul mahkemeleri ve icra daireleri” demek suretiyle tahkim şartının sözleşmenin bir kısmıyla ilgili olmadığı ve bu hallerde mahkemelerin ve icra dairelerinin görevli olduğunu belirtmek suretiyle tahkim iradelerinin mutlak ve kesin olmadığını ortaya koymuşlardır.
+
+Bu durumda mahkemece sözleşmenin uygulanmasından doğan tüm uyuşmazlıkların tahkim yoluyla çözümlenmesi kararlaştırıldıktan sonra sözleşme ve eklerinde belirtilen durumlarda başvuru makamlarının İstanbul mahkemeleri ve icra daireleri olduğu kabul edilmek suretiyle şeklinde konulan kaydın tahkim iradesinin mutlak ve kesin olmadığı ve bu kaydın tahkim şartını hükümsüz kıldığı kabul edilerek tahkim ilk itirazı reddedilip işin esası incelendikten sonra sonucuna uygun bir karar verilmesi yerine, yanlış değerlendirme yapılarak davanın usulden reddi doğru olmamış, kararın bozulması uygun bulunmuştur.
+
+SONUÇ : Yukarıda açıklanan nedenlerle davacının temyiz itirazlarının kabulü ile kararın yararına BOZULMASINA, ödediği temyiz peşin harcının istek halinde temyiz eden davacıya geri verilmesine, karar düzeltme yolu kapalı olmak üzere, 23.01.2017 gününde oyçokluğuyla karar verildi.
+
+KARŞI OY :
+
+6100 sayılı HMK’nın 412/1 maddesine göre “Tahkim Sözleşmesi, tarafların, sözleşme veya sözleşme dışı bir hukuki ilişkiden doğmuş veya doğabilecek uyuşmazlıkların tamamı veya bir kısmının çözümünün hakem veya hakem kuruluna bırakılması hususunda yaptıkları anlaşmadır. Sözleşmenin 37. maddesinde … sözleşmenin uygulanmasından doğabilecek her türlü anlaşmazlıklar hakemlik yoluyla çözülecektir… Hakemlik yoluyla çözülmesi mümkün olmayan hususlarda ve sözleşmelerinde belirtilen durumlarda başvuru makamı İstanbul Mahkeme ve İcra Daireleridir.” şeklindeki ayrık durumlar Hakemde çözülmesi mümkün olmayan kısma ilişkin olup hakem şartını ortadan kaldırmayacağından HMK’nın 412/1. maddesindeki uyuşmazlığın kısmen dahi tahkim yoluyla çözülmesine imkân veren hükme aykırı düşeceği kanaatıyla çoğunluk görüşüne katılamıyoruz.
+
+YARGITAY 22. HUKUK DAİRESİ
+Esas: 2016/16083 Karar: 2016/17467Tarih: 13.06.2016
+
+HMK 412. Madde
+
+Tahkim Sözleşmesinin Tanımı ve Şekli
+
+Davacı vekili, müvekkilinin … Belediyesi Anka Spor Klubü Derneğinde voleybol antrönörü olarak çalıştığını, ücretlerinin ödenmemesi sebebi ile, tahsili için, aralarında organik bağ bulunan … Spor Klubü Derneği ve … aleyhine yaptıkları icra takibine davalı … tarafından itiraz edildiğini belirterek itirazın iptali ve icra takibinin devamına karar verilmesini istemiştir.
+
+Davalı vekili, … Spor Klübü Derneği ile aralarında organik bağ bulunmadığını belirterek davanın husumet yönünden reddini savunmuştur.
+
+Mahkemece, davacının imzaladığı sözleşmede, voleybol federasyonunun yönetmeliklerine uyacağı ve uyuşmazlıkların voleybol federasyonu hukuk kurulunca incelenerek çözümleneceğinin öngörüldüğü gerekçesi ile göreve dair dava şartı yokluğundan davanın usulden reddine ve davaya bakmakla Asliye Hukuk Mahkemesi’nin görevli olduğuna karar verilmiştir.
+
+Karar süresi içerisinde davacı vekili tarafından temyiz edilmiştir.
+
+Uyuşmazlık, taraflar arasındaki ilişkinin 4857 Sayılı İş Kanunu kapsamında değerlendirilip değerlendirilemeyeceği, bu bağlamda iş mahkemesinin görevi ve uyuşmazlığın tahkim yolu ile çözümlenip çözümlenmeyeceği noktasında toplanmaktadır.
+
+5521 Sayılı İş Mahkemeleri Kanunu’nun 1. maddesi5521 Sayılı İş Mahkemeleri Kanunu’nun 1. maddesi uyarınca, İş Kanununa göre işçi sayılan kimselerle işveren veya işveren vekilleri arasında, iş sözleşmesine veya İş Kanununa dayanan her türlü hak iddialarından doğan hukuk uyuşmazlıklarının çözüm yeri iş mahkemeleridir.
+
+4857 Sayılı İş Kanununun 4. maddesinin4857 Sayılı İş Kanununun 4. maddesinin birinci fıkrasının (g) bendi uyarınca, “sporcular” hakkında bu kanun hükümleri uygulanmaz
+
+Yargıtay İçtihadları Birleştirme Büyük Genel Kurulu’nun 23.05.1960 gün, 11-10 Sayılı ve 10.05.1974 gün, 3-44 Sayılı kararları uyarınca, özellikle iş hukukunda istisnaî hükmün genişletilerek değil, dar yorumlanması gerekir. İşçiler yararına düzenlenen hükümlerin, işçiler yararına yorumlanması asıldır.
+
+Sporla doğrudan uğraşan sporcunun İş Kanunu kapsamında kalmadığı açıktır. Ancak doğrudan aktif spor yapmayan, sporcuyu aktif spor yapması için hazırlayan antrenör ile aktif görevi daha çok direktif vermek olan ve takımı başarıya ulaştırma görevi de bulunan teknik direktörün sporcu sayılmaması ve İş Kanunu kapsamında bir işçi olarak kabul edilmesi gerekir. Bu sebeple antrenör veya teknik direktör ile kulüpleri işveren arasındaki iş sözleşmesinden kaynaklanan uyuşmazlıklarının iş mahkemesinde görülmesi gerekir.
+
+İş güvencesine yönelik hükümler dışında, İş Kanununda işçilik alacakları ile ilgili olarak tahkim yoluna gidilmesine yönelik bir düzenleme olmadığından, antrenör veya teknik direktör ile işveren arasındaki uyuşmazlıkların çözümü için, bu kişilerin bağlı bulundukları federasyonun yönetmelik veya genelgelerinde özel hakem veya tahkim kurulunun öngörülmesi iş mahkemesinin görevini ortadan kaldırmaz.
+
+6100 Sayılı Kanun’un 412/1-2. maddesinde6100 Sayılı Kanun’un 412/1-2. maddesinde;” Tahkim sözleşmesi, tarafların, sözleşme veya sözleşme dışı bir hukuki ilişkiden doğmuş veya doğabilecek uyuşmazlıkların tamamı veya bir kısmının çözümünün hakem veya hakem kuruluna bırakılması hususunda yaptıkları anlaşmadır.
+
+Tahkim sözleşmesi, taraflar arasındaki sözleşmenin bir şartı veya ayrı bir sözleşme şeklinde yapılabilir.” düzenlemesine yer verilmiştir. Anılan Kanunu’nun 114/1-c maddesinde,mahkemenin görevli bulunması dava şartları arasında; uyuşmazlığın tahkim yoluyla çözümlenmesi gerektiği itirazı ise 116/2. maddesinde ilk itiraz olarak düzenlenmiştir. 117. maddesinde ise, ilk itirazların cevap dilekçesi ile birlikte ileri sürülmesinin zorunlu olduğu dava şartlarından sonra inceleneceği açıklanmıştır.
+
+Somut olayda davacı, davalı … ve dava dışı … Spor Kulübü Derneği arasında organik bağ bulunduğunu iddia ederek her ikisi aleyhine ücret alacağının tahsili amacı ile yaptığı icra takibine, davalı belediyenin itirazı nedeni ile , itirazın iptali istemine dair davayı açmıştır. Dosya içeriğine göre, davacının dava dışı … Spor Kulübü Derneğinde voleybol antrönörü olarak çalıştığı taraflar arasında tartışmasızdır. Yarışma ve müsabakalara aktif sporcu olarak da katılmamıştır. Bu durumda, kulübü ile arasında organik bağ bulunduğu iddiası ile … Belediye Başkanlığına yöneltmiş olduğu davaya bakma görevi iş mahkemelerine aittir. Ayrıca davacının bağlı bulunduğu federasyonun yönetmelik veya genelgelerinde özel hakem veya tahkim şartının öngörülmesi iş mahkemesinin görevini ortadan kaldırmayacaktır. Davacı tarafından imzalanan sözleşmede düzenlenen tahkim şartının ilk itiraz olarak da ileri sürülmemiş olması karşısında davanın bu sebeple usulden reddedilme imkanı bulunmamaktadır. Mahkemece işin esasına girilerek bir karar verilmesi gerekirken yazılı gerekçe ile görevsizlik kararı verilmesi hatalıdır.
+
+Kabule göre de, mahkeme gerekçesinde tahkim ilk itirazına dair açıklamalarda bulunulmasından sonra 6100 Sayılı Hukuk Muhakemeleri Kanunu’nun 413/1. maddesine aykırı olarak görevsizlik kararı verilmesi hatalıdır.
+
+SONUÇ : Hükmün yukarıda açıklanan sebepten BOZULMASINA, peşin alınan harcın istenmesi halinde ilgiliye iadesine, 13.06.2016 tarihinde oybirliği ile karar verildi.
+
+YARGITAY 11. HUKUK DAİRESİ
+Esas : 2015/1687 Karar : 2015/6696Tarih : 11.05.2015
+
+HMK 412. Madde
+
+Tahkim Sözleşmesinin Tanımı ve Şekli
+
+Davacı vekili, müvekkili ile davalı arasında taşımadan kaynakla cari hesap ilişkisinin bulunduğunu, müvekkilinin davalıdaki alacağının tahsili için Bakırköy 5. İcra Müdürlüğü’nün 2012/20739 esas sayılı dosyasında takip başlattığını, davalının borca itirazı nedeniyle takibin durduğunu ileri sürerek davalının icra takibine yaptığı itirazın iptaline ve takibin devamına, asıl alacağın % 40’ından aşağı olmamak üzere icra inkar tazminatına hükmedilmesine karar verilmesini talep ve dava etmiştir.
+
+Davalı vekili, davacı tarafından yapılan takibin 31.5.2012 tarihli taşıma sözleşmesi nedeniyle düzenlenen navlun alacağı faturasına dayandığını, söz konusu taşıma sözleşmesinde uyuşmazlıkların İstanbul Ticaret Odası Uzlaştırma ve Hakem Bilirkişilik Yönetmeliği uyarınca çözümleneceğinin düzenlenilmesi nedeniyle tahkim itirazında bulunduklarını, müvekkiliyle davalı arasında İ.’dan T.’ye taşınan dava dışı O.G.Mak. San. ve Tic. Ltd. Şti. tarafından satın alınan makinelerin taşınması nedeniyle üst taşıyıcı ve fiili taşıyıcılık ilişkisinin bulunduğunu, müvekkilinin üst taşıyıcı, davacı şirketin ise fiili taşıyıcı olduğunu, taşınan malların davacı alt taşıyıcının kusuru dolayısıyla hasarlandığını, hasarın sigorta teminatı kapsamında sayılmayıp sigorta şirketince ödeme yapılmadığını, O. G. firmasınca hasar bedeli olarak 14.036,10 TL yansıtma faturası düzenlenilerek hasar bedelinin müvekkilinin bu firmadan olan cari alacağından mahsup yoluyla tahsil edildiğini, müvekkilince bu ödeme nedeniyle düzenlenen yansıma faturalarının davalıya gönderilmesine rağmen davalı tarafından iade edildiğini, müvekkilinin davacıdan olan bu alacağı nedeniyle takas ve mahsup def’inde bulunduklarını savunarak davanın reddini istemiştir.
+
+Mahkemece, iddia, savunma ve tüm dosya kapsamına göre; taraflar arasında yazılı bir sözleşmenin varlığının ve bu sözleşmede yer alan tahkim kaydının ispat edilememesi nedeniyle tahkim itirazının yerinde olmadığı, incelenen taraf defterlerinden davacının takip konusu alacak tutarı olan 7.434,85 TL alacaklı olduğu ancak davalını takip sonrasında 14,036,10 TL yansıma faturası düzenleyip defterine kaydettiği, bu faturanın davacı tarafından kabul edilmediği, yansıma faturasının takibe konu alacağın dayanağını oluşturan taşıma sırasında meydana gelen hasardan kaynaklı olduğu, hasarın oluşumunda davacının % 25 oranında kusurunun bulunduğu, davalının takas mahsup def’i gözetilerek davacı alacağının tespit edildiği gerekçesiyle davanın kısmen kabulüyle Bakırköy 5. İcra Müdürlüğü’nün 2012/20739 Esas sayılı dosyasında alacağın 3.221,85 TL’lik kısmına yönelik itirazın iptaline, takip tarihinden itibaren bu alacağa avans faizi yürütülmek suretiyle takibin devamına, icra inkar ve kötü niyet tazminatı taleplerinin reddine karar verilmiştir.
+
+Kararı, taraf vekilleri temyiz etmiştir.
+
+1-Dava; CMR hükümlerine tabi taşıma sözleşmesinden kaynaklı alacak nedeniyle yapılan icra takibine itirazın iptali istemine ilişkindir. Tarafların sözleşme veya sözleşme dışı bir hukuki ilişkiden doğmuş veya doğabilecek uyuşmazlıkların tamamının veya birkısmının çözümünü hakem veya hakem kuruluna bırakılması hususunda yaptıkları anlaşmalar tahkim sözleşmesi olarak adlandırılmakta olup yalnızca iki tarafın iradeleriyle tasarrufta bulunabilecekleri konularda tahkim sözleşmesi yapılabilir. İster bağımsız bir tahkim sözleşmesi şeklinde isterse bir tahkim şartı şaklinde yapılsın tahkim sözleşmesinin geçerliliği için aranan temel unsurlar geçerli bir tahkim iradesinin varlığı ve yazılı şekil şartıdır. Tahkim sözleşmesinin tabi olduğu şekil doğrudan doğruya Türkiye’nin tabi olduğu 1958 tarihli New York Sözleşmesi’nin 2. maddesinde düzenlenmiştir. Buna göre tahkim şartından bahsedebilmek için taraflarca imzalanmış yazılı bir anlaşma, karşılıklı mektup teatisi veya telgraf aranmaktadır. Milletlerarası Tahkim Kanunu’nun 4. maddesinde ise; “Yazılı şekil şartının yerine getirilmiş sayılması için tahkim anlaşmasının taraflarca imzalanmış bir belgeye veya taraflar arasında teati edilen mektup, telgraf, teleks, faks gibi iletişim aracına veya elektronik ortama geçirilmiş olması ya da dava dilekçesinde yazılı bir tahkim antlaşmasının varlığının iddia edilmesine davalının verdiği cevap dilekçesinde itiraz edilmemiş olması gerekir. Asıl sözleşmenin bir parçası haline getirilmek amacıyla tahkim şartı içeren bir belgeye yollama yapılması halinde de geçerli bir tahkim anlaşması yapılmış sayılır” hükümlerine yer verilmiştir. Nitekim 6100 sayılı HMK’nın 412. maddesinde New York Sözleşmesi ve Milletlerarası Tahkim Kanunu hükümlerine eşdeğer nitelikte düzenlemelere yer verilmiştir.
+
+Somut olayda tarflar arasındaki uyuşmazlık; asıl taşıyıcı davalı ile fiili taşıyıcı davacı arasında dava dışı O. G. firmasına ait malların İspanya’dan Türkiye’ye nakliyesine ilişkin taşıma sözleşmesinden kaynaklanmaktadır. Dosya içerisinde yer alan “Yükleme Antlaşması” başlıklı taşıma sözleşmesinin, yazılı şekilde düzenlendiği, taraflarca icap ve kabulün teyitleşilerek yapıldığı anlaşılmaktadır. Bahsi geçen sözleşmede; sözleşme koşullarına 24. saat içide itiraz edilmediği taktirde teyit edilmiş sayılacağı, sözleşmeden doğabilecek uyuşmazlıkların İstanbul Ticaret Odası Tahkim Uzlaştırma ve Hakem Bilirkişilik Yönetmeliği uyarınca çözümleneceği belirtilmektedir. Sözleşme uyarınca davacı firma tarafından taşımanın yapılması, davacı tarafından bu taşımadan kaynaklı navlun alacağının talep edilmesi karşısında davacı tarafından “Yükleme Antlaşması” başlıklı taşıma sözleşmesindeki koşulların tahkim şartı da dahil olmak üzere kabul edildiği sonucuna varılmaktadır. HMK’nın 116. maddesinde tahkim itirazı ilk itirazlar arasında sayılmış olup davalı vekilince süresinde tahkim ilk itirazında bulunulmuştur. Mahkemece yukarıda açıklanan hususlar uyarınca geçerli bir tahkim şartının mevcudiyeti gözetilmeksizin tahkim ilk itirazının reddiyle işin esasının incelenip yazılı şekilde karar verilmesi doğru olmamış, bozmayı gerektirmiştir.
+
+2-Bozma sebep ve şekline göre davacı vekilinin tüm, davalı vekilinin sair temyiz itirazlarının bu aşamada incelenmesine gerek görülmemiştir.
+
+SONUÇ:Yukarıda (1) numaralı bentte açıklanan nedenlerle davalı vekilinin temyiz itirazlarının kabulüyle hükmün davalı yararına BOZULMASINA, (2) numaralı bentte açıklanan nedenlerle davacı vekilinin tüm, davalı vekilinin sair temyiz itirazlarının bu aşamada incelenmesine yer olmadığına, ödedikleri temyiz peşin harcın istekleri halinde temyiz edenlere iadesine, 11/05/2015 tarihinde oybirliğiyle karar verildi.
+
+UYARI

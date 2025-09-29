@@ -1,0 +1,407 @@
+Karşılıksız Yararlanma Suçu
+
+TCK Madde 163
+
+TCK Madde 163 Gerekçesi
+
+TCK 163 (Karşılıksız Yararlanma Suçu) Emsal Yargıtay Kararları
+
+(1) Otomatlar aracılığı ile sunulan ve bedeli ödendiği takdirde yararlanılabilen bir hizmetten ödeme yapmadan yararlanan kişi, iki aydan altı aya kadar hapis veya adlî para cezası ile cezalandırılır.
+
+(2) Telefon hatları ile frekanslarından veya elektromanyetik dalgalarla yapılan şifreli veya şifresiz yayınlardan sahibinin veya zilyedinin rızası olmadan yararlanan kişi, altı aydan iki yıla kadar hapis veya adlî para cezası ile cezalandırılır.
+
+(3) (Ek: 2/7/2012-6352/83 md.) Abonelik esasına göre yararlanılabilen elektrik enerjisinin, suyun veya doğal gazın sahibinin rızası olmaksızın ve tüketim miktarının belirlenmesini engelleyecek şekilde tüketilmesi halinde kişi hakkında bir yıldan üç yıla kadar hapis cezasına hükmolunur.
+
+5237 sayılı Türk Ceza Kanunu (TCK) Tam Metin
+
+Makale :Karşılıksız Yararlanma Suçu ve Cezası
+
+Madde metninde karşılıksız yararlanma suçu tanımlanmıştır. Otomatlar aracılığı ile sunulan ve bedeli ödendiği takdirde yararlanılabilen bir hizmetten ödeme yapmadan yararlanmak, karşılıksız yararlanma suçunu oluşturmaktadır. Otomatlar aracılığı ile satışa sunulan hizmetlerden, otomatın teknik işleyişini devre dışı bırakan müdahalelerle, bedeli ödenmeksizin yararlanılması durumunda, ortada bir taşınabilir mal bulunmadığı için, hırsızlık suçu oluşmayacaktır. Örneğin, toplu taşım sistemlerinde yolcuların geçişlerini kontrol eden otomatlara müdahale edilmek suretiyle ücret ödenmeksizin yolculuk yapılması durumunda, karşılıksız yararlanma suçunun oluştuğunu kabul etmek gerekir. Burada, bir hilenin varlığından söz edilemez. Çünkü bu durumda herhangi bir kişi aldatılmamaktadır. Yapılan müdahale ile bir otomatın teknik işleyişinin devre dışı bırakılması durumunda, bir hilenin varlığından söz edilemez. Çünkü, dolandırıcılık suçu açısından hilenin varlığı için muhatabın mutlaka insan olması gerekir.
+
+Keza, başkasına ya da kamuya ait telefon şebekesinden bedeli ödenmeksizin ve hukuk dışı yollarla yararlanılması durumunda, hırsızlık suçu oluşmaz. Çünkü, ortada taşınabilir bir mal yoktur. Başkasına ya da kamuya ait telefon şebekesinden bedeli ödenmeksizin ve hukuk dışı yollarla yararlanılması fiili, karşılıksız yararlanmanın tipik bir örneğini oluşturmaktadır.
+
+Kamu veya özel kuruluşlarca kurulmuş bulunan telli ve telsiz telefon hatları ile sistemlerinden veya elektromanyetik dalgalar yolu ile şifreli veya şifresiz yayın yapan televizyon yayınlarından sahiplerinin veya zilyetlerinin rızası olmadan yararlanılması durumunda da bu suç oluşur. Bu durumlarda bir mal söz konusu olmadığı için hırsızlık suçunun oluştuğundan söz edilemez.
+
+Ceza Genel Kurulu         2017/1082 E.  ,  2019/548 K.
+
+5237 sayılı TCK’nın 163. maddesinin üçüncü fıkrasında düzenlenen fiilin konusu, abonelik esasına göre yararlanılabilen elektrik, su veya doğal gazdır. Bu fıkra ile elektrik, su veya doğal gazdan bedel ödeyerek yararlanan kişilerin daha fazla ödemede bulunmaması amacıyla sayılan enerjiler üzerindeki kullanım hakları korunmaktadır. Bu kapsamda suçun mağduru, kendi hattından hukuka aykırı olarak enerji nakli yapılan gerçek veya tüzel kişi olabileceği gibi bu hizmeti sağlayan şirket de olabilir. Başka bir ifade ile mağdur; elektrik enerjisinin, suyun veya doğal gazın “sahibi” olmalıdır.
+
+Abonelik esasına göre yararlanılabilme enerjinin bir niteliği olup bu suçun hizmeti sağlayan kurum veya kuruluşlar yanında geçerli bir abonelik sözleşmesi kurarak enerjinin sahibi hâline gelen ve kendi hattından hukuka aykırı olarak enerji nakli yapılan gerçek veya tüzel kişilere karşı işlenmesi mümkündür. Elektrik enerjisi, doğal gaz veya sudan sahibinin rızası olmadan yararlanma fiilinin oluşması için, gerçek tüketim miktarının tespitinin engellenmiş olması da gerekir. Bu durum, abonelik esasına göre kurulması gereken tesisatın abonelik ilişkisi kurulmaksızın enerjiden yararlanma şeklinde ortaya çıkabileceği gibi geçerli bir abonelik ilişkisi bulunmakla birlikte enerjinin tüketim miktarını gösteren tesisata müdahale edilmesi sonucu tesisatın tüketim miktarını hiç göstermemesi veya daha az göstermesi şeklinde de gerçekleşebilir. Karşılıksız yararlanma suçunun oluşabilmesi için, failin, sadece kendi sayacına müdahale etmesi şart olmayıp somut olayda olduğu gibi abone olan başka bir kişiye ait sayaçtan geçtikten sonra ayrı bir hat çekerek ve ayrı bir sayaçtan geçirmeksizin kaçak elektrik kullanması hâlinde de kullandığı elektrik miktarının belirlenmesini engellemesi söz konusu olacaktır. Diğer bir deyişle, abonelik esasına göre kullanılan elektriğin miktarının belirlenmesi gerekirken başka abonenin sayacının varlığından faydalanıp kaçak kullanılan elektriğin gözden kaçırıldığı ve durum ortaya çıkarıldığında da kullanılan miktarın belli olmadığı gözetildiğinde, kullanılan enerji miktarının belirlenmesinin engellenmiş olduğundan kuşku duyulmamalıdır. Mühim olan kullanılan kaçak elektrik miktarının belli olmamasıdır. Kaçak kullanılan elektriğin başkasına ait sayaçtan geçmesinin önemi yoktur.
+
+Bu açıklamalardan sonra sanığın eyleminin suç oluşturup oluşturmadığı ve bu suçun hukuki niteliğinin belirlenmesine ilişkin uyuşmazlık konusu değerlendirildiğinde;
+
+Katılan şirket adına kayıtlı olan 32326 tesisat numaralı elektrik sayacının çıkış sigortasından kablo bağlanmak suretiyle aynı binanın ikinci katında bulunan ve sanığa ait olan dairede elektrik enerjisi kullanıldığının anlaşıldığı olayda; elektrik enerjisinden hukuken abonelik esasına göre yararlanılabilmesi, katılan şirketin, dağıtıcı konumundaki kurum ile geçerli bir abonelik sözleşmesi kurarak sayaçtan geçen elektrik enerjisinin sahibi hâline gelmesi, sanığa ait dairede de sahibinin rızası olmaksızın ve tüketilen enerji miktarının belirlenmesinin önlenerek elektrik enerjisi kullanılması şeklinde gerçekleşen eylemin, TCK’nın 163. maddesinin üçüncü fıkrasında düzenlenen karşılıksız yararlanma suçunu oluşturduğu; 6352 sayılı Kanun ile yapılan değişiklik sonucunda ekonomik bir değer taşıyan her türlü enerjinin taşınır mal sayılacağına ve elektrik enerjisinin de hırsızlık suçuna konu olabileceğine ilişkin TCK’nın 141. maddesinin ikinci fıkrası ile aynı Kanun’un 142. maddesinin birinci fıkrasının (f) bendinin yürürlükten kaldırılması ve bu bağlamda abonelik esasına göre yararlanılabilen elektrik enerjisinin taşınır mal sayılmaması nedeniyle eylemin hırsızlık suçu kapsamında değerlendirilemeyeceği kabul edilmelidir.
+
+Ceza Genel Kurulu Kararı - Karar: 2019/507
+
+5237 sayılı TCK’nın “Karşılıksız yararlanma” başlığını taşıyan 163. maddesi ise;
+
+“1- Otomatlar aracılığı ile sunulan ve bedeli ödendiği takdirde yararlanılabilen bir hizmetten ödeme
+yapmadan yararlanan kişi, iki aydan altı aya kadar hapis veya adli para cezası ile cezalandırılır.
+
+2- Telefon hatları ile frekanslarından veya elektromanyetik dalgalarla yapılan şifreli veya şifresiz
+yayınlardan sahibinin veya zilyedinin rızası olmadan yararlanan kişi, altı aydan iki yıla kadar hapis veya adlî
+para cezası ile cezalandırılır.” şeklinde iken 6352 sayılı Kanun’un 83. maddesi ile de 5237 sayılı TCK’nın 163.
+maddesine; “Abonelik esasına göre yararlanılabilen elektrik enerjisinin, suyun veya doğal gazın sahibinin
+rızası olmaksızın ve tüketim miktarının belirlenmesini engelleyecek şekilde tüketilmesi hâlinde kişi
+hakkında bir yıldan üç yıla kadar hapis cezasına hükmolunur.” şeklindeki üçüncü fıkra eklenerek abonelik
+esasına göre yararlanılan su ve elektrik enerjisine karşı gerçekleştirilen eylemlerin karşılıksız yararlanma
+suçu kapsamında kaldığı belirtilmiştir.
+
+5237 sayılı TCK’nın karşılıksız yararlanma suçunun düzenlendiği 163. maddesinin gerekçesinde;
+“Madde metninde karşılıksız yararlanma suçu tanımlanmıştır. Otomatlar aracılığı ile sunulan ve bedeli
+ödendiği takdirde yararlanılabilen bir hizmetten ödeme yapmadan yararlanmak, karşılıksız yararlanma
+suçunu oluşturmaktadır. Otomatlar aracılığı ile satışa sunulan hizmetlerden, otomatın teknik işleyişini devre
+dışı bırakan müdahalelerle, bedeli ödenmeksizin yararlanılması durumunda, ortada bir taşınabilir mal
+bulunmadığı için, hırsızlık suçu oluşmayacaktır. Örneğin, toplu taşıma sistemlerinde yolcuların geçişlerini
+kontrol eden otomatlara müdahale edilmek suretiyle ücret ödenmeksizin yolculuk yapılması durumunda,
+karşılıksız yararlanma suçunun oluştuğunu kabul etmek gerekir. Burada, bir hilenin varlığından söz edilemez.
+Çünkü bu durumda herhangi bir kişi aldatılmamaktadır. Yapılan müdahale ile bir otomatın teknik işleyişinin
+devre dışı bırakılması durumunda da, bir hilenin varlığından söz edilemez. Çünkü, dolandırıcılık suçu açısından
+hilenin varlığı için muhatabın mutlaka insan olması gerekir.
+
+Keza, başkasına ya da kamuya ait telefon şebekesinden bedeli ödenmeksizin ve hukuk dışı yollarla
+yararlanılması durumunda, hırsızlık suçu oluşmaz. Çünkü, ortada taşınabilir bir mal yoktur. Başkasına ya
+da kamuya ait telefon şebekesinden bedeli ödenmeksizin ve hukuk dışı yollarla yararlanılması fiili, karşılıksız
+yararlanmanın tipik bir örneğini oluşturmaktadır.
+
+Kamu veya özel kuruluşlarca kurulmuş bulunan telli ve telsiz telefon hatları ile sistemlerinden veya
+elektromanyetik dalgalar yolu ile şifreli veya şifresiz yayın yapan televizyon yayınlarından sahiplerinin veya
+zilyetlerinin rızası olmadan yararlanılması durumunda da bu suç oluşur. Bu durumlarda bir mal söz konusu
+olmadığı için hırsızlık suçunun oluştuğundan söz edilemez.”,
+
+6352 sayılı Kanun’un 83. maddesi ile 5237 sayılı TCK’nın 163. maddesine üçüncü fıkranın eklenmesine
+ilişkin gerekçede ise;
+
+“5237 sayılı Türk Ceza Kanunu’nun ‘Karşılıksız Yararlanma’ başlıklı 163 üncü maddesinde; otomatlar
+aracılığı ile sunulan ve bedeli ödendiği takdirde yararlanılabilen bir hizmetten ödeme yapmadan yararlanan
+kişiler ile telefon hatları ile frekanslarından veya elektromanyetik dalgalarla yapılan şifreli veya şifresiz
+yayınlardan sahibinin veya zilyedinin rızası olmadan yararlanan kişilerin cezalandırılması hüküm altına
+alınmıştır. Maddenin gerekçesinde ise, bu durumlarda, ortada taşınabilir bir mal olmadığından hırsızlık
+suçunun oluştuğundan söz edilemeyeceği ve karşılıksız yararlanmanın tipik bir örneğinin düzenlendiği ifade
+edilmiştir. Maddeyle, 5237 sayılı Türk Ceza Kanunu’nun ‘Karşılıksız yararlanma’ başlıklı 163. maddesine yeni bir
+fıkra eklenmek suretiyle esas itibarıyla karşılıksız yararlanma kapsamında değerlendirilmesi gereken ve
+abonelik esasına göre yararlanılabilen elektrik enerjisinin, suyun veya doğalgazın sahibinin rızası olmaksızın
+tüketilmesi eylemleri de karşılıksız yararlanma olarak düzenlenmektedir. Yapılan düzenlemeyle, söz konusu
+eylemlerin cezası, bu suçlarla mücadelede etkinliğin sağlanabilmesi amacıyla iki yıldan beş yıla kadar hapis
+cezası olarak öngörülmektedir.” açıklamalarına yer verilmiştir.
+
+Görüldüğü gibi 5237 sayılı TCK ile 765 sayılı TCK’nın karşılıksız yararlanma suçuna ilişkin hükümleri
+arasında ciddi yapısal farklılıklar mevcuttur. Öncelikle, 765 sayılı TCK’da suç olarak düzenlenen, karşılıksız
+olarak geçici konaklamalar, lokanta ve benzeri yerlerde yiyip içme fiilleri, taksi ve benzeri ulaşım araçları ile
+kendisini bir yerden diğer bir yere taşıtmak şeklindeki fiiller, 5237 sayılı TCK’da suç olarak düzenlenmemiştir.
+Bu tür eylemlerin yeni TCK’da suç olarak düzenlenmemesi konusunda ne genel gerekçede ne de madde
+gerekçesinde bir açıklama bulunmaktadır. Uygulamada bu hareketlerin hukuki uyuşmazlık kapsamında
+kaldığı kabul edilmiştir. Ancak otomatlardan karşılıksız yararlanma suçu, cezası ağırlaştırılmak suretiyle,
+genel olarak 5237 sayılı TCK’da muhafaza edilmiştir. Yargıtay İçtihadı Birleştirme Genel Kurulunun
+06.04.1990 tarihli kararında telefon hizmetinden çeşitli usul ve yöntemlerle saplama yapmak suretiyle
+bedelsiz ve kaçak yararlanmanın hırsızlık suçunu oluşturduğu belirtilmiş olduğundan, 5237 sayılı TCK
+yürürlüğe girene kadar, bu içtihadı birleştirme kararı doğrultusunda telefon hizmetlerinden yararlanmak
+eylemleri hırsızlık olarak kabul edilmişken, 5237 sayılı TCK’da ise karşılıksız yararlanma suçu kapsamında
+değerlendirilmiştir. Enerjinin taşınır mal kabul edilmesi ve kaçak enerji kullanımının hırsızlık suçu olarak
+cezalandırılmasının tarihsel gelişiminin de karşılıksız yararlanma fiillerinin suç olarak kabul edilmesi
+sürecine benzediği görülmektedir. Bununla birlikte örneğin failin, mağduru aldatabilecek nitelikte bir
+takım hileli davranışlarda bulunarak lokanta ve benzeri yerlerde bedelini ödemeden yiyip içmek suretiyle
+kendisi lehine haksız bir yarar sağlaması şeklindeki eyleminin olayın özelliğine göre dolandırıcılık suçunu
+oluşturabileceği de gözetilmelidir.
+
+Gelinen aşamada karşılıksız yararlanma suçunun yasal unsurları üzerinde durulmasında fayda
+bulunmaktadır. 5237 sayılı TCK’nın 163. maddesinin üçüncü fıkrasında düzenlenen fiilin konusu, abonelik esasına
+göre yararlanılabilen elektrik, su veya doğal gazdır. Bu fıkra ile elektrik, su veya doğal gazdan bedel
+ödeyerek yararlanan kişilerin daha fazla ödemede bulunmaması amacıyla sayılan enerjiler üzerindeki
+kullanım hakları korunmaktadır. Bu kapsamda suçun mağduru, kendi hattından hukuka aykırı olarak
+enerji nakli yapılan gerçek veya tüzel kişi olabileceği gibi bu hizmeti sağlayan şirket de olabilir. Başka bir
+ifade ile mağdur; elektrik enerjisinin, suyun veya doğal gazın “sahibi” olmalıdır.
+Abonelik esasına göre yararlanılabilme enerjinin bir niteliği olup bu suçun hizmeti sağlayan kurum
+veya kuruluşlar yanında geçerli bir abonelik sözleşmesi kurarak enerjinin sahibi hâline gelen ve kendi
+hattından hukuka aykırı olarak enerji nakli yapılan gerçek veya tüzel kişilere karşı işlenmesi mümkündür.
+Elektrik enerjisi, doğal gaz veya sudan sahibinin rızası olmadan yararlanma fiilinin oluşması için, gerçek
+tüketim miktarının tespitinin engellenmiş olması da gerekir. Bu durum, abonelik esasına göre kurulması
+gereken tesisatın abonelik ilişkisi kurulmaksızın enerjiden yararlanma şeklinde ortaya çıkabileceği gibi
+geçerli bir abonelik ilişkisi bulunmakla birlikte enerjinin tüketim miktarını gösteren tesisata müdahale
+edilmesi sonucu tesisatın tüketim miktarını hiç göstermemesi veya daha az göstermesi şeklinde de
+gerçekleşebilir. Karşılıksız yararlanma suçunun oluşabilmesi için, failin, sadece kendi sayacına müdahale
+etmesi şart olmayıp somut olayda olduğu gibi abone olan başka bir kişiye ait sayaçtan geçtikten sonra ayrı
+bir hat çekerek ve ayrı bir sayaçtan geçirmeksizin kaçak elektrik kullanması hâlinde de kullandığı elektrik
+miktarının belirlenmesini engellemesi söz konusu olacaktır. Diğer bir deyişle, abonelik esasına göre
+kullanılan elektriğin miktarının belirlenmesi gerekirken başka abonenin sayacının varlığından faydalanıp
+kaçak kullanılan elektriğin gözden kaçırıldığı ve durum ortaya çıkarıldığında da kullanılan miktarın belli
+olmadığı gözetildiğinde, kullanılan enerji miktarının belirlenmesinin engellenmiş olduğundan kuşku
+duyulmamalıdır. Mühim olan kullanılan kaçak elektrik miktarının belli olmamasıdır. Kaçak kullanılan
+elektriğin başkasına ait sayaçtan geçmesinin önemi yoktur.
+
+Bu açıklamalardan sonra sanığın eyleminin suç oluşturup oluşturmadığı ve bu suçun hukuki
+niteliğinin belirlenmesine ilişkin uyuşmazlık konusu değerlendirildiğinde;
+
+Sanığın, ikamet ettiği apartmanın ortak kullanımına ait merdiven aydınlatma lambasına seyyar kablo
+bağlamak suretiyle kendi evinde elektrik enerjisi kullandığı olayda; elektrik enerjisinden hukuken abonelik
+esasına göre yararlanılabilmesi, katılanın sorumlusu olduğu site yönetiminin dağıtıcı konumundaki
+kurum ile geçerli bir abonelik sözleşmesi kurarak sayaçtan geçen ve site sakinleri tarafından ortak
+olarak kullanılan elektrik enerjisinin sahibi hâline gelmesi, sanığın da sahibinin rızası olmaksızın ve
+kendisi tarafından tüketilen enerji miktarının belirlenmesini önleyecek şekilde elektrik enerjisi tüketmesi
+şeklindeki eyleminin TCK’nın 163. maddesinin üçüncü fıkrasında düzenlenen karşılıksız yararlanma
+suçunu oluşturduğu; 6352 sayılı Kanun ile yapılan değişiklik sonucunda ekonomik bir değer taşıyan her
+türlü enerjinin taşınır mal sayılacağına ve elektrik enerjisinin de hırsızlık suçuna konu olabileceğine ilişkin
+TCK’nın 141. maddesinin ikinci fıkrası ile aynı Kanun’un 142. maddesinin birinci fıkrasının (f) bendinin
+yürürlükten kaldırılması ve bu bağlamda abonelik esasına göre yararlanılabilen elektrik enerjisinin taşınır
+mal sayılmaması nedeniyle eylemin hırsızlık suçu kapsamında değerlendirilemeyeceği kabul edilmelidir.
+Bu itibarla, Yargıtay Cumhuriyet Başsavcılığı itirazının değişik gerekçe ile kabulüne, Özel Daire
+bozma kararından “TCK’nın 163/3. maddesinde ‘Abonelik esasına göre yararlanılabilen elektrik enerjisinin,
+suyun veya doğal gazın sahibinin rızası olmaksızın ve tüketim miktarının belirlenmesini engelleyecek şekilde
+tüketilmesi hâlinde kişi hakkında bir yıldan üç yıla kadar hapis cezasına hükmolunur.’ denilmekle suça konu
+olayda abonelik esasına göre yararlanılan elektrik kullanımı olmadığından yüklenen fiilin kanunda suç
+olarak tanımlanmamış olması nedeniyle sanık hakkında 5271 sayılı CMK’nın 223/2 (a) maddesi gereğince
+beraat kararı verilmesi gerektiği gözetilmeden yazılı şekilde hüküm kurulması” şeklindeki bozma nedeninin
+çıkarılmasına, yerine “Sanığın eyleminin TCK’nın 163/3. maddesinde düzenlenen karşılıksız yararlanma
+suçunu oluşturduğu gözetilmeden yazılı şekilde aynı Kanun’un 141/1. maddesi uyarınca mahkûmiyetine karar
+verilmesi” biçimindeki bozma nedeninin eklenmesine karar verilmelidir.
+
+Yargıtay 2. Ceza Dairesi         2021/9402 E.  ,  2022/76 K.
+
+Sanık hakkında hırsızlık suçundan kurulan mahkumiyet hükmüne yönelik temyiz isteminin incelenmesinde;
+Sanığın köy halkının ortak kullanımında olan, abonelik esasına tabi olmayan köy içme suyunu havalandırma kuyusunun betonunu delmek ve hortum kullanmak suretiyle biriken suyu kullanması şeklindeki eyleminin TCK kapsamında suç teşkil etmediği, sanığın eyleminin 7478 sayılı Köy İçme Suları Hakkında Kanunu’nun 5728 sayılı Yasa ile değişik 16/2. maddesi kapsamında kaldığı ve idari para cezasını gerektirir nitelikte kabahat fiilini oluşturduğu; bu itibarla CMK’nın 223/1-a maddesi gereğince sanık hakkında hırsızlık suçundan dolayı beraat kararı verilmesi ve 5326 sayılı Kabahatler Kanunu’nun 20/2-c maddesi gereğince idari para cezasının soruşturma zamanaşımının da dolması nedeniyle zamanaşımından düşürülmesi gerekmektedir.
+
+Ceza Genel Kurulu         2020/258 E.  ,  2022/301 K.
+
+TCK’nın “Karşılıksız yararlanma” başlığını taşıyan 163. maddesi;
+
+“1- Otomatlar aracılığı ile sunulan ve bedeli ödendiği takdirde yararlanılabilen bir hizmetten ödeme yapmadan yararlanan kişi, iki aydan altı aya kadar hapis veya adli para cezası ile cezalandırılır.
+
+2- Telefon hatları ile frekanslarından veya elektromanyetik dalgalarla yapılan şifreli veya şifresiz yayınlardan sahibinin veya zilyedinin rızası olmadan yararlanan kişi, altı aydan iki yıla kadar hapis veya adlî para cezası ile cezalandırılır.” şeklinde iken 6352 sayılı Kanun’un 83. maddesi ile TCK’nın 163. maddesine;
+
+“Abonelik esasına göre yararlanılabilen elektrik enerjisinin, suyun veya doğal gazın sahibinin rızası olmaksızın ve tüketim miktarının belirlenmesini engelleyecek şekilde tüketilmesi hâlinde kişi hakkında bir yıldan üç yıla kadar hapis cezasına hükmolunur.” şeklindeki üçüncü fıkra eklenerek abonelik esasına göre yararlanılan su ve elektrik enerjisine karşı gerçekleştirilen eylemlerin karşılıksız yararlanma suçu kapsamında kaldığı belirtilmiştir.
+TCK’nın karşılıksız yararlanma suçunun düzenlendiği 163. maddesinin gerekçesinde;
+
+“Madde metninde karşılıksız yararlanma suçu tanımlanmıştır. Otomatlar aracılığı ile sunulan ve bedeli ödendiği takdirde yararlanılabilen bir hizmetten ödeme yapmadan yararlanmak, karşılıksız yararlanma suçunu oluşturmaktadır. Otomatlar aracılığı ile satışa sunulan hizmetlerden, otomatın teknik işleyişini devre dışı bırakan müdahalelerle, bedeli ödenmeksizin yararlanılması durumunda, ortada bir taşınabilir mal bulunmadığı için, hırsızlık suçu oluşmayacaktır. Örneğin, toplu taşıma sistemlerinde yolcuların geçişlerini kontrol eden otomatlara müdahale edilmek suretiyle ücret ödenmeksizin yolculuk yapılması durumunda, karşılıksız yararlanma suçunun oluştuğunu kabul etmek gerekir. Burada, bir hilenin varlığından söz edilemez. Çünkü bu durumda herhangi bir kişi aldatılmamaktadır. Yapılan müdahale ile bir otomatın teknik işleyişinin devre dışı bırakılması durumunda da, bir hilenin varlığından söz edilemez. Çünkü, dolandırıcılık suçu açısından hilenin varlığı için muhatabın mutlaka insan olması gerekir.
+
+Keza, başkasına ya da kamuya ait telefon şebekesinden bedeli ödenmeksizin ve hukuk dışı yollarla yararlanılması durumunda, hırsızlık suçu oluşmaz. Çünkü, ortada taşınabilir bir mal yoktur. Başkasına ya da kamuya ait telefon şebekesinden bedeli ödenmeksizin ve hukuk dışı yollarla yararlanılması fiili, karşılıksız yararlanmanın tipik bir örneğini oluşturmaktadır.
+
+Kamu veya özel kuruluşlarca kurulmuş bulunan telli ve telsiz telefon hatları ile sistemlerinden veya elektromanyetik dalgalar yolu ile şifreli veya şifresiz yayın yapan televizyon yayınlarından sahiplerinin veya zilyetlerinin rızası olmadan yararlanılması durumunda da bu suç oluşur. Bu durumlarda bir mal söz konusu olmadığı için hırsızlık suçunun oluştuğundan söz edilemez”,
+
+6352 sayılı Kanun’un 83. maddesi ile TCK’nın 163. maddesine üçüncü fıkranın eklenmesine ilişkin gerekçede ise;
+
+“5237 sayılı Türk Ceza Kanunu’nun ‘Karşılıksız Yararlanma’ başlıklı 163 üncü maddesinde; otomatlar aracılığı ile sunulan ve bedeli ödendiği takdirde yararlanılabilen bir hizmetten ödeme yapmadan yararlanan kişiler ile telefon hatları ile frekanslarından veya elektromanyetik dalgalarla yapılan şifreli veya şifresiz yayınlardan sahibinin veya zilyedinin rızası olmadan yararlanan kişilerin cezalandırılması hüküm altına alınmıştır. Maddenin gerekçesinde ise, bu durumlarda, ortada taşınabilir bir mal olmadığından hırsızlık suçunun oluştuğundan söz edilemeyeceği ve karşılıksız yararlanmanın tipik bir örneğinin düzenlendiği ifade edilmiştir.
+Maddeyle, 5237 sayılı Türk Ceza Kanunu’nun ‘Karşılıksız yararlanma’ başlıklı 163. maddesine yeni bir fıkra eklenmek suretiyle esas itibarıyla karşılıksız yararlanma kapsamında değerlendirilmesi gereken ve abonelik esasına göre yararlanılabilen elektrik enerjisinin, suyun veya doğalgazın sahibinin rızası olmaksızın tüketilmesi eylemleri de karşılıksız yararlanma olarak düzenlenmektedir. Yapılan düzenlemeyle, söz konusu eylemlerin cezası, bu suçlarla mücadelede etkinliğin sağlanabilmesi amacıyla iki yıldan beş yıla kadar hapis cezası olarak öngörülmektedir.” açıklamalarına yer verilmiştir.
+
+TCK’nın 163. maddesinin üçüncü fıkrasında düzenlenen fiilin konusu, abonelik esasına göre yararlanılabilen elektrik, su veya doğal gazdır. Bu fıkra ile elektrik, su veya doğal gazdan bedel ödeyerek yararlanan kişilerin daha fazla ödemede bulunmaması amacıyla sayılan enerjiler üzerindeki kullanım hakları korunmaktadır. Bu kapsamda suçun mağduru, kendi hattından hukuka aykırı olarak enerji nakli yapılan gerçek veya tüzel kişi olabileceği gibi bu hizmeti sağlayan şirket de olabilir. Başka bir ifade ile mağdur; elektrik enerjisinin, suyun veya doğal gazın “sahibi” olmalıdır.
+
+Abonelik esasına göre yararlanılabilme enerjinin bir niteliği olup bu suçun hizmeti sağlayan kurum veya kuruluşlar yanında geçerli bir abonelik sözleşmesi kurarak enerjinin sahibi hâline gelen ve kendi hattından hukuka aykırı olarak enerji nakli yapılan gerçek veya tüzel kişilere karşı işlenmesi mümkündür.
+
+Elektrik enerjisi, doğal gaz veya sudan sahibinin rızası olmadan yararlanma fiilinin oluşması için, gerçek tüketim miktarının tespitinin engellenmiş olması da gerekir. Bu durum, abonelik esasına göre kurulması gereken tesisatın abonelik ilişkisi kurulmaksızın enerjiden yararlanma şeklinde ortaya çıkabileceği gibi geçerli bir abonelik ilişkisi bulunmakla birlikte enerjinin tüketim miktarını gösteren tesisata müdahale edilmesi sonucu tesisatın tüketim miktarını hiç göstermemesi veya daha az göstermesi şeklinde de gerçekleşebilir. Karşılıksız yararlanma suçunun oluşabilmesi için, failin, sadece kendi sayacına müdahale etmesi şart olmayıp abone olan başka bir kişiye ait sayaçtan geçtikten sonra ayrı bir hat çekerek ve ayrı bir sayaçtan geçirmeksizin kaçak elektrik kullanması hâlinde de kullandığı elektrik miktarının belirlenmesini engellemesi söz konusu olacaktır. Mühim olan kullanılan kaçak elektrik ya da su miktarının belli olmamasıdır. Kaçak kullanılan elektriğin başkasına ait sayaçtan geçmesinin önemi yoktur.
+
+Bu açıklamalar ışığında uyuşmazlık konusu değerlendirildiğinde;
+
+05.09.2014 tarihinde Niğde ili Kiledere Kasabası’nda yapılan denetimde, sanık … adına kayıtlı bulunan 9728774 abone numaralı sayacın, R fanı akım trafosunun canlı ucunun sökülerek 1/3 oranında eksik tüketim yapmasına neden olunduğunun tespit edilmesi üzerine sanığın karşılıksız yararlanma suçunu işlediği iddia olunan olayda;
+
+Karşılıksız yararlanma suçunun oluşabilmesi için sahibinin rızası olmaksızın, abonelik esasına göre kurulması gereken tesisattan abonelik ilişkisi kurulmadan yararlanılması ya da geçerli bir abonelik ilişkisi bulunmakla birlikte enerjinin tüketim miktarını gösteren tesisata müdahale edilmesi sonucu tesisatın tüketim miktarını hiç göstermemesi veya daha az göstermesi koşullarının yanında ayrıca sanık tarafından gerçek tüketim miktarının tespitinin engellenmiş olması gerektiği dikkate alınarak,
+
+Sanığın aşamalarda, kendi adına kayıtlı olan elektrik sayacını tarlasında bulunan su kuyusunu çalıştırma amacıyla kullandığını, ancak 2014 yılı Temmuz ayında su kuyusu pompasının arıza yapması nedeniyle suyu çıkaramadığını, bu nedenle elektrik de sarf etmediğini, su ihtiyacını yan komşusundan giderdiğini savunması, sanığın tarla komşusu olan tanık Nizamettin Battal’ın, 2014 yılının 7. ayında sanığın su kuyusu pompasının arıza yapması nedeniyle su çıkaramadığını, mahsulünün yanmaması için sanığa kendi kuyusundan su verdiğini, sayacın yol kenarında olup muhafazasının bulunmadığını beyan etmesi, dosya kapsamında mevcut bilirkişi raporlarında, 05.09.2014 tarihli kaçak tespit tutanağından önceki iki ay boyunca sayacın tüketim kaydetmediği ve endekslerde herhangi bir ilerleme olmadığının bildirildiği, bu hâliyle, sanığın, temmuz ayında pompanın bozulduğu ve bu tarihten itibaren kuyunun çalıştırılmadığı iddiasının, sayacı üreten fabrikadan gelen ve sayacın geçmiş endeksleri ve durumunu analiz eden Sayaç Bilgi Formu ile doğrulanmış olduğu, bu nedenle sayacın eksik tüketim kaydetmesi bir yana, hiç endeks kaydetmediği, yani pompanın hiç çalışmadığı, sonuç olarak sayacın en son okunduğu 14.08.2014 ile kaçak tutanağının düzenlendiği 05.09.2014 tarihleri arasında sulama pompasının çalıştırılmadığının bildirilmesi karşısında,
+Sanığa ait olan elektrik sayacının R fanı akım trafosunun canlı ucunun bağlantı yerinden çıkmış olmasının, sayacın eksik tüketim yapmasını sağladığı tespit edilmiş ise de, açık arazide bulunan ve muhafazası olmayan elektrik panosuna sanığın müdahale ettiğine dair herhangi bir delil bulunmadığı gibi bir an için sanığın gerçek tüketim miktarının tespitini engellemek amacıyla kablo ucunu söktüğünün kabulü hâlinde dahi atılı suçun oluşabilmesi için ayrıca sayaca müdahale edilmesi nedeniyle tesisatın tüketim miktarını hiç göstermemesi veya daha az göstermesi koşullarının da bulunması gerektiği, bilirkişi raporunda, sayacın tutanak tarihi itibarıyla hiç endeks kaydetmediğinin bildirildiği, başka bir deyişle sayacın, en son okumanın yapıldığı tarih ile tutanak tarihi arasında kalan zaman diliminde çalıştırılmadığı anlaşıldığından atılı suçun yasal unsurları itibarıyla oluşmadığı kabul edilmelidir.
+
+YARGITAY 2. CEZA DAİRESİ
+Esas: 2017/6091 Karar: 2018/170Tarih: 23.01.2018
+
+TCK 163. Madde
+
+Karşılıksız Yararlanma Suçu
+
+I-Sanık hakkında 22.06.2005, 20.09.2005, 23.12.2005 tarihli eylemleri için karşılıksız yararlanma suçundan kurulan hükme yönelik yapılan temyiz itirazlarının incelenmesinde;
+
+Sanığın 22.06.2005, 20.09.2005, 23.12.2005 tarihli eylemlerine uyan 5237 sayılı TCK’nın 163/3. maddesindeki karşılıksız yararlanma suçu için öngörülen cezanın üst sınırına göre, aynı Kanun’un 66/1-e ve 67/4. maddelerinde belirtilen 12 yıllık dava zamanaşımının, suç tarihi ile inceleme tarihi arası geçmiş bulunması,
+
+Bozmayı gerektirmiş, sanık müdafiinin temyiz itirazları bu itibarla yerinde görüldüğünden hükmün BOZULMASINA, bozma nedeni yeniden yargılama yapılmasını gerektirmediğinden, 5320 sayılı Yasa’nın 8. maddesi uyarınca halen yürürlükte bulunan, 1412 sayılı CMUK’nın 322. maddesinin verdiği yetkiye dayanılarak, sanık hakkında açılan kamu davasının DÜŞÜRÜLMESİNE,
+
+II-Sanık hakkında 14.04.2006 tarihli eylemi için karşılıksız yararlanma suçundan kurulan hüküm yönünden yapılan temyiz itirazlarına gelince;
+
+Dosya içeriğine göre diğer temyiz itirazları yerinde görülmemiştir. Ancak;
+
+1-Sanık hakkında, sayaçsız kaçak elektrik kullandığından bahisle kaçak tespit tutanağı düzenlenmesi karşısında, öncelikle bilirkişiden rapor alınarak, şikayetçi kurumun vergisiz ve cezasız zararı hesaplattırılıp, sanığa “şikayetçi kurumun bilirkişi tarafından hesaplanan zararı gidermesi durumunda 6352 sayılı Kanun’un geçici 2. maddesi gereğince hakkında ceza verilmesine yer olmadığına karar verileceğine” ilişkin usulüne uygun olarak bildirimde bulunularak makul bir süre verilip, sonucuna göre hakkında 6352 sayılı Kanun’un geçici 2. maddesi gereğince ceza verilmesine yer olmadığına karar verilip verilmeyeceğinin değerlendirilmesi gerekirken eksik inceleme ile yazılı şekilde hüküm kurulması,
+
+2-Sanık hakkında 22.06.2005, 20.09.2005, 23.12.2005 tarihli tutanaklar için karşılıksız yararlanma suçundan zamanaşımının dolması karşısında, sanık hakkında sadece 14.04.2006 tarihli tutanak için hüküm kurulurken TCK’nın 43. maddesi gereğince artırım yapılmaması zorunluluğu,
+
+Bozmayı gerektirmiş, sanık müdafiinin temyiz itirazı bu itibarla yerinde görülmüş olduğundan, hükmün bu sebepten dolayı istem gibi BOZULMASINA, 23/01/2018 tarihinde oybirliğiyle karar verildi.
+
+YARGITAY 17. CEZA DAİRESİ
+Esas: 2015/19746 Karar: 2017/7072Tarih: 05.06.2017
+
+TCK 163. Madde
+
+Karşılıksız Yararlanma Suçu
+
+1- )Uyap kayıtlarından yargılamaya konu tutanak dışında aynı yerle ilgili olarak sanık hakkında başka tespit tutanaklarının da düzenlendiğinin anlaşıldığı, gerçeğin şüpheye yer vermeyecek şekilde açığa çıkartılması, zincirleme suç hükümlerinin uygulama yerinin tespiti ile varsa mükerrer cezalandırılmanın önüne geçilmesi, 6352 Sayılı Kanun’un geçici 2. maddesiyle getirilen düzenleme yönünden haksız yere hak kaybına uğranmasının önlenmesi bakımından, sanık hakkında açılan her bir dava dosyasının suç ve iddianame tarihleri tereddüte mahal bırakmayacak şekilde belirlenip, tutanaklar arasındaki süre dikkate alındığında; kesinleşen dosyalardaki ceza miktarları mahsup edilerek TCK’nın 43. maddesinin uygulanması koşulları tartışılıp değerlendirilmeden sanık hakkında eksik inceleme ile yazılı şekilde karar verilmesi,
+
+2- )6352 Sayılı Kanun’un yürürlüğe girdiği 05.07.2012 tarihi sonrasında işlenen karşılıksız yararlanma suçları 5237 Sayılı TCK’nın 163/3. maddesinden düzenlenmiştir. ‘‘Abonelik esasına göre yararlanılabilen elektrik enerjisinin, suyun veya doğal gazın sahibinin rızası olmaksızın ve tüketim miktarının belirlenmesini engelleyecek şekilde tüketilmesi halinde kişi hakkında bir yıldan üç yıla kadar hapis cezasına hükmolunur.’’
+
+Suçun sübutu halinde; mutlaka bakılması gereken husus ödeme konusudur.
+
+Bu durumda da bakılması gereken madde 5237 Sayılı TCK’nın 168/5: ‘‘Karşılıksız yararlanma suçunda, fail, azmettiren veya yardım edenin pişmanlık göstererek mağdurun, kamunun veya özel hukuk tüzel kişisinin uğradığı zararı, soruşturma tamamlanmadan önce tamamen tazmin etmesi halinde kamu davası açılmaz; zararın hüküm verilinceye kadar tamamen tazmin edilmesi halinde ise, verilecek ceza üçte birine kadar indirilir. Ancak kişi, bu fıkra hükmünden iki defadan fazla yararlanamaz.’’
+
+Bahsedilen zarar; vergili ve cezasız miktardır. Fakat ilgili maddede zararın soruşturma aşamasında ödenmesinden bahsedilmiştir. Bu durumda Cumhuriyet Savcısı keşif yapıp alınacak rapor sonucunda sanığa ödeme bildiriminde bulunmalıdır.
+
+Eğer zarar soruşturma aşamasında tamamen ödenmişse mutlaka düşme kararı verilip adli sicilde bunlara dair mahsus bir sisteme kayıt ettirilmelidir. Sanık soruşturma aşamasında hiç ödeme yapmamış, sanığa ödeme ihtarı da yapılmamış ve sanık kovuşturma aşamasında bilirkişinin hesapladığı miktarı tamamen gidermişse yine düşme kararı verilmelidir.
+
+Somut olay bu açıklamalar ışığında değerlendirildiğinde; bilirkişiden normal tarifeye göre vergiler dahil, cezasız kaçak kullanım bedeline dair rapor alındıktan sonra sanığa makul bir süre verilerek zararı tamamen tazmin etmesi halinde sanığın hukuki durumunun değerlendirilmesi gerekirken yazılı şekilde hüküm kurulması,
+
+3- )Kabul ve uygulamaya göre de;
+
+a- )Hüküm fıkrasında sanık hakkında, tekrar suç işlemeyeceği konusunda olumlu bir kanaatin oluşmaması sebebiyle hapis cezasının seçenek yaptırımlara çevrilmesine, ertelenmesine ve hükmün açıklanmasının geri bırakılmasına karar verilmesine yer olmadığına, yazılmasına rağmen gerekçeli kararda daha önce kasıtlı bir suçtan mahkumiyeti bulunmayan sanığın duruşmada gözlenen pişmanlığı nedeni ile tekrar suç işlemeyeceği konusunda mahkememizde oluşan olumlu kanaate göre verilen hapis cezasının ertelenmesine karar verilmesi suretiyle çelişki oluşturulması,
+
+b- )T.C. Anayasa Mahkemesi’nin, TCK’nın 53. maddesine dair olan, 2014/140 Esas ve 2015/85 Karar sayılı iptal kararının, 24.11.2015 gün ve 29542 Sayılı Resmi Gazete’de yayımlanmış olması sebebiyle iptal kararı doğrultusunda TCK’nın 53.maddesindeki hak yoksunluklarının yeniden değerlendirilmesinde zorunluluk bulunması,
+
+SONUÇ : Bozmayı gerektirmiş, sanık …‘ın temyiz nedeni bu itibarla yerinde görülmüş olduğundan hükmün açıklanan sebeplerle tebliğnameye uygun olarak BOZULMASINA, 05.06.2017 tarihinde oybirliğiyle karar verildi.
+
+YARGITAY 13. CEZA DAİRESİ
+Esas: 2017/2937 Karar: 2017/6475Tarih: 01.06.2017
+
+TCK 163. Madde
+
+Karşılıksız Yararlanma Suçu
+
+Dosya kapsamına göre, her ne kadar Diyarbakır 2. Asliye Ceza Mahkemesince, 5 yıllık tecil süresinin dolduğundan bahisle hükmün ortadan kaldırılmasına karar verilmiş ise de, Diyarbakır 2. Asliye Ceza Mahkemesi’nin 22.03.2004 tarihli kararından sonra 5237 Sayılı Türk Ceza Kanunu’nun ve 05.07.2012 tarihli ve 28344 Sayılı Resmî Gazete’de yayımlanarak yürürlüğe giren 6352 Sayılı Yargı Hizmetlerinin Etkinleştirilmesi Amacıyla Bazı Kanunlarda Değişiklik Yapılması ve Basın Yayın Yoluyla İşlenen Suçlara İlişkin Dava ve Cezaların Ertelenmesi Hakkında Kanun’un yürürlüğe girdiği, yine 05.07.2012 tarihinde yürürlüğe giren 6352 Sayılı Yargı Hizmetlerinin Etkinleştirilmesi Amacıyla Bazı Kanunlarda Değişiklik Yapılması ve Basın Yayın Yoluyla İşlenen Suçlara İlişkin Dava ve Cezaların Ertelenmesi Hakkında Kanun’un 82. maddesiyle elektrik hırsızlığını düzenleyen 5237 Sayılı Kanun’un 142/1-f bendinin yürürlükten kaldırıldığı, aynı Kanun’un 83. maddesiyle 5237 Sayılı Kanun’un 163. maddesine eklenen 3. fıkra ile elektrik hırsızlığı suçunun karşılıksız yararlanma suçu olarak düzenlendiği, dolayısıyla 5252 Sayılı Türk Ceza Kanununun Yürürlük ve Uygulama Şekli Hakkında Kanun’un 9/3. maddesindeki “Lehe olan hüküm, önceki ve sonraki kanunların ilgili bütün hükümleri olaya uygulanarak, ortaya çıkan sonuçların birbirleriyle karşılaştırılması suretiyle belirlenir.” şeklindeki düzenleme karşısında, önceki ve sonraki temel ceza kanunlarının ilgili bütün hükümleri olaya uygulanarak, ortaya çıkan sonuçların birbirleriyle karşılaştırılması suretiyle lehe Kanun’un belirlenmesi gerektiği gözetilmeksizin, yazılı gerekçeyle hükmün ortadan kaldırılmasına karar verilmesinde isabet görülmediğinden anılan kararın bozulması gerektiğinin ihbar olunduğu anlaşılmıştır.
+
+Gereği Görüşülüp Düşünüldü:
+
+KARAR : Dosya kapsamına göre, her ne kadar Diyarbakır 2. Asliye Ceza Mahkemesince, 5 yıllık tecil süresinin dolduğundan bahisle hükmün ortadan kaldırılmasına karar verilmiş ise de, Diyarbakır 2. Asliye Ceza Mahkemesi’nin 22.03.2004 tarihli kararından sonra 5237 Sayılı Türk Ceza Kanunu’nun ve 05.07.2012 tarihli ve 28344 Sayılı Resmî Gazete’de yayımlanarak yürürlüğe giren 6352 Sayılı Yargı Hizmetlerinin Etkinleştirilmesi Amacıyla Bazı Kanunlarda Değişiklik Yapılması ve Basın Yayın Yoluyla İşlenen Suçlara İlişkin Dava ve Cezaların Ertelenmesi Hakkında Kanun’un yürürlüğe girdiği, yine 05.07.2012 tarihinde yürürlüğe giren 6352 Sayılı Yargı Hizmetlerinin Etkinleştirilmesi Amacıyla Bazı Kanunlarda Değişiklik Yapılması ve Basın Yayın Yoluyla İşlenen Suçlara İlişkin Dava ve Cezaların Ertelenmesi Hakkında Kanun’un 82. maddesiyle elektrik hırsızlığını düzenleyen 5237 Sayılı Kanun’un 142/1-f bendinin yürürlükten kaldırıldığı, aynı Kanun’un 83. maddesiyle 5237 Sayılı Kanun’un 163. maddesine eklenen 3. fıkra ile elektrik hırsızlığı suçunun karşılıksız yararlanma suçu olarak düzenlendiği, dolayısıyla 5252 Sayılı Türk Ceza Kanununun Yürürlük ve Uygulama Şekli Hakkında Kanun’un 9/3. maddesindeki “Lehe olan hüküm, önceki ve sonraki kanunların ilgili bütün hükümleri olaya uygulanarak, ortaya çıkan sonuçların birbirleriyle karşılaştırılması suretiyle belirlenir.” şeklindeki düzenleme karşısında, önceki ve sonraki temel ceza kanunlarının ilgili bütün hükümleri olaya uygulanarak, ortaya çıkan sonuçların birbirleriyle karşılaştırılması suretiyle lehe Kanun’un belirlenmesi gerektiği gözetilmeksizin, yazılı gerekçeyle hükmün ortadan kaldırılmasına karar verilmesi nedeni ile anılan hususa yönelik kanun yararına bozma istemi yerinde görülmüş olduğundan KABULÜ ile,
+
+SONUÇ : karşılıksız yararlanma suçundan sanık … hakkında Diyarbakır 2. Asliye Ceza Mahkemesi’nin 13.01.2015 tarihli ve 2003/143 esas, 2014/621 karar sayılı hükmünün 5271 Sayılı Ceza Muhakemesi Kanunu’nun 309. maddesinin 3. fıkras 3. fıkrası uyarınca BOZULMASINA, aynı maddenin 4. fıkrasının ( b ) bendi uyarınca müteakip işlemlerin mahallinde yerine getirilmesine, dosyanın mahalline gönderilmek üzere Yargıtay Cumhuriyet Başsavcılığına İADESİNE, 01.06.2017 tarihinde oybirliğiyle karar verildi.
+
+YARGITAY 17. CEZA DAİRESİ
+Esas: 2016/2578 Karar: 2017/3594Tarih: 27.03.2017
+
+TCK 163. Madde
+
+Karşılıksız Yararlanma Suçu
+
+6352 Sayılı Kanun sonrası 05.07.2012 tarihi sonrasında işlenen karşılıksız yararlanma suçları 5237 Sayılı TCK 163/3. maddesinden düzenlenmiştir. ‘‘Abonelik esasına göre yararlanılabilen elektrik enerjisinin, suyun veya doğal gazın sahibinin rızası olmaksızın ve tüketim miktarının belirlenmesini engelleyecek şekilde tüketilmesi halinde kişi hakkında bir yıldan üç yıla kadar hapis cezasına hükmolunur.’’
+
+Suçun sübutu ve elektriğin sayaçtan geçmeden kullanıldığı bilirkişi raporu ile sabitse; mutlaka bakılması gereken husus ödeme konusudur.
+
+Bu durumda da bakılması gereken madde 5237 Sayılı 168/5: ‘‘Karşılıksız yararlanma suçunda, fail, azmettiren veya yardım edenin pişmanlık göstererek mağdurun, kamunun veya özel hukuk tüzel kişisinin uğradığı zararı, soruşturma tamamlanmadan önce tamamen tazmin etmesi halinde kamu davası açılmaz; zararın hüküm verilinceye kadar tamamen tazmin edilmesi halinde ise, verilecek ceza üçte birine kadar indirilir. Ancak kişi, bu fıkra hükmünden iki defadan fazla yararlanamaz.’’
+
+Bahsedilen zarar; vergili ve cezasız miktardır. Fakat ilgili maddede zararın soruşturma aşamasında ödenmesinden bahsedilmiştir. Bu durumda Cumhuriyet Savcısı tarafından keşif yapılıp alınacak rapor sonucunda sanığa ödeme bildiriminde bulunmalıdır.
+
+Eğer zarar soruşturma aşamasında tamamen ödenmişse mutlaka düşme kararı verilip adli sicilde bunlara dair mahsus bir sisteme kayıt ettirilmelidir. Sanık soruşturma aşamasında hiç ödeme yapmamış, sanığa ödeme ihtarı da yapılmamış ve sanık kovuşturma aşamasında bilirkişinin hesapladığı miktarı tamamen gidermişse yine düşme verilmelidir.
+
+Somut olay bu açıklamalar ışığında değerlendirildiğinde; sanık hakkında borçtan dolayı kesilen elektriği izinsiz olarak kullanmaktan dolayı kaçak elektrik tespit tutanağının düzenlenmesi karşısında; sanığın tarım arazisinde kullanılan elektrik sayacının tüketimi eksik gösterip göstermediği veya sayaca tüketim miktarının belirlenmesini engelleyecek şekilde müdahale edilip edilmediğinin tespit edilebilmesi için; sanığın suça konu yerde ne kadar süredir bulunduğunun ve kaçak ya da usulsüz kullanımın ne zaman başladığının kesin olarak saptanması, sanık suça konu yerde halen bulunuyor ise keşif yapılıp kurulu güç belirlenmek suretiyle; bulunmuyor ise tespit tutanağında belirtilen devreden geçen akım miktarına göre yine tespit tutanağında belirtilen endeks değerinin uyumlu olup olmadığı ve usulsüz kullanım bedeli konusunda ziraat ve elektrik teknik bilirkişilerinden rapor alınarak,
+
+Alınan bilirkişi raporu sonucunda, sanığın karşılıksız yararlanma kastıyla hareket ettiğinin tespiti halinde, katılan kurumun bilirkişi tarafından tespit edilecek cezalar hariç vergiler dahil belirlenen zararın sanık tarafından kovuşturma aşamasında ödenen zararı karşıladığı tespit edildiği taktirde dava şartı gerçekleşmediğinden kamu davasının düşürülmesine, karşılamadığı taktirde sanığa makul bir süre de tanınıp bu süre beklenilerek, sonucuna göre sanığın hukuki durumunun takdir ve tayininin gerekli olduğu gözetilmeden, yazılı şekilde eksik inceleme ve araştırma ile hüküm kurulması,
+
+SONUÇ : Bozmayı gerektirmiş, katılan vekilinin temyiz nedeni bu itibarla yerinde görülmüş olduğundan, hükmün açıklanan sebeple tebliğnameye aykırı olarak BOZULMASINA, 27.03.2017 tarihinde oybirliğiyle karar verildi.
+
+YARGITAY 22. CEZA DAİRESİ
+Esas: 2016/7938 Karar: 2016/11174Tarih: 27.06.2016
+
+TCK 163. Madde
+
+Karşılıksız Yararlanma Suçu
+
+Kanun yararına bozma isteyen tebliğnamede,
+
+1-) Dosya kapsamına göre, 5237 Sayılı Kanun’un 163/3. maddesindeki “Abonelik esasına göre yararlanılabilen elektrik enerjisinin, suyun veya doğal gazın sahibinin rızası olmaksızın ve tüketim miktarının belirlenmesini engelleyecek şekilde tüketilmesi halinde kişi hakkında bir yıldan üç yıla kadar hapis cezasına hükmolunur “ şeklindeki düzenlemeye göre; sanığın kullandığı elektrik miktarının 22.07.2010 tarihli usulsüz elektrik tüketimi tespit tutanağında sayaçtan geçtiğinin belirtilmesi, 06.05.2011 tarihinde mahkemece yapılan keşif sonucu düzenlenen bilirkişi raporunda, tutanak tarihi ile keşif tarihi arasındaki 288 günde gerçekleşen tüketimin kurulu güç ile orantılı olduğunun, idarenin tespitini engelleyecek sayaç harici kullanımın söz konusu olmadığının, idarenin kayıt altına aldığı dönemdeki tüketim miktarı ile tutanak ile tespit edilen kayıtsız dönemdeki tüketimin de orantılı olduğunun, sayaca tüketilen elektriği noksan gösterilmesi için bir müdahale yapılmadığının ve kullanımın kurumu zarara uğratacak nitelikte olmadığının belirtilmesi karşısında, sanığın eyleminin suç oluşturmayacağı gözetilmeden, sanığın beraati yerine yazılı şekilde mahkumiyetine karar verilmesinde,
+
+2-) 5271 Sayılı Ceza Muhakemesi Kanunu’nun 231/11. maddesinde düzenlenen “Denetim süresi içinde kasten yeni bir suç işlemesi veya denetimli serbestlik tedbirine dair yükümlülüklere aykırı davranması halinde, mahkeme hükmü açıklar. Ancak mahkeme, kendisine yüklenen yükümlülükleri yerine getiremeyen sanığın durumunu değerlendirerek; cezanın yarısına kadar belirleyeceği bir kısmının infaz edilmemesine ya da koşullarının varlığı halinde hükümdeki hapis cezasının ertelenmesine veya seçenek yaptırımlara çevrilmesine karar vererek yeni bir mahkûmiyet hükmü kurabilir.” şeklindeki hükme göre, mahkemenin duruşma açarak sanığın hukuki durumunu değerlendirmesi gerekirken, savunma hakkı kısıtlanmak suretiyle yazılı şekilde karar verilmesinde,
+
+3-) 5237 Sayılı Türk Ceza Kanunu’nun 53/2. maddesinde yer alan “Kişi, işlemiş bulunduğu suç dolayısıyla mahkûm olduğu hapis cezasının infazı tamamlanıncaya kadar bu hakları kullanamaz.” ve 3. fıkrasındaki “Mahkûm olduğu hapis cezası ertelenen veya koşullu salıverilen hükümlünün kendi altsoyu üzerindeki velayet, vesayet ve kayyımlık yetkileri açısından yukarıdaki fıkralar hükümleri uygulanmaz.” şeklindeki düzenlemeler karşısında, anılan maddenin 1-c bendinde yer alan hak yoksunluğunun sadece kendi altsoyu üzerindeki velayet, vesayet ve kayyımlık yetkileri açısından koşullu salıvermeden sonra uygulanamayacağı, kendi altsoyu dışındaki kişiler bakımından vesayet ve kayyımlıkla ilgili hak yoksunluğu ile anılan maddenin 1. fıkrası a, b, d ve e bentlerinde yazılı hak yoksunluklarının ise cezanın infazının tamamlanmasına kadar devam edeceği gözetilmeden, yazılı şekilde karar verilmesinde, isabet görülmediğinden, 5271 Sayılı Ceza Muhakemesi Kanunu’nun 309. maddesi uyarınca anılan kararın bozulması lüzumu kanun yararına bozma talebine dayanılarak ihbar olunduğu görülmekle,
+
+Gereği Düşünüldü:
+
+KARAR VE SONUÇ : Yargıtay Kanunu’nun 14. maddesi hükmüne, dosya içeriğine göre, suça sürüklenen çocuk hakkında kanun yararına bozma istemi üzerine gönderilen dosyanın Yargıtay 13. Ceza Dairesinin 16.02.2012 tarih, 2016/168 esas, 2016/2233 karar sayılı kararıyla daireye iade edilmek üzere tevdi edildiğinin anlaşılmasına göre, kanun yararına bozma istemine dair incelemenin Yüksek 13. Ceza Dairesinin görevi dahilinde olduğundan Dairemizin GÖREVSİZLİĞİNE, dosyanın ilgili Daireye gönderilmesine, 27.06.2016 tarihinde oybirliğiyle karar verildi.
+
+YARGITAY 2. CEZA DAİRESİ
+Esas: 2015/16792 Karar: 2015/19893Tarih: 04.11.2015
+
+TCK 163. Madde
+
+Karşılıksız Yararlanma Suçu
+
+Kanun yararına bozma isteyen tebliğnamede;
+
+Sanığın mahkumiyetine karar verilen 5237 sayılı Türk Ceza Kanunu’nun 163/3. maddesinde karşılıksız yararlanma suçunun “Abonelik esasına göre yararlanılabilen elektrik enerjisinin, suyun veya doğal gazın sahibinin rızası olmaksızın ve tüketim miktarının belirlenmesini engelleyecek şekilde tüketilmesi halinde kişi hakkında bir yıldan üç yıla kadar hapis cezasına hükmolunur” şeklinde düzenlendiği,
+
+Dosya kapsamına göre, sanığın elektrik kullanımından kaynaklanan borcunu ödememesi sebebiyle katılan şirket tarafından elektrik sayacının sökülmesini müteakip, sanığın şirketin rızası hilafına yeniden sayaç takarak elektrik kullanmaya devam etmesi şeklinde gerçekleşen olayda, kullanılan elektrik enerjisinin tüketim miktarının belirlenebilir olduğu dolayısıyla karşılıksız yararlanma suçunun yasal unsurlarının oluşmadığı gözetilmeden, sanığın beraati yerine, yazılı şekilde mahkumiyetine karar verilmesinde isabet görülmediğinden 5271 Sayılı CMK.nun 309. maddesi uyarınca anılan kararın bozulması lüzumu kanun yararına bozma talebine dayanılarak ihbar olunmuştur.
+
+Gereği düşünüldü:
+
+Sonuç: 6352 sayılı Yasa’nın geçici 2. maddesinin 1. 2. fıkra 1. ve 2. fıkra hükümleri birlikte değerlendirildiğinde, kurum zararının giderilmesi halinde öncelikle ceza verilmesine yer olmadığına karar verilmesi gerekeceğinden, kurum zararı normal tarifeye göre vergi ve cezalar hariç olarak bilirkişiye hesaplattırılıp, bilirkişi tarafından belirlenen zararı gidermesi halinde, 6352 sayılı Yasa’nın geçici 2/2. maddesi gereğince ceza verilmesine yer olmadığına karar verileceğine dair sanığa bildirimde bulunulması, ödeme için makul bir süre verilip, sonucuna göre hukuki durumunun takdir ve tayini gerektiği gözetilmeyip, süre verilirse borcunu ödeyeceğini belirten sanığa, normal tarifeden hesaplanacak zarar miktarına göre bildirimde bulunulmadan hükümlülük kararı verilmesi nedeniyle öncelikle bu yönden kanun yararına bozma isteminde bulunulup bulunulmayacağının takdiri için dosyanın Adalet Bakanlığına sunulmak üzere Yargıtay Cumhuriyet Başsavcılığına GÖNDERİLMESİNE, 04.11.2015 tarihinde oybirliği ile, karar verildi.
+
+YARGITAY 2. CEZA DAİRESİ
+Esas : 2018/2006 Karar : 2018/5593Tarih : 3.05.2018
+
+TCK 163. Madde
+
+Karşılıksız Yararlanma Suçu
+
+Dosya içeriğine göre diğer temyiz itirazları yerinde görülmemiştir.Ancak;
+
+02.07.2012 tarihinde kabul edilerek, 28344 sayılı Resmi Gazete’de yayımlanan ve 05.07.2012 tarihinde yürürlüğe giren 6352 sayılı Yargı Hizmetlerinin Etkinleştirilmesi Amacıyla Bazı Kanunlarda Değişiklik Yapılması ve Basın Yoluyla İşlenen Suçlara İlişkin Dava ve Cezaların Ertelenmesi Hakkında Kanun’un geçici 2. maddesinin l. fıkrası uyarınca aynı maddenin 2. fıkrası gereğince, şikayetçi kurumun zararını tazmin etmesi halinde sanık hakkında ceza verilmesine yer olmadığına karar verilmesi gerektiği gözetilerek, Dairemizin 03/03/2015 tarihli bozma kararına uyulmasına karar verilmesi karşısında bozma kararı uyarınca 6352 sayılı Yasa’nın 83. maddesi ile değiştirilen 5237 sayılı TCK’nın 163. maddesi uyarınca, abonelik esasına bağlı olarak kullanılan su tüketim miktarının belirlenmesini engelleyecek şekilde tüketilip tüketilmediğinin tespiti gerekeceğinden, sanığın usulsüz su kullandığı tarihten itibaren, sayaçtaki endeks ile tespit anında belirlenen kullanımın uyumlu olup olmadığı konusunda uzman bilirkişiden rapor alınarak sanığın karşılıksız yararlanma kastının bulunup bulunmadığı değerlendirilerek, sanığın suçunun sübutu halinde sanığa bilirkişi tarafından hesaplanacak vergiler ve cazalar hariç kaçak kullanım bedelini ödemesi durumunda hakkında 6352 sayılı Yasa’nın geçici 2. maddesinin 2. fıkrası uyarınca ceza verilmesine yer olmadığına karar verileceği ihtarında bulunulup, ödemesi için makul bir süre de verilerek sonucuna göre, hukuki durumunun tayin ve tespiti gerekirken, Yargıtayın bozma kararının sanığa tebliğ edilmesi ile yetinilerek eksik inceleme ve araştırma ile delil değerlendirilmesi yapılmak suretiyle yazılı şekilde beraat kararı verilmesi,
+
+Bozmayı gerektirmiş, katılan vekilinin temyiz itirazları bu bakımdan yerinde görülmüş olduğundan, hükmün açıklanan nedenle isteme aykırı olarak BOZULMASINA, 03/05/2018 gününde oybirliğiyle karar verildi.
+
+YARGITAY 2. CEZA DAİRESİ 
+Esas : 2018/5487 Karar : 2018/12400Tarih : 31.10.2018
+
+TCK 163. Madde
+
+Karşılıksız Yararlanma Suçu
+
+Sanığın kayıtsız sayaçtan elektrik kullandığı iddiasıyla hakkında tutanak tutulduğu olayda, TCK’nın 163/3. maddesinde öngörülen cezanın üst sınırına göre TCK’nın 66/1-e, 67/3 ve 67/4. maddeleri uyarınca hesaplanan 8 yıllık zamanaşımının 18/12/2009 tarihli mahkumiyet kararından hüküm tarihine kadar geçmiş bulunduğu gözetilmeden, sanık hakkındaki kamu davasının zamanaşımı nedeniyle düşürülmesi yerine yargılamaya devamla yazılı şekilde hüküm kurulması,
+
+Bozmayı gerektirmiş, katılan vekilinin temyiz itirazları bu bakımdan yerinde görülmüş olduğundan, hükmün açıklanan nedenle BOZULMASINA, bozma nedeni yeniden yargılama yapılmasını gerektirmediğinden, 5320 sayılı Kanun’un 8. maddesi uyarınca halen yürürlükte bulunan, 1412 sayılı CMUK’nın 322. maddesinin verdiği yetkiye dayanılarak, sanık hakkında açılan kamu davasının, 5271 sayılı CMK’nın 223/8. maddesi gereğince zamanaşımı nedeniyle DÜŞÜRÜLMESİNE, 31/10/2018 gününde oybirliğiyle karar verildi.
+
+YARGITAY 2. CEZA DAİRESİ
+Esas : 2017/6128 Karar : 2018/2665Tarih : 14.03.2018
+
+TCK 163. Madde
+
+Karşılıksız Yararlanma Suçu
+
+Dosya kapsamına göre,
+
+1- Karar tarihinde yürürlükte bulunan 5352 sayılı Adli Sicil Kanunu’nun geçici 2. maddesine 6290 sayılı Adli Sicil Kanunu İle Sporda Şiddet ve Düzensizliğin Önlenmesine Dair Kanunda Değişiklik Yapılması Hakkında Kanun’un 3. maddesi ile eklenen 3. fıkrasında “İkinci fıkrada sayılanlar dışında, birinci fıkra gereğince işlem yapılarak arşive alınan kayıtlar 3682 sayılı Kanunun 8 inci maddesinde öngörülen sürelerin dolduğu veya ertelenmiş olan mahkûmiyetin esasen vaki olmamış sayıldığı hallerde bu tarih esas alınarak Adli Sicil ve İstatistik Genel Müdürlüğünce silinir.” şeklindeki düzenleme nazara alındığında, 6290 sayılı Kanun’un yürürlüğe girdiği 11/04/2012 tarihinden itibaren adlî sicil ve arşiv kayıtlarının silinmesi işleminin münhasıran Adli Sicil ve İstatistik Genel Müdürlüğünce yapılması gerektiğinin gözetilmemesinde,
+
+2- 05/07/2012 tarihli ve 28344 sayılı Resmî Gazete’de yayımlanarak yürürlüğe giren 6352 sayılı Yargı Hizmetlerinin Etkinleştirilmesi Amacıyla Bazı Kanunlarda Değişiklik Yapılması ve Basın Yayın Yoluyla İşlenen Suçlara İlişkin Dava ve Cezaların Ertelenmesi Hakkında Kanun’un 82. maddesi ile elektrik hırsızlığını düzenleyen 5237 sayılı Kanunun 142/1-f bendi yürürlükten kaldırıldığı, aynı Kanun’un 83. maddesi ile 5237 sayılı Kanunun 163 üncü maddesine eklenen 3. fıkra ile elektrik hırsızlığı suçunun karşılıksız yararlanma suçu olarak düzenlendiği, dolayısıyla 5252 sayılı Türk Ceza Kanununun Yürürlük ve Uygulama Şekli Hakkında Kanun’un 9/3. maddesindeki “Lehe olan hüküm, önceki ve sonraki kanunların ilgili bütün hükümleri olaya uygulanarak, ortaya çıkan sonuçların birbirleriyle karşılaştırılması suretiyle belirlenir.” şeklindeki düzenleme karşısında, önceki ve sonraki temel ceza kanunlarının ilgili bütün hükümleri olaya uygulanarak, ortaya çıkan sonuçların birbirleriyle karşılaştırılması suretiyle lehe yasanın belirlenmesi gerektiğinin gözetilmemesinde,
+
+isabet görülmediğinden 5271 sayılı CMK’nın 309. maddesi uyarınca anılan kararın bozulması lüzumu kanun yararına bozma talebine dayanılarak ihbar olunmuştur.
+
+GEREĞİ DÜŞÜNÜLDÜ:
+
+Hükümlü hakkında Aydıntepe (Kapatılan) Asliye Ceza Mahkemesinin 21.04.2004 tarihli kararı ile TCK’nın 492/2, 522/1, 523/1, 59/2 ve 647 sayılı Kanun’un 4-6. maddeleri gereğince erteli 762.762.000 TL ağır para cezası ile mahkûmiyete hükmedildiği ve temyiz edilmeden 24.05.2004 tarihinde kesinleştiği, bilahare hükümlünün 26.09.2016 tarihli dilekçe ile adli sicil kaydının silinmesini talep etmesi nedeniyle Bayburt Asliye Ceza Mahkemesinin 03.10.2016 tarihli kararı ile söz konusu kaydın “adli sicil arşiv kayıtlarından silinmesine” karar verildiği anlaşılmış ise de; atılı suçun elektrik enerjisi hırsızlığına ilişkin olması nedeniyle hüküm tarihinden sonra yürürlüğe giren 6352 sayılı Yasa’nın geçici 2. maddesinin 2. fıkrası uyarınca mahkemesince uyarlama yapılması gerekeceği, karşılıksız yararlanma olarak 5237 sayılı Yasa’nın 163/3. maddesi kapsamına alınan suçun, 6352 sayılı Yasa’nın yürürlüğe girmesinden önce işlenmiş olması ve dosya kapsamına göre zararı tazmin ettiği anlaşılan hükümlü hakkında ceza verilmesine yer olmadığına karar verilmesi gerekeceği hususu da belirlenmiş olup, bu yönden de kanun yararına bozma isteminde bulunulup bulunulmayacağının takdiri için dosyanın Adalet Bakanlığına sunulmak üzere Yargıtay Cumhuriyet Başsavcılığına GÖNDERİLMESİNE, 14.03.2018 tarihinde oybirliğiyle karar verildi.
+
+YARGITAY 2. CEZA DAİRESİ
+Esas: 2017/6111 Karar: 2018/265Tarih: 25.01.2018
+
+TCK 163. Madde
+
+Karşılıksız Yararlanma Suçu
+
+Katılan sıfatını alabilecek surette suçtan zarar görmüş bulunan ve 5271 sayılı CMK’nın 260/1. madde ve fıkrası uyarınca hükmü katılan olarak da temyize hakkı bulunduğu belirlenen müşteki kurum vekilinin açılan kamu davasına katılma istemi ilk derece mahkemesince karara bağlanmamış olması nedeniyle; 5271 sayılı CMK’nın 237/2. maddesi gereğince suçtan zarar gören müşteki kurumun davaya katılmasına karar verilerek yapılan incelemede;
+
+Sanığın eylemine uyan 5237 sayılı TCK’nın 163/3. maddesindeki karşılıksız yararlanma suçu için öngörülen cezanın türü ve üst sınırına göre, aynı Kanun’un 66/1-e maddesinde belirtilen 8 yıllık asli dava zamanaşımının, 02/11/2009 tarihli mahkumiyet hükmünden inceleme tarihine kadar geçmiş bulunması,
+
+Bozmayı gerektirmiş, katılan vekilinin temyiz itirazları bu bakımdan yerinde görülmüş olduğundan, hükmün açıklanan nedenle BOZULMASINA, bozma nedeni yeniden yargılama yapılmasını gerektirmediğinden, 5320 sayılı Kanun’un 8. maddesi uyarınca halen yürürlükte bulunan, 1412 sayılı CMUK’nın 322. maddesinin verdiği yetkiye dayanılarak, sanık hakkında açılan kamu davasının 5271 sayılı CMK’nın 223/8. maddesi gereğince zamanaşımı nedeniyle DÜŞÜRÜLMESİNE, 25/01/2018 gününde oybirliğiyle karar verildi.
+
+YARGITAY 19. CEZA DAİRESİ
+Esas: 2015/173 Karar: 2015/390Tarih: 16.04.2015
+
+TCK 163. Madde
+
+Karşılıksız Yararlanma Suçu
+
+Dosya kapsamına göre, muterizin ikamet ettiği evinde kaçak elektrik kullanmak şeklinde kabul edilen eyleminden dolayı, Dicle Elektrik Dağıtım Müessesesince kaçak kullanım bedeli tahakkuk ettirilmiş, muteriz tarafından yapılan itiraz üzerine, incelemeyi yapan Hani Sulh Ceza Mahkemesi tarafından, dosyada mevcut delillerin cezanın haklılığına yeter mahiyette olmadığından bahisle başvurunun kabulüne karar verilmiş ise de, somut olayda Dicle Elektrik Dağıtım Müessesesince muteriz hakkında kaçak elektrik kullanım bedeli tahakkuk ettirilmesine ve tahsiline karar verildiği, muteriz hakkında verilmiş bir idari para cezası bulunmadığı, tahakkuk ettirilen kaçak elektrik bedeline ilişkin ödeme emrine karşı ilgili kuruma itirazda bulunulması gerektiği gözetilmeden, itirazın bu yönden reddi yerine, işin esasına girilerek kabulüne karar verilmesinde isabet görülmediği gerekçesiyle 5271 sayılı Ceza Muhakemesi Kanunu’nun 309. maddesi uyarınca anılan kararın kanun yararına bozulması isteminde bulunulmakla gereği görüşülüp düşünüldü;
+
+Sonuç: Abonelik esasına göre yararlanılabilinen elektrik enerjisinin sahibinin rızası olmaksızın ve tüketim miktarının belirlenmesini engelleyecek şekilde tüketilmesi eyleminin 5237 sayılı TCK’nın 163/3. maddesinde yazılı suçu oluşturacağı, zararın giderilmesinin de aynı Kanunun 168/5. maddesi uyarınca etkin pişmanlık olarak değerlendirilebileceği. Enerji Piyasası Düzenleme Kurulunun 29.12.2005 tarih ve 622 sayılı kaçak ve usulsüz elektrik enerjisi kullanılması durumunda yapılacak işlemlere ilişkin usul ve esasları düzenleyen kurul kararının 1-F maddesinde itirazcının kaçak tahakkukuna ilişkin olarak son ödeme tarihine kadar kuruma itiraz edebileceğinin düzenlendiği, yine anılan Kurul tarafından çıkarılan Elektrik Piyasası Müşteri Hizmetleri Yönetmeliği’nin “Müşteri hakları ve zararların tazmini” başlıklı 33. maddesinde yer alan “ Bu Yönetmelik hükümleri uyarınca elektrik enerjisi hizmeti alan müşterilerin hakları ve zararlarının tazmini konusunda, Kanunun 11. maddesi ve 4077 sayılı Tüketicinin Korunması Hakkında Kanun hükümleri ile buna ilişkin diğer mevzuat uygulanır” şeklindeki düzenleme uyarınca tahakkuk ettirilen kaçak elektrik tüketim bedeline yönelik uyuşmazlığın anılan Yönetmelikte belirtilen mevzuat hükümlerine göre çözümlenmesinin gerektiği, mevcut olayda Kabahatler Kanunu kapsamında verilmiş bir idari para cezasının bulunmaması nedeniyle bu Kanun hükümlerinin uygulanamayacağı anlaşıldığından ve Yargıtay Cumhuriyet Başsavcılığının kanun yararına bozma istemine dayanan ihbarname içeriği bu nedenlerle yerinde görüldüğünden, Hani Sulh Ceza Mahkemesinin 14.04.2014 tarihli ve 2014/18 değişik iş sayılı kararının CMK.nın 309/4-c maddesi uyarınca aleyhe tesir etmemek üzere BOZULMASINA, 16.04.2015 tarihinde oybirliği ile, karar verildi.
+
+YARGITAY 15. CEZA DAİRESİ
+Esas: 2012/17363 Karar: 2014/9913Tarih: 20.05.2014
+
+TCK 163. Madde
+
+Karşılıksız Yararlanma Suçu
+
+Dolandırıcılık suçunun oluşabilmesi için; failin bir kimseyi, kandırabilecek nitelikte hileli davranışlarla hataya düşürüp, onun veya başkasının zararına, kendisine veya başkasına yarar sağlaması gerekmektedir. Hile nitelikli bir yalandır. Fail tarafından yapılan hileli davranış belli oranda ağır, yoğun ve ustaca olmalı, sergileniş açısından mağdurun inceleme olanağını ortadan kaldıracak nitelikte bir takım hareketler olmalıdır. Kullanılan hileli davranışlarla mağdur yanılgıya düşürülmeli ve bu yanıltma sonucu yalanlara inanan mağdur tarafından sanık veya bir başkasına haksız çıkar sağlanmalıdır. Hilenin kandırıcı nitelikte olup olmadığı olaysal olarak değerlendirilmeli, olayın özelliği, fiille olan ilişkisi, mağdurun durumu, kullanılmışsa gizlenen veya değiştirilen belgenin nitelikleri ayrı ayrı nazara alınmalıdır.
+
+Suça sürüklenen çocuğun, yanında 9-10 yaşlarında olan açık kimliği tespit edilemeyen kız çocuğu ile birlikte müştekiye ait iddia bayinin önüne geldikleri, bu sırada kimliği tespit edilemeyen erkek bir şahsın aracı ile iddia bayinin önüne geldiği ve aracının içinden müştekiye oynamak için kupon uzattığı, müştekinin bu şahısla ilgilenmesini fırsat bilen suça sürüklenen çocuğun, yanında kız çocuğu ile birlikte iddia bayiinin önüne gelerek önceden hazırlanmış 3900 TL değerindeki kuponları makineye atarak oynadığı, sonrasında kapıdan çıkmaya çalıştığı, yakalanacağını anlayınca kuponu yanındaki kız çocuğuna vererek kaçmasını sağladığı, müştekinin suça sürüklenen çocuğu yakalayarak polise teslim ettiği, suça sürüklenen çocuğun bu şekilde üzerine atılı suçu işlediğinin iddia edildiği olayda; aracıyla gelip müştekiye kupon uzatan erkek şahsın, suça sürüklenen çocuk ile kız arkadaşına yardım ettiğine dair delil elde edilememiş ve müştekiye karşı hileli davranış sergilenmemiş olması karşısında, suça sürüklenen çocuğun iddia bayii olan müştekiye ait otomatik iddia oynama hizmeti veren ve bedeli ödenmek suretiyle yararlanması gereken iddia oyun makinasından, bedelsiz olarak yararlanmak olarak gerçekleşen eyleminin TCK’nın 163. maddesinde yazılı karşılıksız yararlanma suçunu oluşturduğu gözetilmeden, suç vasfında yanılgıya düşülerek yazılı şekilde dolandırıcılık suçundan mahkumiyetine hükmolunması,
+
+Sonuç: Bozmayı gerektirmiş olup, suça sürüklenen çocuk müdafinin temyiz itirazları bu itibarla yerinde görülmüş olduğundan, hükmün bu nedenle, 5320 sayılı Kanunun 8/1. maddesi gereğince uygulanması gereken 1412 sayılı CMUK’nın 321. maddesi uyarınca BOZULMASINA, CMK’nın 326/son maddesi gereğince ceza miktarı bakımından kazanılmış haklarının saklı tutulmasına, 20.05.2014 tarihinde oybirliğiyle, karar verildi.
+
+UYARI

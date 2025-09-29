@@ -1,0 +1,207 @@
+Sürelerin Hesaplanması
+
+CMK Madde 39
+
+CMK Madde 39 Gerekçesi
+
+CMK 39 (Sürelerin Hesaplanması ) Emsal Yargıtay Kararları
+
+(1) Gün ile belirlenen süreler, tebligatın yapıldığının ertesi günü işlemeye başlar.
+
+(2) Süre, hafta olarak belirlenmiş ise, tebligatın yapıldığı günün, son haftada isim itibarıyla karşılığı olan günün mesai saati bitiminde sona erer.
+
+(3) Süre, ay olarak belirlenmiş ise tebligatın yapıldığı günün, son ayda sayı itibarıyla karşılığı olan günün mesai saati bitiminde sona erer. Son bulduğu ayda sayı itibarıyla karşılığı olan gün yoksa; süre, ayın son günü mesai saati bitiminde sona erer.
+
+(4) Son gün bir tatile rastlarsa süre, tatilin ertesi günü biter.
+
+Madde, sürelerin başlayacağı günü göstermektedir. Buna göre, Tebligat Kanununa göre yapılacak tebligattan sonra süre, tebligatın yapıldığının ertesi günü başlayacaktır.
+
+Madde, hafta veya ay olarak belirlenmiş sürelerin ne zaman sona ereceğini göstermektedir: Hafta olarak belirlenen süreler, takip eden hafta veya haftaların, sürenin işlemeye başladığı günün isim itibarıyla karşılığı olan günde sona erecektir. Ay itibarıyla belirlenen süreler ise izleyen ay veya aylarda sayı itibarıyla karşılığı olan günde, sürenin son bulduğu ayda o sayıda gün yoksa, örneğin sürenin işlemeye başladığı ay 31 gün ise, izleyen ay veya ayların son gününde sona erecektir. Ancak son gün bir tatile rastlarsa süre, tatilin ertesi günü yani tatilin bittiği günün ertesi günü sona erecektir.
+
+Ülkemizde, kanunlarla belirli olan tatil günleri dışında, bazen “idarî izin” de verilmektedir. Maddenin ikinci fıkrasında yer alan hüküm, bu tür izinleri de kapsamaktadır.
+
+Yargıtay 8. Ceza Dairesi         2022/4903 E.  ,  2022/17520 K.
+
+Sanığın yokluğunda kurulan hükmün kendisine, hükümlü olarak bulunduğu cezaevinde 08.07.2022 tarihinde tebliğ edildiği, temyiz süresinin son gününün resmi tatil olan 15 Temmuz Demokrasi ve Milli Birlik Gününe, devam eden günlerin ise haftasonu tatili olan cumartesi ve pazar günlerine denk geldiği, sanığın tatilin ertesi günü 18.07.2022 tarihinde temyiz talebinde bulunduğu, 5271 sayılı CMK’nın 39/4. maddesinin, son gün bir tatile rastlarsa süre, tatilin ertesi günü biter, açık hükmü gereği temyiz talebinin süresinde olduğu görülmekle yapılan incelemede;
+
+Bozma üzerine yapılan yargılamaya, dosya içeriğine, toplanıp karar yerinde gösterilen ve değerlendirilen delillere, oluşa ve mahkemenin soruşturma sonucunda oluşan inanç ve takdirine, suçun oluşumuna ve niteliğine uygun kabul ve uygulamasına, hukuka uygun, yasal ve yeterli olarak açıklanan gerekçeye göre, sanığın firar etmediğine, kendiliğinden denetim yerine gittiğine, akıl sağlığının yerinde olmadığına, hakkında lehe hükümlerin uygulanmadığına dair temyiz itirazlarının reddiyle hükmün ONANMASINA, 23.11.2022 gününde oybirliğiyle karar verildi.
+
+Yargıtay 8. Ceza Dairesi         2020/16571 E.  ,  2022/17623 K.
+
+Yargıtay Ceza Genel Kurulunun 22.06.2010 tarih, 2010/1-119 Esas ve 2010/155 Karar sayılı ilamında da belirtildiği üzere; 5271 sayılı CMK’nın 39/2. maddesinde; “süre hafta olarak belirlenmişse, tebligatın yapıldığı günün son haftada isim itibarıyla karşılığı olan günün mesai bitiminde sona erer”, aynı maddenin 4. fıkrasında ise; “son günün tatile rastlaması durumunda sürenin, tatilin ertesi günü sona ereceği” hükme bağlanmıştır. Ulusal Bayram ve Genel Tatiller Hakkındaki 2429 sayılı Kanun’un 2/B-1.maddesi; “Ramazan Bayramı; Arefe günü saat 13.00’ten itibaren 3,5 gündür” şeklindedir.
+
+Bu bilgiler ışığında somut olay değerlendirildiğinde; hükmün sanığın yüzüne karşı 30.06.2016 tarihinde verildiği, temyiz süresinin son gününün 08.07.2016 Cuma günü olduğu, bu günün Başbakanlığın Genelgesi uyarınca hizmetlerin aksamaması açısından gerekli tedbirin alınması ve asgari seviyede personelin bulundurulması kaydıyla tam gün idari izin günü olarak belirlendiği anlaşılmış ise de, idari izin günlerinin resmi tatil olmaması nedeniyle süreler ve bu bağlamda temyiz süresi işlemeye devam ettiğinden, CMUK’nın 310. maddesinde belirtilen bir haftalık yasal süreden sonra 11.07.2016 tarihinde temyiz eden sanığın temyiz isteminin 5320 sayılı yasanın 8/1. maddesi uyarınca uygulanması gereken CMUK’nın 317. maddesi gereğince REDDİNE, 24.11.2022 gününde oybirliğiyle karar verildi.
+
+Yargıtay 10. Ceza Dairesi         2022/10084 E.  ,  2022/10560 K.
+
+CMK’nın 39. maddesine göre kesin olarak belirlenen sürelerin uzatılması veya kısaltılmasının mümkün olmadığı; ayrıca itiraz, istinaf ve temyiz süreleri hak düşürücü nitelikte olup bu sürelerin geçmesi halinde artık bu işlemlerin yeniden bir daha yapılmasının mümkün olmadığı; kabul edilmelidir.
+
+YARGITAY 12. CEZA DAİRESİ
+Esas: 2015/13501 Karar: 2017/4261Tarih: 24.05.2017
+
+CMK 39. Madde
+
+Sürelerin Hesaplanması
+
+Haberleşmenin gizliliğini ihlal suçundan sanığın beraatine dair hüküm, katılan vekili tarafından temyiz edilmekle, dosya incelenerek gereği düşünüldü:
+
+KARAR : Yargıtay Ceza Genel Kurulunun 21.01.2014 tarihli, 2013/14-742 esas, 2014/16 karar sayılı ilamında da vurgulandığı üzere; Ulusal Yargı Ağı Bilişim Sistemi ( UYAP ), Yüksek Mahkemeler de dahil olmak üzere bütün yargı organları ile birlikte adli tıp ve icra daireleri arasında bilgi alışverişinin elektronik ortama taşınması, evrakın elektronik ortamda güvenli bir şekilde depolanması, kişilere internet üzerinden hizmet verilmesi, diğer kurumlarla elektronik ortamda hızlı, etkin ve güvenilir bilgi alışverişinin sağlanması ve bu kurumlardan istenilmesi gereken bilgilerin sistem tarafından hazır edilmesi, kısaca adalet hizmetlerinin daha hızlı ve güvenilir bir şekilde yerine getirilmesi amacıyla uygulamaya konulan bir bilişim sistemi projesidir. Bu doğrultuda 5271 Sayılı Ceza Muhakemesi Kanunu’na 6352 Sayılı Kanunu’nun 95. maddesiyle eklenen “Elektronik işlemler” başlıklı 38/A maddesinin birinci fıkrasında, “Her türlü ceza muhakemesi işlemlerinde Ulusal Yargı Ağı Bilişim Sistemi ( UYAP ) kullanılır. Bu işlemlere dair her türlü veri, bilgi, belge ve karar, UYAP vasıtasıyla işlenir, kaydedilir ve saklanır.”, aynı maddenin beşinci fıkrasında, “Elektronik imzalı belgenin elle atılan imzalı belgeyle çelişmesi halinde UYAP’ta kayıtlı olan güvenli elektronik imzalı belge geçerli kabul edilir.” şeklindeki düzenlemeler ile Ulusal Yargı Ağı Bilişim Sisteminin işlevi ve kullanılacağı alanlar tanımlanmıştır. Ayrıca, anılan maddenin dokuzuncu fıkrasındaki, “Elektronik ortamda yapılan işlemlerde süre gün sonunda biter.” hükmü ile 5271 Sayılı Ceza Muhakemesi Kanunu’nun 39. maddesinde belirtilen sürelerin mesai saati bitiminde sona ereceği kuralına bir istisna getirilmiştir. Buna göre UYAP üzerinden elektronik imza ile yapılan işlemler yönünden sürelerin bitimi, sürenin sona ereceği günün sonu olarak belirlenmiştir.
+
+Bu açıklamalar ışığında incelenen dosyada; katılan vekilinin yokluğunda 18.09.2014 tarihinde verilen ve 09.10.2014 tarihinde tebliğ olunan hükme yönelik, katılan vekili tarafından, 16.10.2014 tarihinde saat 19.41’de elektronik imza ile imzalanarak, aynı gün saat 19.42’de havale edilip, UYAP üzerinden elektronik ortamda hüküm mahkemesine gönderilen temyiz dilekçesinin, 5320 Sayılı Kanun’un 8. maddesi uyarınca halen uygulanmakta olan 1412 Sayılı 310/1. maddesinde öngörülen yasal bir haftalık süre içerisinde verildiği anlaşıldığından, fiziki evrak üzerinde bulunan 17.10.2014 tarihli yazı işleri müdürünün havalesi nazara alınarak katılan vekilinin temyiz isteminin süre yönünden reddine karar verilmesi gerektiğine dair tebliğnamedeki görüşe iştirak edilmemiştir.
+
+SONUÇ : Yapılan yargılama sonunda, yüklenen suçun sanık tarafından işlendiğinin sabit olmadığı gerekçeleri gösterilerek mahkemece kabul ve takdir kılınmış olduğundan, katılan vekilinin yerel mahkemeye gönderdiği mazaret dilekçesi ile ilgili bir karar verilmemesinden dolayı iddia hakkında beyanda bulunma haklarının kısıtlandığına, sanığa yüklenen suçun sübut bulduğuna dair temyiz itirazlarının reddiyle, beraate dair hükmün isteme aykırı olarak ONANMASINA, 24.05.2017 tarihinde oy birliğiyle karar verildi.
+
+YARGITAY 3. CEZA DAİRESİ
+Esas: 2013/30929 Karar: 2014/1898Tarih: 22.01.2014
+
+CMK 39. Madde
+
+Sürelerin Hesaplanması
+
+Karar: 5271 sayılı CMK’nin 39/son maddesi uyarınca kanunda belirtilen sürelerin son gününün tatile rastlaması halinde sürenin tatilin ertesi günü biteceğinin açıkça hüküm altına alındığı, buna göre 20.11.2009 tarihinde tefhim edilen karara yönelik temyiz süresinin sona erdiği 27.11.2009 tarihinin resmi bayram tatil olması nedeniyle temyiz süresinin 01.12.2009 tarihinde dolacağı anlaşılmakla, katılan vekilinin yaptığı temyiz başvurusunun 1412 sayılı 310. maddesine göre süresinde yapıldığı kabul edilerek yapılan incelemede;
+
+Dosya içeriğine, sanıkların savunmalarına, tanıklar beyanlarına, katılanın soruşturma ve kovuşturma aşamalarındaki istikrarlı ifadelerine, bu ifadeleri doğrulayan Fethiye Devlet Hastanesi tarafından düzenlenmiş 30.07.2007 tarihli adli rapor içeriğine göre, sanıkların üzerine atılı yaralama suçu sabit olduğu gözetilmeden, mahkumiyet yerine dosya içeriğine uymayan gerekçe ile beraat kararı verilmesi,
+
+Sonuç: Bozmayı gerektirmiş, katılan vekilinin temyiz itirazları bu itibarla yerinde görülmüş olduğundan hükmün 5320 sayılı Yasanın 8/1. maddesi ile yürürlükte bulunan 1412 sayılı 321. maddesi uyarınca isteme aykırı BOZULMASINA, 22.01.2014 gününde oy birliği ile, karar verildi.
+
+YARGITAY 11. CEZA DAİRESİ
+Esas: 2011/28399 Karar: 2013/711Tarih: 16.01.2013
+
+CMK 39. Madde
+
+Sürelerin Hesaplanması
+
+Adalet Bakanlığı Ceza İşleri Genel Müdürlüğünün 18.10.2012 gün ve 2012/16060/59628 sayılı kanun yararına bozmaya atfen Yargıtay Cumhuriyet Başsavcılığınca düzenlenen 13.11.2012 gün ve KYB. 2012/276825 sayılı ihbarnamesiyle;
+
+Özel belgede sahtecilik suçundan şüpheli Enver hakkında yapılan soruşturma evresi sonucunda Sultanbeyli Cumhuriyet Başsavcılığınca verilen 09.04.2012 tarihli ve 2012/807 soruşturma, 2012/1548 sayılı kovuşturmaya yer olmadığına dair karara karsı yapılan itirazın reddine ilişkin mercii Kadıköy 3. Ağır Ceza Mahkemesinin 22.05.2012 tarihli ve 2012/892 değişik iş sayılı kararını kapsayan dosyanın incelenmesinde;
+
+5271 sayılı Ceza Muhakemesi Kanunu’nun 39/4. maddesine göre, son günün tatile rastlaması halinde, sürenin tatilin ertesi günü biteceğinin belirtilmesi karşısında, şüpheli hakkında Sultanbeyli Cumhuriyet Başsavcılığınca verilen 09.04.2012 tarihli kovuşturmaya yer olmadığına dair kararın, 20.04.2012 tarihinde müşteki Hasan’a tebliğ edildiği, 15 günlük itiraz süresinin son gününün 05.05.2012 Cumartesi tatil gününe rastlaması sebebiyle, müşteki vekili tarafından 07.05.2012 tarihli dilekçe ile Kadıköy Nöbetçi Ağır Ceza Mahkemesi Başkanlığına gönderilmek üzere Kadıköy Cumhuriyet Başsavcılığına yapılan itirazın süresinde olduğu gözetilmeden, itirazın esastan incelenmesi yerine, yazılı şekilde reddine karar verilmesinde isabet görülmediğinden bahisle 5271 sayılı Ceza Muhakemesi Kanunu’nun 309. maddesi uyarınca, anılan kararın bozulması istemiyle dairemize gönderilen dosya incelenerek gereği görüşüldü:
+
+5271 sayılı CMK.nın 173. maddesinin birinci fıkrası; “suçtan zarar gören, kovuşturmaya yer olmadığına dair kararın kendisine tebliğ edildiği tarihten itibaren 15 gün içinde, bu kararı veren Cumhuriyet Savcısının yargı çevresinde görev yaptığı ağır ceza mahkemesine en yakın ağır ceza mahkemesine itiraz edebilir” biçiminde olup, suçtan zarar görene kovuşturmaya yer olmadığına ilişkin kararın tebliğinden itibaren 15 gün içinde itiraz hakkı tanınmıştır.
+
+Aynı Yasanın “sürelerin hesaplanması” başlıklı 39. maddesi ise “ ( 1 ) Gün ile belirlenen süreler, tebligatın yapıldığının ertesi günü işlemeye başlar.
+
+( 2 ) Süre, hafta olarak belirlenmiş ise, tebligatın yapıldığı günün, son haftada isim itibarıyla karşılığı olan günün mesai saati bitiminde sona erer.
+
+( 3 ) Süre, ay olarak belirlenmiş ise tebligatın yapıldığı günün, son ayda sayı itibarıyla karşılığı olan günün mesai saati bitiminde sona erer. Son bulduğu ayda sayı itibarıyla karşılığı olan gün yoksa; süre, ayın son günü mesai saati bitiminde sona erer. ( 4 ) Son gün bir tatile rastlarsa süre, tatilin ertesi günü biter” biçiminde düzenlenmiş olup, gün ile belirlenen sürelerin, tebliğin yapıldığı tarihin ertesi gününden itibaren işlemeye başlayacağı ve son günün resmi tatile isabet etmesi durumunda sürenin tatilin ertesi günü sona ereceği hüküm altına alınmıştır.
+
+SONUÇ : İncelenen dosya içeriğine göre; Sultanbeyli Cumhuriyet Başsavcılığınca verilen 09.04.2012 günlü kovuşturmaya yer olmadığına dair kararın 20.04.2012 tarihinde şikayetçiye tebliğini müteakip, CMK.nın 173. maddesinin 1. fıkrasında belirtilen 15 günlük yasal sürenin son gününün resmi tatile isabet etmesi nedeniyle aynı Yasanın 39. maddesi uyarınca sürenin, resmi tatilin ertesi günü olan 07.05.2012 tarihine kadar uzadığı ve 07.05.2012 havale tarihli dilekçeyle süresinde itiraz edildiği cihetle; kanun yararına atfen düzenlenen ihbarnamedeki düşünce yerinde bulunduğundan, Sultanbeyli Cumhuriyet Başsavcılığınca verilen 09.04.2012 gün ve 2012/807 soruşturma, 2012/1548 sayılı kovuşturmaya yer olmadığına dair karara yönelik itirazın süre yönünden reddine ilişkin merci Kadıköy 3. Ağır Ceza Mahkemesinin 22.05.2012 gün ve 2012/892 değişik iş sayılı CMK.nın 309. maddesi uyarınca ( BOZULMASINA ), müteakip işlemlerin mahallinde takdir ve ifasına, dosyanın Yargıtay Cumhuriyet Başsavcılığına ( TEVDİİNE ), 16.01.2013 gününde oy birliğiyle karar verildi.
+
+YARGITAY CEZA GENEL KURULU
+Esas: 2011/2-234 Karar: 2011/253Tarih: 06.12.2011
+
+CMK 39. Madde
+
+Sürelerin Hesaplanması
+
+Sanık D. Y.’ın, kasten yaralama suçundan 5237 Sayılı 86/2 ve uyarınca 4 ay hapis, silahla kasten yaralama suçundan 86/2-3, uyarınca 6 ay hapis, hakaret suçundan da 125/1 ve uyarınca 3 ay hapis cezasıyla cezalandırılmasına, zoralıma ve hak yoksunluğuna ilişkin, Polatlı Sulh Ceza Mahkemesince verilen 16.10.2008 gün ve 292-303 Sayılı hüküm sanık tarafından temyiz edilmekle, dosyayı inceleyen Yargıtay 2. Ceza Dairesince 26.1.2011 gün ve 29995-1098 sayı ile;
+
+“… 16.10.2008 tarihli hükmü 4.12.2008 günü tebellüğ eden sanığın, yasal bir haftalık temyiz süresinden sonra 12.12.2008 tarihli süresinde olmayan temyiz isteminin İ4İ2 Sayılı C.M.U.K. nun uyarınca reddine…”,
+
+Karar verilmiştir, Yargıtay Cumhuriyet Başsavcılığınca 17.08.2011 gün ve 232089 sayı ile;
+
+“… Hükmün sanığın yokluğunda verildiği, gerekçeli kararın sanığa 04.12.2008 günü tebliğ edıldiği, sanığın ise hükmü 12.12.2008 tarihinde temyiz ettiği görülmektedir.
+
+Yapılan incelemede tebliğden sonra 1 haftalık temyiz süresinin son günü olan 11.12.2008 tarihinin yasal tatil günü olan Kurban Bayramının 4. gününe denk geldiği anlaşılmaktadır.
+
+Bu durumda yasal temyiz süresi tatil gününden bir gün sonrasına sarkar. Dolayısıyla sanığın temyiz istemi süresinde gerçekleşmiştir, Yargıtay kararı bu yönüyle yasaya aykırıdır…”,
+
+Görüşüyle itiraz yasa yoluna başvurularak, Özel Dairenin temyizin reddi kararının kaldırılmasına karar verilmesi isteminde bulunulmuştur.
+
+Yargıtay Birinci Başkanlığına gönderilen dosya, Ceza Genel Kurulunca değerlendirilmiş ve açıklanan gerekçelerle karara bağlanmıştır:
+
+KARAR : Sanığın kasten yaralama ve hakaret suçlarından cezalandırılmasına karar verilen somut olayda. Özel Daireyle Yargıtay Cumhuriyet Başsavcılığı arasında oluşan ve Ceza Genel Kurulunca çözülmesi gereken uyuşmazlık; sanığın temyiz isteminin süresinde olup olmadığının belirlenmesine ilişkindir.
+
+5320 Sayılı Kanunun 8 inci maddesi uyarınca halen yürürlükte bulunan 1412 Sayılı cyuy’nın 310. maddesinin 1 inci fıkras 1 inci fıkrası uyarınca; temyiz talebi, hükmün tefhiminden bir hafta içinde hükmü veren mahkemeye bir dilekçe verilmesi veya zabıt katibine yapılacak beyanla olur, beyan tutanağa geçirilir ve tutanak hakime tasdik ettirilir. Anılan Yasa maddesinin 2 nci fıkrası uyarınca da hükmün tefhimi sanığın yokluğunda olmuşsa, bu süre tebliğ tarihinden başlar.
+
+2429 Sayılı Ulusal Bayram ve Genel Tatiller Hakkında Kanunun 2 nci maddesinin ilk cümlesinde de, genel tatil günlerinden birisi olduğu açıkça ifade edilen kurban bayramı tatili, aynı Kanunun B/2 paragraf ve bendine göre; arefe günü saat 13.00’ten itibaren dört buçuk gündür.
+
+01 Haziran 2005 tarihinde yürürlüğe giren 5271 Sayılı Ceza Yargılaması Yasasının 39 uncu maddesinde;
+
+“1-) Gün ile belirlenen süreler, tebligatın yapıldığının ertesi günü işlemeye başlar.
+
+2-) Süre, hafta olarak belirlenmiş ise, tebligatın yapıldığı günün, son haftada isim itibarıyla karşılığı olan günün mesai saati bitiminde sona erer.
+
+3-) Süre, ay olarak belirlenmiş ise tebligatın yapıldığı günün, son ayda sayı itibarıyla karşılığı olan günün mesai saati bitiminde sona erer. Son bulduğu ayda sayı itibarıyla karşılığı olan gün yoksa süre, ayın son günü mesai saati bitiminde sona erer.
+
+4-) Son gün bir tatile rastlarsa süre, tatilin ertesi günü biter” hükmüne yer verilmiştir. Bu bilgiler ışığında somut olay değerlendirildiğinde;
+
+Sanığın 16.10.2008 tarihli yerel mahkeme hükmünü, 04.12.2008 tarihinde tebellüğ ettiği ve 12.12.2008 günü temyiz ettiği, temyizin son günü olan 11.12.2008 tarihinin Kurban Bayramının 4. gününe rastlaması nedeniyle, 1412 Sayılı C.Y.U.Y.’nın 310. maddesinde öngörülen bir haftalık yasal sürenin, 5271 Sayılı C.M.K. nın 39/4 üncü maddesi uyarınca 12.12.2008 günü sona erdiği, dolayısıyla 12.12.2008 günü gerçekleşen temyizin de süresinde olduğu görülmektedir.
+
+Bu itibarla, Yargıtay Cumhuriyet Başsavcılığı itirazının kabulüyle sanığın temyiz isteminin reddine dair Özel Dairece verilen kararın kaldırılmasına ve dosyanın temyiz incelemesi yapılmak üzere Yargıtay 2. Ceza Dairesine gönderilmesine karar verilmelidir.
+
+SONUÇ : Açıklanan nedenlerle;
+
+1-) Yargıtay Cumhuriyet Başsavcılığı itirazının kabulüne,
+
+2-) Yargıtay 2. Ceza Dairesinin 26.01.2011 gün ve 29995-1098 Sayılı temyizin reddi kararının kaldırılmasına,
+
+3-) Dosyanın temyiz incelemesi yapılması için Yargıtay 2. Ceza Dairesine gönderilmek üzere Yargıtay Cumhuriyet Başsavcılığına tevdiine, 06.12.2011 tarihinde yapılan müzakerede oy birliğiyle karar verildi.
+
+YARGITAY CEZA GENEL KURULU
+Esas: 2010/9-120 Karar: 2010/137Tarih: 08.06.2010
+
+CMK 39. Madde
+
+Sürelerin Hesaplanması
+
+Sanık Ş… S…‘ın, tehdit suçundan beraatına, sanık hakkında hakaret ve mala zarar verme suçlarından açılan kamu davalarının şikayetten vazgeçme nedeniyle 765 sayılı TCY’nın uyarınca düşmesine, sarhoşluk kabahatinden ise 5236 sayılı Yasanın 35. maddesi uyarınca 50 YTL idari para cezası ile cezalandırılmasına ilişkin, Samsun 3. Asliye Ceza Mahkemesince verilen 28.11.2006 gün ve 558-814 sayılı hükmün, sanık tarafından 04.01.2007 tarihinde temyiz edilmesi üzerine, dosyayı inceleyen Yargıtay 9. Ceza Dairesince 07.04.2010 gün ve 10559-3984 sayı ile; “Sanığın süreden sonra olan temyiz isteminin 317. maddesi uyarınca reddine” karar verilmiştir.
+
+Yargıtay C.Başsavcılığınca 24.05.2010 gün ve 45705 sayı ile;
+
+“… Sanığın yokluğunda verilen hükmün, sanığa 25.12.2006 tarihinde tebliğ edildiği ve sanık tarafından 04.01.2007 tarihinde temyiz edildiği, 1 haftalık temyiz süresinin son günü olan 01.01.2007 tarihinin, resmi tatil olan kurban bayramına isabet etmesi nedeniyle bayram sonu 04.01.2007 tarihinde yapılan temyizin süresinde olduğu, dolayısıyla Yargıtay 9. Ceza Dairesinin 07.04.2010 tarih ve 10559-3984 sayılı temyiz isteminin reddine dair kararının yerinde olmadığı” gerekçesi ile itiraz yasa yoluna başvurularak, Özel Daire kararının kaldırılmasına ve dosyanın temyiz incelemesi yapılması için Özel Daireye gönderilmesine karar verilmesi isteminde bulunulmuştur.
+
+Dosya Yargıtay Birinci Başkanlığına gönderilmekle, Ceza Genel Kurulunca değerlendirilmiş ve açıklanan gerekçelerle karara bağlanmıştır:
+
+KARAR : Sanık Şükrü Sağlam’ın, 27.12.2004 tarihinde, sarhoşluğun etkisiyle ayrı yaşadığı eşi Gülten Sağlam’ı tehdit ettiği, ona yönelik olarak hakarette bulunduğu ve mala zarar verdiği iddiasıyla açılan kamu davalarının yapılan yargılaması sonunda, sanığın tehdit suçundan beraatına, sanık hakkında hakaret ve mala zarar verme suçlarından açılmış bulunan kamu davalarının şikayetten vazgeçme nedeniyle düşürülmesine, sarhoşluk kabahatinden ise 50 YTL idari para cezasıyla cezalandırılmasına karar verildiği olayda; Özel Daire ile Yargıtay Cumhuriyet Başsavcılığı arasındaki uyuşmazlık, hükmün sanık tarafından süresi içerisinde temyiz edilip edilmediğinin belirlenmesine ilişkindir.
+
+Dosya incelendiğinde;
+
+Yerel mahkemece 28.11.2006 tarihinde gıyapta tefhim edilen hükmün, sanığa 25.12.2006 tarihinde tebliğ edildiği,
+
+Sanığın, 28.12.2006 tarihinde postaya verdiği temyiz dilekçesinin ise mahkemeye 04.01.2007 tarihinde ulaşıp bu tarihte havale edilerek temyiz defterine kaydedildiği,
+
+Görülmektedir.
+
+Yargıtay’ın duraksamasız içtihatlarına göre, temyiz yoluna posta marifetiyle gönderilen bir dilekçe ile de başvurulması olanaklı ise de, temyiz tarihi dilekçenin postaya verildiği tarih değil, mahkemeye ulaştığı tarihtir.
+
+Buna göre, incelenmesi gereken husus; dilekçenin mahkemeye ulaştığı 04.01.2007 tarihi itibarıyla temyiz süresinin dolup dolmadığıyla ilgilidir.
+
+Yapılan incelemede, 30.12.2006 tarihinin kurban bayramı arefesi, 31.12.2006 tarihinin kurban bayramının 1. günü, dolayısıyla 03.01.2007 tarihinin de kurban bayramının 4. günü olduğu anlaşılmaktadır.
+
+5320 sayılı Yasanın 8. maddesi uyarınca halen yürürlükte bulunan 1412 sayılı CYUY’nın 310. maddesinin 1. fıkras 1. fıkrası uyarınca; temyiz talebi hükmün tefhiminden bir hafta içinde hükmü veren mahkemeye bir dilekçe verilmesi veya zabıt katibine yapılacak beyanla olur, beyan tutanağa geçirilir ve tutanak hakime tastik ettirilir, 2. fıkra uyarınca da hükmün tefhimi sanığın yokluğunda olmuşsa, bu süre tebliğ tarihinden başlar.
+
+2429 sayılı Ulusal Bayram ve Genel Tatiller Hakkında Kanun’un 2. maddesinin ilk cümlesinde genel tatil günlerinden birisi olduğu açıkça ifade edilen kurban bayramı, aynı Yasanın B/2 paragraf ve bendine göre; arefe günü saat 13.00’ten itibaren dört buçuk gündür.
+
+5271 sayılı CYY’nın 39. maddesinin 4. fıkras 4. fıkrasında da, son günün bir tatile rastlaması durumunda sürenin tatilin ertesi günü biteceği düzenlenmiştir.
+
+Tüm bu yasal düzenlemeler birlikte değerlendirildiğinde; yokluğunda tefhim edilen hükmün, sanığa 25.12.2006 tarihinde tebliğ edildiği somut olayda, bir haftalık temyiz süresinin son günü olan 01.01.2007 tarihinin resmi tatil günleri arasında sayılan kurban bayramına isabet etmesi nedeniyle, 03.01.2007 tarihinde sona eren kurban bayramının ertesi günü olan 04.01.2007 tarihinde mahkemeye ulaşan temyiz dilekçesinin süresinde verilmiş bulunduğunun kabulü gerekir.
+
+Bu itibarla, Yargıtay Cumhuriyet Başsavcılığı itirazının kabulüne, Özel Dairenin “temyiz isteminin reddine ilişkin” kararının kaldırılmasına ve dosyanın temyiz incelemesi yapılması için Özel Daireye gönderilmesine karar verilmelidir.
+
+SONUÇ : Açıklanan nedenlerle,
+
+1- Yargıtay Cumhuriyet Başsavcılığı itirazının KABULÜNE,
+
+2- Yargıtay 9. Ceza Dairesinin 07.04.2010 gün ve 10559-3984 sayılı “temyiz isteminin reddine dair” kararının KALDIRILMASINA,
+
+3- Dosyanın temyiz incelemesi yapılması için Yargıtay 9. Ceza Dairesine gönderilmek üzere Yargıtay Cumhuriyet Başsavcılığına TEVDİİNE, 08.06.2010 günü yapılan müzakerede oy birliği ile karar verildi.
+
+YARGITAY 1. HUKUK DAİRESİ
+Esas : 2015/3449 Karar : 2017/5569Tarih : 19.10.2017
+
+CMK 39. Madde
+
+Sürelerin Hesaplanması
+
+Taraflar arasında görülen davada; Davacı, eski 260 parsel sayılı taşınmazı eşi … 12/05/1992 tarihinde satın alıp üzerinde 3 katlı bina inşa ettiğini, giriş katının üstündeki 2 nolu daireyi yalnızca kullanım hakkı için davalı …’ye noterde düzenlenen satış vaadi sözleşmesi ile satmayı vaad ettiğini, aynı şekilde 4 nolu daire içinde davalı …’e satış vaadinde bulunduğunu, satış vaadi sözleşmelerinden sonra davalıların söz konusu daireleri teslim alarak kullanmaya başladıklarını, muris Hüseyin’in 2009 yılında ölmesinden sonra, davalıların söz konusu taşınmazların kendilerine satıldığını söyleyerek tapuda devir talep etmeleri üzerine davalılara 1/12’şer payı bedel almaksızın devrettiğini, kendisinin okuma yazma bilmediğini, satış vaadinin konusunun dairelerin kullanım hakkı olmasına rağmen ve murisin payını devretmeye ilişkin bir niyeti bulunmadığı halde mülkiyetin davalılara devir edildiğini,Tokinin dava konusu yer ile ilgili acele kamulaştırma davası açarak arsa ve üzerinde yer alan binaların değerlerinin ayrı ayrı bilirkişilerce tespit edildiğini, söz konusu bilirkişi raporlarının kendisine 17/07/2013 tarihinde tebliğ edildiğinde davalıların dava konusu taşınmazda arsa bedeline de malik olduklarını öğrendiğini, okuma yazma bilmemesi nedeniyle satış vaadi sözleşmesinin sonuçlarını bilmesinin kendisinden beklenemeyeceğini, hataya düştüğünü davalıların kamulaştırma bedelinden haklarından fazlasını alacaklarını ileri sürerek davalılara yaptığı 09/04/2012 tarihli satış işlemlerinin iptaline, dava konusu taşınmazın tapu kaydının adına tesciline karar verilmesini istemiştir.
+
+Davalılar, davacının miras payının ¼ olması nedeni ile tüm taşınmaz için dava açma hakkının bulunmadığını, muris ile aralarında yapılan taşınmaz satış vaadi sözleşmelerinde muris Hüseyin’in mülkiyeti devretme amacının belli olduğunu, kendilerinin dava konusu dairelerin bedelini murise ödeyip akabinde dairelerde ikamet etmeye başladıklarını, idare mahkemesince imar planının iptal edilmesi nedeniyle dava konusu taşınmazda arsa payının belirlenemediğini, gabin ve hata nedeni ile davanın 1 yıllık süre içinde açılmaması nedeniyle hak düşürücü sürenin geçtiğini belirterek davanın usulden ve esastan reddini savunmuşlardır.
+
+Mahkemece, satış tarihi ile dava tarihi arasında HMK 39/1 maddesinde belirtilen bir yıllık sürenin dolmuş olması nedeni ile davanın zamanaşımı nedeniyle reddine karar verilmiştir.
+
+Karar, davacı vekili tarafından süresinde temyiz edilmiş olmakla Tetkik Hâkimi …’ın raporu okundu, düşüncesi alındı. Dosya incelendi, gereği görüşülüp düşünüldü.
+
+Dosya içeriğine, toplanan delillere, hükmün dayandığı yasal ve hukuksal gerekçeye ve özellikle delillerin takdirinde bir isabetsizlik bulunmamasına göre; davacının temyiz itirazı yerinde değildir. Reddiyle usul ve yasaya uygun olan hükmün ONANMASINA, aşağıda yazılı 3.70.-TL bakiye onama harcının temyiz eden davacıdan alınmasına, 19.10.2017 tarihinde oybirliğiyle karar verildi.
+
+UYARI
